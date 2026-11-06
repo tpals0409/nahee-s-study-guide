@@ -67,14 +67,14 @@ svg.i { width: 24px; height: 24px; fill: none; stroke: currentColor; stroke-widt
 @media (min-width: 768px) {
 	.shell { display: grid; grid-template-columns: 208px minmax(0, 1fr); padding-bottom: 0; }
 	/* 사이드바 뒤로는 내용이 지나가지 않아서 흐림을 끈다 */
-	.nav { position: sticky; top: 0; inset: auto; height: 100dvh; display: flex; flex-direction: column; padding: var(--sp-xl) var(--sp-md); border: 0; border-right: 1px solid var(--glass-line); border-radius: 0; box-shadow: none; -webkit-backdrop-filter: none; backdrop-filter: none; }
-	.nav a, .nav-logout { border-radius: var(--r-lg); }
+	.nav { position: fixed; inset: 0 auto auto env(safe-area-inset-left, 0px); width: 208px; height: 100dvh; overflow-y: auto; overscroll-behavior-y: contain; display: flex; flex-direction: column; padding: var(--sp-xl) var(--sp-md); border: 0; border-right: 1px solid var(--glass-line); border-radius: 0; box-shadow: none; -webkit-backdrop-filter: none; backdrop-filter: none; }
+	.nav a, .nav-logout { border-radius: var(--r-lg); flex-shrink: 0; }
 	.nav .brand { display: flex; flex-direction: column; text-align: center; padding-bottom: var(--sp-xl); }
 	.nav .brand svg { width: 48px; height: 48px; }
 	.nav a, .nav-logout { display: flex; gap: var(--sp-md); padding: 0 var(--sp-lg); font-size: 16px; line-height: 24px; align-items: center; }
 	.nav-logout { margin-top: auto; flex-shrink: 0; }
-	.main { padding: calc(var(--sp-xxl) + env(safe-area-inset-top)) var(--sp-xxl) var(--sp-xxl); }
-	.nav { padding-top: calc(var(--sp-xl) + env(safe-area-inset-top)); }
+	.main { grid-column: 2; padding: calc(var(--sp-xxl) + env(safe-area-inset-top)) var(--sp-xxl) var(--sp-xxl); }
+	.nav { padding-top: calc(var(--sp-xl) + env(safe-area-inset-top)); padding-bottom: calc(var(--sp-xl) + env(safe-area-inset-bottom)); }
 	.topbrand { display: none; }
 	h1 { font-size: 36px; line-height: 54px; }
 	h2 { font-size: 22px; line-height: 33px; }
