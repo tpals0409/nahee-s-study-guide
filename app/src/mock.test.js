@@ -84,15 +84,34 @@ run(`ACTIONS['round-start']({year: '2025', subject: '민법개론'}); session.de
 assert.equal(run("session.mode"), "mock-result");
 assert.equal(run("state.log.length"), 4, "timeout grades all questions once");
 assert.ok(dialogClosed >= 2, "timeout closes submission/abandon confirmation");
-// Card cycling uses the actual click handler; reduced motion switches without rotation.
-const radarCard = { innerHTML: "", isConnected: true, setAttribute() {}, getAnimations: () => [] };
+// Card cycling waits exactly 500ms, blocks repeated taps, and releases its busy state.
+const attributes = new Map();
+const radarCard = { innerHTML: "", isConnected: true,
+  setAttribute: (k, v) => attributes.set(k, v), removeAttribute: (k) => attributes.delete(k),
+  insertAdjacentHTML: (_, html) => { radarCard.innerHTML += html; }, querySelector: () => null };
 const radarStatus = { textContent: "" };
-ctx.matchMedia = () => ({ matches: true });
+let release;
+ctx.setTimeout = (fn, delay) => { assert.equal(delay, 500); release = fn; };
 ctx.document.getElementById = (id) => id === "radar-card" ? radarCard : id === "radar-status" ? radarStatus : null;
 for (const title of ["산업재산권법", "민법개론", "자연과학개론", "전체"]) {
+  const before = run("radarIndex");
+  const pending = run("ACTIONS['radar-next']()");
+  assert.equal(attributes.get("aria-busy"), "true");
+  assert.match(radarCard.innerHTML, /radar-skeleton/);
   await run("ACTIONS['radar-next']()");
+  assert.equal(run("radarIndex"), before);
+  release();
+  await pending;
+  assert.equal(attributes.has("aria-busy"), false);
   assert.ok(radarStatus.textContent.startsWith(title));
   assert.ok(radarCard.innerHTML.includes(title));
 }
-assert.equal(run("radarFlipping"), false);
+assert.equal(run("radarLoading"), false);
+const before = run("radarIndex");
+const pending = run("ACTIONS['radar-next']()");
+radarCard.isConnected = false;
+release();
+await pending;
+assert.equal(run("radarIndex"), before, "navigation cancels the pending switch");
+assert.equal(run("radarLoading"), false);
 console.log("mock flow and radar interaction ok");

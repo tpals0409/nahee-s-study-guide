@@ -187,8 +187,8 @@ input.field, textarea.field { width: 100%; min-height: 48px; padding: var(--sp-m
 }
 
 /* 기록 */
-.radar-stage { perspective: 1200px; width: 100%; }
-.radar-card { width: 100%; max-width: 640px; margin: 0 auto; text-align: left; gap: var(--sp-md); transform-origin: center; }
+.radar-stage { width: 100%; }
+.radar-card { position: relative; width: 100%; max-width: 640px; margin: 0 auto; text-align: left; gap: var(--sp-md); transform-origin: center; }
 .radar-card:focus-visible { outline: 2px solid var(--text); outline-offset: 4px; }
 .radar-heading, .radar-footer, .radar-value { display: flex; align-items: center; justify-content: space-between; gap: var(--sp-md); }
 .radar-heading > strong { font-size: 22px; line-height: 33px; }
@@ -318,3 +318,7 @@ dialog[open]::backdrop { animation: fade var(--dur) var(--ease-out); }
 @media (prefers-reduced-motion: reduce) { *, *::before, *::after, ::backdrop { animation: none !important; transition: none !important; } }
 .choice.right:has(input:checked) { border-color: var(--success); }
 .choice.wrong:has(input:checked) { border-color: var(--danger); }
+
+.radar-card[aria-busy="true"] > :not(.radar-skeleton) { visibility: hidden; }
+.radar-skeleton { position: absolute; inset: 0; display: grid; align-content: start; gap: var(--sp-xl); padding: var(--sp-xl); border-radius: inherit; background: var(--surface); pointer-events: none; }
+.radar-skeleton-plot { display: block; width: min(64%, 240px); aspect-ratio: 1; margin: var(--sp-xl) auto; border-radius: 50%; background: var(--primarySoft); }

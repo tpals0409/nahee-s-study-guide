@@ -56,7 +56,7 @@ let byId = new Map();
 let session = null;
 let calendarMonth = null;
 let radarIndex = 0;
-let radarFlipping = false;
+let radarLoading = false;
 let selectedExamYear = null;
 
 let lastTab = null;
@@ -357,25 +357,26 @@ function radarCard() {
 	return `<section class="radar-stage" aria-label="과목별 정답률"><button class="card radar-card" id="radar-card" data-act="radar-next" aria-label="${views[radarIndex].title} 정답률, 다음 분류 보기">${radarFace(views[radarIndex], radarIndex)}</button><span class="sr" id="radar-status" role="status" aria-live="polite"></span></section>`;
 }
 
-async function flipRadar() {
+async function transitionRadar() {
 	const card = document.getElementById("radar-card");
-	if (!card || radarFlipping) return;
-	radarFlipping = true;
+	if (!card || radarLoading) return;
+	radarLoading = true;
+	card.setAttribute("aria-busy", "true");
+	card.setAttribute("aria-disabled", "true");
+	card.insertAdjacentHTML("beforeend", '<span class="radar-skeleton" aria-hidden="true"><span class="skeleton"><i></i></span><span class="radar-skeleton-plot"></span><span class="skeleton"><i></i><i></i><i></i><i></i><i></i></span></span>');
 	try {
-		if (!calm()) await card.animate([{ transform: "rotateY(0deg)" }, { transform: "rotateY(90deg)" }], { duration: 160, easing: "ease-in", fill: "forwards" }).finished;
+		await new Promise((resolve) => setTimeout(resolve, 500));
 		if (!card.isConnected) return;
 		radarIndex = (radarIndex + 1) % 4;
 		const view = radarViews(state.log, byId, today())[radarIndex];
 		card.innerHTML = radarFace(view, radarIndex);
 		card.setAttribute("aria-label", `${view.title} 정답률, 다음 분류 보기`);
 		document.getElementById("radar-status").textContent = `${view.title} 정답률, ${radarIndex + 1}/4`;
-		card.getAnimations().forEach((animation) => animation.cancel());
-		if (!calm()) await card.animate([{ transform: "rotateY(-90deg)" }, { transform: "rotateY(0deg)" }], { duration: 180, easing: "ease-out" }).finished;
-	} catch {
-		// A navigation or reduced-motion change can cancel an in-flight animation.
 	} finally {
-		card.getAnimations().forEach((animation) => animation.cancel());
-		radarFlipping = false;
+		card.removeAttribute("aria-busy");
+		card.removeAttribute("aria-disabled");
+		card.querySelector(".radar-skeleton")?.remove();
+		radarLoading = false;
 	}
 }
 
@@ -746,7 +747,7 @@ function submitMock() {
 
 /* 입력 */
 const ACTIONS = {
-	"radar-next": flipRadar,
+	"radar-next": transitionRadar,
 	"round-toggle"() {
 		setRoundOpen(document.getElementById("round-trigger").getAttribute("aria-expanded") !== "true");
 	},
