@@ -1,0 +1,16 @@
+.DS_Store
+node_modules/
+dist/
+.cloudflare/
+.env*
+.dev.vars*
+.secrets*
+*.pem
+*.key
+__pycache__/
+*.pyc
+*.log
+/raw/
+/raw_x/
+/work/
+.claude/
