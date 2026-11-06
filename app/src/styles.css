@@ -7,6 +7,10 @@ html { -webkit-text-size-adjust: 100%; -webkit-tap-highlight-color: transparent;
 body { margin: 0; overflow-x: clip; padding-inline: env(safe-area-inset-left) env(safe-area-inset-right); background: var(--surface2); color: var(--text); font: 400 16px/24px var(--font-sans); word-break: keep-all; overflow-wrap: anywhere; }
 /* iOS 는 background-attachment: fixed 를 무시해서 고정 층을 따로 둔다. 주소창이 접혀도 빈틈이 없게 lvh 를 쓴다 */
 body::before { content: ""; position: fixed; inset: 0 0 auto; z-index: -1; height: 100lvh; background: var(--wallpaper); pointer-events: none; }
+/* Installed iPad/iPhone web apps draw this color behind the system status bar. */
+@media (display-mode: standalone) {
+  body::after { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-area-inset-top, 0px); background: var(--primary); z-index: 20; pointer-events: none; }
+}
 h1, h2, h3, p { margin: 0; }
 h1 { font-size: 24px; line-height: 36px; font-weight: 700; }
 h2 { font-size: 18px; line-height: 27px; font-weight: 600; }
@@ -69,7 +73,8 @@ svg.i { width: 24px; height: 24px; fill: none; stroke: currentColor; stroke-widt
 	.nav .brand svg { width: 48px; height: 48px; }
 	.nav a, .nav-logout { display: flex; gap: var(--sp-md); padding: 0 var(--sp-lg); font-size: 16px; line-height: 24px; align-items: center; }
 	.nav-logout { margin-top: auto; flex-shrink: 0; }
-	.main { padding: var(--sp-xxl); }
+	.main { padding: calc(var(--sp-xxl) + env(safe-area-inset-top)) var(--sp-xxl) var(--sp-xxl); }
+	.nav { padding-top: calc(var(--sp-xl) + env(safe-area-inset-top)); }
 	.topbrand { display: none; }
 	h1 { font-size: 36px; line-height: 54px; }
 	h2 { font-size: 22px; line-height: 33px; }
