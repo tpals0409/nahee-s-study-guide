@@ -376,7 +376,7 @@ dialog::backdrop { background: rgb(2 2 2 / .4); }
   from { opacity: 0; transform: translateY(6px); }
   to { opacity: 1; transform: none; }
 }
-.shell.page-enter .main { animation: tab-enter 220ms ease-out both; }
+.shell.page-enter .main, .notes-parts.subject-enter { animation: tab-enter 220ms ease-out both; }
 .solve.present { animation: present var(--dur-slow) var(--ease-out) both; }
 .solve.present .cols > .card { animation: none; }
 .chart.pending .line { stroke-dashoffset: 1; }

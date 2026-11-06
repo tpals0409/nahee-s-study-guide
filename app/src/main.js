@@ -907,9 +907,10 @@ const ACTIONS = {
 	},
 	"notes-empty": () => toast("등록된 오답이 없어요"),
 	"notes-subject"(d) {
-		if (!SUBJECTS.includes(d.subject)) return;
+		if (!SUBJECTS.includes(d.subject) || d.subject === notesSubject) return;
 		notesSubject = d.subject;
 		notes();
+		document.querySelector(".notes-parts")?.classList.add("subject-enter");
 		document.querySelector('[data-act="notes-subject"][aria-pressed="true"]')?.focus({ preventScroll: true });
 	},
 	"topic-review"(d) {
