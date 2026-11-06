@@ -206,6 +206,19 @@ input.field, textarea.field { width: 100%; min-height: 48px; padding: var(--sp-m
 .radar-dots { display: flex; gap: 6px; }
 .radar-dots i { width: 6px; height: 6px; border-radius: 50%; background: var(--borderStrong); }
 .radar-dots i.on { width: 18px; border-radius: 4px; background: var(--text); }
+.radar-heading, .radar-card > .small, .radar-value, .radar-footer { animation: radar-text-reveal 320ms var(--ease-out) both; }
+.radar-card > .small { animation-delay: 45ms; }
+.radar-value:nth-child(1) { animation-delay: 100ms; }
+.radar-value:nth-child(2) { animation-delay: 145ms; }
+.radar-value:nth-child(3) { animation-delay: 190ms; }
+.radar-value:nth-child(4) { animation-delay: 235ms; }
+.radar-value:nth-child(5) { animation-delay: 280ms; }
+.radar-footer { animation-delay: 325ms; }
+.radar-label, .radar-scale { animation: fade 320ms var(--ease-out) 80ms both; }
+@keyframes radar-text-reveal {
+  from { opacity: 0; transform: translateY(8px); clip-path: inset(0 0 100% 0); }
+  to { opacity: 1; transform: translateY(0); clip-path: inset(0); }
+}
 .chart svg { width: 100%; height: auto; display: block; }
 .chart .gridline { stroke: var(--border); stroke-width: 1; }
 .chart .line { fill: none; stroke: var(--chart); stroke-width: 3; stroke-linejoin: round; stroke-linecap: round; stroke-dasharray: 1; }
