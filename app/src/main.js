@@ -63,7 +63,7 @@ let selectedExamYear = read("examYear", null);
 let notesSubject = SUBJECTS[0];
 
 let lastTab = null;
-const scrolls = {};
+history.scrollRestoration = "manual";
 const tabPaths = {};
 
 const today = () => dayKey(Date.now());
@@ -175,7 +175,6 @@ function pageMotion(key) {
 function shell(tab, body) {
 	const key = location.hash || "#home";
 	const motion = pageMotion(key);
-	if (lastTab && motion) scrolls[lastTab] = scrollY;
 	lastTab = key;
 	tabPaths[tab] = key;
 	app.innerHTML = `<div class="shell ${motion}">
@@ -187,7 +186,7 @@ function shell(tab, body) {
 		<main class="main"><header class="topbrand"><div class="brand">${icon("note")}<span>나희의 합격노트</span></div><button class="top-logout" data-act="logout">${icon("logout")}<span>로그아웃</span></button></header>${body}</main>
 	</div>`;
 	if (!motion) return;
-	scrollTo(0, motion.includes("push") ? 0 : scrolls[key] ?? 0);
+	scrollTo(0, 0);
 }
 
 function weekDots(day) {
@@ -428,7 +427,6 @@ const blank = () => ({ revealed: false, committed: false, amb: false, sheet: fal
 function start(mode, ids, title, extra = {}) {
 	if (!ids.length) return;
 	const from = location.hash || "#home";
-	scrolls[from] = scrollY;
 	history.pushState(null, "", "#solve");
 	session = { ...blank(), motion: "enter present", from, pushed: true, mode, ids, title, i: 0, orders: new Map(ids.map((id) => [id, mode === "mock" ? [0, 1, 2, 3, 4] : choiceOrder(byId.get(id))])), picks: {}, score: 0, ...extra };
 	solve();

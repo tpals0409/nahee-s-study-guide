@@ -185,3 +185,16 @@ assert.match(app.innerHTML, /최근 7일/);
 assert.match(app.innerHTML, /학습한 날/);
 assert.match(app.innerHTML, /stats-layout/);
 console.log("learning records summary and calendar ok");
+
+const scrollCalls = [];
+ctx.scrollTo = (...args) => scrollCalls.push(args);
+ctx.scrollY = 700;
+run("lastTab = '#stats'; location.hash = '#notes'; originalShell('notes', '');");
+assert.deepEqual(scrollCalls, [[0, 0]], 'switching tabs always starts at the top');
+run("location.hash = '#stats'; originalShell('stats', '');");
+assert.deepEqual(scrollCalls.at(-1), [0, 0], 'returning to a tab never restores old offset');
+const callsBeforeRefresh = scrollCalls.length;
+run("originalShell('stats', '');");
+assert.equal(scrollCalls.length, callsBeforeRefresh, 'same-page updates preserve scroll');
+assert.equal(ctx.history.scrollRestoration, 'manual');
+console.log("tab scroll reset ok");
