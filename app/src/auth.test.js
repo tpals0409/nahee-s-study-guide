@@ -8,6 +8,7 @@ const env = {
 	GOOGLE_CLIENT_ID: "client",
 	GOOGLE_CLIENT_SECRET: "secret",
 	ALLOWED_EMAIL: "Nahee@example.com",
+	ADDITIONAL_ALLOWED_EMAIL: "tpals0409dev@gmail.com",
 	AUTH_LIMIT: { limit: async () => ({ success: allowed }) },
 	STORE: {
 		get: async (k, type) => (kv.has(k) ? (type === "json" ? JSON.parse(kv.get(k)) : kv.get(k)) : null),
@@ -90,6 +91,12 @@ assert.match((await finish({ email: "other@example.com" })).location, /login=den
 assert.match((await finish({ email_verified: false })).location, /login=denied/);
 assert.equal(kv.has("owner"), false);
 
+// 추가 계정의 선행 로그인은 기존 소유자를 차지하지 않는다.
+const tester = { sub: "tester-sub", email: "TPALS0409DEV@gmail.com" };
+assert.match((await finish({ ...tester, email_verified: false })).location, /login=denied/);
+assert.equal((await finish(tester)).location, "/?login=ok");
+assert.equal(kv.has("owner"), false);
+
 // 성공하면 서버 세션이 생기고, PKCE verifier 와 비밀키는 서버에서 보낸다
 const first = await finish();
 assert.equal(first.location, "/?login=ok");
@@ -104,6 +111,11 @@ assert.ok(![...kv.keys()].some((k) => k.includes(first.session)), "세션 원문
 // 이후에는 이메일이 아니라 Google 계정 고유값으로 판단한다
 assert.match((await finish({ sub: "attacker" })).location, /login=denied/);
 assert.equal((await finish({ email: "changed@example.com" })).location, "/?login=ok");
+assert.equal((await finish(tester)).location, "/?login=ok");
+assert.equal((await finish({ ...tester, email: "tester-changed@example.com" })).location, "/?login=ok");
+assert.match((await finish({ ...tester, sub: "other-tester" })).location, /login=denied/);
+assert.match((await finish({ sub: "stranger", email: "stranger@example.com" })).location, /login=denied/);
+assert.equal(kv.get("owner"), "https://accounts.google.com|owner-sub");
 
 // 유휴·절대 만료
 {

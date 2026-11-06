@@ -15,6 +15,7 @@ export default defineConfig(() => ({
 			GOOGLE_CLIENT_ID: bindings.secret(),
 			GOOGLE_CLIENT_SECRET: bindings.secret(),
 			ALLOWED_EMAIL: bindings.secret(),
+			ADDITIONAL_ALLOWED_EMAIL: bindings.text("tpals0409dev@gmail.com"),
 			AUTH_LIMIT: bindings.rateLimit({ namespace: "1001", simple: { limit: 10, period: 60 } }),
 			ANTHROPIC_API_KEY: bindings.secret(),
 			STORE: bindings.kv(),

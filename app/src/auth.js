@@ -92,7 +92,19 @@ async function verifyIdToken(idToken, env, nonce) {
 async function isOwner(claims, env) {
 	const account = `https://accounts.google.com|${claims.sub}`;
 	const owner = await env.STORE.get("owner");
-	if (owner) return owner === account;
+	if (owner === account) return true;
+	// 추가 계정은 기존 소유자와 별도로 고정한다. 먼저 로그인해도 owner를 차지하지 않는다.
+	const extraEmail = env.ADDITIONAL_ALLOWED_EMAIL?.trim().toLowerCase();
+	if (extraEmail) {
+		const key = `allowed-account:${extraEmail}`;
+		const extraAccount = await env.STORE.get(key);
+		if (extraAccount === account) return true;
+		if (!extraAccount && claims.email_verified === true && claims.email?.toLowerCase() === extraEmail) {
+			await env.STORE.put(key, account);
+			return true;
+		}
+	}
+	if (owner) return false;
 	const allowed = claims.email_verified === true && claims.email?.toLowerCase() === env.ALLOWED_EMAIL.trim().toLowerCase();
 	if (allowed) await env.STORE.put("owner", account);
 	return allowed;
