@@ -359,10 +359,10 @@ function notesFlagged(flagged) {
 
 function radarCard() {
 	const views = radarViews(state.log, byId, today());
-	return `<section class="stats-chart" aria-labelledby="accuracy-title"><h2 id="accuracy-title">과목별 정답률</h2>
+	return `<section class="card stats-chart" aria-labelledby="accuracy-title"><h2 id="accuracy-title" class="sr">과목별 정답률</h2>
 	<div class="stats-subjects" role="group" aria-label="정답률 과목 선택">${views.map((view, i) => `<button class="chip" data-act="radar-select" data-index="${i}" aria-pressed="${i === radarIndex}">${view.title}</button>`).join("")}</div>
-	<button class="card radar-card" id="radar-card" data-act="radar-next" aria-label="${views[radarIndex].title} 정답률, 다음 분류 보기"><span class="radar-face">${radarFace(views[radarIndex], radarIndex)}</span></button>
-	<p class="small muted">반복 풀이를 포함한 정답률이에요. 실전 성적은 기출 모의고사에서 확인해 주세요.</p>
+	<button class="radar-card" id="radar-card" data-act="radar-next" aria-label="${views[radarIndex].title} 정답률, 다음 분류 보기"><span class="radar-face">${radarFace(views[radarIndex], radarIndex)}</span></button>
+	<p class="small muted">최근 7일 · 반복 풀이 포함 · 격자 한 칸은 약 33%</p>
 	<span class="sr" id="radar-status" role="status" aria-live="polite"></span></section>`;
 }
 
@@ -417,8 +417,7 @@ function statsPanel() {
 	if (statsView === "calendar") return `<section class="card stats-calendar" aria-labelledby="calendar-heading"><h2 id="calendar-heading" class="sr">학습 달력</h2><div id="calendar-body">${calendar()}</div></section>`;
 	const start = addDays(today(), -6);
 	const summary = recordSummary(state.log.filter((entry) => dayKey(entry.t) >= start && dayKey(entry.t) <= today()));
-	return `<section class="card stats-summary" aria-labelledby="week-summary"><div><h2 id="week-summary">최근 7일</h2><p class="small muted">${shortDay(start)}–${shortDay(today())}</p></div>
-	<dl class="stats-metrics"><div><dt>풀이 횟수</dt><dd>${summary.total}<span>회</span></dd></div><div><dt>정답률</dt><dd>${summary.rate}</dd></div><div><dt>학습한 날</dt><dd>${summary.days}<span>일 / 7일</span></dd></div></dl></section>
+	return `<div class="stats-summary" aria-label="최근 7일 학습 요약"><span class="summary-period">최근 7일 <span class="muted">${shortDay(start)}–${shortDay(today())}</span></span><div class="summary-inline"><span>풀이 <strong>${summary.total}회</strong></span><span>정답률 <strong>${summary.rate}</strong></span><span>학습한 날 <strong>${summary.days}일</strong></span></div></div>
 	${radarCard()}`;
 }
 
