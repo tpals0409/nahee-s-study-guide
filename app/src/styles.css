@@ -351,7 +351,11 @@ dialog::backdrop { background: rgb(2 2 2 / .4); }
 [data-count], #clock, .solve header .row > span { font-variant-numeric: tabular-nums; }
 .bar i { transition: width var(--dur-slow) var(--ease-out); }
 
-.shell.page-enter .main { animation: fade 180ms ease-out both; }
+@keyframes tab-enter {
+  from { opacity: 0; transform: translateY(6px); }
+  to { opacity: 1; transform: none; }
+}
+.shell.page-enter .main { animation: tab-enter 220ms ease-out both; }
 .solve.present { animation: present var(--dur-slow) var(--ease-out) both; }
 .solve.present .cols > .card { animation: none; }
 .chart.pending .line { stroke-dashoffset: 1; }
