@@ -443,4 +443,46 @@ dialog[open].closing::backdrop { animation: unfade 160ms ease-in both; }
 .record-detail h3 { font-size: 18px; }
 .record-subjects { display: grid; gap: 12px; }
 .record-subjects .row { flex-wrap: wrap; gap: 4px 12px; }
-@media (min-width: 1200px) { .stats-layout { grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); align-items: start; } }
+
+
+/* Show one records task at a time, with compact tablet arrangements. */
+.record-views { display: grid; grid-template-columns: 1fr 1fr; gap: 6px; padding: 6px; border-radius: var(--r-lg); background: var(--glass-bg); }
+.record-views button { min-height: 44px; border-radius: 14px; padding: 8px 16px; }
+.record-views button[aria-pressed="true"] { background: var(--surface); font-weight: 700; box-shadow: var(--card-shadow); }
+.stats-view-content { display: grid; gap: 12px; }
+.stats-chart > h2 { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); }
+@media (min-width: 768px) {
+  .page-notes, .page-stats { padding: calc(20px + env(safe-area-inset-top)) 24px calc(20px + env(safe-area-inset-bottom)); gap: 12px; }
+  .page-notes > h1, .page-stats > h1 { font-size: 28px; line-height: 40px; }
+  .notes-summary { padding: 16px 20px; gap: 12px; }
+  .notes-summary .stack { gap: 4px; }
+  .notes-summary-copy { font-size: 18px; }
+  .notes-summary h2, .notes-parts h2 { font-size: 18px; line-height: 27px; }
+  .notes-parts { padding: 16px 20px; gap: 8px; }
+  .notes-parts .list > * { padding-block: 10px; }
+  .notes-part { min-height: 54px; }
+  .notes-subject { min-height: 44px; padding-block: 8px; }
+  .stats-layout, .stats-chart { gap: 12px; }
+  .stats-summary { grid-template-columns: auto minmax(0, 1fr); align-items: center; gap: 20px; padding: 14px 20px; }
+  .stats-summary h2 { font-size: 18px; line-height: 27px; }
+  .stats-metrics { margin: 0; gap: 12px; }
+  .stats-metrics dd { margin-top: 2px; font-size: 22px; }
+  .radar-card { padding: 16px; }
+  .radar-face { grid-template-columns: minmax(0, 1.5fr) minmax(150px, 1fr); align-items: center; gap: 6px 12px; }
+  .radar-heading, .radar-face > .small, .radar-footer { grid-column: 1 / -1; }
+  .radar-card svg { grid-column: 1; width: 100%; max-width: 360px; }
+  .radar-values { grid-column: 2; min-height: 0; grid-auto-rows: minmax(36px, auto); }
+  .radar-value { flex-wrap: wrap; gap: 2px 8px; }
+  .radar-footer { padding-top: 0; }
+  .calendar .cell { height: 48px; }
+  .stats-calendar { padding: 16px 20px; gap: 8px; }
+  .calendar-content { gap: 12px; }
+  .record-detail { gap: 8px; padding-top: 12px; }
+  .record-subjects { gap: 8px; }
+}
+@media (min-width: 1000px) {
+  .calendar-content { grid-template-columns: minmax(0, 1.5fr) minmax(200px, 1fr); gap: 12px 24px; align-items: start; }
+  .calendar-content > .row, .calendar-content > .calendar, .calendar-content > p { grid-column: 1; }
+  .calendar-content > #record-detail { grid-column: 2; grid-row: 1 / 4; }
+  .record-detail { border-top: 0; padding-top: 8px; }
+}

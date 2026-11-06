@@ -58,6 +58,7 @@ let session = null;
 let calendarMonth = null;
 let radarIndex = 0;
 let selectedRecordDay = null;
+let statsView = "accuracy";
 let solveClosed = false;
 let selectedExamYear = read("examYear", null);
 let notesSubject = SUBJECTS[0];
@@ -183,7 +184,7 @@ function shell(tab, body) {
 			${TABS.map(([id, label, ic]) => `<a href="#${id}" data-tab="${id}" ${id === tab ? 'aria-current="page"' : ""}>${icon(ic)}<span>${label}</span></a>`).join("")}
 			<button class="nav-logout" data-act="logout">${icon("logout")}<span>로그아웃</span></button>
 		</nav>
-		<main class="main"><header class="topbrand"><div class="brand">${icon("note")}<span>나희의 합격노트</span></div><button class="top-logout" data-act="logout">${icon("logout")}<span>로그아웃</span></button></header>${body}</main>
+		<main class="main page-${tab}"><header class="topbrand"><div class="brand">${icon("note")}<span>나희의 합격노트</span></div><button class="top-logout" data-act="logout">${icon("logout")}<span>로그아웃</span></button></header>${body}</main>
 	</div>`;
 	if (!motion) return;
 	scrollTo(0, 0);
@@ -412,13 +413,19 @@ function calendar() {
 	<div id="record-detail">${recordDetail(selectedRecordDay)}</div></div>`;
 }
 
-function stats() {
+function statsPanel() {
+	if (statsView === "calendar") return `<section class="card stats-calendar" aria-labelledby="calendar-heading"><h2 id="calendar-heading" class="sr">학습 달력</h2><div id="calendar-body">${calendar()}</div></section>`;
 	const start = addDays(today(), -6);
 	const summary = recordSummary(state.log.filter((entry) => dayKey(entry.t) >= start && dayKey(entry.t) <= today()));
-	shell("stats", `<h1>학습 기록</h1>
-	<section class="card stats-summary" aria-labelledby="week-summary"><h2 id="week-summary">최근 7일</h2><p class="small muted">${shortDay(start)}–${shortDay(today())} · 반복 풀이 포함</p>
+	return `<section class="card stats-summary" aria-labelledby="week-summary"><div><h2 id="week-summary">최근 7일</h2><p class="small muted">${shortDay(start)}–${shortDay(today())}</p></div>
 	<dl class="stats-metrics"><div><dt>풀이 횟수</dt><dd>${summary.total}<span>회</span></dd></div><div><dt>정답률</dt><dd>${summary.rate}</dd></div><div><dt>학습한 날</dt><dd>${summary.days}<span>일 / 7일</span></dd></div></dl></section>
-	<div class="stats-layout">${radarCard()}<section class="card stats-calendar" aria-labelledby="calendar-heading"><h2 id="calendar-heading">학습 달력</h2><p class="small muted">날짜를 선택하면 그날의 기록을 볼 수 있어요.</p><div id="calendar-body">${calendar()}</div></section></div>`);
+	${radarCard()}`;
+}
+
+function stats() {
+	shell("stats", `<h1>학습 기록</h1>
+	<div class="record-views" role="group" aria-label="학습 기록 화면 선택">${[["accuracy", "정답률"], ["calendar", "학습 달력"]].map(([value, label]) => `<button data-act="stats-view" data-view="${value}" aria-pressed="${statsView === value}">${label}</button>`).join("")}</div>
+	<div class="stats-layout" id="stats-panel">${statsPanel()}</div>`);
 }
 
 /* 풀이 */
@@ -927,6 +934,13 @@ const ACTIONS = {
 		const prog = progress(state.log);
 		const ids = questions.filter((q) => q.subject === d.subject && q.topic === d.topic && prog.get(q.id)?.due && !state.flags[q.id]?.on).map((q) => q.id);
 		start("review", ids, `${d.topic} 복습`);
+	},
+	"stats-view"(d) {
+		if (!["accuracy", "calendar"].includes(d.view) || d.view === statsView) return;
+		statsView = d.view;
+		document.querySelectorAll('[data-act="stats-view"]').forEach((button) => button.setAttribute("aria-pressed", button.dataset.view === statsView));
+		document.getElementById("stats-panel").innerHTML = `<div class="stats-view-content content-enter">${statsPanel()}</div>`;
+		scrollTo(0, 0);
 	},
 	"record-day"(d) {
 		selectedRecordDay = d.day;

@@ -198,3 +198,18 @@ run("originalShell('stats', '');");
 assert.equal(scrollCalls.length, callsBeforeRefresh, 'same-page updates preserve scroll');
 assert.equal(ctx.history.scrollRestoration, 'manual');
 console.log("tab scroll reset ok");
+
+const statsPanelNode = { innerHTML: "" };
+ctx.document.getElementById = (id) => id === "stats-panel" ? statsPanelNode : null;
+run("statsView = 'accuracy'; stats();");
+assert.match(app.innerHTML, /id="radar-card"/);
+assert.doesNotMatch(app.innerHTML, /id="calendar-body"/);
+run("ACTIONS['stats-view']({view: 'calendar'});");
+assert.match(statsPanelNode.innerHTML, /id="calendar-body"/);
+assert.doesNotMatch(statsPanelNode.innerHTML, /id="radar-card"|stats-summary/);
+assert.match(statsPanelNode.innerHTML, /content-enter/);
+run("ACTIONS['stats-view']({view: 'accuracy'});");
+assert.match(statsPanelNode.innerHTML, /id="radar-card"/);
+assert.doesNotMatch(statsPanelNode.innerHTML, /id="calendar-body"/);
+assert.deepEqual(scrollCalls.at(-1), [0, 0]);
+console.log("single records view at a time ok");
