@@ -598,6 +598,7 @@ function reveal() {
 	commit();
 	s.motion = "reveal";
 	solve();
+	requestAnimationFrame(() => document.getElementById("answer-verdict")?.scrollIntoView({ block: "nearest", behavior: "auto" }));
 	loadExplain();
 }
 
@@ -628,13 +629,18 @@ function finish() {
 	countUp();
 }
 
+function verdictHtml(q, s) {
+	const ok = isCorrect(q, s.picks[q.id]);
+	const answers = s.orders.get(q.id).flatMap((original, position) => isCorrect(q, original) ? [NUM[position]] : []).join("·");
+	return `<div class="verdict ${ok ? "ok" : "no"}" id="answer-verdict" role="status" aria-atomic="true">${drawMark({ wrong: !ok })}<div class="verdict-copy"><strong>${ok ? "정답이에요" : `아쉬워요. 정답은 ${answers}번이에요`}</strong><span>${ok ? (s.amb ? "애매했던 문제는 오답노트에서 다시 복습해요." : "잘 풀었어요. 해설로 풀이를 확인해 보세요.") : "오답노트에 등록했어요. 해설을 확인해 보세요."}</span></div></div>`;
+}
+
 function solve() {
 	const s = session;
 	keep();
 	if (s.mode === "mock") return mock();
 	if (s.mode === "mock-result") return mockResult();
 	const q = current();
-	const ok = s.revealed && isCorrect(q, s.picks[q.id]);
 	const flag = state.flags[q.id]?.on;
 	const motion = s.motion ?? "";
 	s.motion = null;
@@ -651,8 +657,7 @@ function solve() {
 				${choiceHtml(q)}
 				${s.error ? `<p class="error" role="alert">${s.error}</p>` : ""}
 				${s.revealed
-					? `<p class="verdict ${ok ? "ok" : "no"}" role="status">${drawMark({ wrong: !ok })}${ok ? (s.amb ? "정답 · 애매함 복습 등록" : "정답") : "오답 · 복습 등록"}</p>
-`
+					? verdictHtml(q, s)
 					: `<div class="actions">
 						<button class="chip" aria-pressed="${s.amb}" data-act="amb">애매함</button>
 						<button class="chip" aria-pressed="${!!flag}" data-act="flag">개정 의심</button>

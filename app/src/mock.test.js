@@ -213,3 +213,15 @@ assert.match(statsPanelNode.innerHTML, /id="radar-card"/);
 assert.doesNotMatch(statsPanelNode.innerHTML, /id="calendar-body"/);
 assert.deepEqual(scrollCalls.at(-1), [0, 0]);
 console.log("single records view at a time ok");
+
+// Feedback follows the displayed shuffled order, including multiple accepted answers.
+run(`session = { picks: { test: 0 }, orders: new Map([['test', [2, 0, 4, 1, 3]]]), amb: false };`);
+assert.match(run("verdictHtml({id:'test',answer:[1]},session)"), /정답이에요/);
+run("session.picks.test = 1;");
+const wrongFeedback = run("verdictHtml({id:'test',answer:[1,5]},session)");
+assert.match(wrongFeedback, /정답은 ②·③번이에요/);
+assert.match(wrongFeedback, /class="verdict no"/);
+assert.match(wrongFeedback, /role="status"/);
+run("session.picks.test = 0; session.amb = true;");
+assert.match(run("verdictHtml({id:'test',answer:[1]},session)"), /애매했던 문제/);
+console.log("answer feedback mapping ok");

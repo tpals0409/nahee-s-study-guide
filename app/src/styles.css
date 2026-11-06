@@ -561,3 +561,22 @@ dialog[open].closing::backdrop { animation: unfade 160ms ease-in both; }
   .page-stats .radar-face { grid-template-columns: minmax(0, 1fr); }
   .page-stats .radar-values { width: 100%; }
 }
+
+/* Answer feedback stays visible and uses the same entry motion as the tabs. */
+.q .verdict { padding: 18px 20px; gap: 16px; scroll-margin-block: 110px; }
+.q .verdict.ok { background: var(--primarySoft); color: var(--chart); }
+.q .verdict.no { background: var(--dangerSoft); color: var(--danger); }
+.verdict .mark { width: 64px; height: 64px; flex: none; stroke-width: 6; }
+.verdict .m-ring { stroke: none; fill: var(--primary); }
+.verdict.no .m-ring { fill: var(--accent); }
+.verdict-copy { display: grid; gap: 5px; min-width: 0; }
+.verdict-copy strong { font-size: 20px; line-height: 1.5; color: var(--text); }
+.verdict-copy > span { font-size: 14px; line-height: 1.6; font-weight: 400; color: var(--muted); }
+.reveal .verdict { animation: tab-enter 220ms ease-out both; }
+.reveal .verdict .m-ring { animation: none; }
+.reveal .verdict .m-sign { animation: draw 300ms ease-out 80ms both; }
+@media (max-width: 420px) {
+  .q .verdict { padding: 16px; gap: 12px; }
+  .verdict .mark { width: 48px; height: 48px; }
+  .verdict-copy strong { font-size: 18px; }
+}
