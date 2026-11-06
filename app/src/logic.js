@@ -18,6 +18,32 @@ export function addDays(day, n) {
 
 export const emptyState = () => ({ log: [], days: {}, flags: {}, cursor: 0 });
 
+/**
+ * 기출 모의고사 응시 기록을 풀이 기록에서 되찾는다. 제출은 문항마다 t, t+1, t+2… 로 저장되고
+ * 일반 풀이는 문제마다 몇 초씩 벌어져서, 시각이 이어지는 같은 회차·과목 묶음이 한 번의 응시다.
+ */
+export function mockHistory(log, byId) {
+	const history = new Map();
+	let run = [];
+	const close = () => {
+		const qs = run.map((e) => byId.get(e.id));
+		// ponytail: 세트는 37문제 이상이라 30을 기준으로 둔다. 짧은 세트가 생기면 기록에 응시 표시를 넣어야 한다
+		if (run.length >= 30 && qs.every((q) => q && q.year === qs[0].year && q.subject === qs[0].subject)) {
+			const key = `${qs[0].year}|${qs[0].subject}`;
+			const score = Math.round((run.filter((e) => e.ok).length / run.length) * 100);
+			const h = history.get(key) ?? { count: 0, best: 0 };
+			history.set(key, { count: h.count + 1, best: Math.max(h.best, score) });
+		}
+		run = [];
+	};
+	for (const e of [...log].sort((a, b) => a.t - b.t)) {
+		if (run.length && e.t !== run.at(-1).t + 1) close();
+		run.push(e);
+	}
+	close();
+	return history;
+}
+
 /** 두 기기의 기록을 합친다. 풀이 기록은 합집합, 나머지는 규칙대로 하나를 고른다. */
 export function merge(a, b) {
 	const log = new Map();

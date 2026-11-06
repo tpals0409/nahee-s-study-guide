@@ -1,7 +1,7 @@
 import {
 	basisHtml, esc,
 	DAILY_SIZE, MOCK_MINUTES, SUBJECTS, addDays, choiceOrder, dayComplete, dayIds, dayKey, emptyState, isCorrect,
-	merge, pickDaily, progress, reviewIds, shuffle, solvedOn, streak, weekStart,
+	merge, mockHistory, pickDaily, progress, reviewIds, shuffle, solvedOn, streak, weekStart,
 } from "./logic.js";
 import { radarViews, radarFace } from "./radar.js";
 
@@ -272,6 +272,12 @@ function exam() {
 	}
 	const years = [...rounds.keys()].sort((a, b) => b - a);
 	if (!rounds.has(selectedExamYear)) selectedExamYear = years[0];
+	const history = mockHistory(state.log, byId);
+	const taken = (year) => SUBJECTS.filter((subject) => history.has(`${year}|${subject}`)).length;
+	const record = (subject) => {
+		const h = history.get(`${selectedExamYear}|${subject}`);
+		return h ? ` · 최고 ${h.best}점 · ${h.count}회` : "";
+	};
 	const selected = rounds.get(selectedExamYear);
 	if (!selected) return shell("exam", '<h1>기출 모의고사</h1><section class="card">등록된 회차 없음</section>');
 	shell("exam", `<h1>기출 모의고사</h1>
@@ -285,11 +291,11 @@ function exam() {
 				<div class="round-grab" id="round-grab" aria-hidden="true"><span></span></div>
 				<header class="round-sheet-header"><h2 id="round-sheet-title">회차 선택</h2><button class="iconbtn" data-act="round-close" aria-label="회차 선택 닫기">${icon("close")}</button></header>
 				<div class="round-options" id="round-options">
-					${years.map((year) => `<button class="round-option" aria-pressed="${year === selectedExamYear}" data-act="round-select" data-year="${year}"><span>${year}년 제${rounds.get(year).round}회</span><span aria-hidden="true">${year === selectedExamYear ? "✓" : ""}</span></button>`).join("")}
+					${years.map((year) => `<button class="round-option" aria-pressed="${year === selectedExamYear}" data-act="round-select" data-year="${year}"><span>${year}년 제${rounds.get(year).round}회</span><span class="link-end">${taken(year) ? `<span class="small muted">${taken(year)}/${SUBJECTS.length} 응시</span>` : ""}<span aria-hidden="true">${year === selectedExamYear ? "✓" : ""}</span></span></button>`).join("")}
 				</div>
 			</dialog>
 		</div>
-		<div class="list">${SUBJECTS.filter((subject) => selected.n[subject]).map((subject) => `<button class="link" data-act="round" data-year="${selectedExamYear}" data-subject="${subject}"><span><strong>${subject}</strong><br><span class="small muted">${selected.n[subject]}문제 · ${MOCK_MINUTES[subject]}분</span></span><span class="go">시작</span></button>`).join("")}</div>
+		<div class="list">${SUBJECTS.filter((subject) => selected.n[subject]).map((subject) => `<button class="link" data-act="round" data-year="${selectedExamYear}" data-subject="${subject}"><span><strong>${subject}</strong><br><span class="small muted">${selected.n[subject]}문제 · ${MOCK_MINUTES[subject]}분${record(subject)}</span></span><span class="go">시작</span></button>`).join("")}</div>
 	</section>`);
 }
 
@@ -676,21 +682,30 @@ function solve() {
 	});
 }
 
+const RESULT = { ok: "정답", no: "오답", skip: "미응답" };
+
 function mockResult() {
 	const s = session;
+	const filter = s.filter ?? "all";
+	const rows = s.ids.map((id, i) => {
+		const q = byId.get(id);
+		const picked = s.picks[id];
+		const status = picked === undefined ? "skip" : isCorrect(q, picked) ? "ok" : "no";
+		return { q, i, picked, status, order: s.orders.get(id) };
+	});
+	const count = (status) => rows.filter((r) => r.status === status).length;
+	const shown = rows.filter((r) => filter === "all" || r.status === filter);
+	const chip = (key, label, n) => `<button class="chip" data-act="mock-filter" data-filter="${key}" aria-pressed="${filter === key}">${label} ${n}</button>`;
 	app.innerHTML = `<div class="solve plain" style="max-width:800px">
 		<section class="card">
-			<h1>${esc(s.title)}</h1>
-			<p><strong>${pct(s.score, s.ids.length)}점</strong> · 정답 ${s.score} / ${s.ids.length}</p>
+			<div class="notice-head"><h1 class="small muted score-title">${esc(s.title)}</h1><p class="score">${pct(s.score, s.ids.length)}점</p></div>
+			<div class="facts">${Object.keys(RESULT).map((k) => `<div><strong>${count(k)}</strong><span class="small muted">${RESULT[k]}</span></div>`).join("")}</div>
 			<p class="muted small">오답 문항 복습 등록 완료</p>
-			<div class="list">${s.ids.map((id, i) => {
-				const q = byId.get(id);
-				const picked = s.picks[id];
-				const ok = picked !== undefined && isCorrect(q, picked);
-				const order = s.orders.get(id);
+			<div class="actions filter" role="group" aria-label="문항 보기">${chip("all", "전체", rows.length)}${chip("no", "오답", count("no"))}${chip("skip", "미응답", count("skip"))}</div>
+			<div class="list">${shown.map(({ q, i, picked, status, order }) => {
 				const answer = q.answer.map((n) => order.indexOf(n - 1) + 1).sort().join(", ");
-				return `<button class="link" data-act="mock-review" data-index="${i}"><span>${q.number}번 · ${picked === undefined ? "미응답" : ok ? "정답" : "오답"}<br><span class="small muted">내 답 ${picked === undefined ? "—" : order.indexOf(picked) + 1} · 정답 ${answer}</span></span><span class="link-end">해설${icon("right")}</span></button>`;
-			}).join("")}</div>
+				return `<button class="link" data-act="mock-review" data-index="${i}"><span><strong class="res-${status}">${q.number}번 · ${RESULT[status]}</strong><br><span class="small muted">내 답 ${picked === undefined ? "—" : order.indexOf(picked) + 1} · 정답 ${answer}</span></span><span class="link-end">해설${icon("right")}</span></button>`;
+			}).join("") || '<p class="muted small">해당 문항 없음</p>'}</div>
 		</section>
 		<div class="dock"><button class="btn" data-act="leave">마치기</button></div>
 	</div>`;
@@ -709,9 +724,22 @@ function mockClock() {
 	if (session?.mode !== "mock") return;
 	const left = Math.max(0, Math.ceil((session.deadline - Date.now()) / 1000));
 	const el = document.getElementById("clock");
-	if (el) el.textContent = `${Math.floor(left / 60)}:${String(left % 60).padStart(2, "0")}`;
+	if (el) {
+		el.textContent = `${Math.floor(left / 60)}:${String(left % 60).padStart(2, "0")}`;
+		el.classList.toggle("soon", left <= 600);
+		el.classList.toggle("last", left <= 300);
+	}
+	/* 타이머는 매초 낭독되지 않으니 경고 구간에 들어갈 때만 알린다 */
+	const warning = left <= 300 ? "남은 시간 5분 이내" : left <= 600 ? "남은 시간 10분 이내" : "";
+	if (warning !== session.warned) {
+		session.warned = warning;
+		const note = document.getElementById("clock-note");
+		if (note) note.textContent = warning;
+	}
 	if (left === 0) submitMock();
 }
+
+const answered = (s) => s.ids.filter((id) => s.picks[id] !== undefined).length;
 
 function mock() {
 	const s = session;
@@ -720,7 +748,7 @@ function mock() {
 	const motion = s.motion ?? "";
 	s.motion = null;
 	app.innerHTML = `<div class="solve ${motion}" style="max-width:800px">
-		<header><div class="row"><button class="iconbtn" data-act="mock-quit" aria-label="모의고사 그만두기">${icon("close")}</button><strong role="timer" aria-label="남은 시간" id="clock"></strong><button class="map-open" data-act="mock-map" aria-haspopup="dialog" aria-label="문항표 열기, ${s.ids.length}문제 중 ${s.i + 1}번">${icon("grid")}${s.i + 1} / ${s.ids.length}</button></div></header>
+		<header><div class="row"><button class="iconbtn" data-act="mock-quit" aria-label="모의고사 그만두기">${icon("close")}</button><strong role="timer" aria-label="남은 시간" id="clock"></strong><button class="map-open" data-act="mock-map" aria-haspopup="dialog" aria-label="문항표 열기, ${s.ids.length}문제 중 ${s.i + 1}번">${icon("grid")}${s.i + 1} / ${s.ids.length}</button></div><div class="bar on-white" id="answered" role="progressbar" aria-valuemin="0" aria-valuemax="${s.ids.length}" aria-valuenow="${answered(s)}" aria-label="응답한 문제"><i style="width:${(answered(s) / s.ids.length) * 100}%"></i></div><span class="sr" id="clock-note" role="status"></span></header>
 		<section class="card q">
 			<span><span class="tag">${q.year}년 제${q.round}회 · ${q.subject}</span></span>
 			${stemHtml(q)}
@@ -741,7 +769,7 @@ function mock() {
 function openMap() {
 	const s = session;
 	const d = document.getElementById("map");
-	const left = s.ids.filter((id) => s.picks[id] === undefined).length;
+	const left = s.ids.length - answered(s);
 	d.classList.remove("closing");
 	d.innerHTML = `<div class="round-grab" aria-hidden="true"><span></span></div>
 		<header class="round-sheet-header"><div><h2 id="map-title">문항표</h2><p class="small muted">미응답 ${left}문제</p></div><button class="iconbtn" data-act="dialog-close" aria-label="문항표 닫기">${icon("close")}</button></header>
@@ -861,6 +889,12 @@ const ACTIONS = {
 	"sheet-open": () => setSheet(true),
 	"sheet-close": () => setSheet(false),
 	"mock-map": openMap,
+	"mock-filter"(d) {
+		const y = scrollY;
+		session.filter = d.filter;
+		mockResult();
+		scrollTo(0, y);
+	},
 	"mock-go"(d) {
 		session.i = Number(d.index);
 		mock();
@@ -983,6 +1017,11 @@ document.addEventListener("change", (e) => {
 	if (e.target.name === "c" && session && !session.revealed && session.mode !== "mock-result") {
 		session.picks[current().id] = Number(e.target.value);
 		e.target.closest(".choice").classList.add("picked");
+		const bar = document.getElementById("answered");
+		if (bar) {
+			bar.setAttribute("aria-valuenow", answered(session));
+			bar.firstElementChild.style.width = `${(answered(session) / session.ids.length) * 100}%`;
+		}
 		session.error = "";
 		keep();
 	}

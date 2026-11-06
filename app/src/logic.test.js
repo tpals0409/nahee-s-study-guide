@@ -1,5 +1,5 @@
 import assert from "node:assert/strict";
-import { basisHtml, addDays, choiceOrder, dayComplete, dayIds, dayKey, dueIds, emptyState, isCorrect, merge, pickDaily, progress, reviewIds, streak, weekStart, dailyAccuracy } from "./logic.js";
+import { mockHistory, basisHtml, addDays, choiceOrder, dayComplete, dayIds, dayKey, dueIds, emptyState, isCorrect, merge, pickDaily, progress, reviewIds, streak, weekStart, dailyAccuracy } from "./logic.js";
 
 const at = (day, h = 12) => new Date(`${day}T${String(h).padStart(2, "0")}:00:00`).getTime();
 const q = (id, subject) => ({ id, subject, answer: [1], fixed: false });
@@ -160,6 +160,18 @@ const bySubject = (ids) => SUBJ.map((s) => ids.filter((id) => bank.find((b) => b
 	assert.equal(basisHtml(law, ex, 0), "");
 	assert.equal(basisHtml({ subject: "자연과학개론" }, { basis: [] }, 1), "");
 	assert.equal(basisHtml(law, {}, 1), "");
+}
+
+{
+	const set = Array.from({ length: 40 }, (_, i) => ({ id: `m${i}`, year: 2025, subject: "민법개론" }));
+	const byId = new Map([...set, { id: "x", year: 2024, subject: "민법개론" }].map((q) => [q.id, q]));
+	const take = (t, right) => set.map((q, i) => ({ t: t + i, id: q.id, ok: i < right }));
+	const log = [...take(5000, 20), { t: 100, id: "m0", ok: true }, { t: 3000, id: "m1", ok: true }, ...take(1000, 30)];
+	const h = mockHistory(log, byId);
+	assert.deepEqual(h.get("2025|민법개론"), { count: 2, best: 75 }, "two runs, best score kept");
+	assert.equal(h.size, 1, "spaced daily answers are not an attempt");
+	const mixed = take(1000, 1).map((e, i) => (i === 5 ? { ...e, id: "x" } : e));
+	assert.equal(mockHistory(mixed, byId).size, 0, "a run across rounds is not an attempt");
 }
 
 console.log("logic ok");

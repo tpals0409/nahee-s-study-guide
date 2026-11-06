@@ -169,6 +169,15 @@ input.field, textarea.field { width: 100%; min-height: 48px; padding: var(--sp-m
 .solve header .row > span, .map-open { flex: none; white-space: nowrap; }
 .map-open { display: flex; align-items: center; gap: var(--sp-xs); min-height: 44px; padding: 0 12px; border-radius: var(--r-btn); background: var(--glass-card); font-variant-numeric: tabular-nums; }
 .map-open svg.i { width: 18px; height: 18px; }
+#clock { padding: 2px 12px; border-radius: var(--r-btn); transition: background-color var(--dur) var(--ease-out); }
+#clock.soon { background: var(--dangerSoft); }
+#clock.last { color: var(--danger); }
+.score-title { font-weight: 400; }
+.score { font-size: 48px; line-height: 60px; font-weight: 700; }
+.filter .chip[aria-pressed="true"] { background: var(--primary); font-weight: 600; }
+.res-ok { color: var(--success); }
+.res-no { color: var(--danger); }
+.res-skip { color: var(--muted); }
 .map-grid { display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); gap: var(--sp-md); }
 .map-cell { min-height: 52px; border: 1px solid var(--borderStrong); border-radius: var(--r-md); font-variant-numeric: tabular-nums; }
 .map-cell.done { border-color: transparent; background: var(--primary); font-weight: 600; }
@@ -281,7 +290,7 @@ dialog::backdrop { background: rgb(2 2 2 / .4); }
 .notice { margin: 0; padding-left: 18px; display: grid; gap: var(--sp-md); color: var(--muted); font-size: 14px; line-height: 21px; }
 .notice-head { display: grid; gap: var(--sp-xs); }
 .facts { display: grid; grid-auto-flow: column; grid-auto-columns: 1fr; gap: var(--sp-md); }
-.facts > div { display: flex; align-items: baseline; justify-content: center; gap: var(--sp-xs); padding: 12px var(--sp-md); border-radius: var(--r-md); background: var(--primarySoft); }
+.facts > div { display: flex; flex-wrap: wrap; align-items: baseline; justify-content: center; gap: var(--sp-xs); padding: 12px var(--sp-md); border-radius: var(--r-md); background: var(--primarySoft); }
 .facts strong { font-size: 24px; line-height: 36px; font-variant-numeric: tabular-nums; }
 .dialog-actions { display: grid; grid-template-columns: 1fr 1fr; gap: var(--sp-md); }
 .dialog-actions .btn { padding: 0 var(--sp-md); }
