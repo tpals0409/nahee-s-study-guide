@@ -63,7 +63,6 @@ let selectedExamYear = read("examYear", null);
 
 let lastTab = null;
 const scrolls = {};
-const visited = new Set();
 const tabPaths = {};
 
 const today = () => dayKey(Date.now());
@@ -165,11 +164,11 @@ const TABS = [
 
 const tabOf = (hash) => hash.slice(1).split("/")[0] || "home";
 
-/* 첫 방문은 카드가 차례로 뜨고, 다시 온 탭은 바로 보인다. 같은 탭 안에서는 깊이에 따라 좌우로 밀린다. */
+/* 첫 방문과 재방문 모두 콘텐츠 전체에 같은 전환을 적용한다. */
 function pageMotion(key) {
 	if (key === lastTab) return "";
-	if (lastTab && tabOf(lastTab) === tabOf(key)) return key.split("/").length > lastTab.split("/").length ? "enter push" : "enter back";
-	return visited.has(key) ? "again" : "enter";
+	if (lastTab && tabOf(lastTab) === tabOf(key)) return key.split("/").length > lastTab.split("/").length ? "page-enter push" : "page-enter";
+	return "page-enter";
 }
 
 function shell(tab, body) {
@@ -177,7 +176,6 @@ function shell(tab, body) {
 	const motion = pageMotion(key);
 	if (lastTab && motion) scrolls[lastTab] = scrollY;
 	lastTab = key;
-	visited.add(key);
 	tabPaths[tab] = key;
 	app.innerHTML = `<div class="shell ${motion}">
 		<nav class="nav" aria-label="주요 메뉴">
@@ -189,7 +187,6 @@ function shell(tab, body) {
 	</div>`;
 	if (!motion) return;
 	scrollTo(0, motion.includes("push") ? 0 : scrolls[key] ?? 0);
-	if (motion === "enter") countUp();
 }
 
 function weekDots(day) {
@@ -457,7 +454,6 @@ function dropSession() {
 	solveClosed = true;
 	document.getElementById("map")?.close();
 	lastTab = null;
-	visited.delete(from);
 	write("session", null);
 }
 
@@ -1091,7 +1087,7 @@ const ROUTES = { home, exam, notes, stats };
 function paint() {
 	const down = solveClosed;
 	solveClosed = false;
-	if (session || calm() || !document.startViewTransition) return render();
+	if (!down || session || calm() || !document.startViewTransition) return render();
 	document.documentElement.classList.toggle("vt-down", down);
 	document.startViewTransition(render);
 }

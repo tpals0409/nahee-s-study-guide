@@ -125,3 +125,16 @@ run("location.hash = '#stats'; originalShell('stats', '');");
 assert.match(app.innerHTML, /data-tab="stats" aria-current="page"/);
 assert.equal((app.innerHTML.match(/aria-current="page"/g) ?? []).length, 1);
 console.log("navigation selection ok");
+
+// Initial and repeat tab visits share one animation; same-page updates stay still.
+run("lastTab = null; location.hash = '#home'; originalShell('home', '');");
+assert.match(app.innerHTML, /shell page-enter/);
+run("location.hash = '#exam'; originalShell('exam', '');");
+assert.match(app.innerHTML, /shell page-enter/);
+run("location.hash = '#home'; originalShell('home', '');");
+assert.match(app.innerHTML, /shell page-enter/);
+run("originalShell('home', '');");
+assert.doesNotMatch(app.innerHTML, /page-enter/);
+ctx.document.startViewTransition = () => { throw new Error('Tab navigation must not stack view transitions'); };
+run("session = null; solveClosed = false; render = () => {}; paint();");
+console.log("consistent tab motion ok");

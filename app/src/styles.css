@@ -346,30 +346,9 @@ dialog::backdrop { background: rgb(2 2 2 / .4); }
 [data-count], #clock, .solve header .row > span { font-variant-numeric: tabular-nums; }
 .bar i { transition: width var(--dur-slow) var(--ease-out); }
 
-.enter .main > * { animation: rise var(--dur-slow) var(--ease-bounce) both; }
-.enter .main > :nth-child(2) { animation-delay: 60ms; }
-.enter .main > :nth-child(3) { animation-delay: 120ms; }
-.enter .main > :nth-child(4) { animation-delay: 180ms; }
-.enter .main > :nth-child(n + 5) { animation-delay: 240ms; }
-.shell.again .main { animation: fade 180ms var(--ease-out); }
-.shell.push .main > *, .shell.back .main > * { animation-delay: 0ms; animation-duration: 340ms; animation-timing-function: var(--ease-out); }
-.shell.push .main > * { animation-name: from-right; }
-.shell.back .main > * { animation-name: from-left; }
+.shell.page-enter .main { animation: fade 180ms ease-out both; }
 .solve.present { animation: present var(--dur-slow) var(--ease-out) both; }
 .solve.present .cols > .card { animation: none; }
-.enter .home > * { animation: rise var(--dur-slow) var(--ease-bounce) both; }
-.enter .home > :nth-child(2) { animation-delay: 110ms; }
-.enter .home > :nth-child(3) { animation-delay: 220ms; }
-.enter .hero .bar i { transform-origin: left; animation: grow 700ms var(--ease-out) 200ms both; }
-.enter .badge { animation: pop var(--dur-slow) var(--ease-spring) 240ms both; }
-.enter .dot { animation: pop var(--dur-slow) var(--ease-spring) both; }
-.enter .week > :nth-child(1) .dot { animation-delay: 240ms; }
-.enter .week > :nth-child(2) .dot { animation-delay: 280ms; }
-.enter .week > :nth-child(3) .dot { animation-delay: 320ms; }
-.enter .week > :nth-child(4) .dot { animation-delay: 360ms; }
-.enter .week > :nth-child(5) .dot { animation-delay: 400ms; }
-.enter .week > :nth-child(6) .dot { animation-delay: 440ms; }
-.enter .week > :nth-child(7) .dot { animation-delay: 480ms; }
 .chart.pending .line { stroke-dashoffset: 1; }
 .chart.pending .pt, .chart.pending .area { opacity: 0; }
 .chart.draw .line { animation: draw 1000ms var(--ease-out) both; }
