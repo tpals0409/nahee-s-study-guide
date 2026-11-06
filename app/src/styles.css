@@ -58,15 +58,13 @@ svg.i { width: 24px; height: 24px; fill: none; stroke: currentColor; stroke-widt
 .nav-logout { display: none; }
 .topbrand { display: flex; align-items: center; justify-content: space-between; gap: var(--sp-md); }
 .top-logout { display: flex; align-items: center; gap: var(--sp-xs); min-height: 44px; padding: 0 var(--sp-md); flex-shrink: 0; font-size: 14px; border-radius: var(--r-md); }
-.pill { position: absolute; left: 0; top: 0; background: var(--primary); }
-.nav .pill { border-radius: 26px; }
-.pill.appear { animation: pop 600ms var(--ease-spring) both; }
+.nav a[aria-current="page"] { background: var(--primary); }
 
 @media (min-width: 768px) {
 	.shell { display: grid; grid-template-columns: 208px minmax(0, 1fr); padding-bottom: 0; }
 	/* 사이드바 뒤로는 내용이 지나가지 않아서 흐림을 끈다 */
 	.nav { position: sticky; top: 0; inset: auto; height: 100dvh; display: flex; flex-direction: column; padding: var(--sp-xl) var(--sp-md); border: 0; border-right: 1px solid var(--glass-line); border-radius: 0; box-shadow: none; -webkit-backdrop-filter: none; backdrop-filter: none; }
-	.nav a, .nav-logout, .nav .pill { border-radius: var(--r-lg); }
+	.nav a, .nav-logout { border-radius: var(--r-lg); }
 	.nav .brand { display: flex; flex-direction: column; text-align: center; padding-bottom: var(--sp-xl); }
 	.nav .brand svg { width: 48px; height: 48px; }
 	.nav a, .nav-logout { display: flex; gap: var(--sp-md); padding: 0 var(--sp-lg); font-size: 16px; line-height: 24px; align-items: center; }

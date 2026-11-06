@@ -28,6 +28,7 @@ const source = readFileSync(new URL("./main.js", import.meta.url), "utf8")
   .replace(/boot\(\);\s*$/, "");
 vm.runInContext(source, ctx);
 const run = (code) => vm.runInContext(code, ctx);
+run("const originalShell = shell;");
 run(`
   questions = [
     {id: 'b', year: 2025, round: 62, subject: '민법개론', number: 2, stem: 'B', choices: ['a','b','c','d','e'], answer: [2]},
@@ -115,3 +116,12 @@ await pending;
 assert.equal(run("radarIndex"), before, "navigation cancels the pending switch");
 assert.equal(run("radarLoading"), false);
 console.log("mock flow and radar interaction ok");
+
+// The initial route marks Home in the markup, without a separately positioned highlight.
+run("location.hash = ''; countUp = () => {}; originalShell('home', '');");
+assert.match(app.innerHTML, /data-tab="home" aria-current="page"/);
+assert.doesNotMatch(app.innerHTML, /class="pill"/);
+run("location.hash = '#stats'; originalShell('stats', '');");
+assert.match(app.innerHTML, /data-tab="stats" aria-current="page"/);
+assert.equal((app.innerHTML.match(/aria-current="page"/g) ?? []).length, 1);
+console.log("navigation selection ok");

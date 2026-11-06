@@ -84,31 +84,6 @@ function shut(d) {
 
 const calm = () => matchMedia("(prefers-reduced-motion: reduce)").matches;
 
-/* 선택 표시가 이전 자리에서 미끄러져 온다. Tween UI 의 Sliding Tabs 방식을 React 없이 옮겼다. */
-const pillBoxes = {};
-
-function placePill(key, root) {
-	const pill = root?.querySelector(".pill");
-	const on = root?.querySelector('[aria-current], [aria-pressed="true"]');
-	if (!pill || !on) return;
-	const to = { x: on.offsetLeft, y: on.offsetTop, w: on.offsetWidth, h: on.offsetHeight };
-	const box = (b) => ({ width: `${b.w}px`, height: `${b.h}px`, transform: `translate(${b.x}px, ${b.y}px)` });
-	const from = pillBoxes[key];
-	pillBoxes[key] = to;
-	Object.assign(pill.style, box(to));
-	if (!from) return pill.classList.add("appear");
-	if (calm() || (from.x === to.x && from.y === to.y)) return;
-	/* 물방울처럼 두 자리를 이을 만큼 늘어났다가 다음 자리로 모인다 */
-	const x = Math.min(from.x, to.x);
-	const y = Math.min(from.y, to.y);
-	const span = { x, y, w: Math.max(from.x + from.w, to.x + to.w) - x, h: Math.max(from.y + from.h, to.y + to.h) - y };
-	pill.animate([box(from), { ...box(span), offset: 0.4 }, box(to)], { duration: 420, easing: "cubic-bezier(.22, 1, .36, 1)" });
-}
-
-const placePills = () => {
-	placePill("nav", document.querySelector(".nav"));
-};
-
 /* 숫자가 빠르게 올라가다 천천히 멈춘다. 화면 낭독기는 aria-label 의 최종 값을 읽는다. */
 const num = (n, unit = "") => `<span role="img" aria-label="${n}${unit}"><span data-count="${n}">${n}</span>${unit}</span>`;
 
@@ -206,14 +181,12 @@ function shell(tab, body) {
 	tabPaths[tab] = key;
 	app.innerHTML = `<div class="shell ${motion}">
 		<nav class="nav" aria-label="주요 메뉴">
-			<span class="pill" aria-hidden="true"></span>
 			<div class="brand">${icon("note")}<span>나희의<br>합격노트</span></div>
 			${TABS.map(([id, label, ic]) => `<a href="#${id}" data-tab="${id}" ${id === tab ? 'aria-current="page"' : ""}>${icon(ic)}<span>${label}</span></a>`).join("")}
 			<button class="nav-logout" data-act="logout">${icon("logout")}<span>로그아웃</span></button>
 		</nav>
 		<main class="main"><header class="topbrand"><div class="brand">${icon("note")}<span>나희의 합격노트</span></div><button class="top-logout" data-act="logout">${icon("logout")}<span>로그아웃</span></button></header>${body}</main>
 	</div>`;
-	placePills();
 	if (!motion) return;
 	scrollTo(0, motion.includes("push") ? 0 : scrolls[key] ?? 0);
 	if (motion === "enter") countUp();
@@ -1143,10 +1116,6 @@ addEventListener("hashchange", () => {
 	commit();
 	dropSession();
 	paint();
-});
-addEventListener("resize", () => {
-	for (const key of Object.keys(pillBoxes)) delete pillBoxes[key];
-	placePills();
 });
 // 링크와 그림을 끌 때 뜨는 브라우저 미리보기를 막는다
 document.addEventListener("dragstart", (e) => e.preventDefault());
