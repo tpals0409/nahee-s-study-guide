@@ -225,3 +225,33 @@ assert.equal(wrongFeedback.ok, false);
 run("session.picks.test = 0; session.amb = true;");
 assert.equal(run("answerFeedback({id:'test',answer:[1]},session).ok"), true);
 console.log("answer feedback mapping ok");
+
+// Dedicated chat keeps the composer outside explanations and streams into the sheet.
+const chatMessages = { innerHTML: '', scrollHeight: 100, scrollTop: 0, clientHeight: 100 };
+const chatInput = { value: '왜 정답인가요?', disabled: false };
+const chatSend = { disabled: false };
+const chatDialog = { open: false, innerHTML: '', showModal() { this.open = true; },
+ querySelector(selector) { return selector === '.chat-messages' ? chatMessages : selector === 'textarea' ? chatInput : chatSend; } };
+ctx.document.getElementById = (id) => id === 'ai-chat' ? chatDialog : null;
+ctx.TextDecoderStream = TextDecoderStream;
+ctx.Response = Response;
+run(`questions = [{id:'chat-q',year:2026,number:1,subject:'민법개론',choices:['a','b','c','d','e'],answer:[1]}]; byId = new Map(questions.map(q=>[q.id,q])); session={...blank(),mode:'daily',ids:['chat-q'],i:0,revealed:true,orders:new Map([['chat-q',[0,1,2,3,4]]]),picks:{'chat-q':0},explain:{summary:'요약',choices:['a','b','c','d','e']}};`);
+assert.match(run('explainHtml(current())'), /AI 질문/);
+assert.doesNotMatch(run('explainHtml(current())'), /data-form="ask"/);
+run('openChat();');
+assert.equal(chatDialog.open, true);
+assert.match(chatDialog.innerHTML, /data-form="ask"/);
+assert.match(chatDialog.innerHTML, /2026년/);
+run(`let askCalls=0; post=async()=>{askCalls++;return new Response('설명 답변');};`);
+const submitEvent = { preventDefault() {}, target: { dataset: {form:'ask'}, querySelector: () => chatInput } };
+const responsePending = listeners.submit(submitEvent);
+assert.equal(run('session.asking'), true);
+await listeners.submit(submitEvent);
+await responsePending;
+assert.equal(run('askCalls'), 1);
+assert.equal(run('session.asking'), false);
+assert.equal(run('session.chat[1].content'), '설명 답변');
+assert.match(chatMessages.innerHTML, /설명 답변/);
+assert.equal(chatSend.disabled, false);
+assert.ok(storage.has('chat:chat-q'));
+console.log('AI chat sheet and streaming ok');

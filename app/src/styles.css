@@ -592,3 +592,20 @@ dialog[open].closing::backdrop { animation: unfade 160ms ease-in both; }
 .answer-toast.no .m-ring { fill: var(--accent); }
 .answer-toast.visible .m-sign { animation: draw 300ms ease-out 80ms both; }
 .answer-toast strong { font-size: 16px; line-height: 24px; }
+
+/* Dedicated question chat: messages scroll, composer stays above the keyboard. */
+dialog.chat-sheet { inset: auto 0 var(--kb, 0px); margin: 0 auto; width: min(760px, 100%); max-width: 100%; height: min(80dvh, 720px); max-height: calc(100dvh - var(--kb, 0px) - env(safe-area-inset-top) - 16px); padding: 0; border-radius: 24px 24px 0 0; overflow: hidden; }
+dialog.chat-sheet[open] { display: flex; flex-direction: column; animation: round-sheet-in 220ms ease-out; }
+dialog.chat-sheet.closing { animation: round-sheet-out 220ms ease-out; }
+html:has(dialog.chat-sheet[open]) { overflow: hidden; }
+.chat-sheet .round-grab { display: grid; flex: none; height: 24px; }
+.chat-header { flex: none; display: flex; align-items: center; justify-content: space-between; gap: 12px; padding: 0 20px 16px; border-bottom: 1px solid var(--border); }
+.chat-messages { flex: 1; min-height: 0; overflow-y: auto; overscroll-behavior: contain; padding: 20px; display: flex; flex-direction: column; gap: 16px; }
+.chat-messages .say { flex: none; margin-right: 24px; line-height: 1.75; background: var(--surface2); }
+.chat-messages .say.me { margin-right: 0; margin-left: 24px; background: var(--primary); }
+.chat-speaker { display: block; margin-bottom: 4px; font-size: 12px; font-weight: 600; color: var(--muted); }
+.chat-empty { margin: auto 0; text-align: center; display: grid; gap: 8px; padding: 24px 0; }
+.chat-compose { flex: none; padding: 16px 20px calc(16px + env(safe-area-inset-bottom)); border-top: 1px solid var(--border); display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 8px; align-items: end; }
+.chat-compose textarea { max-height: 120px; resize: none; }
+.chat-compose .btn { min-height: 52px; padding-inline: 20px; }
+.chat-compose p { grid-column: 1 / -1; font-size: 12px; }

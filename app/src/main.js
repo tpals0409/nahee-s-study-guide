@@ -436,7 +436,7 @@ function stats() {
 }
 
 /* 풀이 */
-const blank = () => ({ revealed: false, committed: false, amb: false, sheet: false, error: "", chat: [], explain: null, motion: "enter" });
+const blank = () => ({ revealed: false, committed: false, amb: false, sheet: false, error: "", chat: [], askDraft: "", explain: null, motion: "enter" });
 
 function start(mode, ids, title, extra = {}) {
 	if (!ids.length) return;
@@ -484,6 +484,7 @@ function closeSession() {
 }
 
 function dropSession() {
+	document.getElementById("ai-chat")?.close();
 	dismissToast();
 	const { from = "#home" } = session;
 	session = null;
@@ -540,15 +541,42 @@ function explainHtml(q) {
 					${basisHtml(q, ex, 0)}
 					${ex.lawNote ? `<div class="alert">${esc(ex.lawNote)}</div>` : ""}
 					<p class="small muted">AI 생성 해설 · 오류 가능 · ${q.year}년 시험 기준, 현행법과 차이 가능</p>
-					${s.pastChat && !q.fixed ? '<p class="small muted">이전 대화 · 당시 보기 번호 기준</p>' : ""}
-					${s.chat.map((m) => `<div class="say ${m.role === "user" ? "me" : ""} small">${esc(m.content)}</div>`).join("")}
-					${s.asking ? '<div class="skeleton" role="status" aria-label="답변 생성 중"><i></i><i></i></div>' : ""}
-					${s.askError ? '<p class="error">답변 수신 실패</p>' : ""}
-					<form data-form="ask" class="stack" style="gap:8px"><label class="sr" for="ask">추가 질문</label><textarea id="ask" class="field" rows="2" placeholder="추가 질문 입력" required></textarea><button class="btn quiet">질문하기</button></form>`
+					<button class="btn quiet" data-act="ai-chat-open" aria-haspopup="dialog">AI 질문</button>`
 					: "";
 	return `<div class="grab" id="grab"></div>
 		<div class="row"><h2>해설</h2><span class="tag">AI 해설</span></div>${body}
 		<button class="btn quiet openexplain" data-act="sheet-close">닫기</button>`;
+}
+
+function chatMessagesHtml(q, s) {
+	return `${s.pastChat && !q.fixed ? '<p class="small muted">이전 대화 · 당시 보기 번호 기준</p>' : ""}
+	${s.chat.length ? s.chat.map((m) => `<div class="say ${m.role === "user" ? "me" : ""}"><span class="chat-speaker">${m.role === "user" ? "나" : "AI"}</span><div class="chat-text">${esc(m.content)}</div></div>`).join("") : '<div class="chat-empty"><h3>어떤 부분이 궁금한가요?</h3><p class="muted">현재 문제와 해설을 바탕으로 답변해 드려요.</p></div>'}
+	${s.asking ? '<p class="small muted" role="status">답변 작성 중…</p>' : ""}
+	${s.askError ? '<p class="error" role="alert">답변을 받지 못했어요. 다시 전송해 주세요.</p>' : ""}`;
+}
+
+function paintChat() {
+	const dialog = document.getElementById("ai-chat");
+	if (!dialog?.open || !session) return;
+	const messages = dialog.querySelector(".chat-messages");
+	const atBottom = messages.scrollHeight - messages.scrollTop - messages.clientHeight < 80;
+	messages.innerHTML = chatMessagesHtml(current(), session);
+	dialog.querySelector('button[type="submit"]').disabled = !!session.asking;
+	dialog.querySelector("textarea").disabled = !!session.asking;
+	if (atBottom) messages.scrollTop = messages.scrollHeight;
+}
+
+function openChat() {
+	const s = session;
+	if (!s?.revealed || !s.explain || typeof s.explain !== "object") return;
+	const q = current();
+	const dialog = document.getElementById("ai-chat");
+	dialog.innerHTML = `<div class="round-grab" aria-hidden="true"><span></span></div>
+	<header class="chat-header"><div><h2 id="ai-chat-title">AI 질문</h2><p class="small muted">${q.year}년 · ${esc(q.subject)} · ${q.number}번</p></div><button class="iconbtn" data-act="dialog-close" aria-label="AI 질문 닫기">${icon("close")}</button></header>
+	<div class="chat-messages" role="log" aria-label="문제에 대한 대화">${chatMessagesHtml(q, s)}</div>
+	<form data-form="ask" class="chat-compose"><label class="sr" for="ask">AI에게 질문</label><textarea id="ask" class="field" rows="2" placeholder="궁금한 내용을 입력하세요" required ${s.asking ? "disabled" : ""}>${esc(s.askDraft ?? "")}</textarea><button type="submit" class="btn" ${s.asking ? "disabled" : ""}>전송</button><p class="small muted">AI 답변에는 오류가 있을 수 있어요.</p></form>`;
+	dialog.showModal();
+	dialog.querySelector(".chat-messages").scrollTop = dialog.querySelector(".chat-messages").scrollHeight;
 }
 
 function paintExplain(fresh = false) {
@@ -614,11 +642,12 @@ function reveal() {
 }
 
 function next() {
+	document.getElementById("ai-chat")?.close();
 	dismissToast();
 	const s = session;
 	commit();
 	if (s.i + 1 >= s.ids.length) return finish();
-	Object.assign(s, { i: s.i + 1, revealed: false, committed: false, amb: false, sheet: false, explain: null, chat: [], askError: false, motion: "enter" });
+	Object.assign(s, { i: s.i + 1, revealed: false, committed: false, amb: false, sheet: false, explain: null, chat: [], askDraft: "", askError: false, motion: "enter" });
 	solve();
 	scrollTo(0, 0);
 }
@@ -906,6 +935,7 @@ const ACTIONS = {
 		save();
 		document.querySelector('[data-act="flag"]').setAttribute("aria-pressed", state.flags[id].on);
 	},
+	"ai-chat-open": openChat,
 	"sheet-open": () => setSheet(true),
 	"sheet-close": () => setSheet(false),
 	"mock-map": openMap,
@@ -980,7 +1010,7 @@ function openTab(tab) {
 }
 
 document.addEventListener("click", (e) => {
-	if (e.target.matches("dialog.round-sheet")) {
+	if (e.target.matches("dialog.round-sheet, dialog.chat-sheet")) {
 		const r = e.target.getBoundingClientRect();
 		if (e.clientX < r.left || e.clientX > r.right || e.clientY < r.top || e.clientY > r.bottom) closeSheet(e.target);
 	}
@@ -1072,19 +1102,24 @@ document.addEventListener("pointerover", (e) => {
 	if (tip) e.target.closest(".chart").querySelector(".tip").textContent = tip;
 });
 
+document.addEventListener("input", (e) => {
+	if (e.target.id === "ask" && session) session.askDraft = e.target.value;
+});
+
 document.addEventListener("submit", async (e) => {
 	e.preventDefault();
-	if (e.target.dataset.form !== "ask") return;
+	if (e.target.dataset.form !== "ask" || !session || session.asking) return;
 	const s = session;
 	const q = current();
 	const text = e.target.querySelector("textarea").value.trim();
 	if (!text) return;
-	const chat = s.chat; // 답변 중 다음 문제로 넘어가면 s.chat 이 바뀐다
-	const shown = () => session === s && current() === q;
+	const chat = s.chat;
+	const shown = () => session === s && current() === q && document.getElementById("ai-chat")?.open;
 	const before = chat.length;
 	chat.push({ role: "user", content: text });
-	Object.assign(s, { asking: true, askError: false });
-	paintExplain();
+	Object.assign(s, { asking: true, askError: false, askDraft: "" });
+	e.target.querySelector("textarea").value = "";
+	paintChat();
 	try {
 		const res = await post("/api/ask", { question: q, explanation: s.explain, messages: chat, order: s.orders.get(q.id), pick: s.picks[q.id] });
 		const reader = res.body.pipeThrough(new TextDecoderStream()).getReader();
@@ -1092,20 +1127,19 @@ document.addEventListener("submit", async (e) => {
 		for (;;) {
 			const { done, value } = await reader.read();
 			if (done) break;
-			if (!reply.content) {
-				chat.push(reply);
-				s.asking = false;
-				if (shown()) paintExplain();
-			}
+			if (!reply.content) chat.push(reply);
 			reply.content += value;
-			if (shown()) [...document.querySelectorAll("#explain .say")].at(-1).textContent = reply.content;
+			if (shown()) paintChat();
 		}
 		if (!reply.content) throw new Error("빈 답변");
 		write(`chat:${q.id}`, chat);
 	} catch {
 		chat.length = before;
-		Object.assign(s, { asking: false, askError: true });
-		if (shown()) paintExplain();
+		Object.assign(s, { askError: true, askDraft: text });
+		if (shown()) document.getElementById("ai-chat").querySelector("textarea").value = text;
+	} finally {
+		s.asking = false;
+		if (shown()) paintChat();
 	}
 });
 
