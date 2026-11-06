@@ -205,7 +205,8 @@ export function basisHtml(q, ex, choice) {
 }
 
 // Keep the resting top edge until the visible viewport cannot fit a usable sheet.
-export function chatViewportLayout(baseHeight, visibleHeight, offsetTop = 0) {
+export function chatViewportLayout(baseHeight, visibleHeight, offsetTop = 0, width = 0) {
+	if (width >= 768) return { top: offsetTop, height: visibleHeight, keyboard: baseHeight - visibleHeight > 100 };
 	const bottom = offsetTop + visibleHeight;
 	const restingTop = baseHeight - Math.min(baseHeight * .8, 720);
 	const top = Math.max(offsetTop + 8, Math.min(restingTop, bottom - 240));

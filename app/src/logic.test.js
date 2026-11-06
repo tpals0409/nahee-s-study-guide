@@ -206,3 +206,6 @@ console.log("logic ok");
  assert.ok(small.height >= 240);
  assert.deepEqual(chatViewportLayout(844, 844), closed, 'closing restores original geometry');
 }
+
+assert.deepEqual(chatViewportLayout(1024, 640, 20, 768), {top:20, height:640, keyboard:true});
+assert.deepEqual(chatViewportLayout(768, 768, 0, 1024), {top:0, height:768, keyboard:false});

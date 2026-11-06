@@ -597,7 +597,7 @@ dialog[open].closing::backdrop { animation: unfade 160ms ease-in both; }
 dialog.chat-sheet { inset: auto 0 var(--kb, 0px); margin: 0 auto; width: min(760px, 100%); max-width: 100%; height: min(80dvh, 720px); max-height: calc(100dvh - var(--kb, 0px) - env(safe-area-inset-top) - 16px); padding: 0; border-radius: 24px 24px 0 0; overflow: hidden; }
 dialog.chat-sheet[open] { display: flex; flex-direction: column; animation: round-sheet-in 220ms ease-out; }
 dialog.chat-sheet.closing { animation: round-sheet-out 220ms ease-out; }
-html:has(dialog.chat-sheet[open]) { overflow: hidden; }
+html:has(dialog.chat-sheet:modal) { overflow: hidden; }
 .chat-sheet .round-grab { display: grid; flex: none; height: 24px; }
 .chat-header { flex: none; display: flex; align-items: center; justify-content: space-between; gap: 12px; padding: 0 20px 16px; border-bottom: 1px solid var(--border); }
 .chat-messages { flex: 1; min-height: 0; overflow-y: auto; overscroll-behavior: contain; padding: 20px; display: flex; flex-direction: column; gap: 16px; }
@@ -622,3 +622,19 @@ dialog.chat-sheet { top: var(--chat-top, auto); bottom: auto; height: var(--chat
 /* Streaming must not replay the global message entrance or browser scroll anchoring. */
 .chat-messages { overflow-anchor: none; scroll-behavior: auto; }
 .chat-messages .say { animation: none; }
+
+/* Supporting conversation: reserve reading space only when both panes fit. */
+@media (min-width: 768px) {
+ dialog.chat-sheet { position: fixed; left: auto; right: 0; margin: 0; width: 400px; border-radius: 0; border-left: 1px solid var(--border); z-index: 40; }
+ .chat-sheet .round-grab { display: none; }
+ .chat-sheet .chat-header { padding: calc(20px + env(safe-area-inset-top)) 20px 16px; }
+ dialog.chat-sheet[open] { animation: chat-pane-in 220ms ease-out; }
+ dialog.chat-sheet.closing { animation: chat-pane-out 220ms ease-out; }
+}
+@media (min-width: 1024px) {
+ body:has(#ai-chat[open]) .solve { width: calc(100% - 400px); max-width: none; margin: 0 400px 0 0; }
+ body:has(#ai-chat[open]) .cols.open { grid-template-columns: minmax(0, 1fr); }
+ body:has(#ai-chat[open]) .explain { position: static; max-height: none; }
+}
+@keyframes chat-pane-in { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+@keyframes chat-pane-out { to { opacity: 0; transform: translateY(6px); } }

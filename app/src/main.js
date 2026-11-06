@@ -555,6 +555,7 @@ function chatMessagesHtml(q, s) {
 	${s.askError ? '<p class="error" role="alert">답변을 받지 못했어요. 다시 전송해 주세요.</p>' : ""}`;
 }
 
+let chatDocked = false;
 let chatBaseHeight = 0;
 let chatBaseWidth = 0;
 let chatFollowBottom = true;
@@ -584,6 +585,7 @@ function openChat() {
 	if (!s?.revealed || !s.explain || typeof s.explain !== "object") return;
 	const q = current();
 	const dialog = document.getElementById("ai-chat");
+	if (dialog.open) { dialog.querySelector("textarea").focus({ preventScroll: true }); return; }
 	dialog.innerHTML = `<div class="round-grab" aria-hidden="true"><span></span></div>
 	<header class="chat-header"><div><h2 id="ai-chat-title">AI 질문</h2><p class="small muted">${q.year}년 · ${esc(q.subject)} · ${q.number}번</p></div><button class="iconbtn" data-act="dialog-close" aria-label="AI 질문 닫기">${icon("close")}</button></header>
 	<div class="chat-messages" role="log" aria-label="문제에 대한 대화">${chatMessagesHtml(q, s)}</div>
@@ -591,7 +593,8 @@ function openChat() {
 	chatBaseHeight = innerHeight;
 	chatBaseWidth = innerWidth;
 	chatFollowBottom = true;
-	dialog.showModal();
+	chatDocked = innerWidth >= 1024;
+	if (chatDocked) dialog.show(); else dialog.showModal();
 	updateChatViewport();
 	const messages = dialog.querySelector(".chat-messages");
 	messages.scrollTop = messages.scrollHeight;
@@ -771,6 +774,7 @@ function mockResult() {
 }
 
 function openMockReview(index) {
+	document.getElementById("ai-chat")?.close();
 	if (!["mock-result", "mock-review"].includes(session?.mode) || !Number.isInteger(index) || index < 0 || index >= session.ids.length) return;
 	session = { ...session, ...blank(), mode: "mock-review", i: index, revealed: true, committed: true };
 	solve();
@@ -933,6 +937,7 @@ const ACTIONS = {
 		start("mock", ids, `${d.year}년 ${d.subject} 기출 모의고사`, { deadline: Date.now() + MOCK_MINUTES[d.subject] * 60000, timer: setInterval(mockClock, 1000) });
 	},
 	"mock-result"() {
+		document.getElementById("ai-chat")?.close();
 		session = { ...session, mode: "mock-result", sheet: false };
 		keep();
 		mockResult();
@@ -1058,6 +1063,12 @@ document.addEventListener("close", (e) => {
 }, true);
 
 document.addEventListener("keydown", (e) => {
+	const chat = document.getElementById("ai-chat");
+	if (e.key === "Escape" && chat?.open && chatDocked) {
+		e.preventDefault();
+		shut(chat);
+		return;
+	}
 	if (!e.target.closest("#round-options") || !["ArrowDown", "ArrowUp", "Home", "End"].includes(e.key)) return;
 	e.preventDefault();
 	const options = [...document.querySelectorAll("#round-options .round-option")];
@@ -1121,7 +1132,15 @@ function updateChatViewport() {
 	const dialog = document.getElementById("ai-chat");
 	if (!dialog?.open) return;
 	if (chatBaseWidth !== innerWidth) { chatBaseWidth = innerWidth; chatBaseHeight = innerHeight; }
-	const layout = chatViewportLayout(chatBaseHeight, visibleHeight, offset);
+	const docked = innerWidth >= 1024;
+	if (docked !== chatDocked) {
+		const focused = document.activeElement;
+		dialog.close();
+		chatDocked = docked;
+		if (docked) dialog.show(); else dialog.showModal();
+		if (dialog.contains(focused)) focused.focus({ preventScroll: true });
+	}
+	const layout = chatViewportLayout(chatBaseHeight, visibleHeight, offset, innerWidth);
 	dialog.style.setProperty("--chat-top", `${layout.top}px`);
 	dialog.style.setProperty("--chat-height", `${layout.height}px`);
 	dialog.classList.toggle("keyboard-open", layout.keyboard);

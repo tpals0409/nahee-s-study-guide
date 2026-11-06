@@ -231,7 +231,7 @@ const streamedText = { textContent: "" };
 const chatMessages = { querySelector: () => streamedText, addEventListener() {}, innerHTML: '', scrollHeight: 100, scrollTop: 0, clientHeight: 100 };
 const chatInput = { value: '왜 정답인가요?', disabled: false };
 const chatSend = { disabled: false };
-const chatDialog = { style: { setProperty() {} }, classList: { toggle() {} }, open: false, innerHTML: '', showModal() { this.open = true; },
+const chatDialog = { style: { setProperty() {} }, classList: { toggle() {} }, open: false, innerHTML: '', show() { this.open = true; this.modal = false; }, showModal() { this.open = true; this.modal = true; },
  querySelector(selector) { return selector === '.chat-messages' ? chatMessages : selector === 'textarea' ? chatInput : chatSend; } };
 ctx.document.getElementById = (id) => id === 'ai-chat' ? chatDialog : null;
 ctx.document.documentElement = { style: { setProperty() {} } };
@@ -242,6 +242,7 @@ assert.match(run('explainHtml(current())'), /AI 질문/);
 assert.doesNotMatch(run('explainHtml(current())'), /data-form="ask"/);
 run('openChat();');
 assert.equal(chatDialog.open, true);
+assert.equal(chatDialog.modal, false, "wide screens allow problem interaction");
 assert.match(chatDialog.innerHTML, /data-form="ask"/);
 assert.match(chatDialog.innerHTML, /2026년/);
 run(`let askCalls=0; post=async()=>{askCalls++;return new Response('설명 답변');};`);
@@ -274,3 +275,14 @@ chatMessages.scrollTop = 17;
 run("paintChatReply({content:'이어지는 답변'}, 3);");
 assert.equal(chatMessages.scrollTop, 17, 'reading earlier messages does not force a scroll');
 console.log('stable streaming message updates ok');
+
+chatDialog.close = function () { this.open = false; };
+chatDialog.contains = () => false;
+ctx.innerWidth = 768;
+run('updateChatViewport()');
+assert.equal(chatDialog.modal, true, 'portrait drawer makes background inert');
+ctx.innerWidth = 1024;
+run('updateChatViewport()');
+assert.equal(chatDialog.modal, false, 'landscape restores interactive supporting pane');
+assert.match(chatDialog.innerHTML, /data-form="ask"/, 'rotation preserves conversation DOM');
+console.log('adaptive chat orientation ok');
