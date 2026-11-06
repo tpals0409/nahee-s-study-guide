@@ -1,4 +1,5 @@
 import assert from "node:assert/strict";
+import { splitStatements, stemHtml } from "./logic.js";
 import { mockHistory, basisHtml, addDays, choiceOrder, dayComplete, dayIds, dayKey, dueIds, emptyState, isCorrect, merge, pickDaily, progress, reviewIds, streak, weekStart, dailyAccuracy } from "./logic.js";
 
 const at = (day, h = 12) => new Date(`${day}T${String(h).padStart(2, "0")}:00:00`).getTime();
@@ -172,6 +173,22 @@ const bySubject = (ids) => SUBJ.map((s) => ids.filter((id) => bank.find((b) => b
 	assert.equal(h.size, 1, "spaced daily answers are not an attempt");
 	const mixed = take(1000, 1).map((e, i) => (i === 5 ? { ...e, id: "x" } : e));
 	assert.equal(mockHistory(mixed, byId).size, 0, "a run across rounds is not an attempt");
+}
+
+// Ordered statement lists keep continuation lines and inline final items; tables stay intact.
+{
+	const stem = "옳은 것을 고르시오.\n<보기>\nㄱ. 첫 지문\n이어지는 문장\nㄴ. 둘째\nㄷ. 셋째\nㄹ. 넷째  ㅁ. 마지막";
+	assert.deepEqual(splitStatements(stem), { prompt: "옳은 것을 고르시오.", items: [
+		{ label: "ㄱ", text: "첫 지문\n이어지는 문장" }, { label: "ㄴ", text: "둘째" },
+		{ label: "ㄷ", text: "셋째" }, { label: "ㄹ", text: "넷째" }, { label: "ㅁ", text: "마지막" },
+	] });
+	assert.equal(splitStatements("질문\n보  기\nㄱ. 하나\nㄴ. 둘").prompt, "질문");
+	for (const text of ["일반 문제", "ㄱ: 값 / ㄴ: 값", "ㄱ. 하나\nㄷ. 셋", "ㄱ. 하나\nㄴ."]) assert.equal(splitStatements(text), null);
+	assert.equal(stemHtml({ stem: "일반 <문제>" }), '<p class="stem">일반 &#60;문제&#62;</p>');
+	const html = stemHtml({ stem: "질문\nㄱ. <script>\nㄴ. 둘" });
+	assert.match(html, /class="statement-box"/);
+	assert.match(html, /&#60;script&#62;/);
+	assert.equal((html.match(/class="statement"/g) || []).length, 2);
 }
 
 console.log("logic ok");

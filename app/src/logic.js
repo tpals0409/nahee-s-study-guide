@@ -177,6 +177,22 @@ export function dailyAccuracy(log, questionsById, today, maxDays = 7) {
 
 export const esc = (s) => String(s).replace(/[&<>"']/g, (c) => `&#${c.charCodeAt(0)};`);
 
+/** Only split an unambiguous, ordered ㄱ. ㄴ. ... list; tables and references remain intact. */
+export function splitStatements(stem) {
+	const marks = [...stem.matchAll(/(?:^|\s)([ㄱㄴㄷㄹㅁㅂㅅㅇㅈㅊㅋㅌㅍㅎ])[ \t]*[.．)][ \t]*/g)];
+	if (marks.length < 2 || marks.some((m, i) => m[1] !== "ㄱㄴㄷㄹㅁㅂㅅㅇㅈㅊㅋㅌㅍㅎ"[i])) return null;
+	const items = marks.map((m, i) => ({ label: m[1], text: stem.slice(m.index + m[0].length, marks[i + 1]?.index ?? stem.length).trim() }));
+	if (items.some((item) => !item.text)) return null;
+	const prompt = stem.slice(0, marks[0].index).replace(/(?:^|\n)\s*(?:<\s*보\s*기\s*>|보\s*기)\s*$/, "").trim();
+	return { prompt, items };
+}
+
+export function stemHtml(q) {
+	const parts = splitStatements(q.stem);
+	if (!parts) return `<p class="stem${q.stem.length > 200 ? " long" : ""}">${esc(q.stem)}</p>`;
+	return `<div class="question-stem">${parts.prompt ? `<p class="stem${parts.prompt.length > 200 ? " long" : ""}">${esc(parts.prompt)}</p>` : ""}<section class="statement-box" aria-label="보기 지문"><h3 class="statement-heading">보기</h3><ul class="statements" role="list">${parts.items.map((item) => `<li class="statement"><span class="statement-label">${item.label}.</span><p>${esc(item.text)}</p></li>`).join("")}</ul></section></div>`;
+}
+
 /* 조문·조약은 생성 때 본문과 대조한 근거, 판례는 원문이 없는 근거 */
 export function basisHtml(q, ex, choice) {
 	const items = ex.basis?.filter((b) => b.choice === choice) ?? [];

@@ -1,5 +1,5 @@
 import {
-	basisHtml, esc,
+	basisHtml, esc, stemHtml,
 	DAILY_SIZE, MOCK_MINUTES, SUBJECTS, addDays, choiceOrder, dayComplete, dayIds, dayKey, emptyState, isCorrect,
 	merge, mockHistory, pickDaily, progress, reviewIds, shuffle, solvedOn, streak, weekStart,
 } from "./logic.js";
@@ -470,13 +470,10 @@ function leave() {
 	render();
 }
 
-/* 긴 지문까지 굵으면 글자 벽이 돼서 보통 굵기로 둔다 */
-const stemHtml = (q) => `<p class="stem${q.stem.length > 200 ? " long" : ""}">${esc(q.stem)}</p>`;
-
 function choiceHtml(q) {
 	const s = session;
 	const picked = s.picks[q.id];
-	return `<fieldset class="choices"><legend class="sr">보기</legend>${s.orders.get(q.id).map((orig, pos) => {
+	return `<fieldset class="choices"><legend class="sr">정답 선택</legend>${s.orders.get(q.id).map((orig, pos) => {
 		const correct = isCorrect(q, orig);
 		const cls = s.revealed ? (correct ? "right" : picked === orig ? "wrong" : "") : "";
 		const mark = s.revealed ? (correct ? "정답" : picked === orig ? "내 답" : "") : "";
