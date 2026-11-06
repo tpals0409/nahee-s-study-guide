@@ -634,7 +634,7 @@ dialog.chat-sheet { top: var(--chat-top, auto); bottom: auto; height: var(--chat
 @media (min-width: 1024px) {
  body:has(#ai-chat[open]) .solve { width: calc(100% - 400px); max-width: none; margin: 0 400px 0 0; }
  body:has(#ai-chat[open]) .cols.open { grid-template-columns: minmax(0, 1fr); }
- body:has(#ai-chat[open]) .explain { position: static; max-height: none; }
+ body:has(#ai-chat[open]) .explain { position: static; max-height: none; transform: none; visibility: visible; }
 }
 @keyframes chat-pane-in { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
 @keyframes chat-pane-out { to { opacity: 0; transform: translateY(6px); } }
