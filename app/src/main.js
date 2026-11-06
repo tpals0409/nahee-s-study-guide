@@ -163,7 +163,7 @@ function ensureToday() {
 /* 틀 */
 const TABS = [
 	["home", "홈", "home"],
-	["exam", "기출문제", "layers"],
+	["exam", "기출 모의고사", "layers"],
 	["notes", "오답노트", "bookmark"],
 	["stats", "학습 기록", "chart"],
 ];
@@ -250,16 +250,12 @@ function exam() {
 		rounds.set(q.year, r);
 	}
 	const years = [...rounds.keys()].sort((a, b) => b - a);
-	shell("exam", `<h1>기출문제</h1>
+	shell("exam", `<h1>기출 모의고사</h1>
 	<section class="card">
-		<h2>실전 모의고사</h2>
-		<div class="list">${SUBJECTS.map((s) => `<button class="link" data-act="mock" data-subject="${s}"><span>${s} <span class="muted small">${MOCK_MINUTES[s]}분</span></span>${icon("right")}</button>`).join("")}</div>
-	</section>
-	<section class="card">
-		<h2>연도 회차별 풀기</h2>
+		<h2>연도·회차 선택</h2>
 		<div class="list">${years.map((y) => {
 			const r = rounds.get(y);
-			return `<div class="stack" style="gap:8px"><strong>${y}년 제${r.round}회</strong><div class="actions">${SUBJECTS.filter((s) => r.n[s]).map((s) => `<button class="chip" data-act="round" data-year="${y}" data-subject="${s}">${s} ${r.n[s]}</button>`).join("")}</div></div>`;
+			return `<div class="stack" style="gap:8px"><strong>${y}년 제${r.round}회</strong><div class="actions">${SUBJECTS.filter((s) => r.n[s]).map((s) => `<button class="chip" data-act="round" data-year="${y}" data-subject="${s}">${s} · ${r.n[s]}문제 · ${MOCK_MINUTES[s]}분</button>`).join("")}</div></div>`;
 		}).join("")}</div>
 	</section>`);
 }
@@ -393,7 +389,7 @@ function start(mode, ids, title, extra = {}) {
 	const from = location.hash || "#home";
 	scrolls[from] = scrollY;
 	history.pushState(null, "", "#solve");
-	session = { ...blank(), motion: "enter present", from, pushed: true, mode, ids, title, i: 0, orders: new Map(ids.map((id) => [id, choiceOrder(byId.get(id))])), picks: {}, score: 0, ...extra };
+	session = { ...blank(), motion: "enter present", from, pushed: true, mode, ids, title, i: 0, orders: new Map(ids.map((id) => [id, mode === "mock" ? [0, 1, 2, 3, 4] : choiceOrder(byId.get(id))])), picks: {}, score: 0, ...extra };
 	solve();
 	scrollTo(0, 0);
 }
@@ -406,18 +402,20 @@ function keep() {
 
 function resume() {
 	const saved = read("session", null);
-	if (!saved?.ids.every((id) => byId.has(id))) return false;
+	if (!saved?.ids?.length || saved.mode === "round" || !saved.ids.every((id) => byId.has(id))) return false;
 	session = { ...blank(), ...saved, orders: new Map(saved.orders) };
 	history.replaceState(null, "", "#solve");
 	if (session.mode === "mock") session.timer = setInterval(mockClock, 1000);
+	if (session.mode === "mock-review") session.revealed = true;
 	solve();
+	if (session.mode === "mock-review") loadExplain();
 	return true;
 }
 
 const current = () => byId.get(session.ids[session.i]);
 
 function commit() {
-	if (!session?.revealed || session.committed) return;
+	if (!session?.revealed || session.committed || session.mode.startsWith("mock")) return;
 	const q = current();
 	const ok = isCorrect(q, session.picks[q.id]);
 	session.score += ok ? 1 : 0;
@@ -588,6 +586,7 @@ function solve() {
 	const s = session;
 	keep();
 	if (s.mode === "mock") return mock();
+	if (s.mode === "mock-result") return mockResult();
 	const q = current();
 	const ok = s.revealed && isCorrect(q, s.picks[q.id]);
 	const flag = state.flags[q.id]?.on;
@@ -616,7 +615,9 @@ function solve() {
 			${s.revealed ? `<aside class="card explain" id="explain" ${s.sheet ? "data-open" : ""} aria-label="해설">${explainHtml(q)}</aside>` : ""}
 		</div>
 		<div class="dock">
-			${s.revealed
+			${s.mode === "mock-review"
+				? `<button class="btn quiet" data-act="mock-review-move" data-delta="-1" ${s.i === 0 ? "disabled" : ""}>이전</button><button class="btn quiet openexplain" data-act="sheet-open">해설 보기</button>${s.i + 1 < s.ids.length ? '<button class="btn quiet" data-act="mock-review-move" data-delta="1">다음</button>' : ""}<button class="btn" data-act="mock-result">결과</button>`
+				: s.revealed
 				? `<button class="btn quiet openexplain" data-act="sheet-open">해설 보기</button><button class="btn" data-act="next">${s.i + 1 < s.ids.length ? "다음 문제" : "마치기"}</button>`
 				: '<button class="btn" data-act="reveal">정답 확인</button>'}
 		</div>
@@ -628,7 +629,37 @@ function solve() {
 	});
 }
 
+function mockResult() {
+	const s = session;
+	app.innerHTML = `<div class="solve" style="max-width:800px">
+		<section class="card">
+			<h1>${esc(s.title)}</h1>
+			<p><strong>${pct(s.score, s.ids.length)}점</strong> · 정답 ${s.score} / ${s.ids.length}</p>
+			<p class="muted small">오답 문항 복습 등록 완료</p>
+			<div class="list">${s.ids.map((id, i) => {
+				const q = byId.get(id);
+				const picked = s.picks[id];
+				const ok = picked !== undefined && isCorrect(q, picked);
+				const order = s.orders.get(id);
+				const answer = q.answer.map((n) => order.indexOf(n - 1) + 1).sort().join(", ");
+				return `<button class="link" data-act="mock-review" data-index="${i}"><span>${q.number}번 · ${picked === undefined ? "미응답" : ok ? "정답" : "오답"}<br><span class="small muted">내 답 ${picked === undefined ? "—" : order.indexOf(picked) + 1} · 정답 ${answer}</span></span><span>해설 ${icon("right")}</span></button>`;
+			}).join("")}</div>
+		</section>
+		<div class="dock"><button class="btn" data-act="leave">마치기</button></div>
+	</div>`;
+	scrollTo(0, 0);
+}
+
+function openMockReview(index) {
+	if (!["mock-result", "mock-review"].includes(session?.mode) || !Number.isInteger(index) || index < 0 || index >= session.ids.length) return;
+	session = { ...session, ...blank(), mode: "mock-review", i: index, revealed: true, committed: true };
+	solve();
+	scrollTo(0, 0);
+	loadExplain();
+}
+
 function mockClock() {
+	if (session?.mode !== "mock") return;
 	const left = Math.max(0, Math.ceil((session.deadline - Date.now()) / 1000));
 	const el = document.getElementById("clock");
 	if (el) el.textContent = `${Math.floor(left / 60)}:${String(left % 60).padStart(2, "0")}`;
@@ -644,7 +675,7 @@ function mock() {
 	app.innerHTML = `<div class="solve ${motion}" style="max-width:800px">
 		<header><div class="row"><button class="iconbtn" data-act="mock-quit" aria-label="모의고사 그만두기">${icon("close")}</button><strong role="timer" aria-label="남은 시간" id="clock"></strong><span>${s.i + 1} / ${s.ids.length}</span></div></header>
 		<section class="card">
-			<span><span class="tag">${q.subject}</span></span>
+			<span><span class="tag">${q.year}년 제${q.round}회 · ${q.subject}</span></span>
 			<p class="stem">${esc(q.stem)}</p>
 			${figureHtml(q)}
 			${choiceHtml(q)}
@@ -673,6 +704,8 @@ function notice(title, lines, act) {
 
 function submitMock() {
 	const s = session;
+	if (s?.mode !== "mock") return;
+	document.getElementById("confirm")?.close();
 	clearInterval(s.timer);
 	const t = Date.now();
 	s.score = 0;
@@ -681,8 +714,10 @@ function submitMock() {
 		s.score += ok ? 1 : 0;
 		state.log.push({ t: t + i, id, ok });
 	});
+	session = { ...s, mode: "mock-result", timer: null };
 	save();
-	finish();
+	keep();
+	mockResult();
 }
 
 /* 입력 */
@@ -708,34 +743,26 @@ const ACTIONS = {
 	single: (d) => start("single", [d.id], "다시 풀기"),
 	round(d) {
 		const count = questions.filter((q) => q.year === Number(d.year) && q.subject === d.subject).length;
-		notice(`${d.year}년 ${d.subject}`, [
-			`${count}문제 연속 풀이`,
-			"문제별 정답·해설 즉시 확인",
-			"오답·애매함 문항 복습 등록",
-			"중단 시 푼 문제까지 저장",
-			"재시작 시 첫 문제부터",
+		notice(`${d.year}년 ${d.subject} 기출 모의고사`, [
+			`${count}문제 · 제한 시간 ${MOCK_MINUTES[d.subject]}분`,
+			"시작 후 시간 정지 불가, 앱 이탈 시에도 진행",
+			"시간 종료 시 자동 제출",
+			"제출 후 일괄 채점·문항별 해설 확인",
+			"미응답 문항 오답 처리·오답 문항 복습 등록",
+			"중도 포기 시 기록 미저장",
 		], { name: "round-start", attrs: `data-year="${d.year}" data-subject="${d.subject}"` });
 	},
 	"round-start"(d) {
 		const ids = questions.filter((q) => q.year === Number(d.year) && q.subject === d.subject).sort((a, b) => a.number - b.number).map((q) => q.id);
-		start("round", ids, `${d.year}년 ${d.subject}`);
+		start("mock", ids, `${d.year}년 ${d.subject} 기출 모의고사`, { deadline: Date.now() + MOCK_MINUTES[d.subject] * 60000, timer: setInterval(mockClock, 1000) });
 	},
-	mock(d) {
-		notice(`${d.subject} 모의고사`, [
-			`40문제 · 제한 시간 ${MOCK_MINUTES[d.subject]}분`,
-			"시작 후 시간 정지 불가, 앱 이탈 시에도 진행",
-			"시간 종료 시 자동 제출",
-			"제출 후 일괄 채점",
-			"미응답 문항 오답 처리",
-			"오답 문항 복습 등록",
-			"중도 포기 시 기록 미저장",
-		], { name: "mock-start", attrs: `data-subject="${d.subject}"` });
+	"mock-result"() {
+		session = { ...session, mode: "mock-result", sheet: false };
+		keep();
+		mockResult();
 	},
-	"mock-start"(d) {
-		const pool = questions.filter((q) => q.subject === d.subject).map((q) => q.id);
-		const ids = shuffle(pool).slice(0, 40);
-		start("mock", ids, `${d.subject} 모의고사`, { deadline: Date.now() + MOCK_MINUTES[d.subject] * 60000, timer: setInterval(mockClock, 1000) });
-	},
+	"mock-review": (d) => openMockReview(Number(d.index)),
+	"mock-review-move": (d) => openMockReview(session.i + Number(d.delta)),
 	reveal,
 	next,
 	close: closeSession,
@@ -813,7 +840,7 @@ document.addEventListener("click", (e) => {
 });
 
 document.addEventListener("change", (e) => {
-	if (e.target.name === "c" && session) {
+	if (e.target.name === "c" && session && !session.revealed && session.mode !== "mock-result") {
 		session.picks[current().id] = Number(e.target.value);
 		session.error = "";
 		keep();
