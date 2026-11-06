@@ -57,6 +57,7 @@ let session = null;
 let calendarMonth = null;
 let radarIndex = 0;
 let radarLoading = false;
+let solveClosed = false;
 let selectedExamYear = null;
 
 let lastTab = null;
@@ -65,6 +66,20 @@ const visited = new Set();
 const tabPaths = {};
 
 const today = () => dayKey(Date.now());
+
+/* 닫는 움직임이 끝난 뒤 닫는다. 움직임을 끄면 재생할 것이 없어서 바로 닫힌다. */
+function shut(d) {
+	if (!d.open) return Promise.resolve();
+	return d.shutting ??= (async () => {
+		d.classList.add("closing");
+		await Promise.allSettled(d.getAnimations({ subtree: true }).map((a) => a.finished));
+		d.shutting = null;
+		if (!d.classList.contains("closing")) return; // 닫히는 중에 다시 열렸다
+		d.classList.remove("closing");
+		d.style.transform = "";
+		d.close();
+	})();
+}
 
 const calm = () => matchMedia("(prefers-reduced-motion: reduce)").matches;
 
@@ -76,18 +91,17 @@ function placePill(key, root) {
 	const on = root?.querySelector('[aria-current], [aria-pressed="true"]');
 	if (!pill || !on) return;
 	const to = { x: on.offsetLeft, y: on.offsetTop, w: on.offsetWidth, h: on.offsetHeight };
-	const put = (b) => Object.assign(pill.style, { width: `${b.w}px`, height: `${b.h}px`, transform: `translate(${b.x}px, ${b.y}px)` });
+	const box = (b) => ({ width: `${b.w}px`, height: `${b.h}px`, transform: `translate(${b.x}px, ${b.y}px)` });
 	const from = pillBoxes[key];
 	pillBoxes[key] = to;
-	if (!from) {
-		put(to);
-		pill.classList.add("appear");
-		return;
-	}
-	put(from);
-	pill.getBoundingClientRect();
-	pill.classList.add("slide");
-	put(to);
+	Object.assign(pill.style, box(to));
+	if (!from) return pill.classList.add("appear");
+	if (calm() || (from.x === to.x && from.y === to.y)) return;
+	/* 물방울처럼 두 자리를 이을 만큼 늘어났다가 다음 자리로 모인다 */
+	const x = Math.min(from.x, to.x);
+	const y = Math.min(from.y, to.y);
+	const span = { x, y, w: Math.max(from.x + from.w, to.x + to.w) - x, h: Math.max(from.y + from.h, to.y + to.h) - y };
+	pill.animate([box(from), { ...box(span), offset: 0.4 }, box(to)], { duration: 420, easing: "cubic-bezier(.22, 1, .36, 1)" });
 }
 
 const placePills = () => {
@@ -278,7 +292,7 @@ function exam() {
 	</section>`);
 }
 
-function setRoundOpen(open, restoreFocus = false) {
+async function setRoundOpen(open, restoreFocus = false) {
 	const trigger = document.getElementById("round-trigger");
 	const sheet = document.getElementById("round-sheet");
 	if (!trigger || !sheet) return;
@@ -289,7 +303,7 @@ function setRoundOpen(open, restoreFocus = false) {
 		selected?.focus({ preventScroll: true });
 		selected?.scrollIntoView({ block: "nearest" });
 	} else {
-		if (sheet.open) sheet.close();
+		await shut(sheet);
 		if (restoreFocus) trigger.focus({ preventScroll: true });
 	}
 }
@@ -458,6 +472,7 @@ function closeSession() {
 function dropSession() {
 	const { from = "#home" } = session;
 	session = null;
+	solveClosed = true;
 	lastTab = null;
 	visited.delete(from);
 	write("session", null);
@@ -471,6 +486,9 @@ function leave() {
 	history.replaceState(null, "", from);
 	render();
 }
+
+/* 긴 지문까지 굵으면 글자 벽이 돼서 보통 굵기로 둔다 */
+const stemHtml = (q) => `<p class="stem${q.stem.length > 200 ? " long" : ""}">${esc(q.stem)}</p>`;
 
 function choiceHtml(q) {
 	const s = session;
@@ -623,9 +641,9 @@ function solve() {
 			<div class="bar on-white" role="progressbar" aria-valuemin="0" aria-valuemax="${s.ids.length}" aria-valuenow="${s.i + 1}" aria-label="진행"><i id="progress" style="width:${(s.i / s.ids.length) * 100}%"></i></div>
 		</header>
 		<div class="cols ${s.revealed ? "open" : ""}">
-			<section class="card">
+			<section class="card q">
 				<span><span class="tag">${q.year}년 · ${q.subject}</span></span>
-				<p class="stem">${esc(q.stem)}</p>
+				${stemHtml(q)}
 				${figureHtml(q)}
 				${choiceHtml(q)}
 				${s.error ? `<p class="error" role="alert">${s.error}</p>` : ""}
@@ -699,9 +717,9 @@ function mock() {
 	s.motion = null;
 	app.innerHTML = `<div class="solve ${motion}" style="max-width:800px">
 		<header><div class="row"><button class="iconbtn" data-act="mock-quit" aria-label="모의고사 그만두기">${icon("close")}</button><strong role="timer" aria-label="남은 시간" id="clock"></strong><span>${s.i + 1} / ${s.ids.length}</span></div></header>
-		<section class="card">
+		<section class="card q">
 			<span><span class="tag">${q.year}년 제${q.round}회 · ${q.subject}</span></span>
-			<p class="stem">${esc(q.stem)}</p>
+			${stemHtml(q)}
 			${figureHtml(q)}
 			${choiceHtml(q)}
 		</section>
@@ -717,8 +735,9 @@ function mock() {
 
 function confirmDialog(message, label, act, cancel = "계속 풀기") {
 	const d = document.getElementById("confirm");
+	d.classList.remove("closing");
 	d.innerHTML = `<div class="stack">${message}<button class="btn" data-act="${act.name ?? act}" ${act.attrs ?? ""}>${label}</button><button class="btn quiet" data-act="dialog-close">${cancel}</button></div>`;
-	d.showModal();
+	if (!d.open) d.showModal();
 	d.focus();
 }
 
@@ -752,8 +771,8 @@ const ACTIONS = {
 		setRoundOpen(document.getElementById("round-trigger").getAttribute("aria-expanded") !== "true");
 	},
 	"round-close": () => setRoundOpen(false, true),
-	"round-select"(d) {
-		setRoundOpen(false);
+	async "round-select"(d) {
+		await setRoundOpen(false);
 		selectedExamYear = Number(d.year);
 		exam();
 		document.getElementById("round-trigger")?.focus({ preventScroll: true });
@@ -873,9 +892,17 @@ document.addEventListener("click", (e) => {
 	}
 	const el = e.target.closest("[data-act]");
 	if (!el || el.disabled) return;
-	el.closest("dialog")?.close();
+	const dialog = el.closest("dialog");
+	if (dialog) shut(dialog);
+	if (el.classList.contains("chip")) el.classList.add("picked");
 	ACTIONS[el.dataset.act](el.dataset);
 });
+
+document.addEventListener("cancel", (e) => {
+	if (!e.target.matches("dialog")) return;
+	e.preventDefault();
+	shut(e.target);
+}, true);
 
 // Native modal semantics keep focus inside the sheet and support Escape.
 document.addEventListener("close", (e) => {
@@ -892,14 +919,17 @@ document.addEventListener("keydown", (e) => {
 	options[next]?.scrollIntoView({ block: "nearest" });
 });
 
+/* 손잡이를 끌어내려 시트를 닫는다. 놓으면 제자리로 돌아가거나 끌린 자리에서 이어서 내려간다. */
 document.addEventListener("pointerdown", (e) => {
-	const handle = e.target.closest("#round-grab");
-	if (!handle || e.button !== 0 || matchMedia("(min-width: 768px)").matches) return;
-	const sheet = document.getElementById("round-sheet");
+	const handle = e.target.closest("#grab, #round-grab");
+	if (!handle || e.button !== 0) return;
+	const round = handle.id === "round-grab";
+	const sheet = document.getElementById(round ? "round-sheet" : "explain");
 	const startY = e.clientY;
 	handle.setPointerCapture(e.pointerId);
 	const move = (event) => {
 		if (event.pointerId !== e.pointerId) return;
+		sheet.style.transition = "none";
 		sheet.style.transform = `translateY(${Math.max(0, event.clientY - startY)}px)`;
 	};
 	const end = (event) => {
@@ -907,8 +937,12 @@ document.addEventListener("pointerdown", (e) => {
 		handle.removeEventListener("pointermove", move);
 		handle.removeEventListener("pointerup", end);
 		handle.removeEventListener("pointercancel", end);
+		sheet.style.transition = "";
+		if (event.type === "pointerup" && event.clientY - startY > 80) {
+			if (round) return setRoundOpen(false, true);
+			setSheet(false);
+		}
 		sheet.style.transform = "";
-		if (event.type === "pointerup" && event.clientY - startY > 80) setRoundOpen(false, true);
 	};
 	handle.addEventListener("pointermove", move);
 	handle.addEventListener("pointerup", end);
@@ -918,30 +952,10 @@ document.addEventListener("pointerdown", (e) => {
 document.addEventListener("change", (e) => {
 	if (e.target.name === "c" && session && !session.revealed && session.mode !== "mock-result") {
 		session.picks[current().id] = Number(e.target.value);
+		e.target.closest(".choice").classList.add("picked");
 		session.error = "";
 		keep();
 	}
-});
-
-/* 손잡이를 끌어내려 해설 시트를 닫는다. */
-document.addEventListener("pointerdown", (e) => {
-	if (e.target.id !== "grab") return;
-	const sheet = document.getElementById("explain");
-	const startY = e.clientY;
-	const move = (m) => {
-		sheet.style.transition = "none";
-		sheet.style.transform = `translateY(${Math.max(0, m.clientY - startY)}px)`;
-	};
-	const up = (u) => {
-		removeEventListener("pointermove", move);
-		removeEventListener("pointerup", up);
-		removeEventListener("pointercancel", up);
-		sheet.style.transition = sheet.style.transform = "";
-		if (u.clientY - startY > 80) setSheet(false);
-	};
-	addEventListener("pointermove", move);
-	addEventListener("pointerup", up);
-	addEventListener("pointercancel", up);
 });
 
 /* 키보드가 올라오면 해설 시트를 그 위로 올린다. */
@@ -1031,6 +1045,15 @@ function loginScreen(message = "") {
 
 const ROUTES = { home, exam, notes, stats };
 
+/* 이전 화면이 바로 사라지지 않게 겹쳐서 넘긴다. 풀이를 닫을 때는 아래로 내려간다. */
+function paint() {
+	const down = solveClosed;
+	solveClosed = false;
+	if (session || calm() || !document.startViewTransition) return render();
+	document.documentElement.classList.toggle("vt-down", down);
+	document.startViewTransition(render);
+}
+
 function render() {
 	if (session) return;
 	if (!signedIn) return loginScreen();
@@ -1040,14 +1063,14 @@ function render() {
 }
 
 addEventListener("hashchange", () => {
-	if (!session || location.hash === "#solve") return render();
+	if (!session || location.hash === "#solve") return paint();
 	if (session.mode === "mock") {
 		history.pushState(null, "", "#solve");
 		return ACTIONS["mock-quit"]();
 	}
 	commit();
 	dropSession();
-	render();
+	paint();
 });
 addEventListener("resize", () => {
 	for (const key of Object.keys(pillBoxes)) delete pillBoxes[key];

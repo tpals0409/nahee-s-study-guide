@@ -5,6 +5,8 @@ html { -webkit-text-size-adjust: 100%; -webkit-tap-highlight-color: transparent;
 * { scrollbar-width: none; }
 ::-webkit-scrollbar { display: none; }
 body { margin: 0; overflow-x: clip; padding-inline: env(safe-area-inset-left) env(safe-area-inset-right); background: var(--surface2); color: var(--text); font: 400 16px/24px var(--font-sans); word-break: keep-all; overflow-wrap: anywhere; }
+/* iOS 는 background-attachment: fixed 를 무시해서 고정 층을 따로 둔다. 주소창이 접혀도 빈틈이 없게 lvh 를 쓴다 */
+body::before { content: ""; position: fixed; inset: 0 0 auto; z-index: -1; height: 100lvh; background: var(--wallpaper); pointer-events: none; }
 h1, h2, h3, p { margin: 0; }
 h1 { font-size: 24px; line-height: 36px; font-weight: 700; }
 h2 { font-size: 18px; line-height: 27px; font-weight: 600; }
@@ -32,7 +34,7 @@ svg.i { width: 24px; height: 24px; fill: none; stroke: currentColor; stroke-widt
 .drift-track { animation: drift-up 60s linear infinite; }
 .drift-col:nth-child(2) .drift-track { animation-name: drift-down; animation-duration: 46s; }
 .drift-col:nth-child(3) .drift-track { animation-duration: 74s; }
-.drift-card { display: grid; gap: var(--sp-sm); height: 92px; margin-bottom: var(--sp-md); padding: 12px; align-content: start; border-radius: var(--r-lg); background: var(--surface); font-size: 14px; line-height: 21px; }
+.drift-card { display: grid; gap: var(--sp-sm); height: 92px; margin-bottom: var(--sp-md); padding: 12px; align-content: start; border-radius: var(--r-lg); background: var(--glass-bg); box-shadow: var(--card-shadow); font-size: 14px; line-height: 21px; }
 .drift-card i { height: 5px; border-radius: 999px; background: var(--primary); }
 .drift-card i + i { width: 65%; }
 .login-panel { position: relative; z-index: 1; width: 100%; max-width: 420px; margin: 0 auto; padding: var(--sp-xl); display: grid; justify-items: center; gap: var(--sp-sm); text-align: center; }
@@ -41,28 +43,30 @@ svg.i { width: 24px; height: 24px; fill: none; stroke: currentColor; stroke-widt
 .login-panel h1 { animation-delay: 340ms; }
 .login-panel p { animation-delay: 420ms; }
 .login-panel .btn { margin-top: var(--sp-lg); animation-delay: 500ms; }
+.login-panel .error { padding: var(--sp-xs) var(--sp-md); border-radius: var(--r-md); background: var(--surface); }
 .btn.google { background: #FFFFFF; color: #1F1F1F; border: 1px solid #747775; font-weight: 500; }
 .btn.google .g { width: 20px; height: 20px; flex: none; }
 
 /* 틀 */
-.shell { min-height: 100dvh; padding-bottom: calc(76px + env(safe-area-inset-bottom)); }
-.main { padding: calc(var(--sp-lg) + env(safe-area-inset-top)) var(--sp-lg) var(--sp-xl); max-width: 1000px; width: 100%; margin: 0 auto; display: grid; gap: var(--sp-lg); align-content: start; }
+.shell { min-height: 100dvh; padding-bottom: calc(90px + env(safe-area-inset-bottom)); }
+.main { padding: calc(var(--sp-lg) + env(safe-area-inset-top)) var(--sp-lg) var(--sp-xl); max-width: 1000px; width: 100%; margin: 0 auto; overflow-x: clip; display: grid; gap: var(--sp-lg); align-content: start; }
 .brand { display: flex; align-items: center; gap: var(--sp-md); font-weight: 600; }
-.nav { position: fixed; inset: auto 0 0 0; z-index: 5; display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: var(--sp-xs); padding: var(--sp-sm) var(--sp-md) calc(var(--sp-sm) + env(safe-area-inset-bottom)); background: var(--surface); border-top: 1px solid var(--border); }
+.nav { position: fixed; inset: auto calc(12px + env(safe-area-inset-right)) calc(var(--sp-md) + env(safe-area-inset-bottom)) calc(12px + env(safe-area-inset-left)); z-index: 5; display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: var(--sp-xs); padding: var(--sp-sm); border: 1px solid var(--glass-line); border-radius: 32px; background: var(--glass-bg); -webkit-backdrop-filter: var(--glass-blur); backdrop-filter: var(--glass-blur); box-shadow: var(--glass-shadow); }
 .nav .brand { display: none; }
-.nav a, .nav-logout { display: grid; justify-items: center; gap: 2px; min-height: 56px; align-content: center; font-size: 12px; line-height: 18px; border-radius: var(--r-lg); }
+.nav a, .nav-logout { display: grid; justify-items: center; gap: 2px; min-height: 56px; align-content: center; font-size: 12px; line-height: 18px; border-radius: 26px; }
 .nav a, .nav-logout { position: relative; z-index: 1; }
 .nav-logout { display: none; }
 .topbrand { display: flex; align-items: center; justify-content: space-between; gap: var(--sp-md); }
 .top-logout { display: flex; align-items: center; gap: var(--sp-xs); min-height: 44px; padding: 0 var(--sp-md); flex-shrink: 0; font-size: 14px; border-radius: var(--r-md); }
 .pill { position: absolute; left: 0; top: 0; background: var(--primary); }
-.nav .pill { border-radius: var(--r-lg); }
-.pill.slide { transition: transform var(--dur-slow) var(--ease-spring), width var(--dur-slow) var(--ease-out), height var(--dur-slow) var(--ease-out); }
+.nav .pill { border-radius: 26px; }
 .pill.appear { animation: pop 600ms var(--ease-spring) both; }
 
 @media (min-width: 768px) {
 	.shell { display: grid; grid-template-columns: 208px minmax(0, 1fr); padding-bottom: 0; }
-	.nav { position: sticky; top: 0; inset: auto; height: 100dvh; display: flex; flex-direction: column; padding: var(--sp-xl) var(--sp-md); border-top: 0; }
+	/* 사이드바 뒤로는 내용이 지나가지 않아서 흐림을 끈다 */
+	.nav { position: sticky; top: 0; inset: auto; height: 100dvh; display: flex; flex-direction: column; padding: var(--sp-xl) var(--sp-md); border: 0; border-right: 1px solid var(--glass-line); border-radius: 0; box-shadow: none; -webkit-backdrop-filter: none; backdrop-filter: none; }
+	.nav a, .nav-logout, .nav .pill { border-radius: var(--r-lg); }
 	.nav .brand { display: flex; flex-direction: column; text-align: center; padding-bottom: var(--sp-xl); }
 	.nav .brand svg { width: 48px; height: 48px; }
 	.nav a, .nav-logout { display: flex; gap: var(--sp-md); padding: 0 var(--sp-lg); font-size: 16px; line-height: 24px; align-items: center; }
@@ -78,7 +82,8 @@ svg.i { width: 24px; height: 24px; fill: none; stroke: currentColor; stroke-widt
 }
 
 /* 부품 */
-.card { background: var(--surface); border-radius: var(--r-lg); padding: var(--sp-xl); display: grid; gap: var(--sp-lg); align-content: start; min-width: 0; }
+/* 뒤가 매끈한 고정 배경뿐이라 흐림을 걸어도 달라 보이지 않는다. 그래서 카드는 투명도만 쓴다 */
+.card { background: var(--glass-card); box-shadow: var(--card-shadow); border-radius: var(--r-lg); padding: var(--sp-xl); display: grid; gap: var(--sp-lg); align-content: start; min-width: 0; }
 .card.hero { background: var(--primary); }
 .home { display: grid; gap: var(--sp-lg); }
 .wide { grid-column: 1 / -1; }
@@ -94,7 +99,7 @@ svg.i { width: 24px; height: 24px; fill: none; stroke: currentColor; stroke-widt
 .bar.on-white { background: var(--primary); height: 6px; }
 .bar i { display: block; height: 100%; background: var(--text); border-radius: 999px; }
 .week { display: grid; grid-template-columns: repeat(7, 1fr); gap: var(--sp-xs); text-align: center; font-size: 14px; }
-.dot { width: min(32px, 100%); aspect-ratio: 1; margin: var(--sp-xs) auto 0; border-radius: 50%; border: 2px solid var(--borderStrong); display: grid; place-items: center; }
+.dot { width: min(32px, 100%); aspect-ratio: 1; margin: var(--sp-xs) auto 0; border-radius: 50%; border: 2px solid var(--borderStrong); background: var(--surface); display: grid; place-items: center; }
 .dot.on { background: var(--primary); border-color: var(--text); }
 .dot svg.i { width: 18px; height: 18px; }
 .link { display: flex; align-items: center; justify-content: space-between; gap: var(--sp-lg); width: 100%; min-height: 56px; text-align: left; }
@@ -103,10 +108,10 @@ svg.i { width: 24px; height: 24px; fill: none; stroke: currentColor; stroke-widt
 .round-trigger[aria-expanded="true"] { border-color: var(--text); background: var(--primarySoft); }
 .round-chevron { display: flex; transform: rotate(90deg); }
 .round-trigger[aria-expanded="true"] .round-chevron { transform: rotate(-90deg); }
-dialog.round-sheet { position: fixed; inset: auto 0 0; margin: 0; width: 100%; max-width: none; max-height: min(80dvh, 680px); padding: 0; border-radius: 24px 24px 0 0; overflow: hidden; background: var(--surface); }
+dialog.round-sheet { position: fixed; inset: auto 0 0; margin: 0; width: 100%; max-width: none; max-height: min(80dvh, 680px); padding: 0; border-radius: var(--r-lg) var(--r-lg) 0 0; overflow: hidden; transition: transform var(--dur) var(--ease-out); }
 dialog.round-sheet[open] { display: flex; flex-direction: column; animation: round-sheet-in var(--dur) var(--ease-out); }
 .round-grab { flex: none; display: grid; place-items: center; height: 28px; touch-action: none; cursor: grab; }
-.round-grab span { width: 40px; height: 4px; border-radius: 999px; background: var(--borderStrong); pointer-events: none; }
+.round-grab span { width: 40px; height: 5px; border-radius: 999px; background: var(--borderStrong); pointer-events: none; }
 .round-sheet-header { display: flex; flex: none; align-items: center; justify-content: space-between; padding: 0 var(--sp-xl) var(--sp-lg); }
 .round-sheet-header h2 { margin: 0; }
 .round-options { min-height: 0; overflow-y: auto; overscroll-behavior: contain; padding: 0 var(--sp-lg) calc(var(--sp-lg) + env(safe-area-inset-bottom)); }
@@ -115,6 +120,9 @@ dialog.round-sheet[open] { display: flex; flex-direction: column; animation: rou
 .round-option:focus-visible, .round-trigger:focus-visible { outline: 2px solid var(--text); outline-offset: -3px; }
 html:has(.round-sheet[open]) { overflow: hidden; }
 @keyframes round-sheet-in { from { transform: translateY(100%); } to { transform: translateY(0); } }
+@keyframes round-sheet-out { to { transform: translateY(100%); } }
+@keyframes shut { to { opacity: 0; transform: scale(.96); } }
+@keyframes unfade { to { opacity: 0; } }
 @media (min-width: 768px) {
   dialog.round-sheet { inset: 0; margin: auto; width: min(480px, calc(100vw - 48px)); max-height: min(70dvh, 640px); border-radius: var(--r-lg); }
   dialog.round-sheet[open] { animation: fade var(--dur) var(--ease-out); }
@@ -138,28 +146,41 @@ html:has(.round-sheet[open]) { overflow: hidden; }
 input.field, textarea.field { width: 100%; min-height: 48px; padding: var(--sp-md) var(--sp-lg); border: 1px solid var(--borderStrong); border-radius: var(--r-md); background: var(--surface); }
 
 /* 풀이 */
-.solve { min-height: 100dvh; max-width: 1200px; margin: 0 auto; padding: 0 var(--sp-lg); display: grid; gap: var(--sp-lg); grid-template-rows: auto 1fr auto; }
+.solve { min-height: 100dvh; max-width: 1200px; margin: 0 auto; padding: 0 var(--sp-lg); overflow-x: clip; display: grid; gap: var(--sp-lg); grid-template-rows: auto 1fr auto; }
+/* 해설과 결과는 오래 읽고 상태 글자가 놓여서 불투명을 유지한다 */
+.solve .card { background: var(--surface); }
+/* 문제는 카드 없이 배경 위에 두고 선지만 카드로 띄운다. 상자가 겹치지 않고 글자 폭도 넓어진다 */
+.solve .card.q { padding: var(--sp-xs) 0 var(--sp-md); gap: 14px; background: none; box-shadow: none; }
+.q .tag, .q .chip:not([aria-pressed="true"]) { background: var(--glass-card); }
+.q .verdict, .q .error { padding: var(--sp-md) var(--sp-lg); border-radius: var(--r-lg); background: var(--surface); }
 .solve.center { grid-template-rows: 1fr; align-items: center; padding-block: calc(var(--sp-lg) + env(safe-area-inset-top)) calc(var(--sp-lg) + env(safe-area-inset-bottom)); }
-.solve header { position: sticky; top: 0; z-index: 4; display: grid; gap: var(--sp-md); padding: calc(var(--sp-md) + env(safe-area-inset-top)) 0 var(--sp-md); background: var(--surface2); }
-.dock { position: sticky; bottom: 0; z-index: 4; display: flex; gap: var(--sp-md); padding: var(--sp-md) 0 calc(var(--sp-lg) + env(safe-area-inset-bottom)); background: var(--surface2); }
+.solve header, .dock { position: sticky; z-index: 4; margin-inline: calc(var(--sp-lg) * -1); background: var(--glass-bg); -webkit-backdrop-filter: var(--glass-blur); backdrop-filter: var(--glass-blur); box-shadow: var(--glass-shadow); }
+.solve header { top: 0; display: grid; gap: var(--sp-md); padding: calc(var(--sp-md) + env(safe-area-inset-top)) var(--sp-lg) var(--sp-md); border-radius: 0 0 var(--r-lg) var(--r-lg); }
+.dock { bottom: 0; display: flex; gap: var(--sp-md); padding: var(--sp-md) var(--sp-lg) calc(var(--sp-lg) + env(safe-area-inset-bottom)); border-radius: var(--r-lg) var(--r-lg) 0 0; }
+.dock .btn { flex: 1 1 auto; width: auto; padding: 0 var(--sp-md); white-space: nowrap; }
 .dock .btn.quiet { background: var(--surface); }
+.solve header .row > span { flex: none; white-space: nowrap; }
+@media (max-height: 500px) {
+	.solve header { gap: var(--sp-xs); padding-block: calc(var(--sp-xs) + env(safe-area-inset-top)) var(--sp-xs); }
+	.dock { padding-block: var(--sp-xs) calc(var(--sp-md) + env(safe-area-inset-bottom)); }
+	.dock .btn { min-height: 44px; }
+}
 .scrim { position: fixed; inset: 0; z-index: 9; background: rgb(2 2 2 / .4); opacity: 0; pointer-events: none; transition: opacity var(--dur) var(--ease-out); }
 .scrim[data-open] { opacity: 1; pointer-events: auto; }
 .grab { justify-self: center; width: 100%; padding: var(--sp-sm) 0 var(--sp-md); margin-top: calc(var(--sp-lg) * -1); touch-action: none; display: grid; place-items: center; }
 .grab::before { content: ""; width: 40px; height: 5px; border-radius: 999px; background: var(--borderStrong); }
 .iconbtn { width: 44px; height: 44px; display: grid; place-items: center; border-radius: 50%; }
 .cols { display: grid; gap: var(--sp-lg); align-items: start; }
-.stem { white-space: pre-wrap; }
+.stem { white-space: pre-wrap; font-size: 18px; line-height: 28px; font-weight: 600; letter-spacing: -.01em; }
+.stem.long { font-size: 16px; line-height: 26px; font-weight: 400; letter-spacing: 0; }
 .figure summary { cursor: pointer; color: var(--muted); }
 .zoomable { display: block; width: 100%; margin-top: var(--sp-md); cursor: zoom-in; }
 .zoomable img { display: block; width: 100%; height: auto; border-radius: var(--r-md); }
-.choices { display: grid; gap: var(--sp-md); border: 0; margin: 0; padding: 0; min-width: 0; }
-.choice { display: flex; gap: var(--sp-md); padding: 12px var(--sp-lg); border: 1px solid var(--borderStrong); border-radius: var(--r-choice); cursor: pointer; min-height: 48px; }
+.choices { display: grid; gap: 10px; border: 0; margin: 0; padding: 0; min-width: 0; }
+.choice { display: flex; gap: 10px; padding: 14px var(--sp-lg); border-radius: var(--r-lg); background: var(--surface); box-shadow: 0 2px 10px rgb(2 2 2 / .04); line-height: 25px; cursor: pointer; min-height: 48px; }
 .choice input { position: absolute; opacity: 0; }
-.choice:has(input:checked) { background: var(--primary); border: 2px solid var(--text); padding: 11px 15px; font-weight: 600; }
+.choice:has(input:checked) { background: var(--primary); box-shadow: inset 0 0 0 2px var(--text); font-weight: 600; }
 .choice:has(input:focus-visible) { outline: 2px solid var(--text); outline-offset: 2px; }
-.choice.right { border: 2px solid var(--success); padding: 11px 15px; }
-.choice.wrong { border: 2px solid var(--danger); padding: 11px 15px; }
 .choice .mark { margin-left: auto; font-size: 14px; font-weight: 600; white-space: nowrap; }
 .choice.right .mark { color: var(--success); }
 .choice.wrong .mark { color: var(--danger); }
@@ -177,12 +198,14 @@ input.field, textarea.field { width: 100%; min-height: 48px; padding: var(--sp-m
 .say { padding: var(--sp-md) var(--sp-lg); border-radius: var(--r-lg); white-space: pre-wrap; }
 .say.me { background: var(--primarySoft); margin-left: var(--sp-xl); }
 .openexplain { display: flex; }
-.explain { position: fixed; inset: auto 0 var(--kb, 0px) 0; z-index: 10; max-height: calc(80dvh - var(--kb, 0px)); overflow-y: auto; overscroll-behavior: contain; border-radius: var(--r-lg) var(--r-lg) 0 0; padding-bottom: calc(var(--sp-xl) + env(safe-area-inset-bottom)); transform: translateY(105%); visibility: hidden; transition: transform var(--dur-slow) var(--ease-out), visibility 0s var(--dur-slow); }
-.explain[data-open] { transform: none; visibility: visible; box-shadow: 0 -8px 24px rgb(2 2 2 / .16); transition: transform var(--dur-slow) var(--ease-out); }
-@media (min-width: 900px) {
+.explain { position: fixed; inset: auto 0 var(--kb, 0px) 0; z-index: 10; max-height: calc(80dvh - var(--kb, 0px)); overflow-y: auto; overscroll-behavior: contain; border-radius: var(--r-lg) var(--r-lg) 0 0; padding-bottom: calc(var(--sp-xl) + env(safe-area-inset-bottom)); transform: translateY(105%); visibility: hidden; transition: transform var(--dur-med) var(--ease-out), visibility 0s var(--dur-med); }
+.explain[data-open] { transform: none; visibility: visible; box-shadow: 0 -8px 24px rgb(2 2 2 / .16); transition: transform var(--dur-med) var(--ease-out); }
+/* 가로로 눕힌 휴대폰은 패널 높이가 모자라서 시트를 유지한다 */
+@media (min-width: 768px) and (min-height: 600px) {
+	.solve { --solve-head: calc(74px + env(safe-area-inset-top)); --solve-dock: calc(76px + env(safe-area-inset-bottom)); }
 	.cols.open { grid-template-columns: minmax(0, 1.1fr) minmax(0, 1fr); }
-	.explain, .explain[data-open] { position: sticky; top: var(--sp-lg); inset: auto; z-index: auto; max-height: calc(100dvh - 2 * var(--sp-lg)); border-radius: var(--r-lg); box-shadow: none; transform: none; visibility: visible; transition: none; }
-	.reveal .explain { animation: from-right var(--dur-slow) var(--ease-bounce) both; }
+	.explain, .explain[data-open] { position: sticky; inset: auto; top: calc(var(--solve-head) + var(--sp-lg)); z-index: auto; max-height: calc(100dvh - var(--solve-head) - var(--solve-dock) - 2 * var(--sp-lg)); border-radius: var(--r-lg); box-shadow: none; transform: none; visibility: visible; transition: none; }
+	.reveal .explain { animation: from-right var(--dur-med) var(--ease-out) both; }
 	.openexplain, .grab, .scrim { display: none; }
 }
 
@@ -192,11 +215,12 @@ input.field, textarea.field { width: 100%; min-height: 48px; padding: var(--sp-m
 .radar-card:focus-visible { outline: 2px solid var(--text); outline-offset: 4px; }
 .radar-heading, .radar-footer, .radar-value { display: flex; align-items: center; justify-content: space-between; gap: var(--sp-md); }
 .radar-heading > strong { font-size: 22px; line-height: 33px; }
-.radar-card svg { display: block; width: 100%; max-width: 400px; margin: auto; height: auto; }
+/* 글자가 SVG와 함께 줄어들어서 좁은 폭에서는 카드 여백까지 넓혀 그린다 */
+.radar-card svg { display: block; justify-self: center; width: min(400px, calc(100% + 2 * var(--sp-lg))); max-width: none; height: auto; }
 .radar-grid { fill: none; stroke: var(--borderStrong); stroke-width: .7; }
 .radar-axis { stroke: var(--border); stroke-width: 1; }
-.radar-scale { font: 10px var(--font-sans); fill: var(--muted); }
-.radar-label { font: 500 12px var(--font-sans); fill: var(--text); }
+.radar-scale { font: 12px var(--font-sans); fill: var(--muted); }
+.radar-label { font: 500 14px var(--font-sans); fill: var(--text); }
 .radar-shape { fill: var(--primary); fill-opacity: .65; stroke: var(--chart); stroke-width: 2.5; stroke-linejoin: round; }
 .radar-edge { fill: none; stroke: var(--chart); stroke-width: 2.5; }
 .radar-point { fill: var(--chart); stroke: var(--surface); stroke-width: 2; }
@@ -232,12 +256,13 @@ input.field, textarea.field { width: 100%; min-height: 48px; padding: var(--sp-m
 .calendar .cell.today { outline: 2px solid var(--text); outline-offset: -2px; }
 .calendar svg.i { width: 14px; height: 14px; }
 
-dialog { border: 0; border-radius: var(--r-lg); padding: var(--sp-xxl) var(--sp-xl); width: min(560px, calc(100vw - 32px)); max-width: none; max-height: calc(100dvh - 32px); color: var(--text); }
+/* 어두운 막 위에서 유리는 회색으로 탁해져서 불투명을 쓴다 */
+dialog { border: 0; background: var(--surface); border-radius: var(--r-lg); padding: var(--sp-xxl) var(--sp-xl); width: min(560px, calc(100vw - 32px)); max-width: none; max-height: calc(100dvh - 32px); color: var(--text); }
 dialog:focus { outline: none; }
 dialog .stack { gap: var(--sp-xl); }
 @media (min-width: 768px) { dialog { padding: 40px; } }
 dialog::backdrop { background: rgb(2 2 2 / .4); }
-#zoom { width: 100vw; height: 100dvh; max-height: none; padding: 0; border-radius: 0; background: var(--surface); }
+#zoom { width: 100vw; height: 100dvh; max-height: none; padding: 0; border-radius: 0; }
 #zoom img { display: block; width: 100%; height: 100%; object-fit: contain; }
 #zoom .iconbtn { position: fixed; top: calc(env(safe-area-inset-top) + var(--sp-md)); right: var(--sp-md); background: var(--surface2); }
 .notice { margin: 0; padding-left: 20px; display: grid; gap: 12px; }
@@ -258,11 +283,13 @@ dialog::backdrop { background: rgb(2 2 2 / .4); }
 @keyframes grow { from { transform: scaleX(0); } }
 @keyframes draw { from { stroke-dashoffset: 1; } to { stroke-dashoffset: 0; } }
 
-.btn, .chip, .link, .iconbtn, .nav a, .choice { transition: transform var(--dur-fast) var(--ease-out), background-color var(--dur) var(--ease-out), border-color var(--dur) var(--ease-out); }
-.btn:active, .chip:active, .iconbtn:active, .nav a:active { transform: scale(.96); }
-.link:active, .choice:active { transform: scale(.985); }
-.chip[aria-pressed="true"] { animation: press var(--dur-slow) var(--ease-bounce); }
-.choice:has(input:checked) { animation: press var(--dur-slow) var(--ease-bounce); }
+/* 누를 때는 빠르게 눌리고, 뗄 때는 물처럼 튀며 돌아온다 */
+.btn, .chip, .link, .iconbtn, .nav a, .choice { transition: transform var(--dur-med) var(--ease-bounce), background-color var(--dur) var(--ease-out), box-shadow var(--dur) var(--ease-out); }
+.btn:active, .chip:active, .iconbtn:active, .nav a:active { transform: scale(.96); transition-duration: var(--dur-fast); }
+.link:active, .choice:active { transform: scale(.985); transition-duration: var(--dur-fast); }
+/* 사용자가 고른 순간에만 재생한다. 다시 그릴 때 재생되지 않게 상태가 아니라 클래스에 건다 */
+.chip.picked[aria-pressed="true"], .choice.picked:has(input:checked) { animation: press var(--dur-med) var(--ease-bounce); }
+[data-count], #clock, .solve header .row > span { font-variant-numeric: tabular-nums; }
 .bar i { transition: width var(--dur-slow) var(--ease-out); }
 
 .enter .main > * { animation: rise var(--dur-slow) var(--ease-bounce) both; }
@@ -295,20 +322,28 @@ dialog::backdrop { background: rgb(2 2 2 / .4); }
 .chart.draw .pt { animation: pop var(--dur-slow) var(--ease-bounce) calc(var(--at) * 700ms) both; }
 .chart.draw .area { animation: fade 500ms var(--ease-out) 900ms both; }
 
-.solve.enter .cols > .card { animation: from-right var(--dur-slow) var(--ease-bounce) both; }
-.solve.enter .choice { animation: rise var(--dur-slow) var(--ease-bounce) both; }
-.solve.enter .choice:nth-child(3) { animation-delay: 110ms; }
-.solve.enter .choice:nth-child(4) { animation-delay: 220ms; }
-.solve.enter .choice:nth-child(5) { animation-delay: 330ms; }
-.solve.enter .choice:nth-child(6) { animation-delay: 440ms; }
-.reveal .choice.right { animation: press var(--dur-slow) var(--ease-bounce); }
-.reveal .choice.wrong { animation: shake var(--dur-slow) var(--ease-out); }
-.reveal .choice .mark, .reveal .verdict { animation: pop var(--dur-slow) var(--ease-bounce) both; }
-.reveal .verdict ~ * { animation: rise var(--dur-slow) var(--ease-bounce) 120ms both; }
-.explain.fresh > *, .say { animation: rise var(--dur-slow) var(--ease-bounce) both; }
+/* 하루에 수십 번 보는 화면이라 첫 방문 화면보다 짧게 둔다 */
+.solve.enter .cols > .card { animation: from-right var(--dur-med) var(--ease-out) both; }
+.solve.enter .choice { animation: rise var(--dur-med) var(--ease-out) both; }
+.solve.enter .choice:nth-child(3) { animation-delay: 40ms; }
+.solve.enter .choice:nth-child(4) { animation-delay: 80ms; }
+.solve.enter .choice:nth-child(5) { animation-delay: 120ms; }
+.solve.enter .choice:nth-child(6) { animation-delay: 160ms; }
+.reveal .choice.right { animation: press var(--dur-med) var(--ease-bounce); }
+.reveal .choice.wrong { animation: shake var(--dur-med) var(--ease-out); }
+.reveal .choice .mark, .reveal .verdict { animation: pop var(--dur-med) var(--ease-bounce) both; }
+.reveal .verdict ~ * { animation: rise var(--dur-med) var(--ease-out) 60ms both; }
+.explain.fresh > *, .say { animation: rise var(--dur-med) var(--ease-out) both; }
 .pop { animation: pop var(--dur-slow) var(--ease-spring) both; }
 dialog[open] { animation: pop var(--dur) var(--ease-out); }
 dialog[open]::backdrop { animation: fade var(--dur) var(--ease-out); }
+dialog[open].closing { animation: shut 160ms ease-in both; }
+dialog[open].closing::backdrop { animation: unfade 160ms ease-in both; }
+@media (max-width: 767px) { dialog.round-sheet[open].closing { animation: round-sheet-out var(--dur) var(--ease-out) both; } }
+
+::view-transition-old(root), ::view-transition-new(root) { animation-duration: 200ms; }
+.vt-down::view-transition-old(root) { z-index: 1; animation: round-sheet-out var(--dur-med) var(--ease-out) both; }
+.vt-down::view-transition-new(root) { animation: none; }
 
 .dot.on svg path { stroke-dasharray: 1; }
 .enter .dot.on svg path { animation: draw 500ms var(--ease-out) 600ms both; }
@@ -329,9 +364,10 @@ dialog[open]::backdrop { animation: fade var(--dur) var(--ease-out); }
 .reveal .verdict .m-sign { animation-delay: 300ms; animation-duration: 300ms; }
 
 @media (prefers-reduced-motion: reduce) { *, *::before, *::after, ::backdrop { animation: none !important; transition: none !important; } }
-.choice.right:has(input:checked) { border-color: var(--success); }
-.choice.wrong:has(input:checked) { border-color: var(--danger); }
+/* 채점은 진한 테두리 대신 연한 바탕으로 알린다. 색만으로 구분되지 않게 정답·내 답 글자를 함께 둔다 */
+.choice.right, .choice.right:has(input:checked) { background: var(--primarySoft); box-shadow: inset 0 0 0 2px var(--primary); }
+.choice.wrong, .choice.wrong:has(input:checked) { background: var(--dangerSoft); box-shadow: inset 0 0 0 2px var(--accent); }
 
 .radar-card[aria-busy="true"] > :not(.radar-skeleton) { visibility: hidden; }
-.radar-skeleton { position: absolute; inset: 0; display: grid; align-content: start; gap: var(--sp-xl); padding: var(--sp-xl); border-radius: inherit; background: var(--surface); pointer-events: none; }
+.radar-skeleton { position: absolute; inset: 0; display: grid; align-content: start; gap: var(--sp-xl); padding: var(--sp-xl); border-radius: inherit; pointer-events: none; }
 .radar-skeleton-plot { display: block; width: min(64%, 240px); aspect-ratio: 1; margin: var(--sp-xl) auto; border-radius: 50%; background: var(--primarySoft); }

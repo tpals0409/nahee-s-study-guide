@@ -18,16 +18,29 @@
 
   --chart: #2F7FB5;
 
+  /* 유리: 대비 근거는 DESIGN.md */
+  --glass-bg: rgb(255 255 255 / .6);
+  --glass-blur: blur(14px) saturate(180%);
+  --glass-line: rgb(255 255 255 / .7);
+  --glass-shadow: inset 0 1px 0 rgb(255 255 255 / .85), 0 8px 24px rgb(2 2 2 / .12);
+  --glass-card: rgb(255 255 255 / .72);
+  --card-shadow: inset 0 0 0 1px rgb(255 255 255 / .7), 0 8px 24px rgb(2 2 2 / .05);
+  --wallpaper:
+    radial-gradient(70% 45% at 8% 6%, #CAE5F4, transparent),
+    radial-gradient(60% 40% at 96% 34%, rgb(255 194 203 / .5), transparent),
+    radial-gradient(80% 50% at 62% 104%, #CAE5F4, transparent),
+    #EAF5FB;
+
   /* 상태 색 */
-  --danger: #D32F2F;
-  --success: #2E7D32;
+  --danger: #B8485E;
+  --dangerSoft: #FFF1F3;
+  --success: #23708F;
   --warning: #B45309;
 
   /* 둥글기 */
   --r-sm: 6px;
   --r-md: 8px;
   --r-lg: 20px;
-  --r-choice: 24px;
   --r-btn: 999px;
 
   /* 간격 */
@@ -41,6 +54,7 @@
   /* 움직임 */
   --dur-fast: 120ms;
   --dur: 240ms;
+  --dur-med: 360ms;
   --dur-slow: 620ms;
   --ease-out: cubic-bezier(.22, 1, .36, 1);
   --ease-spring: cubic-bezier(.34, 1.42, .64, 1);
