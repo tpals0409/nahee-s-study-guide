@@ -583,3 +583,12 @@ dialog[open].closing::backdrop { animation: unfade 160ms ease-in both; }
 
 .explanation-choice.correct > strong, .explanation-choice.correct > .small { color: #216394; }
 .explanation-choice.incorrect > strong, .explanation-choice.incorrect > .small { color: var(--danger); }
+
+.toast.answer-toast { bottom: calc(96px + env(safe-area-inset-bottom)); display: flex; align-items: center; gap: 10px; border-radius: 20px; padding: 12px 18px; transition-duration: 220ms; }
+.answer-toast.ok { background: var(--primarySoft); color: #216394; }
+.answer-toast.no { background: var(--dangerSoft); color: var(--danger); }
+.answer-toast .mark { width: 36px; height: 36px; stroke-width: 6; }
+.answer-toast .m-ring { stroke: none; fill: var(--primary); }
+.answer-toast.no .m-ring { fill: var(--accent); }
+.answer-toast.visible .m-sign { animation: draw 300ms ease-out 80ms both; }
+.answer-toast strong { font-size: 16px; line-height: 24px; }

@@ -11,7 +11,7 @@ const app = { innerHTML: "" };
 let explanationLoads = 0;
 let dialogClosed = 0;
 const ctx = vm.createContext({
-  ...logic, ...radar, console, Date, setInterval: () => 1, clearInterval: () => {},
+  ...logic, ...radar, console, Date, clearTimeout: () => {}, setInterval: () => 1, clearInterval: () => {},
   document: {
     getElementById: (id) => id === "app" ? app : id === "confirm" ? { close: () => dialogClosed++ } : null,
     addEventListener: (type, fn) => { listeners[type] = fn; },
@@ -216,12 +216,12 @@ console.log("single records view at a time ok");
 
 // Feedback follows the displayed shuffled order, including multiple accepted answers.
 run(`session = { picks: { test: 0 }, orders: new Map([['test', [2, 0, 4, 1, 3]]]), amb: false };`);
-assert.match(run("verdictHtml({id:'test',answer:[1]},session)"), /정답이에요/);
+assert.match(run("answerFeedback({id:'test',answer:[1]},session).message"), /정답이에요/);
 run("session.picks.test = 1;");
-const wrongFeedback = run("verdictHtml({id:'test',answer:[1,5]},session)");
-assert.match(wrongFeedback, /정답은 ②·③번이에요/);
-assert.match(wrongFeedback, /class="verdict no"/);
-assert.match(wrongFeedback, /role="status"/);
+const wrongFeedback = run("answerFeedback({id:'test',answer:[1,5]},session)");
+assert.match(wrongFeedback.message, /정답은 ②·③번이에요/);
+assert.equal(wrongFeedback.ok, false);
+
 run("session.picks.test = 0; session.amb = true;");
-assert.match(run("verdictHtml({id:'test',answer:[1]},session)"), /애매했던 문제/);
+assert.equal(run("answerFeedback({id:'test',answer:[1]},session).ok"), true);
 console.log("answer feedback mapping ok");
