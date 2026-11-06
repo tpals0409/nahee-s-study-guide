@@ -59,7 +59,7 @@ let calendarMonth = null;
 let radarIndex = 0;
 let radarLoading = false;
 let solveClosed = false;
-let selectedExamYear = null;
+let selectedExamYear = read("examYear", null);
 
 let lastTab = null;
 const scrolls = {};
@@ -739,6 +739,14 @@ function mockClock() {
 	if (left === 0) submitMock();
 }
 
+/* 번호가 커지면 오른쪽에서, 작아지면 왼쪽에서 들어온다 */
+function moveMock(i) {
+	if (i === session.i) return;
+	session.motion = i > session.i ? "fwd" : "rev";
+	session.i = i;
+	mock();
+}
+
 const answered = (s) => s.ids.filter((id) => s.picks[id] !== undefined).length;
 
 function mock() {
@@ -825,6 +833,7 @@ const ACTIONS = {
 	async "round-select"(d) {
 		await setRoundOpen(false);
 		selectedExamYear = Number(d.year);
+		write("examYear", selectedExamYear);
 		exam();
 		document.getElementById("round-trigger")?.focus({ preventScroll: true });
 	},
@@ -895,14 +904,8 @@ const ACTIONS = {
 		mockResult();
 		scrollTo(0, y);
 	},
-	"mock-go"(d) {
-		session.i = Number(d.index);
-		mock();
-	},
-	"mock-move"(d) {
-		session.i += Number(d.delta);
-		mock();
-	},
+	"mock-go": (d) => moveMock(Number(d.index)),
+	"mock-move": (d) => moveMock(session.i + Number(d.delta)),
 	"mock-submit"() {
 		const left = session.ids.filter((id) => session.picks[id] === undefined).length;
 		confirmDialog(left ? `미응답 ${left}문제` : "전 문항 응답 완료", "제출", "mock-confirm");

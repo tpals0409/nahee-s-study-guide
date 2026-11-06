@@ -110,6 +110,12 @@ svg.i { width: 24px; height: 24px; fill: none; stroke: currentColor; stroke-widt
 .round-select { position: relative; width: 100%; }
 /* 회차는 입력값이 아니라 지금 보는 대상이라 상자 없이 제목처럼 보여준다 */
 .exam-card { gap: var(--sp-md); }
+/* 넓은 화면에서 줄을 늘이면 양끝이 멀어져서 과목을 나란한 타일로 바꾼다 */
+@media (min-width: 900px) {
+	.exam-card .list { grid-template-columns: repeat(3, minmax(0, 1fr)); gap: var(--sp-md); }
+	.exam-card .list > .link { flex-direction: column; align-items: stretch; gap: var(--sp-lg); padding: var(--sp-lg); border: 0; border-radius: var(--r-md); background: var(--glass-bg); }
+	.exam-card .go { justify-content: center; }
+}
 .round-trigger { display: flex; align-items: center; gap: var(--sp-sm); width: fit-content; min-height: 48px; border-radius: var(--r-md); outline-offset: 4px; text-align: left; font-size: 22px; line-height: 33px; font-weight: 700; }
 .round-chevron { display: flex; color: var(--muted); transform: rotate(90deg); }
 .round-trigger[aria-expanded="true"] .round-chevron { transform: rotate(-90deg); }
@@ -352,6 +358,8 @@ dialog::backdrop { background: rgb(2 2 2 / .4); }
 
 /* 하루에 수십 번 보는 화면이라 첫 방문 화면보다 짧게 둔다 */
 .solve.enter .cols > .card { animation: from-right var(--dur-med) var(--ease-out) both; }
+.solve.fwd .card.q { animation: from-right var(--dur) var(--ease-out) both; }
+.solve.rev .card.q { animation: from-left var(--dur) var(--ease-out) both; }
 .solve.enter .choice { animation: rise var(--dur-med) var(--ease-out) both; }
 .solve.enter .choice:nth-child(3) { animation-delay: 40ms; }
 .solve.enter .choice:nth-child(4) { animation-delay: 80ms; }
