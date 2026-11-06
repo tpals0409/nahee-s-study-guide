@@ -53,6 +53,7 @@ let questions = [];
 let byId = new Map();
 let session = null;
 let calendarMonth = null;
+let selectedExamYear = null;
 
 let lastTab = null;
 const scrolls = {};
@@ -250,15 +251,37 @@ function exam() {
 		rounds.set(q.year, r);
 	}
 	const years = [...rounds.keys()].sort((a, b) => b - a);
+	if (!rounds.has(selectedExamYear)) selectedExamYear = years[0];
+	const selected = rounds.get(selectedExamYear);
+	if (!selected) return shell("exam", '<h1>기출 모의고사</h1><section class="card">등록된 회차 없음</section>');
 	shell("exam", `<h1>기출 모의고사</h1>
 	<section class="card">
-		<h2>연도·회차 선택</h2>
-		<div class="list">${years.map((y) => {
-			const r = rounds.get(y);
-			return `<div class="stack" style="gap:8px"><strong>${y}년 제${r.round}회</strong><div class="actions">${SUBJECTS.filter((s) => r.n[s]).map((s) => `<button class="chip" data-act="round" data-year="${y}" data-subject="${s}">${s} · ${r.n[s]}문제 · ${MOCK_MINUTES[s]}분</button>`).join("")}</div></div>`;
-		}).join("")}</div>
+		<h2 id="round-label">연도·회차 선택</h2>
+		<div class="round-select" id="round-select">
+			<button class="round-trigger" id="round-trigger" data-act="round-toggle" aria-haspopup="listbox" aria-expanded="false" aria-controls="round-options" aria-labelledby="round-label round-value">
+				<span id="round-value">${selectedExamYear}년 제${selected.round}회</span><span class="round-chevron" aria-hidden="true">${icon("right")}</span>
+			</button>
+			<div class="round-options" id="round-options" role="listbox" aria-labelledby="round-label" hidden>
+				${years.map((year) => `<button class="round-option" role="option" tabindex="-1" aria-selected="${year === selectedExamYear}" data-act="round-select" data-year="${year}"><span>${year}년 제${rounds.get(year).round}회</span><span aria-hidden="true">${year === selectedExamYear ? "✓" : ""}</span></button>`).join("")}
+			</div>
+		</div>
+		<div class="list">${SUBJECTS.filter((subject) => selected.n[subject]).map((subject) => `<button class="link" data-act="round" data-year="${selectedExamYear}" data-subject="${subject}"><span><strong>${subject}</strong><br><span class="small muted">${selected.n[subject]}문제 · ${MOCK_MINUTES[subject]}분</span></span><span>시작 ${icon("right")}</span></button>`).join("")}</div>
 	</section>`);
 }
+
+function setRoundOpen(open, restoreFocus = false) {
+	const trigger = document.getElementById("round-trigger");
+	const options = document.getElementById("round-options");
+	if (!trigger || !options) return;
+	trigger.setAttribute("aria-expanded", String(open));
+	options.hidden = !open;
+	if (open) {
+		const selected = options.querySelector('[aria-selected="true"]') ?? options.firstElementChild;
+		selected?.focus({ preventScroll: true });
+		selected?.scrollIntoView({ block: "nearest" });
+	} else if (restoreFocus) trigger.focus({ preventScroll: true });
+}
+
 
 const notesLink = (...path) => `#notes/${path.map(encodeURIComponent).join("/")}`;
 
@@ -722,6 +745,14 @@ function submitMock() {
 
 /* 입력 */
 const ACTIONS = {
+	"round-toggle"() {
+		setRoundOpen(document.getElementById("round-trigger").getAttribute("aria-expanded") !== "true");
+	},
+	"round-select"(d) {
+		selectedExamYear = Number(d.year);
+		exam();
+		document.getElementById("round-trigger")?.focus({ preventScroll: true });
+	},
 	daily() {
 		const day = today();
 		const solved = solvedOn(state.log, day);
@@ -828,6 +859,7 @@ function openTab(tab) {
 }
 
 document.addEventListener("click", (e) => {
+	if (!e.target.closest("#round-select")) setRoundOpen(false);
 	const tab = e.target.closest("[data-tab]");
 	if (tab) {
 		e.preventDefault();
@@ -837,6 +869,31 @@ document.addEventListener("click", (e) => {
 	if (!el || el.disabled) return;
 	el.closest("dialog")?.close();
 	ACTIONS[el.dataset.act](el.dataset);
+});
+
+document.addEventListener("keydown", (e) => {
+	if (!e.target.closest("#round-select")) return;
+	if (e.key === "Escape") {
+		e.preventDefault();
+		setRoundOpen(false, true);
+		return;
+	}
+	if (!["ArrowDown", "ArrowUp", "Home", "End"].includes(e.key)) return;
+	e.preventDefault();
+	const list = document.getElementById("round-options");
+	if (list.hidden) {
+		setRoundOpen(true);
+		if (e.key === "ArrowDown" || e.key === "ArrowUp") return;
+	}
+	const options = [...list.querySelectorAll('[role="option"]')];
+	const index = options.indexOf(document.activeElement);
+	const next = e.key === "Home" ? 0 : e.key === "End" ? options.length - 1 : Math.max(0, Math.min(options.length - 1, index + (e.key === "ArrowDown" ? 1 : -1)));
+	options[next]?.focus({ preventScroll: true });
+	options[next]?.scrollIntoView({ block: "nearest" });
+});
+
+document.addEventListener("focusin", (e) => {
+	if (!e.target.closest("#round-select")) setRoundOpen(false);
 });
 
 document.addEventListener("change", (e) => {

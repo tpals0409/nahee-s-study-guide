@@ -40,6 +40,13 @@ run(`
 `);
 assert.match(app.innerHTML, /기출 모의고사/);
 assert.doesNotMatch(app.innerHTML, /실전 모의고사|연도 회차별 풀기|data-act="mock"/);
+assert.match(app.innerHTML, /aria-haspopup="listbox"/);
+assert.doesNotMatch(app.innerHTML, /<select/);
+run("ACTIONS['round-select']({year: '2024'});");
+assert.match(app.innerHTML, /data-act="round" data-year="2024"/);
+assert.doesNotMatch(app.innerHTML, /data-act="round" data-year="2025"/);
+run("exam();");
+assert.match(app.innerHTML, /data-act="round" data-year="2024"/);
 run(`ACTIONS['round-start']({year: '2025', subject: '민법개론'});`);
 assert.equal(run("session.mode"), "mock");
 assert.equal(run("session.ids.join(',')"), "a,b");
