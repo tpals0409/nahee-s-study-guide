@@ -4,3 +4,5 @@ dist
 .dev.vars
 .env*
 .secrets.env
+
+/public/sw.js

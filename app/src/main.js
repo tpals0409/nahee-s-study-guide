@@ -1094,6 +1094,7 @@ function paint() {
 
 function render() {
 	if (session) return;
+	if (updatePending) { location.reload(); return; }
 	if (!signedIn) return loginScreen();
 	if (location.hash === "#solve") history.replaceState(null, "", "#home");
 	const [route, ...path] = location.hash.slice(1).split("/").map(decodeURIComponent);
@@ -1126,8 +1127,26 @@ function syncAndShow() {
 	sync().then(() => !session && JSON.stringify(state) !== before && render()).catch(() => {});
 }
 
+let updatePending = false;
+function watchUpdates() {
+	if (!("serviceWorker" in navigator) || !import.meta.env.PROD) return;
+	let controlled = !!navigator.serviceWorker.controller;
+	navigator.serviceWorker.addEventListener("controllerchange", () => {
+		if (controlled) {
+			updatePending = true;
+			if (!session) location.reload();
+		}
+		controlled = true;
+	});
+	navigator.serviceWorker.register("/sw.js", { updateViaCache: "none" }).then((registration) => {
+		const check = () => { if (document.visibilityState === "visible") registration.update().catch(() => {}); };
+		document.addEventListener("visibilitychange", check);
+		setInterval(check, 5 * 60 * 1000);
+	}).catch(() => {});
+}
+
 async function boot() {
-	if ("serviceWorker" in navigator && import.meta.env.PROD) navigator.serviceWorker.register("/sw.js");
+	watchUpdates();
 	questions = await (await fetch("/questions.json")).json();
 	byId = new Map(questions.map((q) => [q.id, q]));
 	const login = new URLSearchParams(location.search).get("login");
