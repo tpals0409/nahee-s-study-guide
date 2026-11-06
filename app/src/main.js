@@ -527,7 +527,7 @@ function explainHtml(q) {
 				? '<div class="alert bad">해설 불러오기 실패</div><button class="btn quiet" data-act="retry">다시 시도</button>'
 				: ex
 					? `<p>${esc(ex.summary)}</p>
-					<div class="list">${s.orders.get(q.id).map((orig, pos) => `<div><strong>${NUM[pos]} ${isCorrect(q, orig) ? "정답" : "오답"}</strong><br><span class="small">${esc(ex.choices[orig])}</span>${basisHtml(q, ex, orig + 1)}</div>`).join("")}</div>
+					<div class="list">${s.orders.get(q.id).map((orig, pos) => `<div class="explanation-choice ${isCorrect(q, orig) ? "correct" : "incorrect"}"><strong>${NUM[pos]} ${isCorrect(q, orig) ? "정답" : "오답"}</strong><br><span class="small">${esc(ex.choices[orig])}</span>${basisHtml(q, ex, orig + 1)}</div>`).join("")}</div>
 					${basisHtml(q, ex, 0)}
 					${ex.lawNote ? `<div class="alert">${esc(ex.lawNote)}</div>` : ""}
 					<p class="small muted">AI 생성 해설 · 오류 가능 · ${q.year}년 시험 기준, 현행법과 차이 가능</p>

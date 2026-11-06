@@ -580,3 +580,6 @@ dialog[open].closing::backdrop { animation: unfade 160ms ease-in both; }
   .verdict .mark { width: 48px; height: 48px; }
   .verdict-copy strong { font-size: 18px; }
 }
+
+.explanation-choice.correct > strong, .explanation-choice.correct > .small { color: #216394; }
+.explanation-choice.incorrect > strong, .explanation-choice.incorrect > .small { color: var(--danger); }
