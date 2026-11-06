@@ -148,6 +148,27 @@ html:has(.round-sheet[open]) { overflow: hidden; }
 .meter i { display: block; height: 100%; border-radius: 999px; background: var(--chart); transform-origin: left; }
 .enter .meter i { animation: grow 700ms var(--ease-out) 240ms both; }
 .subjects { display: grid; gap: var(--sp-lg); }
+.notes-summary { background: var(--primary); }
+.notes-summary .stack { gap: 8px; }
+.notes-summary-copy { font-size: 20px; line-height: 1.5; }
+.notes-summary .btn { background: var(--surface); }
+.notes-subjects { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 6px; padding: 6px; border-radius: var(--r-lg); background: var(--glass-bg); }
+.notes-subject { min-height: 48px; padding: 10px 6px; border-radius: 14px; font-size: 14px; line-height: 1.5; }
+.notes-subject[aria-pressed="true"] { background: var(--surface); box-shadow: var(--card-shadow); font-weight: 700; }
+.notes-part { flex-wrap: wrap; gap: 8px 12px; }
+.notes-part-name { flex: 1; font-weight: 600; }
+.notes-counts { display: flex; gap: 8px; font-size: 14px; white-space: nowrap; font-variant-numeric: tabular-nums; }
+.notes-due { color: var(--text); }
+.notes-parts > .row { flex-wrap: wrap; }
+.toast { position: fixed; z-index: 30; bottom: calc(104px + env(safe-area-inset-bottom)); left: 50%; transform: translate(-50%, 6px); width: max-content; max-width: calc(100vw - 32px); padding: 12px 20px; border-radius: var(--r-btn); background: var(--text); color: var(--surface); box-shadow: var(--card-shadow); opacity: 0; pointer-events: none; transition: opacity 180ms ease-out, transform 180ms ease-out; }
+.toast.visible { opacity: 1; transform: translate(-50%, 0); }
+@media (min-width: 768px) {
+  .toast { bottom: calc(32px + env(safe-area-inset-bottom)); }
+  .notes-summary { grid-template-columns: minmax(0, 1fr) auto; align-items: center; }
+  .notes-summary .btn { width: auto; }
+  .notes-subject { font-size: 16px; }
+  .notes-part { min-height: 72px; }
+}
 @media (min-width: 768px) { .subjects { grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); align-items: start; } }
 .list { display: grid; }
 .list > * { padding: var(--sp-lg) 0; border-top: 1px solid var(--border); }

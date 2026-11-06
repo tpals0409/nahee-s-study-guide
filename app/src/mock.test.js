@@ -149,6 +149,7 @@ console.log("consistent tab motion ok");
 // Empty notebooks still expose every standard subject and topic, with safe zero counts.
 run("state = emptyState(); notes();");
 for (const [subject, parts] of Object.entries(radar.RADAR_PARTS)) {
+  run(`notesSubject = ${JSON.stringify(subject)}; notes();`);
   assert.ok(app.innerHTML.includes(subject));
   for (const part of parts) assert.ok(app.innerHTML.includes(part));
 }
@@ -158,3 +159,20 @@ run("notes(['민법개론', '물권법']);");
 assert.match(app.innerHTML, /복습 문항 없음/);
 assert.doesNotMatch(app.innerHTML, /data-act="topic-review"/);
 console.log("empty notebook topics ok");
+
+assert.equal(run("notesSubject"), "민법개론", "detail preserves selected subject");
+const toastNode = { textContent: "", classList: { add() {}, remove() {} } };
+ctx.document.getElementById = (id) => id === "toast" ? toastNode : null;
+ctx.clearTimeout = () => {};
+ctx.setTimeout = () => 1;
+const htmlBeforeToast = app.innerHTML;
+run("ACTIONS['notes-empty']();");
+assert.equal(toastNode.textContent, "등록된 오답이 없어요");
+assert.equal(app.innerHTML, htmlBeforeToast, "empty topic leaves the screen intact");
+run(`questions[0].topic = '물권법'; state.log = [{ id: 'b', ok: false, t: Date.now() }]; notes();`);
+assert.match(app.innerHTML, /오늘 <strong>1<\/strong>/);
+assert.match(app.innerHTML, /전체 1/);
+assert.match(app.innerHTML, /a href="#notes\//);
+assert.match(app.innerHTML, /data-act="notes-empty"/);
+assert.doesNotMatch(app.innerHTML, /class="meter"/);
+console.log("notebook counts and empty toast ok");

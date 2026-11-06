@@ -60,6 +60,7 @@ let radarIndex = 0;
 let radarLoading = false;
 let solveClosed = false;
 let selectedExamYear = read("examYear", null);
+let notesSubject = SUBJECTS[0];
 
 let lastTab = null;
 const scrolls = {};
@@ -288,6 +289,15 @@ async function setRoundOpen(open, restoreFocus = false) {
 }
 
 
+let toastTimer;
+function toast(message) {
+	const el = document.getElementById("toast");
+	clearTimeout(toastTimer);
+	el.textContent = message;
+	el.classList.add("visible");
+	toastTimer = setTimeout(() => { el.classList.remove("visible"); el.textContent = ""; }, 2400);
+}
+
 const notesLink = (...path) => `#notes/${path.map(encodeURIComponent).join("/")}`;
 
 function notesItem(q, sub) {
@@ -307,26 +317,30 @@ function notes(path = []) {
 
 	const graduated = [...prog.values()].filter((p) => p.done).length;
 	const review = reviewIds(questions, prog, state.flags, today());
-	const subjectCard = (subject) => {
-		const items = active.filter(({ q }) => q.subject === subject);
-		const counts = Object.fromEntries(RADAR_PARTS[subject].map((topic) => [topic, 0]));
-		for (const { q } of items) counts[q.topic] = (counts[q.topic] ?? 0) + 1;
-		const rows = Object.entries(counts);
-		return `<section class="card">
-			<div class="row"><h2>${subject}</h2><strong>${num(items.length, "문제")}</strong></div>
-			${rows.length
-				? `<div class="list">${rows.map(([topic, n]) => `<a class="link" href="${notesLink(subject, topic)}"><span class="topic"><span class="row"><span>${esc(topic)}</span><span class="muted small">${n}문제</span></span><span class="meter"><i style="width:${items.length ? (n / items.length) * 100 : 0}%"></i></span></span>${icon("right")}</a>`).join("")}</div>`
-				: '<p class="muted small">오답 없음</p>'}
-		</section>`;
-	};
+	const due = new Set(review);
+	const items = active.filter(({ q }) => q.subject === notesSubject);
+	const counts = Object.fromEntries(RADAR_PARTS[notesSubject].map((topic) => [topic, { today: 0, total: 0 }]));
+	for (const { q } of items) {
+		const count = counts[q.topic] ??= { today: 0, total: 0 };
+		count.total++;
+		if (due.has(q.id)) count.today++;
+	}
 	shell("notes", `<h1>오답노트</h1>
-	${review.length ? `<button class="btn" data-act="review-all">복습 대기 ${review.length}문제 풀기</button>` : `<p class="muted small">${active.length ? "오늘 복습할 문제를 모두 풀었어요." : "아직 등록된 오답이 없어요. 오답·애매함 문항이 자동 등록됩니다."}</p>`}
-	<div class="subjects">${SUBJECTS.map(subjectCard).join("")}</div>
+	<section class="card notes-summary" aria-labelledby="review-heading">
+		<div class="stack"><h2 id="review-heading">오늘 복습</h2><p class="notes-summary-copy">${review.length ? `풀어볼 문제가 <strong>${review.length}개</strong> 있어요.` : active.length ? "오늘 복습을 모두 마쳤어요." : "아직 등록된 오답이 없어요."}</p><p class="muted small">${active.length ? `전체 ${active.length}문제 · 오늘 수에는 밀린 복습도 포함돼요.` : "오답·애매함 문항이 자동으로 모여요."}</p></div>
+		${review.length ? `<button class="btn" data-act="review-all">오늘 복습 시작 ${icon("arrow")}</button>` : ""}
+	</section>
+	<div class="notes-subjects" role="group" aria-label="오답노트 과목 선택">${SUBJECTS.map((subject) => `<button class="notes-subject" data-act="notes-subject" data-subject="${subject}" aria-pressed="${subject === notesSubject}">${subject}</button>`).join("")}</div>
+	<section class="card notes-parts" aria-labelledby="notes-subject-heading">
+		<div class="row"><h2 id="notes-subject-heading">${notesSubject}</h2><span class="muted small">전체 ${items.length}문제</span></div>
+		<div class="list">${Object.entries(counts).map(([topic, count]) => `<${count.total ? `a href="${notesLink(notesSubject, topic)}"` : 'button type="button" data-act="notes-empty"'} class="link notes-part"><span class="notes-part-name">${esc(topic)}</span><span class="notes-counts"><span class="${count.today ? "notes-due" : "muted"}">오늘 <strong>${count.today}</strong></span><span aria-hidden="true">·</span><span class="muted">전체 ${count.total}</span></span>${icon("right")}</${count.total ? "a" : "button"}>`).join("")}</div>
+	</section>
 	${flagged.length ? `<section class="card"><a class="link" href="${notesLink("개정 의심")}"><span>개정 의심 문제 ${flagged.length}개</span>${icon("right")}</a></section>` : ""}
 	${graduated ? `<p class="muted small">졸업 ${graduated}문제</p>` : ""}`);
 }
 
 function notesTopic([subject, topic], active) {
+	if (SUBJECTS.includes(subject)) notesSubject = subject;
 	const items = active.filter(({ q }) => q.subject === subject && q.topic === topic).sort((a, b) => a.p.due.localeCompare(b.p.due));
 	shell("notes", `<div class="row" style="justify-content:flex-start"><a class="iconbtn" href="#notes" aria-label="오답노트로 돌아가기">${icon("left")}</a><h1>${esc(topic)}</h1></div>
 	${items.length ? `<button class="btn" data-act="topic-review" data-subject="${esc(subject)}" data-topic="${esc(topic)}">${items.length}문제 풀기</button>` : ""}
@@ -890,6 +904,13 @@ const ACTIONS = {
 		const d = document.getElementById("zoom");
 		d.innerHTML = `<button class="iconbtn" data-act="dialog-close" aria-label="그림 닫기">${icon("close")}</button><img src="${esc(src)}" alt="${esc(alt)}">`;
 		d.showModal();
+	},
+	"notes-empty": () => toast("등록된 오답이 없어요"),
+	"notes-subject"(d) {
+		if (!SUBJECTS.includes(d.subject)) return;
+		notesSubject = d.subject;
+		notes();
+		document.querySelector('[data-act="notes-subject"][aria-pressed="true"]')?.focus({ preventScroll: true });
 	},
 	"topic-review"(d) {
 		const prog = progress(state.log);
