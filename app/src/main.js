@@ -335,7 +335,7 @@ function notes(path = []) {
 		<div class="row"><h2 id="notes-subject-heading">${notesSubject}</h2><span class="muted small">전체 ${items.length}문제</span></div>
 		<div class="list">${Object.entries(counts).map(([topic, count]) => `<${count.total ? `a href="${notesLink(notesSubject, topic)}"` : 'button type="button" data-act="notes-empty"'} class="link notes-part"><span class="notes-part-name">${esc(topic)}</span><span class="notes-counts"><span class="${count.today ? "notes-due" : "muted"}">오늘 <strong>${count.today}</strong></span><span aria-hidden="true">·</span><span class="muted">전체 ${count.total}</span></span>${icon("right")}</${count.total ? "a" : "button"}>`).join("")}</div>
 	</section>
-	${flagged.length ? `<section class="card"><a class="link" href="${notesLink("개정 의심")}"><span>개정 의심 문제 ${flagged.length}개</span>${icon("right")}</a></section>` : ""}
+	${flagged.length ? `<section class="card notes-flagged"><a class="link" href="${notesLink("개정 의심")}"><span>개정 의심 문제 ${flagged.length}개</span>${icon("right")}</a></section>` : ""}
 	${graduated ? `<p class="muted small">졸업 ${graduated}문제</p>` : ""}`);
 }
 
