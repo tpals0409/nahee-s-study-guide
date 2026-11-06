@@ -258,12 +258,16 @@ function exam() {
 	<section class="card">
 		<h2 id="round-label">연도·회차 선택</h2>
 		<div class="round-select" id="round-select">
-			<button class="round-trigger" id="round-trigger" data-act="round-toggle" aria-haspopup="listbox" aria-expanded="false" aria-controls="round-options" aria-labelledby="round-label round-value">
+			<button class="round-trigger" id="round-trigger" data-act="round-toggle" aria-haspopup="dialog" aria-expanded="false" aria-controls="round-sheet" aria-labelledby="round-label round-value">
 				<span id="round-value">${selectedExamYear}년 제${selected.round}회</span><span class="round-chevron" aria-hidden="true">${icon("right")}</span>
 			</button>
-			<div class="round-options" id="round-options" role="listbox" aria-labelledby="round-label" hidden>
-				${years.map((year) => `<button class="round-option" role="option" tabindex="-1" aria-selected="${year === selectedExamYear}" data-act="round-select" data-year="${year}"><span>${year}년 제${rounds.get(year).round}회</span><span aria-hidden="true">${year === selectedExamYear ? "✓" : ""}</span></button>`).join("")}
-			</div>
+			<dialog class="round-sheet" id="round-sheet" aria-labelledby="round-sheet-title">
+				<div class="round-grab" id="round-grab" aria-hidden="true"><span></span></div>
+				<header class="round-sheet-header"><h2 id="round-sheet-title">회차 선택</h2><button class="iconbtn" data-act="round-close" aria-label="회차 선택 닫기">${icon("close")}</button></header>
+				<div class="round-options" id="round-options">
+					${years.map((year) => `<button class="round-option" aria-pressed="${year === selectedExamYear}" data-act="round-select" data-year="${year}"><span>${year}년 제${rounds.get(year).round}회</span><span aria-hidden="true">${year === selectedExamYear ? "✓" : ""}</span></button>`).join("")}
+				</div>
+			</dialog>
 		</div>
 		<div class="list">${SUBJECTS.filter((subject) => selected.n[subject]).map((subject) => `<button class="link" data-act="round" data-year="${selectedExamYear}" data-subject="${subject}"><span><strong>${subject}</strong><br><span class="small muted">${selected.n[subject]}문제 · ${MOCK_MINUTES[subject]}분</span></span><span>시작 ${icon("right")}</span></button>`).join("")}</div>
 	</section>`);
@@ -271,15 +275,18 @@ function exam() {
 
 function setRoundOpen(open, restoreFocus = false) {
 	const trigger = document.getElementById("round-trigger");
-	const options = document.getElementById("round-options");
-	if (!trigger || !options) return;
+	const sheet = document.getElementById("round-sheet");
+	if (!trigger || !sheet) return;
 	trigger.setAttribute("aria-expanded", String(open));
-	options.hidden = !open;
 	if (open) {
-		const selected = options.querySelector('[aria-selected="true"]') ?? options.firstElementChild;
+		if (!sheet.open) sheet.showModal();
+		const selected = sheet.querySelector('[aria-pressed="true"]');
 		selected?.focus({ preventScroll: true });
 		selected?.scrollIntoView({ block: "nearest" });
-	} else if (restoreFocus) trigger.focus({ preventScroll: true });
+	} else {
+		if (sheet.open) sheet.close();
+		if (restoreFocus) trigger.focus({ preventScroll: true });
+	}
 }
 
 
@@ -748,7 +755,9 @@ const ACTIONS = {
 	"round-toggle"() {
 		setRoundOpen(document.getElementById("round-trigger").getAttribute("aria-expanded") !== "true");
 	},
+	"round-close": () => setRoundOpen(false, true),
 	"round-select"(d) {
+		setRoundOpen(false);
 		selectedExamYear = Number(d.year);
 		exam();
 		document.getElementById("round-trigger")?.focus({ preventScroll: true });
@@ -859,7 +868,10 @@ function openTab(tab) {
 }
 
 document.addEventListener("click", (e) => {
-	if (!e.target.closest("#round-select")) setRoundOpen(false);
+	if (e.target.id === "round-sheet") {
+		const r = e.target.getBoundingClientRect();
+		if (e.clientX < r.left || e.clientX > r.right || e.clientY < r.top || e.clientY > r.bottom) setRoundOpen(false, true);
+	}
 	const tab = e.target.closest("[data-tab]");
 	if (tab) {
 		e.preventDefault();
@@ -871,29 +883,42 @@ document.addEventListener("click", (e) => {
 	ACTIONS[el.dataset.act](el.dataset);
 });
 
+// Native modal semantics keep focus inside the sheet and support Escape.
+document.addEventListener("close", (e) => {
+	if (e.target.id === "round-sheet") document.getElementById("round-trigger")?.setAttribute("aria-expanded", "false");
+}, true);
+
 document.addEventListener("keydown", (e) => {
-	if (!e.target.closest("#round-select")) return;
-	if (e.key === "Escape") {
-		e.preventDefault();
-		setRoundOpen(false, true);
-		return;
-	}
-	if (!["ArrowDown", "ArrowUp", "Home", "End"].includes(e.key)) return;
+	if (!e.target.closest("#round-options") || !["ArrowDown", "ArrowUp", "Home", "End"].includes(e.key)) return;
 	e.preventDefault();
-	const list = document.getElementById("round-options");
-	if (list.hidden) {
-		setRoundOpen(true);
-		if (e.key === "ArrowDown" || e.key === "ArrowUp") return;
-	}
-	const options = [...list.querySelectorAll('[role="option"]')];
+	const options = [...document.querySelectorAll("#round-options .round-option")];
 	const index = options.indexOf(document.activeElement);
 	const next = e.key === "Home" ? 0 : e.key === "End" ? options.length - 1 : Math.max(0, Math.min(options.length - 1, index + (e.key === "ArrowDown" ? 1 : -1)));
 	options[next]?.focus({ preventScroll: true });
 	options[next]?.scrollIntoView({ block: "nearest" });
 });
 
-document.addEventListener("focusin", (e) => {
-	if (!e.target.closest("#round-select")) setRoundOpen(false);
+document.addEventListener("pointerdown", (e) => {
+	const handle = e.target.closest("#round-grab");
+	if (!handle || e.button !== 0 || matchMedia("(min-width: 768px)").matches) return;
+	const sheet = document.getElementById("round-sheet");
+	const startY = e.clientY;
+	handle.setPointerCapture(e.pointerId);
+	const move = (event) => {
+		if (event.pointerId !== e.pointerId) return;
+		sheet.style.transform = `translateY(${Math.max(0, event.clientY - startY)}px)`;
+	};
+	const end = (event) => {
+		if (event.pointerId !== e.pointerId) return;
+		handle.removeEventListener("pointermove", move);
+		handle.removeEventListener("pointerup", end);
+		handle.removeEventListener("pointercancel", end);
+		sheet.style.transform = "";
+		if (event.type === "pointerup" && event.clientY - startY > 80) setRoundOpen(false, true);
+	};
+	handle.addEventListener("pointermove", move);
+	handle.addEventListener("pointerup", end);
+	handle.addEventListener("pointercancel", end);
 });
 
 document.addEventListener("change", (e) => {

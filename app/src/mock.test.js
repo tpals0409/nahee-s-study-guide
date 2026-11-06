@@ -40,7 +40,7 @@ run(`
 `);
 assert.match(app.innerHTML, /기출 모의고사/);
 assert.doesNotMatch(app.innerHTML, /실전 모의고사|연도 회차별 풀기|data-act="mock"/);
-assert.match(app.innerHTML, /aria-haspopup="listbox"/);
+assert.match(app.innerHTML, /aria-haspopup="dialog"/);
 assert.doesNotMatch(app.innerHTML, /<select/);
 run("ACTIONS['round-select']({year: '2024'});");
 assert.match(app.innerHTML, /data-act="round" data-year="2024"/);

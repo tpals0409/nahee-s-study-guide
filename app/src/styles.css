@@ -99,11 +99,24 @@ svg.i { width: 24px; height: 24px; fill: none; stroke: currentColor; stroke-widt
 .round-trigger[aria-expanded="true"] { border-color: var(--text); background: var(--primarySoft); }
 .round-chevron { display: flex; transform: rotate(90deg); }
 .round-trigger[aria-expanded="true"] .round-chevron { transform: rotate(-90deg); }
-.round-options { position: absolute; top: calc(100% + 8px); left: 0; right: 0; z-index: 10; max-height: min(320px, 45dvh); overflow-y: auto; overscroll-behavior: contain; padding: var(--sp-sm); border: 1px solid var(--borderStrong); border-radius: var(--r-md); background: var(--surface); box-shadow: 0 8px 24px #02020218; }
-.round-options[hidden] { display: none; }
-.round-option { display: flex; align-items: center; justify-content: space-between; width: 100%; min-height: 48px; padding: var(--sp-md) var(--sp-lg); border-radius: var(--r-sm); text-align: left; }
-.round-option[aria-selected="true"] { background: var(--primary); font-weight: 600; }
+dialog.round-sheet { position: fixed; inset: auto 0 0; margin: 0; width: 100%; max-width: none; max-height: min(80dvh, 680px); padding: 0; border-radius: 24px 24px 0 0; overflow: hidden; background: var(--surface); }
+dialog.round-sheet[open] { display: flex; flex-direction: column; animation: round-sheet-in var(--dur) var(--ease-out); }
+.round-grab { flex: none; display: grid; place-items: center; height: 28px; touch-action: none; cursor: grab; }
+.round-grab span { width: 40px; height: 4px; border-radius: 999px; background: var(--borderStrong); pointer-events: none; }
+.round-sheet-header { display: flex; flex: none; align-items: center; justify-content: space-between; padding: 0 var(--sp-xl) var(--sp-lg); }
+.round-sheet-header h2 { margin: 0; }
+.round-options { min-height: 0; overflow-y: auto; overscroll-behavior: contain; padding: 0 var(--sp-lg) calc(var(--sp-lg) + env(safe-area-inset-bottom)); }
+.round-option { display: flex; align-items: center; justify-content: space-between; width: 100%; min-height: 56px; padding: var(--sp-md) var(--sp-lg); border-radius: var(--r-md); text-align: left; }
+.round-option[aria-pressed="true"] { background: var(--primary); font-weight: 600; }
 .round-option:focus-visible, .round-trigger:focus-visible { outline: 2px solid var(--text); outline-offset: -3px; }
+html:has(.round-sheet[open]) { overflow: hidden; }
+@keyframes round-sheet-in { from { transform: translateY(100%); } to { transform: translateY(0); } }
+@media (min-width: 768px) {
+  dialog.round-sheet { inset: 0; margin: auto; width: min(480px, calc(100vw - 48px)); max-height: min(70dvh, 640px); border-radius: var(--r-lg); }
+  dialog.round-sheet[open] { animation: fade var(--dur) var(--ease-out); }
+  .round-grab { display: none; }
+  .round-sheet-header { padding-top: var(--sp-xl); }
+}
 .topic { flex: 1; display: grid; gap: var(--sp-sm); min-width: 0; }
 .meter { height: 8px; border-radius: 999px; background: var(--primarySoft); overflow: hidden; }
 .meter i { display: block; height: 100%; border-radius: 999px; background: var(--chart); transform-origin: left; }
