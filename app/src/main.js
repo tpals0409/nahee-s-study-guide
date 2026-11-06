@@ -57,7 +57,7 @@ let byId = new Map();
 let session = null;
 let calendarMonth = null;
 let radarIndex = 0;
-let radarLoading = false;
+let selectedRecordDay = null;
 let solveClosed = false;
 let selectedExamYear = read("examYear", null);
 let notesSubject = SUBJECTS[0];
@@ -359,34 +359,44 @@ function notesFlagged(flagged) {
 
 function radarCard() {
 	const views = radarViews(state.log, byId, today());
-	return `<section class="radar-stage" aria-label="과목별 정답률"><button class="card radar-card" id="radar-card" data-act="radar-next" aria-label="${views[radarIndex].title} 정답률, 다음 분류 보기">${radarFace(views[radarIndex], radarIndex)}</button><span class="sr" id="radar-status" role="status" aria-live="polite"></span></section>`;
+	return `<section class="stats-chart" aria-labelledby="accuracy-title"><h2 id="accuracy-title">과목별 정답률</h2>
+	<div class="stats-subjects" role="group" aria-label="정답률 과목 선택">${views.map((view, i) => `<button class="chip" data-act="radar-select" data-index="${i}" aria-pressed="${i === radarIndex}">${view.title}</button>`).join("")}</div>
+	<button class="card radar-card" id="radar-card" data-act="radar-next" aria-label="${views[radarIndex].title} 정답률, 다음 분류 보기"><span class="radar-face">${radarFace(views[radarIndex], radarIndex)}</span></button>
+	<p class="small muted">반복 풀이를 포함한 정답률이에요. 실전 성적은 기출 모의고사에서 확인해 주세요.</p>
+	<span class="sr" id="radar-status" role="status" aria-live="polite"></span></section>`;
 }
 
-async function transitionRadar() {
+function transitionRadar(index = (radarIndex + 1) % 4) {
+	if (!Number.isInteger(index) || index < 0 || index > 3 || index === radarIndex) return;
 	const card = document.getElementById("radar-card");
-	if (!card || radarLoading) return;
-	radarLoading = true;
-	card.setAttribute("aria-busy", "true");
-	card.setAttribute("aria-disabled", "true");
-	card.insertAdjacentHTML("beforeend", '<span class="radar-skeleton" aria-hidden="true"><span class="skeleton"><i></i></span><span class="radar-skeleton-plot"></span><span class="skeleton"><i></i><i></i><i></i><i></i><i></i></span></span>');
-	try {
-		await new Promise((resolve) => setTimeout(resolve, 200));
-		if (!card.isConnected) return;
-		radarIndex = (radarIndex + 1) % 4;
-		const view = radarViews(state.log, byId, today())[radarIndex];
-		card.innerHTML = radarFace(view, radarIndex);
-		card.setAttribute("aria-label", `${view.title} 정답률, 다음 분류 보기`);
-		document.getElementById("radar-status").textContent = `${view.title} 정답률, ${radarIndex + 1}/4`;
-	} finally {
-		card.removeAttribute("aria-busy");
-		card.removeAttribute("aria-disabled");
-		card.querySelector(".radar-skeleton")?.remove();
-		radarLoading = false;
-	}
+	if (!card) return;
+	radarIndex = index;
+	const view = radarViews(state.log, byId, today())[index];
+	card.innerHTML = `<span class="radar-face content-enter">${radarFace(view, index)}</span>`;
+	card.setAttribute("aria-label", `${view.title} 정답률, 다음 분류 보기`);
+	document.querySelectorAll('[data-act="radar-select"]').forEach((button) => button.setAttribute("aria-pressed", Number(button.dataset.index) === index));
+	document.getElementById("radar-status").textContent = `${view.title} 정답률`;
+}
+
+function recordSummary(log) {
+	const total = log.length;
+	const correct = log.filter((entry) => entry.ok).length;
+	return { total, correct, rate: total ? `${Math.round(correct / total * 100)}%` : "기록 없음", days: new Set(log.map((entry) => dayKey(entry.t))).size };
+}
+
+function recordDetail(day) {
+	const log = state.log.filter((entry) => dayKey(entry.t) === day);
+	const summary = recordSummary(log);
+	return `<div class="record-detail"><h3>${shortDay(day)} 학습</h3>
+	${log.length ? `<p>풀이 ${summary.total}회 · 정답률 ${summary.rate}</p><div class="record-subjects">${SUBJECTS.map((subject) => {
+		const part = recordSummary(log.filter((entry) => byId.get(entry.id)?.subject === subject));
+		return `<div class="row"><span>${subject}</span><span class="muted small">${part.total}회 · ${part.rate}</span></div>`;
+	}).join("")}</div>` : '<p class="muted">이날은 학습 기록이 없어요.</p>'}</div>`;
 }
 
 function calendar() {
 	const month = calendarMonth ?? today().slice(0, 7);
+	if (!selectedRecordDay || !selectedRecordDay.startsWith(month)) selectedRecordDay = month === today().slice(0, 7) ? today() : `${month}-01`;
 	const [y, m] = month.split("-").map(Number);
 	const lead = (new Date(y, m - 1, 1).getDay() + 6) % 7;
 	const count = new Date(y, m, 0).getDate();
@@ -395,20 +405,21 @@ function calendar() {
 	const cells = Array.from({ length: count }, (_, i) => {
 		const d = `${month}-${String(i + 1).padStart(2, "0")}`;
 		const on = dayComplete(state, d);
-		const label = `${i + 1}일 ${on ? "완료" : "미완료"}${perDay[d] ? ` ${perDay[d]}문제` : ""}`;
-		return `<div class="cell ${on ? "on" : ""} ${d === today() ? "today" : ""}" role="img" aria-label="${label}"><span>${i + 1}</span>${on ? icon("check") : perDay[d] ? `<span class="muted" style="font-size:12px">${perDay[d]}</span>` : ""}</div>`;
+		return `<button class="cell ${on ? "on" : ""} ${d === today() ? "today" : ""}" data-act="record-day" data-day="${d}" aria-pressed="${d === selectedRecordDay}" ${d === today() ? 'aria-current="date"' : ""} aria-label="${m}월 ${i + 1}일, 풀이 ${perDay[d] ?? 0}회${on ? ', 오늘의 문제 완료' : ''}"><span>${i + 1}${on ? icon("check") : ""}</span><span class="day-count">${perDay[d] ? `${perDay[d]}회` : ""}</span></button>`;
 	});
-	return `<section class="card">
-		<div class="row"><button class="iconbtn" data-act="month" data-delta="-1" aria-label="이전 달">${icon("left")}</button><h2>${y}년 ${m}월</h2><button class="iconbtn" data-act="month" data-delta="1" aria-label="다음 달">${icon("right")}</button></div>
-		<div class="calendar">${WEEKDAYS.map((w) => `<div class="muted">${w}</div>`).join("")}${"<div></div>".repeat(lead)}${cells.join("")}</div>
-	</section>`;
+	return `<div class="calendar-content"><div class="row"><button class="iconbtn" data-act="month" data-delta="-1" aria-label="이전 달">${icon("left")}</button><h3>${y}년 ${m}월</h3><button class="iconbtn" data-act="month" data-delta="1" aria-label="다음 달">${icon("right")}</button></div>
+	<div class="calendar">${WEEKDAYS.map((w) => `<div class="muted">${w}</div>`).join("")}${"<div></div>".repeat(lead)}${cells.join("")}</div>
+	<p class="small muted">숫자는 풀이 횟수 · ✓ 오늘의 문제 완료</p>
+	<div id="record-detail">${recordDetail(selectedRecordDay)}</div></div>`;
 }
 
 function stats() {
+	const start = addDays(today(), -6);
+	const summary = recordSummary(state.log.filter((entry) => dayKey(entry.t) >= start && dayKey(entry.t) <= today()));
 	shell("stats", `<h1>학습 기록</h1>
-	<h2>과목별 정답률</h2>
-	${radarCard()}
-	${calendar()}`);
+	<section class="card stats-summary" aria-labelledby="week-summary"><h2 id="week-summary">최근 7일</h2><p class="small muted">${shortDay(start)}–${shortDay(today())} · 반복 풀이 포함</p>
+	<dl class="stats-metrics"><div><dt>풀이 횟수</dt><dd>${summary.total}<span>회</span></dd></div><div><dt>정답률</dt><dd>${summary.rate}</dd></div><div><dt>학습한 날</dt><dd>${summary.days}<span>일 / 7일</span></dd></div></dl></section>
+	<div class="stats-layout">${radarCard()}<section class="card stats-calendar" aria-labelledby="calendar-heading"><h2 id="calendar-heading">학습 달력</h2><p class="small muted">날짜를 선택하면 그날의 기록을 볼 수 있어요.</p><div id="calendar-body">${calendar()}</div></section></div>`);
 }
 
 /* 풀이 */
@@ -803,7 +814,8 @@ function submitMock() {
 
 /* 입력 */
 const ACTIONS = {
-	"radar-next": transitionRadar,
+	"radar-next": () => transitionRadar(),
+	"radar-select": (d) => transitionRadar(Number(d.index)),
 	"round-toggle"() {
 		setRoundOpen(document.getElementById("round-trigger").getAttribute("aria-expanded") !== "true");
 	},
@@ -918,11 +930,17 @@ const ACTIONS = {
 		const ids = questions.filter((q) => q.subject === d.subject && q.topic === d.topic && prog.get(q.id)?.due && !state.flags[q.id]?.on).map((q) => q.id);
 		start("review", ids, `${d.topic} 복습`);
 	},
+	"record-day"(d) {
+		selectedRecordDay = d.day;
+		document.querySelectorAll('[data-act="record-day"]').forEach((button) => button.setAttribute("aria-pressed", button.dataset.day === d.day));
+		document.getElementById("record-detail").innerHTML = `<div class="content-enter">${recordDetail(d.day)}</div>`;
+	},
 	month(d) {
 		const [y, m] = (calendarMonth ?? today().slice(0, 7)).split("-").map(Number);
 		const moved = new Date(y, m - 1 + Number(d.delta), 1);
 		calendarMonth = `${moved.getFullYear()}-${String(moved.getMonth() + 1).padStart(2, "0")}`;
-		stats();
+		document.getElementById("calendar-body").innerHTML = `<div class="content-enter">${calendar()}</div>`;
+		document.querySelector(`[data-act="month"][data-delta="${d.delta}"]`)?.focus({ preventScroll: true });
 	},
 };
 

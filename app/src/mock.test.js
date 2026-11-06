@@ -85,36 +85,23 @@ run(`ACTIONS['round-start']({year: '2025', subject: '민법개론'}); session.de
 assert.equal(run("session.mode"), "mock-result");
 assert.equal(run("state.log.length"), 4, "timeout grades all questions once");
 assert.ok(dialogClosed >= 2, "timeout closes submission/abandon confirmation");
-// Card cycling waits exactly 200ms, blocks repeated taps, and releases its busy state.
+// Direct selection and cycling share immediate rendering without skeleton delays.
 const attributes = new Map();
-const radarCard = { innerHTML: "", isConnected: true,
-  setAttribute: (k, v) => attributes.set(k, v), removeAttribute: (k) => attributes.delete(k),
-  insertAdjacentHTML: (_, html) => { radarCard.innerHTML += html; }, querySelector: () => null };
+const radarCard = { innerHTML: "", setAttribute: (k, v) => attributes.set(k, v) };
 const radarStatus = { textContent: "" };
-let release;
-ctx.setTimeout = (fn, delay) => { assert.equal(delay, 200); release = fn; };
 ctx.document.getElementById = (id) => id === "radar-card" ? radarCard : id === "radar-status" ? radarStatus : null;
+ctx.document.querySelectorAll = () => [];
 for (const title of ["산업재산권법", "민법개론", "자연과학개론", "전체"]) {
-  const before = run("radarIndex");
-  const pending = run("ACTIONS['radar-next']()");
-  assert.equal(attributes.get("aria-busy"), "true");
-  assert.match(radarCard.innerHTML, /radar-skeleton/);
-  await run("ACTIONS['radar-next']()");
-  assert.equal(run("radarIndex"), before);
-  release();
-  await pending;
-  assert.equal(attributes.has("aria-busy"), false);
+  run("ACTIONS['radar-next']()");
   assert.ok(radarStatus.textContent.startsWith(title));
-  assert.ok(radarCard.innerHTML.includes(title));
+  assert.match(radarCard.innerHTML, /content-enter/);
+  assert.doesNotMatch(radarCard.innerHTML, /skeleton/);
 }
-assert.equal(run("radarLoading"), false);
-const before = run("radarIndex");
-const pending = run("ACTIONS['radar-next']()");
-radarCard.isConnected = false;
-release();
-await pending;
-assert.equal(run("radarIndex"), before, "navigation cancels the pending switch");
-assert.equal(run("radarLoading"), false);
+run("ACTIONS['radar-select']({index: '2'})");
+assert.equal(run("radarIndex"), 2);
+const unchanged = radarCard.innerHTML;
+run("ACTIONS['radar-select']({index: '2'})");
+assert.equal(radarCard.innerHTML, unchanged);
 console.log("mock flow and radar interaction ok");
 
 // The initial route marks Home in the markup, without a separately positioned highlight.
@@ -176,3 +163,25 @@ assert.match(app.innerHTML, /a href="#notes\//);
 assert.match(app.innerHTML, /data-act="notes-empty"/);
 assert.doesNotMatch(app.innerHTML, /class="meter"/);
 console.log("notebook counts and empty toast ok");
+
+// Calendar changes update only the calendar; summaries count attempts and distinct days.
+const calendarBody = { innerHTML: "" };
+const detailBody = { innerHTML: "" };
+ctx.document.getElementById = (id) => id === "calendar-body" ? calendarBody : id === "record-detail" ? detailBody : null;
+ctx.document.querySelector = () => null;
+run("calendarMonth = '2026-01'; selectedRecordDay = '2026-01-31'; ACTIONS.month({delta: '-1'});");
+assert.equal(run("calendarMonth"), '2025-12');
+assert.equal(run("selectedRecordDay"), '2025-12-01');
+assert.equal(radarCard.innerHTML, unchanged, 'month changes leave radar untouched');
+assert.match(calendarBody.innerHTML, /data-act="record-day"/);
+assert.match(calendarBody.innerHTML, /풀이 횟수/);
+run("ACTIONS['record-day']({day: '2025-12-02'});");
+assert.match(detailBody.innerHTML, /이날은 학습 기록이 없어요/);
+assert.equal(run("recordSummary([{t: Date.now(), ok:true}, {t:Date.now(),ok:false}]).rate"), '50%');
+assert.equal(run("recordSummary([{t: Date.now(), ok:true}, {t:Date.now(),ok:false}]).days"), 1);
+assert.equal(run("recordSummary([]).rate"), '기록 없음');
+run("stats();");
+assert.match(app.innerHTML, /최근 7일/);
+assert.match(app.innerHTML, /학습한 날/);
+assert.match(app.innerHTML, /stats-layout/);
+console.log("learning records summary and calendar ok");
