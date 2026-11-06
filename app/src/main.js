@@ -104,6 +104,7 @@ function countUp() {
 
 /* 기기에 남기는 것은 로그인 여부 표시뿐이고 인증은 서버 쿠키가 맡는다. */
 function signOut(message = "") {
+	document.getElementById("ai-chat")?.close();
 	signedIn = false;
 	session = null;
 	write("signedIn", false);
@@ -187,6 +188,7 @@ function shell(tab, body) {
 		<main class="main page-${tab}"><header class="topbrand"><div class="brand">${icon("note")}<span>나희의 합격노트</span></div><button class="top-logout" data-act="logout">${icon("logout")}<span>로그아웃</span></button></header>${body}</main>
 	</div>`;
 	if (!motion) return;
+	dismissToast();
 	scrollTo(0, 0);
 }
 
@@ -219,6 +221,7 @@ function home() {
 		<section class="card hero">
 			<div class="row"><h2>오늘의 기출</h2><strong>${num(done)} / ${ids.length}</strong></div>
 			<div class="bar" role="progressbar" aria-valuemin="0" aria-valuemax="${ids.length}" aria-valuenow="${done}" aria-label="오늘 푼 문제"><i style="width:${(done / ids.length) * 100}%"></i></div>
+			<p class="small muted">${finished ? "오늘 배정된 문제를 모두 풀었어요." : `오늘 ${ids.length - done}문제 남았어요. 한 문제씩 정답과 해설을 확인해요.`}</p>
 			${finished ? `<p class="row" style="justify-content:flex-start">${drawMark()}오늘 문제 완료</p><button class="btn white" data-act="more"><span>추가 풀이</span>${icon("arrow")}</button>` : `<button class="btn white" data-act="daily"><span>${done ? "이어서 풀기" : "시작"}</span>${icon("arrow")}</button>`}
 		</section>
 		<section class="card">
@@ -228,7 +231,7 @@ function home() {
 		</section>
 		<section class="card wide">
 			${review.length
-				? `<button class="link" data-act="review"><span class="row" style="gap:16px">${icon("bookmark", "var(--accent)")}<h2>오답 랜덤 풀기</h2></span>${icon("arrow")}</button>`
+				? `<button class="link" data-act="review"><span class="row" style="gap:16px">${icon("bookmark", "var(--accent)")}<span><h2>오답 랜덤 풀기</h2><span class="small muted">복습할 ${review.length}문제 중 최대 ${DAILY_SIZE}문제</span></span></span>${icon("arrow")}</button>`
 				: `<div class="row" style="justify-content:flex-start;gap:16px">${icon("bookmark", "var(--accent)")}<span><h2>오답 랜덤 풀기</h2><span class="muted">오답 없음</span></span></div>`}
 		</section>
 	</div>`);
@@ -266,7 +269,7 @@ function exam() {
 				</div>
 			</dialog>
 		</div>
-		<div class="list">${SUBJECTS.filter((subject) => selected.n[subject]).map((subject) => `<button class="link" data-act="round" data-year="${selectedExamYear}" data-subject="${subject}"><span><strong>${subject}</strong><br><span class="small muted">${selected.n[subject]}문제 · ${MOCK_MINUTES[subject]}분${record(subject)}</span></span><span class="go">시작</span></button>`).join("")}</div>
+		<div class="list">${SUBJECTS.filter((subject) => selected.n[subject]).map((subject) => `<button class="link" data-act="round" data-year="${selectedExamYear}" data-subject="${subject}"><span><strong>${subject}</strong><br><span class="small muted">${selected.n[subject]}문제 · ${MOCK_MINUTES[subject]}분${record(subject)}</span></span><span class="go">응시 안내</span></button>`).join("")}</div>
 	</section>`);
 }
 
@@ -312,7 +315,7 @@ function notesItem(q, sub) {
 	return `<button class="link" data-act="single" data-id="${esc(q.id)}"><span><span class="small muted">${q.year}년 · ${sub}</span><br>${esc(q.stem.slice(0, 60))}${q.stem.length > 60 ? "…" : ""}</span>${icon("right")}</button>`;
 }
 
-const reviewStage = (p) => `복습 ${p.stage + 1}/4 · ${shortDay(p.due)}`;
+const reviewStage = (p) => `복습 ${p.stage + 1}/4 · ${(p.due <= today() || p.failed) ? "오늘 복습" : `${shortDay(p.due)} 예정`}`;
 
 function notes(path = []) {
 	const prog = progress(state.log);
@@ -336,7 +339,7 @@ function notes(path = []) {
 	shell("notes", `<h1>오답노트</h1>
 	<section class="card notes-summary" aria-labelledby="review-heading">
 		<div class="stack"><h2 id="review-heading">오늘 복습</h2><p class="notes-summary-copy">${review.length ? `풀어볼 문제가 <strong>${review.length}개</strong> 있어요.` : active.length ? "오늘 복습을 모두 마쳤어요." : "아직 등록된 오답이 없어요."}</p><p class="muted small">${active.length ? `전체 ${active.length}문제 · 오늘 수에는 밀린 복습도 포함돼요.` : "오답·애매함 문항이 자동으로 모여요."}</p></div>
-		${review.length ? `<button class="btn" data-act="review-all">오늘 복습 시작 ${icon("arrow")}</button>` : ""}
+		${review.length ? `<button class="btn" data-act="review-all">오늘 ${review.length}문제 복습 ${icon("arrow")}</button>` : ""}
 	</section>
 	<div class="notes-subjects" role="group" aria-label="오답노트 과목 선택">${SUBJECTS.map((subject) => `<button class="notes-subject" data-act="notes-subject" data-subject="${subject}" aria-pressed="${subject === notesSubject}">${subject}</button>`).join("")}</div>
 	<section class="card notes-parts" aria-labelledby="notes-subject-heading">
@@ -350,8 +353,10 @@ function notes(path = []) {
 function notesTopic([subject, topic], active) {
 	if (SUBJECTS.includes(subject)) notesSubject = subject;
 	const items = active.filter(({ q }) => q.subject === subject && q.topic === topic).sort((a, b) => a.p.due.localeCompare(b.p.due));
+	const due = new Set(reviewIds(questions, progress(state.log), state.flags, today()));
+	const todayCount = items.filter(({ q }) => due.has(q.id)).length;
 	shell("notes", `<div class="row" style="justify-content:flex-start"><a class="iconbtn" href="#notes" aria-label="오답노트로 돌아가기">${icon("left")}</a><h1>${esc(topic)}</h1></div>
-	${items.length ? `<button class="btn" data-act="topic-review" data-subject="${esc(subject)}" data-topic="${esc(topic)}">${items.length}문제 풀기</button>` : ""}
+	${items.length ? `<div class="topic-actions">${todayCount ? `<button class="btn" data-act="topic-review" data-subject="${esc(subject)}" data-topic="${esc(topic)}" data-due="true">오늘 ${todayCount}문제 복습</button>` : '<p class="small muted">오늘 예정된 복습을 모두 마쳤어요.</p>'}<button class="btn quiet" data-act="topic-review" data-subject="${esc(subject)}" data-topic="${esc(topic)}">전체 ${items.length}문제 풀기</button></div>` : ""}
 	<section class="card">
 		<h2>${esc(subject)}</h2>
 		${items.length
@@ -362,7 +367,8 @@ function notesTopic([subject, topic], active) {
 
 function notesFlagged(flagged) {
 	shell("notes", `<div class="row" style="justify-content:flex-start"><a class="iconbtn" href="#notes" aria-label="오답노트로 돌아가기">${icon("left")}</a><h1>개정 의심 문제</h1></div>
-	<section class="card"><div class="list">${flagged.map((q) => notesItem(q, q.subject)).join("")}</div></section>`);
+	<p class="small muted">오늘의 문제와 자동 복습에서 제외돼요. 문제를 열어 ‘개정 의심’을 해제하면 다시 포함돼요.</p>
+	<section class="card"><div class="list">${flagged.length ? flagged.map((q) => notesItem(q, q.subject)).join("") : '<p class="muted">개정 의심으로 표시한 문제가 없어요.</p><a class="btn quiet" href="#notes">오답노트로 돌아가기</a>'}</div></section>`);
 }
 
 function radarCard() {
@@ -425,6 +431,7 @@ function statsPanel() {
 	if (statsView === "calendar") return `<section class="card stats-calendar" aria-labelledby="calendar-heading"><h2 id="calendar-heading" class="sr">학습 달력</h2><div id="calendar-body">${calendar()}</div></section>`;
 	const start = addDays(today(), -6);
 	const summary = recordSummary(state.log.filter((entry) => dayKey(entry.t) >= start && dayKey(entry.t) <= today()));
+	if (!summary.total) return `<div class="stats-empty"><p>최근 7일 학습 기록이 없어요. 문제를 풀면 정답률과 학습한 날이 쌓여요.</p><a class="chip" href="#home">오늘의 학습 시작</a></div>${radarCard()}`;
 	return `<div class="stats-summary" aria-label="최근 7일 학습 요약"><span class="summary-period">최근 7일 <span class="muted">${shortDay(start)}–${shortDay(today())}</span></span><div class="summary-inline"><span>풀이 <strong>${summary.total}회</strong></span><span>정답률 <strong>${summary.rate}</strong></span><span>학습한 날 <strong>${summary.days}일</strong></span></div></div>
 	${radarCard()}`;
 }
@@ -530,11 +537,11 @@ function explainHtml(q) {
 	const body = ex === "loading"
 		? '<div class="skeleton" role="status" aria-label="해설 불러오는 중"><i></i><i></i><i></i><i></i><i></i><i></i></div>'
 		: ex === "offline"
-			? '<div class="alert bad">인터넷 연결 필요</div><button class="btn quiet" data-act="retry">다시 시도</button>'
+			? '<div class="alert bad">저장된 해설이 없어요. 인터넷 연결 후 다시 시도해 주세요.</div><button class="btn quiet" data-act="retry">다시 시도</button>'
 			: ex === "missing"
-				? '<div class="alert">해설 준비 중</div>'
+				? '<div class="alert">해설 준비 중이에요. 정답은 문제의 선지에서 확인할 수 있어요.</div>'
 			: ex === "failed"
-				? '<div class="alert bad">해설 불러오기 실패</div><button class="btn quiet" data-act="retry">다시 시도</button>'
+				? '<div class="alert bad">해설을 불러오지 못했어요. 다시 시도해 주세요.</div><button class="btn quiet" data-act="retry">다시 시도</button>'
 				: ex
 					? `<p>${esc(ex.summary)}</p>
 					<div class="list">${s.orders.get(q.id).map((orig, pos) => `<div class="explanation-choice ${isCorrect(q, orig) ? "correct" : "incorrect"}"><strong>${NUM[pos]} ${isCorrect(q, orig) ? "정답" : "오답"}</strong><br><span class="small">${esc(ex.choices[orig])}</span>${basisHtml(q, ex, orig + 1)}</div>`).join("")}</div>
@@ -550,7 +557,7 @@ function explainHtml(q) {
 
 function chatMessagesHtml(q, s) {
 	return `${s.pastChat && !q.fixed ? '<p class="small muted">이전 대화 · 당시 보기 번호 기준</p>' : ""}
-	${s.chat.length ? s.chat.map((m, index) => `<div data-chat-index="${index}" class="say ${m.role === "user" ? "me" : ""}"><span class="chat-speaker">${m.role === "user" ? "나" : "AI"}</span><div class="chat-text">${esc(m.content)}</div></div>`).join("") : '<div class="chat-empty"><h3>어떤 부분이 궁금한가요?</h3><p class="muted">현재 문제와 해설을 바탕으로 답변해 드려요.</p></div>'}
+	${s.chat.length ? s.chat.map((m, index) => `<div data-chat-index="${index}" class="say ${m.role === "user" ? "me" : ""}"><span class="chat-speaker">${m.role === "user" ? "나" : "AI"}</span><div class="chat-text">${esc(m.content)}</div></div>`).join("") : '<div class="chat-empty"><h3>어떤 부분이 궁금한가요?</h3><p class="muted">현재 문제와 해설을 바탕으로 답변해 드려요.</p><div class="chat-prompts"><button class="chip" data-act="chat-prompt" data-keep-open="true" data-prompt="정답의 핵심 근거를 쉽게 설명해 주세요.">정답의 핵심 근거</button><button class="chip" data-act="chat-prompt" data-keep-open="true" data-prompt="제가 고른 답과 정답의 차이를 설명해 주세요.">내 답과 정답 비교</button></div></div>'}
 	${s.asking ? '<p class="small muted" role="status">답변 작성 중…</p>' : ""}
 	${s.askError ? '<p class="error" role="alert">답변을 받지 못했어요. 다시 전송해 주세요.</p>' : ""}`;
 }
@@ -581,6 +588,7 @@ function paintChatReply(reply, index) {
 }
 
 function openChat() {
+	dismissToast();
 	const s = session;
 	if (!s?.revealed || !s.explain || typeof s.explain !== "object") return;
 	const q = current();
@@ -588,8 +596,9 @@ function openChat() {
 	if (dialog.open) { dialog.querySelector("textarea").focus({ preventScroll: true }); return; }
 	dialog.innerHTML = `<div class="round-grab" aria-hidden="true"><span></span></div>
 	<header class="chat-header"><div><h2 id="ai-chat-title">AI 질문</h2><p class="small muted">${q.year}년 · ${esc(q.subject)} · ${q.number}번</p></div><button class="iconbtn" data-act="dialog-close" aria-label="AI 질문 닫기">${icon("close")}</button></header>
-	<div class="chat-messages" role="log" aria-label="문제에 대한 대화">${chatMessagesHtml(q, s)}</div>
-	<form data-form="ask" class="chat-compose"><label class="sr" for="ask">AI에게 질문</label><textarea id="ask" class="field" rows="2" placeholder="궁금한 내용을 입력하세요" required>${esc(s.askDraft ?? "")}</textarea><button type="submit" class="btn" ${s.asking ? "disabled" : ""}>전송</button><p class="small muted">AI 답변에는 오류가 있을 수 있어요.</p></form>`;
+	<div class="chat-messages" role="log" aria-live="off" aria-label="문제에 대한 대화">${chatMessagesHtml(q, s)}</div>
+	<button class="chat-latest chip" data-act="chat-latest" data-keep-open="true" hidden>최신 답변 보기 ↓</button>
+	<form data-form="ask" class="chat-compose"><label class="sr" for="ask">AI에게 질문</label><textarea id="ask" class="field" enterkeyhint="enter" rows="2" placeholder="궁금한 내용을 입력하세요" required>${esc(s.askDraft ?? "")}</textarea><button type="submit" class="btn" ${s.asking ? "disabled" : ""}>전송</button><p class="small muted">AI 답변에는 오류가 있을 수 있어요. <span class="keyboard-hint">⌘ / Ctrl + Enter로 전송</span></p><span class="sr chat-status" role="status"></span></form>`;
 	chatBaseHeight = innerHeight;
 	chatBaseWidth = innerWidth;
 	chatFollowBottom = true;
@@ -598,7 +607,7 @@ function openChat() {
 	updateChatViewport();
 	const messages = dialog.querySelector(".chat-messages");
 	messages.scrollTop = messages.scrollHeight;
-	messages.addEventListener("scroll", () => { chatFollowBottom = messages.scrollHeight - messages.scrollTop - messages.clientHeight < 80; }, { passive: true });
+	messages.addEventListener("scroll", () => { chatFollowBottom = messages.scrollHeight - messages.scrollTop - messages.clientHeight < 80; dialog.querySelector(".chat-latest").hidden = chatFollowBottom; }, { passive: true });
 }
 
 function paintExplain(fresh = false) {
@@ -669,7 +678,7 @@ function next() {
 	const s = session;
 	commit();
 	if (s.i + 1 >= s.ids.length) return finish();
-	Object.assign(s, { i: s.i + 1, revealed: false, committed: false, amb: false, sheet: false, explain: null, chat: [], askDraft: "", askError: false, motion: "enter" });
+	session = { ...s, i: s.i + 1, revealed: false, committed: false, amb: false, sheet: false, explain: null, chat: [], askDraft: "", askError: false, asking: false, motion: "enter" };
 	solve();
 	scrollTo(0, 0);
 }
@@ -686,7 +695,7 @@ function finish() {
 		<h1>${esc(s.title)}</h1>
 		<p>정답 ${num(s.score)} / ${total}</p>
 		${s.mode === "mock" ? `<p><strong style="font-size:30px;line-height:45px">${num(percent, "점")}</strong></p><p class="muted small">오답 문항 복습 등록 완료</p>` : ""}
-		<button class="btn" data-act="leave">확인</button>
+		<p class="small muted">틀리거나 애매했던 문제는 오답노트에서 복습할 수 있어요.</p><button class="btn" data-act="leave">학습으로 돌아가기</button>
 	</section></div>`;
 	scrollTo(0, 0);
 	countUp();
@@ -714,7 +723,7 @@ function solve() {
 		</header>
 		<div class="cols ${s.revealed ? "open" : ""}">
 			<section class="card q">
-				<span><span class="tag">${q.year}년 · ${q.subject}</span></span>
+				<span class="tag">${q.year}년 · ${q.subject} · ${q.number}번${q.topic ? ` · ${esc(q.topic)}` : ""}</span>
 				${stemHtml(q)}
 				${figureHtml(q)}
 				${choiceHtml(q)}
@@ -722,8 +731,8 @@ function solve() {
 				${s.revealed
 					? ""
 					: `<div class="actions">
-						<button class="chip" aria-pressed="${s.amb}" data-act="amb">애매함</button>
-						<button class="chip" aria-pressed="${!!flag}" data-act="flag">개정 의심</button>
+						<button class="chip" aria-label="애매함: 정답이어도 복습에 등록" aria-pressed="${s.amb}" data-act="amb">애매함</button>
+						<button class="chip" aria-label="개정 의심: 오늘의 문제와 자동 복습에서 제외" aria-pressed="${!!flag}" data-act="flag">개정 의심</button>
 					</div>`}
 			</section>
 			${s.revealed ? `<aside class="card explain" id="explain" ${s.sheet ? "data-open" : ""} aria-label="해설">${explainHtml(q)}</aside>` : ""}
@@ -733,7 +742,7 @@ function solve() {
 				? `<button class="btn quiet" data-act="mock-review-move" data-delta="-1" ${s.i === 0 ? "disabled" : ""}>이전</button><button class="btn quiet openexplain" data-act="sheet-open">해설 보기</button>${s.i + 1 < s.ids.length ? '<button class="btn quiet" data-act="mock-review-move" data-delta="1">다음</button>' : ""}<button class="btn" data-act="mock-result">결과</button>`
 				: s.revealed
 				? `<button class="btn quiet openexplain" data-act="sheet-open">해설 보기</button><button class="btn" data-act="next">${s.i + 1 < s.ids.length ? "다음 문제" : "마치기"}</button>`
-				: '<button class="btn" data-act="reveal">정답 확인</button>'}
+				: `<button class="btn" id="reveal-answer" data-act="reveal" ${s.picks[q.id] === undefined ? "disabled" : ""}>${s.picks[q.id] === undefined ? "답을 선택해 주세요" : "정답 확인"}</button>`}
 		</div>
 		${s.revealed ? `<div class="scrim" id="scrim" ${s.sheet ? "data-open" : ""} data-act="sheet-close"></div>` : ""}
 	</div>`;
@@ -761,14 +770,14 @@ function mockResult() {
 		<section class="card">
 			<div class="notice-head"><h1 class="small muted score-title">${esc(s.title)}</h1><p class="score">${pct(s.score, s.ids.length)}점</p></div>
 			<div class="facts">${Object.keys(RESULT).map((k) => `<div><strong>${count(k)}</strong><span class="small muted">${RESULT[k]}</span></div>`).join("")}</div>
-			<p class="muted small">오답 문항 복습 등록 완료</p>
+			<p class="muted small">${count("no") + count("skip") ? `오답·미응답 ${count("no") + count("skip")}문제를 복습에 등록했어요. 문항을 누르면 해설을 볼 수 있어요.` : "모든 문제를 맞혔어요. 문항을 눌러 해설을 확인할 수 있어요."}</p>
 			<div class="actions filter" role="group" aria-label="문항 보기">${chip("all", "전체", rows.length)}${chip("no", "오답", count("no"))}${chip("skip", "미응답", count("skip"))}</div>
 			<div class="list">${shown.map(({ q, i, picked, status, order }) => {
 				const answer = q.answer.map((n) => order.indexOf(n - 1) + 1).sort().join(", ");
 				return `<button class="link" data-act="mock-review" data-index="${i}"><span><strong class="res-${status}">${q.number}번 · ${RESULT[status]}</strong><br><span class="small muted">내 답 ${picked === undefined ? "—" : order.indexOf(picked) + 1} · 정답 ${answer}</span></span><span class="link-end">해설${icon("right")}</span></button>`;
 			}).join("") || '<p class="muted small">해당 문항 없음</p>'}</div>
 		</section>
-		<div class="dock"><button class="btn" data-act="leave">마치기</button></div>
+		<div class="dock"><button class="btn" data-act="leave">기출 모의고사로 돌아가기</button></div>
 	</div>`;
 	scrollTo(0, 0);
 }
@@ -842,7 +851,7 @@ function openMap() {
 	const left = s.ids.length - answered(s);
 	d.classList.remove("closing");
 	d.innerHTML = `<div class="round-grab" aria-hidden="true"><span></span></div>
-		<header class="round-sheet-header"><div><h2 id="map-title">문항표</h2><p class="small muted">미응답 ${left}문제</p></div><button class="iconbtn" data-act="dialog-close" aria-label="문항표 닫기">${icon("close")}</button></header>
+		<header class="round-sheet-header"><div><h2 id="map-title">문항표</h2><p class="small muted">응답 ${answered(s)} · 미응답 ${left} · 테두리는 현재 문항</p></div><button class="iconbtn" data-act="dialog-close" aria-label="문항표 닫기">${icon("close")}</button></header>
 		<div class="round-options map-grid">${s.ids.map((id, i) => {
 			const done = s.picks[id] !== undefined;
 			return `<button class="map-cell ${done ? "done" : ""}" data-act="mock-go" data-index="${i}" ${i === s.i ? 'aria-current="true"' : ""} aria-label="${i + 1}번 ${done ? "응답" : "미응답"}">${i + 1}</button>`;
@@ -887,6 +896,7 @@ function submitMock() {
 
 /* 입력 */
 const ACTIONS = {
+	"reload-app": () => location.reload(),
 	"radar-next": () => transitionRadar(),
 	"radar-select": (d) => transitionRadar(Number(d.index)),
 	"round-toggle"() {
@@ -912,6 +922,7 @@ const ACTIONS = {
 		const day = today();
 		const d = state.days[day];
 		const extra = pickDaily(questions, state.log, state.flags, DAILY_SIZE, day, new Set(dayIds(d)));
+		if (!extra.length) return toast("추가로 풀 문제가 없어요. 기출 모의고사에서 다시 풀 수 있어요.");
 		d.extra = [...(d.extra ?? []), ...extra];
 		save();
 		ACTIONS.daily();
@@ -960,6 +971,20 @@ const ACTIONS = {
 		document.querySelector('[data-act="flag"]').setAttribute("aria-pressed", state.flags[id].on);
 	},
 	"ai-chat-open": openChat,
+	"chat-prompt"(d) {
+		if (!session) return;
+		session.askDraft = d.prompt;
+		const input = document.getElementById("ask");
+		input.value = d.prompt;
+		input.focus({ preventScroll: true });
+	},
+	"chat-latest"() {
+		const dialog = document.getElementById("ai-chat");
+		chatFollowBottom = true;
+		const messages = dialog.querySelector(".chat-messages");
+		messages.scrollTop = messages.scrollHeight;
+		dialog.querySelector(".chat-latest").hidden = true;
+	},
 	"sheet-open": () => setSheet(true),
 	"sheet-close": () => setSheet(false),
 	"mock-map": openMap,
@@ -973,10 +998,10 @@ const ACTIONS = {
 	"mock-move": (d) => moveMock(session.i + Number(d.delta)),
 	"mock-submit"() {
 		const left = session.ids.filter((id) => session.picks[id] === undefined).length;
-		confirmDialog(left ? `미응답 ${left}문제` : "전 문항 응답 완료", "제출", "mock-confirm");
+		confirmDialog(`<h2>답안을 제출할까요?</h2><p>${left ? `미응답 ${left}문제는 오답으로 처리돼요.` : "모든 문제에 답했어요."} 제출 후에는 답을 바꿀 수 없어요.</p>`, "제출하고 채점", "mock-confirm", left ? "돌아가서 확인" : "계속 검토");
 	},
 	"mock-confirm": submitMock,
-	"mock-quit": () => confirmDialog("중단 시 기록 미저장", "중단", "mock-abandon"),
+	"mock-quit": () => confirmDialog("<h2>모의고사를 중단할까요?</h2><p>응시 기록과 선택한 답이 저장되지 않아요. 잠시 앱을 나가도 시험 시간은 계속 흘러요.</p>", "중단하기", "mock-abandon"),
 	"mock-abandon"() {
 		clearInterval(session.timer);
 		leave();
@@ -1002,7 +1027,8 @@ const ACTIONS = {
 	},
 	"topic-review"(d) {
 		const prog = progress(state.log);
-		const ids = questions.filter((q) => q.subject === d.subject && q.topic === d.topic && prog.get(q.id)?.due && !state.flags[q.id]?.on).map((q) => q.id);
+		const due = new Set(reviewIds(questions, prog, state.flags, today()));
+		const ids = questions.filter((q) => q.subject === d.subject && q.topic === d.topic && prog.get(q.id)?.due && !state.flags[q.id]?.on && (d.due !== "true" || due.has(q.id))).sort((a, b) => prog.get(a.id).due.localeCompare(prog.get(b.id).due)).map((q) => q.id);
 		start("review", ids, `${d.topic} 복습`);
 	},
 	"stats-view"(d) {
@@ -1046,7 +1072,7 @@ document.addEventListener("click", (e) => {
 	const el = e.target.closest("[data-act]");
 	if (!el || el.disabled) return;
 	const dialog = el.closest("dialog");
-	if (dialog) shut(dialog);
+	if (dialog && el.dataset.keepOpen !== "true") shut(dialog);
 	if (el.classList.contains("chip")) el.classList.add("picked");
 	ACTIONS[el.dataset.act](el.dataset);
 });
@@ -1064,6 +1090,11 @@ document.addEventListener("close", (e) => {
 
 document.addEventListener("keydown", (e) => {
 	const chat = document.getElementById("ai-chat");
+	if (e.target.id === "ask" && e.key === "Enter" && (e.metaKey || e.ctrlKey) && !e.isComposing) {
+		e.preventDefault();
+		e.target.form.requestSubmit();
+		return;
+	}
 	if (e.key === "Escape" && chat?.open && chatDocked) {
 		e.preventDefault();
 		shut(chat);
@@ -1118,6 +1149,8 @@ document.addEventListener("change", (e) => {
 			bar.firstElementChild.style.width = `${(answered(session) / session.ids.length) * 100}%`;
 		}
 		session.error = "";
+		const revealButton = document.getElementById("reveal-answer");
+		if (revealButton) { revealButton.disabled = false; revealButton.textContent = "정답 확인"; }
 		keep();
 	}
 });
@@ -1198,7 +1231,10 @@ document.addEventListener("submit", async (e) => {
 		if (shown()) document.getElementById("ai-chat").querySelector("textarea").value = text;
 	} finally {
 		s.asking = false;
-		if (shown()) paintChat();
+		if (shown()) {
+			paintChat();
+			document.getElementById("ai-chat").querySelector(".chat-status").textContent = s.askError ? "답변을 받지 못했어요. 질문을 다시 전송해 주세요." : "AI 답변이 완료됐어요.";
+		}
 	}
 });
 
@@ -1234,6 +1270,7 @@ function loginScreen(message = "") {
 		<div class="login-panel">
 			<img src="/apple-touch-icon.png" alt="" width="80" height="80">
 			<h1>나희의 합격노트</h1>
+			<p class="login-copy">변리사 1차 기출부터 오답 복습까지.<br>매일의 학습을 한곳에 모아요.</p>
 			${message ? `<p class="error" role="alert">${message}</p>` : ""}
 			<button class="btn google" data-act="google-login">${GOOGLE_MARK}Google 계정으로 로그인</button>
 		</div>
@@ -1312,10 +1349,13 @@ async function boot() {
 	localStorage.removeItem("token");
 	if (login) history.replaceState(null, "", location.pathname + location.hash);
 	if (login === "ok") write("signedIn", (signedIn = true));
-	if (login && login !== "ok") return loginScreen(login === "denied" ? "허용되지 않은 계정" : "로그인 실패");
+	if (login && login !== "ok") return loginScreen(login === "denied" ? "등록된 Google 계정으로 로그인해 주세요." : "로그인하지 못했어요. 다시 시도해 주세요.");
 	if (!signedIn || !resume()) render();
 	// 첫 화면이 네트워크를 기다리지 않게 뒤에서 맞춘다
 	if (signedIn) syncAndShow();
 }
 
-boot();
+function bootFailure() {
+	app.innerHTML = `<div class="splash"><h1>학습 화면을 불러오지 못했어요</h1><p>인터넷 연결을 확인하고 다시 시도해 주세요.</p><button class="btn" data-act="reload-app">다시 불러오기</button></div>`;
+}
+boot().catch(bootFailure);

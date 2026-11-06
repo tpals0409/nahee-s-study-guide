@@ -1,0 +1,923 @@
+{
+  "scope": "All user-facing pages and overlays; persona-led UI/UX optimization",
+  "personas": [
+    {
+      "id": "daily-tablet",
+      "name": "나희 · 전업 수험생",
+      "basis": "가설: 기존 사용자의 iPad·긴 문항·해설·채팅 피드백",
+      "context": "iPad landscape/portrait, daily long study sessions",
+      "needs": [
+        "일관된 헤더와 낮은 불필요한 스크롤",
+        "문제·해설·채팅 맥락 유지",
+        "명확한 채점 피드백"
+      ]
+    },
+    {
+      "id": "quick-review",
+      "name": "지민 · 직장인 수험생",
+      "basis": "가설: 짧은 모바일 복습 시나리오, 사용자 조사 미실시",
+      "context": "Phone, 5–10 minute review sessions",
+      "needs": [
+        "오늘 복습할 문제 우선",
+        "빈 화면에서 다음 행동 안내",
+        "작성 내용과 진행 상태 보존"
+      ]
+    },
+    {
+      "id": "exam-check",
+      "name": "서준 · 실전 점검 수험생",
+      "basis": "가설: 기출 모의고사 사용 시나리오",
+      "context": "Tablet with keyboard, timed exam",
+      "needs": [
+        "응답·미응답 구분",
+        "중단·제출 결과 예측",
+        "채점 후 오답 검토"
+      ]
+    }
+  ],
+  "design": {
+    "palette": {
+      "primary": "#CAE5F4",
+      "surface": "#FFFFFF",
+      "text": "#020202",
+      "muted": "#4E5968",
+      "danger": "#B8485E",
+      "accent": "#FFC2CB"
+    },
+    "type": "Pretendard and system fallback; existing aligned page headings unchanged",
+    "layout": "Keep four main tabs; action and current state first, detail on demand; no new dashboard card clutter",
+    "motion": "220ms opacity and translateY(6px), reduced-motion respected",
+    "review": "Keep user's established blue study notebook identity; prioritize actionable state and reading space over decorative redesign"
+  },
+  "coverage": [
+    {
+      "screen": "login",
+      "status": "verified",
+      "disposition": "improved",
+      "change": "Explain the study service before sign-in; actionable authentication errors; short-screen layout.",
+      "evidence": {
+        "browser_scenarios": [
+          "login"
+        ],
+        "viewports_verified": [
+          [
+            390,
+            844
+          ],
+          [
+            768,
+            1024
+          ],
+          [
+            1024,
+            768
+          ],
+          [
+            1180,
+            820
+          ]
+        ],
+        "tests": [
+          "src/mock.test.js",
+          "tools/ux-browser.mjs"
+        ]
+      }
+    },
+    {
+      "screen": "home",
+      "status": "verified",
+      "disposition": "improved",
+      "change": "Show remaining daily work and random review size; preserve one primary daily action.",
+      "evidence": {
+        "browser_scenarios": [
+          "home",
+          "home-complete"
+        ],
+        "viewports_verified": [
+          [
+            390,
+            844
+          ],
+          [
+            768,
+            1024
+          ],
+          [
+            1024,
+            768
+          ],
+          [
+            1180,
+            820
+          ]
+        ],
+        "tests": [
+          "src/mock.test.js",
+          "tools/ux-browser.mjs"
+        ]
+      }
+    },
+    {
+      "screen": "exam-selection",
+      "status": "verified",
+      "disposition": "improved",
+      "change": "Label the pre-exam action as 응시 안내, preserving year selection and exam history.",
+      "evidence": {
+        "browser_scenarios": [
+          "exam"
+        ],
+        "viewports_verified": [
+          [
+            390,
+            844
+          ],
+          [
+            768,
+            1024
+          ],
+          [
+            1024,
+            768
+          ],
+          [
+            1180,
+            820
+          ]
+        ],
+        "tests": [
+          "src/mock.test.js",
+          "tools/ux-browser.mjs"
+        ]
+      }
+    },
+    {
+      "screen": "exam-intro",
+      "status": "verified",
+      "disposition": "retained",
+      "change": "Existing compact facts and exam rules already support the timed-exam persona.",
+      "evidence": {
+        "browser_scenarios": [
+          "exam-intro",
+          "extra-intro"
+        ],
+        "viewports_verified": [
+          [
+            390,
+            844
+          ],
+          [
+            768,
+            1024
+          ],
+          [
+            1024,
+            768
+          ],
+          [
+            1180,
+            820
+          ]
+        ],
+        "tests": [
+          "src/mock.test.js",
+          "tools/ux-browser.mjs"
+        ]
+      }
+    },
+    {
+      "screen": "daily-and-extra-solve",
+      "status": "verified",
+      "disposition": "improved",
+      "change": "Disable grading until a choice is selected; add original question number/topic; handle exhausted extra pool.",
+      "evidence": {
+        "browser_scenarios": [
+          "daily",
+          "extra-solve"
+        ],
+        "viewports_verified": [
+          [
+            390,
+            844
+          ],
+          [
+            768,
+            1024
+          ],
+          [
+            1024,
+            768
+          ],
+          [
+            1180,
+            820
+          ]
+        ],
+        "tests": [
+          "src/mock.test.js",
+          "tools/ux-browser.mjs"
+        ]
+      }
+    },
+    {
+      "screen": "review-and-single-solve",
+      "status": "verified",
+      "disposition": "improved",
+      "change": "Prioritize due review; isolate per-question chat state when advancing.",
+      "evidence": {
+        "browser_scenarios": [
+          "review",
+          "notes-flagged"
+        ],
+        "viewports_verified": [
+          [
+            390,
+            844
+          ],
+          [
+            768,
+            1024
+          ],
+          [
+            1024,
+            768
+          ],
+          [
+            1180,
+            820
+          ]
+        ],
+        "tests": [
+          "src/mock.test.js",
+          "tools/ux-browser.mjs"
+        ]
+      }
+    },
+    {
+      "screen": "learning-complete",
+      "status": "verified",
+      "disposition": "improved",
+      "change": "Explain where mistakes are saved and name the return action.",
+      "evidence": {
+        "browser_scenarios": [
+          "learning-complete"
+        ],
+        "viewports_verified": [
+          [
+            390,
+            844
+          ],
+          [
+            768,
+            1024
+          ],
+          [
+            1024,
+            768
+          ],
+          [
+            1180,
+            820
+          ]
+        ],
+        "tests": [
+          "src/mock.test.js",
+          "tools/ux-browser.mjs"
+        ]
+      }
+    },
+    {
+      "screen": "mock-solve",
+      "status": "verified",
+      "disposition": "retained",
+      "change": "Keep answer selection editable until submission, timer, map and previous/next controls.",
+      "evidence": {
+        "browser_scenarios": [
+          "mock"
+        ],
+        "viewports_verified": [
+          [
+            390,
+            844
+          ],
+          [
+            768,
+            1024
+          ],
+          [
+            1024,
+            768
+          ],
+          [
+            1180,
+            820
+          ]
+        ],
+        "tests": [
+          "src/mock.test.js",
+          "tools/ux-browser.mjs"
+        ]
+      }
+    },
+    {
+      "screen": "mock-result",
+      "status": "verified",
+      "disposition": "improved",
+      "change": "Explain incorrect/unanswered review registration and distinguish a perfect result.",
+      "evidence": {
+        "browser_scenarios": [
+          "mock-result"
+        ],
+        "viewports_verified": [
+          [
+            390,
+            844
+          ],
+          [
+            768,
+            1024
+          ],
+          [
+            1024,
+            768
+          ],
+          [
+            1180,
+            820
+          ]
+        ],
+        "tests": [
+          "src/mock.test.js",
+          "tools/ux-browser.mjs"
+        ]
+      }
+    },
+    {
+      "screen": "mock-review",
+      "status": "verified",
+      "disposition": "improved",
+      "change": "Use shared readable question metadata and contextual explanation/AI flow; keep submitted answers immutable.",
+      "evidence": {
+        "browser_scenarios": [
+          "mock-review"
+        ],
+        "viewports_verified": [
+          [
+            390,
+            844
+          ],
+          [
+            768,
+            1024
+          ],
+          [
+            1024,
+            768
+          ],
+          [
+            1180,
+            820
+          ]
+        ],
+        "tests": [
+          "src/mock.test.js",
+          "tools/ux-browser.mjs"
+        ]
+      }
+    },
+    {
+      "screen": "notes-overview",
+      "status": "verified",
+      "disposition": "improved",
+      "change": "Count the work in the primary review action; preserve all zero-count parts and toast-only empty selection.",
+      "evidence": {
+        "browser_scenarios": [
+          "notes-empty",
+          "notes-filled",
+          "notes-민법개론",
+          "notes-자연과학개론"
+        ],
+        "viewports_verified": [
+          [
+            390,
+            844
+          ],
+          [
+            768,
+            1024
+          ],
+          [
+            1024,
+            768
+          ],
+          [
+            1180,
+            820
+          ]
+        ],
+        "tests": [
+          "src/mock.test.js",
+          "tools/ux-browser.mjs"
+        ]
+      }
+    },
+    {
+      "screen": "notes-topic",
+      "status": "verified",
+      "disposition": "improved",
+      "change": "Separate today-only review from all problems and order by due date; identify upcoming vs immediately reviewable items.",
+      "evidence": {
+        "browser_scenarios": [
+          "notes-topic",
+          "review"
+        ],
+        "viewports_verified": [
+          [
+            390,
+            844
+          ],
+          [
+            768,
+            1024
+          ],
+          [
+            1024,
+            768
+          ],
+          [
+            1180,
+            820
+          ]
+        ],
+        "tests": [
+          "src/mock.test.js",
+          "tools/ux-browser.mjs"
+        ]
+      }
+    },
+    {
+      "screen": "notes-flagged",
+      "status": "verified",
+      "disposition": "improved",
+      "change": "Explain exclusion and how to restore a question; provide a return action after the final flag is cleared.",
+      "evidence": {
+        "browser_scenarios": [
+          "notes-flagged"
+        ],
+        "viewports_verified": [
+          [
+            390,
+            844
+          ],
+          [
+            768,
+            1024
+          ],
+          [
+            1024,
+            768
+          ],
+          [
+            1180,
+            820
+          ]
+        ],
+        "tests": [
+          "src/mock.test.js",
+          "tools/ux-browser.mjs"
+        ]
+      }
+    },
+    {
+      "screen": "stats-accuracy",
+      "status": "verified",
+      "disposition": "improved",
+      "change": "Add a start-learning empty state; enlarge portrait-tablet plot with readable data beneath it.",
+      "evidence": {
+        "browser_scenarios": [
+          "stats-empty",
+          "stats-filled",
+          "radar-0",
+          "radar-1",
+          "radar-2",
+          "radar-3"
+        ],
+        "viewports_verified": [
+          [
+            390,
+            844
+          ],
+          [
+            768,
+            1024
+          ],
+          [
+            1024,
+            768
+          ],
+          [
+            1180,
+            820
+          ]
+        ],
+        "tests": [
+          "src/mock.test.js",
+          "tools/ux-browser.mjs"
+        ]
+      }
+    },
+    {
+      "screen": "stats-calendar",
+      "status": "verified",
+      "disposition": "retained",
+      "change": "Month/day interaction, day-level breakdown and separate stats view fit tablet without page scrolling.",
+      "evidence": {
+        "browser_scenarios": [
+          "calendar"
+        ],
+        "viewports_verified": [
+          [
+            390,
+            844
+          ],
+          [
+            768,
+            1024
+          ],
+          [
+            1024,
+            768
+          ],
+          [
+            1180,
+            820
+          ]
+        ],
+        "tests": [
+          "src/mock.test.js",
+          "tools/ux-browser.mjs"
+        ]
+      }
+    },
+    {
+      "screen": "round-sheet",
+      "status": "verified",
+      "disposition": "retained",
+      "change": "Keep labeled native modal, selected state, Escape and per-year selection.",
+      "evidence": {
+        "browser_scenarios": [
+          "round-sheet"
+        ],
+        "viewports_verified": [
+          [
+            390,
+            844
+          ],
+          [
+            768,
+            1024
+          ],
+          [
+            1024,
+            768
+          ],
+          [
+            1180,
+            820
+          ]
+        ],
+        "tests": [
+          "src/mock.test.js",
+          "tools/ux-browser.mjs"
+        ]
+      }
+    },
+    {
+      "screen": "explanation",
+      "status": "verified",
+      "disposition": "improved",
+      "change": "Give next steps for missing, offline and failed explanations; preserve per-choice colors and original data.",
+      "evidence": {
+        "browser_scenarios": [
+          "explanation",
+          "explanation-error"
+        ],
+        "viewports_verified": [
+          [
+            390,
+            844
+          ],
+          [
+            768,
+            1024
+          ],
+          [
+            1024,
+            768
+          ],
+          [
+            1180,
+            820
+          ]
+        ],
+        "tests": [
+          "src/mock.test.js",
+          "tools/ux-browser.mjs"
+        ]
+      }
+    },
+    {
+      "screen": "ai-chat",
+      "status": "verified",
+      "disposition": "improved",
+      "change": "Question starters, latest-answer jump, Ctrl/Cmd+Enter respecting IME, completed-answer announcement, draft/error recovery and responsive panes.",
+      "evidence": {
+        "browser_scenarios": [
+          "chat-empty",
+          "chat-answer",
+          "chat-error"
+        ],
+        "viewports_verified": [
+          [
+            390,
+            844
+          ],
+          [
+            768,
+            1024
+          ],
+          [
+            1024,
+            768
+          ],
+          [
+            1180,
+            820
+          ]
+        ],
+        "tests": [
+          "src/mock.test.js",
+          "tools/ux-browser.mjs"
+        ]
+      }
+    },
+    {
+      "screen": "question-map",
+      "status": "verified",
+      "disposition": "improved",
+      "change": "Explain answered/unanswered counts and current-question outline.",
+      "evidence": {
+        "browser_scenarios": [
+          "question-map"
+        ],
+        "viewports_verified": [
+          [
+            390,
+            844
+          ],
+          [
+            768,
+            1024
+          ],
+          [
+            1024,
+            768
+          ],
+          [
+            1180,
+            820
+          ]
+        ],
+        "tests": [
+          "src/mock.test.js",
+          "tools/ux-browser.mjs"
+        ]
+      }
+    },
+    {
+      "screen": "image-zoom",
+      "status": "verified",
+      "disposition": "retained",
+      "change": "Image opens in a native full-screen dialog with close/Escape; original image presentation remains intact.",
+      "evidence": {
+        "browser_scenarios": [
+          "image-zoom"
+        ],
+        "viewports_verified": [
+          [
+            390,
+            844
+          ],
+          [
+            768,
+            1024
+          ],
+          [
+            1024,
+            768
+          ],
+          [
+            1180,
+            820
+          ]
+        ],
+        "tests": [
+          "src/mock.test.js",
+          "tools/ux-browser.mjs"
+        ]
+      }
+    },
+    {
+      "screen": "confirmation-dialogs",
+      "status": "verified",
+      "disposition": "improved",
+      "change": "State the consequences of submitting or abandoning an exam; keep clear cancel actions.",
+      "evidence": {
+        "browser_scenarios": [
+          "submit-confirm",
+          "logout-confirm"
+        ],
+        "viewports_verified": [
+          [
+            390,
+            844
+          ],
+          [
+            768,
+            1024
+          ],
+          [
+            1024,
+            768
+          ],
+          [
+            1180,
+            820
+          ]
+        ],
+        "tests": [
+          "src/mock.test.js",
+          "tools/ux-browser.mjs"
+        ]
+      }
+    },
+    {
+      "screen": "toasts",
+      "status": "verified",
+      "disposition": "improved",
+      "change": "Dismiss stale messages on route changes and when opening chat; keep zero-topic clicks on the same screen.",
+      "evidence": {
+        "browser_scenarios": [
+          "notes-empty",
+          "explanation"
+        ],
+        "viewports_verified": [
+          [
+            390,
+            844
+          ],
+          [
+            768,
+            1024
+          ],
+          [
+            1024,
+            768
+          ],
+          [
+            1180,
+            820
+          ]
+        ],
+        "tests": [
+          "src/mock.test.js",
+          "tools/ux-browser.mjs"
+        ]
+      }
+    },
+    {
+      "screen": "navigation-and-offline-recovery",
+      "status": "verified",
+      "disposition": "improved",
+      "change": "Recover initial loading failure with retry; preserve heading alignment, four tabs and top-reset navigation.",
+      "evidence": {
+        "browser_scenarios": [
+          "load-error",
+          "home",
+          "notes-filled",
+          "stats-filled"
+        ],
+        "viewports_verified": [
+          [
+            390,
+            844
+          ],
+          [
+            768,
+            1024
+          ],
+          [
+            1024,
+            768
+          ],
+          [
+            1180,
+            820
+          ]
+        ],
+        "tests": [
+          "src/mock.test.js",
+          "tools/ux-browser.mjs"
+        ]
+      }
+    }
+  ],
+  "verification": {
+    "viewports": [
+      [
+        390,
+        844
+      ],
+      [
+        768,
+        1024
+      ],
+      [
+        1024,
+        768
+      ],
+      [
+        1180,
+        820
+      ]
+    ],
+    "checks": [
+      "no horizontal overflow",
+      "aligned main headings",
+      "short tablet overview pages",
+      "primary actions and empty states",
+      "keyboard focus and modal dismissal",
+      "timed exam never reveals answers before submission",
+      "draft preservation and streaming scroll stability",
+      "tests and production build",
+      "Cloudflare deployment and production response"
+    ],
+    "limitations": [
+      "Personas are hypotheses, not interviewed users",
+      "Browser device simulation does not establish real iPad Safari behavior"
+    ],
+    "browser_scenario_count": 37,
+    "screen_captures": 148,
+    "summary": [
+      {
+        "width": 390,
+        "height": 844,
+        "screens": 37,
+        "horizontalOverflow": false,
+        "tabletOverviewPageScroll": "not constrained",
+        "mainHeadingTop": 76
+      },
+      {
+        "width": 768,
+        "height": 1024,
+        "screens": 37,
+        "horizontalOverflow": false,
+        "tabletOverviewPageScroll": 0,
+        "mainHeadingTop": 32
+      },
+      {
+        "width": 1024,
+        "height": 768,
+        "screens": 37,
+        "horizontalOverflow": false,
+        "tabletOverviewPageScroll": 0,
+        "mainHeadingTop": 32
+      },
+      {
+        "width": 1180,
+        "height": 820,
+        "screens": 37,
+        "horizontalOverflow": false,
+        "tabletOverviewPageScroll": 0,
+        "mainHeadingTop": 32
+      }
+    ],
+    "runtimeErrors": 0,
+    "apiMode": "Local mocked API; real built JavaScript/CSS and real question data. No production user history changed.",
+    "commands": [
+      "npm test",
+      "npm run build",
+      "node tools/ux-browser.mjs --module=<playwright module path> --browser=<chromium executable>"
+    ],
+    "source_tests": [
+      "src/logic.test.js",
+      "src/mock.test.js",
+      "src/auth.test.js",
+      "src/worker.test.js",
+      "src/store.test.js",
+      "src/service-worker.test.js",
+      "src/radar.test.js"
+    ],
+    "artifacts": "/tmp/study-ux/report.json and /tmp/study-ux/*.png",
+    "deploymentEvidence": "GitHub Actions cloudflare.yml run for the committing revision"
+  }
+}

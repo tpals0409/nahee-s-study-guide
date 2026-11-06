@@ -638,3 +638,29 @@ dialog.chat-sheet { top: var(--chat-top, auto); bottom: auto; height: var(--chat
 }
 @keyframes chat-pane-in { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
 @keyframes chat-pane-out { to { opacity: 0; transform: translateY(6px); } }
+
+/* Persona-led flow: concise guidance, recoverable states, and reachable actions. */
+.login-copy { color: var(--muted); line-height: 1.7; margin-top: 8px; }
+.topic-actions { display: flex; align-items: center; gap: 12px; flex-wrap: wrap; }
+.topic-actions .btn { flex: 1 1 180px; }
+.stats-empty { display: flex; align-items: center; justify-content: space-between; gap: 16px; font-size: 14px; color: var(--muted); }
+.stats-empty .chip { flex-shrink: 0; color: var(--text); }
+.chat-prompts { display: flex; flex-wrap: wrap; justify-content: center; gap: 8px; margin-top: 12px; }
+.chat-latest { align-self: center; flex-shrink: 0; margin: 0 0 8px; min-height: 44px; border: 1px solid var(--borderStrong); }
+.chat-latest[hidden] { display: none; }
+.keyboard-hint { display: none; }
+@media (hover: hover) and (pointer: fine) { .keyboard-hint { display: inline; } }
+@media (max-width: 480px) { .stats-empty { align-items: flex-start; flex-direction: column; gap: 8px; } }
+.login { min-height: 100dvh; height: auto; padding-block: 24px; }
+.splash { padding: 24px; text-align: center; }
+.stem, .statement, .chat-text, .explanation-choice { user-select: text; -webkit-user-select: text; }
+
+/* Portrait tablet: make the plot readable without squeezing its labels. */
+.page-stats .radar-label { font-size: 16px; }
+@media (min-width: 768px) and (max-width: 999px) {
+ .page-stats .radar-face { grid-template-columns: minmax(0, 1fr); gap: 8px; }
+ .page-stats .radar-card svg { max-width: 300px; justify-self: center; }
+ .page-stats .radar-values { grid-column: 1; display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); column-gap: 20px; }
+ .page-stats .radar-value { font-size: 13px; gap: 8px; }
+ .page-stats .radar-result strong { font-size: 21px; }
+}

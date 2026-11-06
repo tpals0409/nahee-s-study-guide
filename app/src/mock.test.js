@@ -25,7 +25,7 @@ const source = readFileSync(new URL("./main.js", import.meta.url), "utf8")
   .replace(/^import\s*\{[\s\S]*?from "\.\/logic\.js";/, "")
   .replace(/import \{ RADAR_PARTS, radarViews, radarFace \} from "\.\/radar\.js";/, "")
   .replaceAll("import.meta.env.PROD", "false")
-  .replace(/boot\(\);\s*$/, "");
+  .replace(/boot\(\)\.catch\(bootFailure\);\s*$/, "");
 vm.runInContext(source, ctx);
 const run = (code) => vm.runInContext(code, ctx);
 run("const originalShell = shell;");
@@ -286,3 +286,41 @@ run('updateChatViewport()');
 assert.equal(chatDialog.modal, false, 'landscape restores interactive supporting pane');
 assert.match(chatDialog.innerHTML, /data-form="ask"/, 'rotation preserves conversation DOM');
 console.log('adaptive chat orientation ok');
+
+// A short review session must not pull future-scheduled questions into today's queue.
+chatDialog.open = false;
+ctx.document.getElementById = () => null;
+run(`
+questions = [
+ { id:'due',year:2025,round:62,number:1,subject:'민법개론',topic:'물권법',stem:'오늘 복습',choices:['a','b','c','d','e'],answer:[1]},
+ { id:'future',year:2025,round:62,number:2,subject:'민법개론',topic:'물권법',stem:'다음 복습',choices:['a','b','c','d','e'],answer:[1]}
+];
+byId = new Map(questions.map(q=>[q.id,q]));
+state = emptyState();
+state.log = [
+ {id:'due',ok:false,t:Date.now()-86400000*2},
+ {id:'future',ok:false,t:Date.now()-86400000*2},
+ {id:'future',ok:true,t:Date.now()-86400000}
+];
+ACTIONS['topic-review']({subject:'민법개론',topic:'물권법',due:'true'});
+`);
+assert.equal(run('session.ids.join(",")'),'due');
+run(`ACTIONS['topic-review']({subject:'민법개론',topic:'물권법'});`);
+assert.equal(run('session.ids.length'),2);
+assert.match(app.innerHTML, /id="reveal-answer"[^>]*disabled/);
+const answerButton = {disabled:true,textContent:''};
+ctx.document.getElementById = id => id==='reveal-answer'?answerButton:null;
+listeners.change({target:{name:'c',value:'0',closest:()=>({classList:{add(){}}})}});
+assert.equal(answerButton.disabled,false);
+// A response attached to the prior problem must not mutate a new problem's asking state.
+run('const priorQuestionSession = session; session.asking = true; next();');
+assert.equal(run('session === priorQuestionSession'),false);
+assert.equal(run('session.asking'),false);
+run('priorQuestionSession.asking = false; session.asking = true; priorQuestionSession.askError = true;');
+assert.equal(run('session.asking'),true);
+assert.equal(run('session.askError'),false);
+console.log('persona review priority and question isolation ok');
+
+run('notesFlagged([]);');
+assert.match(app.innerHTML, /개정 의심으로 표시한 문제가 없어요/);
+assert.match(app.innerHTML, /href="#notes"/);
