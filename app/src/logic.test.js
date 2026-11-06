@@ -1,5 +1,5 @@
 import assert from "node:assert/strict";
-import { splitStatements, stemHtml } from "./logic.js";
+import { splitStatements, stemHtml, chatViewportLayout } from "./logic.js";
 import { mockHistory, basisHtml, addDays, choiceOrder, dayComplete, dayIds, dayKey, dueIds, emptyState, isCorrect, merge, pickDaily, progress, reviewIds, streak, weekStart, dailyAccuracy } from "./logic.js";
 
 const at = (day, h = 12) => new Date(`${day}T${String(h).padStart(2, "0")}:00:00`).getTime();
@@ -192,3 +192,17 @@ const bySubject = (ids) => SUBJ.map((s) => ids.filter((id) => bank.find((b) => b
 }
 
 console.log("logic ok");
+
+{
+ const closed = chatViewportLayout(844, 844);
+ const open = chatViewportLayout(844, 504);
+ assert.equal(open.top, closed.top, 'keyboard preserves top edge');
+ assert.equal(open.top + open.height, 504, 'composer ends at visible viewport bottom');
+ assert.equal(open.keyboard, true);
+ assert.equal(closed.keyboard, false, 'external keyboard adds no keyboard gap');
+ const panned = chatViewportLayout(844, 400, 100);
+ assert.equal(panned.top + panned.height, 500);
+ const small = chatViewportLayout(768, 300);
+ assert.ok(small.height >= 240);
+ assert.deepEqual(chatViewportLayout(844, 844), closed, 'closing restores original geometry');
+}

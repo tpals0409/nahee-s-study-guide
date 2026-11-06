@@ -203,3 +203,11 @@ export function basisHtml(q, ex, choice) {
 		return `<details class="basis"><summary>${esc(name)} · 조문 확인${b.changed ? " · 현행 문구 다름" : ""}</summary><blockquote>${esc(b.quote)}</blockquote></details>`;
 	}).join("");
 }
+
+// Keep the resting top edge until the visible viewport cannot fit a usable sheet.
+export function chatViewportLayout(baseHeight, visibleHeight, offsetTop = 0) {
+	const bottom = offsetTop + visibleHeight;
+	const restingTop = baseHeight - Math.min(baseHeight * .8, 720);
+	const top = Math.max(offsetTop + 8, Math.min(restingTop, bottom - 240));
+	return { top, height: Math.max(0, bottom - top), keyboard: baseHeight - visibleHeight > 100 };
+}

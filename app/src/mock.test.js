@@ -18,7 +18,7 @@ const ctx = vm.createContext({
   },
   localStorage: { getItem: (k) => storage.get(k) ?? null, setItem: (k, v) => storage.set(k, v) },
   location: { hash: "#exam" }, history: { pushState() {}, replaceState() {} },
-  scrollY: 0, scrollTo() {}, requestAnimationFrame() {}, addEventListener() {}, visualViewport: null,
+  innerHeight: 768, innerWidth: 1024, scrollY: 0, scrollTo() {}, requestAnimationFrame() {}, addEventListener() {}, visualViewport: null,
   explanationLoaded: () => explanationLoads++,
 });
 const source = readFileSync(new URL("./main.js", import.meta.url), "utf8")
@@ -227,12 +227,13 @@ assert.equal(run("answerFeedback({id:'test',answer:[1]},session).ok"), true);
 console.log("answer feedback mapping ok");
 
 // Dedicated chat keeps the composer outside explanations and streams into the sheet.
-const chatMessages = { innerHTML: '', scrollHeight: 100, scrollTop: 0, clientHeight: 100 };
+const chatMessages = { addEventListener() {}, innerHTML: '', scrollHeight: 100, scrollTop: 0, clientHeight: 100 };
 const chatInput = { value: '왜 정답인가요?', disabled: false };
 const chatSend = { disabled: false };
-const chatDialog = { open: false, innerHTML: '', showModal() { this.open = true; },
+const chatDialog = { style: { setProperty() {} }, classList: { toggle() {} }, open: false, innerHTML: '', showModal() { this.open = true; },
  querySelector(selector) { return selector === '.chat-messages' ? chatMessages : selector === 'textarea' ? chatInput : chatSend; } };
 ctx.document.getElementById = (id) => id === 'ai-chat' ? chatDialog : null;
+ctx.document.documentElement = { style: { setProperty() {} } };
 ctx.TextDecoderStream = TextDecoderStream;
 ctx.Response = Response;
 run(`questions = [{id:'chat-q',year:2026,number:1,subject:'민법개론',choices:['a','b','c','d','e'],answer:[1]}]; byId = new Map(questions.map(q=>[q.id,q])); session={...blank(),mode:'daily',ids:['chat-q'],i:0,revealed:true,orders:new Map([['chat-q',[0,1,2,3,4]]]),picks:{'chat-q':0},explain:{summary:'요약',choices:['a','b','c','d','e']}};`);

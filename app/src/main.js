@@ -1,5 +1,5 @@
 import {
-	basisHtml, esc, stemHtml,
+	basisHtml, esc, stemHtml, chatViewportLayout,
 	DAILY_SIZE, MOCK_MINUTES, SUBJECTS, addDays, choiceOrder, dayComplete, dayIds, dayKey, emptyState, isCorrect,
 	merge, mockHistory, pickDaily, progress, reviewIds, shuffle, solvedOn, streak, weekStart,
 } from "./logic.js";
@@ -555,14 +555,17 @@ function chatMessagesHtml(q, s) {
 	${s.askError ? '<p class="error" role="alert">답변을 받지 못했어요. 다시 전송해 주세요.</p>' : ""}`;
 }
 
+let chatBaseHeight = 0;
+let chatBaseWidth = 0;
+let chatFollowBottom = true;
+
 function paintChat() {
 	const dialog = document.getElementById("ai-chat");
 	if (!dialog?.open || !session) return;
 	const messages = dialog.querySelector(".chat-messages");
-	const atBottom = messages.scrollHeight - messages.scrollTop - messages.clientHeight < 80;
+	const atBottom = chatFollowBottom;
 	messages.innerHTML = chatMessagesHtml(current(), session);
 	dialog.querySelector('button[type="submit"]').disabled = !!session.asking;
-	dialog.querySelector("textarea").disabled = !!session.asking;
 	if (atBottom) messages.scrollTop = messages.scrollHeight;
 }
 
@@ -574,9 +577,15 @@ function openChat() {
 	dialog.innerHTML = `<div class="round-grab" aria-hidden="true"><span></span></div>
 	<header class="chat-header"><div><h2 id="ai-chat-title">AI 질문</h2><p class="small muted">${q.year}년 · ${esc(q.subject)} · ${q.number}번</p></div><button class="iconbtn" data-act="dialog-close" aria-label="AI 질문 닫기">${icon("close")}</button></header>
 	<div class="chat-messages" role="log" aria-label="문제에 대한 대화">${chatMessagesHtml(q, s)}</div>
-	<form data-form="ask" class="chat-compose"><label class="sr" for="ask">AI에게 질문</label><textarea id="ask" class="field" rows="2" placeholder="궁금한 내용을 입력하세요" required ${s.asking ? "disabled" : ""}>${esc(s.askDraft ?? "")}</textarea><button type="submit" class="btn" ${s.asking ? "disabled" : ""}>전송</button><p class="small muted">AI 답변에는 오류가 있을 수 있어요.</p></form>`;
+	<form data-form="ask" class="chat-compose"><label class="sr" for="ask">AI에게 질문</label><textarea id="ask" class="field" rows="2" placeholder="궁금한 내용을 입력하세요" required>${esc(s.askDraft ?? "")}</textarea><button type="submit" class="btn" ${s.asking ? "disabled" : ""}>전송</button><p class="small muted">AI 답변에는 오류가 있을 수 있어요.</p></form>`;
+	chatBaseHeight = innerHeight;
+	chatBaseWidth = innerWidth;
+	chatFollowBottom = true;
 	dialog.showModal();
-	dialog.querySelector(".chat-messages").scrollTop = dialog.querySelector(".chat-messages").scrollHeight;
+	updateChatViewport();
+	const messages = dialog.querySelector(".chat-messages");
+	messages.scrollTop = messages.scrollHeight;
+	messages.addEventListener("scroll", () => { chatFollowBottom = messages.scrollHeight - messages.scrollTop - messages.clientHeight < 80; }, { passive: true });
 }
 
 function paintExplain(fresh = false) {
@@ -1092,10 +1101,28 @@ document.addEventListener("change", (e) => {
 	}
 });
 
-/* 키보드가 올라오면 해설 시트를 그 위로 올린다. */
-visualViewport?.addEventListener("resize", () => {
-	document.documentElement.style.setProperty("--kb", `${Math.max(0, innerHeight - visualViewport.height)}px`);
-});
+/* Follow the visible viewport, including Safari's keyboard-induced viewport pan. */
+function updateChatViewport() {
+	const viewport = visualViewport;
+	const visibleHeight = viewport?.height ?? innerHeight;
+	const offset = viewport?.offsetTop ?? 0;
+	if (viewport && Math.abs(viewport.scale - 1) > .01) return;
+	document.documentElement.style.setProperty("--kb", `${Math.max(0, innerHeight - visibleHeight - offset)}px`);
+	const dialog = document.getElementById("ai-chat");
+	if (!dialog?.open) return;
+	if (chatBaseWidth !== innerWidth) { chatBaseWidth = innerWidth; chatBaseHeight = innerHeight; }
+	const layout = chatViewportLayout(chatBaseHeight, visibleHeight, offset);
+	dialog.style.setProperty("--chat-top", `${layout.top}px`);
+	dialog.style.setProperty("--chat-height", `${layout.height}px`);
+	dialog.classList.toggle("keyboard-open", layout.keyboard);
+	if (chatFollowBottom) {
+		const messages = dialog.querySelector(".chat-messages");
+		messages.scrollTop = messages.scrollHeight;
+	}
+}
+visualViewport?.addEventListener("resize", updateChatViewport);
+visualViewport?.addEventListener("scroll", updateChatViewport);
+addEventListener("resize", updateChatViewport);
 
 document.addEventListener("pointerover", (e) => {
 	const tip = e.target.dataset?.tip;
@@ -1119,6 +1146,7 @@ document.addEventListener("submit", async (e) => {
 	chat.push({ role: "user", content: text });
 	Object.assign(s, { asking: true, askError: false, askDraft: "" });
 	e.target.querySelector("textarea").value = "";
+	chatFollowBottom = true;
 	paintChat();
 	try {
 		const res = await post("/api/ask", { question: q, explanation: s.explain, messages: chat, order: s.orders.get(q.id), pick: s.picks[q.id] });

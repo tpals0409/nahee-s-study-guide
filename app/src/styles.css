@@ -609,3 +609,12 @@ html:has(dialog.chat-sheet[open]) { overflow: hidden; }
 .chat-compose textarea { max-height: 120px; resize: none; }
 .chat-compose .btn { min-height: 52px; padding-inline: 20px; }
 .chat-compose p { grid-column: 1 / -1; font-size: 12px; }
+
+/* Keyboard resizing changes geometry immediately, without replaying sheet motion. */
+dialog.chat-sheet { top: var(--chat-top, auto); bottom: auto; height: var(--chat-height, min(80dvh, 720px)); max-height: none; }
+.chat-sheet.keyboard-open .chat-compose { padding-bottom: 12px; }
+.chat-sheet.keyboard-open .chat-compose p { display: none; }
+.chat-sheet.keyboard-open .chat-compose textarea { min-height: 48px; height: 48px; }
+.chat-sheet.keyboard-open .chat-header { padding-bottom: 8px; }
+.chat-sheet.keyboard-open .round-grab { height: 16px; }
+.chat-sheet.keyboard-open .chat-messages { padding-block: 12px; }
