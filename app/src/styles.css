@@ -453,7 +453,6 @@ dialog[open].closing::backdrop { animation: unfade 160ms ease-in both; }
 .stats-chart > h2 { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); }
 @media (min-width: 768px) {
   .page-notes, .page-stats { padding: calc(20px + env(safe-area-inset-top)) 24px calc(20px + env(safe-area-inset-bottom)); gap: 12px; }
-  .page-notes > h1, .page-stats > h1 { font-size: 28px; line-height: 40px; }
   .notes-summary { padding: 16px 20px; gap: 12px; }
   .notes-summary .stack { gap: 4px; }
   .notes-summary-copy { font-size: 18px; }
@@ -492,9 +491,15 @@ dialog[open].closing::backdrop { animation: unfade 160ms ease-in both; }
   .notes-flagged .link { min-height: 44px; }
 }
 
-@media (min-width: 768px) and (max-height: 760px) {
+@media (min-width: 768px) and (max-height: 820px) {
   .page-stats { gap: 8px; padding-bottom: calc(12px + env(safe-area-inset-bottom)); }
   .page-stats .stats-layout, .page-stats .stats-view-content, .page-stats .stats-chart { gap: 8px; }
   .page-stats .radar-card { padding: 12px; }
   .page-stats .radar-face { row-gap: 4px; }
+}
+
+@media (min-width: 768px) and (max-height: 760px) {
+  .page-notes { gap: 8px; }
+  .page-stats .stats-summary { padding-block: 10px; }
+  .page-stats .stats-layout, .page-stats .stats-view-content { gap: 6px; }
 }
