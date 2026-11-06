@@ -8,6 +8,7 @@ const app = document.getElementById("app");
 const NUM = "①②③④⑤";
 const WEEKDAYS = ["월", "화", "수", "목", "금", "토", "일"];
 const ICONS = {
+	logout: '<path d="M9 4H4v16h5M10 12h10m-4-4 4 4-4 4"/>',
 	home: '<rect x="3" y="5" width="18" height="16" rx="3"/><path d="M3 10h18M8 3v4M16 3v4"/>',
 	layers: '<path d="m12 3 9 5-9 5-9-5 9-5Z"/><path d="m3 13 9 5 9-5"/>',
 	bookmark: '<path d="M6 3h12v18l-6-4-6 4V3Z"/>',
@@ -190,6 +191,7 @@ function shell(tab, body) {
 			<span class="pill" aria-hidden="true"></span>
 			<div class="brand">${icon("note")}<span>나희의<br>합격노트</span></div>
 			${TABS.map(([id, label, ic]) => `<a href="#${id}" data-tab="${id}" ${id === tab ? 'aria-current="page"' : ""}>${icon(ic)}<span>${label}</span></a>`).join("")}
+			<button class="nav-logout" data-act="logout">${icon("logout")}<span>로그아웃</span></button>
 		</nav>
 		<main class="main"><div class="brand topbrand">${icon("note")}<span>나희의 합격노트</span></div>${body}</main>
 	</div>`;
@@ -406,8 +408,7 @@ function stats() {
 	shell("stats", `<h1>학습 기록</h1>
 	<h2>과목별 정답률</h2>
 	<div class="charts">${SUBJECTS.map((s) => chart(s, table[s])).join("")}</div>
-	${calendar()}
-	<section class="card"><div class="list"><button class="link" data-act="logout"><span>로그아웃</span>${icon("right")}</button><button class="link" data-act="logout-all"><span>모든 기기 로그아웃</span>${icon("right")}</button></div></section>`);
+	${calendar()}`);
 	drawCharts();
 }
 
@@ -839,9 +840,7 @@ const ACTIONS = {
 		location.href = "/api/auth/google";
 	},
 	logout: () => confirmDialog("<h2>로그아웃</h2>", "로그아웃", "logout-confirm", "취소"),
-	"logout-all": () => confirmDialog("<h2>모든 기기 로그아웃</h2>", "로그아웃", "logout-all-confirm", "취소"),
 	"logout-confirm": () => leaveAccount("/api/auth/logout"),
-	"logout-all-confirm": () => leaveAccount("/api/auth/logout-all"),
 	zoom({ src, alt }) {
 		const d = document.getElementById("zoom");
 		d.innerHTML = `<button class="iconbtn" data-act="dialog-close" aria-label="그림 닫기">${icon("close")}</button><img src="${esc(src)}" alt="${esc(alt)}">`;
@@ -1015,7 +1014,7 @@ async function leaveAccount(path) {
 		await sync();
 		await post(path, {});
 	} catch {
-		return confirmDialog("<h2>로그아웃 실패</h2><p>인터넷 연결 확인 필요</p>", "다시 시도", path.endsWith("all") ? "logout-all-confirm" : "logout-confirm", "취소");
+		return confirmDialog("<h2>로그아웃 실패</h2><p>인터넷 연결 확인 필요</p>", "다시 시도", "logout-confirm", "취소");
 	}
 	state = emptyState();
 	write("state", state);
