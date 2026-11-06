@@ -20,6 +20,7 @@ const ICONS = {
 	check: '<path pathLength="1" d="m5 12 5 5 9-10"/>',
 	left: '<path d="m15 6-6 6 6 6"/>',
 	right: '<path d="m9 6 6 6-6 6"/>',
+	grid: '<rect x="4" y="4" width="6" height="6" rx="1"/><rect x="14" y="4" width="6" height="6" rx="1"/><rect x="4" y="14" width="6" height="6" rx="1"/><rect x="14" y="14" width="6" height="6" rx="1"/>',
 };
 const icon = (name, color = "") => `<svg class="i" viewBox="0 0 24 24" aria-hidden="true" ${color && `style="color:${color}"`}>${ICONS[name]}</svg>`;
 /* 원 → 표시 → 글줄 순서로 그려진 뒤 안쪽이 채워진다. 움직임을 끄면 다 그려진 상태로 보인다. */
@@ -274,8 +275,8 @@ function exam() {
 	const selected = rounds.get(selectedExamYear);
 	if (!selected) return shell("exam", '<h1>기출 모의고사</h1><section class="card">등록된 회차 없음</section>');
 	shell("exam", `<h1>기출 모의고사</h1>
-	<section class="card">
-		<h2 id="round-label">연도·회차 선택</h2>
+	<section class="card exam-card">
+		<h2 class="sr" id="round-label">연도·회차 선택</h2>
 		<div class="round-select" id="round-select">
 			<button class="round-trigger" id="round-trigger" data-act="round-toggle" aria-haspopup="dialog" aria-expanded="false" aria-controls="round-sheet" aria-labelledby="round-label round-value">
 				<span id="round-value">${selectedExamYear}년 제${selected.round}회</span><span class="round-chevron" aria-hidden="true">${icon("right")}</span>
@@ -288,9 +289,11 @@ function exam() {
 				</div>
 			</dialog>
 		</div>
-		<div class="list">${SUBJECTS.filter((subject) => selected.n[subject]).map((subject) => `<button class="link" data-act="round" data-year="${selectedExamYear}" data-subject="${subject}"><span><strong>${subject}</strong><br><span class="small muted">${selected.n[subject]}문제 · ${MOCK_MINUTES[subject]}분</span></span><span>시작 ${icon("right")}</span></button>`).join("")}</div>
+		<div class="list">${SUBJECTS.filter((subject) => selected.n[subject]).map((subject) => `<button class="link" data-act="round" data-year="${selectedExamYear}" data-subject="${subject}"><span><strong>${subject}</strong><br><span class="small muted">${selected.n[subject]}문제 · ${MOCK_MINUTES[subject]}분</span></span><span class="go">시작</span></button>`).join("")}</div>
 	</section>`);
 }
+
+const closeSheet = (d) => (d.id === "round-sheet" ? setRoundOpen(false, true) : shut(d));
 
 async function setRoundOpen(open, restoreFocus = false) {
 	const trigger = document.getElementById("round-trigger");
@@ -473,6 +476,7 @@ function dropSession() {
 	const { from = "#home" } = session;
 	session = null;
 	solveClosed = true;
+	document.getElementById("map")?.close();
 	lastTab = null;
 	visited.delete(from);
 	write("session", null);
@@ -674,7 +678,7 @@ function solve() {
 
 function mockResult() {
 	const s = session;
-	app.innerHTML = `<div class="solve" style="max-width:800px">
+	app.innerHTML = `<div class="solve plain" style="max-width:800px">
 		<section class="card">
 			<h1>${esc(s.title)}</h1>
 			<p><strong>${pct(s.score, s.ids.length)}점</strong> · 정답 ${s.score} / ${s.ids.length}</p>
@@ -685,7 +689,7 @@ function mockResult() {
 				const ok = picked !== undefined && isCorrect(q, picked);
 				const order = s.orders.get(id);
 				const answer = q.answer.map((n) => order.indexOf(n - 1) + 1).sort().join(", ");
-				return `<button class="link" data-act="mock-review" data-index="${i}"><span>${q.number}번 · ${picked === undefined ? "미응답" : ok ? "정답" : "오답"}<br><span class="small muted">내 답 ${picked === undefined ? "—" : order.indexOf(picked) + 1} · 정답 ${answer}</span></span><span>해설 ${icon("right")}</span></button>`;
+				return `<button class="link" data-act="mock-review" data-index="${i}"><span>${q.number}번 · ${picked === undefined ? "미응답" : ok ? "정답" : "오답"}<br><span class="small muted">내 답 ${picked === undefined ? "—" : order.indexOf(picked) + 1} · 정답 ${answer}</span></span><span class="link-end">해설${icon("right")}</span></button>`;
 			}).join("")}</div>
 		</section>
 		<div class="dock"><button class="btn" data-act="leave">마치기</button></div>
@@ -716,7 +720,7 @@ function mock() {
 	const motion = s.motion ?? "";
 	s.motion = null;
 	app.innerHTML = `<div class="solve ${motion}" style="max-width:800px">
-		<header><div class="row"><button class="iconbtn" data-act="mock-quit" aria-label="모의고사 그만두기">${icon("close")}</button><strong role="timer" aria-label="남은 시간" id="clock"></strong><span>${s.i + 1} / ${s.ids.length}</span></div></header>
+		<header><div class="row"><button class="iconbtn" data-act="mock-quit" aria-label="모의고사 그만두기">${icon("close")}</button><strong role="timer" aria-label="남은 시간" id="clock"></strong><button class="map-open" data-act="mock-map" aria-haspopup="dialog" aria-label="문항표 열기, ${s.ids.length}문제 중 ${s.i + 1}번">${icon("grid")}${s.i + 1} / ${s.ids.length}</button></div></header>
 		<section class="card q">
 			<span><span class="tag">${q.year}년 제${q.round}회 · ${q.subject}</span></span>
 			${stemHtml(q)}
@@ -733,23 +737,42 @@ function mock() {
 	scrollTo(0, 0);
 }
 
+/* 40문제를 순서대로만 넘기면 건너뛴 문제를 찾을 수 없어서 번호로 바로 이동한다 */
+function openMap() {
+	const s = session;
+	const d = document.getElementById("map");
+	const left = s.ids.filter((id) => s.picks[id] === undefined).length;
+	d.classList.remove("closing");
+	d.innerHTML = `<div class="round-grab" aria-hidden="true"><span></span></div>
+		<header class="round-sheet-header"><div><h2 id="map-title">문항표</h2><p class="small muted">미응답 ${left}문제</p></div><button class="iconbtn" data-act="dialog-close" aria-label="문항표 닫기">${icon("close")}</button></header>
+		<div class="round-options map-grid">${s.ids.map((id, i) => {
+			const done = s.picks[id] !== undefined;
+			return `<button class="map-cell ${done ? "done" : ""}" data-act="mock-go" data-index="${i}" ${i === s.i ? 'aria-current="true"' : ""} aria-label="${i + 1}번 ${done ? "응답" : "미응답"}">${i + 1}</button>`;
+		}).join("")}</div>`;
+	if (!d.open) d.showModal();
+	d.querySelector("[aria-current]")?.focus({ preventScroll: true });
+}
+
 function confirmDialog(message, label, act, cancel = "계속 풀기") {
 	const d = document.getElementById("confirm");
 	d.classList.remove("closing");
-	d.innerHTML = `<div class="stack">${message}<button class="btn" data-act="${act.name ?? act}" ${act.attrs ?? ""}>${label}</button><button class="btn quiet" data-act="dialog-close">${cancel}</button></div>`;
+	d.innerHTML = `<div class="stack">${message}<div class="dialog-actions"><button class="btn quiet" data-act="dialog-close">${cancel}</button><button class="btn" data-act="${act.name ?? act}" ${act.attrs ?? ""}>${label}</button></div></div>`;
 	if (!d.open) d.showModal();
 	d.focus();
 }
 
 /** 기출문제 탭은 호흡이 길어서 시작 전에 알린다. */
-function notice(title, lines, act) {
-	confirmDialog(`<h2>${esc(title)}</h2><ul class="notice">${lines.map((l) => `<li>${l}</li>`).join("")}</ul>`, "시작", act, "취소");
+function notice(title, lines, act, { eyebrow = "", facts = [] } = {}) {
+	const head = `<div class="notice-head">${eyebrow ? `<p class="small muted">${esc(eyebrow)}</p>` : ""}<h2>${esc(title)}</h2></div>`;
+	const tiles = facts.length ? `<div class="facts">${facts.map(([n, unit]) => `<div><strong>${n}</strong><span class="small muted">${unit}</span></div>`).join("")}</div>` : "";
+	confirmDialog(`${head}${tiles}<ul class="notice">${lines.map((l) => `<li>${l}</li>`).join("")}</ul>`, "시작", act, "취소");
 }
 
 function submitMock() {
 	const s = session;
 	if (s?.mode !== "mock") return;
 	document.getElementById("confirm")?.close();
+	document.getElementById("map")?.close();
 	clearInterval(s.timer);
 	const t = Date.now();
 	s.score = 0;
@@ -797,15 +820,17 @@ const ACTIONS = {
 	"review-all": () => start("review", reviewIds(questions, progress(state.log), state.flags, today()), "오답 복습"),
 	single: (d) => start("single", [d.id], "다시 풀기"),
 	round(d) {
-		const count = questions.filter((q) => q.year === Number(d.year) && q.subject === d.subject).length;
-		notice(`${d.year}년 ${d.subject} 기출 모의고사`, [
-			`${count}문제 · 제한 시간 ${MOCK_MINUTES[d.subject]}분`,
+		const set = questions.filter((q) => q.year === Number(d.year) && q.subject === d.subject);
+		notice(d.subject, [
 			"시작 후 시간 정지 불가, 앱 이탈 시에도 진행",
 			"시간 종료 시 자동 제출",
 			"제출 후 일괄 채점·문항별 해설 확인",
 			"미응답 문항 오답 처리·오답 문항 복습 등록",
 			"중도 포기 시 기록 미저장",
-		], { name: "round-start", attrs: `data-year="${d.year}" data-subject="${d.subject}"` });
+		], { name: "round-start", attrs: `data-year="${d.year}" data-subject="${d.subject}"` }, {
+			eyebrow: `${d.year}년 제${set[0].round}회 기출 모의고사`,
+			facts: [[set.length, "문제"], [MOCK_MINUTES[d.subject], "분"]],
+		});
 	},
 	"round-start"(d) {
 		const ids = questions.filter((q) => q.year === Number(d.year) && q.subject === d.subject).sort((a, b) => a.number - b.number).map((q) => q.id);
@@ -835,6 +860,11 @@ const ACTIONS = {
 	},
 	"sheet-open": () => setSheet(true),
 	"sheet-close": () => setSheet(false),
+	"mock-map": openMap,
+	"mock-go"(d) {
+		session.i = Number(d.index);
+		mock();
+	},
 	"mock-move"(d) {
 		session.i += Number(d.delta);
 		mock();
@@ -881,9 +911,9 @@ function openTab(tab) {
 }
 
 document.addEventListener("click", (e) => {
-	if (e.target.id === "round-sheet") {
+	if (e.target.matches("dialog.round-sheet")) {
 		const r = e.target.getBoundingClientRect();
-		if (e.clientX < r.left || e.clientX > r.right || e.clientY < r.top || e.clientY > r.bottom) setRoundOpen(false, true);
+		if (e.clientX < r.left || e.clientX > r.right || e.clientY < r.top || e.clientY > r.bottom) closeSheet(e.target);
 	}
 	const tab = e.target.closest("[data-tab]");
 	if (tab) {
@@ -921,10 +951,10 @@ document.addEventListener("keydown", (e) => {
 
 /* 손잡이를 끌어내려 시트를 닫는다. 놓으면 제자리로 돌아가거나 끌린 자리에서 이어서 내려간다. */
 document.addEventListener("pointerdown", (e) => {
-	const handle = e.target.closest("#grab, #round-grab");
+	const handle = e.target.closest("#grab, .round-grab");
 	if (!handle || e.button !== 0) return;
-	const round = handle.id === "round-grab";
-	const sheet = document.getElementById(round ? "round-sheet" : "explain");
+	const dialog = handle.closest("dialog");
+	const sheet = dialog ?? document.getElementById("explain");
 	const startY = e.clientY;
 	handle.setPointerCapture(e.pointerId);
 	const move = (event) => {
@@ -939,7 +969,7 @@ document.addEventListener("pointerdown", (e) => {
 		handle.removeEventListener("pointercancel", end);
 		sheet.style.transition = "";
 		if (event.type === "pointerup" && event.clientY - startY > 80) {
-			if (round) return setRoundOpen(false, true);
+			if (dialog) return closeSheet(dialog);
 			setSheet(false);
 		}
 		sheet.style.transform = "";

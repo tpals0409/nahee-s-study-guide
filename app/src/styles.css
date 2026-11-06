@@ -91,6 +91,7 @@ svg.i { width: 24px; height: 24px; fill: none; stroke: currentColor; stroke-widt
 .btn { display: flex; align-items: center; justify-content: center; gap: var(--sp-md); min-height: 52px; padding: 0 var(--sp-xl); border-radius: var(--r-btn); background: var(--primary); font-weight: 600; width: 100%; }
 .btn.white { background: var(--surface); justify-content: space-between; }
 .btn.quiet { background: var(--primarySoft); }
+.btn:disabled { opacity: .45; cursor: default; }
 .chip { display: inline-flex; align-items: center; gap: var(--sp-xs); min-height: 44px; padding: 0 var(--sp-lg); border-radius: var(--r-btn); background: var(--primarySoft); font-size: 14px; }
 .chip[aria-pressed="true"] { background: var(--accent); font-weight: 600; }
 .tag { display: inline-block; padding: 2px 10px; border-radius: var(--r-sm); background: var(--primarySoft); font-size: 14px; line-height: 21px; color: var(--muted); }
@@ -103,10 +104,14 @@ svg.i { width: 24px; height: 24px; fill: none; stroke: currentColor; stroke-widt
 .dot.on { background: var(--primary); border-color: var(--text); }
 .dot svg.i { width: 18px; height: 18px; }
 .link { display: flex; align-items: center; justify-content: space-between; gap: var(--sp-lg); width: 100%; min-height: 56px; text-align: left; }
+/* 줄 전체가 버튼이라 안에 버튼을 또 넣지 않고 모양만 입힌다 */
+.go { flex: none; display: flex; align-items: center; min-height: 40px; padding: 0 var(--sp-lg); border-radius: var(--r-btn); background: var(--primary); font-size: 14px; font-weight: 600; }
+.link-end { flex: none; display: flex; align-items: center; gap: var(--sp-xs); }
 .round-select { position: relative; width: 100%; }
-.round-trigger { display: flex; align-items: center; justify-content: space-between; gap: var(--sp-lg); width: 100%; min-height: 56px; padding: var(--sp-md) var(--sp-lg); border: 1px solid var(--borderStrong); border-radius: var(--r-md); background: var(--surface); text-align: left; font-weight: 600; }
-.round-trigger[aria-expanded="true"] { border-color: var(--text); background: var(--primarySoft); }
-.round-chevron { display: flex; transform: rotate(90deg); }
+/* 회차는 입력값이 아니라 지금 보는 대상이라 상자 없이 제목처럼 보여준다 */
+.exam-card { gap: var(--sp-md); }
+.round-trigger { display: flex; align-items: center; gap: var(--sp-sm); width: fit-content; min-height: 48px; border-radius: var(--r-md); outline-offset: 4px; text-align: left; font-size: 22px; line-height: 33px; font-weight: 700; }
+.round-chevron { display: flex; color: var(--muted); transform: rotate(90deg); }
 .round-trigger[aria-expanded="true"] .round-chevron { transform: rotate(-90deg); }
 dialog.round-sheet { position: fixed; inset: auto 0 0; margin: 0; width: 100%; max-width: none; max-height: min(80dvh, 680px); padding: 0; border-radius: var(--r-lg) var(--r-lg) 0 0; overflow: hidden; transition: transform var(--dur) var(--ease-out); }
 dialog.round-sheet[open] { display: flex; flex-direction: column; animation: round-sheet-in var(--dur) var(--ease-out); }
@@ -117,7 +122,7 @@ dialog.round-sheet[open] { display: flex; flex-direction: column; animation: rou
 .round-options { min-height: 0; overflow-y: auto; overscroll-behavior: contain; padding: 0 var(--sp-lg) calc(var(--sp-lg) + env(safe-area-inset-bottom)); }
 .round-option { display: flex; align-items: center; justify-content: space-between; width: 100%; min-height: 56px; padding: var(--sp-md) var(--sp-lg); border-radius: var(--r-md); text-align: left; }
 .round-option[aria-pressed="true"] { background: var(--primary); font-weight: 600; }
-.round-option:focus-visible, .round-trigger:focus-visible { outline: 2px solid var(--text); outline-offset: -3px; }
+.round-option:focus-visible { outline: 2px solid var(--text); outline-offset: -3px; }
 html:has(.round-sheet[open]) { overflow: hidden; }
 @keyframes round-sheet-in { from { transform: translateY(100%); } to { transform: translateY(0); } }
 @keyframes round-sheet-out { to { transform: translateY(100%); } }
@@ -153,13 +158,21 @@ input.field, textarea.field { width: 100%; min-height: 48px; padding: var(--sp-m
 .solve .card.q { padding: var(--sp-xs) 0 var(--sp-md); gap: 14px; background: none; box-shadow: none; }
 .q .tag, .q .chip:not([aria-pressed="true"]) { background: var(--glass-card); }
 .q .verdict, .q .error { padding: var(--sp-md) var(--sp-lg); border-radius: var(--r-lg); background: var(--surface); }
+/* 상단바가 없는 화면은 상태 표시줄을 직접 피한다 */
+.solve.plain { grid-template-rows: 1fr auto; padding-top: calc(var(--sp-lg) + env(safe-area-inset-top)); }
 .solve.center { grid-template-rows: 1fr; align-items: center; padding-block: calc(var(--sp-lg) + env(safe-area-inset-top)) calc(var(--sp-lg) + env(safe-area-inset-bottom)); }
 .solve header, .dock { position: sticky; z-index: 4; margin-inline: calc(var(--sp-lg) * -1); background: var(--glass-bg); -webkit-backdrop-filter: var(--glass-blur); backdrop-filter: var(--glass-blur); box-shadow: var(--glass-shadow); }
 .solve header { top: 0; display: grid; gap: var(--sp-md); padding: calc(var(--sp-md) + env(safe-area-inset-top)) var(--sp-lg) var(--sp-md); border-radius: 0 0 var(--r-lg) var(--r-lg); }
 .dock { bottom: 0; display: flex; gap: var(--sp-md); padding: var(--sp-md) var(--sp-lg) calc(var(--sp-lg) + env(safe-area-inset-bottom)); border-radius: var(--r-lg) var(--r-lg) 0 0; }
 .dock .btn { flex: 1 1 auto; width: auto; padding: 0 var(--sp-md); white-space: nowrap; }
 .dock .btn.quiet { background: var(--surface); }
-.solve header .row > span { flex: none; white-space: nowrap; }
+.solve header .row > span, .map-open { flex: none; white-space: nowrap; }
+.map-open { display: flex; align-items: center; gap: var(--sp-xs); min-height: 44px; padding: 0 12px; border-radius: var(--r-btn); background: var(--glass-card); font-variant-numeric: tabular-nums; }
+.map-open svg.i { width: 18px; height: 18px; }
+.map-grid { display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); gap: var(--sp-md); }
+.map-cell { min-height: 52px; border: 1px solid var(--borderStrong); border-radius: var(--r-md); font-variant-numeric: tabular-nums; }
+.map-cell.done { border-color: transparent; background: var(--primary); font-weight: 600; }
+.map-cell[aria-current] { outline: 2px solid var(--text); outline-offset: -2px; }
 @media (max-height: 500px) {
 	.solve header { gap: var(--sp-xs); padding-block: calc(var(--sp-xs) + env(safe-area-inset-top)) var(--sp-xs); }
 	.dock { padding-block: var(--sp-xs) calc(var(--sp-md) + env(safe-area-inset-bottom)); }
@@ -259,13 +272,19 @@ input.field, textarea.field { width: 100%; min-height: 48px; padding: var(--sp-m
 /* 어두운 막 위에서 유리는 회색으로 탁해져서 불투명을 쓴다 */
 dialog { border: 0; background: var(--surface); border-radius: var(--r-lg); padding: var(--sp-xxl) var(--sp-xl); width: min(560px, calc(100vw - 32px)); max-width: none; max-height: calc(100dvh - 32px); color: var(--text); }
 dialog:focus { outline: none; }
-dialog .stack { gap: var(--sp-xl); }
+dialog .stack { gap: var(--sp-lg); }
 @media (min-width: 768px) { dialog { padding: 40px; } }
 dialog::backdrop { background: rgb(2 2 2 / .4); }
 #zoom { width: 100vw; height: 100dvh; max-height: none; padding: 0; border-radius: 0; }
 #zoom img { display: block; width: 100%; height: 100%; object-fit: contain; }
 #zoom .iconbtn { position: fixed; top: calc(env(safe-area-inset-top) + var(--sp-md)); right: var(--sp-md); background: var(--surface2); }
-.notice { margin: 0; padding-left: 20px; display: grid; gap: 12px; }
+.notice { margin: 0; padding-left: 18px; display: grid; gap: var(--sp-md); color: var(--muted); font-size: 14px; line-height: 21px; }
+.notice-head { display: grid; gap: var(--sp-xs); }
+.facts { display: grid; grid-auto-flow: column; grid-auto-columns: 1fr; gap: var(--sp-md); }
+.facts > div { display: flex; align-items: baseline; justify-content: center; gap: var(--sp-xs); padding: 12px var(--sp-md); border-radius: var(--r-md); background: var(--primarySoft); }
+.facts strong { font-size: 24px; line-height: 36px; font-variant-numeric: tabular-nums; }
+.dialog-actions { display: grid; grid-template-columns: 1fr 1fr; gap: var(--sp-md); }
+.dialog-actions .btn { padding: 0 var(--sp-md); }
 
 /* 움직임 */
 @keyframes rise { from { opacity: 0; transform: translateY(30px); } }
@@ -284,8 +303,8 @@ dialog::backdrop { background: rgb(2 2 2 / .4); }
 @keyframes draw { from { stroke-dashoffset: 1; } to { stroke-dashoffset: 0; } }
 
 /* 누를 때는 빠르게 눌리고, 뗄 때는 물처럼 튀며 돌아온다 */
-.btn, .chip, .link, .iconbtn, .nav a, .choice { transition: transform var(--dur-med) var(--ease-bounce), background-color var(--dur) var(--ease-out), box-shadow var(--dur) var(--ease-out); }
-.btn:active, .chip:active, .iconbtn:active, .nav a:active { transform: scale(.96); transition-duration: var(--dur-fast); }
+.btn, .chip, .link, .iconbtn, .nav a, .choice, .map-open, .map-cell { transition: transform var(--dur-med) var(--ease-bounce), background-color var(--dur) var(--ease-out), box-shadow var(--dur) var(--ease-out); }
+.btn:not(:disabled):active, .chip:active, .iconbtn:active, .nav a:active, .map-open:active, .map-cell:active { transform: scale(.96); transition-duration: var(--dur-fast); }
 .link:active, .choice:active { transform: scale(.985); transition-duration: var(--dur-fast); }
 /* 사용자가 고른 순간에만 재생한다. 다시 그릴 때 재생되지 않게 상태가 아니라 클래스에 건다 */
 .chip.picked[aria-pressed="true"], .choice.picked:has(input:checked) { animation: press var(--dur-med) var(--ease-bounce); }
