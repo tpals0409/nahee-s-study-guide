@@ -48,10 +48,13 @@ svg.i { width: 24px; height: 24px; fill: none; stroke: currentColor; stroke-widt
 .shell { min-height: 100dvh; padding-bottom: calc(76px + env(safe-area-inset-bottom)); }
 .main { padding: calc(var(--sp-lg) + env(safe-area-inset-top)) var(--sp-lg) var(--sp-xl); max-width: 1000px; width: 100%; margin: 0 auto; display: grid; gap: var(--sp-lg); align-content: start; }
 .brand { display: flex; align-items: center; gap: var(--sp-md); font-weight: 600; }
-.nav { position: fixed; inset: auto 0 0 0; z-index: 5; display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); gap: var(--sp-xs); padding: var(--sp-sm) var(--sp-md) calc(var(--sp-sm) + env(safe-area-inset-bottom)); background: var(--surface); border-top: 1px solid var(--border); }
+.nav { position: fixed; inset: auto 0 0 0; z-index: 5; display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: var(--sp-xs); padding: var(--sp-sm) var(--sp-md) calc(var(--sp-sm) + env(safe-area-inset-bottom)); background: var(--surface); border-top: 1px solid var(--border); }
 .nav .brand { display: none; }
 .nav a, .nav-logout { display: grid; justify-items: center; gap: 2px; min-height: 56px; align-content: center; font-size: 12px; line-height: 18px; border-radius: var(--r-lg); }
 .nav a, .nav-logout { position: relative; z-index: 1; }
+.nav-logout { display: none; }
+.topbrand { display: flex; align-items: center; justify-content: space-between; gap: var(--sp-md); }
+.top-logout { display: flex; align-items: center; gap: var(--sp-xs); min-height: 44px; padding: 0 var(--sp-md); flex-shrink: 0; font-size: 14px; border-radius: var(--r-md); }
 .pill { position: absolute; left: 0; top: 0; background: var(--primary); }
 .nav .pill { border-radius: var(--r-lg); }
 .pill.slide { transition: transform var(--dur-slow) var(--ease-spring), width var(--dur-slow) var(--ease-out), height var(--dur-slow) var(--ease-out); }

@@ -193,7 +193,7 @@ function shell(tab, body) {
 			${TABS.map(([id, label, ic]) => `<a href="#${id}" data-tab="${id}" ${id === tab ? 'aria-current="page"' : ""}>${icon(ic)}<span>${label}</span></a>`).join("")}
 			<button class="nav-logout" data-act="logout">${icon("logout")}<span>로그아웃</span></button>
 		</nav>
-		<main class="main"><div class="brand topbrand">${icon("note")}<span>나희의 합격노트</span></div>${body}</main>
+		<main class="main"><header class="topbrand"><div class="brand">${icon("note")}<span>나희의 합격노트</span></div><button class="top-logout" data-act="logout">${icon("logout")}<span>로그아웃</span></button></header>${body}</main>
 	</div>`;
 	placePills();
 	if (!motion) return;
