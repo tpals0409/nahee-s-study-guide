@@ -550,7 +550,7 @@ function explainHtml(q) {
 
 function chatMessagesHtml(q, s) {
 	return `${s.pastChat && !q.fixed ? '<p class="small muted">이전 대화 · 당시 보기 번호 기준</p>' : ""}
-	${s.chat.length ? s.chat.map((m) => `<div class="say ${m.role === "user" ? "me" : ""}"><span class="chat-speaker">${m.role === "user" ? "나" : "AI"}</span><div class="chat-text">${esc(m.content)}</div></div>`).join("") : '<div class="chat-empty"><h3>어떤 부분이 궁금한가요?</h3><p class="muted">현재 문제와 해설을 바탕으로 답변해 드려요.</p></div>'}
+	${s.chat.length ? s.chat.map((m, index) => `<div data-chat-index="${index}" class="say ${m.role === "user" ? "me" : ""}"><span class="chat-speaker">${m.role === "user" ? "나" : "AI"}</span><div class="chat-text">${esc(m.content)}</div></div>`).join("") : '<div class="chat-empty"><h3>어떤 부분이 궁금한가요?</h3><p class="muted">현재 문제와 해설을 바탕으로 답변해 드려요.</p></div>'}
 	${s.asking ? '<p class="small muted" role="status">답변 작성 중…</p>' : ""}
 	${s.askError ? '<p class="error" role="alert">답변을 받지 못했어요. 다시 전송해 주세요.</p>' : ""}`;
 }
@@ -567,6 +567,16 @@ function paintChat() {
 	messages.innerHTML = chatMessagesHtml(current(), session);
 	dialog.querySelector('button[type="submit"]').disabled = !!session.asking;
 	if (atBottom) messages.scrollTop = messages.scrollHeight;
+}
+
+function paintChatReply(reply, index) {
+	const dialog = document.getElementById("ai-chat");
+	if (!dialog?.open) return;
+	const messages = dialog.querySelector(".chat-messages");
+	const text = messages.querySelector(`[data-chat-index="${index}"] .chat-text`);
+	if (!text) return;
+	text.textContent = reply.content;
+	if (chatFollowBottom) messages.scrollTop = messages.scrollHeight;
 }
 
 function openChat() {
@@ -1152,12 +1162,14 @@ document.addEventListener("submit", async (e) => {
 		const res = await post("/api/ask", { question: q, explanation: s.explain, messages: chat, order: s.orders.get(q.id), pick: s.picks[q.id] });
 		const reader = res.body.pipeThrough(new TextDecoderStream()).getReader();
 		const reply = { role: "assistant", content: "" };
+		const replyIndex = chat.length;
+		chat.push(reply);
+		if (shown()) paintChat();
 		for (;;) {
 			const { done, value } = await reader.read();
 			if (done) break;
-			if (!reply.content) chat.push(reply);
 			reply.content += value;
-			if (shown()) paintChat();
+			if (shown()) paintChatReply(reply, replyIndex);
 		}
 		if (!reply.content) throw new Error("빈 답변");
 		write(`chat:${q.id}`, chat);

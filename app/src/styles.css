@@ -618,3 +618,7 @@ dialog.chat-sheet { top: var(--chat-top, auto); bottom: auto; height: var(--chat
 .chat-sheet.keyboard-open .chat-header { padding-bottom: 8px; }
 .chat-sheet.keyboard-open .round-grab { height: 16px; }
 .chat-sheet.keyboard-open .chat-messages { padding-block: 12px; }
+
+/* Streaming must not replay the global message entrance or browser scroll anchoring. */
+.chat-messages { overflow-anchor: none; scroll-behavior: auto; }
+.chat-messages .say { animation: none; }

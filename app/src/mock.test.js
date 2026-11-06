@@ -227,7 +227,8 @@ assert.equal(run("answerFeedback({id:'test',answer:[1]},session).ok"), true);
 console.log("answer feedback mapping ok");
 
 // Dedicated chat keeps the composer outside explanations and streams into the sheet.
-const chatMessages = { addEventListener() {}, innerHTML: '', scrollHeight: 100, scrollTop: 0, clientHeight: 100 };
+const streamedText = { textContent: "" };
+const chatMessages = { querySelector: () => streamedText, addEventListener() {}, innerHTML: '', scrollHeight: 100, scrollTop: 0, clientHeight: 100 };
 const chatInput = { value: '왜 정답인가요?', disabled: false };
 const chatSend = { disabled: false };
 const chatDialog = { style: { setProperty() {} }, classList: { toggle() {} }, open: false, innerHTML: '', showModal() { this.open = true; },
@@ -256,3 +257,20 @@ assert.match(chatMessages.innerHTML, /설명 답변/);
 assert.equal(chatSend.disabled, false);
 assert.ok(storage.has('chat:chat-q'));
 console.log('AI chat sheet and streaming ok');
+
+// Multiple response chunks update the same text node without rebuilding message bubbles.
+let messageRebuilds = 0;
+let renderedMessages = chatMessages.innerHTML;
+Object.defineProperty(chatMessages, 'innerHTML', { get: () => renderedMessages, set: (value) => { messageRebuilds++; renderedMessages = value; }, configurable: true });
+ctx.ReadableStream = ReadableStream;
+ctx.TextEncoder = TextEncoder;
+run(`post = async () => new Response(new ReadableStream({start(controller) { for (const chunk of ['첫째 ', '둘째 ', '셋째 ', '넷째']) controller.enqueue(new TextEncoder().encode(chunk)); controller.close(); }}));`);
+chatInput.value = '다시 설명해줘';
+await listeners.submit(submitEvent);
+assert.equal(streamedText.textContent, '첫째 둘째 셋째 넷째');
+assert.equal(messageRebuilds, 3, 'only submission, reply creation and completion rebuild; chunks do not');
+run('chatFollowBottom = false;');
+chatMessages.scrollTop = 17;
+run("paintChatReply({content:'이어지는 답변'}, 3);");
+assert.equal(chatMessages.scrollTop, 17, 'reading earlier messages does not force a scroll');
+console.log('stable streaming message updates ok');
