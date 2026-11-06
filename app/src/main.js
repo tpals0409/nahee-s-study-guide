@@ -365,7 +365,7 @@ async function transitionRadar() {
 	card.setAttribute("aria-disabled", "true");
 	card.insertAdjacentHTML("beforeend", '<span class="radar-skeleton" aria-hidden="true"><span class="skeleton"><i></i></span><span class="radar-skeleton-plot"></span><span class="skeleton"><i></i><i></i><i></i><i></i><i></i></span></span>');
 	try {
-		await new Promise((resolve) => setTimeout(resolve, 500));
+		await new Promise((resolve) => setTimeout(resolve, 200));
 		if (!card.isConnected) return;
 		radarIndex = (radarIndex + 1) % 4;
 		const view = radarViews(state.log, byId, today())[radarIndex];

@@ -84,14 +84,14 @@ run(`ACTIONS['round-start']({year: '2025', subject: '민법개론'}); session.de
 assert.equal(run("session.mode"), "mock-result");
 assert.equal(run("state.log.length"), 4, "timeout grades all questions once");
 assert.ok(dialogClosed >= 2, "timeout closes submission/abandon confirmation");
-// Card cycling waits exactly 500ms, blocks repeated taps, and releases its busy state.
+// Card cycling waits exactly 200ms, blocks repeated taps, and releases its busy state.
 const attributes = new Map();
 const radarCard = { innerHTML: "", isConnected: true,
   setAttribute: (k, v) => attributes.set(k, v), removeAttribute: (k) => attributes.delete(k),
   insertAdjacentHTML: (_, html) => { radarCard.innerHTML += html; }, querySelector: () => null };
 const radarStatus = { textContent: "" };
 let release;
-ctx.setTimeout = (fn, delay) => { assert.equal(delay, 500); release = fn; };
+ctx.setTimeout = (fn, delay) => { assert.equal(delay, 200); release = fn; };
 ctx.document.getElementById = (id) => id === "radar-card" ? radarCard : id === "radar-status" ? radarStatus : null;
 for (const title of ["산업재산권법", "민법개론", "자연과학개론", "전체"]) {
   const before = run("radarIndex");
