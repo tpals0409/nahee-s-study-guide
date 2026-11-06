@@ -3,7 +3,7 @@ import {
 	DAILY_SIZE, MOCK_MINUTES, SUBJECTS, addDays, choiceOrder, dayComplete, dayIds, dayKey, emptyState, isCorrect,
 	merge, mockHistory, pickDaily, progress, reviewIds, shuffle, solvedOn, streak, weekStart,
 } from "./logic.js";
-import { radarViews, radarFace } from "./radar.js";
+import { RADAR_PARTS, radarViews, radarFace } from "./radar.js";
 
 const app = document.getElementById("app");
 const NUM = "①②③④⑤";
@@ -309,21 +309,19 @@ function notes(path = []) {
 	const review = reviewIds(questions, prog, state.flags, today());
 	const subjectCard = (subject) => {
 		const items = active.filter(({ q }) => q.subject === subject);
-		const counts = {};
+		const counts = Object.fromEntries(RADAR_PARTS[subject].map((topic) => [topic, 0]));
 		for (const { q } of items) counts[q.topic] = (counts[q.topic] ?? 0) + 1;
-		const rows = Object.entries(counts).sort((a, b) => b[1] - a[1]);
+		const rows = Object.entries(counts);
 		return `<section class="card">
 			<div class="row"><h2>${subject}</h2><strong>${num(items.length, "문제")}</strong></div>
 			${rows.length
-				? `<div class="list">${rows.map(([topic, n]) => `<a class="link" href="${notesLink(subject, topic)}"><span class="topic"><span class="row"><span>${esc(topic)}</span><span class="muted small">${n}문제</span></span><span class="meter"><i style="width:${(n / items.length) * 100}%"></i></span></span>${icon("right")}</a>`).join("")}</div>`
+				? `<div class="list">${rows.map(([topic, n]) => `<a class="link" href="${notesLink(subject, topic)}"><span class="topic"><span class="row"><span>${esc(topic)}</span><span class="muted small">${n}문제</span></span><span class="meter"><i style="width:${items.length ? (n / items.length) * 100 : 0}%"></i></span></span>${icon("right")}</a>`).join("")}</div>`
 				: '<p class="muted small">오답 없음</p>'}
 		</section>`;
 	};
 	shell("notes", `<h1>오답노트</h1>
-	${active.length
-		? `${review.length ? `<button class="btn" data-act="review-all">복습 대기 ${review.length}문제 풀기</button>` : ""}
-		<div class="subjects">${SUBJECTS.map(subjectCard).join("")}</div>`
-		: `<section class="card"><div class="empty">${drawMark({ lines: true })}<strong>복습 문항 없음</strong><span class="muted small">오답·애매함 문항 자동 등록</span></div></section>`}
+	${review.length ? `<button class="btn" data-act="review-all">복습 대기 ${review.length}문제 풀기</button>` : `<p class="muted small">${active.length ? "오늘 복습할 문제를 모두 풀었어요." : "아직 등록된 오답이 없어요. 오답·애매함 문항이 자동 등록됩니다."}</p>`}
+	<div class="subjects">${SUBJECTS.map(subjectCard).join("")}</div>
 	${flagged.length ? `<section class="card"><a class="link" href="${notesLink("개정 의심")}"><span>개정 의심 문제 ${flagged.length}개</span>${icon("right")}</a></section>` : ""}
 	${graduated ? `<p class="muted small">졸업 ${graduated}문제</p>` : ""}`);
 }

@@ -23,7 +23,7 @@ const ctx = vm.createContext({
 });
 const source = readFileSync(new URL("./main.js", import.meta.url), "utf8")
   .replace(/^import\s*\{[\s\S]*?from "\.\/logic\.js";/, "")
-  .replace(/import \{ radarViews, radarFace \} from "\.\/radar\.js";/, "")
+  .replace(/import \{ RADAR_PARTS, radarViews, radarFace \} from "\.\/radar\.js";/, "")
   .replaceAll("import.meta.env.PROD", "false")
   .replace(/boot\(\);\s*$/, "");
 vm.runInContext(source, ctx);
@@ -145,3 +145,16 @@ assert.equal(reloads, 1, "pending update applies after leaving the session");
 run("updatePending = false;");
 run("session = null; solveClosed = false; render = () => {}; paint();");
 console.log("consistent tab motion ok");
+
+// Empty notebooks still expose every standard subject and topic, with safe zero counts.
+run("state = emptyState(); notes();");
+for (const [subject, parts] of Object.entries(radar.RADAR_PARTS)) {
+  assert.ok(app.innerHTML.includes(subject));
+  for (const part of parts) assert.ok(app.innerHTML.includes(part));
+}
+assert.doesNotMatch(app.innerHTML, /NaN|Infinity|data-act="review-all"/);
+assert.match(app.innerHTML, /0문제/);
+run("notes(['민법개론', '물권법']);");
+assert.match(app.innerHTML, /복습 문항 없음/);
+assert.doesNotMatch(app.innerHTML, /data-act="topic-review"/);
+console.log("empty notebook topics ok");
