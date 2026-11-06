@@ -187,8 +187,25 @@ input.field, textarea.field { width: 100%; min-height: 48px; padding: var(--sp-m
 }
 
 /* 기록 */
-.charts { display: grid; gap: var(--sp-lg); }
-@media (min-width: 768px) { .charts { grid-template-columns: repeat(3, minmax(0, 1fr)); } }
+.radar-stage { perspective: 1200px; width: 100%; }
+.radar-card { width: 100%; max-width: 640px; margin: 0 auto; text-align: left; gap: var(--sp-md); transform-origin: center; }
+.radar-card:focus-visible { outline: 2px solid var(--text); outline-offset: 4px; }
+.radar-heading, .radar-footer, .radar-value { display: flex; align-items: center; justify-content: space-between; gap: var(--sp-md); }
+.radar-heading > strong { font-size: 22px; line-height: 33px; }
+.radar-card svg { display: block; width: 100%; max-width: 400px; margin: auto; height: auto; }
+.radar-grid { fill: none; stroke: var(--borderStrong); stroke-width: .7; }
+.radar-axis { stroke: var(--border); stroke-width: 1; }
+.radar-scale { font: 10px var(--font-sans); fill: var(--muted); }
+.radar-label { font: 500 12px var(--font-sans); fill: var(--text); }
+.radar-shape { fill: var(--primary); fill-opacity: .65; stroke: var(--chart); stroke-width: 2.5; stroke-linejoin: round; }
+.radar-edge { fill: none; stroke: var(--chart); stroke-width: 2.5; }
+.radar-point { fill: var(--chart); stroke: var(--surface); stroke-width: 2; }
+.radar-values { display: grid; grid-template-rows: repeat(5, 36px); }
+.radar-value { font-size: 14px; border-bottom: 1px solid var(--border); }
+.radar-footer { padding-top: var(--sp-md); flex-wrap: wrap; }
+.radar-dots { display: flex; gap: 6px; }
+.radar-dots i { width: 6px; height: 6px; border-radius: 50%; background: var(--borderStrong); }
+.radar-dots i.on { width: 18px; border-radius: 4px; background: var(--text); }
 .chart svg { width: 100%; height: auto; display: block; }
 .chart .gridline { stroke: var(--border); stroke-width: 1; }
 .chart .line { fill: none; stroke: var(--chart); stroke-width: 3; stroke-linejoin: round; stroke-linecap: round; stroke-dasharray: 1; }

@@ -2,6 +2,7 @@ import assert from "node:assert/strict";
 import { readFileSync } from "node:fs";
 import vm from "node:vm";
 import * as logic from "./logic.js";
+import * as radar from "./radar.js";
 
 // Exercise the actual screen handlers with browser storage and DOM boundaries stubbed.
 const storage = new Map();
@@ -10,7 +11,7 @@ const app = { innerHTML: "" };
 let explanationLoads = 0;
 let dialogClosed = 0;
 const ctx = vm.createContext({
-  ...logic, console, Date, setInterval: () => 1, clearInterval: () => {},
+  ...logic, ...radar, console, Date, setInterval: () => 1, clearInterval: () => {},
   document: {
     getElementById: (id) => id === "app" ? app : id === "confirm" ? { close: () => dialogClosed++ } : null,
     addEventListener: (type, fn) => { listeners[type] = fn; },
@@ -22,6 +23,7 @@ const ctx = vm.createContext({
 });
 const source = readFileSync(new URL("./main.js", import.meta.url), "utf8")
   .replace(/^import\s*\{[\s\S]*?from "\.\/logic\.js";/, "")
+  .replace(/import \{ radarViews, radarFace \} from "\.\/radar\.js";/, "")
   .replaceAll("import.meta.env.PROD", "false")
   .replace(/boot\(\);\s*$/, "");
 vm.runInContext(source, ctx);
@@ -82,4 +84,15 @@ run(`ACTIONS['round-start']({year: '2025', subject: '민법개론'}); session.de
 assert.equal(run("session.mode"), "mock-result");
 assert.equal(run("state.log.length"), 4, "timeout grades all questions once");
 assert.ok(dialogClosed >= 2, "timeout closes submission/abandon confirmation");
-console.log("mock flow ok");
+// Card cycling uses the actual click handler; reduced motion switches without rotation.
+const radarCard = { innerHTML: "", isConnected: true, setAttribute() {}, getAnimations: () => [] };
+const radarStatus = { textContent: "" };
+ctx.matchMedia = () => ({ matches: true });
+ctx.document.getElementById = (id) => id === "radar-card" ? radarCard : id === "radar-status" ? radarStatus : null;
+for (const title of ["산업재산권법", "민법개론", "자연과학개론", "전체"]) {
+  await run("ACTIONS['radar-next']()");
+  assert.ok(radarStatus.textContent.startsWith(title));
+  assert.ok(radarCard.innerHTML.includes(title));
+}
+assert.equal(run("radarFlipping"), false);
+console.log("mock flow and radar interaction ok");

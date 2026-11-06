@@ -6,7 +6,7 @@
     "dev": "cf dev",
     "build": "cf build",
     "deploy": "cf deploy",
-    "test": "node src/logic.test.js && node src/worker.test.js && node src/auth.test.js && node src/store.test.js && node src/mock.test.js"
+    "test": "node src/logic.test.js && node src/worker.test.js && node src/auth.test.js && node src/store.test.js && node src/mock.test.js && node src/radar.test.js"
   },
   "devDependencies": {
     "@cloudflare/vite-plugin": "^2.0.0-beta.v.12",

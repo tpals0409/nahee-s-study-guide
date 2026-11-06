@@ -1,8 +1,9 @@
 import {
 	basisHtml, esc,
 	DAILY_SIZE, MOCK_MINUTES, SUBJECTS, addDays, choiceOrder, dayComplete, dayIds, dayKey, emptyState, isCorrect,
-	merge, pickDaily, progress, reviewIds, shuffle, solvedOn, streak, weekStart, dailyAccuracy,
+	merge, pickDaily, progress, reviewIds, shuffle, solvedOn, streak, weekStart,
 } from "./logic.js";
+import { radarViews, radarFace } from "./radar.js";
 
 const app = document.getElementById("app");
 const NUM = "①②③④⑤";
@@ -54,6 +55,8 @@ let questions = [];
 let byId = new Map();
 let session = null;
 let calendarMonth = null;
+let radarIndex = 0;
+let radarFlipping = false;
 let selectedExamYear = null;
 
 let lastTab = null;
@@ -349,23 +352,31 @@ function notesFlagged(flagged) {
 	<section class="card"><div class="list">${flagged.map((q) => notesItem(q, q.subject)).join("")}</div></section>`);
 }
 
-function chart(subject, rows) {
-	const W = 280, H = 140, L = 30, R = 10, T = 10, B = 22;
-	const x = (i) => (rows.length > 1 ? L + (i * (W - L - R)) / (rows.length - 1) : (L + W - R) / 2);
-	const y = (v) => T + ((100 - v) * (H - T - B)) / 100;
-	const pts = rows.map((r, i) => ({ ...r, i, v: pct(r.ok, r.total) })).filter((r) => r.v !== null);
-	const last = pts.at(-1);
-	const tip = (p) => `${shortDay(p.day)} ${p.v}% (${p.ok}/${p.total})`;
-	return `<section class="card chart">
-		<h2 style="font-size:18px;line-height:27px">${subject}</h2>
-		<svg viewBox="0 0 ${W} ${H}" role="img" aria-label="${subject} 일별 정답률 ${last ? `최근 ${last.v}%` : "기록 없음"}">
-			${[0, 50, 100].map((v) => `<line class="gridline" x1="${L}" x2="${W - R}" y1="${y(v)}" y2="${y(v)}"/><text x="${L - 6}" y="${y(v) + 4}" text-anchor="end">${v}</text>`).join("")}
-			${rows.length > 1 ? `<text x="${L}" y="${H - 4}">${shortDay(rows[0].day)}</text><text x="${W - R}" y="${H - 4}" text-anchor="end">오늘</text>` : `<text x="${x(0)}" y="${H - 4}" text-anchor="middle">오늘</text>`}
-			${pts.length > 1 ? `<polygon class="area" points="${x(pts[0].i)},${y(0)} ${pts.map((p) => `${x(p.i)},${y(p.v)}`).join(" ")} ${x(last.i)},${y(0)}"/><polyline class="line" pathLength="1" points="${pts.map((p) => `${x(p.i)},${y(p.v)}`).join(" ")}"/>` : ""}
-			${pts.map((p) => `<circle class="pt" style="--at:${(p.i / Math.max(1, rows.length - 1)).toFixed(2)}" cx="${x(p.i)}" cy="${y(p.v)}" r="5"/><circle class="hit" cx="${x(p.i)}" cy="${y(p.v)}" r="16" data-tip="${tip(p)}"/>`).join("")}
-		</svg>
-		<p class="small muted tip">${last ? tip(last) : "기록 없음"}</p>
-	</section>`;
+function radarCard() {
+	const views = radarViews(state.log, byId, today());
+	return `<section class="radar-stage" aria-label="과목별 정답률"><button class="card radar-card" id="radar-card" data-act="radar-next" aria-label="${views[radarIndex].title} 정답률, 다음 분류 보기">${radarFace(views[radarIndex], radarIndex)}</button><span class="sr" id="radar-status" role="status" aria-live="polite"></span></section>`;
+}
+
+async function flipRadar() {
+	const card = document.getElementById("radar-card");
+	if (!card || radarFlipping) return;
+	radarFlipping = true;
+	try {
+		if (!calm()) await card.animate([{ transform: "rotateY(0deg)" }, { transform: "rotateY(90deg)" }], { duration: 160, easing: "ease-in", fill: "forwards" }).finished;
+		if (!card.isConnected) return;
+		radarIndex = (radarIndex + 1) % 4;
+		const view = radarViews(state.log, byId, today())[radarIndex];
+		card.innerHTML = radarFace(view, radarIndex);
+		card.setAttribute("aria-label", `${view.title} 정답률, 다음 분류 보기`);
+		document.getElementById("radar-status").textContent = `${view.title} 정답률, ${radarIndex + 1}/4`;
+		card.getAnimations().forEach((animation) => animation.cancel());
+		if (!calm()) await card.animate([{ transform: "rotateY(-90deg)" }, { transform: "rotateY(0deg)" }], { duration: 180, easing: "ease-out" }).finished;
+	} catch {
+		// A navigation or reduced-motion change can cancel an in-flight animation.
+	} finally {
+		card.getAnimations().forEach((animation) => animation.cancel());
+		radarFlipping = false;
+	}
 }
 
 function calendar() {
@@ -387,29 +398,11 @@ function calendar() {
 	</section>`;
 }
 
-/* 차트는 화면에 들어올 때 한 번 그려진다. 아래쪽 차트가 안 보일 때 재생되어 버리지 않게 한다. */
-function drawCharts() {
-	if (calm() || !document.querySelector(".shell.enter")) return;
-	const seen = new IntersectionObserver((entries) => {
-		for (const { isIntersecting, target } of entries) {
-			if (!isIntersecting) continue;
-			target.classList.replace("pending", "draw");
-			seen.unobserve(target);
-		}
-	}, { threshold: 0.35 });
-	for (const el of document.querySelectorAll(".chart")) {
-		el.classList.add("pending");
-		seen.observe(el);
-	}
-}
-
 function stats() {
-	const table = dailyAccuracy(state.log, byId, today());
 	shell("stats", `<h1>학습 기록</h1>
 	<h2>과목별 정답률</h2>
-	<div class="charts">${SUBJECTS.map((s) => chart(s, table[s])).join("")}</div>
+	${radarCard()}
 	${calendar()}`);
-	drawCharts();
 }
 
 /* 풀이 */
@@ -753,6 +746,7 @@ function submitMock() {
 
 /* 입력 */
 const ACTIONS = {
+	"radar-next": flipRadar,
 	"round-toggle"() {
 		setRoundOpen(document.getElementById("round-trigger").getAttribute("aria-expanded") !== "true");
 	},
