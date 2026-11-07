@@ -1,0 +1,16 @@
+{
+  "id": "3ae5fcd2b0afff82e4d0",
+  "kind": "science",
+  "source": "Earth and Planetary Science Letters",
+  "ref": "Oceanic heat flow: Implications for global heat loss",
+  "url": "https://www.sciencedirect.com/science/article/abs/pii/S0012821X11005644",
+  "excerpt": "Heat flow predicted from plate cooling models is high near the ridge and rapidly decreases with age",
+  "sourceHash": "03795a64fc2c8f033cfdafc08b10ed6dcd44af4db11a1116df915f4c2cfc2ceb",
+  "cacheSourceId": "4996e06ce32cdc04b5d8",
+  "retrievedAt": "2026-11-06T16:56:18.757419+00:00",
+  "reviewedMappings": {
+    "2011-3-39:1": "냉각모델에서 나이에 따른 열류량 감소. 해령 부근 열수순환으로 개별 관측값은 달라질 수 있어 항상 최대라고 하지 않음."
+  },
+  "retrievalMethod": "web.search 반환 본문/초록 확인. USGS·ScienceDirect 직접 open은403. 전체 페이지 취득 아님.",
+  "sourceHashScope": "Selected excerpt only; not full page"
+}

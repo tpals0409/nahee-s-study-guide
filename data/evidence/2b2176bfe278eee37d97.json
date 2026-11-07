@@ -1,0 +1,16 @@
+{
+  "id": "2b2176bfe278eee37d97",
+  "kind": "science",
+  "source": "Sonja Aulbach / DGGV",
+  "ref": "Earth’s mantle: probing a hidden heavy-weight",
+  "url": "https://www.dggv.de/e-publikationen/earths-mantle-probing-a-hidden-heavy-weight/",
+  "excerpt": "some 84% by volume and 67% by mass",
+  "sourceHash": "feef32632d1a9250e356dbb6f5595adc82934ec45d6047d8588468a2c14a8846",
+  "cacheSourceId": "494006a643b12fbaf0ce",
+  "retrievedAt": "2026-11-07T01:25:06.659144+00:00",
+  "reviewedMappings": {
+    "2022-3-38:2": "맨틀 부피비 약84%를 확인. 질량비67%와 구별하여 ② 부피 최대 진술에 연결한다."
+  },
+  "retrievalMethod": "Direct author conference abstract, opening paragraph; GeoMinKöln 2022.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

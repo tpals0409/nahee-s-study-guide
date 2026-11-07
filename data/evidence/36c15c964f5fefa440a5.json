@@ -1,0 +1,21 @@
+{
+  "id": "36c15c964f5fefa440a5",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "5.4 Bulk Transport",
+  "url": "https://openstax.org/books/biology-2e/pages/5-4-bulk-transport",
+  "excerpt": "In exocytosis, vesicles containing substances fuse with the plasma membrane.",
+  "sourceHash": "73ca0daf28a96a9f014140b6cf55ed53ee2bf4febd23f7312efcf5534ce4ad2a",
+  "cacheSourceId": "5efb96b49e7677e1b654",
+  "retrievedAt": "2026-11-06T20:27:57.112616+00:00",
+  "reviewedMappings": {
+    "2016-3-22:0": "본문56–58 소낭-세포막 융합 후 세포밖 방출이 exocytosis이므로 ㄷ 참.",
+    "2016-3-22:1": "옳은 ㄷ이 누락됨: 소낭 융합 방출의 정의.",
+    "2016-3-22:2": "ㄷ 참이며 ㄱㄴ 거짓과 결합하여 ㄷ만 선택.",
+    "2016-3-22:3": "옳은 ㄷ이 빠져 있음.",
+    "2016-3-22:4": "ㄷ 자체는 참이나 ㄴ 거짓으로 조합 배제.",
+    "2016-3-22:5": "ㄷ은 참이지만 다른 두 진술 거짓이므로 전체선택 배제."
+  },
+  "retrievalMethod": "Direct web open and targeted find; relevant definition and mechanism reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

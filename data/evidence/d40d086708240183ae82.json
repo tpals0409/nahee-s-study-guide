@@ -1,0 +1,21 @@
+{
+  "id": "d40d086708240183ae82",
+  "kind": "science",
+  "source": "OpenStax University Physics Volume 1",
+  "ref": "12.1 Conditions for Static Equilibrium",
+  "url": "https://openstax.org/books/university-physics-volume-1/pages/12-1-conditions-for-static-equilibrium",
+  "excerpt": "there is no net external torque to cause rotation about any axis.",
+  "sourceHash": "04513e55e27816b07ad72830ff4f175da7aeb7b4c45f7bd6ca9c0e29bc4df411",
+  "cacheSourceId": "ac397a4e7f4f6a0b08b4",
+  "retrievedAt": "2026-11-07T01:29:03.194179+00:00",
+  "reviewedMappings": {
+    "2023-3-02:0": "힘 및 돌림힘 평형을 원문 길이3L/질량중심L에 적용. 오른쪽 축으로 F₁, 연직 평형으로 F₂ 계산; 왼쪽 축으로 독립 검산.",
+    "2023-3-02:1": "힘 및 돌림힘 평형을 원문 길이3L/질량중심L에 적용. 오른쪽 축으로 F₁, 연직 평형으로 F₂ 계산; 왼쪽 축으로 독립 검산.",
+    "2023-3-02:2": "힘 및 돌림힘 평형을 원문 길이3L/질량중심L에 적용. 오른쪽 축으로 F₁, 연직 평형으로 F₂ 계산; 왼쪽 축으로 독립 검산.",
+    "2023-3-02:3": "힘 및 돌림힘 평형을 원문 길이3L/질량중심L에 적용. 오른쪽 축으로 F₁, 연직 평형으로 F₂ 계산; 왼쪽 축으로 독립 검산.",
+    "2023-3-02:4": "힘 및 돌림힘 평형을 원문 길이3L/질량중심L에 적용. 오른쪽 축으로 F₁, 연직 평형으로 F₂ 계산; 왼쪽 축으로 독립 검산.",
+    "2023-3-02:5": "힘 및 돌림힘 평형을 원문 길이3L/질량중심L에 적용. 오른쪽 축으로 F₁, 연직 평형으로 F₂ 계산; 왼쪽 축으로 독립 검산."
+  },
+  "retrievalMethod": "Direct chapter open, first/second equilibrium conditions, equations 12.2–12.6.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

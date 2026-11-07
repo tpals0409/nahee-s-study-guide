@@ -1,0 +1,140 @@
+{
+  "id": "2025-3-28",
+  "summary": "ㄱ과 ㄷ이 옳아 정답은 ④입니다. 줄기세포는 자가재생 또는 분화 방향으로 대칭·비대칭 분열할 수 있습니다. 성체줄기세포의 분화 범위는 일반적으로 특정 조직 계통에 제한되므로 ㄴ은 틀립니다. 분화된 체세포도 적절한 역프로그래밍으로 유도만능줄기세포가 될 수 있습니다.",
+  "choices": [
+    "ㄱ은 옳지만 ㄷ도 옳으므로 오답입니다. 분화된 체세포를 유도만능줄기세포로 되돌릴 수 있습니다.",
+    "ㄴ은 틀립니다. 성체줄기세포는 일반적으로 특정 조직 계통의 제한된 종류의 세포로 분화하며, 모든 종류의 세포로 분화하는 것은 아닙니다.",
+    "ㄷ은 옳지만 ㄱ도 옳으므로 오답입니다. 줄기세포 분열의 결과로 두 줄기세포, 두 전구세포, 또는 줄기세포와 전구세포가 하나씩 생길 수 있습니다.",
+    "ㄱ·ㄷ이 모두 옳습니다. ㄱ은 각각 대칭 자가재생, 대칭 분화, 비대칭 분열에 해당합니다. ㄷ은 유도만능줄기세포 역프로그래밍으로 설명됩니다. 실제로 완전히 분화된 생쥐의 성숙 B세포도 전사인자 발현과 세포 정체성 조절을 통해 만능성 상태로 되돌린 연구가 있습니다.",
+    "ㄷ은 옳지만 ㄴ은 틀리고, 옳은 ㄱ이 빠져 있어 오답입니다. 성체줄기세포의 제한된 분화능과 체세포를 실험적으로 역프로그래밍할 수 있다는 사실은 구별해야 합니다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "StemBook / NCBI Bookshelf",
+      "ref": "Mechanisms regulating stem cell polarity and the specification of asymmetric divisions",
+      "quote": "symmetric renewing divisions",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK27028/",
+      "evidenceId": "f386b6e8458ed856fddd",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "StemBook / NCBI Bookshelf",
+      "ref": "Mechanisms regulating stem cell polarity and the specification of asymmetric divisions",
+      "quote": "symmetric renewing divisions",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK27028/",
+      "evidenceId": "f386b6e8458ed856fddd",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "StemBook / NCBI Bookshelf",
+      "ref": "Mechanisms regulating stem cell polarity and the specification of asymmetric divisions",
+      "quote": "symmetric renewing divisions",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK27028/",
+      "evidenceId": "f386b6e8458ed856fddd",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "StemBook / NCBI Bookshelf",
+      "ref": "Mechanisms regulating stem cell polarity and the specification of asymmetric divisions",
+      "quote": "symmetric renewing divisions",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK27028/",
+      "evidenceId": "f386b6e8458ed856fddd",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "NIH NIGMS",
+      "ref": "What Are Stem Cells?",
+      "quote": "they can only differentiate into a small subset of cell types",
+      "url": "https://nigms.nih.gov/biobeat/2024/11/what-are-stem-cells",
+      "evidenceId": "3a233026e39ada9f573e",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "NIH NIGMS",
+      "ref": "What Are Stem Cells?",
+      "quote": "they can only differentiate into a small subset of cell types",
+      "url": "https://nigms.nih.gov/biobeat/2024/11/what-are-stem-cells",
+      "evidenceId": "3a233026e39ada9f573e",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "NIH NIGMS",
+      "ref": "What Are Stem Cells?",
+      "quote": "they can only differentiate into a small subset of cell types",
+      "url": "https://nigms.nih.gov/biobeat/2024/11/what-are-stem-cells",
+      "evidenceId": "3a233026e39ada9f573e",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "Cell / PubMed",
+      "ref": "Hanna et al. (2008), Cell 133:250–264",
+      "quote": "Our study provides definite proof for the direct nuclear reprogramming of terminally differentiated adult cells to pluripotency.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18423197/",
+      "evidenceId": "d2bcd843ac5b2b672932",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "Cell / PubMed",
+      "ref": "Hanna et al. (2008), Cell 133:250–264",
+      "quote": "Our study provides definite proof for the direct nuclear reprogramming of terminally differentiated adult cells to pluripotency.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18423197/",
+      "evidenceId": "d2bcd843ac5b2b672932",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "Cell / PubMed",
+      "ref": "Hanna et al. (2008), Cell 133:250–264",
+      "quote": "Our study provides definite proof for the direct nuclear reprogramming of terminally differentiated adult cells to pluripotency.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18423197/",
+      "evidenceId": "d2bcd843ac5b2b672932",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "Cell / PubMed",
+      "ref": "Hanna et al. (2008), Cell 133:250–264",
+      "quote": "Our study provides definite proof for the direct nuclear reprogramming of terminally differentiated adult cells to pluripotency.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18423197/",
+      "evidenceId": "d2bcd843ac5b2b672932",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Original question image and canonical answer independently compared; stem-cell division, potency and terminal B-cell reprogramming sources semantically mapped",
+    "contentHash": "646dd524fae5a18bf145da913e94f41c6fc4ef091c04e2a3817f87971fa53503"
+  }
+}

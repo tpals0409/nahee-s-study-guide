@@ -1,0 +1,21 @@
+{
+  "id": "492958fbcb2d6e18b9fa",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 2e 6.4 Electronic Structure of Atoms",
+  "url": "https://openstax.org/books/chemistry-2e/pages/6-4-electronic-structure-of-atoms-electron-configurations",
+  "excerpt": "giving a 1s^{2}2s^{2}2p^{6}3s^{1} configuration.",
+  "sourceHash": "d1244e683dc97f6bce540afb6cb13ad418f2b78ad460cac424978b26e23728b0",
+  "cacheSourceId": "2522d8dfd400a51e949a",
+  "retrievedAt": "2026-11-06T20:16:49.093284+00:00",
+  "reviewedMappings": {
+    "2016-3-14:0": "본문 33·51~52행 저준위 채움과 86~93행 Na 전자배치 및 다음 원소 비교. 바닥상태 중성 원자에서 2p+3s 전자수 7은 2p6 3s1인 Na. 원자번호 11, 3주기, 최고 점유 n=3. 3s1 하나만 홀전자이고 나머지 완전 점유.",
+    "2016-3-14:1": "본문 33·51~52행 저준위 채움과 86~93행 Na 전자배치 및 다음 원소 비교. 바닥상태 중성 원자에서 2p+3s 전자수 7은 2p6 3s1인 Na. 원자번호 11, 3주기, 최고 점유 n=3. 3s1 하나만 홀전자이고 나머지 완전 점유.",
+    "2016-3-14:2": "본문 33·51~52행 저준위 채움과 86~93행 Na 전자배치 및 다음 원소 비교. 바닥상태 중성 원자에서 2p+3s 전자수 7은 2p6 3s1인 Na. 원자번호 11, 3주기, 최고 점유 n=3. 3s1 하나만 홀전자이고 나머지 완전 점유.",
+    "2016-3-14:3": "본문 33·51~52행 저준위 채움과 86~93행 Na 전자배치 및 다음 원소 비교. 바닥상태 중성 원자에서 2p+3s 전자수 7은 2p6 3s1인 Na. 원자번호 11, 3주기, 최고 점유 n=3. 3s1 하나만 홀전자이고 나머지 완전 점유.",
+    "2016-3-14:4": "본문 33·51~52행 저준위 채움과 86~93행 Na 전자배치 및 다음 원소 비교. 바닥상태 중성 원자에서 2p+3s 전자수 7은 2p6 3s1인 Na. 원자번호 11, 3주기, 최고 점유 n=3. 3s1 하나만 홀전자이고 나머지 완전 점유.",
+    "2016-3-14:5": "본문 33·51~52행 저준위 채움과 86~93행 Na 전자배치 및 다음 원소 비교. 바닥상태 중성 원자에서 2p+3s 전자수 7은 2p6 3s1인 Na. 원자번호 11, 3주기, 최고 점유 n=3. 3s1 하나만 홀전자이고 나머지 완전 점유."
+  },
+  "retrievalMethod": "web open: directly reviewed quantum-number rules and sodium configuration",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

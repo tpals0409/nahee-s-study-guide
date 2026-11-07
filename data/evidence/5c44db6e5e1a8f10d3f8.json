@@ -1,0 +1,21 @@
+{
+  "id": "5c44db6e5e1a8f10d3f8",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "44.3 Terrestrial Biomes",
+  "url": "https://openstax.org/books/biology-2e/pages/44-3-terrestrial-biomes",
+  "excerpt": "Savannas are grasslands with scattered trees",
+  "sourceHash": "6edb7639ce6e70fac0b973cfbef5c3625e33ce6b111589cd88d9f92d0ac64a6f",
+  "cacheSourceId": "7dc790157d01940d1a00",
+  "retrievedAt": "2026-11-06T22:44:39.001242+00:00",
+  "reviewedMappings": {
+    "2019-3-28:0": "사바나 초본 우점으로 ㄱ 거짓, 열대우림 활엽상록수와 온대낙엽수림 낙엽성 목본으로 ㄴ·ㄷ 참.",
+    "2019-3-28:1": "사바나는 풀과 드문 수목이 특징이므로 ㄱ 배제.",
+    "2019-3-28:2": "열대우림의 연중 상록 활엽 식생으로 ㄴ 참이나 ㄷ 누락.",
+    "2019-3-28:3": "온대낙엽수림 가을 낙엽·겨울 무엽 특성으로 ㄷ 참이나 ㄴ 누락.",
+    "2019-3-28:4": "ㄱ 거짓이며 옳은 ㄷ 누락.",
+    "2019-3-28:5": "열대우림과 온대낙엽수림 식생 대응이 모두 맞아 ㄴ·ㄷ 선택."
+  },
+  "retrievalMethod": "Direct web find: tropical broadleaf evergreen vegetation at 43, savanna grasses/forbs at 54–56, temperate deciduous dominance and fall leaf loss at 75–79. Independently matched each statement to the appropriate biome.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "22848d9cc09700901c18",
+  "kind": "science",
+  "source": "National Weather Service",
+  "ref": "NWS Glossary: Lapse Rate",
+  "url": "https://marine.weather.gov/glossary.php?word=lapse+rate",
+  "excerpt": "dependent on parcel temperature and pressure",
+  "sourceHash": "12bbfa561d6f663dfc896ed78377c089a641af6572c2b0961fa96665fbe70fe3",
+  "cacheSourceId": "db4575836112f965bd5e",
+  "retrievedAt": "2026-11-06T23:40:14.098266+00:00",
+  "reviewedMappings": {
+    "2020-3-36:3": "건조 감률 약10과 B=1 km, C=1.5 km의 원문 높이로 C>0 도출.",
+    "2020-3-36:4": "불포화 하강의 건조 단열 승온과 포화 상승을 구분."
+  },
+  "retrievalMethod": "Direct web open; reviewed lines 0–9: dry rate 9.8 C/km and variable saturated rate; used rounded 10 C/km only as approximation.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

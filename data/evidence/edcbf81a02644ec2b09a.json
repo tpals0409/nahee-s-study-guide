@@ -1,0 +1,16 @@
+{
+  "id": "edcbf81a02644ec2b09a",
+  "kind": "science",
+  "source": "한국학중앙연구원",
+  "ref": "한국민족문화대백과사전 — 지질",
+  "url": "https://encykorea.aks.ac.kr/Article/E0054408",
+  "excerpt": "한반도의 동해안을 따라 화산활동을 동반한 퇴적분지가 생성되었다.",
+  "sourceHash": "d30b95c3e1c32a417125f235f21ecd7b2005d6d12458fd52a255e61218aabc5e",
+  "cacheSourceId": "7a1b763859308eaefbd1",
+  "retrievedAt": "2026-11-06T15:59:03.052101+00:00",
+  "reviewedMappings": {
+    "2010-3-34:5": "올리고세~마이오세 동해 형성 관련 퇴적분지 및 포항·장기·감포 제3기 화산암 분포 문맥 확인. 동해안의 주요 분포만 설명하고 제주·연천 상세 나열 삭제."
+  },
+  "retrievalMethod": "web.find: 경기 편마암복합체, 제3기 화성활동 및 지각변동 문맥 확인",
+  "sourceHashScope": "Selected excerpts only"
+}

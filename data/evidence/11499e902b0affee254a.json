@@ -1,0 +1,21 @@
+{
+  "id": "11499e902b0affee254a",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "14.6 Buffers",
+  "url": "https://openstax.org/books/chemistry-2e/pages/14-6-buffers",
+  "excerpt": "This equation relates the pH, the ionization constant of a weak acid, and the concentrations of the weak conjugate acid-base pair",
+  "sourceHash": "92a2088a824d5dd238becb4b3afbc9e644583ce570e94175ab42dc2499e01f38",
+  "cacheSourceId": "60d8c0524403a9fbce9d",
+  "retrievedAt": "2026-11-06T22:35:38.986479+00:00",
+  "reviewedMappings": {
+    "2019-3-17:0": "출처의 평형식에 Ka와 농도비를 적용하여 pH=4−log2=3.7을 독립 계산하고 평형 농도 보정도 확인.",
+    "2019-3-17:1": "pH 2.3에 필요한 짝염기/산 비 10^(-1.7)은 주어진 0.5와 다름.",
+    "2019-3-17:2": "Ka[HA]/[A⁻]=2×10⁻⁴에서 pH 3.7을 계산.",
+    "2019-3-17:3": "pH=pKa에는 평형 농도비 1이 필요하나 이 문제는 약 0.5임.",
+    "2019-3-17:4": "pH 4.3에는 짝염기/산 비 약 2가 필요하므로 주어진 비와 반대임.",
+    "2019-3-17:5": "pH 5에는 짝염기/산 비 10이 필요하므로 주어진 0.5와 다름."
+  },
+  "retrievalMethod": "Direct web open/find: buffer definition at 29, equilibrium and Henderson–Hasselbalch equations and approximation at 142–156. Independently solved the quadratic and checked all answer choices.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

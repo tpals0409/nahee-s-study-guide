@@ -1,0 +1,151 @@
+{
+  "id": "2024-3-20",
+  "summary": "정답은 ①, 28입니다. 완충 용액에서 별도의 F⁻·HF·X²⁺ 공급이 없는 통상적인 용해도 모형을 적용합니다. 평형 II에서 x=[HF]/[F⁻]=[H⁺]/Ka=7입니다. 물질 수지 [HF]+[F⁻]=2z로부터 [F⁻]=z/4이고, 두 평형의 Ksp를 비교하면 4y³=z³/16이므로 z/y=4입니다. 따라서 xz/y=28입니다.",
+  "choices": [
+    "28: 정답입니다. 평형 II에서 x = 7이고, 두 평형의 K_sp 식에서 (z/y)³ = 64이므로 z/y = 4입니다. 따라서 x×z/y = 28입니다.",
+    "35: 오답입니다. x = 7이 맞더라도 z/y가 5여야 나오는 값인데, 계산된 z/y는 4입니다.",
+    "42: 오답입니다. z/y = 6이 되어야 나오는 값입니다. 물질 수지 [HF] + [F⁻] = 2z를 올바르게 적용하면 이 값이 나오지 않습니다.",
+    "49는 옳지 않습니다. x=7일 때 49가 되려면 z/y=7이어야 하지만, 두 용해도곱 식은 (z/y)³=64, 즉 z/y=4를 줍니다.",
+    "56: 오답입니다. z/y = 8, 즉 (z/y)³ = 512가 되어야 나오는 값입니다. 실제로는 (z/y)³ = 64입니다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §15.1, solubility product and dissolution stoichiometry",
+      "quote": "The Solubility Product",
+      "url": "https://openstax.org/books/chemistry-2e/pages/15-1-precipitation-and-dissolution",
+      "evidenceId": "733ceec569c18ad8646d",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §15.1, solubility product and dissolution stoichiometry",
+      "quote": "The Solubility Product",
+      "url": "https://openstax.org/books/chemistry-2e/pages/15-1-precipitation-and-dissolution",
+      "evidenceId": "733ceec569c18ad8646d",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §15.1, solubility product and dissolution stoichiometry",
+      "quote": "The Solubility Product",
+      "url": "https://openstax.org/books/chemistry-2e/pages/15-1-precipitation-and-dissolution",
+      "evidenceId": "733ceec569c18ad8646d",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §15.1, solubility product and dissolution stoichiometry",
+      "quote": "The Solubility Product",
+      "url": "https://openstax.org/books/chemistry-2e/pages/15-1-precipitation-and-dissolution",
+      "evidenceId": "733ceec569c18ad8646d",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §15.1, solubility product and dissolution stoichiometry",
+      "quote": "The Solubility Product",
+      "url": "https://openstax.org/books/chemistry-2e/pages/15-1-precipitation-and-dissolution",
+      "evidenceId": "733ceec569c18ad8646d",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §15.1, solubility product and dissolution stoichiometry",
+      "quote": "The Solubility Product",
+      "url": "https://openstax.org/books/chemistry-2e/pages/15-1-precipitation-and-dissolution",
+      "evidenceId": "733ceec569c18ad8646d",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 14.3 Relative Strengths of Acids and Bases",
+      "quote": "where the concentrations are those at equilibrium.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/14-3-relative-strengths-of-acids-and-bases",
+      "evidenceId": "8c19b4b5de2e6b96a0b0",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 14.3 Relative Strengths of Acids and Bases",
+      "quote": "where the concentrations are those at equilibrium.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/14-3-relative-strengths-of-acids-and-bases",
+      "evidenceId": "8c19b4b5de2e6b96a0b0",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 14.3 Relative Strengths of Acids and Bases",
+      "quote": "where the concentrations are those at equilibrium.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/14-3-relative-strengths-of-acids-and-bases",
+      "evidenceId": "8c19b4b5de2e6b96a0b0",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 14.3 Relative Strengths of Acids and Bases",
+      "quote": "where the concentrations are those at equilibrium.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/14-3-relative-strengths-of-acids-and-bases",
+      "evidenceId": "8c19b4b5de2e6b96a0b0",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 14.3 Relative Strengths of Acids and Bases",
+      "quote": "where the concentrations are those at equilibrium.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/14-3-relative-strengths-of-acids-and-bases",
+      "evidenceId": "8c19b4b5de2e6b96a0b0",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 14.3 Relative Strengths of Acids and Bases",
+      "quote": "where the concentrations are those at equilibrium.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/14-3-relative-strengths-of-acids-and-bases",
+      "evidenceId": "8c19b4b5de2e6b96a0b0",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Original equilibrium table and exclusions inspected; exact ratio calculation and numerical Ksp/Ka substitution; direct OpenStax definitions; no initial common-ion assumption explicit",
+    "contentHash": "12b6a8c2fff1ac060252543be8d3e65d9883f6b4e7572697ea2ac9f3afcdcb64"
+  }
+}

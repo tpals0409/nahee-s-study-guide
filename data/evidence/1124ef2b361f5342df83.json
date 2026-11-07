@@ -1,0 +1,17 @@
+{
+  "id": "1124ef2b361f5342df83",
+  "kind": "science",
+  "source": "BCcampus / Steven Earle",
+  "ref": "Physical Geology 2e 2.6 Mineral Properties",
+  "url": "https://opentextbc.ca/physicalgeology2ed/chapter/2-6-mineral-properties/",
+  "excerpt": "the orientation of weaknesses within the lattice",
+  "sourceHash": "deddaa2facb9e4a97354d3ff2b2f07038c5ff5a2a0457675671a901a95a14ad3",
+  "cacheSourceId": "1cea1c900192a4afc8e0",
+  "retrievedAt": "2026-11-07T02:47:37.607052+00:00",
+  "reviewedMappings": {
+    "2024-3-33:4": "Density differs between mineral species; cleavage reflects atomic arrangement and weak lattice orientations. Supports excluding density/cleavage as the characteristic grain-size effect of cooling, without denying all possible indirect effects.",
+    "2024-3-33:5": "Density differs between mineral species; cleavage reflects atomic arrangement and weak lattice orientations. Supports excluding density/cleavage as the characteristic grain-size effect of cooling, without denying all possible indirect effects."
+  },
+  "retrievalMethod": "Direct Density and Cleavage and Fracture subsections reviewed.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

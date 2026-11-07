@@ -1,0 +1,174 @@
+{
+  "summary": "거리지수 m − M = 5log d − 5(d는 pc 단위)로 각 별의 거리를 구하면 A는 100 pc, B는 10 pc, C는 약 4 pc입니다. A의 연주시차는 1/100 = 0.01″이므로 ㄱ만 옳습니다. 겉보기 등급이 가장 작은 C가 가장 밝게 보이고, 가장 먼 별은 A이므로 ㄴ과 ㄷ은 틀립니다. 정답은 'ㄱ'입니다.",
+  "choices": [
+    "'ㄱ' 단독: 정답입니다. A의 거리지수는 m − M = 4 − (−1) = 5입니다. 따라서 log d = (5 + 5)/5 = 2이고 d = 100 pc입니다. 연주시차는 p = 1/d = 0.01″이므로 ㄱ은 옳습니다. ㄴ과 ㄷ은 아래 설명처럼 틀리므로 ㄱ만 고른 이 선지가 정답입니다.",
+    "'ㄴ' 단독: 오답입니다. 겉보기 등급은 값이 작을수록 밝게 보입니다. 세 별의 겉보기 등급은 A 4, B 3, C 2이므로 가장 밝게 보이는 별은 C입니다. C는 B보다 1등급 작아 약 2.5배 밝게 보입니다. 따라서 ㄴ은 틀렸고, 옳은 ㄱ도 빠져 있습니다.",
+    "'ㄱ, ㄷ': 오답입니다. ㄱ은 옳습니다. 그러나 거리지수가 클수록 먼 별입니다. 거리지수는 A가 5, B가 0, C가 −2이므로 가장 먼 별은 A(100 pc)입니다. C는 약 3.98 pc로 가장 가깝습니다. 따라서 ㄷ은 틀렸습니다.",
+    "'ㄴ, ㄷ': 오답입니다. 가장 밝게 보이는 별은 B가 아니라 C이고, 가장 멀리 있는 별은 C가 아니라 A입니다. 두 보기가 모두 틀렸고, 옳은 ㄱ은 빠져 있습니다.",
+    "'ㄱ, ㄴ, ㄷ': 오답입니다. ㄱ은 옳지만 ㄴ(가장 밝게 보이는 별은 C)과 ㄷ(가장 먼 별은 A)이 틀리므로 세 보기를 모두 고를 수 없습니다."
+  ],
+  "id": "2016-3-39",
+  "lawNote": "성간 소광을 무시하는 문제의 기본 모형에서 m−M=5log₁₀d−5를 사용합니다(d: pc). 연주시차 p는 각초 단위이며 p=1/d입니다. 겉보기 등급만으로 거리를 비교하지 않고 절대 등급과의 차이를 함께 사용해야 합니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "University of Nebraska–Lincoln",
+      "ref": "Distance Modulus — Cosmic Distance Ladder",
+      "quote": "m − M = −5 + 5 log",
+      "url": "https://astro.unl.edu/naap/distance/distance_modulus.html",
+      "evidenceId": "f3fbade7ee3af9bd8a92",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "University of Nebraska–Lincoln",
+      "ref": "Distance Modulus — Cosmic Distance Ladder",
+      "quote": "m − M = −5 + 5 log",
+      "url": "https://astro.unl.edu/naap/distance/distance_modulus.html",
+      "evidenceId": "f3fbade7ee3af9bd8a92",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "University of Nebraska–Lincoln",
+      "ref": "Distance Modulus — Cosmic Distance Ladder",
+      "quote": "m − M = −5 + 5 log",
+      "url": "https://astro.unl.edu/naap/distance/distance_modulus.html",
+      "evidenceId": "f3fbade7ee3af9bd8a92",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "University of Nebraska–Lincoln",
+      "ref": "Distance Modulus — Cosmic Distance Ladder",
+      "quote": "m − M = −5 + 5 log",
+      "url": "https://astro.unl.edu/naap/distance/distance_modulus.html",
+      "evidenceId": "f3fbade7ee3af9bd8a92",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "University of Nebraska–Lincoln",
+      "ref": "Distance Modulus — Cosmic Distance Ladder",
+      "quote": "m − M = −5 + 5 log",
+      "url": "https://astro.unl.edu/naap/distance/distance_modulus.html",
+      "evidenceId": "f3fbade7ee3af9bd8a92",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Astronomy 2e — 19.2 Surveying the Stars",
+      "quote": "is just the reciprocal of its parallax",
+      "url": "https://openstax.org/books/astronomy-2e/pages/19-2-surveying-the-stars",
+      "evidenceId": "b467c6ca374518e41e65",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Astronomy 2e — 19.2 Surveying the Stars",
+      "quote": "is just the reciprocal of its parallax",
+      "url": "https://openstax.org/books/astronomy-2e/pages/19-2-surveying-the-stars",
+      "evidenceId": "b467c6ca374518e41e65",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Astronomy 2e — 19.2 Surveying the Stars",
+      "quote": "is just the reciprocal of its parallax",
+      "url": "https://openstax.org/books/astronomy-2e/pages/19-2-surveying-the-stars",
+      "evidenceId": "b467c6ca374518e41e65",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Astronomy 2e — 19.2 Surveying the Stars",
+      "quote": "is just the reciprocal of its parallax",
+      "url": "https://openstax.org/books/astronomy-2e/pages/19-2-surveying-the-stars",
+      "evidenceId": "b467c6ca374518e41e65",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Astronomy 2e — 17.1 The Brightness of Stars",
+      "quote": "we receive about 2.5 times as much light from a magnitude 2.0 star as from a magnitude 3.0 star.",
+      "url": "https://openstax.org/books/astronomy-2e/pages/17-1-the-brightness-of-stars",
+      "evidenceId": "f3f7d7004a5ca02280db",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Astronomy 2e — 17.1 The Brightness of Stars",
+      "quote": "we receive about 2.5 times as much light from a magnitude 2.0 star as from a magnitude 3.0 star.",
+      "url": "https://openstax.org/books/astronomy-2e/pages/17-1-the-brightness-of-stars",
+      "evidenceId": "f3f7d7004a5ca02280db",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Astronomy 2e — 17.1 The Brightness of Stars",
+      "quote": "we receive about 2.5 times as much light from a magnitude 2.0 star as from a magnitude 3.0 star.",
+      "url": "https://openstax.org/books/astronomy-2e/pages/17-1-the-brightness-of-stars",
+      "evidenceId": "f3f7d7004a5ca02280db",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Astronomy 2e — 17.1 The Brightness of Stars",
+      "quote": "we receive about 2.5 times as much light from a magnitude 2.0 star as from a magnitude 3.0 star.",
+      "url": "https://openstax.org/books/astronomy-2e/pages/17-1-the-brightness-of-stars",
+      "evidenceId": "f3f7d7004a5ca02280db",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Astronomy 2e — 17.1 The Brightness of Stars",
+      "quote": "we receive about 2.5 times as much light from a magnitude 2.0 star as from a magnitude 3.0 star.",
+      "url": "https://openstax.org/books/astronomy-2e/pages/17-1-the-brightness-of-stars",
+      "evidenceId": "f3f7d7004a5ca02280db",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "Original table and statements visually checked; independent distance-modulus arithmetic gives 100,10,3.9810717 pc and p_A=0.01 arcsec. Magnitude ordering checked. Stored answer 1 agrees.",
+    "contentHash": "a9b32e6a26a23934e5daaaa490aab225181651a95bc08f173273357725769eda"
+  }
+}

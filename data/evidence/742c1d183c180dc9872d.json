@@ -1,0 +1,19 @@
+{
+  "id": "742c1d183c180dc9872d",
+  "kind": "science",
+  "source": "Wong · Journal of Experimental & Clinical Cancer Research (2011)",
+  "ref": "30:87, sections 2.1–2.3",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3197541/",
+  "excerpt": "Caspases are central to the mechanism of apoptosis as they are both the initiators and executioners.",
+  "sourceHash": "2f777b75e1f9d2bc79ce17ae067b79a39108129715dd61b9a090341ff417b5ab",
+  "cacheSourceId": "5db9c10835269cb9a233",
+  "retrievedAt": "2026-11-06T15:40:56.682190+00:00",
+  "reviewedMappings": {
+    "2010-3-22:2": "논문 원문 2.1 세포부피 감소·이차괴사, 2.2 DNA 180–200 bp 배수 절단과 예외, 2.3 카스파제 작용, 초록·도입 암의 사멸회피 확인. 상세 경로명은 생략하고 전형적 특징과 예외를 구분.",
+    "2010-3-22:3": "논문 원문 2.1 세포부피 감소·이차괴사, 2.2 DNA 180–200 bp 배수 절단과 예외, 2.3 카스파제 작용, 초록·도입 암의 사멸회피 확인. 상세 경로명은 생략하고 전형적 특징과 예외를 구분.",
+    "2010-3-22:4": "논문 원문 2.1 세포부피 감소·이차괴사, 2.2 DNA 180–200 bp 배수 절단과 예외, 2.3 카스파제 작용, 초록·도입 암의 사멸회피 확인. 상세 경로명은 생략하고 전형적 특징과 예외를 구분.",
+    "2010-3-22:5": "논문 원문 2.1 세포부피 감소·이차괴사, 2.2 DNA 180–200 bp 배수 절단과 예외, 2.3 카스파제 작용, 초록·도입 암의 사멸회피 확인. 상세 경로명은 생략하고 전형적 특징과 예외를 구분."
+  },
+  "retrievalMethod": "web tool open; abstract and sections 2.1–2.3.4 inspected",
+  "sourceHashScope": "reviewed excerpt only; hash is excerpt hash"
+}

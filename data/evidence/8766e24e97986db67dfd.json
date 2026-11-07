@@ -1,0 +1,19 @@
+{
+  "id": "8766e24e97986db67dfd",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "7.4 Oxidative Phosphorylation",
+  "url": "https://openstax.org/books/biology-2e/pages/7-4-oxidative-phosphorylation",
+  "excerpt": "Thus, oxygen is the final electron acceptor in the electron transport chain.",
+  "sourceHash": "ce60517c7edc9984e2b07f194b7b475bb7c4fe8868416db0df7da05fc645fa07",
+  "cacheSourceId": "77bfaeeccad475d00998",
+  "retrievedAt": "2026-11-06T20:30:03.420322+00:00",
+  "reviewedMappings": {
+    "2016-3-24:0": "본문29–37,53–61 산소최종수용체,물생성,산화적인산화 및H+막간공간→기질 흐름 확인.",
+    "2016-3-24:2": "본문33,37,61에서 산소가전자수용체,물이생성물이므로 선지거짓.",
+    "2016-3-24:3": "본문53–60 전자전달로H+기울기형성후ATP합성효소작용=산화적인산화,기질수준인산화와구별.",
+    "2016-3-24:5": "본문29–30,53–58에 막간공간H+높음,기질낮음. pH=-log[H+]에따라기질pH높음. 실제구동력은 농도및전위차를포함한전기화학적기울기."
+  },
+  "retrievalMethod": "Direct web open and targeted find; relevant cellular respiration sections reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

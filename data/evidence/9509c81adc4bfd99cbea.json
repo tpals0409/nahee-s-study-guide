@@ -1,0 +1,19 @@
+{
+  "id": "9509c81adc4bfd99cbea",
+  "kind": "science",
+  "source": "OpenStax Astronomy 2e",
+  "ref": "2.1 The Sky Above",
+  "url": "https://openstax.org/books/astronomy-2e/pages/2-1-the-sky-above",
+  "excerpt": "equal to the observer’s latitude.",
+  "sourceHash": "25b788788fc97db97d069c83ea4627c0a9e7aaea662e6ca7061f89d4fb643c36",
+  "cacheSourceId": "12b71d6c7d05e0be154f",
+  "retrievedAt": "2026-11-07T01:26:08.695483+00:00",
+  "reviewedMappings": {
+    "2022-3-39:0": "천구 북극 고도=위도, 북극성의 근접 위치, 황도/적도 기울기를 확인. 자오선에서 천정거리 |위도−적위|로 남중고도를 독립 유도.",
+    "2022-3-39:1": "천구 북극 고도=위도, 북극성의 근접 위치, 황도/적도 기울기를 확인. 자오선에서 천정거리 |위도−적위|로 남중고도를 독립 유도.",
+    "2022-3-39:2": "천구 북극 고도=위도, 북극성의 근접 위치, 황도/적도 기울기를 확인. 자오선에서 천정거리 |위도−적위|로 남중고도를 독립 유도.",
+    "2022-3-39:5": "천구 북극 고도=위도, 북극성의 근접 위치, 황도/적도 기울기를 확인. 자오선에서 천정거리 |위도−적위|로 남중고도를 독립 유도."
+  },
+  "retrievalMethod": "Direct chapter open and find; celestial poles paragraphs and Figure 2.7 axial tilt/ecliptic geometry.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "6c82932051e5059ac048",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 2e, 12.4: Integrated Rate Laws",
+  "url": "https://openstax.org/books/chemistry-2e/pages/12-4-integrated-rate-laws",
+  "excerpt": "The integrated rate law for second-order reactions has the form of the equation of a straight line",
+  "sourceHash": "11e74076fb2bdf7dfb7364da13fb9953f051e2cd5424e55ff99683252c76c814",
+  "cacheSourceId": "a427de62e4b59c62a244",
+  "retrievedAt": "2026-11-07T03:06:18.230836+00:00",
+  "reviewedMappings": {
+    "2025-3-12:0": "역농도 대 시간 직선의 2차 반응 모델을 확인. 고정 T에서 역부분압력도 선형. 표의 2.67atm은 모델 2.666…atm과 표시 정밀도에서 일치하며 기울기를 압력 기반 계수로 구분.",
+    "2025-3-12:1": "역농도 대 시간 직선의 2차 반응 모델을 확인. 고정 T에서 역부분압력도 선형. 표의 2.67atm은 모델 2.666…atm과 표시 정밀도에서 일치하며 기울기를 압력 기반 계수로 구분.",
+    "2025-3-12:2": "역농도 대 시간 직선의 2차 반응 모델을 확인. 고정 T에서 역부분압력도 선형. 표의 2.67atm은 모델 2.666…atm과 표시 정밀도에서 일치하며 기울기를 압력 기반 계수로 구분.",
+    "2025-3-12:3": "역농도 대 시간 직선의 2차 반응 모델을 확인. 고정 T에서 역부분압력도 선형. 표의 2.67atm은 모델 2.666…atm과 표시 정밀도에서 일치하며 기울기를 압력 기반 계수로 구분.",
+    "2025-3-12:4": "역농도 대 시간 직선의 2차 반응 모델을 확인. 고정 T에서 역부분압력도 선형. 표의 2.67atm은 모델 2.666…atm과 표시 정밀도에서 일치하며 기울기를 압력 기반 계수로 구분.",
+    "2025-3-12:5": "역농도 대 시간 직선의 2차 반응 모델을 확인. 고정 T에서 역부분압력도 선형. 표의 2.67atm은 모델 2.666…atm과 표시 정밀도에서 일치하며 기울기를 압력 기반 계수로 구분."
+  },
+  "retrievalMethod": "Direct relevant equations and graphical reaction-order or gas-mixture sections reviewed.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

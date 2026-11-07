@@ -1,0 +1,16 @@
+{
+  "id": "83591b028376382e0f1b",
+  "kind": "science",
+  "source": "NASA",
+  "ref": "NASA Ozone Watch — Ozone facts",
+  "url": "https://ozonewatch.gsfc.nasa.gov/facts/NH.html",
+  "excerpt": "At that altitude, ozone concentration can be as high as 15 parts per million (0.0015 percent).",
+  "sourceHash": "ad5baabbc9331d57f55baeb78fe5fa91c84a11f0997bb2239430cd4ac9cdfdf6",
+  "cacheSourceId": "5f18a117f5a06d8dacff",
+  "retrievedAt": "2026-11-06T17:40:23.848872+00:00",
+  "reviewedMappings": {
+    "2012-3-37:0": "공통 보기 대조: NOAA 열권 고도별 온도 상승과 대류권 두께의 위도 차이; NASA 성층권 오존 ppm 수준 및 15ppm=0.0015%; MAUSAM 2002 원저 초록의 대류권계면 높이 계절 변화 관측. 세 자료를 결합하여 ㄱㄴ 거짓, ㄷ 참 판단."
+  },
+  "retrievalMethod": "web.open; relevant thermosphere/troposphere and stratospheric ozone paragraphs directly reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

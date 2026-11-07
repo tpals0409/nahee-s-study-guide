@@ -1,0 +1,18 @@
+{
+  "id": "c0af45c158e135e35284",
+  "kind": "science",
+  "source": "Georgia State University / HyperPhysics",
+  "ref": "Bowen Reaction Series",
+  "url": "https://www.hyperphysics.phy-astr.gsu.edu/hbase/Geophys/Bowen.html",
+  "excerpt": "The melting temperatures of pure minerals may be quite different.",
+  "sourceHash": "aa31e7247a7ecb4a46abf5e3510e3b8ef326bc6499932376e603c13aebc0ad3f",
+  "cacheSourceId": "d217ddc668278da65724",
+  "retrievedAt": "2026-11-07T02:46:46.599217+00:00",
+  "reviewedMappings": {
+    "2024-3-32:0": "Indexed university explanation reviewed; direct open 502. Distinguishes crystallization in mixed magma from pure-mineral melting points; removed unsupported numerical endmember melting temperatures.",
+    "2024-3-32:1": "Indexed university explanation reviewed; direct open 502. Distinguishes crystallization in mixed magma from pure-mineral melting points; removed unsupported numerical endmember melting temperatures.",
+    "2024-3-32:2": "Indexed university explanation reviewed; direct open 502. Distinguishes crystallization in mixed magma from pure-mineral melting points; removed unsupported numerical endmember melting temperatures."
+  },
+  "retrievalMethod": "Indexed university explanation reviewed; direct open 502. Distinguishes crystallization in mixed magma from pure-mineral melting points; removed unsupported numerical endmember melting temperatures.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

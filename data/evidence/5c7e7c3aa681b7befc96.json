@@ -1,0 +1,21 @@
+{
+  "id": "5c7e7c3aa681b7befc96",
+  "kind": "science",
+  "source": "Australian Museum",
+  "ref": "Mineral groups",
+  "url": "https://australian.museum/learn/minerals/what-are-minerals/mineral-groups/",
+  "excerpt": "Dolomite* CaMg(CO3)2(hex)",
+  "sourceHash": "8cd948fcbff7b5ec3e50dd33fb5a22a5ccbb34db37a7444251236e4996b8f3d1",
+  "cacheSourceId": "e5d10369ec52299f6c8b",
+  "retrievedAt": "2026-11-07T00:26:56.008945+00:00",
+  "reviewedMappings": {
+    "2021-3-31:0": "각 분류 목록을 대조하여 다섯 보기 중 Dolomite만 Carbonates에 속함을 확인.",
+    "2021-3-31:1": "Halides 목록에 Halite NaCl 확인.",
+    "2021-3-31:2": "Sulfides 목록에 Chalcopyrite CuFeS2 확인.",
+    "2021-3-31:3": "Silicates 아래 Amphibole Group 및 다양한 조성 확인. 초안의 단일 화학식 대표성 확대를 피함.",
+    "2021-3-31:4": "Native elements and alloys 목록에 Diamond C 확인. 탄소 원소와 탄산 이온을 구분.",
+    "2021-3-31:5": "Carbonates 목록의 Dolomite CaMg(CO3)2 확인. 화학식의 CO3 음이온단으로 분류 설명."
+  },
+  "retrievalMethod": "Direct Australian Museum page review: Native elements, Sulfides, Halides, Carbonates and Silicates/Amphibole Group lists, with formulas.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

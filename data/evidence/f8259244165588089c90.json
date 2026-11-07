@@ -1,0 +1,14 @@
+{
+  "id": "f8259244165588089c90",
+  "kind": "science",
+  "source": "OpenStax · Biology 2e",
+  "ref": "46.2 Energy Flow through Ecosystems",
+  "url": "https://openstax.org/books/biology-2e/pages/46-2-energy-flow-through-ecosystems",
+  "excerpt": "the ecosystem loses large amounts of energy.",
+  "sourceHash": "93c867d1a04b8a2eb5d582ac7301f3da3b4eff1a718436151c91686614bdbe83",
+  "cacheSourceId": "68e0a7440855d1e4e0fa",
+  "retrievedAt": "2026-11-06T15:03:17.751814+00:00",
+  "reviewedMappings": {
+    "2010-3-27:5": "단계 사이 대사열 손실과 다양한 전달효율 예시 확인. 일부만 다음 단계 전달되며 고정 10% 단정 삭제."
+  }
+}

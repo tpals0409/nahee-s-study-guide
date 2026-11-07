@@ -1,0 +1,185 @@
+{
+  "id": "2015-3-32",
+  "summary": "신생대에 해당하는 것은 ㄷ(홍해 형성)과 ㅁ(백두산·제주도·철원–전곡 일대의 화산활동)이므로 정답은 ④입니다. ㄱ의 판게아 분리 시작과 ㄹ의 대보조산운동은 중생대, ㄴ의 대표적인 대규모 탄층 형성은 고생대 후기의 지질사와 연결됩니다.",
+  "choices": [
+    "ㄱ·ㄴ 모두 신생대 사건으로 고르지 않습니다. 판게아의 분리는 중생대에 시작되었으며, 한반도의 대표적인 주요 탄층은 고생대 후기의 평안누층군에 포함됩니다.",
+    "ㄷ은 신생대 사건이지만 ㄴ은 아닙니다. 아프리카와 아라비아의 분리로 이어진 홍해의 열개는 신생대에 시작되었습니다. 반면 주요 탄층을 포함하는 평안누층군은 고생대 후기 지질사와 관련됩니다.",
+    "ㄷ은 맞지만 ㄹ은 틀립니다. 홍해 형성은 신생대의 사건인 반면, 대보조산운동은 중생대 쥐라기의 지각 변동입니다.",
+    "ㄷ·ㅁ이 모두 맞습니다. 홍해 형성은 신생대 사건이며, 백두산·제주도·철원–전곡을 포함한 한탄강 일대에서도 신생대 화산활동이 일어났습니다.",
+    "ㅁ은 맞지만 ㄹ은 틀립니다. 제시된 지역의 화산활동은 신생대에 해당하지만 대보조산운동은 중생대에 해당합니다."
+  ],
+  "lawNote": "ㄴ은 한반도의 대표적인 대규모 탄층 형성 시기를 묻는 지질사적 분류입니다. 신생대에 형성된 석탄층이 한반도에 전혀 없다는 뜻으로 일반화하지 않습니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "U.S. Geological Survey",
+      "ref": "Where did dinosaurs live?",
+      "quote": "During the 165 million years of dinosaur existence this supercontinent slowly broke apart.",
+      "url": "https://www.usgs.gov/faqs/where-did-dinosaurs-live",
+      "evidenceId": "0962d9f852e7d19fd27f",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "U.S. Geological Survey",
+      "ref": "Where did dinosaurs live?",
+      "quote": "During the 165 million years of dinosaur existence this supercontinent slowly broke apart.",
+      "url": "https://www.usgs.gov/faqs/where-did-dinosaurs-live",
+      "evidenceId": "0962d9f852e7d19fd27f",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "대한지질학회",
+      "ref": "한반도 남부의 상부 고생대 평안누층군의 층서와 대비",
+      "quote": "일련의 함탄퇴적층이 후기 고생대의 평안계로 명명되고 연구되었으며",
+      "url": "https://www.jgsk.or.kr/_PR/view/index.php?aidx=10432&bidx=774",
+      "evidenceId": "400a65a8c223b1053254",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "대한지질학회",
+      "ref": "한반도 남부의 상부 고생대 평안누층군의 층서와 대비",
+      "quote": "일련의 함탄퇴적층이 후기 고생대의 평안계로 명명되고 연구되었으며",
+      "url": "https://www.jgsk.or.kr/_PR/view/index.php?aidx=10432&bidx=774",
+      "evidenceId": "400a65a8c223b1053254",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "대한지질학회",
+      "ref": "한반도 남부의 상부 고생대 평안누층군의 층서와 대비",
+      "quote": "일련의 함탄퇴적층이 후기 고생대의 평안계로 명명되고 연구되었으며",
+      "url": "https://www.jgsk.or.kr/_PR/view/index.php?aidx=10432&bidx=774",
+      "evidenceId": "400a65a8c223b1053254",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "U.S. Geological Survey",
+      "ref": "The timing of uplift, volcanism, and rifting peripheral to the Red Sea: A case for passive rifting?",
+      "quote": "alkaline volcanism and rifting beginning about 30–32 Ma",
+      "url": "https://www.usgs.gov/publications/timing-uplift-volcanism-and-rifting-peripheral-red-sea-a-case-passive-rifting",
+      "evidenceId": "a4a3141bf7035a3dcb0a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "U.S. Geological Survey",
+      "ref": "The timing of uplift, volcanism, and rifting peripheral to the Red Sea: A case for passive rifting?",
+      "quote": "alkaline volcanism and rifting beginning about 30–32 Ma",
+      "url": "https://www.usgs.gov/publications/timing-uplift-volcanism-and-rifting-peripheral-red-sea-a-case-passive-rifting",
+      "evidenceId": "a4a3141bf7035a3dcb0a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "U.S. Geological Survey",
+      "ref": "The timing of uplift, volcanism, and rifting peripheral to the Red Sea: A case for passive rifting?",
+      "quote": "alkaline volcanism and rifting beginning about 30–32 Ma",
+      "url": "https://www.usgs.gov/publications/timing-uplift-volcanism-and-rifting-peripheral-red-sea-a-case-passive-rifting",
+      "evidenceId": "a4a3141bf7035a3dcb0a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "U.S. Geological Survey",
+      "ref": "The timing of uplift, volcanism, and rifting peripheral to the Red Sea: A case for passive rifting?",
+      "quote": "alkaline volcanism and rifting beginning about 30–32 Ma",
+      "url": "https://www.usgs.gov/publications/timing-uplift-volcanism-and-rifting-peripheral-red-sea-a-case-passive-rifting",
+      "evidenceId": "a4a3141bf7035a3dcb0a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "Korea University / Journal of Structural Geology",
+      "ref": "The Geounri shear zone in the Paleozoic Taebaeksan Basin of Korea: Tectonic implications",
+      "quote": "the Jurassic Daebo tectonic event represents a thin-skinned contractional deformation in a continental arc setting.",
+      "url": "https://pure.korea.ac.kr/en/publications/the-geounri-shear-zone-in-the-paleozoic-taebaeksan-basin-of-korea/",
+      "evidenceId": "75b75f4ddf58a19ca325",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "Korea University / Journal of Structural Geology",
+      "ref": "The Geounri shear zone in the Paleozoic Taebaeksan Basin of Korea: Tectonic implications",
+      "quote": "the Jurassic Daebo tectonic event represents a thin-skinned contractional deformation in a continental arc setting.",
+      "url": "https://pure.korea.ac.kr/en/publications/the-geounri-shear-zone-in-the-paleozoic-taebaeksan-basin-of-korea/",
+      "evidenceId": "75b75f4ddf58a19ca325",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "Korea University / Journal of Structural Geology",
+      "ref": "The Geounri shear zone in the Paleozoic Taebaeksan Basin of Korea: Tectonic implications",
+      "quote": "the Jurassic Daebo tectonic event represents a thin-skinned contractional deformation in a continental arc setting.",
+      "url": "https://pure.korea.ac.kr/en/publications/the-geounri-shear-zone-in-the-paleozoic-taebaeksan-basin-of-korea/",
+      "evidenceId": "75b75f4ddf58a19ca325",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "국토지리정보원",
+      "ref": "대한민국 국가지도집 청소년판 2022 — 화산 지형",
+      "quote": "신생대 제4기의 화산 활동 결과 백두산, 울릉도, 독도, 제주도, 한탄강 일대 등에 다양한 화산 지형이 만들어졌다.",
+      "url": "https://nationalatlas.ngii.go.kr/pages/page_3808.php",
+      "evidenceId": "388c0fbeadfe9438ebea",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "국토지리정보원",
+      "ref": "대한민국 국가지도집 청소년판 2022 — 화산 지형",
+      "quote": "신생대 제4기의 화산 활동 결과 백두산, 울릉도, 독도, 제주도, 한탄강 일대 등에 다양한 화산 지형이 만들어졌다.",
+      "url": "https://nationalatlas.ngii.go.kr/pages/page_3808.php",
+      "evidenceId": "388c0fbeadfe9438ebea",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "국토지리정보원",
+      "ref": "대한민국 국가지도집 청소년판 2022 — 화산 지형",
+      "quote": "신생대 제4기의 화산 활동 결과 백두산, 울릉도, 독도, 제주도, 한탄강 일대 등에 다양한 화산 지형이 만들어졌다.",
+      "url": "https://nationalatlas.ngii.go.kr/pages/page_3808.php",
+      "evidenceId": "388c0fbeadfe9438ebea",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "원문 이미지 및 지질시대별 사건 대조; 공식 기관 자료와 연구 초록을 보기별 검증",
+    "contentHash": "47e4f8a5cd1c4fc6c2efe1d711fab6d462274ebb154515823f2c2954bcef4c2a"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "ed6a06e1ed3bcc84dc86",
+  "kind": "science",
+  "source": "Halder, Callaerts and Gehring, Science (1995); University of Basel",
+  "ref": "Induction of ectopic eyes by targeted expression of the eyeless gene in Drosophila",
+  "url": "https://edoc.unibas.ch/entities/publication/c0e99c94-f5cf-4d1d-8cc5-cccc48e465be",
+  "excerpt": "ectopic eye structures were induced on the wings, the legs, and on the antennae.",
+  "sourceHash": "c6c40cc32415e88fcc7ae8f237d93c294a4505df1403d31a0261540713f49170",
+  "cacheSourceId": "ec6f5a117c887ceb4e96",
+  "retrievedAt": "2026-11-06T19:44:11.169421+00:00",
+  "reviewedMappings": {
+    "2015-3-27:0": "원 연구 초록에서 ey 전사인자, 표적 이소 발현에 의한 다리 등의 눈 구조와 핵심 조절자 해석을 확인했다. ㄱ과 ㄷ을 지지하되 단독으로 모든 조건에서 작동한다는 일반화는 하지 않는다.",
+    "2015-3-27:1": "원 연구 초록에서 ey 전사인자, 표적 이소 발현에 의한 다리 등의 눈 구조와 핵심 조절자 해석을 확인했다. ㄱ과 ㄷ을 지지하되 단독으로 모든 조건에서 작동한다는 일반화는 하지 않는다.",
+    "2015-3-27:2": "원 연구 초록에서 ey 전사인자, 표적 이소 발현에 의한 다리 등의 눈 구조와 핵심 조절자 해석을 확인했다. ㄱ과 ㄷ을 지지하되 단독으로 모든 조건에서 작동한다는 일반화는 하지 않는다.",
+    "2015-3-27:3": "원 연구 초록에서 ey 전사인자, 표적 이소 발현에 의한 다리 등의 눈 구조와 핵심 조절자 해석을 확인했다. ㄱ과 ㄷ을 지지하되 단독으로 모든 조건에서 작동한다는 일반화는 하지 않는다."
+  },
+  "retrievalMethod": "Direct page read; primary paper abstract or textbook introduction inspected; short excerpt transcribed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

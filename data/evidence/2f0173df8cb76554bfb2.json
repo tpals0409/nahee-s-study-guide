@@ -1,0 +1,22 @@
+{
+  "id": "2f0173df8cb76554bfb2",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 2e §15.1 Precipitation and Dissolution: solubility equilibrium and common ion effect",
+  "url": "https://openstax.org/books/chemistry-2e/pages/15-1-precipitation-and-dissolution",
+  "excerpt": "the solubility of an ionic compound is less in aqueous solutions containing a common ion",
+  "sourceHash": "9c3272b3e9901e582c4cb43095a64b4275660525f0ac7dda46a2a52f93a45d22",
+  "cacheSourceId": "ddc82a5323e80df3acd6",
+  "retrievedAt": "2026-11-06T21:53:13.142927+00:00",
+  "reviewedMappings": {
+    "2011-3-18:0": "과량고체와 포화평형 정의 및 공통이온효과 대조. ㄱ 같은 온도 순수물 첨가후 고체가 남는 재평형은 동일농도. ㄴ oxalate 공통이온 공급으로 감소. ㄷ은 문항 자체의 Ka1,Ka2 식을 역으로 적용: H+ 첨가→HC2O4−,H2C2O4 생성→자유C2O4²− 감소→Ksp 유지 위해 CaC2O4 용해 증가. 가수분해가 있으므로 s²=Ksp를 정확한 항등식으로 쓰지 않음.",
+    "2018-3-16:0": "용해도곱·포화고체·공통이온 절 직접 검토. 문항 자체의 Ksp,Ka 및 H+ 값을 독립 연립: x=2.1544e-4,y=8.579e-4, 공통F 첨가 후 감소. ㄱ참 ㄴㄷ거짓.",
+    "2018-3-16:1": "문항에 주어진 HF 평형상수 식으로 HF/F=H/Ka, 불소 물질수지 F+HF=2y를 독립 도출. alpha=Ka/(Ka+H), y=(Ksp/(4alpha²))^(1/3)>x. 출처가 이 문항의 수치를 직접 제공하는 것은 아님.",
+    "2018-3-16:2": "출처의 용해도곱 및 화학량론 원리를 문항 CaF2에 적용. [F]=2x,4x³=4e-11 ->x=2.1544e-4>1e-4. ㄴ 거짓.",
+    "2018-3-16:3": "출처의 공통 이온 효과를 NaF/F에 적용하면 용해도 감소. 부피불변 가정하에 추가 검산 s(.010+2s)²=4e-11의 근3.99936e-7<x. ㄷ 거짓, ㄱ만 참.",
+    "2018-3-16:4": "x 계산으로 ㄴ 거짓, 공통F 첨가로 용해도 감소하여 ㄷ 거짓. 따라서 이 조합은 오답.",
+    "2018-3-16:5": "독립 연립 계산 및 공통이온 원리에서 ㄱ만 참이므로 세 항목 전체 조합은 오답."
+  },
+  "retrievalMethod": "Direct web open; solubility equilibrium and common-ion sections reviewed; selected verbatim excerpt retained",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

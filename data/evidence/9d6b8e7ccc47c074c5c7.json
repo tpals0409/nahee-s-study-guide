@@ -1,0 +1,16 @@
+{
+  "id": "9d6b8e7ccc47c074c5c7",
+  "kind": "science",
+  "source": "한국학중앙연구원",
+  "ref": "한국민족문화대백과사전 — 태백시, 산업·교통",
+  "url": "https://encykorea.aks.ac.kr/Article/E0058934",
+  "excerpt": "평안누층군에는 질이 좋은 무연탄이 매장되어 있어",
+  "sourceHash": "94c64a2f34491a409f3bff41b0dfcbc1bfbdb794f72bb286794a31b49a9430c7",
+  "cacheSourceId": "ca748282622434ed9e4d",
+  "retrievedAt": "2026-11-06T15:58:24.441575+00:00",
+  "reviewedMappings": {
+    "2010-3-34:3": "태백 탄전의 평안누층군에 무연탄이 매장되어 있다는 직접 진술 확인. 지층의 전체 시대 범위나 해성·육성 반복 등 부가 주장까지 지지하는 것으로 확대하지 않음."
+  },
+  "retrievalMethod": "web.find: 산업·교통, 평안누층군 무연탄 매장 문단 직접 확인",
+  "sourceHashScope": "Selected excerpt only"
+}

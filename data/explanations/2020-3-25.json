@@ -1,0 +1,151 @@
+{
+  "id": "2020-3-25",
+  "summary": "일반적인 플라스미드는 염색체 외 DNA로서 별도의 복제 단위와 조절 체계를 가지며, 보통 세균의 기본적인 생존·증식에 필수적이지 않은 부가 형질을 제공합니다. 따라서 ㄱ과 ㄴ이 옳아 정답은 ③입니다.",
+  "choices": [
+    "① ㄱ: ㄱ은 옳지만 ㄴ도 옳으므로 빠짐없이 고른 답이 아닙니다. 플라스미드는 염색체 외 DNA이며 별도의 복제 조절 체계를 가집니다.",
+    "② ㄴ: ㄴ은 옳지만 ㄱ도 옳습니다. 염색체와 별도로 존재하는 DNA라는 구성상의 특징을 함께 골라야 합니다.",
+    "③ ㄱ, ㄴ: 정답입니다. 플라스미드는 염색체 외 DNA이고 자체 복제 기점과 복제수 조절 체계를 가집니다. 다만 복제에 숙주의 효소와 단백질을 이용하므로 숙주로부터 완전히 독립한다는 뜻은 아닙니다.",
+    "④ ㄴ, ㄷ: ㄷ은 일반적인 플라스미드의 특징으로 틀리고 ㄱ이 빠져 있습니다. 플라스미드는 보통 기본적인 생존·증식에 필수적인 정보보다 항생제 내성 같은 부가 형질의 유전정보를 지닙니다.",
+    "⑤ ㄱ, ㄴ, ㄷ: ㄷ 때문에 틀립니다. 특정 환경에서 플라스미드 유전자가 이점을 주는 것과 세균의 기본적인 증식에 필수적인 것은 구별해야 합니다."
+  ],
+  "lawNote": "ㄴ의 독립성은 별도 복제 단위와 조절을 뜻합니다. 일부 플라스미드는 숙주의 복제 개시 단백질과 세포주기에 강하게 의존합니다. ㄷ은 일반적인 특징을 묻는 것으로, 모든 플라스미드를 어떤 조건에서든 제거할 수 있다는 뜻으로 해석하지 않습니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Microbiology §3.3 Unique Characteristics of Prokaryotic Cells",
+      "quote": "Prokaryotic cells may also contain extrachromosomal DNA",
+      "url": "https://openstax.org/books/microbiology/pages/3-3-unique-characteristics-of-prokaryotic-cells",
+      "evidenceId": "b517aaab22b10880a45e",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Microbiology §3.3 Unique Characteristics of Prokaryotic Cells",
+      "quote": "Prokaryotic cells may also contain extrachromosomal DNA",
+      "url": "https://openstax.org/books/microbiology/pages/3-3-unique-characteristics-of-prokaryotic-cells",
+      "evidenceId": "b517aaab22b10880a45e",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Microbiology §3.3 Unique Characteristics of Prokaryotic Cells",
+      "quote": "Prokaryotic cells may also contain extrachromosomal DNA",
+      "url": "https://openstax.org/books/microbiology/pages/3-3-unique-characteristics-of-prokaryotic-cells",
+      "evidenceId": "b517aaab22b10880a45e",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Microbiology §3.3 Unique Characteristics of Prokaryotic Cells",
+      "quote": "Prokaryotic cells may also contain extrachromosomal DNA",
+      "url": "https://openstax.org/books/microbiology/pages/3-3-unique-characteristics-of-prokaryotic-cells",
+      "evidenceId": "b517aaab22b10880a45e",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "NCBI Bookshelf",
+      "ref": "Medical Microbiology: Genetics",
+      "quote": "Plasmids usually encode traits that are not essential for bacterial viability",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK7908/?report=reader",
+      "evidenceId": "0c497a7ac88923aba709",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "NCBI Bookshelf",
+      "ref": "Medical Microbiology: Genetics",
+      "quote": "Plasmids usually encode traits that are not essential for bacterial viability",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK7908/?report=reader",
+      "evidenceId": "0c497a7ac88923aba709",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "NCBI Bookshelf",
+      "ref": "Medical Microbiology: Genetics",
+      "quote": "Plasmids usually encode traits that are not essential for bacterial viability",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK7908/?report=reader",
+      "evidenceId": "0c497a7ac88923aba709",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "NCBI Bookshelf",
+      "ref": "Medical Microbiology: Genetics",
+      "quote": "Plasmids usually encode traits that are not essential for bacterial viability",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK7908/?report=reader",
+      "evidenceId": "0c497a7ac88923aba709",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "Addgene",
+      "ref": "Plasmids 101: Stringent Regulation of Replication",
+      "quote": "All plasmids rely on their host cell's replication machinery in order to replicate",
+      "url": "https://blog.addgene.org/plasmids-101-stringent-regulation-of-replication",
+      "evidenceId": "26a541588c0044fa8826",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "Addgene",
+      "ref": "Plasmids 101: Stringent Regulation of Replication",
+      "quote": "All plasmids rely on their host cell's replication machinery in order to replicate",
+      "url": "https://blog.addgene.org/plasmids-101-stringent-regulation-of-replication",
+      "evidenceId": "26a541588c0044fa8826",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "Addgene",
+      "ref": "Plasmids 101: Stringent Regulation of Replication",
+      "quote": "All plasmids rely on their host cell's replication machinery in order to replicate",
+      "url": "https://blog.addgene.org/plasmids-101-stringent-regulation-of-replication",
+      "evidenceId": "26a541588c0044fa8826",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "Addgene",
+      "ref": "Plasmids 101: Stringent Regulation of Replication",
+      "quote": "All plasmids rely on their host cell's replication machinery in order to replicate",
+      "url": "https://blog.addgene.org/plasmids-101-stringent-regulation-of-replication",
+      "evidenceId": "26a541588c0044fa8826",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "정본 선지 검토; 염색체 외 DNA·복제수 조절·비필수 형질 출처 대조; 숙주 의존성 명시 및 curing 무조건 가능 주장 제거",
+    "contentHash": "8da0ad743a2bce9fdb17dd2f1488191e55171775ec11a8ee40ef8e530b95a22f"
+  }
+}

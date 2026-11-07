@@ -1,0 +1,16 @@
+{
+  "id": "2871d0cbfd319adc0c77",
+  "kind": "science",
+  "source": "NASA",
+  "ref": "Orbits and Kepler’s Laws",
+  "url": "https://science.nasa.gov/solar-system/orbits-and-keplers-laws/",
+  "excerpt": "The planets orbit the Sun in a counterclockwise direction as viewed from above the Sun's north pole",
+  "sourceHash": "a8d6e683176acf1dfa04ff6c5ed1ce7dd69a0ac9d2cbaa1e5899b79fb04152c3",
+  "cacheSourceId": "073013c51116b54a59d6",
+  "retrievedAt": "2026-11-06T16:09:20.693700+00:00",
+  "reviewedMappings": {
+    "2010-3-40:0": "ㄷ: 태양 북극 위에서 바라본 반시계 공전. 관찰 방향 명시."
+  },
+  "retrievalMethod": "web.open/web.find NASA body read; selected excerpts transcribed (table uses web-rendered cell separators)",
+  "sourceHashScope": "Selected excerpts only; not full page"
+}

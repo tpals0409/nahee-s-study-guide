@@ -1,0 +1,21 @@
+{
+  "id": "c144e925cac9ac57da3a",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume 1, 8.3 Conservation of Energy",
+  "url": "https://openstax.org/books/university-physics-volume-1/pages/8-3-conservation-of-energy",
+  "excerpt": "they do zero work when the motion is parallel to the surface",
+  "sourceHash": "0681c0e1a0097417841cd74067c149fded9607c3459523e7f2959e0c977b9009",
+  "cacheSourceId": "e8c4549ebc46e96ce771",
+  "retrievedAt": "2026-11-07T02:14:43.913546+00:00",
+  "reviewedMappings": {
+    "2024-3-01:0": "정지한 매끄러운 표면의 수직항력은 일을 하지 않는다. 원문 높이 R와 Rsinθ 및 운동에너지 E와3E를 대입해 2E=mgR(1−sinθ)를 유도했다.",
+    "2024-3-01:1": "정지한 매끄러운 표면의 수직항력은 일을 하지 않는다. 원문 높이 R와 Rsinθ 및 운동에너지 E와3E를 대입해 2E=mgR(1−sinθ)를 유도했다.",
+    "2024-3-01:2": "정지한 매끄러운 표면의 수직항력은 일을 하지 않는다. 원문 높이 R와 Rsinθ 및 운동에너지 E와3E를 대입해 2E=mgR(1−sinθ)를 유도했다.",
+    "2024-3-01:3": "정지한 매끄러운 표면의 수직항력은 일을 하지 않는다. 원문 높이 R와 Rsinθ 및 운동에너지 E와3E를 대입해 2E=mgR(1−sinθ)를 유도했다.",
+    "2024-3-01:4": "정지한 매끄러운 표면의 수직항력은 일을 하지 않는다. 원문 높이 R와 Rsinθ 및 운동에너지 E와3E를 대입해 2E=mgR(1−sinθ)를 유도했다.",
+    "2024-3-01:5": "정지한 매끄러운 표면의 수직항력은 일을 하지 않는다. 원문 높이 R와 Rsinθ 및 운동에너지 E와3E를 대입해 2E=mgR(1−sinθ)를 유도했다."
+  },
+  "retrievalMethod": "Direct web open; reviewed mechanical energy and radial Newton-law equations",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

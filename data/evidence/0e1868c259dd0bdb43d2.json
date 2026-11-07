@@ -1,0 +1,21 @@
+{
+  "id": "0e1868c259dd0bdb43d2",
+  "kind": "science",
+  "source": "NOAA / National Weather Service",
+  "ref": "Skew-T Parameters and Indices — LCL and CCL",
+  "url": "https://www.weather.gov/source/zhu/ZHU_Training_Page/convective_parameters/skewt/skewtinfo.html",
+  "excerpt": "temperature lapse rate = 10 degrees C per kilometer, dewpoint lapse rate = 2 degrees C per kilometer",
+  "sourceHash": "c1de71ac5a1e8a09141ca8e74d8f48689bf274a4af544720df813b45c89d1b5a",
+  "cacheSourceId": "cddaca4fc9d99a74d3c8",
+  "retrievedAt": "2026-11-06T19:57:54.667048+00:00",
+  "reviewedMappings": {
+    "2015-3-36:0": "NWS 309–310행의 불포화 상승 감률 10°C/km, 이슬점 감률 2°C/km 및 T=Td인 응결 조건을 적용한다. 0.5km는 응결 상승량 1.25km보다 작고, T=25°C, Td=19°C이다. Fraction 독립 계산으로 검산했다.",
+    "2015-3-36:1": "500m 상승에서 20·15°C는 각각 10·5°C 하강으로, 불포화 단열 모델의 5·1°C 하강과 다르다.",
+    "2015-3-36:2": "21·15°C는 9·5°C 하강으로 모델에 맞지 않는다. 모든 실제 상승 상황에 불가능하다고 일반화하지 않는다.",
+    "2015-3-36:3": "이슬점 19°C는 맞으나 기온은 25°C이므로 22°C는 틀리다.",
+    "2015-3-36:4": "이슬점 19°C는 맞으나 기온은 25°C이므로 24°C는 틀리다.",
+    "2015-3-36:5": "30−10×0.5=25, 20−2×0.5=19로 둘 다 일치한다. 최종 온도차 6°C>0이라 불포화 전제도 만족한다."
+  },
+  "retrievalMethod": "Direct web open; dry adiabatic and LCL FAQ sections reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

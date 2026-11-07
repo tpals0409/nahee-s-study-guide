@@ -1,0 +1,20 @@
+{
+  "id": "f28606f2cb0f5c1c59f9",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Astronomy 6.1 Telescopes",
+  "url": "https://openstax.org/books/astronomy/pages/6-1-telescopes",
+  "excerpt": "the mirror can be supported from the back",
+  "sourceHash": "882733a7dd2ec74a1c6ed82f2c550a323bfe4e461cae89f36c81406aadd182a0",
+  "cacheSourceId": "542c3b4404cdb0d82b5a",
+  "retrievedAt": "2026-11-06T16:55:12.005569+00:00",
+  "reviewedMappings": {
+    "2011-3-38:0": "원문 그림 A는 투과 볼록렌즈, B는 반사 오목거울임을 직접 확인. 본문 48–49 집광력과 구경, 85–97 굴절/반사 및 색수차·지지방법을 대조하여 ②만 틀림 확인.",
+    "2011-3-38:2": "A 렌즈는 굴절, B 거울은 반사. 선지의 명칭이 반대.",
+    "2011-3-38:3": "주경 반사 방식은 대물렌즈의 파장별 굴절 차이에 따른 색수차를 피함.",
+    "2011-3-38:4": "구경 증가 시 집광 면적 증가. 다른 관측 조건이 같으면 어두운 천체 관측에 유리.",
+    "2011-3-38:5": "대형 렌즈의 가장자리 지지·무게 변형과 달리 거울은 뒷면 지지 가능하므로 대형화 유리."
+  },
+  "retrievalMethod": "web.open 본문 직접 대조; 저장은 짧은 발췌만",
+  "sourceHashScope": "Selected excerpt only; not full page"
+}

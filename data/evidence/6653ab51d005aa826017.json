@@ -1,0 +1,20 @@
+{
+  "id": "6653ab51d005aa826017",
+  "kind": "science",
+  "source": "NOAA / National Weather Service",
+  "ref": "Dew Point vs Humidity",
+  "url": "https://www.weather.gov/arx/why_dewpoint_vs_humidity",
+  "excerpt": "in order to achieve a relative humidity (RH) of 100%.",
+  "sourceHash": "f6bd99abf13782bcf52e9c11f41204a7c2255fb46d168bd868334b82f790e91c",
+  "cacheSourceId": "4fd739fb1d9ee8546826",
+  "retrievedAt": "2026-11-07T02:10:49.755203+00:00",
+  "reviewedMappings": {
+    "2023-3-37:0": "이슬점의 일정 압력 냉각·포화 정의를 원문 도표와 대조했다. B는 20°C에서 불포화이므로 이슬점<20°C. 수증기 밀도가 냉각 내내 일정하다는 가정 없이 정확한 이슬점 10°C를 단정하지 않는다.",
+    "2023-3-37:1": "이슬점의 일정 압력 냉각·포화 정의를 원문 도표와 대조했다. B는 20°C에서 불포화이므로 이슬점<20°C. 수증기 밀도가 냉각 내내 일정하다는 가정 없이 정확한 이슬점 10°C를 단정하지 않는다.",
+    "2023-3-37:2": "이슬점의 일정 압력 냉각·포화 정의를 원문 도표와 대조했다. B는 20°C에서 불포화이므로 이슬점<20°C. 수증기 밀도가 냉각 내내 일정하다는 가정 없이 정확한 이슬점 10°C를 단정하지 않는다.",
+    "2023-3-37:3": "이슬점의 일정 압력 냉각·포화 정의를 원문 도표와 대조했다. B는 20°C에서 불포화이므로 이슬점<20°C. 수증기 밀도가 냉각 내내 일정하다는 가정 없이 정확한 이슬점 10°C를 단정하지 않는다.",
+    "2023-3-37:4": "이슬점의 일정 압력 냉각·포화 정의를 원문 도표와 대조했다. B는 20°C에서 불포화이므로 이슬점<20°C. 수증기 밀도가 냉각 내내 일정하다는 가정 없이 정확한 이슬점 10°C를 단정하지 않는다."
+  },
+  "retrievalMethod": "Direct web open; reviewed dew-point and condensation sections",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "155542796cd38f1f726b",
+  "kind": "science",
+  "source": "NASA",
+  "ref": "NASA Mars Facts",
+  "url": "https://science.nasa.gov/mars/facts/",
+  "excerpt": "Mars has two small moons, Phobos and Deimos",
+  "sourceHash": "94d536b5b9a8ffaae842c11e50136a6f9277e48dbadf8c51b4bdb89395d8edae",
+  "cacheSourceId": "8d41b857b7c9084ff995",
+  "retrievedAt": "2026-11-06T17:32:37.168472+00:00",
+  "reviewedMappings": {
+    "2012-3-32:0": "데이모스·포보스의 화성 궤도, Olympus Mons와 Valles Marineris, 희박 대기와 열 손실 확인. 위성으로 ① 확정 및 다른 선지 배제.",
+    "2012-3-32:1": "데이모스·포보스의 화성 궤도, Olympus Mons와 Valles Marineris, 희박 대기와 열 손실 확인. 위성으로 ① 확정 및 다른 선지 배제.",
+    "2012-3-32:2": "데이모스·포보스의 화성 궤도, Olympus Mons와 Valles Marineris, 희박 대기와 열 손실 확인. 위성으로 ① 확정 및 다른 선지 배제.",
+    "2012-3-32:3": "데이모스·포보스의 화성 궤도, Olympus Mons와 Valles Marineris, 희박 대기와 열 손실 확인. 위성으로 ① 확정 및 다른 선지 배제.",
+    "2012-3-32:4": "데이모스·포보스의 화성 궤도, Olympus Mons와 Valles Marineris, 희박 대기와 열 손실 확인. 위성으로 ① 확정 및 다른 선지 배제.",
+    "2012-3-32:5": "데이모스·포보스의 화성 궤도, Olympus Mons와 Valles Marineris, 희박 대기와 열 손실 확인. 위성으로 ① 확정 및 다른 선지 배제."
+  },
+  "retrievalMethod": "web.open; Moons, Surface and Atmosphere sections directly reviewed",
+  "sourceHashScope": "Selected excerpt only; not full page"
+}

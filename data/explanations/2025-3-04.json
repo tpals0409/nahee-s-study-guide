@@ -1,0 +1,85 @@
+{
+  "id": "2025-3-04",
+  "summary": "가우스 법칙에 따르면 닫힌 곡면을 지나는 총 전기 선속은 Φ = Q_enc/ε0로, 곡면 안에 들어 있는 알짜 전하량에만 비례하고 공의 반지름이나 곡면의 크기와는 무관합니다. 공 밖에 공 전체를 감싸는 닫힌 곡면을 잡으면 선속은 (가) Q/ε0, (나) 2Q/ε0, (다) 2Q/ε0, (라) 3Q/ε0, (마) 3Q/ε0입니다. 따라서 (가) < (나) = (다) < (라) = (마)가 옳습니다.",
+  "choices": [
+    "(가) < (나) = (다) < (라) = (마): 정답입니다. 선속은 Q, 2Q, 2Q, 3Q, 3Q에 각각 ε0를 나눈 값입니다. 반지름이 a인 (나)와 2a인 (다)는 전하가 2Q로 같으므로 선속이 같고, 반지름이 2a인 (라)와 3a인 (마)는 전하가 3Q로 같으므로 선속이 같습니다.",
+    "오답입니다. (나)와 (다)는 모두 2Q, (라)와 (마)는 모두 3Q를 감싸므로 각 쌍의 총 선속은 같습니다. 모든 항을 엄격한 부등호로 연결할 수 없습니다.",
+    "오답입니다. (나)=(다)는 맞지만, (라)와 (마)도 총 전하가 3Q로 같아 선속이 같습니다. 총 선속은 한 점에서의 전기장 세기와 구별해야 합니다.",
+    "(가) < (나) < (다) = (마) < (라): 오답입니다. (나)와 (다)는 전하가 2Q로 같아 선속이 같아야 합니다. 또 (다)는 2Q, (마)는 3Q를 감싸므로 (다)와 (마)의 선속은 같을 수 없습니다.",
+    "(가) < (다) < (나) < (라) < (마): 오답입니다. 같은 2Q인 (나)와 (다)에 대소 관계를 두었고, 같은 3Q인 (라)와 (마)에도 대소 관계를 두었습니다. 선속은 감싼 전하량만으로 결정되므로 두 쌍은 각각 같아야 합니다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2, 6.2: Explaining Gauss’s Law",
+      "quote": "all surfaces enclosing the same charge have the same flux",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/6-2-explaining-gausss-law",
+      "evidenceId": "a4cc2190d4db3e37371b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2, 6.2: Explaining Gauss’s Law",
+      "quote": "all surfaces enclosing the same charge have the same flux",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/6-2-explaining-gausss-law",
+      "evidenceId": "a4cc2190d4db3e37371b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2, 6.2: Explaining Gauss’s Law",
+      "quote": "all surfaces enclosing the same charge have the same flux",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/6-2-explaining-gausss-law",
+      "evidenceId": "a4cc2190d4db3e37371b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2, 6.2: Explaining Gauss’s Law",
+      "quote": "all surfaces enclosing the same charge have the same flux",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/6-2-explaining-gausss-law",
+      "evidenceId": "a4cc2190d4db3e37371b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2, 6.2: Explaining Gauss’s Law",
+      "quote": "all surfaces enclosing the same charge have the same flux",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/6-2-explaining-gausss-law",
+      "evidenceId": "a4cc2190d4db3e37371b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2, 6.2: Explaining Gauss’s Law",
+      "quote": "all surfaces enclosing the same charge have the same flux",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/6-2-explaining-gausss-law",
+      "evidenceId": "a4cc2190d4db3e37371b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Original image inspected; charge/radius labels and Q>0 confirmed; Gauss law applied independently without assuming symmetric charge distribution.",
+    "contentHash": "878660db82dd4a9bc44fff4949c26744723e901e58580f46a00a2bd09d9106ed"
+  }
+}

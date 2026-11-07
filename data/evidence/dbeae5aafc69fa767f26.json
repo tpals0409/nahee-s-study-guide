@@ -1,0 +1,19 @@
+{
+  "id": "dbeae5aafc69fa767f26",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Anatomy and Physiology 2e: Chemical Digestion and Absorption: A Closer Look",
+  "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/23-7-chemical-digestion-and-absorption-a-closer-look",
+  "excerpt": "The core also includes cholesterol and fat-soluble vitamins.",
+  "sourceHash": "e6c64f8ecfcd5add77ad0933d9ad551afa1e4574d60493dcde5d2517bb9230f6",
+  "cacheSourceId": "9412d6fe6894043b5219",
+  "retrievedAt": "2026-11-06T21:18:36.110715+00:00",
+  "reviewedMappings": {
+    "2017-3-25:2": "Table23.8 및 Carbohydrate Digestion: 침/췌장 아밀레이스가 녹말 분해.",
+    "2017-3-25:3": "Nucleic Acid Digestion: 췌장 뉴클레이스와 장 솔가장자리 효소.",
+    "2017-3-25:4": "Vitamin Absorption: 지용성 비타민 미셀 이용, 수용성 비타민 흡수는 구별. 담즙 차단의 직접 효과 대상은 지용성.",
+    "2017-3-25:5": "Protein Digestion: 위 펩신, 췌장 트립신·키모트립신, 장 펩티데이스."
+  },
+  "retrievalMethod": "Direct browser review of biliary anatomy, pancreatic duct, digestive enzyme table and vitamin absorption",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "c445dbf54c6853565712",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "15.5 Ribosomes and Protein Synthesis",
+  "url": "https://openstax.org/books/biology-2e/pages/15-5-ribosomes-and-protein-synthesis",
+  "excerpt": "A ribosome is a complex macromolecule composed of structural and catalytic rRNAs, and many distinct polypeptides.",
+  "sourceHash": "3f3df4f47f65b9cd89aa4beb9e85f466c9a0e0c7806b71881a027b349f1b96a7",
+  "cacheSourceId": "07633fad7c581c9ae9a3",
+  "retrievedAt": "2026-11-06T20:32:41.689960+00:00",
+  "reviewedMappings": {
+    "2016-3-27:0": "본문29,34 번역의mRNA주형과41 리보솜의구조/촉매rRNA를 구분. 원본RNA→단백질(다)=번역이나 rRNA자체가리보솜단백질로번역된다는ㄷ은거짓. 해당 선지의 포함/누락 진술을 대조.",
+    "2016-3-27:3": "본문29,34 번역의mRNA주형과41 리보솜의구조/촉매rRNA를 구분. 원본RNA→단백질(다)=번역이나 rRNA자체가리보솜단백질로번역된다는ㄷ은거짓. 해당 선지의 포함/누락 진술을 대조.",
+    "2016-3-27:4": "본문29,34 번역의mRNA주형과41 리보솜의구조/촉매rRNA를 구분. 원본RNA→단백질(다)=번역이나 rRNA자체가리보솜단백질로번역된다는ㄷ은거짓. 해당 선지의 포함/누락 진술을 대조.",
+    "2016-3-27:5": "본문29,34 번역의mRNA주형과41 리보솜의구조/촉매rRNA를 구분. 원본RNA→단백질(다)=번역이나 rRNA자체가리보솜단백질로번역된다는ㄷ은거짓. 해당 선지의 포함/누락 진술을 대조."
+  },
+  "retrievalMethod": "Direct web open; relevant polymerization, transcription and ribosome sections reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

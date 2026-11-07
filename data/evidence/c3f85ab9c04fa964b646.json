@@ -1,0 +1,21 @@
+{
+  "id": "c3f85ab9c04fa964b646",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume 3, 5.9: Relativistic Energy",
+  "url": "https://openstax.org/books/university-physics-volume-3/pages/5-9-relativistic-energy",
+  "excerpt": "Relativistically, energy is still conserved",
+  "sourceHash": "51390a0a910304489f3d9aa323e4d95fd7098ffcd6d66d945ed435d8c95c2682",
+  "cacheSourceId": "9213ef7553041a2a5f40",
+  "retrievedAt": "2026-11-07T03:03:19.381235+00:00",
+  "reviewedMappings": {
+    "2025-3-09:0": "식 E=γmc²와 E0=mc²에서 m을 정지질량으로 사용하는 정의를 적용. γ=5/3, Mc²=2γmc²로 4kg 독립 도출.",
+    "2025-3-09:1": "정지질량 합 2.4kg은 생성물 운동에너지를 빠뜨려 에너지 보존 불충족.",
+    "2025-3-09:2": "②의 4kg만 정지에너지와 두 생성물 총에너지를 같게 함.",
+    "2025-3-09:3": "③의 4.8kg은 최종 총에너지/c²=4kg과 불일치.",
+    "2025-3-09:4": "④의 6kg은 최종 총에너지/c²=4kg과 불일치.",
+    "2025-3-09:5": "⑤의 7.2kg은 최종 총에너지/c²=4kg과 불일치."
+  },
+  "retrievalMethod": "Direct energy conservation, equations 5.8–5.11, rest mass and decay-product kinetic energy discussion reviewed.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

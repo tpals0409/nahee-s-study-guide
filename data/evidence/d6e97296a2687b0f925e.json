@@ -1,0 +1,14 @@
+{
+  "id": "d6e97296a2687b0f925e",
+  "kind": "science",
+  "source": "OpenStax · University Physics Volume 1",
+  "ref": "14.1 Fluids, Density, and Pressure",
+  "url": "https://openstax.org/books/university-physics-volume-1/pages/14-1-fluids-density-and-pressure",
+  "excerpt": "The average density of a substance or object is defined as its mass per unit volume,",
+  "sourceHash": "f739d0ddcfa2701bd69574105e96bf2d4612cba36975e79568708d2066e3e151",
+  "cacheSourceId": "b2290c55b51ae857c5b3",
+  "retrievedAt": "2026-11-06T15:28:39.426347+00:00",
+  "reviewedMappings": {
+    "2010-3-06:0": "ρ=m/V에서 동일 부피의 두 주유량 차이는 VΔρ. 문제에서 직접 준 선형 기울기와 10 K를 적용해 Δρ=0.016 g/cm³, Δm=800 g. 다른 선지는 역으로 필요한 밀도 차이를 계산하여 반증."
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "558682a65ad90deeec5b",
+  "kind": "science",
+  "source": "MedlinePlus Genetics / NLM",
+  "ref": "What kinds of gene variants are possible?",
+  "url": "https://medlineplus.gov/genetics/understanding/mutationsanddisorders/possiblemutations/",
+  "excerpt": "This type of variant replaces one DNA building block (nucleotide) with another.",
+  "sourceHash": "9e4b08a510ea903126b0f4d92946ac6435cb037a75b801cde3f73a9d0714a075",
+  "cacheSourceId": "665ff14a488cc478d6ee",
+  "retrievedAt": "2026-11-07T05:14:18.888846+00:00",
+  "reviewedMappings": {
+    "2019-3-27:1": "55: 넌센스 치환은 조기 종결을 유발해 짧은 단백질을 만들 수 있다.",
+    "2019-3-27:2": "54: 미스센스 치환은 한 아미노산을 다른 것으로 바꾸며 기능을 바꿀 수 있다.",
+    "2019-3-27:5": "52와75: 단순 치환은 염기 수를 바꾸지 않는다. RNA 가공이 유지된다는 조건에서 직접 코돈 경계를 이동시키지 않는다. 스플라이싱의 간접 영향 배제 근거는 아니다."
+  },
+  "retrievalMethod": "Direct web open",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

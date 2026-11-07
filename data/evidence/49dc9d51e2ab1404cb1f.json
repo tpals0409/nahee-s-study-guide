@@ -1,0 +1,17 @@
+{
+  "id": "49dc9d51e2ab1404cb1f",
+  "kind": "science",
+  "source": "NIST",
+  "ref": "NIST Chemistry WebBook: Nitric oxide anion",
+  "url": "https://webbook.nist.gov/cgi/cbook.cgi?Mask=3FB7&Source=1971SPE%2FSCH1968&Units=SI",
+  "excerpt": "ground state triplet anion",
+  "sourceHash": "15c6efc610e2896cc82ee69b061c2bba7aff2f955def971b4dd73f2fb0432adb",
+  "cacheSourceId": "8c51c6d2b01b01cf8d3d",
+  "retrievedAt": "2026-11-07T00:58:53.449799+00:00",
+  "reviewedMappings": {
+    "2022-3-17:0": "Reviewed indexed NIST WebBook search excerpt (Travers, Cowles et al., 1989 entry): explicitly identifies ground-state triplet anion. Direct retrieval failed with cache miss; evidence is the indexed primary-source excerpt, not a full-page retrieval. 정답은 ⑤입니다. 상자기성 Y₂는 O₂이고, 결합 차수 3인 XY⁺는 NO⁺이므로 X=N, Y=O입니다. NO⁻의 바닥상태에는 π* 궤도의 홀전자 두 개가 있어 “홀전자 수 1”은 틀립니다.",
+    "2022-3-17:5": "Reviewed indexed NIST WebBook search excerpt (Travers, Cowles et al., 1989 entry): explicitly identifies ground-state triplet anion. Direct retrieval failed with cache miss; evidence is the indexed primary-source excerpt, not a full-page retrieval. 옳지 않습니다. NO⁻의 원자가 전자는 5+6+1=12개입니다. 바닥상태에서 두 π* 궤도에 전자가 하나씩 들어가 홀전자 수는 2개입니다. NO⁻의 삼중항 바닥상태는 NIST 자료에서도 확인됩니다."
+  },
+  "retrievalMethod": "Reviewed indexed NIST WebBook search excerpt (Travers, Cowles et al., 1989 entry): explicitly identifies ground-state triplet anion. Direct retrieval failed with cache miss; evidence is the indexed primary-source excerpt, not a full-page retrieval.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

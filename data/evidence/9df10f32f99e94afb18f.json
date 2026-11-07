@@ -1,0 +1,27 @@
+{
+  "id": "9df10f32f99e94afb18f",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 2e 5.3 Enthalpy — Hess’s law",
+  "url": "https://openstax.org/books/chemistry-2e/pages/5-3-enthalpy",
+  "excerpt": "the enthalpy change of the total process equals the sum of the enthalpy changes of the various steps.",
+  "sourceHash": "c354e92ebd5a2c000f501365564cfb85babab5066d80e9662950c2ef574c0f18",
+  "cacheSourceId": "e40db68341f9330d468d",
+  "retrievedAt": "2026-11-06T22:29:40.265381+00:00",
+  "reviewedMappings": {
+    "2012-3-14:0": "생성엔탈피1mol 정의와 헤스법칙 본문 대조. 원문 첫째+둘째 식에서 NH3 2mol, −92kJ이므로 −46kJ/mol. 둘째식 두 배+셋째식에서 2H2+O2→2H2O, −484kJ로 −242kJ/mol. 모든 선지의 ㄱ/ㄴ 판단 근거.",
+    "2012-3-14:1": "생성엔탈피1mol 정의와 헤스법칙 본문 대조. 원문 첫째+둘째 식에서 NH3 2mol, −92kJ이므로 −46kJ/mol. 둘째식 두 배+셋째식에서 2H2+O2→2H2O, −484kJ로 −242kJ/mol. 모든 선지의 ㄱ/ㄴ 판단 근거.",
+    "2012-3-14:2": "생성엔탈피1mol 정의와 헤스법칙 본문 대조. 원문 첫째+둘째 식에서 NH3 2mol, −92kJ이므로 −46kJ/mol. 둘째식 두 배+셋째식에서 2H2+O2→2H2O, −484kJ로 −242kJ/mol. 모든 선지의 ㄱ/ㄴ 판단 근거.",
+    "2012-3-14:3": "생성엔탈피1mol 정의와 헤스법칙 본문 대조. 원문 첫째+둘째 식에서 NH3 2mol, −92kJ이므로 −46kJ/mol. 둘째식 두 배+셋째식에서 2H2+O2→2H2O, −484kJ로 −242kJ/mol. 모든 선지의 ㄱ/ㄴ 판단 근거.",
+    "2012-3-14:4": "생성엔탈피1mol 정의와 헤스법칙 본문 대조. 원문 첫째+둘째 식에서 NH3 2mol, −92kJ이므로 −46kJ/mol. 둘째식 두 배+셋째식에서 2H2+O2→2H2O, −484kJ로 −242kJ/mol. 모든 선지의 ㄱ/ㄴ 판단 근거.",
+    "2012-3-14:5": "생성엔탈피1mol 정의와 헤스법칙 본문 대조. 원문 첫째+둘째 식에서 NH3 2mol, −92kJ이므로 −46kJ/mol. 둘째식 두 배+셋째식에서 2H2+O2→2H2O, −484kJ로 −242kJ/mol. 모든 선지의 ㄱ/ㄴ 판단 근거.",
+    "2019-3-13:0": "Hess addition: half O2 dissociation (given 498/2=249) plus given O2+O→O3 (-106) gives 3/2 O2→O3 and 143 kJ per mol ozone.",
+    "2019-3-13:1": "90 differs from scaled reaction sum 249-106=143.",
+    "2019-3-13:2": "102 differs from scaled reaction sum 249-106=143.",
+    "2019-3-13:3": "Half dissociation supplies exactly one mol atomic O, canceled in second reaction; result 143 kJ/mol.",
+    "2019-3-13:4": "286 kJ belongs to doubled reaction producing two mol ozone, so molar formation value is 143.",
+    "2019-3-13:5": "498-106=392 leaves an extra atomic O product; cannot represent formation of one mol ozone alone."
+  },
+  "retrievalMethod": "Direct open/find: Hess law line 260 and stoichiometric scaling lines 284–293; indexed same-page standard formation definition and ozone formation example reviewed. Applied to supplied problem values 498 and -106, not substituted external measured values.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

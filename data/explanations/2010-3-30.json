@@ -1,0 +1,63 @@
+{
+  "summary": "진핵세포의 핵에서 일어나는 과정은 핵 DNA 복제와 RNA 가공인 ㄱ·ㄹ이므로 정답은 ②입니다. 산화적 인산화와 리보솜에서의 번역은 핵의 과정으로 분류하지 않습니다.",
+  "choices": [
+    "ㄱ은 맞지만 ㄴ이 틀립니다. 핵 DNA는 핵에서 복제되지만, 진핵세포의 산화적 인산화는 미토콘드리아 내막에서 진행됩니다.",
+    "ㄱ·ㄹ 모두 맞습니다. 핵 DNA 복제와, 핵에서 전사된 pre-mRNA의 가공은 핵 안에서 진행되는 과정입니다.",
+    "ㄴ·ㄷ 모두 해당하지 않습니다. 산화적 인산화는 미토콘드리아 내막에서, 번역은 세포질의 유리 리보솜이나 소포체에 결합한 리보솜 등에서 진행됩니다.",
+    "ㄹ은 맞지만 ㄴ이 틀립니다. RNA 가공과 미토콘드리아의 산화적 인산화는 구분해야 합니다.",
+    "ㄹ은 맞지만 ㄷ이 틀립니다. RNA 가공과 리보솜에서의 단백질 합성인 번역은 서로 다른 과정입니다."
+  ],
+  "lawNote": "핵이 있는 진핵세포의 일반적인 구획을 묻는 문항입니다. ㄱ은 핵 DNA 복제를 뜻하며, 모든 DNA 복제가 오직 핵에서만 일어난다는 의미는 아닙니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax · Biology 2e",
+      "ref": "4.3 Eukaryotic Cells",
+      "quote": "Ribosomes, responsible for protein synthesis, also float freely in the cytoplasm",
+      "url": "https://openstax.org/books/biology-2e/pages/4-3-eukaryotic-cells",
+      "evidenceId": "39a0ff3c1fd19f7cd443",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax · Biology 2e",
+      "ref": "14.5 DNA Replication in Eukaryotes",
+      "quote": "6 billion base pairs are replicated during the S phase of the cell cycle.",
+      "url": "https://openstax.org/books/biology-2e/pages/14-5-dna-replication-in-eukaryotes",
+      "evidenceId": "c240bf126066a05262a3",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax · Biology 2e",
+      "ref": "7.4 Oxidative Phosphorylation",
+      "quote": "in the inner mitochondrial membrane of eukaryotes",
+      "url": "https://openstax.org/books/biology-2e/pages/7-4-oxidative-phosphorylation",
+      "evidenceId": "e6b569a2979cdd22e8dc",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax · Biology 2e",
+      "ref": "15.4 RNA Processing in Eukaryotes",
+      "quote": "while it is processed and exported out of the nucleus.",
+      "url": "https://openstax.org/books/biology-2e/pages/15-4-rna-processing-in-eukaryotes",
+      "evidenceId": "1708c4c15b24f12b995e",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "ㄱ~ㄹ을 세포 내 위치별로 독립 판정하고 다섯 조합 대조. 핵 DNA와 소기관 DNA를 혼동하지 않도록 범위 명시. 초안의 불필요한 상세 가공 과정은 제거.",
+    "contentHash": "81541556234c90ec8f535271c534731d3360ce82f959084254c6384d4cfe600a"
+  }
+}

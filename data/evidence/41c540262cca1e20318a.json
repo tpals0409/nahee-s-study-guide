@@ -1,0 +1,16 @@
+{
+  "id": "41c540262cca1e20318a",
+  "kind": "science",
+  "source": "US Naval Observatory",
+  "ref": "The Seasons and the Earth's Orbit",
+  "url": "https://aa.usno.navy.mil/faq/seasons_orbit",
+  "excerpt": "the northern hemisphere is tilted toward the Sun and experiences summer.",
+  "sourceHash": "6cf5dd3d120ec7e38c0f0672b4d4f48208c3d516392f2ee446fe613e4ab9cf76",
+  "cacheSourceId": "1012c7c19250c0164736",
+  "retrievedAt": "2026-11-06T18:27:57.338229+00:00",
+  "reviewedMappings": {
+    "2013-3-39:0": "자전축이 태양쪽이면 북반구여름, 반대이면겨울. 원본 A는반대 B는태양쪽. 계절/기울기본문대조."
+  },
+  "retrievalMethod": "web.open: official page; relevant seasons/obliquity/precession paragraphs reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

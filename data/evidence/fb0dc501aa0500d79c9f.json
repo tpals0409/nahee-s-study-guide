@@ -1,0 +1,19 @@
+{
+  "id": "fb0dc501aa0500d79c9f",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 2e 6.5 Periodic Variations",
+  "url": "https://openstax.org/books/chemistry-2e/pages/6-5-periodic-variations-in-element-properties",
+  "excerpt": "The first ionization energy for oxygen is slightly less than that for nitrogen",
+  "sourceHash": "419daadc5a3a30b1dd421572b4d58beb9e93c5d631b8b8ab92a459a293dfd41d",
+  "cacheSourceId": "95eeb0e0c3626607ae4f",
+  "retrievedAt": "2026-11-06T19:28:33.567041+00:00",
+  "reviewedMappings": {
+    "2012-3-12:3": "본문의 산소 2p 전자쌍 반발 해소 설명 확인. N>O 예외와 배치 연결.",
+    "2015-3-14:2": "Directly inspected separate supporting passages: line 91 isoelectronic F− and Na+ shrink with increasing proton count (choice2); line112 O vs N pairing exception (choice3); lines59–63 effective nuclear charge increases across period (choice4). Quote illustrates only choice3; each mapping rests on its specified surrounding passage. No ionic-radius numbers or model-dependent exact Zeff asserted.",
+    "2015-3-14:3": "Directly inspected separate supporting passages: line 91 isoelectronic F− and Na+ shrink with increasing proton count (choice2); line112 O vs N pairing exception (choice3); lines59–63 effective nuclear charge increases across period (choice4). Quote illustrates only choice3; each mapping rests on its specified surrounding passage. No ionic-radius numbers or model-dependent exact Zeff asserted.",
+    "2015-3-14:4": "Directly inspected separate supporting passages: line 91 isoelectronic F− and Na+ shrink with increasing proton count (choice2); line112 O vs N pairing exception (choice3); lines59–63 effective nuclear charge increases across period (choice4). Quote illustrates only choice3; each mapping rests on its specified surrounding passage. No ionic-radius numbers or model-dependent exact Zeff asserted."
+  },
+  "retrievalMethod": "Direct web.open and find; surrounding specific element comparisons inspected",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

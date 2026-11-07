@@ -1,0 +1,30 @@
+{
+  "summary": "NaCl은 암염형 구조로, Na⁺와 Cl⁻가 각각 면심입방(fcc) 격자를 이루며 서로 겹쳐 있습니다. 단위세포 모서리 길이를 a라 하면 가장 가까운 Na⁺–Cl⁻ 거리는 a/2, 가장 가까운 Na⁺–Na⁺ 거리는 a/√2입니다. Na⁺의 배위수는 Cl⁻ 6개, 가장 가까운 Na⁺ 12개이고, 단위세포당 각 이온은 4개입니다. 따라서 ㄴ과 ㄷ만 옳으며 정답은 'ㄴ, ㄷ'입니다.",
+  "choices": [
+    "ㄱ만 고른 보기: 오답입니다. ㄱ이 틀린 진술입니다. 한 Na⁺에 가장 가까운 Cl⁻는 ±x, ±y, ±z 방향으로 a/2 떨어진 6개입니다. 가장 가까운 Na⁺는 면 대각선 방향으로 a/√2 떨어진 12개입니다. 6과 12는 같지 않습니다.",
+    "ㄴ만 고른 보기: 오답입니다. ㄴ은 옳지만, ㄷ도 옳으므로 ㄷ이 빠진 이 조합은 정답이 될 수 없습니다.",
+    "ㄱ, ㄷ을 고른 보기: 오답입니다. ㄷ은 옳지만 ㄱ은 틀렸습니다(가장 가까운 Na⁺ 12개, 가장 가까운 Cl⁻ 6개). 또한 옳은 진술인 ㄴ이 빠져 있습니다.",
+    "ㄴ, ㄷ을 고른 보기: 정답입니다. ㄴ에서 Na⁺–Na⁺ 최근접 거리는 a/√2, Na⁺–Cl⁻ 최근접 거리는 a/2이므로 비는 (a/√2)/(a/2) = √2입니다. ㄷ에서 Cl⁻를 꼭짓점과 면심에 놓으면 8×1/8 + 6×1/2 = 4개입니다. Cl⁻를 모서리 중앙과 체심에 놓아도 12×1/4 + 1 = 4개로 같습니다.",
+    "ㄱ, ㄴ, ㄷ을 고른 보기: 오답입니다. ㄱ이 틀렸으므로(12개와 6개로 서로 다름) 세 개를 모두 고를 수 없습니다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax · Chemistry 2e",
+      "ref": "10.6 Lattice Structures in Crystalline Solids",
+      "quote": "The unit cell contains four sodium ions and four chloride ions",
+      "url": "https://openstax.org/books/chemistry-2e/pages/10-6-lattice-structures-in-crystalline-solids",
+      "evidenceId": "9236d4cd859534bdd158",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "원본 결정 그림 및 ㄱㄴㄷ 판독. 교재 Figure 10.60의 NaCl FCC+octahedral holes 배치 대조. 원점을 Na⁺에 두고 다른 Na⁺는 (±a/2,±a/2,0)의 순열 12개, Cl⁻는 (±a/2,0,0)의 순열 6개임을 독립 계수. 거리비 (a/√2)/(a/2)=√2. 꼭짓점·면심 분담 8/8+6/2=4, 모서리·체심 분담 12/4+1=4. ㄱ 거짓, ㄴㄷ 참.",
+    "contentHash": "4c4d28a57f86ed7d133673947837d624ef1bb7327e5e80d9a183a58f2db05805"
+  }
+}

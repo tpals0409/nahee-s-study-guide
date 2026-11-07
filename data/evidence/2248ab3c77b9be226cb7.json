@@ -1,0 +1,16 @@
+{
+  "id": "2248ab3c77b9be226cb7",
+  "kind": "science",
+  "source": "US EPA training manual",
+  "ref": "Visible Emission Evaluation Procedures — Fumigating, PDF p54 / printed 4-10",
+  "url": "https://www.epa.gov/sites/default/files/2020-08/documents/vecourse.pdf",
+  "excerpt": "lower layer unstable or neutral, upper layer stable",
+  "sourceHash": "003c9db626460a07c00a380f140663a906fe5bbe525409280c61aa86b232be3d",
+  "cacheSourceId": "b247fa044d22bd43ba7e",
+  "retrievedAt": "2026-11-07T06:24:55.766802+00:00",
+  "reviewedMappings": {
+    "2011-3-34:4": "p54 훈증형 도표는 하층이 불안정 또는 중립이고 상층이 안정함을 명시한다. 기온 감소 자체만으로 하층 불안정을 판정할 수 있다는 근거는 아니다."
+  },
+  "retrievalMethod": "pdftoppm original PDF page54 rendered and visually inspected",
+  "sourceHashScope": "short excerpt transcribed from page image"
+}

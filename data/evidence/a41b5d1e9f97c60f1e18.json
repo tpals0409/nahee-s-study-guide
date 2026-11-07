@@ -1,0 +1,16 @@
+{
+  "id": "a41b5d1e9f97c60f1e18",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "OpenStax Astronomy 2e §18.4 The H–R Diagram",
+  "url": "https://openstax.org/books/astronomy-2e/pages/18-4-the-h-r-diagram",
+  "excerpt": "they are both hot and dim, and must be white dwarfs.",
+  "sourceHash": "ed7305f3425ed9bba7bd9e93128fad70568d43b320811247ab164d82e0ef0b41",
+  "cacheSourceId": "85f0eb0b02d5f9aba457",
+  "retrievedAt": "2026-11-06T17:37:37.180574+00:00",
+  "reviewedMappings": {
+    "2012-3-34:0": "図18.14–18.15 및 본문에서 축 방향·백색왜성/거성/초거성/주계열 위치와 시리우스 동반성 분류를 확인. 모든 선택지를 두 조건에 대조."
+  },
+  "retrievalMethod": "web.open; Features of the H–R Diagram paragraphs and Figures 18.14–18.15 descriptions reviewed",
+  "sourceHashScope": "Two selected short excerpts only; not full page"
+}

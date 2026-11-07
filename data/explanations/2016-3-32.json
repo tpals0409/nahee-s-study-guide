@@ -1,0 +1,185 @@
+{
+  "id": "2016-3-32",
+  "summary": "ㄱ은 틀리고 ㄴ과 ㄷ은 옳으므로 정답은 ④입니다. 지각에서 우세한 광물군은 규산염광물입니다. 방해석과 마그네사이트는 조성은 다르지만 같은 구조형을 가지며, 규산염광물의 기본 구조 단위는 SiO₄ 사면체입니다.",
+  "choices": [
+    "오답입니다. ㄱ의 산화광물이 아니라 규산염광물이 지각에서 가장 우세한 광물군입니다. 또한 옳은 ㄴ과 ㄷ을 모두 빠뜨렸습니다.",
+    "오답입니다. 방해석 CaCO₃와 마그네사이트 MgCO₃는 같은 방해석형 구조에 속하므로 ㄴ은 옳습니다. 그러나 SiO₄ 사면체라는 ㄷ도 옳으므로 ㄴ만 고르면 불완전합니다.",
+    "오답입니다. ㄷ은 옳지만 ㄱ이 틀립니다. 옳은 ㄴ도 빠져 있습니다.",
+    "정답입니다. ㄴ: 방해석과 마그네사이트는 화학 조성은 다르지만 같은 구조형을 가지는 유질동상 관계입니다. ㄷ: 규소 원자를 네 산소 원자가 둘러싼 SiO₄ 사면체가 규산염광물의 기본 구조 단위입니다.",
+    "오답입니다. ㄴ과 ㄷ은 옳지만, 지각에 산화광물이 가장 많다는 ㄱ은 틀리므로 세 진술을 모두 고를 수 없습니다."
+  ],
+  "lawNote": "SiO₄는 기본 구조 단위를 뜻하며 모든 규산염광물의 전체 화학식이 SiO₄라는 뜻은 아닙니다. 사면체끼리 산소를 공유하면 사슬·층·입체 골격 등 여러 구조를 이룹니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "Hong Kong Civil Engineering and Development Department",
+      "ref": "Minerals and Rocks — Geological Building Blocks",
+      "quote": "Silicate minerals are the most abundant components of rocks on the Earth's surface",
+      "url": "https://hkss.cedd.gov.hk/hkss/en/publications-and-resources/educational-materials/hong-kong-geology/chapter-1/index.html",
+      "evidenceId": "ce459a714a95e11679ef",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "Hong Kong Civil Engineering and Development Department",
+      "ref": "Minerals and Rocks — Geological Building Blocks",
+      "quote": "Silicate minerals are the most abundant components of rocks on the Earth's surface",
+      "url": "https://hkss.cedd.gov.hk/hkss/en/publications-and-resources/educational-materials/hong-kong-geology/chapter-1/index.html",
+      "evidenceId": "ce459a714a95e11679ef",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "Hong Kong Civil Engineering and Development Department",
+      "ref": "Minerals and Rocks — Geological Building Blocks",
+      "quote": "Silicate minerals are the most abundant components of rocks on the Earth's surface",
+      "url": "https://hkss.cedd.gov.hk/hkss/en/publications-and-resources/educational-materials/hong-kong-geology/chapter-1/index.html",
+      "evidenceId": "ce459a714a95e11679ef",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "Hong Kong Civil Engineering and Development Department",
+      "ref": "Minerals and Rocks — Geological Building Blocks",
+      "quote": "Silicate minerals are the most abundant components of rocks on the Earth's surface",
+      "url": "https://hkss.cedd.gov.hk/hkss/en/publications-and-resources/educational-materials/hong-kong-geology/chapter-1/index.html",
+      "evidenceId": "ce459a714a95e11679ef",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "Stephen A. Nelson / Tulane University",
+      "ref": "Tectosilicates, Carbonates, Oxides, & Accessory Minerals",
+      "quote": "There are three structural types of carbonates:",
+      "url": "https://www2.tulane.edu/~sanelson/eens212/tectosilictes&others.htm",
+      "evidenceId": "f0d20e8d09f8b1e5cb51",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "Stephen A. Nelson / Tulane University",
+      "ref": "Tectosilicates, Carbonates, Oxides, & Accessory Minerals",
+      "quote": "There are three structural types of carbonates:",
+      "url": "https://www2.tulane.edu/~sanelson/eens212/tectosilictes&others.htm",
+      "evidenceId": "f0d20e8d09f8b1e5cb51",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "Stephen A. Nelson / Tulane University",
+      "ref": "Tectosilicates, Carbonates, Oxides, & Accessory Minerals",
+      "quote": "There are three structural types of carbonates:",
+      "url": "https://www2.tulane.edu/~sanelson/eens212/tectosilictes&others.htm",
+      "evidenceId": "f0d20e8d09f8b1e5cb51",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "Stephen A. Nelson / Tulane University",
+      "ref": "Tectosilicates, Carbonates, Oxides, & Accessory Minerals",
+      "quote": "There are three structural types of carbonates:",
+      "url": "https://www2.tulane.edu/~sanelson/eens212/tectosilictes&others.htm",
+      "evidenceId": "f0d20e8d09f8b1e5cb51",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "Stephen A. Nelson / Tulane University",
+      "ref": "Tectosilicates, Carbonates, Oxides, & Accessory Minerals",
+      "quote": "There are three structural types of carbonates:",
+      "url": "https://www2.tulane.edu/~sanelson/eens212/tectosilictes&others.htm",
+      "evidenceId": "f0d20e8d09f8b1e5cb51",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "The Open University",
+      "ref": "3.2 Silicate mineral structures",
+      "quote": "a silicon atom bonded to four oxygen atoms at the corners of a tetrahedron",
+      "url": "https://www.open.edu/openlearn/science-maths-technology/an-introduction-minerals-and-rocks-under-the-microscope/content-section-3.2",
+      "evidenceId": "428b6209ee4fd589182b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "The Open University",
+      "ref": "3.2 Silicate mineral structures",
+      "quote": "a silicon atom bonded to four oxygen atoms at the corners of a tetrahedron",
+      "url": "https://www.open.edu/openlearn/science-maths-technology/an-introduction-minerals-and-rocks-under-the-microscope/content-section-3.2",
+      "evidenceId": "428b6209ee4fd589182b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "The Open University",
+      "ref": "3.2 Silicate mineral structures",
+      "quote": "a silicon atom bonded to four oxygen atoms at the corners of a tetrahedron",
+      "url": "https://www.open.edu/openlearn/science-maths-technology/an-introduction-minerals-and-rocks-under-the-microscope/content-section-3.2",
+      "evidenceId": "428b6209ee4fd589182b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "The Open University",
+      "ref": "3.2 Silicate mineral structures",
+      "quote": "a silicon atom bonded to four oxygen atoms at the corners of a tetrahedron",
+      "url": "https://www.open.edu/openlearn/science-maths-technology/an-introduction-minerals-and-rocks-under-the-microscope/content-section-3.2",
+      "evidenceId": "428b6209ee4fd589182b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "The Open University",
+      "ref": "3.2 Silicate mineral structures",
+      "quote": "a silicon atom bonded to four oxygen atoms at the corners of a tetrahedron",
+      "url": "https://www.open.edu/openlearn/science-maths-technology/an-introduction-minerals-and-rocks-under-the-microscope/content-section-3.2",
+      "evidenceId": "428b6209ee4fd589182b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "The Open University",
+      "ref": "3.2 Silicate mineral structures",
+      "quote": "a silicon atom bonded to four oxygen atoms at the corners of a tetrahedron",
+      "url": "https://www.open.edu/openlearn/science-maths-technology/an-introduction-minerals-and-rocks-under-the-microscope/content-section-3.2",
+      "evidenceId": "428b6209ee4fd589182b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "Original image checked; false/true/true independently established from government and university mineralogy sources, matching stored answer 4. Avoided equating common structure with complete solid solution.",
+    "contentHash": "525d3665131536a08dc6e7ee4e460b4c0390b663accac682949f63bb4aea53ad"
+  }
+}

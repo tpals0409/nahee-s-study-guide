@@ -1,0 +1,21 @@
+{
+  "id": "179affdd480217e9a604",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology2e6.5 Enzymes",
+  "url": "https://openstax.org/books/biology-2e/pages/6-5-enzymes",
+  "excerpt": "Almost all enzymes are proteins",
+  "sourceHash": "8c42f99193b1f13c26d73a774e92481b960c2882c7a356d3b7744b99a02c7126",
+  "cacheSourceId": "47bdb8eb75db916ecee3",
+  "retrievedAt": "2026-11-07T04:11:39.560588+00:00",
+  "reviewedMappings": {
+    "2026-3-26:0": "Protein enzymes establish ㄱ; classical active-site competition establishes ㄴ; combined with uncompetitive source selects ㄱㄴ.",
+    "2026-3-26:1": "Protein enzymes establish ㄱ; classical active-site competition establishes ㄴ; combined with uncompetitive source selects ㄱㄴ.",
+    "2026-3-26:2": "Protein enzymes establish ㄱ; classical active-site competition establishes ㄴ; combined with uncompetitive source selects ㄱㄴ.",
+    "2026-3-26:3": "Protein enzymes establish ㄱ; classical active-site competition establishes ㄴ; combined with uncompetitive source selects ㄱㄴ.",
+    "2026-3-26:4": "Protein enzymes establish ㄱ; classical active-site competition establishes ㄴ; combined with uncompetitive source selects ㄱㄴ.",
+    "2026-3-26:5": "Protein enzymes establish ㄱ; classical active-site competition establishes ㄴ; combined with uncompetitive source selects ㄱㄴ."
+  },
+  "retrievalMethod": "Direct web open/find",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

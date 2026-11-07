@@ -1,0 +1,19 @@
+{
+  "id": "3c023ef156fe590da9e9",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "9.3 Stoichiometry of Gaseous Substances, Mixtures, and Reactions",
+  "url": "https://openstax.org/books/chemistry-2e/pages/9-3-stoichiometry-of-gaseous-substances-mixtures-and-reactions",
+  "excerpt": "the partial pressure of each gas can be determined from the ideal gas equation",
+  "sourceHash": "f8a8df54e925a3191b4e71c34e493edf8411383d5ac86105bfb08965147247e0",
+  "cacheSourceId": "9ad1b0b922e71c825b9f",
+  "retrievedAt": "2026-11-06T21:01:50.187635+00:00",
+  "reviewedMappings": {
+    "2017-3-11:0": "본문 150–165행 몰분율 n_i/n_total과 부분압력 n_i RT/V 확인. B₂ 몰분율 0.02/0.12=1/6, AB 분압 0.02×80/2=0.8 atm, AB₃ 분압 3.2 atm. 압력 기반 Kp=0.8²/3.2=0.2도 독립 확인.",
+    "2017-3-11:1": "본문 150–165행 몰분율 n_i/n_total과 부분압력 n_i RT/V 확인. B₂ 몰분율 0.02/0.12=1/6, AB 분압 0.02×80/2=0.8 atm, AB₃ 분압 3.2 atm. 압력 기반 Kp=0.8²/3.2=0.2도 독립 확인.",
+    "2017-3-11:2": "본문 150–165행 몰분율 n_i/n_total과 부분압력 n_i RT/V 확인. B₂ 몰분율 0.02/0.12=1/6, AB 분압 0.02×80/2=0.8 atm, AB₃ 분압 3.2 atm. 압력 기반 Kp=0.8²/3.2=0.2도 독립 확인.",
+    "2017-3-11:4": "본문 150–165행 몰분율 n_i/n_total과 부분압력 n_i RT/V 확인. B₂ 몰분율 0.02/0.12=1/6, AB 분압 0.02×80/2=0.8 atm, AB₃ 분압 3.2 atm. 압력 기반 Kp=0.8²/3.2=0.2도 독립 확인."
+  },
+  "retrievalMethod": "Direct source opened; equilibrium or gas-mixture equations reviewed.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

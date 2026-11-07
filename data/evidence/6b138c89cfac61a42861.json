@@ -1,0 +1,20 @@
+{
+  "id": "6b138c89cfac61a42861",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "19.2 Coordination Chemistry of Transition Metals",
+  "url": "https://openstax.org/books/chemistry-2e/pages/19-2-coordination-chemistry-of-transition-metals",
+  "excerpt": "Bidentate ligands are those in which two atoms coordinate to the metal center.",
+  "sourceHash": "fe0ed2c3c3c4e07e0ef41b7de34f584869512d2948d64350dedfbf3888bdc277",
+  "cacheSourceId": "8214526c6edf3f7ac47b",
+  "retrievedAt": "2026-11-06T20:20:16.276431+00:00",
+  "reviewedMappings": {
+    "2016-3-15:0": "전하 합으로 +3을 산출하고 두자리 리간드의 주개 원자 수 및 정팔면체 cis/trans 배치를 적용한다. 본문 42–48, 89–90, 130, 172–173, 203–211 대조.",
+    "2016-3-15:1": "본문 130의 중성 NH3와 -1 chloro 전하 규칙으로 x-1=2를 적용한다.",
+    "2016-3-15:2": "두자리 L은 두 주개 원자를 제공하므로 정팔면체의 6자리=2n+2에서 n=2.",
+    "2016-3-15:3": "본문의 cis/trans 정의와 Co(en)2Cl2 예를 적용. 정팔면체 여섯 꼭짓점에서 NH3/Cl의 인접/대향 배치 모두 남은 네 자리를 인접한 두 쌍으로 분할할 수 있음을 별도 검산.",
+    "2016-3-15:4": "배위수는 주개 원자 수이며 2×2+1+1=6."
+  },
+  "retrievalMethod": "Direct web open and targeted find; relevant text reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

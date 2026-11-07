@@ -1,0 +1,17 @@
+{
+  "id": "0962d9f852e7d19fd27f",
+  "kind": "science",
+  "source": "U.S. Geological Survey",
+  "ref": "Where did dinosaurs live?",
+  "url": "https://www.usgs.gov/faqs/where-did-dinosaurs-live",
+  "excerpt": "During the 165 million years of dinosaur existence this supercontinent slowly broke apart.",
+  "sourceHash": "20c77641b88abcd1a21da40b0336b3f4115293d43614b15210a4421e17134a78",
+  "cacheSourceId": "1c3a3fed3980e4da935f",
+  "retrievedAt": "2026-11-06T19:52:40.942939+00:00",
+  "reviewedMappings": {
+    "2015-3-32:0": "USGS 본문은 트라이아스기의 판게아와 공룡 시대 동안의 분열을 설명한다. ㄱ의 분리 시작은 중생대이며 신생대에 시작된 사건이 아니다. 현재도 판 운동이 계속된다는 사실과 시작 시기를 구분한다.",
+    "2015-3-32:1": "USGS 본문은 트라이아스기의 판게아와 공룡 시대 동안의 분열을 설명한다. ㄱ의 분리 시작은 중생대이며 신생대에 시작된 사건이 아니다. 현재도 판 운동이 계속된다는 사실과 시작 시기를 구분한다."
+  },
+  "retrievalMethod": "Direct web open; main paragraph reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

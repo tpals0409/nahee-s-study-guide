@@ -1,0 +1,21 @@
+{
+  "id": "b5a02a47d5e07d5bcd1a",
+  "kind": "science",
+  "source": "NOAA National Ocean Service",
+  "ref": "Boundary Currents",
+  "url": "https://oceanservice.noaa.gov/education/tutorial_currents/04currents3.html",
+  "excerpt": "Global winds drag on the water’s surface",
+  "sourceHash": "be98e52ae6c2c485bd8d651682d3ae3f456028a09e3b282e4041bf813e69d3c4",
+  "cacheSourceId": "ef23fd21213dab11e35f",
+  "retrievedAt": "2026-11-07T02:54:36.852109+00:00",
+  "reviewedMappings": {
+    "2024-3-38:0": "본문의 바람에 의한 해수면 견인과 북반구 시계·남반구 반시계 환류를 대조하여 ㄱ 참·ㄷ 거짓 및 조합 선지를 판정.",
+    "2024-3-38:1": "본문의 바람에 의한 해수면 견인과 북반구 시계·남반구 반시계 환류를 대조하여 ㄱ 참·ㄷ 거짓 및 조합 선지를 판정.",
+    "2024-3-38:2": "본문의 바람에 의한 해수면 견인과 북반구 시계·남반구 반시계 환류를 대조하여 ㄱ 참·ㄷ 거짓 및 조합 선지를 판정.",
+    "2024-3-38:3": "본문의 바람에 의한 해수면 견인과 북반구 시계·남반구 반시계 환류를 대조하여 ㄱ 참·ㄷ 거짓 및 조합 선지를 판정.",
+    "2024-3-38:4": "본문의 바람에 의한 해수면 견인과 북반구 시계·남반구 반시계 환류를 대조하여 ㄱ 참·ㄷ 거짓 및 조합 선지를 판정.",
+    "2024-3-38:5": "본문의 바람에 의한 해수면 견인과 북반구 시계·남반구 반시계 환류를 대조하여 ㄱ 참·ㄷ 거짓 및 조합 선지를 판정."
+  },
+  "retrievalMethod": "Direct NOAA tutorial page opened and relevant body paragraphs reviewed.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

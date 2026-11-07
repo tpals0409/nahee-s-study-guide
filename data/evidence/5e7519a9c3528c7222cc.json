@@ -1,0 +1,16 @@
+{
+  "id": "5e7519a9c3528c7222cc",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Anatomy and Physiology §27.1 Anatomy and Physiology of the Male Reproductive System",
+  "url": "https://openstax.org/books/anatomy-and-physiology/pages/27-1-anatomy-and-physiology-of-the-male-reproductive-system",
+  "excerpt": "stored in the tail of the epididymis",
+  "sourceHash": "2ac9da40edeed121390abef1d686663ee8f131a904ad65d5e1f93fb3453b7e14",
+  "cacheSourceId": "22f44f9eceb2d1f45ff1",
+  "retrievedAt": "2026-11-06T16:38:04.529518+00:00",
+  "reviewedMappings": {
+    "2011-3-24:0": "Sperm Transport 절의 부정소 성숙·저장과 coiled tube 구조 확인(①). Seminal Vesicles 절의 과당 ATP 공급 확인(②). 요도구선의 윤활 및 요도 오줌 잔류물 제거 기능 확인(⑤). 부정소 성숙과 최종 수정능획득을 동일시하는 초안 표현 삭제."
+  },
+  "retrievalMethod": "web.run official textbook text and figure descriptions reviewed",
+  "sourceHashScope": "Selected excerpt only; not full page"
+}

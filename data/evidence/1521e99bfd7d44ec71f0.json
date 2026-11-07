@@ -1,0 +1,21 @@
+{
+  "id": "1521e99bfd7d44ec71f0",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 2e 19.2 — Coordination sphere and oxidation states",
+  "url": "https://openstax.org/books/chemistry-2e/pages/19-2-coordination-chemistry-of-transition-metals",
+  "excerpt": "Brackets in a formula enclose the coordination sphere",
+  "sourceHash": "ca20f71c31a8da90cff9ce55dd411c67d50f111d76f0ae62f4e5b7bb1c7de4a5",
+  "cacheSourceId": "6e98ad1b19a1cb89e94e",
+  "retrievedAt": "2026-11-06T17:16:04.871704+00:00",
+  "reviewedMappings": {
+    "2012-3-17:0": "본문42 및89–90, 예제19.4 대조. K+ 두 개,Ca2+,SO4²−로 착이온 전하−2/−2/+2. Cl−/CN−/NH3 전하 적용 금속+2/+2/+3. 문제의 완전 이온화 조건에서 착이온 단위 유지하여 이온3/2/2개.",
+    "2012-3-17:1": "본문42 및89–90, 예제19.4 대조. K+ 두 개,Ca2+,SO4²−로 착이온 전하−2/−2/+2. Cl−/CN−/NH3 전하 적용 금속+2/+2/+3. 문제의 완전 이온화 조건에서 착이온 단위 유지하여 이온3/2/2개.",
+    "2012-3-17:2": "본문42 및89–90, 예제19.4 대조. K+ 두 개,Ca2+,SO4²−로 착이온 전하−2/−2/+2. Cl−/CN−/NH3 전하 적용 금속+2/+2/+3. 문제의 완전 이온화 조건에서 착이온 단위 유지하여 이온3/2/2개.",
+    "2012-3-17:3": "본문42 및89–90, 예제19.4 대조. K+ 두 개,Ca2+,SO4²−로 착이온 전하−2/−2/+2. Cl−/CN−/NH3 전하 적용 금속+2/+2/+3. 문제의 완전 이온화 조건에서 착이온 단위 유지하여 이온3/2/2개.",
+    "2012-3-17:4": "본문42 및89–90, 예제19.4 대조. K+ 두 개,Ca2+,SO4²−로 착이온 전하−2/−2/+2. Cl−/CN−/NH3 전하 적용 금속+2/+2/+3. 문제의 완전 이온화 조건에서 착이온 단위 유지하여 이온3/2/2개.",
+    "2012-3-17:5": "본문42 및89–90, 예제19.4 대조. K+ 두 개,Ca2+,SO4²−로 착이온 전하−2/−2/+2. Cl−/CN−/NH3 전하 적용 금속+2/+2/+3. 문제의 완전 이온화 조건에서 착이온 단위 유지하여 이온3/2/2개."
+  },
+  "retrievalMethod": "web.open and web.find relevant sections reviewed; selected excerpt retained",
+  "sourceHashScope": "Selected excerpt only; not full page"
+}

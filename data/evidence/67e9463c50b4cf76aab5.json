@@ -1,0 +1,21 @@
+{
+  "id": "67e9463c50b4cf76aab5",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume 1, 3.4 Motion with Constant Acceleration",
+  "url": "https://openstax.org/books/university-physics-volume-1/pages/3-4-motion-with-constant-acceleration",
+  "excerpt": "the simple average of the initial and final velocities",
+  "sourceHash": "70b23ad978a468c2f6029eda1b25324cf6d621bc2890aa626abf55ac388e1bad",
+  "cacheSourceId": "438a243a80cabed3039b",
+  "retrievedAt": "2026-11-07T02:16:08.018847+00:00",
+  "reviewedMappings": {
+    "2024-3-03:0": "등가속도에서 평균속도=(v0+v)/2, 변위=평균속도×시간을 직접 확인했다. 각 물체의 초기 운동 방향을 양으로 잡으면 정지 전 역전 없이 v0→0이므로 이동거리=변위 크기. 시간 t0,2t0을 대입하면 비2이며, 속력–시간 삼각형 넓이로도 검산된다.",
+    "2024-3-03:1": "등가속도에서 평균속도=(v0+v)/2, 변위=평균속도×시간을 직접 확인했다. 각 물체의 초기 운동 방향을 양으로 잡으면 정지 전 역전 없이 v0→0이므로 이동거리=변위 크기. 시간 t0,2t0을 대입하면 비2이며, 속력–시간 삼각형 넓이로도 검산된다.",
+    "2024-3-03:2": "등가속도에서 평균속도=(v0+v)/2, 변위=평균속도×시간을 직접 확인했다. 각 물체의 초기 운동 방향을 양으로 잡으면 정지 전 역전 없이 v0→0이므로 이동거리=변위 크기. 시간 t0,2t0을 대입하면 비2이며, 속력–시간 삼각형 넓이로도 검산된다.",
+    "2024-3-03:3": "등가속도에서 평균속도=(v0+v)/2, 변위=평균속도×시간을 직접 확인했다. 각 물체의 초기 운동 방향을 양으로 잡으면 정지 전 역전 없이 v0→0이므로 이동거리=변위 크기. 시간 t0,2t0을 대입하면 비2이며, 속력–시간 삼각형 넓이로도 검산된다.",
+    "2024-3-03:4": "등가속도에서 평균속도=(v0+v)/2, 변위=평균속도×시간을 직접 확인했다. 각 물체의 초기 운동 방향을 양으로 잡으면 정지 전 역전 없이 v0→0이므로 이동거리=변위 크기. 시간 t0,2t0을 대입하면 비2이며, 속력–시간 삼각형 넓이로도 검산된다.",
+    "2024-3-03:5": "등가속도에서 평균속도=(v0+v)/2, 변위=평균속도×시간을 직접 확인했다. 각 물체의 초기 운동 방향을 양으로 잡으면 정지 전 역전 없이 v0→0이므로 이동거리=변위 크기. 시간 t0,2t0을 대입하면 비2이며, 속력–시간 삼각형 넓이로도 검산된다."
+  },
+  "retrievalMethod": "Direct web open; reviewed equations 3.10–3.13 and constant-acceleration condition",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

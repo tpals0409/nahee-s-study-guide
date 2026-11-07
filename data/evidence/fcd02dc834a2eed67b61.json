@@ -1,0 +1,25 @@
+{
+  "id": "fcd02dc834a2eed67b61",
+  "kind": "science",
+  "source": "The Geological Society",
+  "ref": "Chemical composition - crust and mantle",
+  "url": "https://www.geolsoc.org.uk/Plate-Tectonics/Chap2-What-is-a-Plate/Chemical-composition-crust-and-mantle.html",
+  "excerpt": "This rock is characteristic of the upper parts of the Earth's mantle.",
+  "sourceHash": "f2110c59f2010b28ce918b107b6ec6a003c9b0bf35718823a03b3f082cb254fe",
+  "cacheSourceId": "c98331c77f33d00ff8a3",
+  "retrievedAt": "2026-11-07T00:31:24.631538+00:00",
+  "reviewedMappings": {
+    "2020-3-32:0": "ㄱ의 모호면 경계와 ㄷ의 상부 맨틀 감람암을 지지.",
+    "2020-3-32:1": "ㄱ만 선택하면 참인 ㄷ이 누락됨.",
+    "2020-3-32:3": "ㄱ 모호면 경계와 ㄷ 상부 맨틀 감람암 설명을 지지.",
+    "2020-3-32:4": "ㄱ과 ㄷ이 참이라는 조합 판단을 지지.",
+    "2020-3-32:5": "누락된 ㄱ이 참임을 지지.",
+    "2021-3-35:0": "Direct page paragraph below Moho: peridotite, rich in iron and magnesium, characteristic of upper mantle. No assertion that mantle is uniformly one rock or precise silica cutoff.",
+    "2021-3-35:1": "Direct page paragraph below Moho: peridotite, rich in iron and magnesium, characteristic of upper mantle. No assertion that mantle is uniformly one rock or precise silica cutoff.",
+    "2021-3-35:2": "Direct page paragraph below Moho: peridotite, rich in iron and magnesium, characteristic of upper mantle. No assertion that mantle is uniformly one rock or precise silica cutoff.",
+    "2021-3-35:4": "Direct page paragraph below Moho: peridotite, rich in iron and magnesium, characteristic of upper mantle. No assertion that mantle is uniformly one rock or precise silica cutoff.",
+    "2021-3-35:5": "Direct page paragraph below Moho: peridotite, rich in iron and magnesium, characteristic of upper mantle. No assertion that mantle is uniformly one rock or precise silica cutoff."
+  },
+  "retrievalMethod": "Direct page paragraph below Moho: peridotite, rich in iron and magnesium, characteristic of upper mantle. No assertion that mantle is uniformly one rock or precise silica cutoff.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

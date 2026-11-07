@@ -1,0 +1,16 @@
+{
+  "id": "6766381cfe4233313f24",
+  "kind": "science",
+  "source": "UCAR Center for Science Education",
+  "ref": "Layers of Earth’s Atmosphere — Stratosphere",
+  "url": "https://scied.ucar.edu/learning-zone/atmosphere/layers-earths-atmosphere",
+  "excerpt": "Ozone molecules in this layer absorb high-energy ultraviolet (UV) light from the Sun, converting the UV energy into heat.",
+  "sourceHash": "612f9b01d2d440e227ec19b179d97c4dd9fe0604b45521a604eae71f2845d04f",
+  "cacheSourceId": "e48c78bf68ae770900bc",
+  "retrievedAt": "2026-11-06T16:07:31.289447+00:00",
+  "reviewedMappings": {
+    "2010-3-37:0": "ㄴ: 성층권 오존이 태양 자외선을 흡수하여 가열한다는 본문 및 바로 다음 기온 상승 설명을 확인."
+  },
+  "retrievalMethod": "web.open/web.find publisher body read; selected excerpts transcribed",
+  "sourceHashScope": "Selected excerpts only; not full page"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "917c3eae8ab35ff4f3dd",
+  "kind": "science",
+  "source": "USGS",
+  "ref": "The Interior of the Earth",
+  "url": "https://pubs.usgs.gov/gip/interior/",
+  "excerpt": "iron and magnesium silicate minerals",
+  "sourceHash": "47f7ae4558c19d696d17f76c3eacc5d3a1e8946db04cfbffe611cfae899b7c34",
+  "cacheSourceId": "283e126150d971cec7a2",
+  "retrievedAt": "2026-11-07T02:45:32.139299+00:00",
+  "reviewedMappings": {
+    "2024-3-31:1": "Mantle iron/magnesium silicate composition and mantle-to-core wave-speed reduction support choices 1 and 5; inner/outer core discussion supports iron-rich composition.",
+    "2024-3-31:3": "Mantle iron/magnesium silicate composition and mantle-to-core wave-speed reduction support choices 1 and 5; inner/outer core discussion supports iron-rich composition.",
+    "2024-3-31:5": "Mantle iron/magnesium silicate composition and mantle-to-core wave-speed reduction support choices 1 and 5; inner/outer core discussion supports iron-rich composition."
+  },
+  "retrievalMethod": "Official indexed text reviewed; direct open returned 403.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

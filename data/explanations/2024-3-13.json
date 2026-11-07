@@ -1,0 +1,151 @@
+{
+  "id": "2024-3-13",
+  "summary": "최종정답은④(ㄴ·ㄷ)입니다. 아래 풀이는 v₁=−d[A]/dt, v₂=−d[D]/dt로, 각각의 반응물 농도 감소 속도를 사용하는 해석입니다. 이 기준에서 k₁=k₂, x=4이고 평균 속도비는2입니다.",
+  "choices": [
+    "①(ㄱ): [D]₀=c,[A]₀=2c로 둡니다. 속도가1/4로 줄면 농도는1/2이므로 첫 반감기는 A가1분,D가2분입니다. 소모 속도 기준의2차 반감기 t½=1/(kC₀)를 적용하면 k₁=1/(2c·1분)=k₂이므로 k₁=2k₂는 거짓입니다.",
+    "②(ㄴ): A의 첫 반감기가1분이므로 [A](t)=[A]₀/(1+t/1분)입니다.3분에는 초기농도의1/4이고, 속도는그제곱인1/16이므로 x=64/16=4입니다. 다만 소모 속도 해석에서는ㄷ도 옳습니다.",
+    "③(ㄱ·ㄷ): 소모 속도 기준에서ㄷ은 옳지만ㄱ은 거짓입니다. 두 반응의 속도상수는 초기농도와반감기를 함께 적용하면 같으므로,ㄱ을 포함한③은 맞지 않습니다.",
+    "④(ㄴ·ㄷ): 최종정답입니다. A는0~3분에2c에서c/2로 줄어 평균 소모 속도가(3c/2)/(180초)=c/120 M/s입니다. D는0~2분에c에서c/2로 줄어(c/2)/(120초)=c/240 M/s입니다. 비는2이고 x=4이므로ㄴ·ㄷ을 고릅니다.",
+    "⑤(ㄱ·ㄴ·ㄷ): 소모 속도 해석에서ㄴ과ㄷ은 참이지만 k₁=k₂이므로ㄱ은 거짓입니다. 세 항목 모두를 고를 수 없습니다."
+  ],
+  "lawNote": "속도 정의 주의: 반응식 계수로 정규화한 속도라면 첫 반응은 v₁=−(1/2)d[A]/dt이고 둘째는 v₂=−d[D]/dt입니다. 이 정의에서는 같은 농도 변화에 대한 평균 속도비가1이 되어 위 풀이와 달라집니다. 원문은 기준 화학종을 명시하지 않으므로, 공식 정답에 대응하는 소모 속도 해석을 구분해 제시합니다.2차 반응은 매1분마다 계속 반감하는 것이 아닙니다. A의 첫 반감은1분, 다음 반감에는추가2분이 걸립니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e 12.4 Integrated Rate Laws",
+      "quote": "For these second-order reactions, the integrated rate law is:",
+      "url": "https://openstax.org/books/chemistry-2e/pages/12-4-integrated-rate-laws",
+      "evidenceId": "ccd8bf22c42fffcb082b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e 12.4 Integrated Rate Laws",
+      "quote": "For these second-order reactions, the integrated rate law is:",
+      "url": "https://openstax.org/books/chemistry-2e/pages/12-4-integrated-rate-laws",
+      "evidenceId": "ccd8bf22c42fffcb082b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e 12.4 Integrated Rate Laws",
+      "quote": "For these second-order reactions, the integrated rate law is:",
+      "url": "https://openstax.org/books/chemistry-2e/pages/12-4-integrated-rate-laws",
+      "evidenceId": "ccd8bf22c42fffcb082b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e 12.4 Integrated Rate Laws",
+      "quote": "For these second-order reactions, the integrated rate law is:",
+      "url": "https://openstax.org/books/chemistry-2e/pages/12-4-integrated-rate-laws",
+      "evidenceId": "ccd8bf22c42fffcb082b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e 12.4 Integrated Rate Laws",
+      "quote": "For these second-order reactions, the integrated rate law is:",
+      "url": "https://openstax.org/books/chemistry-2e/pages/12-4-integrated-rate-laws",
+      "evidenceId": "ccd8bf22c42fffcb082b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e 12.4 Integrated Rate Laws",
+      "quote": "For these second-order reactions, the integrated rate law is:",
+      "url": "https://openstax.org/books/chemistry-2e/pages/12-4-integrated-rate-laws",
+      "evidenceId": "ccd8bf22c42fffcb082b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §12.1 Chemical Reaction Rates",
+      "quote": "The rate of a reaction may be expressed as the change in concentration of any reactant or product.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/12-1-chemical-reaction-rates",
+      "evidenceId": "129783215b830a20f096",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §12.1 Chemical Reaction Rates",
+      "quote": "The rate of a reaction may be expressed as the change in concentration of any reactant or product.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/12-1-chemical-reaction-rates",
+      "evidenceId": "129783215b830a20f096",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §12.1 Chemical Reaction Rates",
+      "quote": "The rate of a reaction may be expressed as the change in concentration of any reactant or product.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/12-1-chemical-reaction-rates",
+      "evidenceId": "129783215b830a20f096",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §12.1 Chemical Reaction Rates",
+      "quote": "The rate of a reaction may be expressed as the change in concentration of any reactant or product.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/12-1-chemical-reaction-rates",
+      "evidenceId": "129783215b830a20f096",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §12.1 Chemical Reaction Rates",
+      "quote": "The rate of a reaction may be expressed as the change in concentration of any reactant or product.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/12-1-chemical-reaction-rates",
+      "evidenceId": "129783215b830a20f096",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §12.1 Chemical Reaction Rates",
+      "quote": "The rate of a reaction may be expressed as the change in concentration of any reactant or product.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/12-1-chemical-reaction-rates",
+      "evidenceId": "129783215b830a20f096",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Verified explicitly reactant-disappearance-rate interpretation: original image and final-key PDF page1 natural-science13=4 viewed; exact second-order integration and seconds conversion checked; stoichiometric-normalization limitation retained.",
+    "contentHash": "b5cae544ab3554708e68c77712ac306c9b29e98847a7b052ea5dafd158d56122"
+  }
+}

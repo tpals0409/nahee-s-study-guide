@@ -1,0 +1,16 @@
+{
+  "id": "2b51df10f7f2d9513889",
+  "kind": "science",
+  "source": "Jefferson Lab",
+  "ref": "10 Most Abundant Elements in the Earth's Crust",
+  "url": "https://stem-tools.jlab.org/glossary/abund_ele",
+  "excerpt": "Oxygen",
+  "sourceHash": "943077f0507ddf71e79a6b07cdc9a1f452bab07502be36ba125a6f5250038012",
+  "cacheSourceId": "75e5967f2bf08cb4530e",
+  "retrievedAt": "2026-11-06T16:48:24.683522+00:00",
+  "reviewedMappings": {
+    "2011-3-33:0": "ㄴ: 지각 원소 함량 표 검색반환에서 산소46.1% 확인. 산소가 가장 많고 철이 아니라는 선지 판단에 사용. 지구 전체와 지각 구별."
+  },
+  "retrievalMethod": "web.run official search table excerpt; direct open returned 403",
+  "sourceHashScope": "Selected excerpt only; not full page"
+}

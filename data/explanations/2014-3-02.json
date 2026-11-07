@@ -1,0 +1,107 @@
+{
+  "id": "2014-3-02",
+  "summary": "최종정답은④ 7.2×10¹⁰N/C입니다. P 주변을 좌우 같은 거리만큼 제외하여 대칭 전하의 기여를 상쇄시키는 계산에서는, 오른쪽의 남은 구간이 이 크기의 전기장을 만듭니다. 다만 P가 이상적 선전하 위에 있으므로 이는 대칭 제외라는 추가 해석에 따른 값입니다.",
+  "choices": [
+    "① 2.7×10¹⁰N/C: 대칭 제외 계산에서 얻는 크기는7.2×10¹⁰N/C이므로 다릅니다. kλ의 수치가2.7×10¹⁰이지만 단위는 N·m/C여서, 거리 역수 인자를 곱하기 전에는 전기장 값이 아닙니다.",
+    "② 3.6×10¹⁰N/C: 대칭 제외 계산값7.2×10¹⁰N/C의 절반입니다. 양쪽 기여를 상쇄한 뒤 남은 구간의 적분 결과를 다시 절반으로 나눌 이유는 없습니다.",
+    "③ 5.4×10¹⁰N/C: 남은 구간의 거리 역수 차는1/0.25−1/0.75=8/3m⁻¹입니다. kλ=2.7×10¹⁰N·m/C에 이를 곱하면7.2×10¹⁰N/C로,③과 다릅니다.",
+    "④ 7.2×10¹⁰N/C: 최종정답표의 정답입니다. P 양옆을 같은 거리만큼 제외한 상태에서 좌우0.25m까지의 기여를 상쇄하면, 오른쪽0.25~0.75m 구간만 남습니다. 그 크기는 kλ∫dr/r²=kλ(1/0.25−1/0.75)=7.2×10¹⁰N/C입니다. 양전하가 오른쪽에 있으므로 방향은 왼쪽입니다.",
+    "⑤ 8.1×10¹⁰N/C: 이 값은 대칭 제외 계산값과 다릅니다. 필요한 거리 인자는3m⁻¹가 아니라8/3m⁻¹이며, 크기는7.2×10¹⁰N/C입니다."
+  ],
+  "lawNote": "모형 주의: 이상적 선전하의 바로 위에서는 좌우 전기장 적분이 각각 발산합니다. 서로 반대인 발산을 그냥 상쇄해 보통의 수렴 적분이라고 부르면 안 됩니다. 좌우 같은 폭을 제외한 뒤 폭을0으로 보내는 대칭 주값은 위의 유한한 값을 주지만, 비대칭으로 제외하면 다른 결과가 납니다. 유한 굵기의 실제 막대 내부 전기장을 구하려면 단면과 전하 분포가 추가로 필요합니다. 여기서는 공식 정답에 대응하는 대칭 계산과 그 한계를 함께 제시하며, 공식 출제 의도가 확인되었다고 단정하지 않습니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume2 §5.5 Calculating Electric Fields of Charge Distributions",
+      "quote": "The integrals are generalizations of the expression for the field of a point charge.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/5-5-calculating-electric-fields-of-charge-distributions",
+      "evidenceId": "324c5bb986a2c96b4e1b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume2 §5.5 Calculating Electric Fields of Charge Distributions",
+      "quote": "The integrals are generalizations of the expression for the field of a point charge.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/5-5-calculating-electric-fields-of-charge-distributions",
+      "evidenceId": "324c5bb986a2c96b4e1b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume2 §5.5 Calculating Electric Fields of Charge Distributions",
+      "quote": "The integrals are generalizations of the expression for the field of a point charge.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/5-5-calculating-electric-fields-of-charge-distributions",
+      "evidenceId": "324c5bb986a2c96b4e1b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume2 §5.5 Calculating Electric Fields of Charge Distributions",
+      "quote": "The integrals are generalizations of the expression for the field of a point charge.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/5-5-calculating-electric-fields-of-charge-distributions",
+      "evidenceId": "324c5bb986a2c96b4e1b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume2 §5.5 Calculating Electric Fields of Charge Distributions",
+      "quote": "The integrals are generalizations of the expression for the field of a point charge.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/5-5-calculating-electric-fields-of-charge-distributions",
+      "evidenceId": "324c5bb986a2c96b4e1b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume2 §5.5 Calculating Electric Fields of Charge Distributions",
+      "quote": "The integrals are generalizations of the expression for the field of a point charge.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/5-5-calculating-electric-fields-of-charge-distributions",
+      "evidenceId": "324c5bb986a2c96b4e1b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Calculus Volume2 §3.7 Improper Integrals",
+      "quote": "If either of these integrals diverges,",
+      "url": "https://openstax.org/books/calculus-volume-2/pages/3-7-improper-integrals",
+      "evidenceId": "e67b44d8d113e58fd590",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Calculus Volume2 §3.7 Improper Integrals",
+      "quote": "If either of these integrals diverges,",
+      "url": "https://openstax.org/books/calculus-volume-2/pages/3-7-improper-integrals",
+      "evidenceId": "e67b44d8d113e58fd590",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Verified explicitly conditional symmetric-exclusion solution, not an unconditional on-line physical field. Original image and 2014 final-key PDF printed p3 A-form2=4 read; singular-integral definition and rational cutoff calculation checked.",
+    "contentHash": "b679c4c481aa6978082ede01336e9e88ebeebc06dd6e30f12ad7824ea6ead307"
+  }
+}

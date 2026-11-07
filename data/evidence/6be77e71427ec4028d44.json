@@ -1,0 +1,18 @@
+{
+  "id": "6be77e71427ec4028d44",
+  "kind": "science",
+  "source": "The Geological Society",
+  "ref": "Glacial Deposits",
+  "url": "https://www.geolsoc.org.uk/Plate-Tectonics/Chap1-Pioneers-of-Plate-Tectonics/Alfred-Wegener/Glacial-Deposits-from-Permo-Carboniferous-Glaciation.html",
+  "excerpt": "re-assembled near the south pole",
+  "sourceHash": "1d420a218f6ed1ed30e08a0667dd6bab863ab528b2a0d74671810a761296dd2b",
+  "cacheSourceId": "136a0ab2af626eda4b4e",
+  "retrievedAt": "2026-11-07T02:03:06.165096+00:00",
+  "reviewedMappings": {
+    "2023-3-32:0": "남극·아프리카·남미·인도·호주의 고생대말 빙하퇴적물, 남극 부근 대륙재배치와 빙하흔적 방향을 직접 확인. 북극빙하 연결이라는ㄴ은 이 증거를 잘못 설명함.",
+    "2023-3-32:2": "남극·아프리카·남미·인도·호주의 고생대말 빙하퇴적물, 남극 부근 대륙재배치와 빙하흔적 방향을 직접 확인. 북극빙하 연결이라는ㄴ은 이 증거를 잘못 설명함.",
+    "2023-3-32:5": "남극·아프리카·남미·인도·호주의 고생대말 빙하퇴적물, 남극 부근 대륙재배치와 빙하흔적 방향을 직접 확인. 북극빙하 연결이라는ㄴ은 이 증거를 잘못 설명함."
+  },
+  "retrievalMethod": "Geological Society Wegener 증거 페이지 및 해당 하위 페이지 직접 열람. 남극·아프리카·남미·인도·호주의 고생대말 빙하퇴적물, 남극 부근 대륙재배치와 빙하흔적 방향을 직접 확인. 북극빙하 연결이라는ㄴ은 이 증거를 잘못 설명함.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

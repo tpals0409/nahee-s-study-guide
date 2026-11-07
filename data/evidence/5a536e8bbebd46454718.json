@@ -1,0 +1,21 @@
+{
+  "id": "5a536e8bbebd46454718",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume 1 17.4 — Interference of Sound Waves",
+  "url": "https://openstax.org/books/university-physics-volume-1/pages/17-4-normal-modes-of-a-standing-sound-wave",
+  "excerpt": "When the difference in the path lengths is an integer multiple of a wavelength",
+  "sourceHash": "dca2e565b408df6014b1093ce6e7ff19176e21e63907347eb1cc9f9aad28ed68",
+  "cacheSourceId": "9fd5096dff0c0705e295",
+  "retrievedAt": "2026-11-06T17:00:45.511497+00:00",
+  "reviewedMappings": {
+    "2012-3-03:0": "원본 그림의 두 연결점 사이 직선2r와 반원πr 확인. 문제지정π=3에 따라 경로차r, λ=340/680=0.5m. 최소 양의 r=λ. 저장정답② 일치.",
+    "2012-3-03:1": "30cm는 경로차0.6λ로 최대 보강 아님.",
+    "2012-3-03:2": "50cm는1λ로 최소 양의 보강조건.",
+    "2012-3-03:3": "60cm는1.2λ로 최대 보강 아님.",
+    "2012-3-03:4": "75cm는1.5λ로 상쇄. 진폭이 같을 때만 완전 소멸하므로 0이라고 단정하지 않음.",
+    "2012-3-03:5": "80cm는1.6λ로 최대 보강 아님."
+  },
+  "retrievalMethod": "web.open 본문43–57 보강/상쇄 조건 및 v=λf 확인",
+  "sourceHashScope": "Selected excerpt only; not full page"
+}

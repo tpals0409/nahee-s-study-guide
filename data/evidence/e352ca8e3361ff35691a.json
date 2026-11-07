@@ -1,0 +1,16 @@
+{
+  "id": "e352ca8e3361ff35691a",
+  "kind": "science",
+  "source": "National Astronomical Observatory of Japan",
+  "ref": "Rising and Setting",
+  "url": "https://eco.mtk.nao.ac.jp/koyomi/faq/riseset.html.en",
+  "excerpt": "Around Last Quarter, the Moon rises around midnight and sets around following noon.",
+  "sourceHash": "999882229879fb10a62474b9c5a9ebbb545905149fd635ae15062aacd7f7fa68",
+  "cacheSourceId": "ea22573cac86049fc0ac",
+  "retrievedAt": "2026-11-06T18:26:54.798052+00:00",
+  "reviewedMappings": {
+    "2013-3-38:0": "하현은 자정무렵출현~다음정오무렵침강. 본문 상현 정오~자정과 실제시각변동도확인."
+  },
+  "retrievalMethod": "web.open",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

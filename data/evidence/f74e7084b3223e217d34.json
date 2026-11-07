@@ -1,0 +1,21 @@
+{
+  "id": "f74e7084b3223e217d34",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e, 8.3 Using Light Energy to Make Organic Molecules",
+  "url": "https://openstax.org/books/biology-2e/pages/8-3-using-light-energy-to-make-organic-molecules",
+  "excerpt": "only one of the G3P molecules leaves the Calvin cycle",
+  "sourceHash": "11b349581e7ee958bfdad4417d6f0eb86da71c0aad8b089cf573659ed0175f1e",
+  "cacheSourceId": "16182587217bd123dfb1",
+  "retrievedAt": "2026-11-07T05:44:40.637431+00:00",
+  "reviewedMappings": {
+    "2023-3-22:0": "ㄷ은 거짓: CO₂ 3개 고정 후 G3P 6개 중 5개는 RuBP 재생에 쓰이고 1개가 순산물이다. 포도당 생성에는 이후 반응이 필요하다. 판단 조합은 ㄱ·ㄴ, 선택지④.",
+    "2023-3-22:3": "ㄷ은 거짓: CO₂ 3개 고정 후 G3P 6개 중 5개는 RuBP 재생에 쓰이고 1개가 순산물이다. 포도당 생성에는 이후 반응이 필요하다. 판단 조합은 ㄱ·ㄴ, 선택지④.",
+    "2023-3-22:4": "ㄷ은 거짓: CO₂ 3개 고정 후 G3P 6개 중 5개는 RuBP 재생에 쓰이고 1개가 순산물이다. 포도당 생성에는 이후 반응이 필요하다. 판단 조합은 ㄱ·ㄴ, 선택지④.",
+    "2023-3-22:5": "ㄷ은 거짓: CO₂ 3개 고정 후 G3P 6개 중 5개는 RuBP 재생에 쓰이고 1개가 순산물이다. 포도당 생성에는 이후 반응이 필요하다. 판단 조합은 ㄱ·ㄴ, 선택지④.",
+    "2020-3-26:0": "캘빈회로 순생성 G3P 확인; 포도당 직접 생성과 구별.",
+    "2020-3-26:5": "캘빈회로 순생성 G3P 확인; 포도당 직접 생성과 구별."
+  },
+  "retrievalMethod": "Direct textbook HTML open",
+  "sourceHashScope": "Selected short excerpt only; not full source"
+}

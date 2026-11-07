@@ -1,0 +1,22 @@
+{
+  "id": "922f1defea83d501cad3",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Organic Chemistry, 17.1 Naming Alcohols and Phenols",
+  "url": "https://openstax.org/books/organic-chemistry/pages/17-1-naming-alcohols-and-phenols",
+  "excerpt": "depending on the number of organic groups bonded to the hydroxyl-bearing carbon.",
+  "sourceHash": "dded074ea22d5dd926bbf05026815d537b897edeabb0631355b2c1520d095330",
+  "cacheSourceId": "0c3d15da3a0e57e0e83d",
+  "retrievedAt": "2026-11-06T20:22:20.091007+00:00",
+  "reviewedMappings": {
+    "2014-3-13:0": "OH 결합 탄소에 연결된 탄소 수에 따른1·2·3차 분류를 원문과 대조. 직접 열거한 네 구조의 탄소이웃수는1,2,1,3이므로1차2개. 명명규칙과 축약구조식도 대조.",
+    "2016-3-17:0": "OH 결합 탄소의 탄소 치환기 두 개라는 정의를 적용하여 R-CH(OH)-R 형태를 열거한다.",
+    "2016-3-17:1": "2-펜탄올의 OH 결합 탄소에 두 탄소가 연결되므로 0개 배제.",
+    "2016-3-17:2": "2-펜탄올,3-펜탄올,3-메틸-2-뷰탄올의 OH 탄소에 각각 두 탄소가 연결됨을 구조식으로 확인.",
+    "2016-3-17:3": "직선골격 두 개와 가지골격 한 개 모두 2차임을 정의로 확인.",
+    "2016-3-17:4": "세 구조식의 OH 결합 탄소가 모두 탄소 두 개와 수소 하나에 연결됨을 확인.",
+    "2016-3-17:5": "2-메틸-2-뷰탄올은 OH 탄소에 세 탄소가 결합하므로 3차. 2차 알코올 수에 포함하지 않음."
+  },
+  "retrievalMethod": "Direct web open; alcohol classification and pentane skeleton/isomer definitions reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

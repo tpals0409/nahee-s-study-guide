@@ -1,0 +1,20 @@
+{
+  "id": "fdef5d1ae7d760c49e6a",
+  "kind": "science",
+  "source": "OpenStax Astronomy 2e",
+  "ref": "4.2 The Seasons",
+  "url": "https://openstax.org/books/astronomy-2e/pages/4-2-the-seasons",
+  "excerpt": "fewer hours of daylight and more hours of night in northern lands",
+  "sourceHash": "b22ed3fe8a90bd9bfb04bd1c1e92d0c916c99ee8f92ebf8123e7d7b540eb7d74",
+  "cacheSourceId": "9692f980433e0beb1361",
+  "retrievedAt": "2026-11-07T01:26:08.696028+00:00",
+  "reviewedMappings": {
+    "2022-3-39:0": "북반구 겨울의 짧은 낮, 춘추분의 적도상 일주 경로와 정동/정서 교점, 하지/동지 태양 위치를 원문 그림과 대조.",
+    "2022-3-39:2": "북반구 겨울의 짧은 낮, 춘추분의 적도상 일주 경로와 정동/정서 교점, 하지/동지 태양 위치를 원문 그림과 대조.",
+    "2022-3-39:3": "북반구 겨울의 짧은 낮, 춘추분의 적도상 일주 경로와 정동/정서 교점, 하지/동지 태양 위치를 원문 그림과 대조.",
+    "2022-3-39:4": "북반구 겨울의 짧은 낮, 춘추분의 적도상 일주 경로와 정동/정서 교점, 하지/동지 태양 위치를 원문 그림과 대조.",
+    "2022-3-39:5": "북반구 겨울의 짧은 낮, 춘추분의 적도상 일주 경로와 정동/정서 교점, 하지/동지 태양 위치를 원문 그림과 대조."
+  },
+  "retrievalMethod": "Direct chapter open; The Seasons and Sunshine paragraphs and Figure 4.7 equinox/solstice daily paths.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

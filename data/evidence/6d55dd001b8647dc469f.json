@@ -1,0 +1,21 @@
+{
+  "id": "6d55dd001b8647dc469f",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "4.7 Entropy on a Microscopic Scale",
+  "url": "https://openstax.org/books/university-physics-volume-2/pages/4-7-entropy-on-a-microscopic-scale",
+  "excerpt": "The adiabatic free expansion of an ideal gas is an irreversible process.",
+  "sourceHash": "7726dd7cc2feee3b6a7e14771b36062a8bc3b3480271e30d1cf54870542bc217",
+  "cacheSourceId": "f6aa8d013c3c8955f155",
+  "retrievedAt": "2026-11-07T04:43:34.644621+00:00",
+  "reviewedMappings": {
+    "2016-3-07:0": "등온 팽창의 양의 ΔS, 외부 단열인 두 물체 열전달의 합 증가, 비가역 단열 예외를 각각 확인.",
+    "2016-3-07:1": "등온 팽창 ΔS=nRln(V2/V1)>0이므로 ㄱ 누락. 자유팽창은 ㄴ의 증가 반례.",
+    "2016-3-07:2": "외부 단열 열접촉 물체의 합 증가와 등온 팽창 ㄱ을 함께 고려해야 한다.",
+    "2016-3-07:3": "외부 열교환 없는 두 물체의 엔트로피 합 증가에 따라 ㄷ 포함. ㄴ 제외의 가역 가정은4.6으로 별도 뒷받침.",
+    "2016-3-07:4": "ㄱ 등온 팽창과 ㄷ 외부단열 물체의 전체 엔트로피 증가. 가역 단열 해석은4.6.",
+    "2016-3-07:5": "단열 자유팽창에서 Q=0이지만 ΔS>0. 따라서 원문 ㄴ의 경로 미지정 한계를 명시."
+  },
+  "retrievalMethod": "Direct web open",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

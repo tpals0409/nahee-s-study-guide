@@ -1,0 +1,19 @@
+{
+  "id": "1391d651050758faec32",
+  "kind": "science",
+  "source": "OpenStax Chemistry 2e",
+  "ref": "19.3 Spectroscopic and Magnetic Properties of Coordination Compounds",
+  "url": "https://openstax.org/books/chemistry-2e/pages/19-3-spectroscopic-and-magnetic-properties-of-coordination-compounds",
+  "excerpt": "Many transition metal complexes have unpaired electrons and hence are paramagnetic.",
+  "sourceHash": "7dc410c0223fd3791fdd0ef3b1f6bcf60b108a92da4dd5b347c748fcbc93ef1b",
+  "cacheSourceId": "7f0e0c31179ff7956683",
+  "retrievedAt": "2026-11-07T03:14:08.081466+00:00",
+  "reviewedMappings": {
+    "2025-3-17:0": "해당 Fe(III) cyanide 저스핀·홀전자 1개, aqua 고스핀·홀전자 5개를 명시한 문단과 자기성 절을 함께 읽음. ②만 틀림.",
+    "2025-3-17:1": "Fe(III) cyanide 저스핀·홀전자1 명시 및 Δoct>P 분리 모형과 t2g5 도출.",
+    "2025-3-17:2": "Fe(III) aqua 고스핀·홀전자5 직접 명시와 홀전자 상자기성 정의 대조.",
+    "2025-3-17:3": "분광화학 계열 H2O<CN와 같은 금속에서의 분리 에너지 비교 대조."
+  },
+  "retrievalMethod": "Direct web page reading: relevant ligand series, specific Fe(III) spin examples and magnetic properties; ion configurations and Fe example.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

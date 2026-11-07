@@ -1,0 +1,21 @@
+{
+  "id": "0b359a8d0dd54067d121",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e 7.3 — Oxidation of Pyruvate and the Citric Acid Cycle",
+  "url": "https://openstax.org/books/biology-2e/pages/7-3-oxidation-of-pyruvate-and-the-citric-acid-cycle",
+  "excerpt": "the citric acid cycle produces very little ATP directly",
+  "sourceHash": "2fcc120bc3adfd953b9890df14c0fb4a57eef2d23d07047f6faa42f838d21b56",
+  "cacheSourceId": "c5ca59226fc45d501e66",
+  "retrievedAt": "2026-11-06T17:27:40.990009+00:00",
+  "reviewedMappings": {
+    "2012-3-27:0": "피루브산 산화와 회로 첫 시트르산 생성 반응, 1회전 NADH3/FADH₂1/ATP 또는 GTP1 생성 설명 및 전자전달계로 전달 조건 대조. (나)시트르산 (다)NADH 판단. 회로 경로 밖 옥살아세트산 표지 가능성은 단정하지 않음.",
+    "2012-3-27:1": "피루브산 산화와 회로 첫 시트르산 생성 반응, 1회전 NADH3/FADH₂1/ATP 또는 GTP1 생성 설명 및 전자전달계로 전달 조건 대조. (나)시트르산 (다)NADH 판단. 회로 경로 밖 옥살아세트산 표지 가능성은 단정하지 않음.",
+    "2012-3-27:2": "피루브산 산화와 회로 첫 시트르산 생성 반응, 1회전 NADH3/FADH₂1/ATP 또는 GTP1 생성 설명 및 전자전달계로 전달 조건 대조. (나)시트르산 (다)NADH 판단. 회로 경로 밖 옥살아세트산 표지 가능성은 단정하지 않음.",
+    "2012-3-27:3": "피루브산 산화와 회로 첫 시트르산 생성 반응, 1회전 NADH3/FADH₂1/ATP 또는 GTP1 생성 설명 및 전자전달계로 전달 조건 대조. (나)시트르산 (다)NADH 판단. 회로 경로 밖 옥살아세트산 표지 가능성은 단정하지 않음.",
+    "2012-3-27:4": "피루브산 산화와 회로 첫 시트르산 생성 반응, 1회전 NADH3/FADH₂1/ATP 또는 GTP1 생성 설명 및 전자전달계로 전달 조건 대조. (나)시트르산 (다)NADH 판단. 회로 경로 밖 옥살아세트산 표지 가능성은 단정하지 않음.",
+    "2012-3-27:5": "피루브산 산화와 회로 첫 시트르산 생성 반응, 1회전 NADH3/FADH₂1/ATP 또는 GTP1 생성 설명 및 전자전달계로 전달 조건 대조. (나)시트르산 (다)NADH 판단. 회로 경로 밖 옥살아세트산 표지 가능성은 단정하지 않음."
+  },
+  "retrievalMethod": "web.open; pathway steps and energy-carrier yields directly reviewed",
+  "sourceHashScope": "Selected excerpt only; not full page"
+}

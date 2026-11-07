@@ -1,0 +1,16 @@
+{
+  "id": "e7891fc0d6b7acd72050",
+  "kind": "science",
+  "source": "USGS",
+  "ref": "USGS — What was Pangea?",
+  "url": "https://www.usgs.gov/faqs/what-was-pangea?items_per_page=6&page=0&qt-news_science_products=0",
+  "excerpt": "From about 300-200 million years ago",
+  "sourceHash": "13533c8a25779ce1477bf882381f142eccd374e6bf1e9bc7576352a36e2f160d",
+  "cacheSourceId": "63d8fa445f8eafe5377a",
+  "retrievedAt": "2026-11-06T17:42:25.868223+00:00",
+  "reviewedMappings": {
+    "2012-3-39:0": "ㄴ 고생대 후기 판게아가 이미 형성되어 존재. 존재 기간 전체를 조립 기간으로 쓰지 않음."
+  },
+  "retrievalMethod": "web.open; relevant institutional page / author abstract directly reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

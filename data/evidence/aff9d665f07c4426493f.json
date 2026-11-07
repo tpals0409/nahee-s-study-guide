@@ -1,0 +1,16 @@
+{
+  "id": "aff9d665f07c4426493f",
+  "kind": "science",
+  "source": "NASA",
+  "ref": "Small Worlds Fact Sheet — Mass (10²¹ kg)",
+  "url": "https://nssdc.gsfc.nasa.gov/planetary/factsheet/galileanfact_table.html",
+  "excerpt": "Mass (10²¹kg) | 107.6 | 148.2 | 48.0 | 89.3 | 73.5 | 330.2 | 13.0 | 134.6 | 21.5 | 0.94 | 5970",
+  "sourceHash": "f0e47687c5817e3f8a57250b45ae123d0e89444c6b43bdc2ebf4f6d0cfc385cb",
+  "cacheSourceId": "42b4fbd91c163591b462",
+  "retrievedAt": "2026-11-06T15:15:40.023955+00:00",
+  "reviewedMappings": {
+    "2009-3-37:3": "각선지NASA원문대조. 금성>수성표면온도, 화성687일<천왕성30687일, 가니메데148.2e21kg>달73.5e21kg(지름아닌질량행). 대적반최소150년관측으로수일소멸반박;17세기동일폭풍단정삭제. 타이탄주성분질소. 날짜이후연구를시험당시정답변경근거로사용하지않음."
+  },
+  "retrievalMethod": "web tool open; table header and mass row inspected; empty separator column omitted, superscript normalized",
+  "sourceHashScope": "transcribed table header and mass row only; hash is fragment hash"
+}

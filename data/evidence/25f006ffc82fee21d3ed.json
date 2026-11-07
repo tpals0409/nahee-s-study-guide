@@ -1,0 +1,21 @@
+{
+  "id": "25f006ffc82fee21d3ed",
+  "kind": "science",
+  "source": "Journal of Geophysical Research: Planets",
+  "ref": "Rafkin et al. (2014), Diurnal variations of energetic particle radiation at the surface of Mars",
+  "url": "https://doi.org/10.1002/2013je004525",
+  "excerpt": "Mars has a large diurnal temperature variation",
+  "sourceHash": "aa023c1efca025e8e9de6e7226208eeab64fbbe995edb406cd48b4e15d5412ef",
+  "cacheSourceId": "2ce2a0e02c9acc85bcbf",
+  "retrievedAt": "2026-11-06T17:32:37.169128+00:00",
+  "reviewedMappings": {
+    "2012-3-32:0": "관측 연구의 화성 큰 일변화 설명으로 낮밤 변화 조건을 확인. 행성 전체 극값을 일교차로 계산하지 않음.",
+    "2012-3-32:1": "관측 연구의 화성 큰 일변화 설명으로 낮밤 변화 조건을 확인. 행성 전체 극값을 일교차로 계산하지 않음.",
+    "2012-3-32:2": "관측 연구의 화성 큰 일변화 설명으로 낮밤 변화 조건을 확인. 행성 전체 극값을 일교차로 계산하지 않음.",
+    "2012-3-32:3": "관측 연구의 화성 큰 일변화 설명으로 낮밤 변화 조건을 확인. 행성 전체 극값을 일교차로 계산하지 않음.",
+    "2012-3-32:4": "관측 연구의 화성 큰 일변화 설명으로 낮밤 변화 조건을 확인. 행성 전체 극값을 일교차로 계산하지 않음.",
+    "2012-3-32:5": "관측 연구의 화성 큰 일변화 설명으로 낮밤 변화 조건을 확인. 행성 전체 극값을 일교차로 계산하지 않음."
+  },
+  "retrievalMethod": "web.search_query; publisher article excerpt reviewed",
+  "sourceHashScope": "Selected excerpt only; not full page"
+}

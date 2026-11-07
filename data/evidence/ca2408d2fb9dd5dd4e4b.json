@@ -1,0 +1,16 @@
+{
+  "id": "ca2408d2fb9dd5dd4e4b",
+  "kind": "science",
+  "source": "OpenStax Chemistry 2e",
+  "ref": "13.3 Shifting Equilibria: Le Chatelier’s Principle",
+  "url": "https://openstax.org/books/chemistry-2e/pages/13-3-shifting-equilibria-le-chateliers-principle",
+  "excerpt": "For exothermic processes, heat is viewed as a product",
+  "sourceHash": "35916d83bd324678f0b5bdc5c00583298e7fb3f8f0ccf40fe2f3e8dcfdaef47d",
+  "cacheSourceId": "6cb818447973b8ca450a",
+  "retrievedAt": "2026-11-06T18:50:31.376023+00:00",
+  "reviewedMappings": {
+    "2014-3-20:2": "111–117행 흡열과 발열의 온도 의존성 적용. 두 온도 사이 시험 모델이며 모든 온도에서의 부호를 단정하지 않음. 130행 암모니아 평형상수 오기는 사용하지 않음."
+  },
+  "retrievalMethod": "web.open; manually reviewed excerpt",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

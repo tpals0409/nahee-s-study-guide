@@ -1,0 +1,21 @@
+{
+  "id": "668a595db0aaab46b277",
+  "kind": "science",
+  "source": "한국지질자원연구원 지질박물관",
+  "ref": "Geologic Time Street of Korea",
+  "url": "https://www.kigam.re.kr/menu.es?mid=b60202000000",
+  "excerpt": "Songnim Granites and Daebo Granites each intruded widely over the Korean Peninsula.",
+  "sourceHash": "f332418031b8568b4bec56a8ebf862071590082b1f5e387e00b15a29185a7d07",
+  "cacheSourceId": "beb8ca85f5b0c89baf90",
+  "retrievedAt": "2026-11-07T01:21:01.220132+00:00",
+  "reviewedMappings": {
+    "2022-3-34:0": "중생대·고생대 설명의 퇴적 및 관입 순서가 ㄱ을 지지하며, 평안누층군 이후 화강암 관입 사례가 ㄷ을 반박한다.",
+    "2022-3-34:1": "중생대·고생대 설명의 퇴적 및 관입 순서가 ㄱ을 지지하며, 평안누층군 이후 화강암 관입 사례가 ㄷ을 반박한다.",
+    "2022-3-34:2": "중생대·고생대 설명의 퇴적 및 관입 순서가 ㄱ을 지지하며, 평안누층군 이후 화강암 관입 사례가 ㄷ을 반박한다.",
+    "2022-3-34:3": "중생대·고생대 설명의 퇴적 및 관입 순서가 ㄱ을 지지하며, 평안누층군 이후 화강암 관입 사례가 ㄷ을 반박한다.",
+    "2022-3-34:4": "중생대·고생대 설명의 퇴적 및 관입 순서가 ㄱ을 지지하며, 평안누층군 이후 화강암 관입 사례가 ㄷ을 반박한다.",
+    "2022-3-34:5": "중생대·고생대 설명의 퇴적 및 관입 순서가 ㄱ을 지지하며, 평안누층군 이후 화강암 관입 사례가 ㄷ을 반박한다."
+  },
+  "retrievalMethod": "Direct web open; Mesozoic and Paleozoic sections, lines 168–205. Reviewed Daebo chronology, Cretaceous Gyeongsang deposition, post-Pyeongan Daebo/Bulguksa granite intrusion.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

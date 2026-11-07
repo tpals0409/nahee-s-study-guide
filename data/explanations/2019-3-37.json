@@ -1,0 +1,85 @@
+{
+  "id": "2019-3-37",
+  "summary": "세 조건을 모두 만족하는 행성은 금성이므로 정답은 ②입니다. 금성은 지구에서 가장 밝게 보이는 행성이며, 약 243일에 한 번 자전하고 대기의 주성분은 이산화탄소입니다.",
+  "choices": [
+    "① 수성은 자전 주기가 약 59일이므로 243일이라는 조건과 다릅니다.",
+    "② 금성은 가장 밝게 보이는 행성, 약 243일의 자전 주기, 이산화탄소가 주성분인 대기라는 세 조건을 모두 만족합니다.",
+    "③ 화성은 한 번 자전하는 데 약 24.6시간이 걸리므로 243일이라는 조건과 다릅니다.",
+    "④ 목성의 자전 주기는 약 9.9시간으로 243일보다 훨씬 짧습니다.",
+    "⑤ 토성의 자전 주기는 약 10.7시간이므로 243일이라는 조건에 맞지 않습니다."
+  ],
+  "lawNote": "여기서 243일은 금성의 자전 주기이며, 태양을 한 바퀴 도는 공전 주기와 구분합니다. 밝기는 지구에서 보는 겉보기 밝기를 뜻합니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "NASA",
+      "ref": "Venus Facts",
+      "quote": "The atmosphere is mostly carbon dioxide",
+      "url": "https://science.nasa.gov/venus/venus-facts/",
+      "evidenceId": "aed0bcaee0446a2fde9a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "NASA",
+      "ref": "Venus Facts",
+      "quote": "The atmosphere is mostly carbon dioxide",
+      "url": "https://science.nasa.gov/venus/venus-facts/",
+      "evidenceId": "aed0bcaee0446a2fde9a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "NASA",
+      "ref": "Mercury Facts",
+      "quote": "completes one rotation every 59 Earth days",
+      "url": "https://science.nasa.gov/mercury/facts/",
+      "evidenceId": "553afaf2767dbe091162",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "NASA",
+      "ref": "Mars Facts",
+      "quote": "it completes one rotation every 24.6 hours",
+      "url": "https://science.nasa.gov/mars/facts/",
+      "evidenceId": "1ddd411811920c21e883",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "NASA",
+      "ref": "Jupiter Facts",
+      "quote": "taking about 9.9 hours to spin around once on its axis.",
+      "url": "https://science.nasa.gov/jupiter/jupiter-facts/",
+      "evidenceId": "ad88adf0aa32ace1d8af",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "NASA",
+      "ref": "Saturn Facts",
+      "quote": "One day on Saturn takes only 10.7 hours",
+      "url": "https://science.nasa.gov/saturn/facts/",
+      "evidenceId": "bdf5cc3503d24a9dd58c",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "NASA 행성별 자전 주기와 금성의 밝기·대기 성분 대조; 불필요한 등급·알베도·기압 수치 삭제",
+    "contentHash": "d1d81e4f40cecaad1ffa27e8ca891e152c08139fc0f012a8a84ff5f8883d44e8"
+  }
+}

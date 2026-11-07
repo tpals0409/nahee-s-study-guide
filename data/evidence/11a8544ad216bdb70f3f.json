@@ -1,0 +1,17 @@
+{
+  "id": "11a8544ad216bdb70f3f",
+  "kind": "science",
+  "source": "Steven Earle · BCcampus",
+  "ref": "Physical Geology 2e, 7.2 Classification of Metamorphic Rocks",
+  "url": "https://opentextbc.ca/physicalgeology2ed/chapter/7-2-classification-of-metamorphic-rocks/",
+  "excerpt": "Examples of foliated metamorphic rocks: (A) Slate, (B) Phyllite, (C) Schist, (D) Gneiss.",
+  "sourceHash": "10219a76b4e58ed4d100aee98608a6bd594f7cc31804c604e04cf83e29083f31",
+  "cacheSourceId": "7c22dadea55ee0c4f2f6",
+  "retrievedAt": "2026-11-06T15:55:37.679798+00:00",
+  "reviewedMappings": {
+    "2010-3-32:4": "Table 7.1의 광역변성 mudrock→schist 및 엽리성 암석 분류 대조. 접촉변성 hornfels 설명과 비교. 모든 편암 형성을 한 환경에 절대 제한하지 않고 대표 분류로 설명.",
+    "2010-3-32:5": "Table 7.1의 광역변성 mudrock→schist 및 엽리성 암석 분류 대조. 접촉변성 hornfels 설명과 비교. 모든 편암 형성을 한 환경에 절대 제한하지 않고 대표 분류로 설명."
+  },
+  "retrievalMethod": "web source text read; definition and classification table reviewed",
+  "sourceHashScope": "Selected excerpt only"
+}

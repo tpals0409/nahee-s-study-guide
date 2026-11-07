@@ -1,0 +1,30 @@
+{
+  "summary": "수평으로 던진 물체는 수평 속도 40 m/s가 그대로 유지되고, 수직 속도만 중력에 의해 커집니다. 착지 속력 50 m/s에서 수직 성분을 구하면 30 m/s이고, t = 30/10 = 3 s입니다. 정답은 3s입니다.",
+  "choices": [
+    "2s: 2초 후 수직 속도는 10×2 = 20 m/s입니다. 이때 속력은 √(40²+20²) = √2000 ≈ 44.7 m/s로 50 m/s에 못 미치므로 오답입니다.",
+    "3s: 3초 후 수직 속도는 10×3 = 30 m/s입니다. 속력은 √(40²+30²) = √2500 = 50 m/s로 주어진 착지 속력과 정확히 일치하므로 정답입니다.",
+    "4s: 4초 후 수직 속도는 40 m/s입니다. 속력은 √(40²+40²) ≈ 56.6 m/s로 50 m/s보다 크므로 오답입니다.",
+    "5s: 5초 후 수직 속도는 50 m/s입니다. 속력은 √(40²+50²) ≈ 64.0 m/s가 됩니다. 수직 속도만 50 m/s로 잘못 놓은 경우에 나오는 값이므로 오답입니다.",
+    "6s: 6초 후 수직 속도는 60 m/s입니다. 속력은 √(40²+60²) ≈ 72.1 m/s로 50 m/s보다 훨씬 크므로 오답입니다."
+  ],
+  "lawNote": "수직 아래 방향을 양의 방향으로 잡으면 vᵧ=gt입니다. 착지 속력 50m/s는 수직 성분이 아니라 수평·수직 성분을 합성한 크기입니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1 §4.3 Projectile Motion, equations 4.19–4.21 and velocity components",
+      "quote": "vertical and horizontal motions are independent.",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/4-3-projectile-motion",
+      "evidenceId": "77024b6dae0b92c0ae77",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "현재 문항의 수평투사·공기저항 무시·속력40과50·g=10 조건 대조. 성분 운동 및 속도 합성으로 독립 계산하고 모든 선지의 속력 재계산. 저장 정답② 일치.",
+    "contentHash": "4f98a6d1dd7515dc2002af5b8414d18e20846efe5f09dd8b60b96fcd7848cb1c"
+  }
+}

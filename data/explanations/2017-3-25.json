@@ -1,0 +1,119 @@
+{
+  "id": "2017-3-25",
+  "summary": "A는 췌관과 합류하기 전의 총담관에 표시되어 있습니다. 이곳을 묶으면 담즙 공급이 차단되어 지방 유화가 줄고, 라이페이스가 작용할 표면적이 감소합니다. 따라서 직접적인 영향은 지방 소화 효율 저하이며 정답은 ①입니다.",
+  "choices": [
+    "정답입니다. 담즙산염은 지방을 작은 방울로 유화해 소화효소가 작용할 표면적을 넓힙니다. 담즙 공급이 막히면 지방 소화 효율이 떨어집니다.",
+    "오답입니다. 녹말은 침과 췌장 아밀레이스 등에 의해 소화됩니다. 그림의 A는 췌관 자체를 막는 위치가 아니므로 녹말 소화효소 공급을 직접 차단하지 않습니다.",
+    "오답입니다. 핵산 소화에는 췌장 뉴클레이스와 소장의 효소가 작용합니다. A에서 차단되는 것은 담즙 경로이므로 해당 효소 공급의 직접 차단이 아닙니다.",
+    "오답입니다. 담즙 부족으로 직접 영향을 받는 것은 지방과 지용성 비타민의 흡수입니다. 수용성 비타민은 지방을 운반하는 미셀에 의존하는 흡수 대상이 아닙니다.",
+    "오답입니다. 단백질 소화에는 위의 펩신, 췌장의 트립신·키모트립신, 소장의 펩티데이스 등이 작용합니다. 총담관 A 결찰은 이 효소들의 공급을 직접 막지 않습니다."
+  ],
+  "lawNote": "담즙의 유화는 지방을 작은 방울로 분산시키는 작용이며, 지방 분자의 화학적 분해는 라이페이스가 담당합니다. 이 문제는 그림에 표시된 관의 차단으로 생기는 직접적인 효과를 묻습니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Anatomy and Physiology 2e: Accessory Organs in Digestion: The Liver, Pancreas, and Gallbladder",
+      "quote": "This change dramatically increases the surface area available for lipid-digesting enzyme activity.",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/23-6-accessory-organs-in-digestion-the-liver-pancreas-and-gallbladder",
+      "evidenceId": "a946f5d0a18212eec870",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Anatomy and Physiology 2e: Accessory Organs in Digestion: The Liver, Pancreas, and Gallbladder",
+      "quote": "This change dramatically increases the surface area available for lipid-digesting enzyme activity.",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/23-6-accessory-organs-in-digestion-the-liver-pancreas-and-gallbladder",
+      "evidenceId": "a946f5d0a18212eec870",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Anatomy and Physiology 2e: Accessory Organs in Digestion: The Liver, Pancreas, and Gallbladder",
+      "quote": "This change dramatically increases the surface area available for lipid-digesting enzyme activity.",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/23-6-accessory-organs-in-digestion-the-liver-pancreas-and-gallbladder",
+      "evidenceId": "a946f5d0a18212eec870",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Anatomy and Physiology 2e: Accessory Organs in Digestion: The Liver, Pancreas, and Gallbladder",
+      "quote": "This change dramatically increases the surface area available for lipid-digesting enzyme activity.",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/23-6-accessory-organs-in-digestion-the-liver-pancreas-and-gallbladder",
+      "evidenceId": "a946f5d0a18212eec870",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Anatomy and Physiology 2e: Accessory Organs in Digestion: The Liver, Pancreas, and Gallbladder",
+      "quote": "This change dramatically increases the surface area available for lipid-digesting enzyme activity.",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/23-6-accessory-organs-in-digestion-the-liver-pancreas-and-gallbladder",
+      "evidenceId": "a946f5d0a18212eec870",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Anatomy and Physiology 2e: Chemical Digestion and Absorption: A Closer Look",
+      "quote": "The core also includes cholesterol and fat-soluble vitamins.",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/23-7-chemical-digestion-and-absorption-a-closer-look",
+      "evidenceId": "dbeae5aafc69fa767f26",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Anatomy and Physiology 2e: Chemical Digestion and Absorption: A Closer Look",
+      "quote": "The core also includes cholesterol and fat-soluble vitamins.",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/23-7-chemical-digestion-and-absorption-a-closer-look",
+      "evidenceId": "dbeae5aafc69fa767f26",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Anatomy and Physiology 2e: Chemical Digestion and Absorption: A Closer Look",
+      "quote": "The core also includes cholesterol and fat-soluble vitamins.",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/23-7-chemical-digestion-and-absorption-a-closer-look",
+      "evidenceId": "dbeae5aafc69fa767f26",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Anatomy and Physiology 2e: Chemical Digestion and Absorption: A Closer Look",
+      "quote": "The core also includes cholesterol and fat-soluble vitamins.",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/23-7-chemical-digestion-and-absorption-a-closer-look",
+      "evidenceId": "dbeae5aafc69fa767f26",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "Original A bar located on common bile duct below cystic-duct junction and above pancreatic junction; textbook duct anatomy and nutrient digestion reviewed; direct-effect scope preserved; ambiguous draft location corrected.",
+    "contentHash": "c802ee40e3022ae97ed6e29d2ea8c7c683057319511671f952ef0e95f9b88c52"
+  }
+}

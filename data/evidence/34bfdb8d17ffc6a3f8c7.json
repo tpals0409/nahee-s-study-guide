@@ -1,0 +1,22 @@
+{
+  "id": "34bfdb8d17ffc6a3f8c7",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "OpenStax Chemistry 2e §12.1 Chemical Reaction Rates",
+  "url": "https://openstax.org/books/chemistry-2e/pages/12-1-chemical-reaction-rates",
+  "excerpt": "the instantaneous rates derived from all three species involved in the reaction are related by their stoichiometric factors.",
+  "sourceHash": "26f193a5c452add14c1fdd5146428fbea086a4add00a89a7fc1d98d8f11b9442",
+  "cacheSourceId": "4efcd00a7b1b8040609f",
+  "retrievedAt": "2026-11-06T23:19:44.483016+00:00",
+  "reviewedMappings": {
+    "2013-3-20:4": "§12.1 화학양론 계수에 따른 생성·소멸 속도 관계를 A+B→2C에 적용. C생성속도는 A소멸속도의 두 배.",
+    "2020-3-18:0": "직접 열람한 50–54행의 평균/순간속도 구분과 89–112행의 화학량론적 속도비. 2A:1C에 적용하여 C 생성속도를 A 소모속도의 절반으로 계산. 표에서 k′=0.0050, 30초 A=4.00, C속도=0.040을 독립 계산.",
+    "2020-3-18:1": "직접 열람한 50–54행의 평균/순간속도 구분과 89–112행의 화학량론적 속도비. 2A:1C에 적용하여 C 생성속도를 A 소모속도의 절반으로 계산. ①이 요구하는 k′=0.00125는 표의 기울기와 불일치.",
+    "2020-3-18:2": "직접 열람한 50–54행의 평균/순간속도 구분과 89–112행의 화학량론적 속도비. 2A:1C에 적용하여 C 생성속도를 A 소모속도의 절반으로 계산. ②가 요구하는 k′=0.00250은 표의 기울기와 불일치.",
+    "2020-3-18:3": "직접 열람한 50–54행의 평균/순간속도 구분과 89–112행의 화학량론적 속도비. 2A:1C에 적용하여 C 생성속도를 A 소모속도의 절반으로 계산. ③ A소모속도0.080의 절반0.040으로 정답.",
+    "2020-3-18:4": "직접 열람한 50–54행의 평균/순간속도 구분과 89–112행의 화학량론적 속도비. 2A:1C에 적용하여 C 생성속도를 A 소모속도의 절반으로 계산. ④0.080은 A소모속도이며 C생성속도가 아님.",
+    "2020-3-18:5": "직접 열람한 50–54행의 평균/순간속도 구분과 89–112행의 화학량론적 속도비. 2A:1C에 적용하여 C 생성속도를 A 소모속도의 절반으로 계산. ⑤0.10은 0~30초 평균값으로 순간값0.040과 구별."
+  },
+  "retrievalMethod": "직접 열람한 50–54행의 평균/순간속도 구분과 89–112행의 화학량론적 속도비. 2A:1C에 적용하여 C 생성속도를 A 소모속도의 절반으로 계산.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

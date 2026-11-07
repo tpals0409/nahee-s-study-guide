@@ -1,0 +1,17 @@
+{
+  "id": "278fa67a46953b024bbd",
+  "kind": "science",
+  "source": "PubMed / Science original research",
+  "ref": "Double fertilization in ephedra, a nonflowering seed plant: its bearing on the origin of angiosperms",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/17776453/",
+  "excerpt": "fusion of a second sperm nucleus with the ventral canal nucleus occurs regularly",
+  "sourceHash": "b097786638b919f7553924d29199cc33260e1c3df6e5870f1e7285aea31ac8da",
+  "cacheSourceId": "3d1996d2e8efeb46770e",
+  "retrievedAt": "2026-11-07T02:43:36.296509+00:00",
+  "reviewedMappings": {
+    "2024-3-29:0": "Indexed original research abstract reviewed: regular second sperm fusion in Ephedra nevadensis establishes another non-angiosperm example; evolutionary homology is not asserted here.",
+    "2024-3-29:4": "Indexed original research abstract reviewed: regular second sperm fusion in Ephedra nevadensis establishes another non-angiosperm example; evolutionary homology is not asserted here."
+  },
+  "retrievalMethod": "Indexed original research abstract reviewed: regular second sperm fusion in Ephedra nevadensis establishes another non-angiosperm example; evolutionary homology is not asserted here.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "9d22a9fdcaebd29d5a09",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Organic Chemistry 17.11 — NMR of Alcohols",
+  "url": "https://openstax.org/books/organic-chemistry/pages/17-11-spectroscopy-of-alcohols-and-phenols",
+  "excerpt": "an exchange of the O–H proton on a timescale so rapid that the effect of spin–spin splitting is removed.",
+  "sourceHash": "30373ffb0958d361a28bfa9bc03dc988cf51e46a7021df94d51ad824d87b1312",
+  "cacheSourceId": "1195ee13e9758c81d566",
+  "retrievedAt": "2026-11-06T17:18:09.909772+00:00",
+  "reviewedMappings": {
+    "2012-3-19:0": "1-propanol 그림귀속과 OH교환 설명 대조. 원문b삼중선은 느린교환에서 분할이 보이는 경우로 해석. 특정용매 추정하지 않음.",
+    "2012-3-19:1": "1-propanol 그림귀속과 OH교환 설명 대조. 원문b삼중선은 느린교환에서 분할이 보이는 경우로 해석. 특정용매 추정하지 않음.",
+    "2012-3-19:2": "1-propanol 그림귀속과 OH교환 설명 대조. 원문b삼중선은 느린교환에서 분할이 보이는 경우로 해석. 특정용매 추정하지 않음.",
+    "2012-3-19:3": "1-propanol 그림귀속과 OH교환 설명 대조. 원문b삼중선은 느린교환에서 분할이 보이는 경우로 해석. 특정용매 추정하지 않음.",
+    "2012-3-19:4": "1-propanol 그림귀속과 OH교환 설명 대조. 원문b삼중선은 느린교환에서 분할이 보이는 경우로 해석. 특정용매 추정하지 않음.",
+    "2012-3-19:5": "1-propanol 그림귀속과 OH교환 설명 대조. 원문b삼중선은 느린교환에서 분할이 보이는 경우로 해석. 특정용매 추정하지 않음."
+  },
+  "retrievalMethod": "web.open relevant paragraphs and spectrum caption reviewed; selected excerpt retained",
+  "sourceHashScope": "Selected excerpt only; not full page"
+}

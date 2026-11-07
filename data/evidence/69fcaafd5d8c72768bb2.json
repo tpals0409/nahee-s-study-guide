@@ -1,0 +1,19 @@
+{
+  "id": "69fcaafd5d8c72768bb2",
+  "kind": "science",
+  "source": "Elbashir, Lendeckel & Tuschl — Genes & Development (2001)",
+  "ref": "RNA interference is mediated by 21- and 22-nucleotide RNAs",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC312613/",
+  "excerpt": "Chemically synthesized siRNA duplexes with overhanging 3′ ends mediate efficient target RNA cleavage in the lysate",
+  "sourceHash": "a970552673d2f1587665a1b3302b5c16da53b6b5118f62bea3ad12e01f0286ea",
+  "cacheSourceId": "21e1f10365a8beb4755f",
+  "retrievedAt": "2026-11-06T18:56:06.431804+00:00",
+  "reviewedMappings": {
+    "2014-3-25:1": "색인 초록에서 siRNA duplex 및 표적 RNA 절단을 확인. 전형적인 이중가닥 구조와 유전자 발현 억제 원리 적용. 가닥 길이 nt와 염기쌍 bp를 구분하고 모든 siRNA의 생성 경로를 Dicer 하나로 단정하지 않음.",
+    "2014-3-25:2": "색인 초록에서 siRNA duplex 및 표적 RNA 절단을 확인. 전형적인 이중가닥 구조와 유전자 발현 억제 원리 적용. 가닥 길이 nt와 염기쌍 bp를 구분하고 모든 siRNA의 생성 경로를 Dicer 하나로 단정하지 않음.",
+    "2014-3-25:4": "색인 초록에서 siRNA duplex 및 표적 RNA 절단을 확인. 전형적인 이중가닥 구조와 유전자 발현 억제 원리 적용. 가닥 길이 nt와 염기쌍 bp를 구분하고 모든 siRNA의 생성 경로를 Dicer 하나로 단정하지 않음.",
+    "2014-3-25:5": "색인 초록에서 siRNA duplex 및 표적 RNA 절단을 확인. 전형적인 이중가닥 구조와 유전자 발현 억제 원리 적용. 가닥 길이 nt와 염기쌍 bp를 구분하고 모든 siRNA의 생성 경로를 Dicer 하나로 단정하지 않음."
+  },
+  "retrievalMethod": "web.search_query indexed article excerpt; direct open returned browser challenge",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

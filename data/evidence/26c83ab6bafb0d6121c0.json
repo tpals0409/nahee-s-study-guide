@@ -1,0 +1,19 @@
+{
+  "id": "26c83ab6bafb0d6121c0",
+  "kind": "science",
+  "source": "Alfred Wegener Institute",
+  "ref": "Circulation in the Arctic Ocean and the Nordic Seas — The Shelf Seas",
+  "url": "https://www.awi.de/en/science/climate-sciences/physical-oceanography/main-research-focus/circulation-in-the-arctic-ocean-and-the-nordic-seas.html",
+  "excerpt": "forming the Arctic contribution to the dense waters of the Greenland-Shetland-Overflow.",
+  "sourceHash": "4c57f1c04da35a65e81a4cb2186715e815d26cb83d176b5d471fb31e5ef64642",
+  "cacheSourceId": "5c97f46f95e626b7febc",
+  "retrievedAt": "2026-11-06T19:11:21.253961+00:00",
+  "reviewedMappings": {
+    "2014-3-38:0": "AWI directly describes cold dense shelf waters produced in Arctic polynyas ventilating Arctic intermediate/deep layers and contributing to Greenland-Shetland overflow. Establishes actual Arctic formation/export connection; does not substitute Nordic Seas for the Arctic. With the only deep outlet supports ㄷ as principal export direction.",
+    "2014-3-38:2": "AWI directly describes cold dense shelf waters produced in Arctic polynyas ventilating Arctic intermediate/deep layers and contributing to Greenland-Shetland overflow. Establishes actual Arctic formation/export connection; does not substitute Nordic Seas for the Arctic. With the only deep outlet supports ㄷ as principal export direction.",
+    "2014-3-38:4": "AWI directly describes cold dense shelf waters produced in Arctic polynyas ventilating Arctic intermediate/deep layers and contributing to Greenland-Shetland overflow. Establishes actual Arctic formation/export connection; does not substitute Nordic Seas for the Arctic. With the only deep outlet supports ㄷ as principal export direction.",
+    "2014-3-38:5": "AWI directly describes cold dense shelf waters produced in Arctic polynyas ventilating Arctic intermediate/deep layers and contributing to Greenland-Shetland overflow. Establishes actual Arctic formation/export connection; does not substitute Nordic Seas for the Arctic. With the only deep outlet supports ㄷ as principal export direction."
+  },
+  "retrievalMethod": "Direct web open; relevant primary institutional science paragraphs read and applied to original Korean statements.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

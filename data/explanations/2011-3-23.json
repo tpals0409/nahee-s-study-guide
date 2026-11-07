@@ -1,0 +1,41 @@
+{
+  "summary": "옳은 것은 ㄱ·ㄴ·ㄹ로 정답은 ④입니다. 간기는 G₁·S·G₂기로 나뉘며 보통 세포주기의 대부분을 차지합니다. G₁기에는 생장과 단백질 합성이, S기에는 DNA 복제가 일어납니다.",
+  "choices": [
+    "ㄱ과 ㄴ은 맞지만 DNA가 복제된다는 ㄹ을 빠뜨렸습니다.",
+    "ㄱ과 ㄹ은 맞지만 G₁기의 단백질 합성을 설명한 ㄴ을 빠뜨렸습니다.",
+    "ㄹ만 맞습니다. ㄷ의 전기·중기·후기·말기는 간기가 아니라 유사분열의 단계입니다.",
+    "ㄱ·ㄴ·ㄹ을 모두 포함하고 틀린 ㄷ을 제외한 조합입니다.",
+    "ㄷ이 틀렸고 옳은 ㄴ이 빠져 있습니다. 간기의 구분은 G₁·S·G₂입니다."
+  ],
+  "lawNote": "세포주기의 길이와 각 단계의 시간 비율은 세포 종류와 조건에 따라 달라집니다. DNA 복제는 간기 전체에 걸쳐 계속되는 것이 아니라 그중 S기에 일어납니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e §10.2 The Cell Cycle",
+      "quote": "Most of the cell cycle is spent in interphase",
+      "url": "https://openstax.org/books/biology-2e/pages/10-2-the-cell-cycle",
+      "evidenceId": "32288a06d14d718b1435",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Concepts of Biology §6.2 The Cell Cycle",
+      "quote": "G1 involves cell growth and protein synthesis",
+      "url": "https://openstax.org/books/concepts-biology/pages/6-2-the-cell-cycle",
+      "evidenceId": "19e6157b44b22f306b02",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "공식 교재 두 절의 본문과 그림 설명 대조. ㄱ·ㄴ·ㄹ 참/ㄷ 거짓 및 모든 조합 독립 확인 후 저장정답④ 대조. 초안의 90% 이상·24시간 등 불필요한 수치 일반화 삭제.",
+    "contentHash": "f272009913cfc508818e7c3dc302ce4501fc2fb00f54387494be1727ef384f6b"
+  }
+}

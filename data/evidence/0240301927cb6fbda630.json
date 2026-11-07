@@ -1,0 +1,17 @@
+{
+  "id": "0240301927cb6fbda630",
+  "kind": "reference",
+  "source": "National Weather Service",
+  "ref": "Cloud Development — Making Clouds and Rain",
+  "url": "https://www.weather.gov/source/zhu/ZHU_Training_Page/clouds/cloud_development/clouds.htm",
+  "excerpt": "Convection occurs when air is heated",
+  "sourceHash": "8b259d9df1aa1cfb93f6a84355ed60d364cdc98c26977e323783fe2b9bc6431f",
+  "cacheSourceId": "a3afda47cd0df672cab1",
+  "retrievedAt": "2026-11-07T06:21:00.963155+00:00",
+  "reviewedMappings": {
+    "2011-3-40:0": "34행: 아래에서 가열된 공기가 주변보다 저밀도가 되어 상승하는 대류 과정. 발췌는 짧게 보존하고 본문 전체 문장 직접 확인.",
+    "2011-3-40:1": "34행: 아래에서 가열된 공기가 주변보다 저밀도가 되어 상승하는 대류 과정. 발췌는 짧게 보존하고 본문 전체 문장 직접 확인."
+  },
+  "retrievalMethod": "web.open direct body review",
+  "sourceHashScope": "reviewed short excerpt only"
+}

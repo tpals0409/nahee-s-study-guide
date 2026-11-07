@@ -1,0 +1,17 @@
+{
+  "id": "e438185e715420e8f03a",
+  "kind": "science",
+  "source": "OpenStax Biology 2e",
+  "ref": "22.2 Structure of Prokaryotes: Bacteria and Archaea",
+  "url": "https://openstax.org/books/biology-2e/pages/22-2-structure-of-prokaryotes-bacteria-and-archaea",
+  "excerpt": "ribosomes, where protein synthesis takes place.",
+  "sourceHash": "a53d4338313da552f60929476cc1491a4232dcf80eab596470f1c44ab592c705",
+  "cacheSourceId": "b637808a4258b28ad7ca",
+  "retrievedAt": "2026-11-06T18:54:17.999608+00:00",
+  "reviewedMappings": {
+    "2014-3-23:1": "30행 공통 리보솜,35행 핵양체와 막성 소기관 부재,39행 고세균의 원핵생물 분류를 원본 ㄴ과 대조.",
+    "2014-3-23:4": "30행 공통 리보솜,35행 핵양체와 막성 소기관 부재,39행 고세균의 원핵생물 분류를 원본 ㄴ과 대조."
+  },
+  "retrievalMethod": "web.open; manually reviewed excerpt",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "b72929ea2766ca749ad5",
+  "kind": "science",
+  "source": "NASA",
+  "ref": "Mars Facts",
+  "url": "https://science.nasa.gov/mars/facts/",
+  "excerpt": "A year on Mars lasts 669.6 sols, which is the same as 687 Earth days.",
+  "sourceHash": "e13262928d80bd613cdc399f4d6e6668b7db34a30756c006e53ff6398fda0f8d",
+  "cacheSourceId": "800804528a5885f79cd2",
+  "retrievedAt": "2026-11-06T15:15:01.699865+00:00",
+  "reviewedMappings": {
+    "2009-3-37:2": "각선지NASA원문대조. 금성>수성표면온도, 화성687일<천왕성30687일, 가니메데148.2e21kg>달73.5e21kg(지름아닌질량행). 대적반최소150년관측으로수일소멸반박;17세기동일폭풍단정삭제. 타이탄주성분질소. 날짜이후연구를시험당시정답변경근거로사용하지않음."
+  }
+}

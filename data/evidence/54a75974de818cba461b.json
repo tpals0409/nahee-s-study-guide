@@ -1,0 +1,21 @@
+{
+  "id": "54a75974de818cba461b",
+  "kind": "science",
+  "source": "Steven Earle / BCcampus",
+  "ref": "Physical Geology – 2nd Edition, Chapter 9 Earth’s Interior",
+  "url": "https://opentextbc.ca/physicalgeology2ed/part/chapter-9-earths-interior/",
+  "excerpt": "The outer core is liquid while the inner core is solid",
+  "sourceHash": "0550c3b28107f2962a70d224bbf5ec866a8341aafe1cd8663e504935ea203d6d",
+  "cacheSourceId": "13b8b527dbf3181fc232",
+  "retrievedAt": "2026-11-06T23:34:41.249924+00:00",
+  "reviewedMappings": {
+    "2020-3-32:0": "ㄴ의 고체 외핵 및 ㄹ의 퇴적암 50%를 반박; ㄷ은 맨틀의 전반적 조성으로 한정.",
+    "2020-3-32:1": "상부 맨틀의 대표 암석이 감람암이어서 ㄷ이 참.",
+    "2020-3-32:2": "외핵 액체·내핵 고체로 ㄴ 반박.",
+    "2020-3-32:3": "상부 맨틀 감람암과 전체 초염기성 조성, 깊이별 광물 차이를 구분.",
+    "2020-3-32:4": "ㄴ의 외핵 고체 진술을 반박.",
+    "2020-3-32:5": "액체 외핵과 화성암·변성암 우세의 지각 구성으로 ㄴ·ㄹ 반박."
+  },
+  "retrievalMethod": "Direct web open; reviewed lines 350–357: crust dominated by igneous/metamorphic rocks, ultramafic mantle composition and upper-mantle peridotite, different minerals at depth, liquid outer and solid inner core. Did not rely on listed lower-mantle mineral examples or partially-liquid layer generalizations.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

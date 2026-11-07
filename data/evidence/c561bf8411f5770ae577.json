@@ -1,0 +1,17 @@
+{
+  "id": "c561bf8411f5770ae577",
+  "kind": "science",
+  "source": "British Geological Survey",
+  "ref": "How are earthquakes detected, located and measured?",
+  "url": "https://www.bgs.ac.uk/discovering-geology/earth-hazards/earthquakes/how-are-earthquakes-detected/",
+  "excerpt": "There are two basic types of seismic wave that travel through the body of the Earth: P-waves and S-waves.",
+  "sourceHash": "d2a0e8280be009d67910aa8eca698167a433b3af2bc54b398dfc22718d3456ce",
+  "cacheSourceId": "09d805f9cf13c44ad673",
+  "retrievedAt": "2026-11-07T04:25:10.872103+00:00",
+  "reviewedMappings": {
+    "2026-3-37:2": "P가 가장 빠르고 S가 더 느리다는 본문과 지각 속도 표로 P>S를 확인한다.",
+    "2026-3-37:3": "본문이 P와 S를 지구 내부를 통과하는 두 파로 정의하고 표면파와 구별한다."
+  },
+  "retrievalMethod": "Direct web open/find",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

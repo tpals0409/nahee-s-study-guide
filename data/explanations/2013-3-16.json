@@ -1,0 +1,151 @@
+{
+  "id": "2013-3-16",
+  "summary": "최종정답은④입니다. 양의 외부압력에 맞서 단열 팽창하면 열의 유입 없이 기체가 외부에 일을 하므로 내부 에너지가 감소합니다. 다만⑤를 자발적 과정이라는 이유만으로 부정할 수는 없으며, 아래 조건 주의를 함께 확인해야 합니다.",
+  "choices": [
+    "기체가 한 일을 양수로 정의한 문제입니다. 일정한 양의 외부압력에서 부피가 증가하므로 w = P외부(V₂−V₁) > 0입니다. 따라서 w = 0은 아닙니다. 진공으로의 자유팽창과 구별합니다.",
+    "단열 조건에서 ΔU = −w < 0입니다. 이상기체의 내부 에너지는 온도에만 의존하고 열용량은 양수이므로 온도가 내려갑니다. 따라서 이 과정에서 ΔT = 0은 아닙니다.",
+    "닫힌 단열계에서는 열이나 물질 이동으로 엔트로피가 전달되지 않아 ΔS = S생성 ≥ 0입니다. 비가역 팽창이면 엔트로피가 증가하므로 ΔS < 0은 성립하지 않습니다. 일을 주고받는 단열계를 고립계와 혼동하지 않습니다.",
+    "최종정답표의 정답입니다. 문제의 w는 기체가 한 일이므로 제1법칙은 ΔU = q − w입니다. 단열이므로 q = 0이고, 팽창하며 양의 일을 하므로 ΔU = −w < 0입니다.",
+    "등온·등압에서의 자발성 기준을 온도가 변하는 이 과정에 그대로 적용하면 안 됩니다. ΔG = ΔH − (T₂S₂−T₁S₁)로 계산해야 합니다. 제시 조건만으로 ΔG > 0이 반드시 성립한다고 고를 수 없지만, 실제로 양수가 되는 사례도 있으므로 이 선지가 항상 거짓이라는 설명도 부정확합니다."
+  ],
+  "lawNote": "조건 주의:④는 제1법칙으로 직접 도출됩니다. 그러나 원문은 “항상 옳은 것”이라고 명시하지 않아⑤의 취급에는 해석상 주의가 필요합니다. 예를 들어 이상기체로 취급한 아르곤1mol이400K·2bar에서 외부압력1bar에 맞서 단열 팽창하여 평형에 도달한다고 놓으면, NIST 열역학 자료로 계산한 최종 온도는 약320K, ΔU는 약−998J, ΔG는 약+10.4kJ입니다. 이는④와⑤가 동시에 성립할 수 있는 계산 예이며, 공식 출제 의도를 확인한 자료는 아닙니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §5.3 Enthalpy",
+      "quote": "The work, w, is positive if it is done on the system and negative if it is done by the system.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/5-3-enthalpy",
+      "evidenceId": "7dcca1fe527f57ed6fc0",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §5.3 Enthalpy",
+      "quote": "The work, w, is positive if it is done on the system and negative if it is done by the system.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/5-3-enthalpy",
+      "evidenceId": "7dcca1fe527f57ed6fc0",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §5.3 Enthalpy",
+      "quote": "The work, w, is positive if it is done on the system and negative if it is done by the system.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/5-3-enthalpy",
+      "evidenceId": "7dcca1fe527f57ed6fc0",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2 §3.6 Adiabatic Processes for an Ideal Gas",
+      "quote": "in an adiabatic expansion, the gas does work and its temperature drops.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/3-6-adiabatic-processes-for-an-ideal-gas",
+      "evidenceId": "52e2549d2cd2a864690c",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2 §3.6 Adiabatic Processes for an Ideal Gas",
+      "quote": "in an adiabatic expansion, the gas does work and its temperature drops.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/3-6-adiabatic-processes-for-an-ideal-gas",
+      "evidenceId": "52e2549d2cd2a864690c",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2 §3.6 Adiabatic Processes for an Ideal Gas",
+      "quote": "in an adiabatic expansion, the gas does work and its temperature drops.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/3-6-adiabatic-processes-for-an-ideal-gas",
+      "evidenceId": "52e2549d2cd2a864690c",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "Purdue University",
+      "ref": "ME200 Spring2020 HW28: Entropy Generation for Closed Systems",
+      "quote": "The combined system is adiabatic.",
+      "url": "https://engineering.purdue.edu/ME200/files/homework/HW28/ME200-Spring2020-HW28-web.html",
+      "evidenceId": "59d54d184c5f0cecbe4e",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "NPTEL",
+      "ref": "Classical Thermodynamics, Lecture4 Entropy, Closed system",
+      "quote": "Sgen ≥ 0",
+      "url": "https://archive.nptel.ac.in/content/storage2/courses/112103016/module1/lec4/3.html",
+      "evidenceId": "f1f9e4cb4702ec55371b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §16.4 Free Energy",
+      "quote": "at constant temperature and pressure",
+      "url": "https://openstax.org/books/chemistry-2e/pages/16-4-free-energy",
+      "evidenceId": "0b1adbe5d8943f5d7d85",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §16.4 Free Energy",
+      "quote": "at constant temperature and pressure",
+      "url": "https://openstax.org/books/chemistry-2e/pages/16-4-free-energy",
+      "evidenceId": "0b1adbe5d8943f5d7d85",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "NIST",
+      "ref": "NIST Chemistry WebBook: Argon, Shomate thermochemistry",
+      "quote": "Temperature (K) 298. to 6000.",
+      "url": "https://webbook.nist.gov/cgi/cbook.cgi?ID=C7440371&Mask=1",
+      "evidenceId": "ad53affcdf50a89cf1f5",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "NIST",
+      "ref": "NIST Chemistry WebBook: Argon, Shomate thermochemistry",
+      "quote": "Temperature (K) 298. to 6000.",
+      "url": "https://webbook.nist.gov/cgi/cbook.cgi?ID=C7440371&Mask=1",
+      "evidenceId": "ad53affcdf50a89cf1f5",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Verified conditional explanation: original image and explicitly selected 2013 final-key embedded A-form table; first-law and entropy derivations; Gibbs criterion limitation and NIST-range counterexample. Does not assert unconditional uniqueness or verified official intent.",
+    "contentHash": "918f6c637ef8164bbdf6f41a036d2d837134e97a40efe67617f02cbd9e11a613"
+  }
+}

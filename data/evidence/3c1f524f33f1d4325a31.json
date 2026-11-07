@@ -1,0 +1,19 @@
+{
+  "id": "3c1f524f33f1d4325a31",
+  "kind": "science",
+  "source": "Royal Society of Chemistry",
+  "ref": "Chlorine — Atomic data",
+  "url": "https://periodic-table.rsc.org/element/17/chlorine",
+  "excerpt": "348.575",
+  "sourceHash": "968f3a11c36535457da3936e86af6b471a1543320497323a73110cf3e7bb7037",
+  "cacheSourceId": "70cc175efab354c14c30",
+  "retrievedAt": "2026-11-07T01:44:32.590768+00:00",
+  "reviewedMappings": {
+    "2023-3-16:0": "Cl 전자친화도348.575kJ/mol. Na52.867보다 크므로 방출 에너지 C>B. 이 근거는 과학적 부분 판단만 지지하며 전항정답의 공식 행정사유를 증명하지 않는다.",
+    "2023-3-16:2": "Cl 전자친화도348.575kJ/mol. Na52.867보다 크므로 방출 에너지 C>B. 이 근거는 과학적 부분 판단만 지지하며 전항정답의 공식 행정사유를 증명하지 않는다.",
+    "2023-3-16:4": "Cl 전자친화도348.575kJ/mol. Na52.867보다 크므로 방출 에너지 C>B. 이 근거는 과학적 부분 판단만 지지하며 전항정답의 공식 행정사유를 증명하지 않는다.",
+    "2023-3-16:5": "Cl 전자친화도348.575kJ/mol. Na52.867보다 크므로 방출 에너지 C>B. 이 근거는 과학적 부분 판단만 지지하며 전항정답의 공식 행정사유를 증명하지 않는다."
+  },
+  "retrievalMethod": "Direct open/find; electron affinity table and definition reviewed.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

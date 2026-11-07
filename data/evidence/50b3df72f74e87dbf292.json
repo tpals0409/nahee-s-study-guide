@@ -1,0 +1,14 @@
+{
+  "id": "50b3df72f74e87dbf292",
+  "kind": "science",
+  "source": "OpenStax · University Physics Volume 3",
+  "ref": "6.5 De Broglie’s Matter Waves",
+  "url": "https://openstax.org/books/university-physics-volume-3/pages/6-5-de-broglies-matter-waves",
+  "excerpt": "λ=hp.",
+  "sourceHash": "474f97296c1fb8f8284a8823b25d2b10744ec324bf45f135af6924debfd0e776",
+  "cacheSourceId": "c463b9925c8096dc1ca6",
+  "retrievedAt": "2026-11-06T15:29:59.031008+00:00",
+  "reviewedMappings": {
+    "2010-3-09:0": "교재 식 6.54 λ=h/p, 6.61 eΔV=K=p²/(2m) 확인. 비상대론적 조건을 명시하고 전압비 2에서 파장비 1/√2 도출. 오답의 역산 전압비 4,1/2,1/4,1/8도 검산."
+  }
+}

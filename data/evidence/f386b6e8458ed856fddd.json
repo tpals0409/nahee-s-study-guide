@@ -1,0 +1,19 @@
+{
+  "id": "f386b6e8458ed856fddd",
+  "kind": "science",
+  "source": "StemBook / NCBI Bookshelf",
+  "ref": "Mechanisms regulating stem cell polarity and the specification of asymmetric divisions",
+  "url": "https://www.ncbi.nlm.nih.gov/books/NBK27028/",
+  "excerpt": "symmetric renewing divisions",
+  "sourceHash": "bd325ce6670528fcf89df9baa7425e9b91c45380d1e330fc537ee35f4469139b",
+  "cacheSourceId": "18977d33da11dd7dcad5",
+  "retrievedAt": "2026-11-07T03:27:03.554032+00:00",
+  "reviewedMappings": {
+    "2025-3-28:0": "Hematopoietic stem cells: 두 GFP 양성 자가재생 딸세포, 한 양성·한 음성 비대칭 분열, 두 음성 대칭 분화 결과를 대조. ㄱ의 세 결과를 지지한다.",
+    "2025-3-28:3": "Hematopoietic stem cells: 두 GFP 양성 자가재생 딸세포, 한 양성·한 음성 비대칭 분열, 두 음성 대칭 분화 결과를 대조. ㄱ의 세 결과를 지지한다.",
+    "2025-3-28:4": "Hematopoietic stem cells: 두 GFP 양성 자가재생 딸세포, 한 양성·한 음성 비대칭 분열, 두 음성 대칭 분화 결과를 대조. ㄱ의 세 결과를 지지한다.",
+    "2025-3-28:5": "Hematopoietic stem cells: 두 GFP 양성 자가재생 딸세포, 한 양성·한 음성 비대칭 분열, 두 음성 대칭 분화 결과를 대조. ㄱ의 세 결과를 지지한다."
+  },
+  "retrievalMethod": "Search-indexed source sections; direct page returned CAPTCHA",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

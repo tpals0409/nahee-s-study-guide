@@ -1,0 +1,16 @@
+{
+  "id": "c7befe4792c985b9dc33",
+  "kind": "science",
+  "source": "Smithsonian Ocean",
+  "ref": "The Deep Sea",
+  "url": "https://ocean.si.edu/ecosystems/deep-sea/deep-sea",
+  "excerpt": "the long stretch that accounts for roughly",
+  "sourceHash": "ab6b6683902105a768bb42e466f0497c89f9af952d824d262d70f9a4180398a5",
+  "cacheSourceId": "47ace86b79470a1bbbed",
+  "retrievedAt": "2026-11-06T23:41:40.081345+00:00",
+  "reviewedMappings": {
+    "2020-3-37:5": "심해저평원이 해저의 큰 면적을 차지하므로 해구가 가장 넓다는 주장 반박."
+  },
+  "retrievalMethod": "Direct web open/find; reviewed Seafloor Habitats lines 144–145 and Abyssal Plain line 154, broad abyssal-floor coverage exceeding half the seafloor. Used only qualitative area contrast, not an exact percentage.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

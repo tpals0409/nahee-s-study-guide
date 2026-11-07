@@ -1,0 +1,17 @@
+{
+  "id": "87c7832c3befa4c1d26b",
+  "kind": "science",
+  "source": "U.S. National Park Service",
+  "ref": "Inner Earth Model",
+  "url": "https://www.nps.gov/subjects/geology/plate-tectonics-inner-earth-model.htm",
+  "excerpt": "but becomes a solid inner core because of the pressure.",
+  "sourceHash": "0df4fe62bb7dc74c16359868e816ba20555d6594ea84a3b367c83c526d88d8a2",
+  "cacheSourceId": "6cdfc27442ecb048a440",
+  "retrievedAt": "2026-11-07T01:25:06.659319+00:00",
+  "reviewedMappings": {
+    "2022-3-38:0": "고온에도 내핵은 압력 때문에 고체라는 설명이 ③의 액체 주장을 반박한다.",
+    "2022-3-38:3": "고온에도 내핵은 압력 때문에 고체라는 설명이 ③의 액체 주장을 반박한다."
+  },
+  "retrievalMethod": "Direct page open, Physical States of Earth’s Layers section.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

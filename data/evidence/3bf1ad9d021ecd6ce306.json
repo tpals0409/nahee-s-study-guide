@@ -1,0 +1,21 @@
+{
+  "id": "3bf1ad9d021ecd6ce306",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "5.6 Common Forces",
+  "url": "https://openstax.org/books/university-physics-volume-1/pages/5-6-common-forces",
+  "excerpt": "A tension is a force along the length of a medium",
+  "sourceHash": "845416b80f8ee17b69e5e5aabe82fb4a33756dc48fb7514d950025597ea2e572",
+  "cacheSourceId": "2fd1e5cf9c851be79300",
+  "retrievedAt": "2026-11-06T20:55:56.739866+00:00",
+  "reviewedMappings": {
+    "2017-3-04:0": "본문 63–69행 경사면의 중력 성분, 115–130행 장력 방향·전달과 가속도 0인 추의 T=mg 확인. 원본 도르래가 경사면 아래쪽이므로 A의 아래쪽 힘은 4mg sin30°+mg=3mg, 수직항력은 4mg cos30°=2√3mg. μ=√3/2를 도출한다.",
+    "2017-3-04:1": "본문 63–69행 경사면의 중력 성분, 115–130행 장력 방향·전달과 가속도 0인 추의 T=mg 확인. 원본 도르래가 경사면 아래쪽이므로 A의 아래쪽 힘은 4mg sin30°+mg=3mg, 수직항력은 4mg cos30°=2√3mg. μ=√3/2를 도출한다.",
+    "2017-3-04:2": "본문 63–69행 경사면의 중력 성분, 115–130행 장력 방향·전달과 가속도 0인 추의 T=mg 확인. 원본 도르래가 경사면 아래쪽이므로 A의 아래쪽 힘은 4mg sin30°+mg=3mg, 수직항력은 4mg cos30°=2√3mg. μ=√3/2를 도출한다.",
+    "2017-3-04:3": "본문 63–69행 경사면의 중력 성분, 115–130행 장력 방향·전달과 가속도 0인 추의 T=mg 확인. 원본 도르래가 경사면 아래쪽이므로 A의 아래쪽 힘은 4mg sin30°+mg=3mg, 수직항력은 4mg cos30°=2√3mg. μ=√3/2를 도출한다.",
+    "2017-3-04:4": "본문 63–69행 경사면의 중력 성분, 115–130행 장력 방향·전달과 가속도 0인 추의 T=mg 확인. 원본 도르래가 경사면 아래쪽이므로 A의 아래쪽 힘은 4mg sin30°+mg=3mg, 수직항력은 4mg cos30°=2√3mg. μ=√3/2를 도출한다.",
+    "2017-3-04:5": "본문 63–69행 경사면의 중력 성분, 115–130행 장력 방향·전달과 가속도 0인 추의 T=mg 확인. 원본 도르래가 경사면 아래쪽이므로 A의 아래쪽 힘은 4mg sin30°+mg=3mg, 수직항력은 4mg cos30°=2√3mg. μ=√3/2를 도출한다."
+  },
+  "retrievalMethod": "Direct web page opened; force components, tension and friction equations reviewed.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

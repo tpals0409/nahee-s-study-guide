@@ -1,0 +1,86 @@
+{
+  "id": "2016-3-04",
+  "summary": "a에서 A를 충전하면 초기 전하량은 C₀V₀입니다. b로 옮기면 A의 위쪽 극판은 전지 양극과 분리되어 B의 위쪽 극판과 연결됩니다. B·C의 직렬 합성 용량 C₀/2가 A와 병렬이므로, 상단 도체의 전하 보존에서 C₀V₀=(C₀+C₀/2)V입니다. 따라서 A의 최종 전하량은 2C₀V₀/3, 정답은 ③입니다.",
+  "choices": [
+    "(1/3)C₀V₀: 오답입니다. 이 값은 A가 C₀/2의 합성 용량과 전하를 나눌 때 B·C 쪽으로 옮겨 가는 전하량((C₀/2)·(2/3)V₀ = (1/3)C₀V₀)에 해당합니다. A에 남는 전하량이 아닙니다.",
+    "(1/2)C₀V₀: 오답입니다. 용량이 같은 축전기 하나와 전하를 반씩 나눈 경우의 값입니다. 실제로 A와 연결되는 쪽은 B와 C의 직렬 조합이고 합성 용량은 C₀/2이므로, 반씩 나뉘지 않습니다.",
+    "(2/3)C₀V₀: 정답입니다. 전하량 보존에 따라 C₀V₀ = (C₀ + C₀/2)V이므로 V = (2/3)V₀입니다. 따라서 A의 전하량은 C₀·(2/3)V₀ = (2/3)C₀V₀입니다.",
+    "③이 아닌 ④의 전하량 3C₀V₀/4를 가정하면 공통 전압은 3V₀/4입니다. B·C 가지의 전하는 3C₀V₀/8이 되어 상단 총전하가 9C₀V₀/8이므로 초기 C₀V₀와 맞지 않습니다.",
+    "C₀V₀: 오답입니다. 이는 스위치를 b로 옮기기 전 A의 전하량입니다. b에 연결하면 B·C에 전위차가 생길 때까지 전하가 이동하므로, A의 전하량은 줄어듭니다."
+  ],
+  "lawNote": "전지 아래쪽 단자는 공통 아래 도선에 남아 있지만, b로 전환하면 위쪽 전원 연결이 끊겨 축전기 양단 전압이 V₀로 유지되지 않습니다. 보존하는 것은 A 위쪽 극판과 B 위쪽 극판이 이룬 고립 도체의 순전하입니다. 각 축전기의 전하량은 한 극판 전하의 크기를 뜻하며, 전환 후 재분배가 끝난 상태를 구합니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2 8.2 Capacitors in Series and in Parallel",
+      "quote": "This occurs due to the conservation of charge in the circuit.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/8-2-capacitors-in-series-and-in-parallel",
+      "evidenceId": "a0caababbd5e74cf0354",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2 8.2 Capacitors in Series and in Parallel",
+      "quote": "This occurs due to the conservation of charge in the circuit.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/8-2-capacitors-in-series-and-in-parallel",
+      "evidenceId": "a0caababbd5e74cf0354",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2 8.2 Capacitors in Series and in Parallel",
+      "quote": "This occurs due to the conservation of charge in the circuit.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/8-2-capacitors-in-series-and-in-parallel",
+      "evidenceId": "a0caababbd5e74cf0354",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2 8.2 Capacitors in Series and in Parallel",
+      "quote": "This occurs due to the conservation of charge in the circuit.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/8-2-capacitors-in-series-and-in-parallel",
+      "evidenceId": "a0caababbd5e74cf0354",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2 8.2 Capacitors in Series and in Parallel",
+      "quote": "This occurs due to the conservation of charge in the circuit.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/8-2-capacitors-in-series-and-in-parallel",
+      "evidenceId": "a0caababbd5e74cf0354",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2 8.2 Capacitors in Series and in Parallel",
+      "quote": "This occurs due to the conservation of charge in the circuit.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/8-2-capacitors-in-series-and-in-parallel",
+      "evidenceId": "a0caababbd5e74cf0354",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "Original switch topology checked; isolated-node charge balance and exact rational calculation; primary textbook source mapped to all choices",
+    "contentHash": "79241f54aa978bc94d52679bdd4544e949914c62cf4e1cfcf8220e68889c6874"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "27d7244433d0cbcf40ec",
+  "kind": "science",
+  "source": "National Center for Seismology · Government of India",
+  "ref": "Seismology Glossary",
+  "url": "https://seismo.gov.in/node/433",
+  "excerpt": "seismic waves begin to radiate.",
+  "sourceHash": "38521da21ad1331225ef7485f38256bcbe8b42a9edeb6ce77d015bbc092699d4",
+  "cacheSourceId": "17156423d764c7ab8ead",
+  "retrievedAt": "2026-11-06T15:53:54.412936+00:00",
+  "reviewedMappings": {
+    "2010-3-31:0": "Focus 항목에서 지하 파열 및 지진파 방출 시작점 정의 확인. ㄴ 참."
+  },
+  "retrievalMethod": "web.open: Elastic wave, Focus (Hypocentre), Core entries read",
+  "sourceHashScope": "Selected excerpts only, not full glossary"
+}

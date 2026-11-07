@@ -1,0 +1,16 @@
+{
+  "id": "786f1b31b6eef9b0ab0b",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e 14.3 Basics of DNA Replication",
+  "url": "https://openstax.org/books/biology-2e/pages/14-3-basics-of-dna-replication",
+  "excerpt": "This suggested either a semi-conservative or dispersive mode of replication.",
+  "sourceHash": "2d723148a01fbf03ec8a2d9873713e11d4fbfe88cc31bd5c755832ba82643186",
+  "cacheSourceId": "9e532346a04d484b963a",
+  "retrievedAt": "2026-11-07T05:07:54.320109+00:00",
+  "reviewedMappings": {
+    "2020-3-27:1": "1세대 중간띠는 보존적 복제를 배제하지만 분산적 복제는 배제하지 못한다.2세대 중간·가벼운 띠로 반보존적 설명을 지지한다."
+  },
+  "retrievalMethod": "Direct web open/find",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

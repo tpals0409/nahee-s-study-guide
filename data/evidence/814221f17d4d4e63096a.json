@@ -1,0 +1,14 @@
+{
+  "id": "814221f17d4d4e63096a",
+  "kind": "science",
+  "source": "OpenStax · Chemistry 2e",
+  "ref": "14.3 Relative Strengths of Acids and Bases",
+  "url": "https://openstax.org/books/chemistry-2e/pages/14-3-relative-strengths-of-acids-and-bases",
+  "excerpt": "the percent ionization of a weak acid varies with the initial concentration of acid, typically decreasing as concentration increases.",
+  "sourceHash": "d92b5c7370798437d4b687d590fc549453098b64f5f4955a5cfa4be7055f78f8",
+  "cacheSourceId": "f5d4df2a1eeaa340b803",
+  "retrievedAt": "2026-11-06T14:54:22.937885+00:00",
+  "reviewedMappings": {
+    "2010-3-17:0": "Ka=x²/(C−x), 해리백분율 100x/C 적용. 두 농도에서 근사와 양의 이차식 해를 독립 계산해 pH 3.000217..., 해리백분율 0.09995%,0.9950125% 확인. 묽은 쪽 해리백분율이 더 커서 ㄱㄴ 참, ㄷ 거짓. 근사 및 활동도·물 자동이온화 생략 명시."
+  }
+}

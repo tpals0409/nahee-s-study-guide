@@ -1,0 +1,18 @@
+{
+  "id": "52cfdf4886f391d1d4ba",
+  "kind": "science",
+  "source": "BMC Microbiology / PMC",
+  "ref": "Wiesinger-Mayr et al. (2007), BMC Microbiology 7:78",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1994958/",
+  "excerpt": "DNA microarrays can be a useful tool for rapid identification of closely related pathogens",
+  "sourceHash": "02a7847422dcc60e41b6d8e462966f931155360e343cfe4cc0d1bbb762f9d4a7",
+  "cacheSourceId": "cbbd0a1f00f43975d911",
+  "retrievedAt": "2026-11-07T05:20:09.516069+00:00",
+  "reviewedMappings": {
+    "2012-3-25:0": "ㄴ은 거짓: PCR·마이크로어레이를 결합해 미생물 종 동정을 수행한 원저이다.",
+    "2012-3-25:1": "ㄴ의 종 동정에는 사용되지 않는다는 절대부정에 실제 적용 반례가 있다.",
+    "2012-3-25:2": "ㄴ 제외를 지지한다. ㄹ 제외까지 입증하는 자료는 아니다."
+  },
+  "retrievalMethod": "Direct web open/find",
+  "sourceHashScope": "Selected short excerpt only; not full article"
+}

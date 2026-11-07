@@ -1,0 +1,16 @@
+{
+  "id": "45833c24b46411d889b3",
+  "kind": "science",
+  "source": "NASA",
+  "ref": "Milankovitch (Orbital) Cycles and Their Role in Earth's Climate",
+  "url": "https://science.nasa.gov/science-research/earth-science/climate-science/milankovitch-orbital-cycles-and-their-role-in-earths-climate/",
+  "excerpt": "The cycle of axial precession spans about 25,771.5 years.",
+  "sourceHash": "4642d3e920cfa523dad4fde9d9b2f6ded488680cea532a217b16f2b584478e26",
+  "cacheSourceId": "e3beb65ad1dc5439aa4e",
+  "retrievedAt": "2026-11-06T18:27:57.338716+00:00",
+  "reviewedMappings": {
+    "2013-3-39:0": "본문 경사각 증가→계절대비 증가, 세차 약26000년, 현재경사감소와별도41000년주기 확인. 반주기약13000 및360×3600/26000≈49.85각초 계산. 그림을 실제미래천문력으로단정하지않음."
+  },
+  "retrievalMethod": "web.open: official page; relevant seasons/obliquity/precession paragraphs reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

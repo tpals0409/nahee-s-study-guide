@@ -1,0 +1,21 @@
+{
+  "id": "72078ddb2d1c441ed1fd",
+  "kind": "science",
+  "source": "U.S. National Park Service",
+  "ref": "Geologic Timescale, Geologic Dating Techniques, and Numeric Ages",
+  "url": "https://www.nps.gov/articles/000/grcatime-timescale.htm",
+  "excerpt": "each with its characteristic decay rate (and half life)",
+  "sourceHash": "25410f3a4906d54a5ac73f9daddaa84995fdbf09526b949023e717a9fdd5dcc5",
+  "cacheSourceId": "897dd9eb6959ab9d487b",
+  "retrievedAt": "2026-11-06T20:43:30.501742+00:00",
+  "reviewedMappings": {
+    "2016-3-35:0": "그림 (나)의 50% 시점은 1억 년. (1/2)^n을 적용하면 A 3억 년, C 2억 년이다. 그림의 관입 관계를 적용해 D의 연대를 두 암체 사이로 제한.",
+    "2016-3-35:1": "ㄱ 참: 반감기 1억 년을 세 번 거쳐 1/8이 되므로 A는 3억 년.",
+    "2016-3-35:2": "C가 D를 관입하므로 D는 2억 년보다 오래되며 A를 덮으므로 3억 년보다 젊다.",
+    "2016-3-35:3": "ㄱ 참: 원본 반감기 눈금 및 1/8=(1/2)^3 계산. ㄴ의 상대연대 판독과 함께 정답 ③.",
+    "2016-3-35:4": "D가 2억~3억 년 전이라는 제한은 제3기를 배제한다.",
+    "2016-3-35:5": "ㄷ의 시대 추정은 방사성 연대와 관입 순서를 동시에 만족하지 못한다."
+  },
+  "retrievalMethod": "Direct web open; numeric-age and intrusion bracketing sections reviewed.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

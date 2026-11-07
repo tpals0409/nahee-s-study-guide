@@ -1,0 +1,21 @@
+{
+  "id": "a141daabcaf6790f65de",
+  "kind": "science",
+  "source": "OpenStax University Physics Volume 1",
+  "ref": "12.2 Examples of Static Equilibrium",
+  "url": "https://openstax.org/books/university-physics-volume-1/pages/12-2-examples-of-static-equilibrium",
+  "excerpt": "the normal reaction force F from the wall in the horizontal direction away from the wall",
+  "sourceHash": "17f5422aadd96ca6bebc925b5f1f7f392eca7554a806c3d29605bf3170e481e9",
+  "cacheSourceId": "44129c938d454dcb325a",
+  "retrievedAt": "2026-11-07T01:29:03.194672+00:00",
+  "reviewedMappings": {
+    "2023-3-02:0": "마찰 없는 연직 벽 접촉력은 수평. 원본에서 막대가 연직면 왼쪽에 닿고 윗면 위로 겹치지 않음을 확인; 수평 평형 N=F₂cos45°=mg/3>0.",
+    "2023-3-02:1": "마찰 없는 연직 벽 접촉력은 수평. 원본에서 막대가 연직면 왼쪽에 닿고 윗면 위로 겹치지 않음을 확인; 수평 평형 N=F₂cos45°=mg/3>0.",
+    "2023-3-02:2": "마찰 없는 연직 벽 접촉력은 수평. 원본에서 막대가 연직면 왼쪽에 닿고 윗면 위로 겹치지 않음을 확인; 수평 평형 N=F₂cos45°=mg/3>0.",
+    "2023-3-02:3": "마찰 없는 연직 벽 접촉력은 수평. 원본에서 막대가 연직면 왼쪽에 닿고 윗면 위로 겹치지 않음을 확인; 수평 평형 N=F₂cos45°=mg/3>0.",
+    "2023-3-02:4": "마찰 없는 연직 벽 접촉력은 수평. 원본에서 막대가 연직면 왼쪽에 닿고 윗면 위로 겹치지 않음을 확인; 수평 평형 N=F₂cos45°=mg/3>0.",
+    "2023-3-02:5": "마찰 없는 연직 벽 접촉력은 수평. 원본에서 막대가 연직면 왼쪽에 닿고 윗면 위로 겹치지 않음을 확인; 수평 평형 N=F₂cos45°=mg/3>0."
+  },
+  "retrievalMethod": "Direct chapter open and find; Example 12.5 wall-contact force analysis.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

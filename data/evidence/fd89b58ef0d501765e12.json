@@ -1,0 +1,17 @@
+{
+  "id": "fd89b58ef0d501765e12",
+  "kind": "science",
+  "source": "Addgene",
+  "ref": "Addgene: Plasmids101 Origin of Replication",
+  "url": "https://blog.addgene.org/plasmid-101-origin-of-replication",
+  "excerpt": "they still rely on the host machinery to make additional copies.",
+  "sourceHash": "da0818cbdd1d2005753ff341b902fe098b02d85d2edc02dc1fd1fe70cbe0f12b",
+  "cacheSourceId": "c4d0544e74298b280e33",
+  "retrievedAt": "2026-11-07T04:06:27.669839+00:00",
+  "reviewedMappings": {
+    "2026-3-24:0": "Repository ori guide explicitly requires host machinery and host-dependent selection incl E.coli; supports choice4.",
+    "2026-3-24:4": "Repository ori guide explicitly requires host machinery and host-dependent selection incl E.coli; supports choice4."
+  },
+  "retrievalMethod": "Direct web open",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

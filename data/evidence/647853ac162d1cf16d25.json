@@ -1,0 +1,21 @@
+{
+  "id": "647853ac162d1cf16d25",
+  "kind": "science",
+  "source": "National Human Genome Research Institute (NHGRI)",
+  "ref": "Chromosome Abnormalities Fact Sheet",
+  "url": "https://www.genome.gov/about-genomics/fact-sheets/Chromosome-Abnormalities-Fact-Sheet",
+  "excerpt": "A portion of one chromosome is transferred to another chromosome.",
+  "sourceHash": "ffd71bbb44c32af23ce8fa4518c4668b6cb9d332fb5fde5d773effde242e94a7",
+  "cacheSourceId": "d480a27d253add583294",
+  "retrievedAt": "2026-11-06T22:04:08.534001+00:00",
+  "reviewedMappings": {
+    "2018-3-27:0": "원본 그림의 회색 14번 부분과 흰색 21번 부분이 14/21 염색체로 합쳐짐을 확인하고 전좌 정의를 적용하여 ③ 판정.",
+    "2018-3-27:1": "중복은 유전물질 구간의 추가 복제라는 본문 정의와 달리 그림은 14번 부분이 21번 부분과 합쳐진 구조임.",
+    "2018-3-27:2": "중복 정의와 그림을 비교: 21번 구간의 추가 복제가 아니라 14/21 결합임.",
+    "2018-3-27:3": "서로 다른 번호의 비상동염색체 물질이 결합한 그림에 전좌 정의를 적용.",
+    "2018-3-27:4": "변화가 14번 내부에 국한되지 않고 21번 물질도 포함됨. 역위는 구간의 방향 반전이라는 별도 조건이 필요하므로 단순 위치 교환이라는 선지 문구를 역위로 단정하지 않음.",
+    "2018-3-27:5": "본문의 분열 중 염색체 분배 오류와 구조 변화의 구분을 적용. 분리 실패 자체는 그림의 14/21 융합 구조를 설명하지 못함."
+  },
+  "retrievalMethod": "Direct web open; reviewed structural abnormalities (duplication, translocation, inversion), lines 62–69, and chromosome segregation errors, lines 95–99; independently inspected original question image.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

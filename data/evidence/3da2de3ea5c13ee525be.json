@@ -1,0 +1,27 @@
+{
+  "id": "3da2de3ea5c13ee525be",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "12.4 Magnetic Field of a Current Loop",
+  "url": "https://openstax.org/books/university-physics-volume-2/pages/12-4-magnetic-field-of-a-current-loop",
+  "excerpt": "we obtain the magnetic field at the center of the loop:",
+  "sourceHash": "5570abc703ac6a018df50cb20b39d3bb371d9691d5adbd85bf371c0fe17a74a5",
+  "cacheSourceId": "9f113421b0fdd9f58dc6",
+  "retrievedAt": "2026-11-06T23:05:38.755356+00:00",
+  "reviewedMappings": {
+    "2016-3-06:0": "본문 58~60행의 전체 원 중심 자기장 μ₀I/(2R)와 일정 반지름 비오-사바르 적분으로 반원은 절반 μ₀I/(4r). 원문 r=2R,R에 적용하면 |Bp|=3μ₀I₁/(8R), |Bq|=μ₀I₂/(8R). 비는 3으로 ①만 만족한다.",
+    "2016-3-06:1": "본문 58~60행의 전체 원 중심 자기장 μ₀I/(2R)와 일정 반지름 비오-사바르 적분으로 반원은 절반 μ₀I/(4r). 원문 r=2R,R에 적용하면 |Bp|=3μ₀I₁/(8R), |Bq|=μ₀I₂/(8R). 비는 3으로 ①만 만족한다.",
+    "2016-3-06:2": "본문 58~60행의 전체 원 중심 자기장 μ₀I/(2R)와 일정 반지름 비오-사바르 적분으로 반원은 절반 μ₀I/(4r). 원문 r=2R,R에 적용하면 |Bp|=3μ₀I₁/(8R), |Bq|=μ₀I₂/(8R). 비는 3으로 ①만 만족한다.",
+    "2016-3-06:3": "본문 58~60행의 전체 원 중심 자기장 μ₀I/(2R)와 일정 반지름 비오-사바르 적분으로 반원은 절반 μ₀I/(4r). 원문 r=2R,R에 적용하면 |Bp|=3μ₀I₁/(8R), |Bq|=μ₀I₂/(8R). 비는 3으로 ①만 만족한다.",
+    "2016-3-06:4": "본문 58~60행의 전체 원 중심 자기장 μ₀I/(2R)와 일정 반지름 비오-사바르 적분으로 반원은 절반 μ₀I/(4r). 원문 r=2R,R에 적용하면 |Bp|=3μ₀I₁/(8R), |Bq|=μ₀I₂/(8R). 비는 3으로 ①만 만족한다.",
+    "2016-3-06:5": "본문 58~60행의 전체 원 중심 자기장 μ₀I/(2R)와 일정 반지름 비오-사바르 적분으로 반원은 절반 μ₀I/(4r). 원문 r=2R,R에 적용하면 |Bp|=3μ₀I₁/(8R), |Bq|=μ₀I₂/(8R). 비는 3으로 ①만 만족한다.",
+    "2020-3-05:0": "중심 B=μ0I/(2R)와 오른손 법칙으로 반대 전류 및 IA/IB=2. 자기모멘트 IπR²로 비 8.",
+    "2020-3-05:1": "반대 방향뿐 아니라 IA/(4r)=IB/(2r)로 ㄴ도 참이어서 누락.",
+    "2020-3-05:2": "자기모멘트 비 (IA/IB)(2r/r)²=2×4=8이므로 ㄷ 거짓.",
+    "2020-3-05:3": "중심 축 방향 자기장이 상쇄되려면 서로 반대 전류; 크기 일치로 IA=2IB. ㄱㄴ만 참.",
+    "2020-3-05:4": "ㄴ은 참이나 I×면적에 따른 모멘트 비 8로 ㄷ 거짓; ㄱ도 누락.",
+    "2020-3-05:5": "ㄱㄴ 참, 모멘트 비 8≠4로 ㄷ 거짓이어서 전체 선택 불가."
+  },
+  "retrievalMethod": "Direct web retrieval; reviewed right-hand direction and axial-field derivation lines 30–60, including dipole moment I times area at line 53 and center field equation 12.17. Original concentric-loop diagram visually checked.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,129 @@
+{
+  "id": "2020-3-33",
+  "summary": "규산염 광물은 Si–O 사면체를 기본 구조로 합니다. 보기에서는 감람석과 흑운모가 해당하므로 ㄴ·ㄹ을 고른 ④가 정답입니다.",
+  "choices": [
+    "감람석은 규산염이지만 황철석(FeS₂)은 황화 광물입니다. ㄱ을 포함하고 ㄹ을 빠뜨렸습니다.",
+    "황철석은 황화 광물, 방해석(CaCO₃)은 탄산염 광물입니다. 둘 다 규산염이 아닙니다.",
+    "감람석은 규산염이지만 방해석은 탄산염입니다. 규산염인 흑운모도 빠졌습니다.",
+    "감람석은 독립된 Si–O 사면체를 가지며, 흑운모는 사면체가 판상으로 연결된 구조를 가집니다. 둘 다 규산염이므로 ㄴ·ㄹ이 정답입니다.",
+    "흑운모는 규산염이지만 방해석은 탄산염, 강옥(Al₂O₃)은 산화 광물입니다. ㄷ·ㅁ을 제외하고 감람석인 ㄴ을 포함해야 합니다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "Steven Earle / BCcampus",
+      "ref": "Physical Geology – 2nd Edition, 2.3 Mineral Groups",
+      "quote": "We group minerals into classes on the basis of their predominant anion or anion complex.",
+      "url": "https://opentextbc.ca/physicalgeology2ed/chapter/2-3-mineral-groups/",
+      "evidenceId": "7432911e3f1147df06d8",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "Steven Earle / BCcampus",
+      "ref": "Physical Geology – 2nd Edition, 2.3 Mineral Groups",
+      "quote": "We group minerals into classes on the basis of their predominant anion or anion complex.",
+      "url": "https://opentextbc.ca/physicalgeology2ed/chapter/2-3-mineral-groups/",
+      "evidenceId": "7432911e3f1147df06d8",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "Steven Earle / BCcampus",
+      "ref": "Physical Geology – 2nd Edition, 2.3 Mineral Groups",
+      "quote": "We group minerals into classes on the basis of their predominant anion or anion complex.",
+      "url": "https://opentextbc.ca/physicalgeology2ed/chapter/2-3-mineral-groups/",
+      "evidenceId": "7432911e3f1147df06d8",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "Steven Earle / BCcampus",
+      "ref": "Physical Geology – 2nd Edition, 2.3 Mineral Groups",
+      "quote": "We group minerals into classes on the basis of their predominant anion or anion complex.",
+      "url": "https://opentextbc.ca/physicalgeology2ed/chapter/2-3-mineral-groups/",
+      "evidenceId": "7432911e3f1147df06d8",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "Steven Earle / BCcampus",
+      "ref": "Physical Geology – 2nd Edition, 2.3 Mineral Groups",
+      "quote": "We group minerals into classes on the basis of their predominant anion or anion complex.",
+      "url": "https://opentextbc.ca/physicalgeology2ed/chapter/2-3-mineral-groups/",
+      "evidenceId": "7432911e3f1147df06d8",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "Steven Earle / BCcampus",
+      "ref": "Physical Geology – 2nd Edition, 2.4 Silicate Minerals",
+      "quote": "the silica tetrahedra are arranged in continuous sheets",
+      "url": "https://opentextbc.ca/physicalgeology2ed/chapter/2-4-silicate-minerals/",
+      "evidenceId": "b0fa9eede815c33cbe6a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "Steven Earle / BCcampus",
+      "ref": "Physical Geology – 2nd Edition, 2.4 Silicate Minerals",
+      "quote": "the silica tetrahedra are arranged in continuous sheets",
+      "url": "https://opentextbc.ca/physicalgeology2ed/chapter/2-4-silicate-minerals/",
+      "evidenceId": "b0fa9eede815c33cbe6a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "Steven Earle / BCcampus",
+      "ref": "Physical Geology – 2nd Edition, 2.4 Silicate Minerals",
+      "quote": "the silica tetrahedra are arranged in continuous sheets",
+      "url": "https://opentextbc.ca/physicalgeology2ed/chapter/2-4-silicate-minerals/",
+      "evidenceId": "b0fa9eede815c33cbe6a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "Steven Earle / BCcampus",
+      "ref": "Physical Geology – 2nd Edition, 2.4 Silicate Minerals",
+      "quote": "the silica tetrahedra are arranged in continuous sheets",
+      "url": "https://opentextbc.ca/physicalgeology2ed/chapter/2-4-silicate-minerals/",
+      "evidenceId": "b0fa9eede815c33cbe6a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "Steven Earle / BCcampus",
+      "ref": "Physical Geology – 2nd Edition, 2.4 Silicate Minerals",
+      "quote": "the silica tetrahedra are arranged in continuous sheets",
+      "url": "https://opentextbc.ca/physicalgeology2ed/chapter/2-4-silicate-minerals/",
+      "evidenceId": "b0fa9eede815c33cbe6a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Canonical question and each mineral/answer combination checked against directly reviewed mineral classification and silicate structure sections.",
+    "contentHash": "d27e1548d3ff2669ce2cee4af7a4feb96bc446f6e21215bafa3e5fb088682aaa"
+  }
+}

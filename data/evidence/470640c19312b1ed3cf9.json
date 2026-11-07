@@ -1,0 +1,19 @@
+{
+  "id": "470640c19312b1ed3cf9",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Astronomy 2e — 19.2 Surveying the Stars",
+  "url": "https://openstax.org/books/astronomy-2e/pages/19-2-surveying-the-stars",
+  "excerpt": "Seen from opposite sides of Earth’s orbit, a nearby star shifts position",
+  "sourceHash": "ad3fe6d14394685c8ef2ec82bb84ce2ff82a69debfe794ba7639c92312e14a69",
+  "cacheSourceId": "c66b74d2d607ee83f705",
+  "retrievedAt": "2026-11-06T20:49:20.329122+00:00",
+  "reviewedMappings": {
+    "2016-3-40:0": "지구 공전 궤도의 다른 위치에서 보는 방향 변화가 연주시차의 원인. ㄴ은 자전 결과가 아님.",
+    "2016-3-40:2": "연주시차는 공전으로 관측점이 이동해 발생하며 자전에 의한 일주시차와 구별. 궤도 반대편 기준 관측점 간 거리는 약2AU이고 연주시차 정의의 기준 길이는1AU.",
+    "2016-3-40:4": "ㄴ은 공전 효과. ㄷ 역시 공전 효과이고 ㄱ을 빠뜨린 조합은 틀림.",
+    "2016-3-40:5": "ㄴ이 공전 결과이므로 세 보기를 모두 자전 결과로 선택할 수 없음."
+  },
+  "retrievalMethod": "Direct web open; daily/annual motion or annual parallax sections reviewed.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

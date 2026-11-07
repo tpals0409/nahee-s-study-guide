@@ -1,0 +1,118 @@
+{
+  "id": "2023-3-17",
+  "summary": "M은 Mn이며 [MnCl₄]²⁻의 중심은 Mn²⁺, 3d⁵이다. 약한 장의 정사면체 착물에서 고스핀 e²t₂³ 배치를 가지므로 홀전자는5개다. CFSE=2(−0.6Δ_t)+3(0.4Δ_t)=0이므로 옳지 않은 것은⑤이다.",
+  "choices": [
+    "옳다. 중심의 산화수를 x라 하면 x+4(−1)=−2이므로 x=+2이다.",
+    "옳다. 정사면체장에서 d_xy는 높은 t₂에, d_z²는 낮은 e에 속한다.",
+    "옳다. 정육면체의 중심을 원점으로 놓으면 좌표축은 면심을 지난다. d_z²의 두 축방향 로브는±z, d_(x²−y²)의 로브는±x와±y방향으로 뻗는다.",
+    "옳다. Mn²⁺의3d전자5개는 이 정사면체 고스핀 착물에서 서로 다른 d오비탈을 하나씩 차지하므로 홀전자는5개다.",
+    "옳지 않으므로 정답이다. d오비탈의 평균 에너지를 기준으로 e는−0.6Δ_t, t₂는+0.4Δ_t다. e²t₂³의 CFSE는0이며 −2Δ_t가 아니다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "Royal Society of Chemistry",
+      "ref": "Manganese — Element information",
+      "quote": "54.938",
+      "url": "https://periodic-table.rsc.org/element/25/manganese",
+      "evidenceId": "c4e57e04c2f66e522aee",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "Royal Society of Chemistry",
+      "ref": "Manganese — Element information",
+      "quote": "54.938",
+      "url": "https://periodic-table.rsc.org/element/25/manganese",
+      "evidenceId": "c4e57e04c2f66e522aee",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "Royal Society of Chemistry",
+      "ref": "Manganese — Element information",
+      "quote": "54.938",
+      "url": "https://periodic-table.rsc.org/element/25/manganese",
+      "evidenceId": "c4e57e04c2f66e522aee",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "Royal Society of Chemistry",
+      "ref": "Manganese — Element information",
+      "quote": "54.938",
+      "url": "https://periodic-table.rsc.org/element/25/manganese",
+      "evidenceId": "c4e57e04c2f66e522aee",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 19.3 Spectroscopic and Magnetic Properties of Coordination Compounds",
+      "quote": "None of the orbitals points directly at the tetrahedral ligands.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/19-3-spectroscopic-and-magnetic-properties-of-coordination-compounds",
+      "evidenceId": "3584b5c2ab1eb3b4d46c",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 19.3 Spectroscopic and Magnetic Properties of Coordination Compounds",
+      "quote": "None of the orbitals points directly at the tetrahedral ligands.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/19-3-spectroscopic-and-magnetic-properties-of-coordination-compounds",
+      "evidenceId": "3584b5c2ab1eb3b4d46c",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 19.3 Spectroscopic and Magnetic Properties of Coordination Compounds",
+      "quote": "None of the orbitals points directly at the tetrahedral ligands.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/19-3-spectroscopic-and-magnetic-properties-of-coordination-compounds",
+      "evidenceId": "3584b5c2ab1eb3b4d46c",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 19.3 Spectroscopic and Magnetic Properties of Coordination Compounds",
+      "quote": "None of the orbitals points directly at the tetrahedral ligands.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/19-3-spectroscopic-and-magnetic-properties-of-coordination-compounds",
+      "evidenceId": "3584b5c2ab1eb3b4d46c",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 19.3 Spectroscopic and Magnetic Properties of Coordination Compounds",
+      "quote": "None of the orbitals points directly at the tetrahedral ligands.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/19-3-spectroscopic-and-magnetic-properties-of-coordination-compounds",
+      "evidenceId": "3584b5c2ab1eb3b4d46c",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "원문 원자번호25·정사면체·전하2−·5개선지 확인. 전하보존 및 d전자수 계산, 무게중심2Ee+3Et=0과 에너지차Δt로 CFSE계수 독립도출 및 유리수 검산. dz²의 축방향로브와 도넛부분을 구분. RSC 원소자료와 OpenStax 정사면체장 설명 대조. 불필요한 오답기원 추측 삭제.",
+    "contentHash": "1c44cb8eec5120911b101fb3a348d1497c2c924231538f9531f991e86175e541"
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "id": "2015-3-01",
+  "summary": "정답은 ② g/4입니다. 각 물체의 질량을 m, 운동마찰계수를 μ라 하면 줄이 끊기기 전 등속 조건에서 mg=2μmg이므로 μ=1/2입니다. 끊어진 뒤 B와 C의 운동방정식을 각 운동 방향으로 더하면 mg−μmg=2ma이므로 C의 가속도 크기는 g/4입니다.",
+  "choices": [
+    "오답입니다. g/2는 B의 마찰을 무시했을 때의 값입니다. 실제로 B에는 운동마찰력 mg/2가 작용하므로 가속도는 더 작습니다.",
+    "정답입니다. 끊기기 전 A와 B에 작용하는 마찰력의 합은 C의 무게와 같아 2μmg=mg입니다. 끊긴 뒤에는 B에 남은 마찰만 고려하여 T−mg/2=ma, mg−T=ma를 얻습니다. 두 식을 더하면 mg/2=2ma, 따라서 a=g/4입니다.",
+    "오답입니다. 두 운동방정식은 2ma=mg/2를 요구합니다. a=g/5를 대입하면 왼쪽은 2mg/5이므로 성립하지 않습니다.",
+    "오답입니다. a=g/√2를 대입하면 2ma=√2 mg가 되어 필요한 mg/2와 다릅니다. 제곱근 모양이라는 이유가 아니라 운동방정식에 맞지 않기 때문에 틀립니다.",
+    "오답입니다. a=g/√5를 대입하면 2ma=2mg/√5가 되어 필요한 mg/2와 다릅니다. 계산으로 얻은 가속도는 g/4입니다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics 1 §6.2 Friction",
+      "quote": "If two systems are in contact and moving relative to one another, then the friction between them is called kinetic friction.",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/6-2-friction",
+      "evidenceId": "ca8e27a4057a4c7686ca",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics 1 §6.2 Friction",
+      "quote": "If two systems are in contact and moving relative to one another, then the friction between them is called kinetic friction.",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/6-2-friction",
+      "evidenceId": "ca8e27a4057a4c7686ca",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics 1 §6.2 Friction",
+      "quote": "If two systems are in contact and moving relative to one another, then the friction between them is called kinetic friction.",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/6-2-friction",
+      "evidenceId": "ca8e27a4057a4c7686ca",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics 1 §6.2 Friction",
+      "quote": "If two systems are in contact and moving relative to one another, then the friction between them is called kinetic friction.",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/6-2-friction",
+      "evidenceId": "ca8e27a4057a4c7686ca",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics 1 §6.2 Friction",
+      "quote": "If two systems are in contact and moving relative to one another, then the friction between them is called kinetic friction.",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/6-2-friction",
+      "evidenceId": "ca8e27a4057a4c7686ca",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics 1 §6.2 Friction",
+      "quote": "If two systems are in contact and moving relative to one another, then the friction between them is called kinetic friction.",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/6-2-friction",
+      "evidenceId": "ca8e27a4057a4c7686ca",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics 1 §5.3 Newton’s Second Law",
+      "quote": "acceleration is directly proportional to net external force.",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/5-3-newtons-second-law",
+      "evidenceId": "fbb005a01435d8ff0e64",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics 1 §5.3 Newton’s Second Law",
+      "quote": "acceleration is directly proportional to net external force.",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/5-3-newtons-second-law",
+      "evidenceId": "fbb005a01435d8ff0e64",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics 1 §5.3 Newton’s Second Law",
+      "quote": "acceleration is directly proportional to net external force.",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/5-3-newtons-second-law",
+      "evidenceId": "fbb005a01435d8ff0e64",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics 1 §5.3 Newton’s Second Law",
+      "quote": "acceleration is directly proportional to net external force.",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/5-3-newtons-second-law",
+      "evidenceId": "fbb005a01435d8ff0e64",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics 1 §5.3 Newton’s Second Law",
+      "quote": "acceleration is directly proportional to net external force.",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/5-3-newtons-second-law",
+      "evidenceId": "fbb005a01435d8ff0e64",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics 1 §5.3 Newton’s Second Law",
+      "quote": "acceleration is directly proportional to net external force.",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/5-3-newtons-second-law",
+      "evidenceId": "fbb005a01435d8ff0e64",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "Original diagram and ideal-string/pulley assumptions inspected; separate free-body scalar equations derived; Fraction check confirms mu=1/2, a/g=1/4 and T/(mg)=3/4. Removed guesses about wrong-answer origins and invalid no-square-root heuristics.",
+    "contentHash": "660b38ec828e45a0b8f2cfd2febd771fb09eacf89e4ec296799d3d532d0b5f18"
+  }
+}

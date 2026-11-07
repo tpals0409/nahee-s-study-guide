@@ -1,0 +1,140 @@
+{
+  "id": "2023-3-31",
+  "summary": "ㄱ·ㄷ이 옳으므로 정답은 ④이다. 지진파 속도는 매질의 탄성률과 밀도에 의존한다. 외핵은 액체여서 S파가 통과하지 못하며, 직접파를 기준으로 P파 암영대는 S파 암영대보다 좁다.",
+  "choices": [
+    "ㄱ은 옳지만 ㄷ이 빠져 오답이다. 지진파 속도는 매질의 탄성률·밀도와 상태에 따라 달라진다. 밀도만으로 속도의 증감을 단정할 수는 없다.",
+    "ㄴ은 틀리다. 외핵은 고체가 아니라 액체이다. 액체는 전단 변형을 지탱하지 못하므로 S파가 외핵을 통과하지 못한다.",
+    "ㄷ은 옳지만 ㄱ이 빠져 오답이다. P파는 외핵에서 굴절되어 일정 각도 구간에 암영대를 만들지만 더 먼 곳에서는 다시 관측된다. S파는 액체 외핵을 통과하지 못해 직접 S파의 암영대가 더 넓다.",
+    "ㄱ·ㄷ만 포함하여 정답이다. 속도의 매질 의존성과 P파·S파 암영대의 크기 비교가 모두 옳다.",
+    "ㄱ·ㄷ은 옳지만 ㄴ이 틀리므로 오답이다. 외핵이 고체이고 P파·S파가 모두 통과한다는 부분이 잘못됐다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "US EPA",
+      "ref": "Seismic Velocities",
+      "quote": "S waves cannot propagate through liquids because liquids have no shear rigidity.",
+      "url": "https://www.epa.gov/environmental-geophysics/seismic-velocities",
+      "evidenceId": "ea3e3b1e89ae11367e7d",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "US EPA",
+      "ref": "Seismic Velocities",
+      "quote": "S waves cannot propagate through liquids because liquids have no shear rigidity.",
+      "url": "https://www.epa.gov/environmental-geophysics/seismic-velocities",
+      "evidenceId": "ea3e3b1e89ae11367e7d",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "US EPA",
+      "ref": "Seismic Velocities",
+      "quote": "S waves cannot propagate through liquids because liquids have no shear rigidity.",
+      "url": "https://www.epa.gov/environmental-geophysics/seismic-velocities",
+      "evidenceId": "ea3e3b1e89ae11367e7d",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "US EPA",
+      "ref": "Seismic Velocities",
+      "quote": "S waves cannot propagate through liquids because liquids have no shear rigidity.",
+      "url": "https://www.epa.gov/environmental-geophysics/seismic-velocities",
+      "evidenceId": "ea3e3b1e89ae11367e7d",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "US EPA",
+      "ref": "Seismic Velocities",
+      "quote": "S waves cannot propagate through liquids because liquids have no shear rigidity.",
+      "url": "https://www.epa.gov/environmental-geophysics/seismic-velocities",
+      "evidenceId": "ea3e3b1e89ae11367e7d",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "US EPA",
+      "ref": "Seismic Velocities",
+      "quote": "S waves cannot propagate through liquids because liquids have no shear rigidity.",
+      "url": "https://www.epa.gov/environmental-geophysics/seismic-velocities",
+      "evidenceId": "ea3e3b1e89ae11367e7d",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "U.S. Geological Survey",
+      "ref": "Shadow Zone",
+      "quote": "S waves being stopped entirely by the liquid core",
+      "url": "https://www.usgs.gov/media/images/shadowzonegif",
+      "evidenceId": "8bf554a22e833f85c8e9",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "U.S. Geological Survey",
+      "ref": "Shadow Zone",
+      "quote": "S waves being stopped entirely by the liquid core",
+      "url": "https://www.usgs.gov/media/images/shadowzonegif",
+      "evidenceId": "8bf554a22e833f85c8e9",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "U.S. Geological Survey",
+      "ref": "Shadow Zone",
+      "quote": "S waves being stopped entirely by the liquid core",
+      "url": "https://www.usgs.gov/media/images/shadowzonegif",
+      "evidenceId": "8bf554a22e833f85c8e9",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "U.S. Geological Survey",
+      "ref": "Shadow Zone",
+      "quote": "S waves being stopped entirely by the liquid core",
+      "url": "https://www.usgs.gov/media/images/shadowzonegif",
+      "evidenceId": "8bf554a22e833f85c8e9",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "U.S. Geological Survey",
+      "ref": "Shadow Zone",
+      "quote": "S waves being stopped entirely by the liquid core",
+      "url": "https://www.usgs.gov/media/images/shadowzonegif",
+      "evidenceId": "8bf554a22e833f85c8e9",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "원문 이미지 확인. EPA 속도식·액체 전단강성, USGS 직접P파 암영대·액체핵 설명 직접 대조. ㄱ·ㄷ 참, ㄴ 거짓으로④. 출처별 근사경계 차이를 고려해 불필요한 고정 각도 및 모든 종류 파동이 없다는 표현 삭제.",
+    "contentHash": "ade233e310d974a5100bb4d48f7b311ff546260dd3661aabadbd74dfdeba3b23"
+  }
+}

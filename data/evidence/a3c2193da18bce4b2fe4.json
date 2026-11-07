@@ -1,0 +1,16 @@
+{
+  "id": "a3c2193da18bce4b2fe4",
+  "kind": "science",
+  "source": "OpenStax Biology 2e",
+  "ref": "14.4 DNA Replication in Prokaryotes",
+  "url": "https://openstax.org/books/biology-2e/pages/14-4-dna-replication-in-prokaryotes",
+  "excerpt": "Single-strand binding proteins bind to each strand to stabilize and prevent them from reforming the double helix.",
+  "sourceHash": "1bab1fc1323243b42828266baa5e4d9f31f67da2ecc4112a5ba110c63b954b10",
+  "cacheSourceId": "0d39aa0970a660f571c9",
+  "retrievedAt": "2026-11-06T18:51:38.533116+00:00",
+  "reviewedMappings": {
+    "2014-3-21:2": "단일가닥 결합 단백질의 기본 기능 근거. 인간 단백질의 명칭과 적용은 별도 진핵생물 RPA 근거로 보완."
+  },
+  "retrievalMethod": "web.open",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

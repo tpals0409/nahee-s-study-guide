@@ -1,0 +1,21 @@
+{
+  "id": "6fe5757434b028b263fb",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "OpenStax Biology 2e §15.3 Eukaryotic Transcription",
+  "url": "https://openstax.org/books/biology-2e/pages/15-3-eukaryotic-transcription",
+  "excerpt": "Eukaryotes also employ three different polymerases that each transcribe a different subset of genes.",
+  "sourceHash": "a54fe68ea4a539827a29df6cc5531860cbde18643a153e5746734443e0867c65",
+  "cacheSourceId": "ecf21c2f8ad339c94b0f",
+  "retrievedAt": "2026-11-07T04:04:19.542494+00:00",
+  "reviewedMappings": {
+    "2013-3-27:1": "핵 RNA중합효소I/II/III 역할분담 확인.",
+    "2026-3-22:0": "Multiple nuclear polymerases refuteㄱ; promoter recruitment by transcription factors qualifiesㄹ.",
+    "2026-3-22:1": "Multiple nuclear polymerases refuteㄱ; promoter recruitment by transcription factors qualifiesㄹ.",
+    "2026-3-22:2": "Multiple nuclear polymerases refuteㄱ; promoter recruitment by transcription factors qualifiesㄹ.",
+    "2026-3-22:4": "Multiple nuclear polymerases refuteㄱ; promoter recruitment by transcription factors qualifiesㄹ.",
+    "2026-3-22:5": "Multiple nuclear polymerases refuteㄱ; promoter recruitment by transcription factors qualifiesㄹ."
+  },
+  "retrievalMethod": "Direct web open",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

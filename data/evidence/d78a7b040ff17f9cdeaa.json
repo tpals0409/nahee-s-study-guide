@@ -1,0 +1,16 @@
+{
+  "id": "d78a7b040ff17f9cdeaa",
+  "kind": "science",
+  "source": "U.S. Geological Survey",
+  "ref": "Evidence for an upper mantle low velocity zone beneath the southern Basin and Range-Colorado Plateau transition zone",
+  "url": "https://www.usgs.gov/publications/evidence-upper-mantle-low-velocity-zone-beneath-southern-basin-and-range-colorado",
+  "excerpt": "suggesting either a ∼3–5% mafic partial melt or high-temperature, sub-solidus peridotite.",
+  "sourceHash": "c011f18519dd177f650bd6a6d9dfb7f55765ef4c8a965d8d1218891750f18e48",
+  "cacheSourceId": "974e76506ef97c856609",
+  "retrievedAt": "2026-11-06T19:55:34.616117+00:00",
+  "reviewedMappings": {
+    "2015-3-34:4": "1994년 지진파 관측 연구는 저속도층 모델의 가능한 해석으로 부분용융 또는 고온의 고체 감람암을 제시한다. ④ 해설의 고온·일부 용융 설명을 지지하되 지역 연구 수치와 깊이를 전 지구 일반값으로 쓰지 않는다."
+  },
+  "retrievalMethod": "Search-indexed USGS research abstract reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

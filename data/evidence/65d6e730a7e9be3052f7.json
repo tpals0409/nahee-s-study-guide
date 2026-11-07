@@ -1,0 +1,18 @@
+{
+  "id": "65d6e730a7e9be3052f7",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e §3.2, polysaccharides",
+  "url": "https://openstax.org/books/biology-2e/pages/3-2-carbohydrates",
+  "excerpt": "Chitin is also a major component of fungal cell walls.",
+  "sourceHash": "fc81123e4b42f6adbd8c3a9aba40168d091ee6f948874c44a0f3c40768b3adb6",
+  "cacheSourceId": "45200d34387f19b35de2",
+  "retrievedAt": "2026-11-07T02:34:18.274337+00:00",
+  "reviewedMappings": {
+    "2024-3-21:0": "Directly identifies the common structural polysaccharide.",
+    "2024-3-21:2": "Chitin occurs in both arthropod exoskeleton and fungal walls.",
+    "2024-3-21:5": "Cellulose plant-wall glucose polymer contrasted with chitin common to the specified structures."
+  },
+  "retrievalMethod": "Direct page text reviewed: insect/crustacean exoskeleton chitin, N-acetylglucosamine units, fungal cell walls; cellulose glucose beta1-4.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

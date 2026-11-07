@@ -1,0 +1,20 @@
+{
+  "id": "47af666e108574877096",
+  "kind": "science",
+  "source": "NOAA / National Weather Service",
+  "ref": "Meteorological Techniques — Wind Types",
+  "url": "https://www.weather.gov/media/zhu/ZHU_Training_Page/Met_Tutorials/Meteorological_Techniques.pdf",
+  "excerpt": "Friction also causes winds to flow across isobars from high to low pressure",
+  "sourceHash": "c25d8333bce1ae624ac8dd2a47f6168d5f17845a4923c3f89c03ad091a81d8bf",
+  "cacheSourceId": "da163601c1b7eecbb512",
+  "retrievedAt": "2026-11-07T03:34:55.083727+00:00",
+  "reviewedMappings": {
+    "2025-3-36:0": "마찰이 풍속을 낮추고 등압선을 가로지르게 한다는 설명 및 지균풍의 기압경도력-전향력 균형, 등압선 평행을 대조. ②·③·④ 판단. ⑤는 북쪽 기압경도력과 남쪽으로 접근하는 전향력의 그림 기하로 계산.",
+    "2025-3-36:2": "마찰이 풍속을 낮추고 등압선을 가로지르게 한다는 설명 및 지균풍의 기압경도력-전향력 균형, 등압선 평행을 대조. ②·③·④ 판단. ⑤는 북쪽 기압경도력과 남쪽으로 접근하는 전향력의 그림 기하로 계산.",
+    "2025-3-36:3": "마찰이 풍속을 낮추고 등압선을 가로지르게 한다는 설명 및 지균풍의 기압경도력-전향력 균형, 등압선 평행을 대조. ②·③·④ 판단. ⑤는 북쪽 기압경도력과 남쪽으로 접근하는 전향력의 그림 기하로 계산.",
+    "2025-3-36:4": "마찰이 풍속을 낮추고 등압선을 가로지르게 한다는 설명 및 지균풍의 기압경도력-전향력 균형, 등압선 평행을 대조. ②·③·④ 판단. ⑤는 북쪽 기압경도력과 남쪽으로 접근하는 전향력의 그림 기하로 계산.",
+    "2025-3-36:5": "마찰이 풍속을 낮추고 등압선을 가로지르게 한다는 설명 및 지균풍의 기압경도력-전향력 균형, 등압선 평행을 대조. ②·③·④ 판단. ⑤는 북쪽 기압경도력과 남쪽으로 접근하는 전향력의 그림 기하로 계산."
+  },
+  "retrievalMethod": "Search-indexed NOAA/NWS source text read",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

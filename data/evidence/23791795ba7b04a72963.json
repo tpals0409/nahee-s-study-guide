@@ -1,0 +1,14 @@
+{
+  "id": "23791795ba7b04a72963",
+  "kind": "science",
+  "source": "OpenStax · Organic Chemistry",
+  "ref": "12.2",
+  "url": "https://openstax.org/books/organic-chemistry/pages/12-2-interpreting-mass-spectra",
+  "excerpt": "The most obvious information is the molecular weight of the sample",
+  "sourceHash": "b9ee5b2100fa3baa2d8e038268836b39ac2cc702951d1dfc10470a47e8400b67",
+  "cacheSourceId": "155dbad4caa3570876bd",
+  "retrievedAt": "2026-11-06T15:19:37.118691+00:00",
+  "reviewedMappings": {
+    "2009-3-18:1": "MS분자량12.2, XRD원자위치ChemAtomsFirst3.1, IR작용기12.7,1HNMR화학환경13.4,UV공액14.8원문대조. MS는분자이온확인조건, XRD는핵스핀측정아님. 초안의탄소13만스핀존재단정·자연존재비·불필요IR수치삭제."
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "926d74321e35453fc957",
+  "kind": "science",
+  "source": "대한석탄공사",
+  "ref": "석탄의 분류와 이용에 대하여 알고 싶어요",
+  "url": "https://www.kocoal.or.kr/board/board_view.php?board_name=cs_faq&page=1&search_category=%EC%84%9D%ED%83%84&view_id=10",
+  "excerpt": "우리나라의 석탄은 대부분 무연탄으로 고생대 탄층이 주로 분포한다.",
+  "sourceHash": "f868e89a5f0aa1696cd88a75ad995efa59bafe991142d037d82a7a9afc72f44e",
+  "cacheSourceId": "479c3355790ba672d0d4",
+  "retrievedAt": "2026-11-06T23:37:26.333858+00:00",
+  "reviewedMappings": {
+    "2020-3-34:1": "국내 석탄은 대부분 무연탄이며 고생대 탄층이 주로 분포한다는 직접 진술로 ① 지지."
+  },
+  "retrievalMethod": "Direct web open; reviewed FAQ dated 2020-01-06, lines 78–91, especially domestic predominant anthracite/Paleozoic strata at line 81.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

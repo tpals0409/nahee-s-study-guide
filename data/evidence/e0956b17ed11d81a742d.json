@@ -1,0 +1,21 @@
+{
+  "id": "e0956b17ed11d81a742d",
+  "kind": "science",
+  "source": "Efa Wilson and Stephen Belding; University of Bristol Molecule of the Month",
+  "ref": "Hydrogen Fluoride, Molecule of the Month January 2021",
+  "url": "https://www.chm.bris.ac.uk/motm/HF/HFjs.htm",
+  "excerpt": "Pure hydrogen fluoride is a colourless, fuming liquid that boils at 19.5°C.",
+  "sourceHash": "77ec79615236219845eed0094df4dd9adad40b3b5e71785a1c1afcae911e1290",
+  "cacheSourceId": "e22ec872c1a6fb0e72dd",
+  "retrievedAt": "2026-11-07T03:55:58.980538+00:00",
+  "reviewedMappings": {
+    "2026-3-13:0": "Tabulated normal boiling points give HCl < HBr < HF; hence ㄴ true.",
+    "2026-3-13:1": "Tabulated normal boiling points give HCl < HBr < HF; hence ㄴ true.",
+    "2026-3-13:2": "Tabulated normal boiling points give HCl < HBr < HF; hence ㄴ true.",
+    "2026-3-13:3": "Tabulated normal boiling points give HCl < HBr < HF; hence ㄴ true.",
+    "2026-3-13:4": "Tabulated normal boiling points give HCl < HBr < HF; hence ㄴ true.",
+    "2026-3-13:5": "Tabulated normal boiling points give HCl < HBr < HF; hence ㄴ true."
+  },
+  "retrievalMethod": "Direct web open",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "f516e19d2f7da59c7c0d",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics 2 §8.4 Capacitor with a Dielectric",
+  "url": "https://openstax.org/books/university-physics-volume-2/pages/8-4-capacitor-with-a-dielectric",
+  "excerpt": "the insertion of the dielectric has no effect on the charge on the plate",
+  "sourceHash": "cda8a430838d4189974c6f020b58d6fd9d9db08413384d28d44e57ce7e3e6b98",
+  "cacheSourceId": "5933d63a7e959ceeaa08",
+  "retrievedAt": "2026-11-06T19:20:28.293217+00:00",
+  "reviewedMappings": {
+    "2015-3-05:0": "Equation 8.11 gives C=kappa C0 for complete homogeneous filling. Applied to each spherical layer using epsilon=kappa epsilon0; layered arrangement and voltage addition are independent derivation, not explicitly this example in source.",
+    "2015-3-05:1": "Equation 8.11 gives C=kappa C0 for complete homogeneous filling. Applied to each spherical layer using epsilon=kappa epsilon0; layered arrangement and voltage addition are independent derivation, not explicitly this example in source.",
+    "2015-3-05:2": "Equation 8.11 gives C=kappa C0 for complete homogeneous filling. Applied to each spherical layer using epsilon=kappa epsilon0; layered arrangement and voltage addition are independent derivation, not explicitly this example in source.",
+    "2015-3-05:3": "Equation 8.11 gives C=kappa C0 for complete homogeneous filling. Applied to each spherical layer using epsilon=kappa epsilon0; layered arrangement and voltage addition are independent derivation, not explicitly this example in source.",
+    "2015-3-05:4": "Equation 8.11 gives C=kappa C0 for complete homogeneous filling. Applied to each spherical layer using epsilon=kappa epsilon0; layered arrangement and voltage addition are independent derivation, not explicitly this example in source.",
+    "2015-3-05:5": "Equation 8.11 gives C=kappa C0 for complete homogeneous filling. Applied to each spherical layer using epsilon=kappa epsilon0; layered arrangement and voltage addition are independent derivation, not explicitly this example in source."
+  },
+  "retrievalMethod": "Direct web.open; surrounding equations inspected",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

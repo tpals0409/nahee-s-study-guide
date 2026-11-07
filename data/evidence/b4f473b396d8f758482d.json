@@ -1,0 +1,21 @@
+{
+  "id": "b4f473b396d8f758482d",
+  "kind": "science",
+  "source": "Eric Dornshuld",
+  "ref": "Molecular Orbital Theory — Heteronuclear diatomics and Bond order",
+  "url": "https://dornshuld.com/chem1/notes/ch09-mo-theory.html",
+  "excerpt": "the AOs on the more electronegative atom are lower in energy",
+  "sourceHash": "c0eb4eb4e795652105bd486991cb2fd4d3a362a5426dd1721535185088f62c61",
+  "cacheSourceId": "3a60a7a237d49b465f63",
+  "retrievedAt": "2026-11-06T21:50:40.538090+00:00",
+  "reviewedMappings": {
+    "2018-3-13:0": "이핵 분자 절의 AO 에너지와 전기음성도 관계, Bond order 절의 결합 길이 관계를 직접 검토. 원본 그림에서 A의 2s·2p가 B보다 높으므로 ㄱ 참. 같은 원자쌍에서 반결합 전자를 제거하면 결합 차수가 증가하고 길이가 짧아지므로 ㄷ 참. 각 조합의 포함·누락 판단에 적용. 다른 문단의 s-p 혼합 표기와 무관한 주장들은 사용하지 않음.",
+    "2018-3-13:1": "이핵 분자 절의 AO 에너지와 전기음성도 관계, Bond order 절의 결합 길이 관계를 직접 검토. 원본 그림에서 A의 2s·2p가 B보다 높으므로 ㄱ 참. 같은 원자쌍에서 반결합 전자를 제거하면 결합 차수가 증가하고 길이가 짧아지므로 ㄷ 참. 각 조합의 포함·누락 판단에 적용. 다른 문단의 s-p 혼합 표기와 무관한 주장들은 사용하지 않음.",
+    "2018-3-13:2": "이핵 분자 절의 AO 에너지와 전기음성도 관계, Bond order 절의 결합 길이 관계를 직접 검토. 원본 그림에서 A의 2s·2p가 B보다 높으므로 ㄱ 참. 같은 원자쌍에서 반결합 전자를 제거하면 결합 차수가 증가하고 길이가 짧아지므로 ㄷ 참. 각 조합의 포함·누락 판단에 적용. 다른 문단의 s-p 혼합 표기와 무관한 주장들은 사용하지 않음.",
+    "2018-3-13:3": "이핵 분자 절의 AO 에너지와 전기음성도 관계, Bond order 절의 결합 길이 관계를 직접 검토. 원본 그림에서 A의 2s·2p가 B보다 높으므로 ㄱ 참. 같은 원자쌍에서 반결합 전자를 제거하면 결합 차수가 증가하고 길이가 짧아지므로 ㄷ 참. 각 조합의 포함·누락 판단에 적용. 다른 문단의 s-p 혼합 표기와 무관한 주장들은 사용하지 않음.",
+    "2018-3-13:4": "이핵 분자 절의 AO 에너지와 전기음성도 관계, Bond order 절의 결합 길이 관계를 직접 검토. 원본 그림에서 A의 2s·2p가 B보다 높으므로 ㄱ 참. 같은 원자쌍에서 반결합 전자를 제거하면 결합 차수가 증가하고 길이가 짧아지므로 ㄷ 참. 각 조합의 포함·누락 판단에 적용. 다른 문단의 s-p 혼합 표기와 무관한 주장들은 사용하지 않음.",
+    "2018-3-13:5": "이핵 분자 절의 AO 에너지와 전기음성도 관계, Bond order 절의 결합 길이 관계를 직접 검토. 원본 그림에서 A의 2s·2p가 B보다 높으므로 ㄱ 참. 같은 원자쌍에서 반결합 전자를 제거하면 결합 차수가 증가하고 길이가 짧아지므로 ㄷ 참. 각 조합의 포함·누락 판단에 적용. 다른 문단의 s-p 혼합 표기와 무관한 주장들은 사용하지 않음."
+  },
+  "retrievalMethod": "Direct web open and relevant section review; selected verbatim excerpt retained",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,74 @@
+{
+  "summary": "지구의 핵은 철을 주성분으로 하는 금속층이며 지각·맨틀보다 철의 비율이 높다. 따라서 옳은 설명은 ③이다.",
+  "choices": [
+    "① 틀림. 암영대는 특정 지진의 직접파가 도달하지 않는 지표상의 범위이며, 외핵 자체의 이름이 아니다. 액체 외핵은 S파를 통과시키지 않지만 P파는 통과하면서 굴절하므로, 모든 지진파가 외핵을 통과하지 못한다는 설명도 틀리다.",
+    "② 틀림. 해양지각은 대체로 대륙지각보다 얇다. 따라서 평균 두께가 더 두껍다는 주장은 반대이다. 지역별 두께 차이가 있어도 이 일반적인 비교는 변하지 않는다.",
+    "③ 옳음. 핵은 철·니켈을 중심으로 하는 금속성 조성이며 철이 풍부하다. 지각과 맨틀에도 철이 있지만 주로 암석을 이루는 규산염 광물에 포함되어 있으므로 핵과 조성 비율이 다르다.",
+    "④ 틀림. 암석권은 지각과 단단한 최상부 맨틀을 포함하며 연약권 위에 놓인다. 연약권은 암석권 아래에서 지질학적 시간에 걸쳐 변형·유동할 수 있는 영역이다. 위아래 관계를 바꾼 설명이다.",
+    "⑤ 틀림. 금속성 조성을 가진 핵은 맨틀보다 밀도가 크다. 따라서 지구 내부에서 밀도가 가장 높은 층을 맨틀이라고 할 수 없다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "US Geological Survey",
+      "ref": "Seismic shadow zone",
+      "quote": "P waves being bent (refracted) by the liquid core",
+      "url": "https://www.usgs.gov/media/images/shadowzonegif",
+      "evidenceId": "d424b05f5f2ad11a69d6",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "Australian Museum",
+      "ref": "Looking inside the Earth",
+      "quote": "the continental crust is much thicker",
+      "url": "https://australian.museum/learn/minerals/shaping-earth/looking-inside-the-earth/",
+      "evidenceId": "6eac5fdcd1fad2bca348",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "US Geological Survey",
+      "ref": "Inside the Earth — This Dynamic Earth",
+      "quote": "its composition is metallic (iron-nickel alloy) rather than stony",
+      "url": "https://pubs.usgs.gov/gip/dynamic/inside.html",
+      "evidenceId": "fab22022b4a98d593135",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "US Geological Survey",
+      "ref": "Inside the Earth — This Dynamic Earth",
+      "quote": "its composition is metallic (iron-nickel alloy) rather than stony",
+      "url": "https://pubs.usgs.gov/gip/dynamic/inside.html",
+      "evidenceId": "fab22022b4a98d593135",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "US Geological Survey",
+      "ref": "Inside the Earth — This Dynamic Earth",
+      "quote": "below the lithosphere is a relatively narrow, mobile zone",
+      "url": "https://pubs.usgs.gov/gip/dynamic/inside.html",
+      "evidenceId": "c3452c7bb32b33d7f9e0",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "original-image-and-geological-agency-source-review",
+    "contentHash": "65cd96cc42faa711683f54d752262edceb1459e19e754362c4396d31f426eb46"
+  }
+}

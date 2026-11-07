@@ -1,0 +1,21 @@
+{
+  "id": "557c32adf4067cddb126",
+  "kind": "science",
+  "source": "National Park Service",
+  "ref": "Sediment Sorting — Background",
+  "url": "https://www.nps.gov/teachers/classrooms/sediment-sorting.htm",
+  "excerpt": "Very well sorted – sediment sizes are very similar in size within a strata.",
+  "sourceHash": "f1b61ac24e4800febd3e4e56c39e9cc1252020c3ad8c7ccddd51747cd7dde4d6",
+  "cacheSourceId": "f952c466ee0aa4bd4d54",
+  "retrievedAt": "2026-11-06T19:04:51.762791+00:00",
+  "reviewedMappings": {
+    "2014-3-32:0": "NPS defines well-sorted sediment by similarity of particle sizes. The original graph supplies cumulative distributions and grain-class bands; interval proportions are differences of cumulative percentages. No source claim about this particular exam graph is implied.",
+    "2014-3-32:1": "Original beach-gravel curve rises steeply over a narrow horizontal interval, unlike the broad flood-gravel and boulder-clay curves. Applying the NPS definition refutes lowest sorting; no exact sorting coefficient or ranking of the best two samples is asserted.",
+    "2014-3-32:2": "Original flood-gravel curve spreads over a much wider phi interval than dune sand. Applying similarity-of-size definition gives poorer sorting for flood gravel.",
+    "2014-3-32:3": "Original label leader for boulder clay points to the broad curve increasing through all four labeled bands: gravel, sand, silt, clay. Grain categories are read from the question, not supplied by the NPS excerpt.",
+    "2014-3-32:4": "Original dune-sand curve begins rising only in the sand band; cumulative percentage remains zero in the gravel band. This is direct graph evidence; NPS provides the common grain-size-distribution context.",
+    "2014-3-32:5": "Original loess label points to the right-hand curve, with cumulative percentage around 15–20 at the left edge of silt and around 95 at its right edge. Their difference exceeds half, establishing mostly silt without claiming exact digitized percentages."
+  },
+  "retrievalMethod": "Direct web open; NPS Background, line 52. Original question image independently inspected.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

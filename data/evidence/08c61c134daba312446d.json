@@ -1,0 +1,16 @@
+{
+  "id": "08c61c134daba312446d",
+  "kind": "science",
+  "source": "MedlinePlus Genetics",
+  "ref": "What kinds of gene variants are possible?",
+  "url": "https://medlineplus.gov/genetics/understanding/mutationsanddisorders/possiblemutations/",
+  "excerpt": "a shortened protein",
+  "sourceHash": "d1f3bd6fbfb58b5d6d70d60f2a04c5505c837daabc3c240e4813e0092bbd3e42",
+  "cacheSourceId": "a54663b36318ceab9973",
+  "retrievedAt": "2026-11-07T05:57:26.393362+00:00",
+  "reviewedMappings": {
+    "2019-3-27:1": "Nonsense 항목55에서 조기종결과 짧은 단백질·분해 가능성 직접 대조."
+  },
+  "retrievalMethod": "Direct NLM MedlinePlus HTML",
+  "sourceHashScope": "Selected short excerpt only; not full source"
+}

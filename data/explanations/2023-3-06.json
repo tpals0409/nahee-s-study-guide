@@ -1,0 +1,151 @@
+{
+  "id": "2023-3-06",
+  "summary": "정답은 ⑤, 48 V입니다. 자기력이 구심력이므로 qvB=mv²/r에서 v=qBr/m=8 m/s입니다. 정지 상태에서 얻은 운동에너지는 96 J이며, 출발판의 전위 ΔV에서 0 V까지 이동하며 qΔV만큼 얻으므로 ΔV=96/2=48 V입니다.",
+  "choices": [
+    "① 오답입니다. 6 V에서 얻는 운동에너지는 12 J이고 속력은 √8 m/s입니다. 자기장 속 반지름은 약 1.06 m로, 3 m가 아닙니다.",
+    "② 오답입니다. 12 V이면 운동에너지는 24 J, 속력은 4 m/s입니다. 반지름 mv/(qB)=1.5 m로 주어진 값의 절반입니다.",
+    "③ 오답입니다. 16 V이면 운동에너지는 32 J이고 반지름은 √3 m, 약 1.73 m입니다. 3 m 조건에 맞지 않습니다.",
+    "④ 오답입니다. 32 V이면 운동에너지는 64 J이고 반지름은 √6 m, 약 2.45 m입니다. 주어진 반지름보다 작습니다.",
+    "⑤ 정답입니다. v=(2×4×3)/3=8 m/s이고 K=(1/2)×3×8²=96 J입니다. qΔV=K이므로 ΔV=48 V입니다. 자기력은 일을 하지 않아 자기장에 들어간 뒤 속력이 유지됩니다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2, 11.3 Motion of a Charged Particle in a Magnetic Field",
+      "quote": "The particle’s kinetic energy and speed thus remain constant.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/11-3-motion-of-a-charged-particle-in-a-magnetic-field",
+      "evidenceId": "2aa4f888585d2c355195",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2, 11.3 Motion of a Charged Particle in a Magnetic Field",
+      "quote": "The particle’s kinetic energy and speed thus remain constant.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/11-3-motion-of-a-charged-particle-in-a-magnetic-field",
+      "evidenceId": "2aa4f888585d2c355195",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2, 11.3 Motion of a Charged Particle in a Magnetic Field",
+      "quote": "The particle’s kinetic energy and speed thus remain constant.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/11-3-motion-of-a-charged-particle-in-a-magnetic-field",
+      "evidenceId": "2aa4f888585d2c355195",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2, 11.3 Motion of a Charged Particle in a Magnetic Field",
+      "quote": "The particle’s kinetic energy and speed thus remain constant.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/11-3-motion-of-a-charged-particle-in-a-magnetic-field",
+      "evidenceId": "2aa4f888585d2c355195",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2, 11.3 Motion of a Charged Particle in a Magnetic Field",
+      "quote": "The particle’s kinetic energy and speed thus remain constant.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/11-3-motion-of-a-charged-particle-in-a-magnetic-field",
+      "evidenceId": "2aa4f888585d2c355195",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2, 11.3 Motion of a Charged Particle in a Magnetic Field",
+      "quote": "The particle’s kinetic energy and speed thus remain constant.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/11-3-motion-of-a-charged-particle-in-a-magnetic-field",
+      "evidenceId": "2aa4f888585d2c355195",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax University Physics Volume 2",
+      "ref": "7.2 Electric Potential and Potential Difference",
+      "quote": "Voltage is the energy per unit charge.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/7-2-electric-potential-and-potential-difference",
+      "evidenceId": "85f884f0d09ac708064a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax University Physics Volume 2",
+      "ref": "7.2 Electric Potential and Potential Difference",
+      "quote": "Voltage is the energy per unit charge.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/7-2-electric-potential-and-potential-difference",
+      "evidenceId": "85f884f0d09ac708064a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax University Physics Volume 2",
+      "ref": "7.2 Electric Potential and Potential Difference",
+      "quote": "Voltage is the energy per unit charge.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/7-2-electric-potential-and-potential-difference",
+      "evidenceId": "85f884f0d09ac708064a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax University Physics Volume 2",
+      "ref": "7.2 Electric Potential and Potential Difference",
+      "quote": "Voltage is the energy per unit charge.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/7-2-electric-potential-and-potential-difference",
+      "evidenceId": "85f884f0d09ac708064a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax University Physics Volume 2",
+      "ref": "7.2 Electric Potential and Potential Difference",
+      "quote": "Voltage is the energy per unit charge.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/7-2-electric-potential-and-potential-difference",
+      "evidenceId": "85f884f0d09ac708064a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax University Physics Volume 2",
+      "ref": "7.2 Electric Potential and Potential Difference",
+      "quote": "Voltage is the energy per unit charge.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/7-2-electric-potential-and-potential-difference",
+      "evidenceId": "85f884f0d09ac708064a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Original radius (not diameter), positive charge and plate potentials checked; independent magnetic-force/energy computation and candidate-radius verification. Distinguished labelled accelerating potential from signed final-minus-initial potential change.",
+    "contentHash": "7d05311d292caf49c2fbb51c393901a30aacf2a23e6c37c38b6b5cbc67647494"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "efdaf9393ed74615961c",
+  "kind": "science",
+  "source": "USGS",
+  "ref": "The Interior of the Earth",
+  "url": "https://pubs.usgs.gov/gip/interior/",
+  "excerpt": "the mantle occupies 84 percent",
+  "sourceHash": "d718235a157a78d3f84bfece2aecc4eafd90381ef26d670a17cd4fbb3786ff70",
+  "cacheSourceId": "774c34818b2adf2cbb8f",
+  "retrievedAt": "2026-11-06T16:48:24.683067+00:00",
+  "reviewedMappings": {
+    "2011-3-33:0": "ㄱ: 맨틀이 부피의 약84%를 차지함을 기관 검색본문에서 확인. 수치를 해설에 정밀한 상수로 쓰지 않고 가장 큰 층이라는 비교만 사용."
+  },
+  "retrievalMethod": "web.run official search excerpt; direct open returned 403",
+  "sourceHashScope": "Selected excerpt only; not full page"
+}

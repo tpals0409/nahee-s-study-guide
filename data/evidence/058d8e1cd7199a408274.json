@@ -1,0 +1,17 @@
+{
+  "id": "058d8e1cd7199a408274",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Anatomy and Physiology 2e §25.6 Tubular Reabsorption",
+  "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/25-6-tubular-reabsorption",
+  "excerpt": "This function is regulated by the posterior pituitary hormone ADH (vasopressin).",
+  "sourceHash": "a2bf3a8c921e96feaa07b0ce828bbcbbfd978551cb132d0511ed78247230aab2",
+  "cacheSourceId": "e78f7d56a1ff967118d6",
+  "retrievedAt": "2026-11-06T21:15:36.443954+00:00",
+  "reviewedMappings": {
+    "2017-3-22:3": "Table25.5 및 Collecting Ducts 절: 집합관 Na 재흡수는 펌프와 채널에 의존. 막 한쪽의 수동 유입과 전체 상피 재흡수를 구별하여 단순 확산 설명을 교정.",
+    "2017-3-22:4": "Collecting Ducts 절: ADH 후엽 방출 및 집합관 아쿠아포린 삽입에 의한 물 재흡수 촉진. 전엽이라는 진술 오류."
+  },
+  "retrievalMethod": "Direct browser review of nephron figure descriptions, transport table and collecting duct section",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

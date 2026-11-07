@@ -1,0 +1,16 @@
+{
+  "id": "3041916f32fd64074a93",
+  "kind": "science",
+  "source": "Watson and Crick; California State University Stanislaus transcription",
+  "ref": "Molecular Structure of Nucleic Acids: A Structure for Deoxyribose Nucleic Acid (1953), university transcription",
+  "url": "https://csustan.csustan.edu/~tom/classes/W03/watson-crick.html",
+  "excerpt": "suggests a possible copying mechanism for the genetic material.",
+  "sourceHash": "04422707634946b02a3b93d7f80c3174484a359e4765d84cfaf8961f290ce059",
+  "cacheSourceId": "994cd4eb9fd2d0e6efaa",
+  "retrievedAt": "2026-11-06T19:45:13.562608+00:00",
+  "reviewedMappings": {
+    "2015-3-28:0": "원문은 상보적 A–T/G–C 결합과 유전 물질의 복제 기구를 논한다. ㄴ/ㄹ의 근거이나 ㄱ을 단순 거짓으로 만들거나 ㄷ의 스스로를 효소 없음으로 확정하는 근거는 아니다."
+  },
+  "retrievalMethod": "Direct university-hosted transcription read, paragraphs on complementary pairing and copying mechanism",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

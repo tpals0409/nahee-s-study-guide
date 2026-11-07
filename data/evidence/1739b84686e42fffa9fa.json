@@ -1,0 +1,16 @@
+{
+  "id": "1739b84686e42fffa9fa",
+  "kind": "science",
+  "source": "Nucleic Acids Research",
+  "ref": "McCauley et al., Single and double box HMGB proteins differentially destabilize nucleosomes",
+  "url": "https://academic.oup.com/nar/article/47/2/666/5184716",
+  "excerpt": "High resolution images show nucleosomes to be ∼11 nm in diameter and 5 nm in height",
+  "sourceHash": "457585eac410ec3cec371ab56877a4be2086684d087b529e53ed4bf9a2d44072",
+  "cacheSourceId": "aca308d2dea1be297ef1",
+  "retrievedAt": "2026-11-07T05:02:26.309386+00:00",
+  "reviewedMappings": {
+    "2023-3-28:4": "재구성 뉴클레오솜의 AFM 관측에서 직경 약11nm를 보고한다.④의 단일 뉴클레오솜 직경30nm 주장을 반박한다. 30nm 섬유의 보편성은 이 자료로 주장하지 않는다."
+  },
+  "retrievalMethod": "Direct web open/find of article or PDF text",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "191aadbebd4a84ffab66",
+  "kind": "science",
+  "source": "OpenStax Microbiology",
+  "ref": "4.3 Nonproteobacteria Gram-Negative Bacteria and Phototrophic Bacteria",
+  "url": "https://openstax.org/books/microbiology/pages/4-3-nonproteobacteria-gram-negative-bacteria-and-phototrophic-bacteria",
+  "excerpt": "using the same type of chlorophyll a found in plants and algae as the primary photosynthetic pigment",
+  "sourceHash": "efb21cbfcf1af7dece6b266ee4fc16f3371530ca845f1abae1608d796add442e",
+  "cacheSourceId": "b965f4ec83553c819dc6",
+  "retrievedAt": "2026-11-07T03:18:48.831734+00:00",
+  "reviewedMappings": {
+    "2025-3-22:0": "남세균의 chlorophyll a 존재를 직접 확인.",
+    "2025-3-22:3": "남세균이 식물·조류와 같은 chlorophyll a 사용한다는 직접 서술. 부수 색소에 관한 주변 설명은 근거로 사용하지 않음."
+  },
+  "retrievalMethod": "Direct web section reading: reaction-center electron transfer and PSII water splitting; cyclic PSI return; cyanobacterial chlorophyll a paragraph.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

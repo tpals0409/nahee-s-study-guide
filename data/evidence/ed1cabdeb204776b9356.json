@@ -1,0 +1,16 @@
+{
+  "id": "ed1cabdeb204776b9356",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e, 16.4 Eukaryotic Transcription Gene Regulation",
+  "url": "https://openstax.org/books/biology-2e/pages/16-4-eukaryotic-transcription-gene-regulation",
+  "excerpt": "An enhancer is a DNA sequence that promotes transcription.",
+  "sourceHash": "84c5d41c028c0220e75080bd750ece6274cacd55a5295f08d105a8689a6cc8e5",
+  "cacheSourceId": "700ebff1d50bb35709ce",
+  "retrievedAt": "2026-11-07T00:16:48.845466+00:00",
+  "reviewedMappings": {
+    "2021-3-27:3": "lines46-50: 인핸서는 DNA 서열이며 전사인자 단백질의 결합부위. 인핸서 자체가 단백질이라는 선지는 거짓. 항상 먼 위치만을 뜻하지 않음."
+  },
+  "retrievalMethod": "Direct textbook sections reviewed: lines46-50: 인핸서는 DNA 서열이며 전사인자 단백질의 결합부위. 인핸서 자체가 단백질이라는 선지는 거짓. 항상 먼 위치만을 뜻하지 않음.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

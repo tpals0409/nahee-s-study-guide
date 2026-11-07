@@ -1,0 +1,14 @@
+{
+  "id": "18309d3116619635c286",
+  "kind": "science",
+  "source": "OpenStax · Organic Chemistry",
+  "ref": "13.4",
+  "url": "https://openstax.org/books/organic-chemistry/pages/13-4-chemical-shifts-in-1h-nmr-spectroscopy",
+  "excerpt": "Table 13.3 shows the correlation of 1H chemical shift with electronic environment in more detail.",
+  "sourceHash": "6f7671bf6e921d7d3730f059f9ee4267a89be47fd0a0d52696526771e378ff5f",
+  "cacheSourceId": "7bcb564e4b447445de1c",
+  "retrievedAt": "2026-11-06T15:19:51.141248+00:00",
+  "reviewedMappings": {
+    "2009-3-18:4": "MS분자량12.2, XRD원자위치ChemAtomsFirst3.1, IR작용기12.7,1HNMR화학환경13.4,UV공액14.8원문대조. MS는분자이온확인조건, XRD는핵스핀측정아님. 초안의탄소13만스핀존재단정·자연존재비·불필요IR수치삭제."
+  }
+}

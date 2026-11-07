@@ -1,0 +1,17 @@
+{
+  "id": "9d2f9da413f176996aa2",
+  "kind": "science",
+  "source": "NASA",
+  "ref": "Saturn: Facts",
+  "url": "https://science.nasa.gov/saturn/facts/",
+  "excerpt": "Saturn is mostly made of hydrogen and helium",
+  "sourceHash": "dd2345a7f43d9e4d1f92b7fabef1bf1938e2d63274afc9c50db199fac54e0ca8",
+  "cacheSourceId": "be473d5896fa5ffce59b",
+  "retrievedAt": "2026-11-07T02:56:28.401162+00:00",
+  "reviewedMappings": {
+    "2024-3-40:1": "목성·토성의 수소·헬륨 조성과 토성만 평균 밀도가 물보다 작다는 설명을 확인.",
+    "2024-3-40:3": "목성·토성의 수소·헬륨 조성과 토성만 평균 밀도가 물보다 작다는 설명을 확인."
+  },
+  "retrievalMethod": "Direct page Structure/Formation paragraphs reviewed.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

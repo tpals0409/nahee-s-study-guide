@@ -1,0 +1,16 @@
+{
+  "id": "05b0be5113afa3b065da",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "OpenStax University Physics Volume 2 §5.5 Example 5.7",
+  "url": "https://openstax.org/books/university-physics-volume-2/pages/5-5-calculating-electric-fields-of-charge-distributions",
+  "excerpt": "Find the electric field at a point on the axis passing through the center of the ring.",
+  "sourceHash": "07c84c9ef4d2a28b1f2c55178c817d075f37357be18fc37ad23fed182e5a13c4",
+  "cacheSourceId": "b86b71421fdac1900cd3",
+  "retrievedAt": "2026-11-06T17:51:37.001083+00:00",
+  "reviewedMappings": {
+    "2013-3-06:0": "원본 반지름R, 축거리2R, 균일한 양전하Q 및 선지 확인. Example5.7 r=√(z²+R²), 축성분 z/r, 고리 적분 E=kQz/(z²+R²)^(3/2)를 직접 대조. z=2R이면 계수2/(5√5)=2√5/25. 각 선지 계수 수치 비교로④만 일치. 대칭 상쇄와 점전하 원거리 근사의 적용범위도 구분."
+  },
+  "retrievalMethod": "web.open and web.find; Example 5.7 geometry and integral directly reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

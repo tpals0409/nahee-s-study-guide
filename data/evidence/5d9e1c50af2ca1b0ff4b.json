@@ -1,0 +1,21 @@
+{
+  "id": "5d9e1c50af2ca1b0ff4b",
+  "kind": "science",
+  "source": "Journal of Experimental Botany",
+  "ref": "Metabolite pools and carbon flow during C4 photosynthesis in maize: 13CO2 labeling kinetics and cell type fractionation",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5853532/",
+  "excerpt": "allows efficient operation of the Calvin–Benson cycle",
+  "sourceHash": "88b57ad75f758d0b7656ad3b64b8ebfe984b502ba284c55b3de341ca3634dabe",
+  "cacheSourceId": "64f03dc08ff222b23770",
+  "retrievedAt": "2026-11-07T01:53:39.592429+00:00",
+  "reviewedMappings": {
+    "2023-3-22:0": "ㄴ은 참: C4 경로의 4탄소 대사산물에서 방출된 CO₂는 캘빈회로에 공급된다. 초기 고정 경로가 추가되어도 캘빈회로를 대체하지 않는다. 특정 세포에 회로 전체가 국한된다고 일반화하지 않는다. 판단 조합은 ㄱ·ㄴ, 선택지④.",
+    "2023-3-22:1": "ㄴ은 참: C4 경로의 4탄소 대사산물에서 방출된 CO₂는 캘빈회로에 공급된다. 초기 고정 경로가 추가되어도 캘빈회로를 대체하지 않는다. 특정 세포에 회로 전체가 국한된다고 일반화하지 않는다. 판단 조합은 ㄱ·ㄴ, 선택지④.",
+    "2023-3-22:2": "ㄴ은 참: C4 경로의 4탄소 대사산물에서 방출된 CO₂는 캘빈회로에 공급된다. 초기 고정 경로가 추가되어도 캘빈회로를 대체하지 않는다. 특정 세포에 회로 전체가 국한된다고 일반화하지 않는다. 판단 조합은 ㄱ·ㄴ, 선택지④.",
+    "2023-3-22:3": "ㄴ은 참: C4 경로의 4탄소 대사산물에서 방출된 CO₂는 캘빈회로에 공급된다. 초기 고정 경로가 추가되어도 캘빈회로를 대체하지 않는다. 특정 세포에 회로 전체가 국한된다고 일반화하지 않는다. 판단 조합은 ㄱ·ㄴ, 선택지④.",
+    "2023-3-22:4": "ㄴ은 참: C4 경로의 4탄소 대사산물에서 방출된 CO₂는 캘빈회로에 공급된다. 초기 고정 경로가 추가되어도 캘빈회로를 대체하지 않는다. 특정 세포에 회로 전체가 국한된다고 일반화하지 않는다. 판단 조합은 ㄱ·ㄴ, 선택지④.",
+    "2023-3-22:5": "ㄴ은 참: C4 경로의 4탄소 대사산물에서 방출된 CO₂는 캘빈회로에 공급된다. 초기 고정 경로가 추가되어도 캘빈회로를 대체하지 않는다. 특정 세포에 회로 전체가 국한된다고 일반화하지 않는다. 판단 조합은 ㄱ·ㄴ, 선택지④."
+  },
+  "retrievalMethod": "검색 색인에서 논문 서론의 CCS·OAA·탈탄산·Calvin–Benson cycle 설명 확인; 전문 직접 열람으로 표시하지 않음.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "b17d1a3596b0a5ecff19",
+  "kind": "science",
+  "source": "NIST",
+  "ref": "NIST Chemistry WebBook: Nitrobenzene, phase change data",
+  "url": "https://webbook.nist.gov/cgi/cbook.cgi?ID=C98953&Mask=4",
+  "excerpt": "484. ± 2.",
+  "sourceHash": "9f87714f1c29f5b665ffd7d449a42883d66b19fb5f2ac35943c6f932ca986415",
+  "cacheSourceId": "0cb91b651d8572730b0b",
+  "retrievedAt": "2026-11-07T03:59:47.231920+00:00",
+  "reviewedMappings": {
+    "2026-3-17:0": "B normal boiling point484K greater than C383.8K; ㄴ true.",
+    "2026-3-17:1": "B normal boiling point484K greater than C383.8K; ㄴ true.",
+    "2026-3-17:2": "B normal boiling point484K greater than C383.8K; ㄴ true.",
+    "2026-3-17:3": "B normal boiling point484K greater than C383.8K; ㄴ true.",
+    "2026-3-17:4": "B normal boiling point484K greater than C383.8K; ㄴ true.",
+    "2026-3-17:5": "B normal boiling point484K greater than C383.8K; ㄴ true."
+  },
+  "retrievalMethod": "Direct web open",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

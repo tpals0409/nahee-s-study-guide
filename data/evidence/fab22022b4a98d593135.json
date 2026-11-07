@@ -1,0 +1,17 @@
+{
+  "id": "fab22022b4a98d593135",
+  "kind": "science",
+  "source": "US Geological Survey",
+  "ref": "Inside the Earth — This Dynamic Earth",
+  "url": "https://pubs.usgs.gov/gip/dynamic/inside.html",
+  "excerpt": "its composition is metallic (iron-nickel alloy) rather than stony",
+  "sourceHash": "593285ad9ec5d1c7d63208b33cef14eefdd2e2031db826a8abc26ae2a99dd526",
+  "cacheSourceId": "6e2864589bfef958d873",
+  "retrievedAt": "2026-11-06T19:01:36.618973+00:00",
+  "reviewedMappings": {
+    "2014-3-31:3": "공식 출판물 색인 본문에서 핵의 철니켈 금속 조성과 맨틀보다 약2배 높은 밀도 설명 확인. 80~90% 철 비율과 세부 밀도 수치는 독립 확인 없이 유지하지 않음.",
+    "2014-3-31:5": "공식 출판물 색인 본문에서 핵의 철니켈 금속 조성과 맨틀보다 약2배 높은 밀도 설명 확인. 80~90% 철 비율과 세부 밀도 수치는 독립 확인 없이 유지하지 않음."
+  },
+  "retrievalMethod": "web.search_query indexed USGS text; direct open returned 403",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

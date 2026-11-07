@@ -1,0 +1,19 @@
+{
+  "id": "a32e1a6531779aa9de3e",
+  "kind": "science",
+  "source": "University of Maryland",
+  "ref": "GEOL 331: Biostratigraphy I",
+  "url": "https://www.geol.umd.edu/~tholtz/G331/lectures/331biostrat1.html",
+  "excerpt": "Fossils of organisms that endured for long periods of geologic time but were linked to a specific environment.",
+  "sourceHash": "9597ba92ba361e11f7744edebf767070f761756e1cd1abc8dae0251093163e79",
+  "cacheSourceId": "05c0535336ffb41a61e2",
+  "retrievedAt": "2026-11-06T22:47:03.580338+00:00",
+  "reviewedMappings": {
+    "2019-3-31:0": "Direct web open lines 58–69: index criteria versus long-lived environment-linked facies fossils. C selection is an explicitly qualified inference from the exam table, not a claim that geography alone proves ecology. 표의 A/B/C 조건과 대조하여 해당 선지 판단에 적용.",
+    "2019-3-31:1": "Direct web open lines 58–69: index criteria versus long-lived environment-linked facies fossils. C selection is an explicitly qualified inference from the exam table, not a claim that geography alone proves ecology. 표의 A/B/C 조건과 대조하여 해당 선지 판단에 적용.",
+    "2019-3-31:3": "Direct web open lines 58–69: index criteria versus long-lived environment-linked facies fossils. C selection is an explicitly qualified inference from the exam table, not a claim that geography alone proves ecology. 표의 A/B/C 조건과 대조하여 해당 선지 판단에 적용.",
+    "2019-3-31:4": "Direct web open lines 58–69: index criteria versus long-lived environment-linked facies fossils. C selection is an explicitly qualified inference from the exam table, not a claim that geography alone proves ecology. 표의 A/B/C 조건과 대조하여 해당 선지 판단에 적용."
+  },
+  "retrievalMethod": "Direct web open lines 58–69: index criteria versus long-lived environment-linked facies fossils. C selection is an explicitly qualified inference from the exam table, not a claim that geography alone proves ecology.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1a6cd8cf04aa3e4442f0",
+  "kind": "science",
+  "source": "NOAA National Weather Service",
+  "ref": "Pressure — Forces and Winds",
+  "url": "https://www.weather.gov/source/zhu/ZHU_Training_Page/winds/pressure_winds/Pressure.htm",
+  "excerpt": "The faster the wind, the stronger the Coriolis Force.",
+  "sourceHash": "ef957a5b71078df0ab6070b1143854d08c04ff293ba1950dc626845103183f0f",
+  "cacheSourceId": "fbbd41e54ff43bb2e97c",
+  "retrievedAt": "2026-11-06T22:12:49.110962+00:00",
+  "reviewedMappings": {
+    "2018-3-35:0": "등압선 간격과 기압경도력, 같은 위도의 풍속과 전향력, 고압→저압 힘 방향을 종합하면 ㄱㄴㄷ 모두 참. 짧은 인용 외에 기록된 관련 본문 전체를 검토하고 문항 조합에 적용.",
+    "2018-3-35:1": "ㄱ 참이나 ㄴ 풍속 의존성과 ㄷ 고압→저압 방향도 참이므로 불완전. 짧은 인용 외에 기록된 관련 본문 전체를 검토하고 문항 조합에 적용.",
+    "2018-3-35:2": "ㄷ 참이나 ㄱ 등압선 간격 및 ㄴ 풍속 의존성도 참이므로 불완전. 짧은 인용 외에 기록된 관련 본문 전체를 검토하고 문항 조합에 적용.",
+    "2018-3-35:3": "ㄱㄴ 참이나 기압경도력 방향 ㄷ도 참. 짧은 인용 외에 기록된 관련 본문 전체를 검토하고 문항 조합에 적용.",
+    "2018-3-35:4": "ㄴㄷ 참이나 같은 기압 간격에서 공간 간격이 좁으면 경도가 커지는 ㄱ도 참. 짧은 인용 외에 기록된 관련 본문 전체를 검토하고 문항 조합에 적용.",
+    "2018-3-35:5": "세 진술 모두 참으로 ⑤. 기압 간격·밀도 등 동일 조건 및 적도 제외 같은 위도라는 일반 비교 조건을 명시. 짧은 인용 외에 기록된 관련 본문 전체를 검토하고 문항 조합에 적용."
+  },
+  "retrievalMethod": "Direct web open and find: reviewed Forces and Winds lines 58–65, pressure-gradient direction/isobar spacing and Coriolis latitude/speed dependence including equatorial zero. Unrelated tutorial statements not used.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

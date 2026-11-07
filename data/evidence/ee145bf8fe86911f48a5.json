@@ -1,0 +1,23 @@
+{
+  "id": "ee145bf8fe86911f48a5",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 2e 10.3 Phase Transitions — Enthalpy of Vaporization",
+  "url": "https://openstax.org/books/chemistry-2e/pages/10-3-phase-transitions",
+  "excerpt": "Vaporization is an endothermic process.",
+  "sourceHash": "b2e8ede91f87c10834f1f8fce02f64c538d90b6ec0de38afd4f80f1a0b144937",
+  "cacheSourceId": "6701a05bdab139955157",
+  "retrievedAt": "2026-11-07T03:12:28.660481+00:00",
+  "reviewedMappings": {
+    "2012-3-14:0": "같은 온도에서 기화 엔탈피 양수, 응축은 음수. N2H4(l)의 생성열=95−ΔHvap<95. 모든 선지의 ㄷ 판단 근거.",
+    "2012-3-14:1": "같은 온도에서 기화 엔탈피 양수, 응축은 음수. N2H4(l)의 생성열=95−ΔHvap<95. 모든 선지의 ㄷ 판단 근거.",
+    "2012-3-14:2": "같은 온도에서 기화 엔탈피 양수, 응축은 음수. N2H4(l)의 생성열=95−ΔHvap<95. 모든 선지의 ㄷ 판단 근거.",
+    "2012-3-14:3": "같은 온도에서 기화 엔탈피 양수, 응축은 음수. N2H4(l)의 생성열=95−ΔHvap<95. 모든 선지의 ㄷ 판단 근거.",
+    "2012-3-14:4": "같은 온도에서 기화 엔탈피 양수, 응축은 음수. N2H4(l)의 생성열=95−ΔHvap<95. 모든 선지의 ㄷ 판단 근거.",
+    "2012-3-14:5": "같은 온도에서 기화 엔탈피 양수, 응축은 음수. N2H4(l)의 생성열=95−ΔHvap<95. 모든 선지의 ㄷ 판단 근거.",
+    "2025-3-15:1": "Melting and Freezing 절에서 융해 흡열 확인. 0°C 융해열 수치를 25°C 값으로 쓰지 않음.",
+    "2025-3-15:2": "기화 흡열이므로 동일 온도의 d-a=ΔH기화>0."
+  },
+  "retrievalMethod": "Direct web open and relevant section reading; selected excerpt retained only.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

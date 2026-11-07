@@ -1,0 +1,17 @@
+{
+  "id": "f4d764ebe549eb4a8f24",
+  "kind": "science",
+  "source": "WOAH",
+  "ref": "Bovine spongiform encephalopathy",
+  "url": "https://www.woah.org/en/disease/bovine-spongiform-encephalopathy/",
+  "excerpt": "the accumulation of an abnormal protein called ‘prion’ in nervous tissue.",
+  "sourceHash": "963cb48703285455096a2db8cd532ce6785c10442fbb2c53b66a4b8653bba40e",
+  "cacheSourceId": "1d81b7e97a3d94c32ec7",
+  "retrievedAt": "2026-11-06T22:45:26.361673+00:00",
+  "reviewedMappings": {
+    "2019-3-29:0": "광우병의 원인은 비정상 프라이온 단백질로 바이러스가 아니므로 정답.",
+    "2019-3-29:4": "광우병의 원인은 비정상 프라이온 단백질로 바이러스가 아니므로 정답."
+  },
+  "retrievalMethod": "Direct web open, introduction at 17 describing BSE and prion accumulation; did not generalize spontaneous onset to all cases.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

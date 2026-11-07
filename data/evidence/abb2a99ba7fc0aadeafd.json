@@ -1,0 +1,17 @@
+{
+  "id": "abb2a99ba7fc0aadeafd",
+  "kind": "reference",
+  "source": "National Weather Service",
+  "ref": "Cloud Development — Making Clouds and Rain",
+  "url": "https://www.weather.gov/source/zhu/ZHU_Training_Page/clouds/cloud_development/clouds.htm",
+  "excerpt": "cross topographical barriers such as hills and mountains.",
+  "sourceHash": "ef3822e9ed27ad3bf22c46a6a34929eaba12c4d3fd3053fbc6f766559777f053",
+  "cacheSourceId": "945159c40c86fbab20ba",
+  "retrievedAt": "2026-11-07T06:21:00.963855+00:00",
+  "reviewedMappings": {
+    "2011-3-40:0": "35행: 수평 바람이 산악 장벽을 넘기 위해 강제로 상승하는 지형성 상승 정의 직접 확인.",
+    "2011-3-40:5": "35행: 수평 바람이 산악 장벽을 넘기 위해 강제로 상승하는 지형성 상승 정의 직접 확인."
+  },
+  "retrievalMethod": "web.open direct body review",
+  "sourceHashScope": "reviewed short excerpt only"
+}

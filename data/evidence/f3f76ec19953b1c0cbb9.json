@@ -1,0 +1,18 @@
+{
+  "id": "f3f76ec19953b1c0cbb9",
+  "kind": "science",
+  "source": "Australian Bureau of Meteorology",
+  "ref": "What is a tsunami?",
+  "url": "https://www.bom.gov.au/resources/learn-and-explore/tsunami-knowledge-centre/what-is-a-tsunami",
+  "excerpt": "tsunamis act as shallow-water waves, which move at speed dependent on the water depth.",
+  "sourceHash": "738147aedf8adc20f441b07c4006e401c923d8600830d8e07dd595ab306a5edc",
+  "cacheSourceId": "74e11f4e62226fd44d06",
+  "retrievedAt": "2026-11-07T04:26:26.463111+00:00",
+  "reviewedMappings": {
+    "2026-3-38:0": "긴 파장 때문에 천해파로 거동한다는 직접 설명으로 정답②를 확인한다.",
+    "2026-3-38:1": "지진해일의 원인·파동 정의와 폭풍해일의 기상학적 수위 상승 설명을 읽고 해안 지반 침강과 구별한다.",
+    "2026-3-38:2": "긴 파장이 천해파 거동을 만드는 이유와 깊은 대양 사례를 확인한다."
+  },
+  "retrievalMethod": "Direct web open/find",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

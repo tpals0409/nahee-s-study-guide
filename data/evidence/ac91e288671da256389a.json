@@ -1,0 +1,21 @@
+{
+  "id": "ac91e288671da256389a",
+  "kind": "science",
+  "source": "OpenStax University Physics Volume 1",
+  "ref": "6.3 Centripetal Force",
+  "url": "https://openstax.org/books/university-physics-volume-1/pages/6-3-centripetal-force",
+  "excerpt": "net force is mass times acceleration",
+  "sourceHash": "cb3825c59fd3df60954923a07b89219a7cf8546edeabfd919d9e4cb63cfa39f2",
+  "cacheSourceId": "567f5c876acc9e87e700",
+  "retrievedAt": "2026-11-07T01:27:55.128855+00:00",
+  "reviewedMappings": {
+    "2023-3-01:0": "구심력 mu²/r과 뉴턴 제2법칙을 원문 힘 도식에 적용. 수평 Tsin30°, 연직 N+Tcos30°−mg=0; r=l/2, u=4v 대입하여 계수32√3을 독립 검산.",
+    "2023-3-01:1": "구심력 mu²/r과 뉴턴 제2법칙을 원문 힘 도식에 적용. 수평 Tsin30°, 연직 N+Tcos30°−mg=0; r=l/2, u=4v 대입하여 계수32√3을 독립 검산.",
+    "2023-3-01:2": "구심력 mu²/r과 뉴턴 제2법칙을 원문 힘 도식에 적용. 수평 Tsin30°, 연직 N+Tcos30°−mg=0; r=l/2, u=4v 대입하여 계수32√3을 독립 검산.",
+    "2023-3-01:3": "구심력 mu²/r과 뉴턴 제2법칙을 원문 힘 도식에 적용. 수평 Tsin30°, 연직 N+Tcos30°−mg=0; r=l/2, u=4v 대입하여 계수32√3을 독립 검산.",
+    "2023-3-01:4": "구심력 mu²/r과 뉴턴 제2법칙을 원문 힘 도식에 적용. 수평 Tsin30°, 연직 N+Tcos30°−mg=0; r=l/2, u=4v 대입하여 계수32√3을 독립 검산.",
+    "2023-3-01:5": "구심력 mu²/r과 뉴턴 제2법칙을 원문 힘 도식에 적용. 수평 Tsin30°, 연직 N+Tcos30°−mg=0; r=l/2, u=4v 대입하여 계수32√3을 독립 검산."
+  },
+  "retrievalMethod": "Direct chapter open; equation 6.3 and Newton second-law force decomposition discussion.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

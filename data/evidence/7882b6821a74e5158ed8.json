@@ -1,0 +1,16 @@
+{
+  "id": "7882b6821a74e5158ed8",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 2e §11.4 Colligative Properties: Boiling Point Elevation",
+  "url": "https://openstax.org/books/chemistry-2e/pages/11-4-colligative-properties",
+  "excerpt": "its vapor pressure is equal to ambient atmospheric pressure",
+  "sourceHash": "644546d645d1ab4c78a1d776d8072cb70e5539f70478d2f810530eb3374f3b1f",
+  "cacheSourceId": "47716e3040d785ed84a5",
+  "retrievedAt": "2026-11-06T16:31:10.084807+00:00",
+  "reviewedMappings": {
+    "2011-3-19:0": "원본 B=100.13℃의 꺾임, A가열전구간,C끓는구간 확인. 원문 끓음의 증기압=외압 및 ΔTb=Kbm 대조. 문항 Kb=.52 사용해 B몰랄농도=.13/.52=.25m. 비휘발성 용질이 남고 물 감소→질량백분율 증가. 가열전 농도=.25는 끓기전 증발무시 근사이며, 증발 있어도 가열전 농도≤.25로 .5배제."
+  },
+  "retrievalMethod": "web.run; boiling condition and molality relation reviewed",
+  "sourceHashScope": "Selected excerpt only; not full page"
+}

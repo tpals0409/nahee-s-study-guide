@@ -1,0 +1,17 @@
+{
+  "id": "ba188c0cd086d92b0a43",
+  "kind": "science",
+  "source": "British Geological Survey",
+  "ref": "Rock Classification Scheme — Cataclastic-rock",
+  "url": "https://webapps.bgs.ac.uk/bgsrcs/rcs_details.cfm?code=CATR",
+  "excerpt": "Cataclastic rocks exhibit grain size reduction by fragmentation of grains during deformation.",
+  "sourceHash": "9e752395d86fa0f3fa4a1f17d7921e5e09af6bbbfba0d8e48b05f1e9cd7ffeb7",
+  "cacheSourceId": "181d50734d9f1f714371",
+  "retrievedAt": "2026-11-06T15:55:37.679349+00:00",
+  "reviewedMappings": {
+    "2010-3-32:2": "BGS 파쇄암 정의의 기계적 파쇄·입도 감소와 규암/편암의 대표적 열변성·광역변성 분류 비교. 압쇄암과 파쇄암을 무조건 동일한 기계적 파쇄 산물로 묶은 초안 삭제.",
+    "2010-3-32:5": "BGS 파쇄암 정의의 기계적 파쇄·입도 감소와 규암/편암의 대표적 열변성·광역변성 분류 비교. 압쇄암과 파쇄암을 무조건 동일한 기계적 파쇄 산물로 묶은 초안 삭제."
+  },
+  "retrievalMethod": "web source text read; definition and classification table reviewed",
+  "sourceHashScope": "Selected excerpt only"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "35b5caa7c3edb4ce3bd3",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e, 26.1 Evolution of Seed Plants",
+  "url": "https://openstax.org/books/biology-2e/pages/26-1-evolution-of-seed-plants",
+  "excerpt": "Both seeds and pollen distinguish seed plants from seedless vascular plants.",
+  "sourceHash": "e595b68b9989337ecd113be8151f62ac58582189973a4bb4e792a7da3b115ef4",
+  "cacheSourceId": "08fff894e1eb2cdd3629",
+  "retrievedAt": "2026-11-07T01:13:31.775148+00:00",
+  "reviewedMappings": {
+    "2022-3-29:0": "Direct introduction on gymnosperm/angiosperm alternation and seed innovations, flowering-plant section and phylogenetic tree reviewed. Given diagram has (가) ancestral to both seed-plant groups; among flower/seed it is seed. ㄱ false, ㄴ true.",
+    "2022-3-29:1": "Direct introduction on gymnosperm/angiosperm alternation and seed innovations, flowering-plant section and phylogenetic tree reviewed. Given diagram has (가) ancestral to both seed-plant groups; among flower/seed it is seed. ㄱ false, ㄴ true.",
+    "2022-3-29:2": "Direct introduction on gymnosperm/angiosperm alternation and seed innovations, flowering-plant section and phylogenetic tree reviewed. Given diagram has (가) ancestral to both seed-plant groups; among flower/seed it is seed. ㄱ false, ㄴ true.",
+    "2022-3-29:3": "Direct introduction on gymnosperm/angiosperm alternation and seed innovations, flowering-plant section and phylogenetic tree reviewed. Given diagram has (가) ancestral to both seed-plant groups; among flower/seed it is seed. ㄱ false, ㄴ true.",
+    "2022-3-29:4": "Direct introduction on gymnosperm/angiosperm alternation and seed innovations, flowering-plant section and phylogenetic tree reviewed. Given diagram has (가) ancestral to both seed-plant groups; among flower/seed it is seed. ㄱ false, ㄴ true.",
+    "2022-3-29:5": "Direct introduction on gymnosperm/angiosperm alternation and seed innovations, flowering-plant section and phylogenetic tree reviewed. Given diagram has (가) ancestral to both seed-plant groups; among flower/seed it is seed. ㄱ false, ㄴ true."
+  },
+  "retrievalMethod": "Direct web textbook sections and figure captions; original question phylogeny visually inspected",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "49488db4653e5f839814",
+  "kind": "science",
+  "source": "OpenStax · Biology 2e",
+  "ref": "8.3",
+  "url": "https://openstax.org/books/biology-2e/pages/8-3-using-light-energy-to-make-organic-molecules",
+  "excerpt": "five G3P molecules remain in the cycle and are used to regenerate RuBP",
+  "sourceHash": "0d2b7e7734fc67f5e776eab221c7552aa69e118c2a3209308bdd3761583defb5",
+  "cacheSourceId": "7b39f6186cc6dcfaf67b",
+  "retrievedAt": "2026-11-06T15:05:58.661566+00:00",
+  "reviewedMappings": {
+    "2009-3-21:0": "CO2수용체RuBP→3PGA,ATP/NADPH로G3P,ATP로RuBP재생 경로 대조. 빛과 명반응산물 공급이 유지되는 짧은 시간의 CO2차단 실험으로 해석하면 RuBP소비감소·재생지속으로 축적. 각 중간체의 정확한 시간변화나 무한지속은 단정하지 않음."
+  }
+}

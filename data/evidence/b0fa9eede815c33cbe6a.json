@@ -1,0 +1,20 @@
+{
+  "id": "b0fa9eede815c33cbe6a",
+  "kind": "science",
+  "source": "Steven Earle / BCcampus",
+  "ref": "Physical Geology – 2nd Edition, 2.4 Silicate Minerals",
+  "url": "https://opentextbc.ca/physicalgeology2ed/chapter/2-4-silicate-minerals/",
+  "excerpt": "the silica tetrahedra are arranged in continuous sheets",
+  "sourceHash": "688a61b5d0b59262231e418aaf524e434b5e9e856b863fbdb10a31f1c16ed5b5",
+  "cacheSourceId": "34a0f6707484c893b97c",
+  "retrievedAt": "2026-11-06T23:35:32.428916+00:00",
+  "reviewedMappings": {
+    "2020-3-33:0": "규산염 구조 및 감람석·흑운모 분류로 ㄴ·ㄹ 지지.",
+    "2020-3-33:1": "감람석 규산염이며 흑운모 ㄹ 누락.",
+    "2020-3-33:3": "감람석·흑운모 모두 규산염이므로 ㄹ 누락.",
+    "2020-3-33:4": "감람석 독립형 및 흑운모 판상 구조를 직접 지지.",
+    "2020-3-33:5": "흑운모 규산염이며 감람석 ㄴ 포함 필요."
+  },
+  "retrievalMethod": "Direct web open; reviewed lines 338–351 and 378–380: silica tetrahedron, isolated olivine tetrahedra, biotite as sheet silicate. Did not use unrelated mineral formulas or water-molecule generalization.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

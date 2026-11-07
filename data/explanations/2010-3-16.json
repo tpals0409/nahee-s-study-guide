@@ -1,0 +1,41 @@
+{
+  "summary": "이상기체 몰부피 약 22.4 L/mol을 적용하면 몰질량은 1.16×22.4≈26 g/mol입니다. 질량 구성비에서 탄소와 수소의 몰비는 (92.4/12):(7.6/1)=7.70:7.60으로 약 1:1입니다. 따라서 분자식은 C₂H₂로 판단하며 x+y=4, 정답은 ③입니다.",
+  "choices": [
+    "① 2는 오답입니다. C:H≈1:1에서 x=y=1이면 CH이지만 몰질량은 13 g/mol로 기체 상태식에서 구한 약 26 g/mol과 맞지 않습니다.",
+    "② 3은 오답입니다. 구성비가 요구하는 x≈y의 작은 정수비는 1:1입니다. x=y이면 x+y는 짝수이므로 3은 맞지 않습니다.",
+    "③ 4가 정답입니다. 실험식 CH의 식량은 13이고, 몰질량은 약 26 g/mol이므로 분자식은 실험식의 두 배인 C₂H₂입니다. 따라서 x+y=2+2=4입니다.",
+    "④ 5는 오답입니다. x=y인 1:1 조성과 양립하지 않습니다. 몰질량까지 적용해 얻은 x=y=2의 합은 4입니다.",
+    "⑤ 6은 오답입니다. 1:1 조성에서 합이 6이면 C₃H₃가 되지만 몰질량은 39 g/mol로 측정 조건에서 계산한 약 26 g/mol과 다릅니다."
+  ],
+  "lawNote": "주어진 구성비는 C₂H₂의 이론값 C≈92.31%, H≈7.69%와 정확히 일치하지 않습니다. 따라서 구성비를 근삿값으로 해석하고, 몰질량과 작은 정수 원자비를 함께 사용해 판단합니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax · Chemistry 2e",
+      "ref": "9.2 The Ideal Gas Law",
+      "quote": "PV=nRT",
+      "url": "https://openstax.org/books/chemistry-2e/pages/9-2-relating-pressure-volume-amount-and-temperature-the-ideal-gas-law",
+      "evidenceId": "ade8c004249dde2e1397",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax · Chemistry 2e",
+      "ref": "3.2 Determining Empirical and Molecular Formulas",
+      "quote": "Dividing each element’s molar amount by the smallest molar amount",
+      "url": "https://openstax.org/books/chemistry-2e/pages/3-2-determining-empirical-and-molecular-formulas",
+      "evidenceId": "f2355e5db2f919c9d27c",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "이상기체 상태식에서 몰질량 독립 계산, 질량비→원자 몰비→실험식→분자식 순서 검산. 구성비의 수치 불일치를 명시하고 근사 해석으로 정답 ③ 확인.",
+    "contentHash": "c51a46714eb0e551cdaeed9e66f6530e501e50a33c194d02be123a6f43d6b904"
+  }
+}

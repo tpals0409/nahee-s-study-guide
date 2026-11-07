@@ -1,0 +1,16 @@
+{
+  "id": "a2918998a57ca040cda7",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e, 16.2 Prokaryotic Gene Regulation",
+  "url": "https://openstax.org/books/biology-2e/pages/16-2-prokaryotic-gene-regulation",
+  "excerpt": "The lac operon is a typical inducible operon.",
+  "sourceHash": "b48a929b891dc585d066ee32ecdcee83b47a630be8a916055af734557b5abcf4",
+  "cacheSourceId": "1172664a68809b58729e",
+  "retrievedAt": "2026-11-07T00:20:50.025094+00:00",
+  "reviewedMappings": {
+    "2021-3-27:1": "원핵생물의 lac/trp 오페론은 여러 유전자의 전사를 공동 조절하는 대표적 사례. 진핵생물에서 절대 불가능하다는 근거로 사용하지 않음."
+  },
+  "retrievalMethod": "Direct page review, introductory paragraphs and lac operon section.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

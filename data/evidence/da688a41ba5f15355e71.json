@@ -1,0 +1,21 @@
+{
+  "id": "da688a41ba5f15355e71",
+  "kind": "science",
+  "source": "WHO / IPCS",
+  "ref": "Bentonite, Kaolin and Selected Clay Minerals — EHC 231 (2005), §1.1",
+  "url": "https://www.inchem.org/documents/ehc/ehc/ehc231.htm",
+  "excerpt": "Kaolin or china clay is a mixture of different minerals. Its main component is kaolinite;",
+  "sourceHash": "91303d16ea0f6a533cf2853daca438fa4b5cb04db79ad6411da05aa03065ff93",
+  "cacheSourceId": "44215e73541a106ac96a",
+  "retrievedAt": "2026-11-06T21:28:02.724100+00:00",
+  "reviewedMappings": {
+    "2017-3-32:0": "§1.1 원문에서 kaolin은 광물 혼합물이고 kaolinite가 주성분임을 확인. 원문 ㄴ을 엄밀한 광물명으로 인정하는 근거가 아니라 초안의 동일시를 수정하는 반증으로 등록.",
+    "2017-3-32:1": "고령토는 여러 광물의 혼합물이며 주성분은 카올리나이트라는 원문을 확인. ㄴ의 용어상 주의를 지지하지만 출제 의도나 고령토=단일광물이라는 동일시는 지지하지 않는다.",
+    "2017-3-32:2": "고령토는 여러 광물의 혼합물이며 주성분은 카올리나이트라는 원문을 확인. ㄴ의 용어상 주의를 지지하지만 출제 의도나 고령토=단일광물이라는 동일시는 지지하지 않는다.",
+    "2017-3-32:3": "고령토는 여러 광물의 혼합물이며 주성분은 카올리나이트라는 원문을 확인. ㄴ의 용어상 주의를 지지하지만 출제 의도나 고령토=단일광물이라는 동일시는 지지하지 않는다.",
+    "2017-3-32:4": "고령토는 여러 광물의 혼합물이며 주성분은 카올리나이트라는 원문을 확인. ㄴ의 용어상 주의를 지지하지만 출제 의도나 고령토=단일광물이라는 동일시는 지지하지 않는다.",
+    "2017-3-32:5": "고령토는 여러 광물의 혼합물이며 주성분은 카올리나이트라는 원문을 확인. ㄴ의 용어상 주의를 지지하지만 출제 의도나 고령토=단일광물이라는 동일시는 지지하지 않는다."
+  },
+  "retrievalMethod": "Direct web open and find of section1.1",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

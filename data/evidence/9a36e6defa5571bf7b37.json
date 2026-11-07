@@ -1,0 +1,16 @@
+{
+  "id": "9a36e6defa5571bf7b37",
+  "kind": "science",
+  "source": "U.S. National Park Service",
+  "ref": "Tectonic Folding",
+  "url": "https://www.nps.gov/articles/tectonic-folding.htm",
+  "excerpt": "synclines are shaped like the letter 'U.'",
+  "sourceHash": "b03002d8f12d00e264e2a6bd8ecc10ec2a159abdd342e448674179a2a92fe38a",
+  "cacheSourceId": "5904c675d07868d9d439",
+  "retrievedAt": "2026-11-06T16:45:45.133649+00:00",
+  "reviewedMappings": {
+    "2011-3-31:0": "원본 그림의 아래로 오목한 휘어진 층과 NPS 향사/배사 설명 대조. 뒤집힘이 제시되지 않은 문항 모형에서 향사로 해석하여 ① 참 ⑤ 거짓."
+  },
+  "retrievalMethod": "web.run official page opened",
+  "sourceHashScope": "Selected excerpt only; not full page"
+}

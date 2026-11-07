@@ -1,0 +1,21 @@
+{
+  "id": "78738957c3fc18cf2553",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume 2, 16.1 Maxwell’s Equations and Electromagnetic Waves",
+  "url": "https://openstax.org/books/university-physics-volume-2/pages/16-1-maxwells-equations-and-electromagnetic-waves",
+  "excerpt": "the displacement current can produce a magnetic field even where no real current is present",
+  "sourceHash": "280d148d4af05c57b5099c64a1c197b3b738fa3b414f756867fa5313e4716454",
+  "cacheSourceId": "9fad11e992e5e2b712a0",
+  "retrievedAt": "2026-11-07T02:17:41.996649+00:00",
+  "reviewedMappings": {
+    "2024-3-05:0": "앙페르–맥스웰 법칙과 축전기 전체 변위전류=충전 전류를 직접 확인. 균일장과 원형 대칭에서 r≤R의 포획 변위전류=i r²/R², 경로둘레2πr로 나눠 B=μ₀ir/(2πR²) 유도. r=0의0 및 r=R에서 외부식과 연속 검산. 원문에 부등식은 없으므로 평행판 사이를 서로 마주 보는 원판 영역으로 해석한다는 적용 범위를 명시했다.",
+    "2024-3-05:1": "앙페르–맥스웰 법칙과 축전기 전체 변위전류=충전 전류를 직접 확인. 균일장과 원형 대칭에서 r≤R의 포획 변위전류=i r²/R², 경로둘레2πr로 나눠 B=μ₀ir/(2πR²) 유도. r=0의0 및 r=R에서 외부식과 연속 검산. 원문에 부등식은 없으므로 평행판 사이를 서로 마주 보는 원판 영역으로 해석한다는 적용 범위를 명시했다.",
+    "2024-3-05:2": "앙페르–맥스웰 법칙과 축전기 전체 변위전류=충전 전류를 직접 확인. 균일장과 원형 대칭에서 r≤R의 포획 변위전류=i r²/R², 경로둘레2πr로 나눠 B=μ₀ir/(2πR²) 유도. r=0의0 및 r=R에서 외부식과 연속 검산. 원문에 부등식은 없으므로 평행판 사이를 서로 마주 보는 원판 영역으로 해석한다는 적용 범위를 명시했다.",
+    "2024-3-05:3": "앙페르–맥스웰 법칙과 축전기 전체 변위전류=충전 전류를 직접 확인. 균일장과 원형 대칭에서 r≤R의 포획 변위전류=i r²/R², 경로둘레2πr로 나눠 B=μ₀ir/(2πR²) 유도. r=0의0 및 r=R에서 외부식과 연속 검산. 원문에 부등식은 없으므로 평행판 사이를 서로 마주 보는 원판 영역으로 해석한다는 적용 범위를 명시했다.",
+    "2024-3-05:4": "앙페르–맥스웰 법칙과 축전기 전체 변위전류=충전 전류를 직접 확인. 균일장과 원형 대칭에서 r≤R의 포획 변위전류=i r²/R², 경로둘레2πr로 나눠 B=μ₀ir/(2πR²) 유도. r=0의0 및 r=R에서 외부식과 연속 검산. 원문에 부등식은 없으므로 평행판 사이를 서로 마주 보는 원판 영역으로 해석한다는 적용 범위를 명시했다.",
+    "2024-3-05:5": "앙페르–맥스웰 법칙과 축전기 전체 변위전류=충전 전류를 직접 확인. 균일장과 원형 대칭에서 r≤R의 포획 변위전류=i r²/R², 경로둘레2πr로 나눠 B=μ₀ir/(2πR²) 유도. r=0의0 및 r=R에서 외부식과 연속 검산. 원문에 부등식은 없으므로 평행판 사이를 서로 마주 보는 원판 영역으로 해석한다는 적용 범위를 명시했다."
+  },
+  "retrievalMethod": "Direct web open; reviewed equations 16.2–16.7 and charging-capacitor Example 16.1",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "1d72879b553fec27b9bc",
+  "kind": "science",
+  "source": "NOAA",
+  "ref": "JetStream Max: Plate Tectonics and Earthquakes",
+  "url": "https://www.noaa.gov/jetstream/tsunamis/tsunami-generation-earthquakes/jetstream-max-plate-tectonics-and-earthquakes",
+  "excerpt": "At divergent boundaries, plates are moving away from each other.",
+  "sourceHash": "5e776e40807d2715735a36a9531517e881c6649496fa4183a9a59d2b5963a925",
+  "cacheSourceId": "8539e55e21b323ae7cd1",
+  "retrievedAt": "2026-11-06T15:56:38.059478+00:00",
+  "reviewedMappings": {
+    "2010-3-33:2": "발산경계 마그마 상승·고결 및 Mid-Atlantic ridge 예시 문단, Normal earthquakes가 발산경계에서 흔하다는 문단을 직접 읽고 각 선택지와 대조.",
+    "2010-3-33:4": "발산경계 마그마 상승·고결 및 Mid-Atlantic ridge 예시 문단, Normal earthquakes가 발산경계에서 흔하다는 문단을 직접 읽고 각 선택지와 대조.",
+    "2010-3-33:5": "발산경계 마그마 상승·고결 및 Mid-Atlantic ridge 예시 문단, Normal earthquakes가 발산경계에서 흔하다는 문단을 직접 읽고 각 선택지와 대조."
+  },
+  "retrievalMethod": "web.find relevant sections and surrounding paragraphs read",
+  "sourceHashScope": "Selected excerpts only"
+}

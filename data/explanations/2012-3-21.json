@@ -1,0 +1,294 @@
+{
+  "id": "2012-3-21",
+  "summary": "공식 정답은 ③(ㄴ·ㄷ)입니다. 물의 높은 비열은 분자 사이 수소결합과 관련되며, 활성형 비타민 D는 장의 칼슘 흡수를 촉진합니다. 알도스테론과 ADH는 각각 Na⁺와 물의 재흡수 조절에 관여합니다. 다만 ㄹ의 티록신 세포막 수용체 경로는 실제 연구에 보고되어 있어, 공식 채점과 과학적 예외를 구분해야 합니다.",
+  "choices": [
+    "ㄱ은 틀리고 ㄷ은 옳습니다. 원본 ㄱ은 물 분자 사이의 결합을 공유결합이라고 표현했지만, 높은 비열에 관련되는 분자 사이 상호작용은 수소결합입니다. 알도스테론과 ADH는 각각 Na⁺와 물의 재흡수 조절에 관여합니다.",
+    "ㄱ이 틀리므로 정답 조합이 아닙니다. 물 분자 내부의 O–H는 공유결합이지만, 높은 비열 설명에 해당하는 분자 사이 상호작용은 수소결합입니다. ㄹ은 공식 정답에서 제외되었으나 T4의 세포막 integrin αvβ3 결합 경로가 보고되어, 그러한 경로가 없다고 단정하지 않습니다.",
+    "공식 정답 조합입니다. 칼시트리올은 장의 Ca²⁺ 흡수를 촉진하고, 알도스테론은 네프론의 Na⁺ 재흡수를 촉진합니다. ADH는 집합관 주세포의 아쿠아포린 삽입을 통해 물 재흡수를 늘립니다. ㄹ을 제외한 공식 채점이 세포막 경로의 부재까지 증명하는 것은 아닙니다.",
+    "공식 정답은 ㄹ을 제외한 ③입니다. 교과서에서는 갑상샘호르몬의 핵수용체를 통한 유전자 발현 조절을 대표 기전으로 설명하지만, 2005년 연구는 T4의 세포막 integrin αvβ3 결합과 MAPK 활성화를 보고했습니다. 따라서 ㄹ을 문자 그대로 읽을 때 이 조합을 배제하는 데에는 해석상의 문제가 남습니다.",
+    "ㄷ도 옳으므로 ㄴ·ㄹ만 고른 조합은 불완전합니다. ㄹ에 대해서는 대표적인 핵수용체 기전과 연구로 보고된 세포막 경로를 구분해야 합니다. 티록신은 T4이며 T3와 같은 이름으로 쓰지 않습니다."
+  ],
+  "lawNote": "공식 정답③은 원본 최종정답표에서 확인했습니다. 원문 ㄹ에는 주된 기전 또는 유일한 기전이라는 한정이 없습니다. Bergh 등(2005)의 저자 기관 공개 초록은 핵 갑상샘호르몬 수용체가 없는 CV-1 세포에서 T4에 의한 MAPK 활성화와 integrin 관련 억제 실험을 보고합니다. 이는 세포막 경로의 존재를 뒷받침하지만 모든 조직의 주요 작용 경로라는 뜻은 아닙니다. ㄹ을 배제한 공식 해설은 확인되지 않았으며, 핵수용체 기전만으로 ㄹ이 절대 거짓이라고 설명하지 않습니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e 2.2 Water",
+      "quote": "Water’s high heat capacity is a property that hydrogen bonding among water molecules causes.",
+      "url": "https://openstax.org/books/biology-2e/pages/2-2-water",
+      "evidenceId": "a651d7316c85b9a53fe9",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e 2.2 Water",
+      "quote": "Water’s high heat capacity is a property that hydrogen bonding among water molecules causes.",
+      "url": "https://openstax.org/books/biology-2e/pages/2-2-water",
+      "evidenceId": "a651d7316c85b9a53fe9",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e 2.2 Water",
+      "quote": "Water’s high heat capacity is a property that hydrogen bonding among water molecules causes.",
+      "url": "https://openstax.org/books/biology-2e/pages/2-2-water",
+      "evidenceId": "a651d7316c85b9a53fe9",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Anatomy and Physiology 2e 17.5",
+      "quote": "Calcitriol then stimulates increased absorption of dietary calcium by the intestines.",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/17-5-the-parathyroid-glands",
+      "evidenceId": "f069b8c4ef75ddc12782",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Anatomy and Physiology 2e 17.5",
+      "quote": "Calcitriol then stimulates increased absorption of dietary calcium by the intestines.",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/17-5-the-parathyroid-glands",
+      "evidenceId": "f069b8c4ef75ddc12782",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Anatomy and Physiology 2e 17.5",
+      "quote": "Calcitriol then stimulates increased absorption of dietary calcium by the intestines.",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/17-5-the-parathyroid-glands",
+      "evidenceId": "f069b8c4ef75ddc12782",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Anatomy and Physiology 2e 17.5",
+      "quote": "Calcitriol then stimulates increased absorption of dietary calcium by the intestines.",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/17-5-the-parathyroid-glands",
+      "evidenceId": "f069b8c4ef75ddc12782",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Anatomy and Physiology 2e 25.8",
+      "quote": "It promotes Na⁺ reabsorption by the nephron, promoting the retention of water.",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/25-8-endocrine-regulation-of-kidney-function",
+      "evidenceId": "ced998a0084de1344d91",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Anatomy and Physiology 2e 25.8",
+      "quote": "It promotes Na⁺ reabsorption by the nephron, promoting the retention of water.",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/25-8-endocrine-regulation-of-kidney-function",
+      "evidenceId": "ced998a0084de1344d91",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Anatomy and Physiology 2e 25.8",
+      "quote": "It promotes Na⁺ reabsorption by the nephron, promoting the retention of water.",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/25-8-endocrine-regulation-of-kidney-function",
+      "evidenceId": "ced998a0084de1344d91",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Anatomy and Physiology 2e 25.8",
+      "quote": "It promotes Na⁺ reabsorption by the nephron, promoting the retention of water.",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/25-8-endocrine-regulation-of-kidney-function",
+      "evidenceId": "ced998a0084de1344d91",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "Taipei Medical University research portal",
+      "ref": "Bergh et al. 2005, Endocrinology 146:2864–2871",
+      "quote": "treatment of these cells with physiological concentrations of T4 activates the MAPK pathway",
+      "url": "https://hub.tmu.edu.tw/en/publications/integrin-%CE%B1subvsub%CE%B2sub3sub-contains-a-cell-surface-receptor-site-f/",
+      "evidenceId": "20cccbbc700d5c30f16a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "Taipei Medical University research portal",
+      "ref": "Bergh et al. 2005, Endocrinology 146:2864–2871",
+      "quote": "treatment of these cells with physiological concentrations of T4 activates the MAPK pathway",
+      "url": "https://hub.tmu.edu.tw/en/publications/integrin-%CE%B1subvsub%CE%B2sub3sub-contains-a-cell-surface-receptor-site-f/",
+      "evidenceId": "20cccbbc700d5c30f16a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "Taipei Medical University research portal",
+      "ref": "Bergh et al. 2005, Endocrinology 146:2864–2871",
+      "quote": "treatment of these cells with physiological concentrations of T4 activates the MAPK pathway",
+      "url": "https://hub.tmu.edu.tw/en/publications/integrin-%CE%B1subvsub%CE%B2sub3sub-contains-a-cell-surface-receptor-site-f/",
+      "evidenceId": "20cccbbc700d5c30f16a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "Taipei Medical University research portal",
+      "ref": "Bergh et al. 2005, Endocrinology 146:2864–2871",
+      "quote": "treatment of these cells with physiological concentrations of T4 activates the MAPK pathway",
+      "url": "https://hub.tmu.edu.tw/en/publications/integrin-%CE%B1subvsub%CE%B2sub3sub-contains-a-cell-surface-receptor-site-f/",
+      "evidenceId": "20cccbbc700d5c30f16a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "Taipei Medical University research portal",
+      "ref": "Bergh et al. 2005, Endocrinology 146:2864–2871",
+      "quote": "treatment of these cells with physiological concentrations of T4 activates the MAPK pathway",
+      "url": "https://hub.tmu.edu.tw/en/publications/integrin-%CE%B1subvsub%CE%B2sub3sub-contains-a-cell-surface-receptor-site-f/",
+      "evidenceId": "20cccbbc700d5c30f16a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Anatomy and Physiology 2e 25.8",
+      "quote": "It promotes the recovery of water, decreases urine volume",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/25-8-endocrine-regulation-of-kidney-function",
+      "evidenceId": "1fc085260cfd493e12fd",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Anatomy and Physiology 2e 25.8",
+      "quote": "It promotes the recovery of water, decreases urine volume",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/25-8-endocrine-regulation-of-kidney-function",
+      "evidenceId": "1fc085260cfd493e12fd",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Anatomy and Physiology 2e 25.8",
+      "quote": "It promotes the recovery of water, decreases urine volume",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/25-8-endocrine-regulation-of-kidney-function",
+      "evidenceId": "1fc085260cfd493e12fd",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Anatomy and Physiology 2e 25.8",
+      "quote": "It promotes the recovery of water, decreases urine volume",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/25-8-endocrine-regulation-of-kidney-function",
+      "evidenceId": "1fc085260cfd493e12fd",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Anatomy and Physiology 2e 17.2 Hormones",
+      "quote": "thyroid hormones bind to receptors already bound to DNA.",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/17-2-hormones",
+      "evidenceId": "a9ac919c2b89fc9b6d97",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Anatomy and Physiology 2e 17.2 Hormones",
+      "quote": "thyroid hormones bind to receptors already bound to DNA.",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/17-2-hormones",
+      "evidenceId": "a9ac919c2b89fc9b6d97",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Anatomy and Physiology 2e 17.2 Hormones",
+      "quote": "thyroid hormones bind to receptors already bound to DNA.",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/17-2-hormones",
+      "evidenceId": "a9ac919c2b89fc9b6d97",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Anatomy and Physiology 2e 17.2 Hormones",
+      "quote": "thyroid hormones bind to receptors already bound to DNA.",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/17-2-hormones",
+      "evidenceId": "a9ac919c2b89fc9b6d97",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Anatomy and Physiology 2e 17.2 Hormones",
+      "quote": "thyroid hormones bind to receptors already bound to DNA.",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/17-2-hormones",
+      "evidenceId": "a9ac919c2b89fc9b6d97",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "문제 원본·공식 정답표 대조 및 물·칼시트리올·신장호르몬 근거 검토. 핵수용체 교재 설명과 T4 막수용체 연구를 구분하여 공식 채점과 과학적 예외를 함께 명시한 조건부 내용 검토.",
+    "contentHash": "1b37a33d43c32aa29b9bbedaec9e7d796d3883cc1c9cf67e76c1f4cd1bb5807e"
+  }
+}

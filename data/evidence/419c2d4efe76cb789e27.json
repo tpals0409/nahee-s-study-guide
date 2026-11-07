@@ -1,0 +1,19 @@
+{
+  "id": "419c2d4efe76cb789e27",
+  "kind": "science",
+  "source": "NCBI Bookshelf / Garland Science",
+  "ref": "Immunobiology: Interaction with self antigens selects some lymphocytes for survival but eliminates others",
+  "url": "https://www.ncbi.nlm.nih.gov/books/NBK27089/",
+  "excerpt": "These fates are cell death by apoptosis",
+  "sourceHash": "86aa5a9bdcf8a029c782a9229ef6040828a8afa9db74d36461ad20eb78664f88",
+  "cacheSourceId": "562a180c9ae373009ec4",
+  "retrievedAt": "2026-11-07T02:39:21.755496+00:00",
+  "reviewedMappings": {
+    "2024-3-24:0": "Section 7-17 explicitly lists apoptosis, receptor editing, unresponsiveness and ignorance for self-reactive immature B cells; introduction distinguishes survival by positive selection. Supports apoptosis answer and rejects necrosis for the specified deletion, without claiming every autoreactive cell dies.",
+    "2024-3-24:2": "Section 7-17 explicitly lists apoptosis, receptor editing, unresponsiveness and ignorance for self-reactive immature B cells; introduction distinguishes survival by positive selection. Supports apoptosis answer and rejects necrosis for the specified deletion, without claiming every autoreactive cell dies.",
+    "2024-3-24:3": "Section 7-17 explicitly lists apoptosis, receptor editing, unresponsiveness and ignorance for self-reactive immature B cells; introduction distinguishes survival by positive selection. Supports apoptosis answer and rejects necrosis for the specified deletion, without claiming every autoreactive cell dies.",
+    "2024-3-24:5": "Section 7-17 explicitly lists apoptosis, receptor editing, unresponsiveness and ignorance for self-reactive immature B cells; introduction distinguishes survival by positive selection. Supports apoptosis answer and rejects necrosis for the specified deletion, without claiming every autoreactive cell dies."
+  },
+  "retrievalMethod": "Indexed full section 7-17 and positive-selection introduction reviewed; direct open returned browser challenge.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "3019650e7997ef960f74",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume 2 §14.4 RL Circuits",
+  "url": "https://openstax.org/books/university-physics-volume-2/pages/14-4-rl-circuits",
+  "excerpt": "As a result, I(t) starts at zero",
+  "sourceHash": "d1de83b62de7413d3d98fa54fd7e4143bf189ccf3b0ae32315bc944313e0579a",
+  "cacheSourceId": "fff2a6509c9fc7c8ab0e",
+  "retrievedAt": "2026-11-06T23:04:54.238000+00:00",
+  "reviewedMappings": {
+    "2020-3-04:0": "초기 C 전압 0·L 전류 0에서 Ii=15/(2+3)=3 A, 정상 C 전류 0·L 전압 0에서 If=(15-3)/(2+4)=2 A; 비 2/3.",
+    "2020-3-04:1": "정상 회로의 두 전지는 반대 기전력으로 작용하여 If=2 A≠0.",
+    "2020-3-04:2": "두 극한 등가회로와 KVL로 Ii=3, If=2; 비 2/3.",
+    "2020-3-04:3": "Ii=3 A이나 If=2 A로 서로 다름.",
+    "2020-3-04:4": "If/Ii=2/3이며 3/2는 역비.",
+    "2020-3-04:5": "Ii=3 A≠0이고 If=2 A로 비는 유한."
+  },
+  "retrievalMethod": "Direct web retrieval; reviewed self-inductance relation and initial/steady limits, lines 29–53 and 71–75. Used component endpoint properties, not the simple RL exponential for the whole mixed circuit.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

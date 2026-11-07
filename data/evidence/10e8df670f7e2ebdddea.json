@@ -1,0 +1,17 @@
+{
+  "id": "10e8df670f7e2ebdddea",
+  "kind": "science",
+  "source": "NASA GSFC hosted historical account",
+  "ref": "History of the detection of the core",
+  "url": "https://core2.gsfc.nasa.gov/MIRROR_www_astro_oma_be/history.html",
+  "excerpt": "Gutenberg determined the depth of a core-mantle boundary",
+  "sourceHash": "be5ef9714b9b9a57d1a807fe1e4002fb6fb5e1fee3e71cffaaa687f5e4a9e251",
+  "cacheSourceId": "7ec8f0e8f3afec6fc4b5",
+  "retrievedAt": "2026-11-07T02:45:32.140475+00:00",
+  "reviewedMappings": {
+    "2024-3-31:0": "Gutenberg boundary refers to core–mantle boundary; image places it at 2890 km.",
+    "2024-3-31:2": "Gutenberg boundary refers to core–mantle boundary; image places it at 2890 km."
+  },
+  "retrievalMethod": "Indexed historical account reviewed.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

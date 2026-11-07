@@ -1,0 +1,218 @@
+{
+  "id": "2016-3-01",
+  "summary": "두 물체가 정지해 있으므로 2kg 물체의 힘 평형에서 실의 장력은 T = 2kg × 10m/s² = 20N입니다. 4kg 물체에 수평으로 작용하는 힘은 실의 장력과 정지마찰력뿐이므로 마찰력의 크기는 20N입니다.",
+  "choices": [
+    "0N: 오답입니다. 마찰력이 0이면 4kg 물체에는 20N의 장력만 수평으로 작용합니다. 그러면 알짜힘이 0이 아니어서 물체가 정지해 있을 수 없습니다.",
+    "10N: 오답입니다. 이 경우 수평 알짜힘이 20N − 10N = 10N이 되어 평형이 성립하지 않습니다. 실제 장력은 매달린 2kg 물체의 무게인 20N과 같습니다.",
+    "20N: 정답입니다. 2kg 물체의 평형에서 T = mg = 2 × 10 = 20N입니다. 4kg 물체의 수평 평형에서 정지마찰력 f = T = 20N이고, 방향은 도르래 반대쪽입니다.",
+    "40N은 4kg 물체의 무게이자 이 그림에서 수직항력의 크기입니다. 마찰력은 수평 장력 20N과 평형을 이루므로 40N이 아닙니다.",
+    "60N: 오답입니다. 60N은 두 물체 무게의 합으로, 수평 방향 힘의 평형과 관계없는 값입니다."
+  ],
+  "lawNote": "정지마찰력은 항상 최대값 μsN인 것이 아닙니다. 이 문제는 이미 정지해 있다는 조건에서 실제 마찰력을 구하므로 마찰계수 없이도 계산할 수 있습니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "6.1 Solving Problems with Newton’s Laws",
+      "quote": "the external forces are balanced.",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/6-1-solving-problems-with-newtons-laws",
+      "evidenceId": "3b5914a32af2417d60b2",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "6.1 Solving Problems with Newton’s Laws",
+      "quote": "the external forces are balanced.",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/6-1-solving-problems-with-newtons-laws",
+      "evidenceId": "3b5914a32af2417d60b2",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "6.1 Solving Problems with Newton’s Laws",
+      "quote": "the external forces are balanced.",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/6-1-solving-problems-with-newtons-laws",
+      "evidenceId": "3b5914a32af2417d60b2",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "6.1 Solving Problems with Newton’s Laws",
+      "quote": "the external forces are balanced.",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/6-1-solving-problems-with-newtons-laws",
+      "evidenceId": "3b5914a32af2417d60b2",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "6.1 Solving Problems with Newton’s Laws",
+      "quote": "the external forces are balanced.",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/6-1-solving-problems-with-newtons-laws",
+      "evidenceId": "3b5914a32af2417d60b2",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "6.1 Solving Problems with Newton’s Laws",
+      "quote": "the external forces are balanced.",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/6-1-solving-problems-with-newtons-laws",
+      "evidenceId": "3b5914a32af2417d60b2",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "6.1 Solving Problems with Newton’s Laws",
+      "quote": "the tension is the same throughout the string.",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/6-1-solving-problems-with-newtons-laws",
+      "evidenceId": "6d0731dc04a2ae4d0c87",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "6.1 Solving Problems with Newton’s Laws",
+      "quote": "the tension is the same throughout the string.",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/6-1-solving-problems-with-newtons-laws",
+      "evidenceId": "6d0731dc04a2ae4d0c87",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "6.1 Solving Problems with Newton’s Laws",
+      "quote": "the tension is the same throughout the string.",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/6-1-solving-problems-with-newtons-laws",
+      "evidenceId": "6d0731dc04a2ae4d0c87",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "6.1 Solving Problems with Newton’s Laws",
+      "quote": "the tension is the same throughout the string.",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/6-1-solving-problems-with-newtons-laws",
+      "evidenceId": "6d0731dc04a2ae4d0c87",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "6.1 Solving Problems with Newton’s Laws",
+      "quote": "the tension is the same throughout the string.",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/6-1-solving-problems-with-newtons-laws",
+      "evidenceId": "6d0731dc04a2ae4d0c87",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "6.1 Solving Problems with Newton’s Laws",
+      "quote": "the tension is the same throughout the string.",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/6-1-solving-problems-with-newtons-laws",
+      "evidenceId": "6d0731dc04a2ae4d0c87",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "6.2 Friction",
+      "quote": "the force of static friction keeps the crate stationary",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/6-2-friction",
+      "evidenceId": "dc81d64568c00adbee9b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "6.2 Friction",
+      "quote": "the force of static friction keeps the crate stationary",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/6-2-friction",
+      "evidenceId": "dc81d64568c00adbee9b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "6.2 Friction",
+      "quote": "the force of static friction keeps the crate stationary",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/6-2-friction",
+      "evidenceId": "dc81d64568c00adbee9b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "6.2 Friction",
+      "quote": "the force of static friction keeps the crate stationary",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/6-2-friction",
+      "evidenceId": "dc81d64568c00adbee9b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "6.2 Friction",
+      "quote": "the force of static friction keeps the crate stationary",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/6-2-friction",
+      "evidenceId": "dc81d64568c00adbee9b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "6.2 Friction",
+      "quote": "the force of static friction keeps the crate stationary",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/6-2-friction",
+      "evidenceId": "dc81d64568c00adbee9b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "Original image, independent force balance, numeric choice check, and primary textbook source mapping",
+    "contentHash": "5cae297f1bdad762bcacc8fd3b3362fd31e18dfe79fa9eae585d7ef682163f39"
+  }
+}

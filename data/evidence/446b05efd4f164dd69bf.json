@@ -1,0 +1,16 @@
+{
+  "id": "446b05efd4f164dd69bf",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e §11.2 Sexual Reproduction",
+  "url": "https://openstax.org/books/biology-2e/pages/11-2-sexual-reproduction",
+  "excerpt": "Identify variation among offspring as a potential evolutionary advantage of sexual reproduction",
+  "sourceHash": "0871ec5a5d788a41de9c92f504fc4e383260b918eed716f7810057dcac7b7e4b",
+  "cacheSourceId": "dba3d1a5728b20dc468a",
+  "retrievedAt": "2026-11-06T16:40:59.501049+00:00",
+  "reviewedMappings": {
+    "2011-3-27:0": "학습목표와 본문에서 자손 변이를 유성생식의 잠재적 진화 이점으로 설명하고 교차·독립분리 및 부모 유전체 조합을 제시. 성장시간·세포크기·유전체크기라는 선지는 해당 기전을 설명하지 않으며 ⑤ 개체수 생산 이점은 무성생식의 번식상 이점과 구별. 적응도가 모든 조건에서 높다는 일반화는 피하고 보기 중 가장 적합한 이유④로 판단."
+  },
+  "retrievalMethod": "web.run official textbook introduction and genetic variation discussion reviewed",
+  "sourceHashScope": "Selected excerpt only; not full page"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "249125b394c031506c7c",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 2e, 19.3 Spectroscopic and Magnetic Properties of Coordination Compounds",
+  "url": "https://openstax.org/books/chemistry-2e/pages/19-3-spectroscopic-and-magnetic-properties-of-coordination-compounds",
+  "excerpt": "The six 3d electrons of the Fe2+ ion pair in the three t2g orbitals",
+  "sourceHash": "95efc66f1e144844bf0e8e3f186c4de4a5bf8f25cfa4158fef824d87a291d7ce",
+  "cacheSourceId": "fa9345669d820cdcca07",
+  "retrievedAt": "2026-11-07T01:00:59.406037+00:00",
+  "reviewedMappings": {
+    "2022-3-18:0": "Direct text review lines 47–61 and 103–113: octahedral orbital identities, ferrocyanide low-spin t2g6, tetrahedral e below t2. Quote normalized from rendered subscripts. Electron counts independently give Fe2+ d6 and Co2+ d7; occupation dxy 2 versus 1, dz2 in Co2+ 2. 정답은 ⑤, ㄱ·ㄴ·ㄷ입니다. (가)는 저스핀 정팔면체 Fe²⁺(d⁶), (나)는 정사면체 Co²⁺(d⁷), (다)는 사각 평면 Ni²⁺(d⁸)입니다. 각 결정장 모형에 전자를 채우면 세 진술이 모두 성립합니다.",
+    "2022-3-18:1": "Direct text review lines 47–61 and 103–113: octahedral orbital identities, ferrocyanide low-spin t2g6, tetrahedral e below t2. Quote normalized from rendered subscripts. Electron counts independently give Fe2+ d6 and Co2+ d7; occupation dxy 2 versus 1, dz2 in Co2+ 2. ㄱ은 옳지만 ㄴ·ㄷ도 옳으므로 불완전합니다. Co²⁺의 정사면체 배치는 e⁴t₂³이며, 낮은 e에 속하는 d_z²에는 전자 2개가 있습니다.",
+    "2022-3-18:2": "Direct text review lines 47–61 and 103–113: octahedral orbital identities, ferrocyanide low-spin t2g6, tetrahedral e below t2. Quote normalized from rendered subscripts. Electron counts independently give Fe2+ d6 and Co2+ d7; occupation dxy 2 versus 1, dz2 in Co2+ 2. ㄴ은 옳지만 ㄱ·ㄷ도 옳으므로 불완전합니다. 이 문제의 사각 평면 결정장 모형에서는 d_xy가 d_z²보다 에너지가 높습니다.",
+    "2022-3-18:3": "Direct text review lines 47–61 and 103–113: octahedral orbital identities, ferrocyanide low-spin t2g6, tetrahedral e below t2. Quote normalized from rendered subscripts. Electron counts independently give Fe2+ d6 and Co2+ d7; occupation dxy 2 versus 1, dz2 in Co2+ 2. ㄱ·ㄷ은 옳지만 ㄴ도 옳습니다. 사각 평면의 통상적인 결정장 분리에서 d_xy>d_z²이므로 ㄴ을 제외할 수 없습니다.",
+    "2022-3-18:4": "Direct text review lines 47–61 and 103–113: octahedral orbital identities, ferrocyanide low-spin t2g6, tetrahedral e below t2. Quote normalized from rendered subscripts. Electron counts independently give Fe2+ d6 and Co2+ d7; occupation dxy 2 versus 1, dz2 in Co2+ 2. ㄴ·ㄷ은 옳지만 ㄱ도 옳습니다. 정사면체 Co²⁺의 e⁴t₂³에서 e의 두 궤도 d_z²와 d_x²−y²에 각각 전자 2개가 들어갑니다.",
+    "2022-3-18:5": "Direct text review lines 47–61 and 103–113: octahedral orbital identities, ferrocyanide low-spin t2g6, tetrahedral e below t2. Quote normalized from rendered subscripts. Electron counts independently give Fe2+ d6 and Co2+ d7; occupation dxy 2 versus 1, dz2 in Co2+ 2. 모두 옳습니다. ㄱ: (나)의 d_z² 전자는 2개입니다. ㄴ: (다)의 사각 평면 결정장 모형에서 d_xy>d_z²입니다. ㄷ: (가)의 t₂g⁶에서 d_xy 전자는 2개, (나)의 e⁴t₂³에서 d_xy 전자는 1개이므로 (가)>(나)입니다."
+  },
+  "retrievalMethod": "Direct text review lines 47–61 and 103–113: octahedral orbital identities, ferrocyanide low-spin t2g6, tetrahedral e below t2. Quote normalized from rendered subscripts. Electron counts independently give Fe2+ d6 and Co2+ d7; occupation dxy 2 versus 1, dz2 in Co2+ 2.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

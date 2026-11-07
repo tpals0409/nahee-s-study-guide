@@ -1,0 +1,27 @@
+{
+  "id": "d9d293c234a2fe4fffbe",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume 2, 13.2 Lenz’s Law",
+  "url": "https://openstax.org/books/university-physics-volume-2/pages/13-2-lenzs-law",
+  "excerpt": "always oppose the change in magnetic flux that causes the emf.",
+  "sourceHash": "ee82fbad5ae07d9e3886032cf1a6fcc3ecf60b4af639c4072626e5bb31640722",
+  "cacheSourceId": "fcd43caa5101484d79ab",
+  "retrievedAt": "2026-11-07T03:45:33.898460+00:00",
+  "reviewedMappings": {
+    "2022-3-05:0": "렌츠법칙은 자기장 자체가 아닌 선속 변화를 반대. 들어가는 선속 감소를 보완하는 시계 방향 전류. 원본 시계방향 화살표와 일치.",
+    "2022-3-05:1": "렌츠법칙은 자기장 자체가 아닌 선속 변화를 반대. 들어가는 선속 감소를 보완하는 시계 방향 전류. 원본 시계방향 화살표와 일치.",
+    "2022-3-05:2": "렌츠법칙은 자기장 자체가 아닌 선속 변화를 반대. 들어가는 선속 감소를 보완하는 시계 방향 전류. 원본 시계방향 화살표와 일치.",
+    "2022-3-05:3": "렌츠법칙은 자기장 자체가 아닌 선속 변화를 반대. 들어가는 선속 감소를 보완하는 시계 방향 전류. 원본 시계방향 화살표와 일치.",
+    "2022-3-05:4": "렌츠법칙은 자기장 자체가 아닌 선속 변화를 반대. 들어가는 선속 감소를 보완하는 시계 방향 전류. 원본 시계방향 화살표와 일치.",
+    "2022-3-05:5": "렌츠법칙은 자기장 자체가 아닌 선속 변화를 반대. 들어가는 선속 감소를 보완하는 시계 방향 전류. 원본 시계방향 화살표와 일치.",
+    "2026-3-06:0": "Into-page flux grows at 2 s, so induced field is out-of-page and current counterclockwise: ㄱ false. At 11 s into-page flux decreases, so induced field is into-page and current clockwise. Combining with Faraday calculation gives ㄴㄷ, choice 4.",
+    "2026-3-06:1": "Into-page flux grows at 2 s, so induced field is out-of-page and current counterclockwise: ㄱ false. At 11 s into-page flux decreases, so induced field is into-page and current clockwise. Combining with Faraday calculation gives ㄴㄷ, choice 4.",
+    "2026-3-06:2": "Into-page flux grows at 2 s, so induced field is out-of-page and current counterclockwise: ㄱ false. At 11 s into-page flux decreases, so induced field is into-page and current clockwise. Combining with Faraday calculation gives ㄴㄷ, choice 4.",
+    "2026-3-06:3": "Into-page flux grows at 2 s, so induced field is out-of-page and current counterclockwise: ㄱ false. At 11 s into-page flux decreases, so induced field is into-page and current clockwise. Combining with Faraday calculation gives ㄴㄷ, choice 4.",
+    "2026-3-06:4": "Into-page flux grows at 2 s, so induced field is out-of-page and current counterclockwise: ㄱ false. At 11 s into-page flux decreases, so induced field is into-page and current clockwise. Combining with Faraday calculation gives ㄴㄷ, choice 4.",
+    "2026-3-06:5": "Into-page flux grows at 2 s, so induced field is out-of-page and current counterclockwise: ㄱ false. At 11 s into-page flux decreases, so induced field is into-page and current clockwise. Combining with Faraday calculation gives ㄴㄷ, choice 4."
+  },
+  "retrievalMethod": "Direct web open",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

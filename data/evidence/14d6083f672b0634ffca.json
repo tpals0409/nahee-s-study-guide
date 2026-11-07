@@ -1,0 +1,21 @@
+{
+  "id": "14d6083f672b0634ffca",
+  "kind": "science",
+  "source": "Texas A&M University Protein Chemistry Laboratory",
+  "ref": "Amino Acid Analysis — Notes and Amino Acid Codes",
+  "url": "https://pcl.tamu.edu/n-amino-acid-analysis/",
+  "excerpt": "When Asparagine and Glutamine are hydrolyzed, they are deamidated to the respective acids",
+  "sourceHash": "ac0cfc4c38e5275548fe5f7c13caa2c5f7b89ab54009cb9879bae914a3b40537",
+  "cacheSourceId": "b96052f1caaaa1d4fbde",
+  "retrievedAt": "2026-11-06T17:10:06.699828+00:00",
+  "reviewedMappings": {
+    "2012-3-11:0": "ㄷ: 완전 산 가수분해에서 Asn 곁사슬 탈아마이드화하여 Asp 생성. Lys/Phe/Asp 세 종류이며, 추가 암모니아는 아미노산이 아님.",
+    "2012-3-11:1": "ㄷ: 완전 산 가수분해에서 Asn 곁사슬 탈아마이드화하여 Asp 생성. Lys/Phe/Asp 세 종류이며, 추가 암모니아는 아미노산이 아님.",
+    "2012-3-11:2": "ㄷ: 완전 산 가수분해에서 Asn 곁사슬 탈아마이드화하여 Asp 생성. Lys/Phe/Asp 세 종류이며, 추가 암모니아는 아미노산이 아님.",
+    "2012-3-11:3": "ㄷ: 완전 산 가수분해에서 Asn 곁사슬 탈아마이드화하여 Asp 생성. Lys/Phe/Asp 세 종류이며, 추가 암모니아는 아미노산이 아님.",
+    "2012-3-11:4": "ㄷ: 완전 산 가수분해에서 Asn 곁사슬 탈아마이드화하여 Asp 생성. Lys/Phe/Asp 세 종류이며, 추가 암모니아는 아미노산이 아님.",
+    "2012-3-11:5": "ㄷ: 완전 산 가수분해에서 Asn 곁사슬 탈아마이드화하여 Asp 생성. Lys/Phe/Asp 세 종류이며, 추가 암모니아는 아미노산이 아님."
+  },
+  "retrievalMethod": "web.open relevant section reviewed; selected excerpt retained",
+  "sourceHashScope": "Selected excerpt only; not full page"
+}

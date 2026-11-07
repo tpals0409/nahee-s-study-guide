@@ -1,0 +1,21 @@
+{
+  "id": "4f4e5076cd1c33f2027b",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume 3, 6.3 The Compton Effect",
+  "url": "https://openstax.org/books/university-physics-volume-3/pages/6-3-the-compton-effect",
+  "excerpt": "we assume that the colliding photon and electron form an isolated system.",
+  "sourceHash": "baa665cee424d1b74bbd9860e8c9d53278a1380e67567b13a5699a86e6e9a710",
+  "cacheSourceId": "2f989fff90f8c3c7bdd5",
+  "retrievedAt": "2026-11-06T23:54:20.861028+00:00",
+  "reviewedMappings": {
+    "2021-3-08:0": "Equations 6.28,6.19,6.25 establish true ㄱ, false ㄴ, true ㄷ.",
+    "2021-3-08:1": "Shift increases over scattering-angle domain; isolated photon-electron vector momentum also conserved, so ㄷ omitted.",
+    "2021-3-08:2": "E=hc/lambda and graph lambda1>lambda0 imply E1<E0; intensity not per-photon energy.",
+    "2021-3-08:3": "Momentum conservation valid; monotonic Compton shift makes omitted ㄱ true.",
+    "2021-3-08:4": "Correct combination ㄱㄷ using free-electron model and vector momentum conservation.",
+    "2021-3-08:5": "False ㄴ must be excluded because energy inversely proportional to wavelength."
+  },
+  "retrievalMethod": "Original examination graph and options reviewed: lambda1>lambda0, taller intensity peak does not imply greater energy per photon. Direct OpenStax 6.3 equations 6.19,6.25,6.28 and text lines 74–83,91–101,124–150 reviewed. Weakly bound electron treated as initially stationary free electron; photon-electron total vector momentum conserved. Independent monotonicity check 1-cos(theta) increases on 0<=theta<=pi; E=hc/lambda reverses wavelength ordering. Removed unnecessary numerical constants and microscopic unshifted-peak account from learner explanation.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

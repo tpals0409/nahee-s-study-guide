@@ -1,0 +1,18 @@
+{
+  "id": "5e32fa7c1675c7297b3b",
+  "kind": "science",
+  "source": "U.S. Geological Survey (USGS)",
+  "ref": "At what depth do earthquakes occur? What is the significance of the depth?",
+  "url": "https://www.usgs.gov/faqs/what-depth-do-earthquakes-occur-what-significance-depth",
+  "excerpt": "faults are only active in the shallow crust",
+  "sourceHash": "bb9a67ebea88ebef0ebd813c8e68c910ac0bc4e4303a45e2efb335d48173859b",
+  "cacheSourceId": "8901c1cc37719d8637aa",
+  "retrievedAt": "2026-11-07T04:16:46.780103+00:00",
+  "reviewedMappings": {
+    "2018-3-33:0": "원본 지도 A동아프리카 B히말라야 C하와이 D산안드레아스 E아이슬란드로 판독. 각 출처 해당 지점 원리를 종합하여 ④만 거짓. 짧은 발췌만이 아니라 검색에 제공된 관련 본문과 원본 지도 판독을 함께 적용.",
+    "2018-3-33:4": "D 산안드레아스는 변환/보존경계이나 얕은 지각 지진이 특징. 심발지진 다발이라는 후반부가 거짓. 짧은 발췌만이 아니라 검색에 제공된 관련 본문과 원본 지도 판독을 함께 적용.",
+    "2026-3-32:4": "USGS FAQ paragraph15 San Andreas shallow-crust transform earthquakes, versus deep subducting slabs8-13. No fixed depth cutoff asserted."
+  },
+  "retrievalMethod": "Direct web find/open",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "ec2948c1abe58ee6afc5",
+  "kind": "science",
+  "source": "NOAA",
+  "ref": "Origin of Wind",
+  "url": "https://www.noaa.gov/jetstream/synoptic/origin-of-wind",
+  "excerpt": "The combination of the two forces would cause the wind to blow parallel to straight isobars with high pressure on the right.",
+  "sourceHash": "3cdbab33026fc5284470efd239bab97dcbba42f77e6737c3827f77a4076fa927",
+  "cacheSourceId": "c7fafb17258d11f29380",
+  "retrievedAt": "2026-11-06T18:24:39.838447+00:00",
+  "reviewedMappings": {
+    "2013-3-36:5": "북반구 기압경도력·전향력 조합과 등압선 평행 흐름. 상층 편서풍을 기압경도력 하나만으로 설명하지 않음."
+  },
+  "retrievalMethod": "web.open: official educational page",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

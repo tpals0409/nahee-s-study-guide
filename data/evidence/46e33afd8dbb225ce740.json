@@ -1,0 +1,20 @@
+{
+  "id": "46e33afd8dbb225ce740",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 2e 11.4 Colligative Properties",
+  "url": "https://openstax.org/books/chemistry-2e/pages/11-4-colligative-properties",
+  "excerpt": "Assuming complete dissociation and ideal solution behavior",
+  "sourceHash": "c17de366848deaaaeefa6942ba8a476e1033bd6186d97224abb417ecb63cd970",
+  "cacheSourceId": "cdd7825054a3c8d4a3bc",
+  "retrievedAt": "2026-11-07T06:04:05.451541+00:00",
+  "reviewedMappings": {
+    "2010-3-18:0": "Supports explicit ideal/completely dissociated colligative model only. Does not establish preservation of this zinc complex or measured freezing temperature.",
+    "2010-3-18:2": "Supports explicit ideal/completely dissociated colligative model only. Does not establish preservation of this zinc complex or measured freezing temperature.",
+    "2010-3-18:3": "Supports explicit ideal/completely dissociated colligative model only. Does not establish preservation of this zinc complex or measured freezing temperature.",
+    "2010-3-18:4": "Supports explicit ideal/completely dissociated colligative model only. Does not establish preservation of this zinc complex or measured freezing temperature.",
+    "2010-3-18:5": "Supports explicit ideal/completely dissociated colligative model only. Does not establish preservation of this zinc complex or measured freezing temperature."
+  },
+  "retrievalMethod": "web open/find direct page",
+  "sourceHashScope": "Short reviewed excerpt only"
+}

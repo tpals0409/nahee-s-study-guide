@@ -1,0 +1,41 @@
+{
+  "summary": "정답은 ⑤, ATP 4·NADH 10·FADH₂ 2분자입니다. 포도당 1분자 기준으로 해당과정, 피루브산의 아세틸-CoA 전환, 시트르산 회로 2회전의 순생성량을 합합니다.",
+  "choices": [
+    "세 값 모두 다릅니다. ATP는 순 4, NADH는 10, FADH₂는 2입니다.",
+    "FADH₂ 2만 맞습니다. ATP는 순 4이며 NADH는 해당과정 2+피루브산 산화 2+회로 6=10입니다.",
+    "세 값 모두 다릅니다. NADH 6은 회로에서만 생긴 양이고, FADH₂는 회로 두 번에서 총 2입니다.",
+    "ATP 4와 FADH₂ 2는 맞지만 NADH 8이 틀립니다. 회로 진입 전 피루브산 산화에서 생기는 NADH도 포함하여 총 10입니다.",
+    "해당과정은 순 ATP 2·NADH 2, 피루브산 산화는 NADH 2, 회로 두 번은 ATP(GTP) 2·NADH 6·FADH₂ 2입니다. 합계는 4·10·2입니다."
+  ],
+  "lawNote": "ATP는 소비량을 뺀 순생성량이며 회로에서 생기는 GTP는 ATP 당량으로 셉니다. 이후 전자전달계의 산화적 인산화로 만드는 ATP는 포함하지 않습니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e §7.2 Glycolysis",
+      "quote": "produces two NADH and four ATP molecules per glucose",
+      "url": "https://openstax.org/books/biology-2e/pages/7-2-glycolysis",
+      "evidenceId": "bb8adaba6aee0bb9a933",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e §7.3 Oxidation of Pyruvate and the Citric Acid Cycle",
+      "quote": "three NAD+ molecules are reduced to NADH",
+      "url": "https://openstax.org/books/biology-2e/pages/7-3-oxidation-of-pyruvate-and-the-citric-acid-cycle",
+      "evidenceId": "52528fbc9b9582e2a631",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "문제 원본 이미지의 표와 저장선지 일치 확인. 공식교재 두 절의 단계별 생성량 대조 및 독립합산. 순ATP/GTP당량/피루브산산화 포함/산화적인산화 제외 범위를 명시하고 저장정답⑤ 확인.",
+    "contentHash": "ff2399ff908b0a11948f15a2a4a2cc2857d14c1909a4dcefc1c13e45a1518e3f"
+  }
+}

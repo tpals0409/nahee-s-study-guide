@@ -1,0 +1,85 @@
+{
+  "id": "2020-3-11",
+  "summary": "Cr은 [Ar]3d⁵4s¹, Mn은 [Ar]3d⁵4s², Fe²⁺는 [Ar]3d⁶, Cu는 [Ar]3d¹⁰4s¹이 바닥상태 배치입니다. Fe 원자의 [Ar]3d⁶4s²에서 4s 전자 두 개를 제거하면 Fe²⁺가 됩니다. 네 보기가 모두 옳으므로 정답은 ⑤입니다.",
+  "choices": [
+    "ㄱ, ㄴ: ㄱ(Cr: [Ar]4s¹3d⁵)과 ㄴ(Mn: [Ar]4s²3d⁵)은 옳습니다. 그러나 ㄷ(Fe²⁺: [Ar]3d⁶)과 ㄹ(Cu: [Ar]4s¹3d¹⁰)도 옳은데 빠져 있으므로 오답입니다.",
+    "ㄱ, ㄷ: Cr과 Fe²⁺의 배치는 옳습니다. 그러나 Mn의 [Ar]4s²3d⁵와 Cu의 [Ar]4s¹3d¹⁰도 옳은 배치인데 빠져 있으므로 오답입니다.",
+    "ㄴ, ㄷ: Mn과 Fe²⁺의 배치는 옳습니다. 그러나 예외 배치인 Cr의 4s¹3d⁵와 Cu의 4s¹3d¹⁰도 실제 바닥상태와 일치하는데 빠져 있으므로 오답입니다.",
+    "ㄱ, ㄴ, ㄷ: 오답입니다. 세 배치가 모두 옳지만 Cu의 바닥상태 [Ar]3d¹⁰4s¹도 옳으므로 ㄹ까지 포함해야 합니다.",
+    "ㄱ, ㄴ, ㄷ, ㄹ: Cr(24개), Mn(25개), Fe²⁺(24개), Cu(29개) 모두 전자 수와 바닥상태 배치가 맞습니다. 따라서 정답입니다."
+  ],
+  "lawNote": "3d와 4s를 적는 순서가 달라도 각 부껍질의 전자 수가 같으면 같은 전자배치입니다. Cr과 Cu의 예외 배치를 단순한 채움 순서만으로 판단하지 않으며, 전자 수가 맞는 것만으로 바닥상태가 입증되는 것은 아닙니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §6.4 Electronic Structure of Atoms (Electron Configurations)",
+      "quote": "For transition metals, the last s orbital loses an electron before the d orbitals.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/6-4-electronic-structure-of-atoms-electron-configurations",
+      "evidenceId": "3e6b5e01ca79068ed30f",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §6.4 Electronic Structure of Atoms (Electron Configurations)",
+      "quote": "For transition metals, the last s orbital loses an electron before the d orbitals.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/6-4-electronic-structure-of-atoms-electron-configurations",
+      "evidenceId": "3e6b5e01ca79068ed30f",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §6.4 Electronic Structure of Atoms (Electron Configurations)",
+      "quote": "For transition metals, the last s orbital loses an electron before the d orbitals.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/6-4-electronic-structure-of-atoms-electron-configurations",
+      "evidenceId": "3e6b5e01ca79068ed30f",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §6.4 Electronic Structure of Atoms (Electron Configurations)",
+      "quote": "For transition metals, the last s orbital loses an electron before the d orbitals.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/6-4-electronic-structure-of-atoms-electron-configurations",
+      "evidenceId": "3e6b5e01ca79068ed30f",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §6.4 Electronic Structure of Atoms (Electron Configurations)",
+      "quote": "For transition metals, the last s orbital loses an electron before the d orbitals.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/6-4-electronic-structure-of-atoms-electron-configurations",
+      "evidenceId": "3e6b5e01ca79068ed30f",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §6.4 Electronic Structure of Atoms (Electron Configurations)",
+      "quote": "For transition metals, the last s orbital loses an electron before the d orbitals.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/6-4-electronic-structure-of-atoms-electron-configurations",
+      "evidenceId": "3e6b5e01ca79068ed30f",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Independent electron-count and complete-option checks; reviewed explicit Mn/Fe2+ source examples and Cr/Cu exceptions; removed oversimplified exchange-energy-only rationale and clarified notation order; primary source mappings.",
+    "contentHash": "2fdcbee6c7168eaf5542595fed7589d046b9b8fde24af32549237fa7d316dc24"
+  }
+}

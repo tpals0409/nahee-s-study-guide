@@ -1,0 +1,21 @@
+{
+  "id": "7f5de140facb82167888",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "15.4 Power in an AC Circuit",
+  "url": "https://openstax.org/books/university-physics-volume-2/pages/15-4-power-in-an-ac-circuit",
+  "excerpt": "which designates that the power produced by the generator is dissipated in the resistor.",
+  "sourceHash": "d7b8c2bc43e55d4f37add128c72df41864e9d79b7d16de64dc0f654230049d6c",
+  "cacheSourceId": "76bc33297b3f990fdde9",
+  "retrievedAt": "2026-11-06T22:24:28.071137+00:00",
+  "reviewedMappings": {
+    "2019-3-06:0": "Equal resistor power at fixed source voltage and R requires equal impedance magnitudes; a has 2 omega L and b has omega L-1/(omega C). Only positive-frequency solution omega²LC=1/3.",
+    "2019-3-06:1": "Independent substitution of option 1: omega²LC=1/3, so |Xb|/(omega L)=2; compare |Xa|/(omega L)=2. Equality holds only for option 1.",
+    "2019-3-06:2": "Independent substitution of option 2: omega²LC=1/2, so |Xb|/(omega L)=1; compare |Xa|/(omega L)=2. Equality holds only for option 1.",
+    "2019-3-06:3": "Independent substitution of option 3: omega²LC=1, so |Xb|/(omega L)=0; compare |Xa|/(omega L)=2. Equality holds only for option 1.",
+    "2019-3-06:4": "Independent substitution of option 4: omega²LC=4/3, so |Xb|/(omega L)=1/4; compare |Xa|/(omega L)=2. Equality holds only for option 1.",
+    "2019-3-06:5": "Independent substitution of option 5: omega²LC=4, so |Xb|/(omega L)=3/4; compare |Xa|/(omega L)=2. Equality holds only for option 1."
+  },
+  "retrievalMethod": "Direct web review of equations 15.13–15.14, lines 65–96: rms conversion and P=Vrms²R/Z²=Irms²R. Original circuit image app/public/images/2019-3-06.webp inspected: a selects second L, b selects C. Independent reactance algebra applied.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

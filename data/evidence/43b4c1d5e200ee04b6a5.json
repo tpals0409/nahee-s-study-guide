@@ -1,0 +1,20 @@
+{
+  "id": "43b4c1d5e200ee04b6a5",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Organic Chemistry §1.9 sp Hybrid Orbitals and the Structure of Acetylene",
+  "url": "https://openstax.org/books/organic-chemistry/pages/1-9-sp-hybrid-orbitals-and-the-structure-of-acetylene",
+  "excerpt": "Two sp hybrid orbitals result, and two p orbitals remain unchanged.",
+  "sourceHash": "c9654bcc532849b0c1a8e3c36a8efc6c210b5225b6b5536e2db655970ba2d353",
+  "cacheSourceId": "2a7c6e3eb5fe02caaef3",
+  "retrievedAt": "2026-11-06T23:13:17.228160+00:00",
+  "reviewedMappings": {
+    "2020-3-14:0": "DBE=(10-8)/2=1; independent enumeration: cyclobutane,methylcyclopropane and but1ene,but2ene,2methylpropene. No sp carbons in standard model.",
+    "2020-3-14:1": "ㄱ true: two cyclic skeletons. ㄴ false: three alkenes. ㄷ false: no triple/cumulated double bonds.",
+    "2020-3-14:3": "ㄱ true, ㄷ false since sp bonding absent in all five ordinary structures.",
+    "2020-3-14:4": "ㄴ false (three alkenes), ㄷ false (no sp); true ㄱ omitted.",
+    "2020-3-14:5": "Only ㄱ true; adding ㄴ and ㄷ invalid."
+  },
+  "retrievalMethod": "Direct web retrieval; reviewed sp sigma/two-pi construction lines24–29 and sp3/sp2/sp comparison table32–43. Applied to independently enumerated ordinary C4H8 graphs; no triple or cumulated double bonds possible.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

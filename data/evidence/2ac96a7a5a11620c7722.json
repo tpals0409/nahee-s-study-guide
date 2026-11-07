@@ -1,0 +1,21 @@
+{
+  "id": "2ac96a7a5a11620c7722",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume 3, 6.2 Photoelectric Effect",
+  "url": "https://openstax.org/books/university-physics-volume-3/pages/6-2-photoelectric-effect",
+  "excerpt": "the largest kinetic energy of photoelectrons can be directly measured by measuring the stopping potential",
+  "sourceHash": "e075d2ca1d7ed2225bc6d580ce7bdad23abf1e2650187a0acd8b5dc360ad6d67",
+  "cacheSourceId": "1aac200d0442027fcfb7",
+  "retrievedAt": "2026-11-07T06:09:54.057693+00:00",
+  "reviewedMappings": {
+    "2008-3-10:0": "Kmax=eVs plus photoelectric equation φ=hc/λ−Kmax from example6.6. Original HWP equations give λ0,V0 and 2λ0/3,2V0. Algebra gives photon energy2eV0 and work functioneV0; each distractor fails simultaneous equations.",
+    "2008-3-10:1": "Kmax=eVs plus photoelectric equation φ=hc/λ−Kmax from example6.6. Original HWP equations give λ0,V0 and 2λ0/3,2V0. Algebra gives photon energy2eV0 and work functioneV0; each distractor fails simultaneous equations.",
+    "2008-3-10:2": "Kmax=eVs plus photoelectric equation φ=hc/λ−Kmax from example6.6. Original HWP equations give λ0,V0 and 2λ0/3,2V0. Algebra gives photon energy2eV0 and work functioneV0; each distractor fails simultaneous equations.",
+    "2008-3-10:3": "Kmax=eVs plus photoelectric equation φ=hc/λ−Kmax from example6.6. Original HWP equations give λ0,V0 and 2λ0/3,2V0. Algebra gives photon energy2eV0 and work functioneV0; each distractor fails simultaneous equations.",
+    "2008-3-10:4": "Kmax=eVs plus photoelectric equation φ=hc/λ−Kmax from example6.6. Original HWP equations give λ0,V0 and 2λ0/3,2V0. Algebra gives photon energy2eV0 and work functioneV0; each distractor fails simultaneous equations.",
+    "2008-3-10:5": "Kmax=eVs plus photoelectric equation φ=hc/λ−Kmax from example6.6. Original HWP equations give λ0,V0 and 2λ0/3,2V0. Algebra gives photon energy2eV0 and work functioneV0; each distractor fails simultaneous equations."
+  },
+  "retrievalMethod": "web direct text",
+  "sourceHashScope": "Short reviewed excerpt only"
+}

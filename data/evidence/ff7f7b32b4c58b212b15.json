@@ -1,0 +1,16 @@
+{
+  "id": "ff7f7b32b4c58b212b15",
+  "kind": "science",
+  "source": "Geoscience Australia",
+  "ref": "Karst",
+  "url": "https://www.ga.gov.au/scientific-topics/water/groundwater/groundwater-in-australia/karst",
+  "excerpt": "Karst is a distinctive topography in which the landscape is largely shaped by the dissolution of carbonate bedrocks",
+  "sourceHash": "717387b01e9ccab4114a59a330c6b7833d2b4d8c1f206f03c64786a83414e1b7",
+  "cacheSourceId": "1cb5dec6f80c396cfd70",
+  "retrievedAt": "2026-11-06T18:18:03.511385+00:00",
+  "reviewedMappings": {
+    "2013-3-32:0": "ㄱㄴ: 카르스트의 탄산염암 용해형성 확인. 석회동굴과 카르스트의 용해기원에 적용."
+  },
+  "retrievalMethod": "web.search_query indexed official source excerpt",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

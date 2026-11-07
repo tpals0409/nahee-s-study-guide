@@ -1,0 +1,21 @@
+{
+  "id": "428b6209ee4fd589182b",
+  "kind": "science",
+  "source": "The Open University",
+  "ref": "3.2 Silicate mineral structures",
+  "url": "https://www.open.edu/openlearn/science-maths-technology/an-introduction-minerals-and-rocks-under-the-microscope/content-section-3.2",
+  "excerpt": "a silicon atom bonded to four oxygen atoms at the corners of a tetrahedron",
+  "sourceHash": "b45b08999fec20506d8c416fb829b439c8b7931ab499792116a6e197baaaed77",
+  "cacheSourceId": "7fe8f657cb8f4b7d8bc5",
+  "retrievedAt": "2026-11-06T20:40:08.838541+00:00",
+  "reviewedMappings": {
+    "2016-3-32:0": "ㄷ은 참: Si와 O 네 개의 사면체가 기본 구조 단위. 지문은 일반적인 조암 규산염광물의 기본 단위를 묻는다. ㄷ이 빠진 조합은 정답이 될 수 없다.",
+    "2016-3-32:1": "ㄷ은 참: Si와 O 네 개의 사면체가 기본 구조 단위. 지문은 일반적인 조암 규산염광물의 기본 단위를 묻는다. ㄷ이 빠진 조합은 정답이 될 수 없다.",
+    "2016-3-32:2": "ㄷ은 참: Si와 O 네 개의 사면체가 기본 구조 단위. 지문은 일반적인 조암 규산염광물의 기본 단위를 묻는다. ㄷ이 빠진 조합은 정답이 될 수 없다.",
+    "2016-3-32:3": "ㄷ은 참: Si와 O 네 개의 사면체가 기본 구조 단위. 지문은 일반적인 조암 규산염광물의 기본 단위를 묻는다. ㄷ이 빠진 조합은 정답이 될 수 없다.",
+    "2016-3-32:4": "ㄷ은 참: Si와 O 네 개의 사면체가 기본 구조 단위. 지문은 일반적인 조암 규산염광물의 기본 단위를 묻는다. ㄷ이 빠진 조합은 정답이 될 수 없다.",
+    "2016-3-32:5": "ㄷ은 참: Si와 O 네 개의 사면체가 기본 구조 단위. 지문은 일반적인 조암 규산염광물의 기본 단위를 묻는다. ㄷ이 빠진 조합은 정답이 될 수 없다."
+  },
+  "retrievalMethod": "Direct web open; relevant mineral abundance, carbonate structural-type table, or silicate structure text reviewed.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

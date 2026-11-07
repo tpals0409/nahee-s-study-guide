@@ -1,0 +1,20 @@
+{
+  "id": "30fa40a3f88a42d9b13d",
+  "kind": "science",
+  "source": "National Cancer Institute",
+  "ref": "NCI Drug Dictionary — cisplatin",
+  "url": "https://www.cancer.gov/publications/dictionaries/cancer-drug/def/cisplatin",
+  "excerpt": "An alkylating-like inorganic platinum agent (cis-diamminedichloroplatinum) with antineoplastic activity.",
+  "sourceHash": "d1126a1278d9c24bc809c4782b26c0be5f61105243b044fe40a87e15797000b4",
+  "cacheSourceId": "bedd67b797bbe4746d12",
+  "retrievedAt": "2026-11-06T19:36:28.641396+00:00",
+  "reviewedMappings": {
+    "2015-3-19:0": "NCI identifies cis-diamminedichloroplatinum as an antineoplastic agent, supporting statement ㄱ.",
+    "2015-3-19:1": "NCI identifies cis-diamminedichloroplatinum as an antineoplastic agent, supporting statement ㄱ.",
+    "2015-3-19:3": "NCI identifies cis-diamminedichloroplatinum as an antineoplastic agent, supporting statement ㄱ.",
+    "2015-3-19:4": "NCI identifies cis-diamminedichloroplatinum as an antineoplastic agent, supporting statement ㄱ.",
+    "2015-3-19:5": "NCI identifies cis-diamminedichloroplatinum as an antineoplastic agent, supporting statement ㄱ."
+  },
+  "retrievalMethod": "Direct web page opened and relevant text read; short excerpt transcribed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

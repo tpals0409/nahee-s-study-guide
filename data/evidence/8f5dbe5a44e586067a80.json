@@ -1,0 +1,19 @@
+{
+  "id": "8f5dbe5a44e586067a80",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e §12.2 Characteristics and Traits",
+  "url": "https://openstax.org/books/biology-2e/pages/12-2-characteristics-and-traits",
+  "excerpt": "These pink flowers of a heterozygote snapdragon result from incomplete dominance.",
+  "sourceHash": "31b7b080b9c52df393757e5aaa2b0b19b241ef2c1f3b763ce835c647c6927fb7",
+  "cacheSourceId": "92c197df65d304222d82",
+  "retrievedAt": "2026-11-07T03:29:06.955765+00:00",
+  "reviewedMappings": {
+    "2025-3-30:0": "Incomplete Dominance 절의 중간 표현형과 분홍색 이형접합 예를 확인. 문제에서 직접 제시한 RR 빨강, rr 흰색, Rr 분홍 대응을 적용하여 분홍 빈도를 Rr 빈도와 연결한다.",
+    "2025-3-30:1": "Incomplete Dominance 절의 중간 표현형과 분홍색 이형접합 예를 확인. 문제에서 직접 제시한 RR 빨강, rr 흰색, Rr 분홍 대응을 적용하여 분홍 빈도를 Rr 빈도와 연결한다.",
+    "2025-3-30:3": "Incomplete Dominance 절의 중간 표현형과 분홍색 이형접합 예를 확인. 문제에서 직접 제시한 RR 빨강, rr 흰색, Rr 분홍 대응을 적용하여 분홍 빈도를 Rr 빈도와 연결한다.",
+    "2025-3-30:5": "Incomplete Dominance 절의 중간 표현형과 분홍색 이형접합 예를 확인. 문제에서 직접 제시한 RR 빨강, rr 흰색, Rr 분홍 대응을 적용하여 분홍 빈도를 Rr 빈도와 연결한다."
+  },
+  "retrievalMethod": "Direct textbook section read",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

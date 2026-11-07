@@ -1,0 +1,41 @@
+{
+  "summary": "정답은 ③ ㄱ, ㄷ입니다. 생태적 지위에는 생물적 상호작용과 비생물적 환경 조건이 관련됩니다. 같은 제한 자원에 대한 경쟁은 경쟁배타로 이어질 수 있으므로, 지위가 비슷할수록 공존하기 쉽다는 ㄴ은 틀립니다.",
+  "choices": [
+    "ㄱ은 옳지만 ㄷ을 빠뜨렸습니다. 생태적 지위에는 생물적·비생물적 요인이 모두 관련되며, 같은 제한 자원에 대한 경쟁은 경쟁배타의 배경이 됩니다.",
+    "ㄱ은 옳지만 ㄴ은 틀립니다. 같은 자원을 이용하는 정도가 겹치면 경쟁이 발생할 수 있어, 지위가 비슷하다는 이유로 공존이 쉬워지는 것은 아닙니다.",
+    "ㄱ과 ㄷ이 옳습니다. 생태적 지위는 자원 이용과 환경 조건, 다른 종과의 관계를 포함합니다. 경쟁배타 원리는 동일한 지위에서 같은 제한 자원을 두고 경쟁하는 종들이 안정적으로 공존하기 어렵다는 내용입니다.",
+    "ㄴ은 틀립니다. 자원 이용이 겹치는 것은 경쟁의 원인이 될 수 있습니다. 옳은 ㄱ과 ㄷ도 빠져 있습니다.",
+    "ㄷ은 옳지만 ㄴ은 틀리고 ㄱ이 빠져 있습니다. 자원을 이용하는 장소나 시간 등을 나누는 지위 분화는 직접 경쟁을 줄여 공존에 도움이 될 수 있습니다."
+  ],
+  "lawNote": "같은 자원을 일부 공유한다고 반드시 한 종이 배제되는 것은 아닙니다. ㄷ은 경쟁배타가 일어나는 경쟁의 배경을 설명한 것으로 이해해야 하며, 자원 분할 등으로 공존할 수도 있습니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "OpenStax Biology 2e §45.6 Community Ecology",
+      "quote": "The competitive exclusion principle states that two species cannot occupy the same niche in a habitat.",
+      "url": "https://openstax.org/books/biology-2e/pages/45-6-community-ecology",
+      "evidenceId": "6558ce505ad1b44553fe",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "Cambridge University Press",
+      "ref": "Cambridge University Press biology excerpt: Environment and Niche definitions",
+      "quote": "all of the environmental conditions and resources needed for an organism to survive, reproduce and maintain a viable population.",
+      "url": "https://assets.cambridge.org/97805216/92953/excerpt/9780521692953_excerpt.pdf",
+      "evidenceId": "f55660f8c4bc4bf38c16",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "원본2013-3-29.webp 진술및조합확인. OpenStax45.6 경쟁배타/자원분할과 Cambridge출판사PDF검색원문 정의대조. 정답③일치. 같은자원공유만으로필연배타라는 과잉일반화 제거.",
+    "contentHash": "6fab1e3d406b08a12c13b6cdf7373a85feb8a9e6913d8fa7e35eba57042d700f"
+  }
+}

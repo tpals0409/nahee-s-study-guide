@@ -1,0 +1,21 @@
+{
+  "id": "9b7a5b3b4d6fff709d07",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "16.6 Standing Waves and Resonance",
+  "url": "https://openstax.org/books/university-physics-volume-1/pages/16-6-standing-waves-and-resonance",
+  "excerpt": "The string has a node on each end and a constant linear density.",
+  "sourceHash": "46acf107dc6200662c0d5c7f7bcfc26f928c0d932e4f642da58e74702e4bfe28",
+  "cacheSourceId": "29e423c71e914e914f11",
+  "retrievedAt": "2026-11-06T20:53:26.314663+00:00",
+  "reviewedMappings": {
+    "2017-3-01:0": "본문 75–93행의 v=√(T/μ), λ=2L/n, f=nv/(2L)을 확인. 같은 f,L,μ에서 T₂/T₁=(n₁/n₂)². 이를 부력 평형식과 결합하여 ②를 도출하고 나머지 식의 비율·부호·계수를 배제한다.",
+    "2017-3-01:1": "본문 75–93행의 v=√(T/μ), λ=2L/n, f=nv/(2L)을 확인. 같은 f,L,μ에서 T₂/T₁=(n₁/n₂)². 이를 부력 평형식과 결합하여 ②를 도출하고 나머지 식의 비율·부호·계수를 배제한다.",
+    "2017-3-01:2": "본문 75–93행의 v=√(T/μ), λ=2L/n, f=nv/(2L)을 확인. 같은 f,L,μ에서 T₂/T₁=(n₁/n₂)². 이를 부력 평형식과 결합하여 ②를 도출하고 나머지 식의 비율·부호·계수를 배제한다.",
+    "2017-3-01:3": "본문 75–93행의 v=√(T/μ), λ=2L/n, f=nv/(2L)을 확인. 같은 f,L,μ에서 T₂/T₁=(n₁/n₂)². 이를 부력 평형식과 결합하여 ②를 도출하고 나머지 식의 비율·부호·계수를 배제한다.",
+    "2017-3-01:4": "본문 75–93행의 v=√(T/μ), λ=2L/n, f=nv/(2L)을 확인. 같은 f,L,μ에서 T₂/T₁=(n₁/n₂)². 이를 부력 평형식과 결합하여 ②를 도출하고 나머지 식의 비율·부호·계수를 배제한다.",
+    "2017-3-01:5": "본문 75–93행의 v=√(T/μ), λ=2L/n, f=nv/(2L)을 확인. 같은 f,L,μ에서 T₂/T₁=(n₁/n₂)². 이를 부력 평형식과 결합하여 ②를 도출하고 나머지 식의 비율·부호·계수를 배제한다."
+  },
+  "retrievalMethod": "Direct web page opened and relevant equations and paragraphs reviewed.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

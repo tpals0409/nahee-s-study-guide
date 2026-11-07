@@ -1,0 +1,16 @@
+{
+  "id": "82094dd983d5357aee2e",
+  "kind": "science",
+  "source": "US National Library of Medicine — MeSH",
+  "ref": "Photophosphorylation",
+  "url": "https://meshb-prev.nlm.nih.gov/record/ui?ui=D010785",
+  "excerpt": "The use of light to convert ADP to ATP without the concomitant reduction of dioxygen to water",
+  "sourceHash": "2f55074d1d4179b2597eb96fe81aec98b07efcd3d265b76fb3d39d64cfb212e0",
+  "cacheSourceId": "3606dbffac6105cce71c",
+  "retrievedAt": "2026-11-06T18:52:53.758304+00:00",
+  "reviewedMappings": {
+    "2014-3-22:5": "공식 정의는 빛에 의한 ADP→ATP를 미토콘드리아 산화적 인산화의 O2환원과 구분한다. 광합성 생물 전체가 호흡을 하지 않는다고 주장하지 않는다."
+  },
+  "retrievalMethod": "web.search_query indexed official definition",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

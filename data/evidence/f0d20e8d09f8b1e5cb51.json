@@ -1,0 +1,20 @@
+{
+  "id": "f0d20e8d09f8b1e5cb51",
+  "kind": "science",
+  "source": "Stephen A. Nelson / Tulane University",
+  "ref": "Tectosilicates, Carbonates, Oxides, & Accessory Minerals",
+  "url": "https://www2.tulane.edu/~sanelson/eens212/tectosilictes&others.htm",
+  "excerpt": "There are three structural types of carbonates:",
+  "sourceHash": "6c536e7208aafc56a061568bfc09aaedebe98fd417d89f133d77d210a5585b87",
+  "cacheSourceId": "9b31ac3007ac168dcb8f",
+  "retrievedAt": "2026-11-06T20:40:08.838333+00:00",
+  "reviewedMappings": {
+    "2016-3-32:0": "ㄴ은 참: 본문 구조형 표에서 Calcite CaCO3 및 Magnesite MgCO3가 동일 Calcite Group에 속한다. 서로 다른 화학 조성과 같은 구조형이라는 유질동상을 확인한다. 완전 고용체라는 의미로 확장하지 않는다.",
+    "2016-3-32:2": "ㄴ은 참: 본문 구조형 표에서 Calcite CaCO3 및 Magnesite MgCO3가 동일 Calcite Group에 속한다. 서로 다른 화학 조성과 같은 구조형이라는 유질동상을 확인한다. 완전 고용체라는 의미로 확장하지 않는다.",
+    "2016-3-32:3": "ㄴ은 참: 본문 구조형 표에서 Calcite CaCO3 및 Magnesite MgCO3가 동일 Calcite Group에 속한다. 서로 다른 화학 조성과 같은 구조형이라는 유질동상을 확인한다. 완전 고용체라는 의미로 확장하지 않는다.",
+    "2016-3-32:4": "ㄴ은 참: 본문 구조형 표에서 Calcite CaCO3 및 Magnesite MgCO3가 동일 Calcite Group에 속한다. 서로 다른 화학 조성과 같은 구조형이라는 유질동상을 확인한다. 완전 고용체라는 의미로 확장하지 않는다.",
+    "2016-3-32:5": "ㄴ은 참: 본문 구조형 표에서 Calcite CaCO3 및 Magnesite MgCO3가 동일 Calcite Group에 속한다. 서로 다른 화학 조성과 같은 구조형이라는 유질동상을 확인한다. 완전 고용체라는 의미로 확장하지 않는다."
+  },
+  "retrievalMethod": "Direct web open; relevant mineral abundance, carbonate structural-type table, or silicate structure text reviewed.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "f078e0aff29c3230ea67",
+  "kind": "science",
+  "source": "대한지질학회",
+  "ref": "경상분지 남부 고성층의 분포, 퇴적시기와 구조진화사",
+  "url": "https://www.jgsk.or.kr/_PR/view/?aidx=15617&bidx=1196",
+  "excerpt": "화산물질을 거의 포함하지 않는 신동층군, 화산물질을 일부 포함하는 하양층군, 화산물질을 다량 포함하는 유천층군",
+  "sourceHash": "d6f3d2cd93463385eae287086d9372647e456580cc87d1f668b399cc6963941a",
+  "cacheSourceId": "c563f14101b5c6d06b06",
+  "retrievedAt": "2026-11-06T22:52:21.124797+00:00",
+  "reviewedMappings": {
+    "2019-3-34:0": "층서에 기록된 화산물질 차이를 통해 전 기간 일정하다는 ㄷ을 부정한다.",
+    "2019-3-34:2": "ㄷ의 오류를 확인하여 ㄴ 단독 선택을 지지한다.",
+    "2019-3-34:3": "층군에 따라 화산물질의 양이 다른 점으로 ㄷ을 배제한다.",
+    "2019-3-34:4": "신동·하양·유천층군의 화산물질 함량 차이를 직접 대조했다.",
+    "2019-3-34:5": "ㄷ이 거짓인 전체 조합을 배제한다."
+  },
+  "retrievalMethod": "Direct web open; 2018 paper lines 65–67 and 77–79 on stratigraphic volcanic-material contrasts and Goseong tuff-bearing lithologies. Used as qualitative evidence of temporal variation, not a quantitative eruption-rate estimate.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

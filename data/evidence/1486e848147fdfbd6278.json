@@ -1,0 +1,21 @@
+{
+  "id": "1486e848147fdfbd6278",
+  "kind": "science",
+  "source": "Western Kentucky University",
+  "ref": "Magnitudes and distance — Absolute magnitude / Distance modulus",
+  "url": "https://astro.wku.edu/labs/m100/mags.html",
+  "excerpt": "m - M = 5 log_{10} [ d / (10 pc) ].",
+  "sourceHash": "7256ed0e200d64bc534d8d4c9df394da0474d5a532b8efc8a6b306aae8020ab5",
+  "cacheSourceId": "397b1816a9619a58afe1",
+  "retrievedAt": "2026-11-06T16:53:18.546901+00:00",
+  "reviewedMappings": {
+    "2011-3-35:0": "절대등급의 10pc 정의와 거리지수 식 본문 확인. m=M=2이면 로그항0, d=10pc. 같은 파장대에서 성간 소광 무시.",
+    "2011-3-35:1": "d=1pc 대입: m−M=−5, M=2이면 m=−3으로 불일치.",
+    "2011-3-35:2": "d=10pc 대입: m−M=0으로 일치.",
+    "2011-3-35:3": "d=100pc 대입: m−M=5, m=7로 불일치.",
+    "2011-3-35:4": "1kpc=1000pc 대입: m−M=10, m=12로 불일치.",
+    "2011-3-35:5": "10kpc=10000pc 대입: m−M=15, m=17로 불일치."
+  },
+  "retrievalMethod": "web.open 본문 lines 93–174 직접 대조; 저장은 식 발췌만",
+  "sourceHashScope": "Selected excerpt only; not full page"
+}

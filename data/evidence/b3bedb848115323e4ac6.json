@@ -1,0 +1,16 @@
+{
+  "id": "b3bedb848115323e4ac6",
+  "kind": "science",
+  "source": "OpenStax Microbiology",
+  "ref": "8.6 Photosynthesis",
+  "url": "https://openstax.org/books/microbiology/pages/8-6-photosynthesis",
+  "excerpt": "The light-dependent reactions produce ATP and either NADPH or NADH",
+  "sourceHash": "5d352d65641e35c19f7cbb44ca6c4bacbf6ec8b4444e4ba4dc3e5a208216afc5",
+  "cacheSourceId": "b174b07b93e3d477ef3a",
+  "retrievedAt": "2026-11-06T18:52:53.757708+00:00",
+  "reviewedMappings": {
+    "2014-3-22:3": "34–37 및74–77행 명반응 생성물과 캘빈회로 소비 확인. 47행 광인산화를 산화적 인산화 예라고 부른 문구는 ⑤ 근거로 사용하지 않음."
+  },
+  "retrievalMethod": "web.open",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

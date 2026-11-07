@@ -1,0 +1,17 @@
+{
+  "id": "8e1cec3d1c810bbd375d",
+  "kind": "science",
+  "source": "USGS",
+  "ref": "East Africa volcanoes",
+  "url": "https://pubs.usgs.gov/gip/dynamic/East_Africa.html",
+  "excerpt": "the two parts of the African Plate (the Nubian and the Somalian) splitting along the East African Rift Zone.",
+  "sourceHash": "e998419f9e81b96789c0ece67ba91a5b51f1eb0114f8f764246bd0a53430b890",
+  "cacheSourceId": "1abb49b938e305ee2a33",
+  "retrievedAt": "2026-11-07T03:32:47.807207+00:00",
+  "reviewedMappings": {
+    "2025-3-34:0": "동아프리카 열곡대를 따라 누비아·소말리아 부분이 벌어지는 그림 설명으로 발산형 경계 판단을 직접 지지.",
+    "2025-3-34:4": "동아프리카 열곡대를 따라 누비아·소말리아 부분이 벌어지는 그림 설명으로 발산형 경계 판단을 직접 지지."
+  },
+  "retrievalMethod": "Search-indexed USGS source text read; main Understanding page direct request returned 403",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

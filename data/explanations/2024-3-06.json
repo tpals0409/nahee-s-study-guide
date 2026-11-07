@@ -1,0 +1,85 @@
+{
+  "id": "2024-3-06",
+  "summary": "정답은 ⑤, I₁=0.6 A, I₂=1.4 A입니다. 아래 중앙 접점을 0 V, 위쪽 왼쪽·오른쪽 접점 전위를 각각 VA, VB로 두면 I₁=(2−VA)/2, I₂=(4−VB)/2입니다. 접점 전류 보존에서 4VA−VB=2, −VA+4VB=4를 얻어 VA=0.8 V, VB=1.2 V로 계산됩니다.",
+  "choices": [
+    "I₁ = 0.4A, I₂ = 1.2A: 오답입니다. 계산값은 I₁ = 0.6 A, I₂ = 1.4 A이므로 두 값 모두 틀립니다. 이 값을 대입하면 V_A = 2 − 2(0.4) = 1.2 V, V_B = 4 − 2(1.2) = 1.6 V가 됩니다. 이때 마디 A로 나가는 전류는 1.2/1 + (1.2 − 1.6)/2 = 1.0 A로, 들어오는 I₁ = 0.4 A와 맞지 않습니다.",
+    "I₁ = 0.4A, I₂ = 1.4A: 오답입니다. I₂는 맞지만 I₁이 틀립니다. I₁ = 0.4 A이면 V_A = 1.2 V가 되어 마디 A에서 키르히호프 전류 법칙이 성립하지 않습니다.",
+    "I₁=0.4 A, I₂=1.6 A는 옳지 않습니다. 이 값을 대입하면 VA=1.2 V, VB=0.8 V입니다. 왼쪽 접점에서 저항으로 나가는 전류는 1.2+(1.2−0.8)/2=1.4 A인데, 들어오는 전류는 0.4 A여서 전류 보존을 만족하지 않습니다.",
+    "I₁ = 0.6A, I₂ = 1.2A: 오답입니다. I₁은 맞지만 I₂ = 1.2 A이면 V_B = 1.6 V가 됩니다. 이때 마디 B로 나가는 전류는 1.6 + (1.6 − 0.8)/2 = 2.0 A로, 들어오는 1.2 A와 맞지 않습니다.",
+    "I₁ = 0.6A, I₂ = 1.4A: 정답입니다. V_A = 2 − 2(0.6) = 0.8 V, V_B = 4 − 2(1.4) = 1.2 V입니다. 마디 A에서 0.6 = 0.8/1 − 0.2이고, 마디 B에서 1.4 = 1.2/1 + 0.2로 양쪽 모두 성립합니다. I₃ = (1.2 − 0.8)/2 = 0.2 A이며 방향은 B→A로 그림의 화살표와 일치합니다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2, 10.3 Kirchhoff’s Rules",
+      "quote": "The sum of all currents entering a junction must equal the sum of all currents leaving the junction",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/10-3-kirchhoffs-rules",
+      "evidenceId": "f7cf67b4f0c1680d5e23",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2, 10.3 Kirchhoff’s Rules",
+      "quote": "The sum of all currents entering a junction must equal the sum of all currents leaving the junction",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/10-3-kirchhoffs-rules",
+      "evidenceId": "f7cf67b4f0c1680d5e23",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2, 10.3 Kirchhoff’s Rules",
+      "quote": "The sum of all currents entering a junction must equal the sum of all currents leaving the junction",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/10-3-kirchhoffs-rules",
+      "evidenceId": "f7cf67b4f0c1680d5e23",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2, 10.3 Kirchhoff’s Rules",
+      "quote": "The sum of all currents entering a junction must equal the sum of all currents leaving the junction",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/10-3-kirchhoffs-rules",
+      "evidenceId": "f7cf67b4f0c1680d5e23",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2, 10.3 Kirchhoff’s Rules",
+      "quote": "The sum of all currents entering a junction must equal the sum of all currents leaving the junction",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/10-3-kirchhoffs-rules",
+      "evidenceId": "f7cf67b4f0c1680d5e23",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2, 10.3 Kirchhoff’s Rules",
+      "quote": "The sum of all currents entering a junction must equal the sum of all currents leaving the junction",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/10-3-kirchhoffs-rules",
+      "evidenceId": "f7cf67b4f0c1680d5e23",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Original circuit topology and polarity inspected; exact KCL candidate checks and independent power balance; direct OpenStax review",
+    "contentHash": "f6c0dcb00f83e75d2e3c49bb7060a9288ba4abd38f608f5a396a9fc5720a9969"
+  }
+}

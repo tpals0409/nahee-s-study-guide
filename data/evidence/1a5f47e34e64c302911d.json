@@ -1,0 +1,16 @@
+{
+  "id": "1a5f47e34e64c302911d",
+  "kind": "science",
+  "source": "University College London",
+  "ref": "Geophysics: Seismic wave velocities in the core",
+  "url": "https://www.ucl.ac.uk/~uccghlv/GEOL2014/Revised%20Course/Detailed%20Lecture%20Notes/LECTURE7.PDF",
+  "excerpt": "The P–wave velocity in the inner core is about 11.3 km/s.",
+  "sourceHash": "f35aad11cd90b1d24b46d91b5989c1e1086ec64591a66d0f4c41cd254cb634c0",
+  "cacheSourceId": "b63f7a965efc3150b8c6",
+  "retrievedAt": "2026-11-07T02:45:32.140673+00:00",
+  "reviewedMappings": {
+    "2024-3-31:5": "P speed rises across outer-to-inner core boundary. Removed draft inference that solidity alone establishes speed change irrespective of bulk modulus/density; no unnecessary numeric estimates retained."
+  },
+  "retrievalMethod": "Indexed university lecture section reviewed, including outer-core 10.3 km/s above fairly sharp inner-core boundary and inner-core 11.3 km/s.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

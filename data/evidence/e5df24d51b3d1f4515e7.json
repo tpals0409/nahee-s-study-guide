@@ -1,0 +1,16 @@
+{
+  "id": "e5df24d51b3d1f4515e7",
+  "kind": "science",
+  "source": "WMO",
+  "ref": "WMO — Tropical cyclone climatology",
+  "url": "https://public.wmo.int/resources/wmo-fact-sheets/tropical-cyclone-climatology",
+  "excerpt": "72% of these tropical storms form in the Northern Hemisphere.",
+  "sourceHash": "84e9b25461706d79e1ae94de819003b15936b50fe96739d915f89903163ffed7",
+  "cacheSourceId": "4cb23f91b98ceac946d9",
+  "retrievedAt": "2026-11-06T17:38:12.317051+00:00",
+  "reviewedMappings": {
+    "2012-3-35:0": "네 진술의 공통 검토: 북서태평양 최다/북동태평양도 발생, 주요 저위도 분포와 적도 예외, 북반구 우세, 따뜻한 해양·습윤 하층 및 충분조건 아님을 각 출처의 해당 절로 대조."
+  },
+  "retrievalMethod": "web.open; geographical distribution section reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

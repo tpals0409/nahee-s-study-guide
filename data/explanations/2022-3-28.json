@@ -1,0 +1,140 @@
+{
+  "id": "2022-3-28",
+  "summary": "정답은 ③, ㄱ·ㄴ입니다. 노던블롯은 RNA를 전기영동으로 분리하고 막으로 옮긴 뒤 탐침으로 검출합니다. 밴드 위치로 RNA 길이를 비교하고, 적절히 보정한 신호로 RNA 양의 증감을 비교할 수 있습니다. 단백질 구조는 확인할 수 없습니다.",
+  "choices": [
+    "① 오답입니다. ㄱ은 옳습니다. 밴드 위치를 RNA 크기 표지와 비교해 길이를 추정합니다. 다만 보정한 신호로 RNA 양도 비교할 수 있으므로 ㄴ이 빠져 있습니다.",
+    "② 오답입니다. ㄷ은 틀립니다. 노던블롯의 검출 대상은 RNA이므로 그 결과만으로 단백질 구조를 확인할 수 없습니다. 옳은 ㄱ과 ㄴ도 빠져 있습니다.",
+    "③ 정답입니다. ㄱ은 밴드 위치에 따른 RNA 길이 정보, ㄴ은 신호 세기에 따른 RNA 양 비교에 해당합니다. 양을 비교할 때에는 시료 로딩량 등을 보정하고 적합한 검출 범위에서 평가해야 합니다.",
+    "④ 오답입니다. ㄴ은 옳지만, 단백질 구조를 확인한다는 ㄷ은 틀립니다. RNA 길이를 비교할 수 있다는 ㄱ도 포함해야 합니다.",
+    "⑤ 오답입니다. ㄱ과 ㄴ은 옳지만 ㄷ이 틀립니다. RNA의 길이와 양을 검출한 결과는 단백질 구조의 직접 측정 결과가 아닙니다."
+  ],
+  "lawNote": "로딩 대조군은 실험 조건에서 발현이 안정적인지 확인해야 합니다. GAPDH나 actin이라는 이름만으로 항상 적절한 대조군이 되는 것은 아닙니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "Thermo Fisher Scientific / Ambion",
+      "ref": "The Basics: Northern Analysis",
+      "quote": "RNA samples are first separated by size via electrophoresis in an agarose gel under denaturing conditions.",
+      "url": "https://www.thermofisher.com/nz/en/home/references/ambion-tech-support/northern-analysis/general-articles/the-basics-northern-analysis.reg.us.html",
+      "evidenceId": "7945b890787664fad4d7",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "Thermo Fisher Scientific / Ambion",
+      "ref": "The Basics: Northern Analysis",
+      "quote": "RNA samples are first separated by size via electrophoresis in an agarose gel under denaturing conditions.",
+      "url": "https://www.thermofisher.com/nz/en/home/references/ambion-tech-support/northern-analysis/general-articles/the-basics-northern-analysis.reg.us.html",
+      "evidenceId": "7945b890787664fad4d7",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "Thermo Fisher Scientific / Ambion",
+      "ref": "The Basics: Northern Analysis",
+      "quote": "RNA samples are first separated by size via electrophoresis in an agarose gel under denaturing conditions.",
+      "url": "https://www.thermofisher.com/nz/en/home/references/ambion-tech-support/northern-analysis/general-articles/the-basics-northern-analysis.reg.us.html",
+      "evidenceId": "7945b890787664fad4d7",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "Thermo Fisher Scientific / Ambion",
+      "ref": "The Basics: Northern Analysis",
+      "quote": "RNA samples are first separated by size via electrophoresis in an agarose gel under denaturing conditions.",
+      "url": "https://www.thermofisher.com/nz/en/home/references/ambion-tech-support/northern-analysis/general-articles/the-basics-northern-analysis.reg.us.html",
+      "evidenceId": "7945b890787664fad4d7",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "Thermo Fisher Scientific / Ambion",
+      "ref": "The Basics: Northern Analysis",
+      "quote": "RNA samples are first separated by size via electrophoresis in an agarose gel under denaturing conditions.",
+      "url": "https://www.thermofisher.com/nz/en/home/references/ambion-tech-support/northern-analysis/general-articles/the-basics-northern-analysis.reg.us.html",
+      "evidenceId": "7945b890787664fad4d7",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "Thermo Fisher Scientific / Ambion",
+      "ref": "The Basics: Northern Analysis",
+      "quote": "RNA samples are first separated by size via electrophoresis in an agarose gel under denaturing conditions.",
+      "url": "https://www.thermofisher.com/nz/en/home/references/ambion-tech-support/northern-analysis/general-articles/the-basics-northern-analysis.reg.us.html",
+      "evidenceId": "7945b890787664fad4d7",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "Thermo Fisher Scientific / Ambion",
+      "ref": "Use of Internal and External Standards or Reference RNAs for Accurate Quantitation of RNA Levels",
+      "quote": "both choosing and authenticating this control are critical to successful relative quantitation.",
+      "url": "https://www.thermofisher.com/jp/ja/home/references/ambion-tech-support/northern-analysis/tech-notes/use-of-internal-and-external-standards-or-reference-rnas-for-accurate-quantitation-of-rna-levels.html",
+      "evidenceId": "b12d774d9fc91a3578cf",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "Thermo Fisher Scientific / Ambion",
+      "ref": "Use of Internal and External Standards or Reference RNAs for Accurate Quantitation of RNA Levels",
+      "quote": "both choosing and authenticating this control are critical to successful relative quantitation.",
+      "url": "https://www.thermofisher.com/jp/ja/home/references/ambion-tech-support/northern-analysis/tech-notes/use-of-internal-and-external-standards-or-reference-rnas-for-accurate-quantitation-of-rna-levels.html",
+      "evidenceId": "b12d774d9fc91a3578cf",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "Thermo Fisher Scientific / Ambion",
+      "ref": "Use of Internal and External Standards or Reference RNAs for Accurate Quantitation of RNA Levels",
+      "quote": "both choosing and authenticating this control are critical to successful relative quantitation.",
+      "url": "https://www.thermofisher.com/jp/ja/home/references/ambion-tech-support/northern-analysis/tech-notes/use-of-internal-and-external-standards-or-reference-rnas-for-accurate-quantitation-of-rna-levels.html",
+      "evidenceId": "b12d774d9fc91a3578cf",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "Thermo Fisher Scientific / Ambion",
+      "ref": "Use of Internal and External Standards or Reference RNAs for Accurate Quantitation of RNA Levels",
+      "quote": "both choosing and authenticating this control are critical to successful relative quantitation.",
+      "url": "https://www.thermofisher.com/jp/ja/home/references/ambion-tech-support/northern-analysis/tech-notes/use-of-internal-and-external-standards-or-reference-rnas-for-accurate-quantitation-of-rna-levels.html",
+      "evidenceId": "b12d774d9fc91a3578cf",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "Thermo Fisher Scientific / Ambion",
+      "ref": "Use of Internal and External Standards or Reference RNAs for Accurate Quantitation of RNA Levels",
+      "quote": "both choosing and authenticating this control are critical to successful relative quantitation.",
+      "url": "https://www.thermofisher.com/jp/ja/home/references/ambion-tech-support/northern-analysis/tech-notes/use-of-internal-and-external-standards-or-reference-rnas-for-accurate-quantitation-of-rna-levels.html",
+      "evidenceId": "b12d774d9fc91a3578cf",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Original image checked; manufacturer Northern analysis and normalization guides directly reviewed; removed incorrect log-length proportionality claim and qualified internal controls",
+    "contentHash": "b2290b767f97ef07d3126658fa7da33a5ba9ce3a9361e1c64bdac0288f40f1ac"
+  }
+}

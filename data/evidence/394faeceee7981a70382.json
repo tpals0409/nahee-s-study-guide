@@ -1,0 +1,18 @@
+{
+  "id": "394faeceee7981a70382",
+  "kind": "science",
+  "source": "Public Health Agency of Canada",
+  "ref": "Streptococcus pneumoniae: Infectious substances pathogen safety data sheet",
+  "url": "https://www.canada.ca/en/public-health/services/laboratory-biosafety-biosecurity/pathogen-safety-data-sheets-risk-assessment/streptococcus-pneumoniae.html",
+  "excerpt": "S. pneumoniae can be inactivated by moist heat",
+  "sourceHash": "b9d2b1252fdb5fc0fc88fa3aacad5f5f8f313f86d8e96d3b499ffd9a45a007f5",
+  "cacheSourceId": "a726ba5b467ffeebc33d",
+  "retrievedAt": "2026-11-07T05:52:33.508744+00:00",
+  "reviewedMappings": {
+    "2012-3-29:0": "ㅁ 전체 혼합물 가열로 살아 있는 수용균도 제거된다는 시험 모형의 생균 사멸 근거. DNA의 형질전환 활성 파괴를 입증하는 자료가 아니며 문제의 정확한 조건을 직접 시험한 연구 아님.",
+    "2012-3-29:3": "ㅁ 전체 혼합물 가열로 살아 있는 수용균도 제거된다는 시험 모형의 생균 사멸 근거. DNA의 형질전환 활성 파괴를 입증하는 자료가 아니며 문제의 정확한 조건을 직접 시험한 연구 아님.",
+    "2012-3-29:4": "ㅁ 전체 혼합물 가열로 살아 있는 수용균도 제거된다는 시험 모형의 생균 사멸 근거. DNA의 형질전환 활성 파괴를 입증하는 자료가 아니며 문제의 정확한 조건을 직접 시험한 연구 아님."
+  },
+  "retrievalMethod": "Direct Canadian Public Health Agency HTML",
+  "sourceHashScope": "Selected short excerpt only; not full source"
+}

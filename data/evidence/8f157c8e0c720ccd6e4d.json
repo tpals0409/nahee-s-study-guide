@@ -1,0 +1,16 @@
+{
+  "id": "8f157c8e0c720ccd6e4d",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "OpenStax University Physics Volume 1 §4.3 Projectile Motion",
+  "url": "https://openstax.org/books/university-physics-volume-1/pages/4-3-projectile-motion",
+  "excerpt": "vertical and horizontal motions are independent",
+  "sourceHash": "9f95103a6116a9b14506fafefd0692c5b0d64eccfafc59e07b76bc1296b76ffd",
+  "cacheSourceId": "c474fb7517f28cdf4d65",
+  "retrievedAt": "2026-11-06T17:47:18.245539+00:00",
+  "reviewedMappings": {
+    "2013-3-03:0": "원본 M1kg m.010kg h1.25m L8m g10을 수평 운동량 보존 및 투사 운동에 적용. t=.5s V16m/s v1616m/s. 선지별 예상 사거리 1,2,4,8,16m로 검산."
+  },
+  "retrievalMethod": "web.open; inelastic collision discussion and projectile equations 4.19–4.22 directly reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

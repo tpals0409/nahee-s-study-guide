@@ -1,0 +1,21 @@
+{
+  "id": "c707bc5375fd3ed88433",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology2e3.5 Nucleic Acids",
+  "url": "https://openstax.org/books/biology-2e/pages/3-5-nucleic-acids",
+  "excerpt": "Scientists classify cytosine, thymine, and uracil as pyrimidines",
+  "sourceHash": "a3c639878138b229d2c663e9728ef40397874f4246eceaf8bf98bdb1bdd8e734",
+  "cacheSourceId": "1e5ec9511dc966387f92",
+  "retrievedAt": "2026-11-07T04:13:18.383378+00:00",
+  "reviewedMappings": {
+    "2026-3-28:0": "Cytosine is pyrimidine, making choice4 false.",
+    "2026-3-28:1": "34-35 and Table3.2 confirm DNA carries genetic information.",
+    "2026-3-28:2": "40-44 classify A/G purines and C/T/U pyrimidines.",
+    "2026-3-28:3": "40,46 explicitly describe 3-prime to5-prime phosphodiester linkage.",
+    "2026-3-28:4": "43 explicitly classifies cytosine as pyrimidine, not purine.",
+    "2026-3-28:5": "44 and60 include uracil among RNA bases."
+  },
+  "retrievalMethod": "Direct web open",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

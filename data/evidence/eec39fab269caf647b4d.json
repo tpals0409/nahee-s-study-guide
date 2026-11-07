@@ -1,0 +1,16 @@
+{
+  "id": "eec39fab269caf647b4d",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "OpenStax Chemistry 2e §9.3 Stoichiometry of Gaseous Substances, Mixtures, and Reactions",
+  "url": "https://openstax.org/books/chemistry-2e/pages/9-3-stoichiometry-of-gaseous-substances-mixtures-and-reactions",
+  "excerpt": "the number of moles of a component of a solution divided by the total number of moles of all components",
+  "sourceHash": "f1088887f844dab48e91a17e877881e471e2344ed7028d27591a52a1eef72be7",
+  "cacheSourceId": "ce90a0b26f864a61d0f5",
+  "retrievedAt": "2026-11-06T18:02:06.376473+00:00",
+  "reviewedMappings": {
+    "2013-3-17:0": "원본1L A의CH4부분압0.4,N2부분압0.8 및2L B의CH4압력0.1 확인. PV=nRT,부분압 및 몰분율식 직접 대조. nCH4RT=0.6,nN2RT=0.8;최종3L에서pCH4=0.2,XN2=4/7. 초기A기준XN2=2/3,전체기준4/7 어느쪽도3배아님. 진술판정ㄱ참ㄴ거짓ㄷ거짓을 각선지조합에 대조."
+  },
+  "retrievalMethod": "web.open and web.find; relevant equations and paragraphs directly reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

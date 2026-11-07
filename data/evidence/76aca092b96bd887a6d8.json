@@ -1,0 +1,17 @@
+{
+  "id": "76aca092b96bd887a6d8",
+  "kind": "science",
+  "source": "The Geological Society",
+  "ref": "Divergent Plate Boundaries",
+  "url": "https://www.geolsoc.org.uk/Plate-Tectonics/Chap3-Plate-Margins/Divergent.html",
+  "excerpt": "At divergent plate margins, plates are moving apart and new lithosphere is being created.",
+  "sourceHash": "6ba8ce8b674ed993109686c5ab17a2b8deda823b576a6421a754b52955c69f15",
+  "cacheSourceId": "b185f1a8f83c592af62d",
+  "retrievedAt": "2026-11-07T04:17:30.732266+00:00",
+  "reviewedMappings": {
+    "2026-3-32:1": "33-36 directly describe moving apart and East African continental rifts.",
+    "2026-3-32:3": "33-36 directly describe moving apart and East African continental rifts."
+  },
+  "retrievalMethod": "Direct web open/find",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

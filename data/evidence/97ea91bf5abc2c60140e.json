@@ -1,0 +1,22 @@
+{
+  "id": "97ea91bf5abc2c60140e",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "OpenStax Chemistry 2e §21.3 Radioactive Decay",
+  "url": "https://openstax.org/books/chemistry-2e/pages/21-3-radioactive-decay",
+  "excerpt": "Radioactive decay follows first-order kinetics.",
+  "sourceHash": "fc3c7579cf7ec300d0cd5bb5e45b2f1f572d4124e4b40c3a2edeeeb05685d96f",
+  "cacheSourceId": "25686d053d7950a6bdf3",
+  "retrievedAt": "2026-11-06T22:53:03.353402+00:00",
+  "reviewedMappings": {
+    "2013-3-31:0": "원문 반감기정의·N=N0exp(-lambda t)·lambda=ln2/T 대조. A잔존1/8은3반감기×2억년, B1/4는2반감기×3억년. 양쪽6억년 독립계산 및 모든오답 잔존분율 역산.",
+    "2019-3-35:0": "붕괴식 N/N0=2^(−t/T)에 1/4을 대입하면 t=2T=11460년이다.",
+    "2019-3-35:1": "선지 2865년을 반감기 5730년의 붕괴식에 대입하면 잔존율 70.7107%로, 25% 조건과의 일치 여부를 독립 검산했다.",
+    "2019-3-35:2": "선지 5730년을 반감기 5730년의 붕괴식에 대입하면 잔존율 50%로, 25% 조건과의 일치 여부를 독립 검산했다.",
+    "2019-3-35:3": "선지 11460년을 반감기 5730년의 붕괴식에 대입하면 잔존율 25%로, 25% 조건과의 일치 여부를 독립 검산했다.",
+    "2019-3-35:4": "선지 17190년을 반감기 5730년의 붕괴식에 대입하면 잔존율 12.5%로, 25% 조건과의 일치 여부를 독립 검산했다.",
+    "2019-3-35:5": "선지 22920년을 반감기 5730년의 붕괴식에 대입하면 잔존율 6.25%로, 25% 조건과의 일치 여부를 독립 검산했다."
+  },
+  "retrievalMethod": "Direct web open/find; reviewed prose and equations lines 91–107 and carbon-14 section 161–187. Independently computed all five remaining fractions. Diagram alt-text numerical typo was not used.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "bd31ef68cbdcf4834b5b",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Anatomy and Physiology, 17.4 The Thyroid Gland",
+  "url": "https://openstax.org/books/anatomy-and-physiology/pages/17-4-the-thyroid-gland",
+  "excerpt": "antibodies overstimulate the follicle cells of the thyroid gland",
+  "sourceHash": "67876c97562892846d71ff8c9caa196e86c1e0f75532fa5a028374cfe0d72174",
+  "cacheSourceId": "7d288e96be4c6ff4c5e9",
+  "retrievedAt": "2026-11-07T00:14:23.385928+00:00",
+  "reviewedMappings": {
+    "2021-3-24:0": "갑상샘호르몬 증가가 TSH를 억제하는 음성피드백은 유지. 문제의 항체는 수용체 작동제로 주어졌으므로 TSH 감소만으로 항체 자극이 없어지지 않음. ㄱ참,ㄴ거짓.",
+    "2021-3-24:1": "갑상샘호르몬 증가가 TSH를 억제하는 음성피드백은 유지. 문제의 항체는 수용체 작동제로 주어졌으므로 TSH 감소만으로 항체 자극이 없어지지 않음. ㄱ참,ㄴ거짓.",
+    "2021-3-24:2": "갑상샘호르몬 증가가 TSH를 억제하는 음성피드백은 유지. 문제의 항체는 수용체 작동제로 주어졌으므로 TSH 감소만으로 항체 자극이 없어지지 않음. ㄱ참,ㄴ거짓.",
+    "2021-3-24:3": "갑상샘호르몬 증가가 TSH를 억제하는 음성피드백은 유지. 문제의 항체는 수용체 작동제로 주어졌으므로 TSH 감소만으로 항체 자극이 없어지지 않음. ㄱ참,ㄴ거짓.",
+    "2021-3-24:4": "갑상샘호르몬 증가가 TSH를 억제하는 음성피드백은 유지. 문제의 항체는 수용체 작동제로 주어졌으므로 TSH 감소만으로 항체 자극이 없어지지 않음. ㄱ참,ㄴ거짓.",
+    "2021-3-24:5": "갑상샘호르몬 증가가 TSH를 억제하는 음성피드백은 유지. 문제의 항체는 수용체 작동제로 주어졌으므로 TSH 감소만으로 항체 자극이 없어지지 않음. ㄱ참,ㄴ거짓."
+  },
+  "retrievalMethod": "Direct lines49-50,68 reviewed; original problem hormone-axis figure and agonist premise checked.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

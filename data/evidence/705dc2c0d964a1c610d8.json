@@ -1,0 +1,17 @@
+{
+  "id": "705dc2c0d964a1c610d8",
+  "kind": "science",
+  "source": "OpenStax · University Physics Volume 2",
+  "ref": "10.2 Resistors in Series and Parallel",
+  "url": "https://openstax.org/books/university-physics-volume-2/pages/10-2-resistors-in-series-and-parallel",
+  "excerpt": "each resistor has the same potential drop across it",
+  "sourceHash": "3df22e6fc7708a24b08cd401a7970a150a77ec339e0765ca62b05e3df325f790",
+  "cacheSourceId": "addf10ea01485badb1cf",
+  "retrievedAt": "2026-11-06T18:39:34.287783+00:00",
+  "reviewedMappings": {
+    "2010-3-05:0": "본문 병렬 노드 설명, V=IR 및 전류 합 법칙 대조. I_A=I_B=V/R, 합성저항 R/2, 전체 2V/R 독립 계산. 다섯 선택지 대입 확인. 오답 선택자의 사고를 추측하던 설명은 전압 대입 반증으로 수정.",
+    "2014-3-10:0": "원본의 위아래 두 공통 접점을 확인하여 병렬 연결 판정. 동일전압과 V=IR, 전류합I로 I_R/I_3R=3, 각각3I/4와I/4 독립 유도. 대칭모양만으로 동일전류라고 할 수 없음."
+  },
+  "retrievalMethod": "web.open; direct primary-source page reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

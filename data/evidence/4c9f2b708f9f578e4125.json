@@ -1,0 +1,16 @@
+{
+  "id": "4c9f2b708f9f578e4125",
+  "kind": "science",
+  "source": "National Park Service",
+  "ref": "Jurassic Dinosaurs",
+  "url": "https://www.nps.gov/subjects/fossils/jurassic-dinosaurs.htm",
+  "excerpt": "Jurassic dinosaur tracks have been found in many of the NPS units of the Colorado Plateau",
+  "sourceHash": "44da4b82bd9f55e5f108a9abde7e4b91d25b9143201b2182a2e6ee572f267e1b",
+  "cacheSourceId": "4a89d78e8b1cb40aed78",
+  "retrievedAt": "2026-11-07T04:19:36.242085+00:00",
+  "reviewedMappings": {
+    "2026-3-34:4": "30-31 footprints in Early/Middle Jurassic rocks;47 directly describes Jurassic track occurrences."
+  },
+  "retrievalMethod": "Direct web find",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

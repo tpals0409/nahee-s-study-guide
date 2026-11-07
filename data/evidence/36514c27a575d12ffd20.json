@@ -1,0 +1,19 @@
+{
+  "id": "36514c27a575d12ffd20",
+  "kind": "science",
+  "source": "Geophysical Research Letters / AGU",
+  "ref": "Xu, Noble & Rosenfeld (2004), In-situ measurements of velocity structure within turbidity currents",
+  "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2004GL019718",
+  "excerpt": "Here we present the first-ever in-situ measurements of velocity profiles of four turbidity currents",
+  "sourceHash": "167bb926cc0d72b0323f5ce1c44fe7bae986b1e75e12fca2a2d97e3ba5cf2566",
+  "cacheSourceId": "fdcda3f22943821b83b6",
+  "retrievedAt": "2026-11-07T05:33:36.458157+00:00",
+  "reviewedMappings": {
+    "2016-3-36:0": "2002년12월–2003년11월 Monterey 해저협곡 축의 세 계류점(수심820·1020·1450m)에서 네 저탁류의 유속 프로파일을 측정한 원저. 시험 이전에 협곡 내 반복 발생이 직접 관측되었음을 뒷받침한다. 심해저평원 대조 관측이 없는 연구이므로 지형별 최다 빈도나 전 지구 순위의 직접 증거는 아니다. 관측 유속과 실제 최대 순간 유속은 표본화 간격 때문에 구별된다.",
+    "2016-3-36:3": "2002년12월–2003년11월 Monterey 해저협곡 축의 세 계류점(수심820·1020·1450m)에서 네 저탁류의 유속 프로파일을 측정한 원저. 시험 이전에 협곡 내 반복 발생이 직접 관측되었음을 뒷받침한다. 심해저평원 대조 관측이 없는 연구이므로 지형별 최다 빈도나 전 지구 순위의 직접 증거는 아니다. 관측 유속과 실제 최대 순간 유속은 표본화 간격 때문에 구별된다.",
+    "2016-3-36:4": "2002년12월–2003년11월 Monterey 해저협곡 축의 세 계류점(수심820·1020·1450m)에서 네 저탁류의 유속 프로파일을 측정한 원저. 시험 이전에 협곡 내 반복 발생이 직접 관측되었음을 뒷받침한다. 심해저평원 대조 관측이 없는 연구이므로 지형별 최다 빈도나 전 지구 순위의 직접 증거는 아니다. 관측 유속과 실제 최대 순간 유속은 표본화 간격 때문에 구별된다.",
+    "2016-3-36:5": "2002년12월–2003년11월 Monterey 해저협곡 축의 세 계류점(수심820·1020·1450m)에서 네 저탁류의 유속 프로파일을 측정한 원저. 시험 이전에 협곡 내 반복 발생이 직접 관측되었음을 뒷받침한다. 심해저평원 대조 관측이 없는 연구이므로 지형별 최다 빈도나 전 지구 순위의 직접 증거는 아니다. 관측 유속과 실제 최대 순간 유속은 표본화 간격 때문에 구별된다."
+  },
+  "retrievalMethod": "Direct publisher full-text page open",
+  "sourceHashScope": "Selected short excerpt only; not full source"
+}

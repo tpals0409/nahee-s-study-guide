@@ -1,0 +1,16 @@
+{
+  "id": "ca0ba615ec58b2e85754",
+  "kind": "science",
+  "source": "Journal of Geophysical Research",
+  "ref": "Elevation of ridges and evolution of the central eastern Pacific",
+  "url": "https://doi.org/10.1029/jb076i032p07888",
+  "excerpt": "thermal contraction of a cooling lithosphere as it moves away from a center of spreading",
+  "sourceHash": "129b6bbb03699edf23d17e95ce9c50abd1eae975016ca31d8afabc597b74a28b",
+  "cacheSourceId": "0d486e6f672af5507d05",
+  "retrievedAt": "2026-11-06T16:56:18.758259+00:00",
+  "reviewedMappings": {
+    "2011-3-39:4": "1971 연구초록의 해령고도-해양지각나이 관계 및 냉각수축 해석 확인. 이동하며 침강해 일반적으로 수심 증가."
+  },
+  "retrievalMethod": "web.search 반환 본문/초록 확인. USGS·ScienceDirect 직접 open은403. 전체 페이지 취득 아님.",
+  "sourceHashScope": "Selected excerpt only; not full page"
+}

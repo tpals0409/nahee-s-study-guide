@@ -1,0 +1,20 @@
+{
+  "id": "e0f327623bae71e6ac91",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 2e, 8.4 Molecular Orbital Theory",
+  "url": "https://openstax.org/books/chemistry-2e/pages/8-4-molecular-orbital-theory",
+  "excerpt": "Between N₂ and O₂, the order of the orbitals changes.",
+  "sourceHash": "7478651073df90a73755f149502f67cd826cb85cd0066a50f688d610245a42e1",
+  "cacheSourceId": "e746e7386c7cbe8ed174",
+  "retrievedAt": "2026-11-07T01:46:46.382361+00:00",
+  "reviewedMappings": {
+    "2023-3-18:0": "표8.3의 전자배치에 Hund규칙 적용: B2,C2,N2,O2,F2 결합차수1,2,3,2,1 홀전자2,0,0,2,0. 상자기성2종이라②거짓.",
+    "2023-3-18:1": "결합차수=(결합성전자수−반결합성전자수)/2. 가전자 기준(4−2)/2,(6−2)/2,(8−2)/2,(8−4)/2,(8−6)/2의 합9.",
+    "2023-3-18:2": "B2의 결합성π2p 두 전자와 O2의 반결합성π*2p 두 전자가 각각 축퇴오비탈에 홀로 들어가 상자기성은2종. C2,N2,F2짝지음.",
+    "2023-3-18:3": "그림8.37·s-p혼합 설명에서 B2,C2,N2는π2p<σ2p, O2,F2는σ2p<π2p. 조건을 만족하는 분자는2종.",
+    "2023-3-18:5": "배치에서 B2홀전자2,O2홀전자2, 나머지0으로 합4. Hund규칙에 따라 축퇴π오비탈 점유를 계산."
+  },
+  "retrievalMethod": "Direct web find/open, Figure8.37, s-p mixing, Table8.3 and Hund rule read; quote normalized from subscript markup.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

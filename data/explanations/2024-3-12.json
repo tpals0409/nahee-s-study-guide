@@ -1,0 +1,151 @@
+{
+  "id": "2024-3-12",
+  "summary": "정답은 ②, 4/3입니다. A→2B의 질량 보존으로 M_A=2M_B입니다. 처음 (나)의 B 몰수를 n이라 두면 전체 초기 몰수는 A 2n, B n입니다. 평형 I에서 B는 5n/3 mol이고 전체 부피는 10/3 L, 평형 II에서 B는 3n mol이고 전체 부피는 9/2 L입니다. 따라서 농도비는 (3n÷9/2)/(5n/3÷10/3)=4/3입니다.",
+  "choices": [
+    "5/4는 옳지 않습니다. 두 평형의 B 농도는 각각 n/2와 2n/3 mol/L이므로, II/I는 4/3입니다.",
+    "4/3이 맞습니다. 평형 I의 B 몰분율은 1/2이므로 a=P/2입니다. 평형 II에서는 Py²/(1−y)=9P/4에서 물리적으로 가능한 해 y=3/4를 얻습니다. 질량 보존과 밀도로 부피를 반영하면 B 농도비는 4/3입니다.",
+    "3/2는 옳지 않습니다. B의 몰분율 비는 (3/4)/(1/2)=3/2이지만 몰농도 비는 이와 다릅니다. 전체 몰농도도 변하므로 B 몰수를 각 평형의 부피로 나누어야 합니다.",
+    "5/3은 옳지 않습니다. 평형 I에서 B의 몰수는 5n/3이지만, 비교할 것은 두 평형의 B 몰농도입니다. (2n/3)/(n/2)=4/3입니다.",
+    "2는 옳지 않습니다. Kp의 변화 배율을 B의 농도 변화 배율로 사용할 수 없습니다. Kp=pB²/pA와 주어진 밀도를 함께 적용한 농도비는 4/3입니다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §9.3, ideal gas law, Dalton’s law and Example 9.14",
+      "quote": "The gases behave independently",
+      "url": "https://openstax.org/books/chemistry-2e/pages/9-3-stoichiometry-of-gaseous-substances-mixtures-and-reactions",
+      "evidenceId": "e9506697938a3593bd20",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §9.3, ideal gas law, Dalton’s law and Example 9.14",
+      "quote": "The gases behave independently",
+      "url": "https://openstax.org/books/chemistry-2e/pages/9-3-stoichiometry-of-gaseous-substances-mixtures-and-reactions",
+      "evidenceId": "e9506697938a3593bd20",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §9.3, ideal gas law, Dalton’s law and Example 9.14",
+      "quote": "The gases behave independently",
+      "url": "https://openstax.org/books/chemistry-2e/pages/9-3-stoichiometry-of-gaseous-substances-mixtures-and-reactions",
+      "evidenceId": "e9506697938a3593bd20",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §9.3, ideal gas law, Dalton’s law and Example 9.14",
+      "quote": "The gases behave independently",
+      "url": "https://openstax.org/books/chemistry-2e/pages/9-3-stoichiometry-of-gaseous-substances-mixtures-and-reactions",
+      "evidenceId": "e9506697938a3593bd20",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §9.3, ideal gas law, Dalton’s law and Example 9.14",
+      "quote": "The gases behave independently",
+      "url": "https://openstax.org/books/chemistry-2e/pages/9-3-stoichiometry-of-gaseous-substances-mixtures-and-reactions",
+      "evidenceId": "e9506697938a3593bd20",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §9.3, ideal gas law, Dalton’s law and Example 9.14",
+      "quote": "The gases behave independently",
+      "url": "https://openstax.org/books/chemistry-2e/pages/9-3-stoichiometry-of-gaseous-substances-mixtures-and-reactions",
+      "evidenceId": "e9506697938a3593bd20",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §13.2, gaseous reaction quotient and equilibrium constant",
+      "quote": "a reaction quotient may be similarly derived using partial pressures",
+      "url": "https://openstax.org/books/chemistry-2e/pages/13-2-equilibrium-constants",
+      "evidenceId": "890399cc636104c8883c",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §13.2, gaseous reaction quotient and equilibrium constant",
+      "quote": "a reaction quotient may be similarly derived using partial pressures",
+      "url": "https://openstax.org/books/chemistry-2e/pages/13-2-equilibrium-constants",
+      "evidenceId": "890399cc636104c8883c",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §13.2, gaseous reaction quotient and equilibrium constant",
+      "quote": "a reaction quotient may be similarly derived using partial pressures",
+      "url": "https://openstax.org/books/chemistry-2e/pages/13-2-equilibrium-constants",
+      "evidenceId": "890399cc636104c8883c",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §13.2, gaseous reaction quotient and equilibrium constant",
+      "quote": "a reaction quotient may be similarly derived using partial pressures",
+      "url": "https://openstax.org/books/chemistry-2e/pages/13-2-equilibrium-constants",
+      "evidenceId": "890399cc636104c8883c",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §13.2, gaseous reaction quotient and equilibrium constant",
+      "quote": "a reaction quotient may be similarly derived using partial pressures",
+      "url": "https://openstax.org/books/chemistry-2e/pages/13-2-equilibrium-constants",
+      "evidenceId": "890399cc636104c8883c",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §13.2, gaseous reaction quotient and equilibrium constant",
+      "quote": "a reaction quotient may be similarly derived using partial pressures",
+      "url": "https://openstax.org/books/chemistry-2e/pages/13-2-equilibrium-constants",
+      "evidenceId": "890399cc636104c8883c",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Original image, equilibrium density table and choices inspected; direct OpenStax sources; rational mass-balance calculation cross-checked with density and mean molar mass",
+    "contentHash": "87d7b7c6b163d619cf8fc60f80ece1e5e6e3dbc79b65541c6add816cad44a3fa"
+  }
+}

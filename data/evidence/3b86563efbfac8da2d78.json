@@ -1,0 +1,20 @@
+{
+  "id": "3b86563efbfac8da2d78",
+  "kind": "science",
+  "source": "NOAA",
+  "ref": "Ocean floor features",
+  "url": "https://www.noaa.gov/education/resource-collections/ocean-coasts/ocean-floor-features",
+  "excerpt": "deepest place in the ocean",
+  "sourceHash": "8a9d889c8dcde5a2b240842542e35422edc5d5a42ef252e1340115ed080ae3bf",
+  "cacheSourceId": "acb8c538ce9106cd1cf6",
+  "retrievedAt": "2026-11-06T20:44:47.073989+00:00",
+  "reviewedMappings": {
+    "2016-3-36:0": "ㄴ은 해구가 가장 깊은 해저 지형이라는 일반적 특징. 본문 Ocean trenches에서 마리아나 해구를 바다의 가장 깊은 곳으로 설명한다.",
+    "2016-3-36:1": "ㄴ은 해구가 가장 깊은 해저 지형이라는 일반적 특징. 본문 Ocean trenches에서 마리아나 해구를 바다의 가장 깊은 곳으로 설명한다.",
+    "2016-3-36:2": "ㄴ은 해구가 가장 깊은 해저 지형이라는 일반적 특징. 본문 Ocean trenches에서 마리아나 해구를 바다의 가장 깊은 곳으로 설명한다.",
+    "2016-3-36:4": "ㄴ은 해구가 가장 깊은 해저 지형이라는 일반적 특징. 본문 Ocean trenches에서 마리아나 해구를 바다의 가장 깊은 곳으로 설명한다.",
+    "2016-3-36:5": "ㄴ은 해구가 가장 깊은 해저 지형이라는 일반적 특징. 본문 Ocean trenches에서 마리아나 해구를 바다의 가장 깊은 곳으로 설명한다."
+  },
+  "retrievalMethod": "Direct web open; Ocean trenches section reviewed.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

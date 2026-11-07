@@ -1,0 +1,151 @@
+{
+  "id": "2023-3-07",
+  "summary": "정답은 ④, R=2BL²/(IΔt)입니다. 고리가 경계를 통과하면 외부 자기선속은 +BL²에서 −BL²로 바뀌므로 변화량의 크기는 2BL²입니다. 등속 통과로 선속이 일정한 비율로 변하므로 기전력은 2BL²/Δt이고, R=ε/I를 적용합니다.",
+  "choices": [
+    "① 오답입니다. 경계를 완전히 통과할 때의 선속 변화량은 2BL²입니다. 따라서 저항의 계수는 1/4이 아니라 2입니다.",
+    "② 오답입니다. 기전력은 선속 변화량 2BL²을 통과 시간 Δt로 나눈 값입니다. 제시된 저항은 이 값으로 계산한 저항의 1/4입니다.",
+    "③ 오답입니다. 왼쪽의 +B 영역에서 오른쪽의 −B 영역으로 이동하므로 선속은 0까지만 줄어드는 것이 아니라 부호까지 바뀝니다. 변화량은 BL²이 아닌 2BL²입니다.",
+    "④ 정답입니다. 오른쪽 영역으로 들어간 폭을 s라 하면 Φ=BL(L−s)−BLs=BL²−2BLs입니다. v=L/Δt이므로 |dΦ/dt|=2BLv=2BL²/Δt, 따라서 R=2BL²/(IΔt)입니다.",
+    "⑤ 오답입니다. +BL²에서 −BL²로 변하는 선속 차이에는 이미 두 영역의 효과가 모두 포함되어 있습니다. 변화량은 4BL²이 아니라 2BL²이므로 이 보기의 저항은 두 배로 큽니다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax University Physics Volume 2",
+      "ref": "13.1 Faraday’s Law",
+      "quote": "the negative change in the magnetic flux",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/13-1-faradays-law",
+      "evidenceId": "b6bc3278482196423ac9",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax University Physics Volume 2",
+      "ref": "13.1 Faraday’s Law",
+      "quote": "the negative change in the magnetic flux",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/13-1-faradays-law",
+      "evidenceId": "b6bc3278482196423ac9",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax University Physics Volume 2",
+      "ref": "13.1 Faraday’s Law",
+      "quote": "the negative change in the magnetic flux",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/13-1-faradays-law",
+      "evidenceId": "b6bc3278482196423ac9",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax University Physics Volume 2",
+      "ref": "13.1 Faraday’s Law",
+      "quote": "the negative change in the magnetic flux",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/13-1-faradays-law",
+      "evidenceId": "b6bc3278482196423ac9",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax University Physics Volume 2",
+      "ref": "13.1 Faraday’s Law",
+      "quote": "the negative change in the magnetic flux",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/13-1-faradays-law",
+      "evidenceId": "b6bc3278482196423ac9",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax University Physics Volume 2",
+      "ref": "13.1 Faraday’s Law",
+      "quote": "the negative change in the magnetic flux",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/13-1-faradays-law",
+      "evidenceId": "b6bc3278482196423ac9",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics 2 §13.3 Motional Emf",
+      "quote": "The current induced in the circuit is the emf divided by the resistance",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/13-3-motional-emf",
+      "evidenceId": "9a4207f5f9aec262ec45",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics 2 §13.3 Motional Emf",
+      "quote": "The current induced in the circuit is the emf divided by the resistance",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/13-3-motional-emf",
+      "evidenceId": "9a4207f5f9aec262ec45",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics 2 §13.3 Motional Emf",
+      "quote": "The current induced in the circuit is the emf divided by the resistance",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/13-3-motional-emf",
+      "evidenceId": "9a4207f5f9aec262ec45",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics 2 §13.3 Motional Emf",
+      "quote": "The current induced in the circuit is the emf divided by the resistance",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/13-3-motional-emf",
+      "evidenceId": "9a4207f5f9aec262ec45",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics 2 §13.3 Motional Emf",
+      "quote": "The current induced in the circuit is the emf divided by the resistance",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/13-3-motional-emf",
+      "evidenceId": "9a4207f5f9aec262ec45",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics 2 §13.3 Motional Emf",
+      "quote": "The current induced in the circuit is the emf divided by the resistance",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/13-3-motional-emf",
+      "evidenceId": "9a4207f5f9aec262ec45",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Original opposite field signs, square side and constant-speed/current conditions verified. Independent signed-flux function and two-side motional-emf checks; removed speculative distractor origins.",
+    "contentHash": "c032ef5f7d9555d4597444ca699881b93596c98c8a9c58ff484422b858d7259d"
+  }
+}

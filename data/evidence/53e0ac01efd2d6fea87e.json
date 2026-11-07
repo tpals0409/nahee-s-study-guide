@@ -1,0 +1,17 @@
+{
+  "id": "53e0ac01efd2d6fea87e",
+  "kind": "science",
+  "source": "ISPRA",
+  "ref": "Nummulites intermedia (Foraminifero)",
+  "url": "https://www.isprambiente.gov.it/it/attivita/museo/collezioni-paleontologiche/paleo-reperti/nummulites-intermedia-foraminifero",
+  "excerpt": "Le nummuliti sono vissute dal Paleocene all'Oligocene",
+  "sourceHash": "9a92cf311ef25c9f2e9a630971cff91cff2f4dd70f1a11fbf36aa31ae861cf20",
+  "cacheSourceId": "e8bb2d020007d5e4af7b",
+  "retrievedAt": "2026-11-07T00:29:01.442480+00:00",
+  "reviewedMappings": {
+    "2021-3-32:0": "Direct museum page, FORAMINIFERI-NUMMULITES: Paleocene to Oligocene range, Eocene maximum, Cenozoic guide fossils. Italian text reviewed; not merely specimen age.",
+    "2021-3-32:4": "Direct museum page, FORAMINIFERI-NUMMULITES: Paleocene to Oligocene range, Eocene maximum, Cenozoic guide fossils. Italian text reviewed; not merely specimen age."
+  },
+  "retrievalMethod": "Direct museum page, FORAMINIFERI-NUMMULITES: Paleocene to Oligocene range, Eocene maximum, Cenozoic guide fossils. Italian text reviewed; not merely specimen age.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

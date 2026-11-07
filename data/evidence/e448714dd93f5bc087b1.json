@@ -1,0 +1,17 @@
+{
+  "id": "e448714dd93f5bc087b1",
+  "kind": "science",
+  "source": "Pearson",
+  "ref": "Stability of Cycloalkenes",
+  "url": "https://www.pearson.com/channels/organic-chemistry/study-guides/structure-and-synthesis-of-alkenes-comprehensive-study",
+  "excerpt": "Trans cycloalkenes are not stable unless the ring has at least eight carbons.",
+  "sourceHash": "174e116737b22db537c60062585d3e375617677bc4e5db45713dd29314743cbb",
+  "cacheSourceId": "518b585c90885a9a1015",
+  "retrievedAt": "2026-11-06T15:32:44.211089+00:00",
+  "reviewedMappings": {
+    "2010-3-11:4": "육원환의 trans 배치에 대한 안정성 제약. 존재의 절대 부정 대신 통상적인 안정한 이성질체 쌍 기준으로 설명.",
+    "2010-3-11:5": "육원환의 trans 배치에 대한 안정성 제약. 존재의 절대 부정 대신 통상적인 안정한 이성질체 쌍 기준으로 설명."
+  },
+  "retrievalMethod": "web tool open; sections Cis–Trans Isomers and Cyclic Compounds and Stability of Cycloalkenes inspected",
+  "sourceHashScope": "reviewed excerpt only; hash is excerpt hash"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "778362320687ccd917a2",
+  "kind": "science",
+  "source": "NOAA",
+  "ref": "NOAA — Tropical Cyclone Introduction",
+  "url": "https://www.noaa.gov/jetstream/tropical/tropical-cyclone-introduction",
+  "excerpt": "However, warm water alone is not enough for the formation of a tropical cyclone.",
+  "sourceHash": "0a8315fecae36371d0acd1e8efd5d82ba3802f0bf5564198f9a21e0d6bf6ebcc",
+  "cacheSourceId": "ea365c13725fbb78d4df",
+  "retrievedAt": "2026-11-06T17:38:12.317301+00:00",
+  "reviewedMappings": {
+    "2012-3-35:0": "네 진술의 공통 검토: 북서태평양 최다/북동태평양도 발생, 주요 저위도 분포와 적도 예외, 북반구 우세, 따뜻한 해양·습윤 하층 및 충분조건 아님을 각 출처의 해당 절로 대조."
+  },
+  "retrievalMethod": "web.open; formation conditions, seven basins, rare near-equator exceptions and latent heat sections reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

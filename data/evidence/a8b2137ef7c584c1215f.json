@@ -1,0 +1,21 @@
+{
+  "id": "a8b2137ef7c584c1215f",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume 3 3.2 Mathematics of Interference",
+  "url": "https://openstax.org/books/university-physics-volume-3/pages/3-2-mathematics-of-interference",
+  "excerpt": "the path length difference must be a half-integral multiple of the wavelength",
+  "sourceHash": "954be1db33e692da78d38a6149a8253c48cb1824f2f529e5385414185b627dee",
+  "cacheSourceId": "891bc267223fb30a4ec8",
+  "retrievedAt": "2026-11-06T20:11:38.350592+00:00",
+  "reviewedMappings": {
+    "2016-3-08:0": "본문 29~41행의 경로차 d sinθ 및 어두운 무늬 조건과 50행 소각 근사를 결합: x_m≈(m+1/2)λL/d, 인접 간격 y≈λL/d. 원문 표 ㄱ=(λ/2,d,L), ㄴ=(λ,2d,L), ㄷ=(λ,d,2L)에 대입하면 간격비 1/2,1/2,2. ㄱ·ㄴ만 감소하므로 ④이며 다른 조합은 누락 또는 ㄷ 포함 오류. L≫d와 작은 관측각은 별도의 근사 조건이다.",
+    "2016-3-08:1": "본문 29~41행의 경로차 d sinθ 및 어두운 무늬 조건과 50행 소각 근사를 결합: x_m≈(m+1/2)λL/d, 인접 간격 y≈λL/d. 원문 표 ㄱ=(λ/2,d,L), ㄴ=(λ,2d,L), ㄷ=(λ,d,2L)에 대입하면 간격비 1/2,1/2,2. ㄱ·ㄴ만 감소하므로 ④이며 다른 조합은 누락 또는 ㄷ 포함 오류. L≫d와 작은 관측각은 별도의 근사 조건이다.",
+    "2016-3-08:2": "본문 29~41행의 경로차 d sinθ 및 어두운 무늬 조건과 50행 소각 근사를 결합: x_m≈(m+1/2)λL/d, 인접 간격 y≈λL/d. 원문 표 ㄱ=(λ/2,d,L), ㄴ=(λ,2d,L), ㄷ=(λ,d,2L)에 대입하면 간격비 1/2,1/2,2. ㄱ·ㄴ만 감소하므로 ④이며 다른 조합은 누락 또는 ㄷ 포함 오류. L≫d와 작은 관측각은 별도의 근사 조건이다.",
+    "2016-3-08:3": "본문 29~41행의 경로차 d sinθ 및 어두운 무늬 조건과 50행 소각 근사를 결합: x_m≈(m+1/2)λL/d, 인접 간격 y≈λL/d. 원문 표 ㄱ=(λ/2,d,L), ㄴ=(λ,2d,L), ㄷ=(λ,d,2L)에 대입하면 간격비 1/2,1/2,2. ㄱ·ㄴ만 감소하므로 ④이며 다른 조합은 누락 또는 ㄷ 포함 오류. L≫d와 작은 관측각은 별도의 근사 조건이다.",
+    "2016-3-08:4": "본문 29~41행의 경로차 d sinθ 및 어두운 무늬 조건과 50행 소각 근사를 결합: x_m≈(m+1/2)λL/d, 인접 간격 y≈λL/d. 원문 표 ㄱ=(λ/2,d,L), ㄴ=(λ,2d,L), ㄷ=(λ,d,2L)에 대입하면 간격비 1/2,1/2,2. ㄱ·ㄴ만 감소하므로 ④이며 다른 조합은 누락 또는 ㄷ 포함 오류. L≫d와 작은 관측각은 별도의 근사 조건이다.",
+    "2016-3-08:5": "본문 29~41행의 경로차 d sinθ 및 어두운 무늬 조건과 50행 소각 근사를 결합: x_m≈(m+1/2)λL/d, 인접 간격 y≈λL/d. 원문 표 ㄱ=(λ/2,d,L), ㄴ=(λ,2d,L), ㄷ=(λ,d,2L)에 대입하면 간격비 1/2,1/2,2. ㄱ·ㄴ만 감소하므로 ④이며 다른 조합은 누락 또는 ㄷ 포함 오류. L≫d와 작은 관측각은 별도의 근사 조건이다."
+  },
+  "retrievalMethod": "web open: directly reviewed equations 3.3, 3.5 and small-angle approximation",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

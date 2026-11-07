@@ -1,0 +1,107 @@
+{
+  "id": "2025-3-38",
+  "summary": "정답은 ②입니다. 연기는 위쪽으로 확산이 억제되면서 아래로 퍼져 지면에 닿는 훈증형입니다. ②는 하층에서 기온이 단열선보다 빠르게 감소하는 불안정 상태이고, 상층에는 기온이 높이에 따라 증가하는 역전층이 있어 이 모습과 일치합니다.",
+  "choices": [
+    "지면부터 위쪽 전체에서 기온이 높이에 따라 증가하는 그래프입니다. 대기 전체가 역전층인 매우 안정한 상태입니다. 이때 연기는 연직으로 거의 퍼지지 못하고 굴뚝 높이에서 얇게 수평으로만 퍼지는 부채형(fanning)이 됩니다. 연기가 지면까지 내려오는 그림과 맞지 않으므로 오답입니다.",
+    "아래층에서는 기온선이 단열선보다 더 빠르게 감소합니다. 즉 기온감률이 건조단열감률보다 큰 과단열 상태라서 불안정합니다. 꺾인 지점 위로는 기온이 높이에 따라 증가하므로 역전층입니다. 연기는 위쪽 역전층에 막혀 상승하지 못하고, 아래쪽 불안정층의 대류를 따라 지면까지 내려와 퍼집니다. 이것이 훈증형이며 그림과 일치하므로 정답입니다.",
+    "전 높이에서 기온선의 감소율이 단열선보다 큰 과단열 상태입니다. 대기 전체가 불안정하므로 연기는 상하로 크게 굽이치는 환상형(looping)이 됩니다. 위쪽이 평평하게 막힌 그림의 모습과 맞지 않으므로 오답입니다.",
+    "기온선과 단열선이 거의 평행하여 모식적으로 중립에 해당합니다. 중립 또는 약한 안정 상태에서 나타나는 원추형에 대응하며, 위쪽 역전층에 막혀 아래로 퍼지는 제시 그림과 다릅니다.",
+    "지면 부근에서는 기온이 높이에 따라 증가하여 역전층(안정층)을 이루고, 그 위에서는 단열선보다 빠르게 기온이 감소하는 불안정층이 있습니다. 이 경우 연기는 아래로 내려오지 못하고 위쪽으로만 퍼지는 지붕형(lofting)이 됩니다. 연기가 지면으로 내려오는 그림과 반대이므로 오답입니다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "US EPA",
+      "ref": "APTI SI:409 Basic Air Pollution Meteorology — Stability and Plume Behavior",
+      "quote": "an inversion layer, which acts as a barrier to vertical mixing.",
+      "url": "https://nepis.epa.gov/Exe/ZyPURL.cgi?Dockey=20011ROL.TXT",
+      "evidenceId": "8fff89241da9079bccc9",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "US EPA",
+      "ref": "APTI SI:409 Basic Air Pollution Meteorology — Stability and Plume Behavior",
+      "quote": "an inversion layer, which acts as a barrier to vertical mixing.",
+      "url": "https://nepis.epa.gov/Exe/ZyPURL.cgi?Dockey=20011ROL.TXT",
+      "evidenceId": "8fff89241da9079bccc9",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "US EPA",
+      "ref": "APTI SI:409 Basic Air Pollution Meteorology — Stability and Plume Behavior",
+      "quote": "an inversion layer, which acts as a barrier to vertical mixing.",
+      "url": "https://nepis.epa.gov/Exe/ZyPURL.cgi?Dockey=20011ROL.TXT",
+      "evidenceId": "8fff89241da9079bccc9",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "US EPA",
+      "ref": "APTI SI:409 Basic Air Pollution Meteorology — Stability and Plume Behavior",
+      "quote": "an inversion layer, which acts as a barrier to vertical mixing.",
+      "url": "https://nepis.epa.gov/Exe/ZyPURL.cgi?Dockey=20011ROL.TXT",
+      "evidenceId": "8fff89241da9079bccc9",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "US EPA",
+      "ref": "APTI SI:409 Basic Air Pollution Meteorology — Stability and Plume Behavior",
+      "quote": "an inversion layer, which acts as a barrier to vertical mixing.",
+      "url": "https://nepis.epa.gov/Exe/ZyPURL.cgi?Dockey=20011ROL.TXT",
+      "evidenceId": "8fff89241da9079bccc9",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "US EPA",
+      "ref": "Visible Emission Evaluation Procedures — Fumigating",
+      "quote": "Isothermal or inverted lapse rate above—lower layer unstable or neutral, upper layer stable",
+      "url": "https://www.epa.gov/sites/default/files/2020-08/documents/vecourse.pdf",
+      "evidenceId": "c3222aa6f19c212c1770",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "US EPA",
+      "ref": "Visible Emission Evaluation Procedures — Fumigating",
+      "quote": "Isothermal or inverted lapse rate above—lower layer unstable or neutral, upper layer stable",
+      "url": "https://www.epa.gov/sites/default/files/2020-08/documents/vecourse.pdf",
+      "evidenceId": "c3222aa6f19c212c1770",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "NOAA / National Weather Service",
+      "ref": "Appendix 1 — Plume Characteristics",
+      "quote": "Looping is associated with unstable (A-, B-, or C-stabilities) atmospheric conditions.",
+      "url": "https://www.weather.gov/media/wrh/online_publications/TMs/TM-214.pdf",
+      "evidenceId": "bd7722239ba43cce7556",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Original plume and all five temperature graphs inspected; EPA and NWS plume descriptions matched; graph slopes interpreted qualitatively without invented numerical scale",
+    "contentHash": "771848efeafe5c17825af657646248e04eb29d29b693ae43081f2270a3082f36"
+  }
+}

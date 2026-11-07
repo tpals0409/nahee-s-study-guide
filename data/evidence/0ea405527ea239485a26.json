@@ -1,0 +1,17 @@
+{
+  "id": "0ea405527ea239485a26",
+  "kind": "science",
+  "source": "Janeway et al. / Garland Science; NCBI Bookshelf",
+  "ref": "Generation of lymphocytes in bone marrow and thymus — Immunobiology",
+  "url": "https://www.ncbi.nlm.nih.gov/books/NBK27123/",
+  "excerpt": "B cells that survive in the periphery undergo further differentiation to become mature B cells that express IgD in addition to IgM.",
+  "sourceHash": "b77639fb27153120d833aa41c873e5a3ab35c2f31caf14bd22c74585acbf953c",
+  "cacheSourceId": "381b806111d076755522",
+  "retrievedAt": "2026-11-06T20:28:55.718427+00:00",
+  "reviewedMappings": {
+    "2016-3-23:0": "저자교재의 성숙B세포 IgM및IgD 공동발현과해당항원만나기전naive 설명을 원문 검색추출로 확인.",
+    "2016-3-23:5": "성숙 naive B세포의 IgM·IgD표면공동발현을 지지. 모든 특수B세포아형에 대한 예외없는 일반명제로 확장하지 않음."
+  },
+  "retrievalMethod": "Web search indexed textbook excerpt retrieved and reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

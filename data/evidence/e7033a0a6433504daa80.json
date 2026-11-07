@@ -1,0 +1,18 @@
+{
+  "id": "e7033a0a6433504daa80",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "4.5 The Cytoskeleton",
+  "url": "https://openstax.org/books/biology-2e/pages/4-5-the-cytoskeleton",
+  "excerpt": "For this reason, we also call microfilaments actin filaments.",
+  "sourceHash": "7f6a1d64bc5ac962e4649679637ec984b59e90ca44c04ae627165e1c7c782381",
+  "cacheSourceId": "109d4387023f96da944f",
+  "retrievedAt": "2026-11-06T20:26:55.122094+00:00",
+  "reviewedMappings": {
+    "2016-3-21:0": "본문32–39 미세섬유·중간섬유·미세소관의 구분과 액틴 미세섬유, 미오신 모터 기능 확인.",
+    "2016-3-21:2": "본문39에서 액틴 필라멘트를 따라 작동하는 motor protein myosin으로 분류. 액틴 미세섬유의 중합 단위와 구분.",
+    "2016-3-21:5": "본문37–38에 액틴 소단위의 사슬 두 가닥으로 미세섬유 구성,40에 형태와 운동 기능 확인."
+  },
+  "retrievalMethod": "Direct web open; cytoskeletal fibers and actin/myosin sections reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

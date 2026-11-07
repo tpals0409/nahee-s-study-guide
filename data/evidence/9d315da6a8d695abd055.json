@@ -1,0 +1,27 @@
+{
+  "id": "9d315da6a8d695abd055",
+  "kind": "science",
+  "source": "OpenStax University Physics Volume 3",
+  "ref": "1.3 Refraction",
+  "url": "https://openstax.org/books/university-physics-volume-3/pages/1-3-refraction",
+  "excerpt": "the angles are measured relative to a perpendicular to the surface",
+  "sourceHash": "83aae106053bc62a6b8d09cd76d2ba7ff8a3847c0fc945cdf5c72dcdad5c4235",
+  "cacheSourceId": "93ca5098ed50cbcbd595",
+  "retrievedAt": "2026-11-07T03:47:23.942987+00:00",
+  "reviewedMappings": {
+    "2023-3-08:0": "스넬 법칙을 공기→유리→공기 양면에 적용. θglass≈θ/1.5, θout=θ. 출사 광선 역연장으로 ximage=13−(10+3/1.5)=1 cm. 원문 근축 조건 아래 각 선택지 방향/거리 비교; 측방 광선 변위와 축방향 상 이동 구별.",
+    "2023-3-08:1": "스넬 법칙을 공기→유리→공기 양면에 적용. θglass≈θ/1.5, θout=θ. 출사 광선 역연장으로 ximage=13−(10+3/1.5)=1 cm. 원문 근축 조건 아래 각 선택지 방향/거리 비교; 측방 광선 변위와 축방향 상 이동 구별.",
+    "2023-3-08:2": "스넬 법칙을 공기→유리→공기 양면에 적용. θglass≈θ/1.5, θout=θ. 출사 광선 역연장으로 ximage=13−(10+3/1.5)=1 cm. 원문 근축 조건 아래 각 선택지 방향/거리 비교; 측방 광선 변위와 축방향 상 이동 구별.",
+    "2023-3-08:3": "스넬 법칙을 공기→유리→공기 양면에 적용. θglass≈θ/1.5, θout=θ. 출사 광선 역연장으로 ximage=13−(10+3/1.5)=1 cm. 원문 근축 조건 아래 각 선택지 방향/거리 비교; 측방 광선 변위와 축방향 상 이동 구별.",
+    "2023-3-08:4": "스넬 법칙을 공기→유리→공기 양면에 적용. θglass≈θ/1.5, θout=θ. 출사 광선 역연장으로 ximage=13−(10+3/1.5)=1 cm. 원문 근축 조건 아래 각 선택지 방향/거리 비교; 측방 광선 변위와 축방향 상 이동 구별.",
+    "2023-3-08:5": "스넬 법칙을 공기→유리→공기 양면에 적용. θglass≈θ/1.5, θout=θ. 출사 광선 역연장으로 ximage=13−(10+3/1.5)=1 cm. 원문 근축 조건 아래 각 선택지 방향/거리 비교; 측방 광선 변위와 축방향 상 이동 구별.",
+    "2026-3-08:0": "Original diagram: prism angle 30 degrees, normal 30 degrees above horizontal. Exit ray deviations below horizontal are 15 and 30 degrees; refraction angles are 45 and 60, not 15 and 30. Snell: np sin30=na sin45=nb sin60. Hence nb/na=sin45/sin60=sqrt(2/3).",
+    "2026-3-08:1": "Original diagram: prism angle 30 degrees, normal 30 degrees above horizontal. Exit ray deviations below horizontal are 15 and 30 degrees; refraction angles are 45 and 60, not 15 and 30. Snell: np sin30=na sin45=nb sin60. Hence nb/na=sin45/sin60=sqrt(2/3).",
+    "2026-3-08:2": "Original diagram: prism angle 30 degrees, normal 30 degrees above horizontal. Exit ray deviations below horizontal are 15 and 30 degrees; refraction angles are 45 and 60, not 15 and 30. Snell: np sin30=na sin45=nb sin60. Hence nb/na=sin45/sin60=sqrt(2/3).",
+    "2026-3-08:3": "Original diagram: prism angle 30 degrees, normal 30 degrees above horizontal. Exit ray deviations below horizontal are 15 and 30 degrees; refraction angles are 45 and 60, not 15 and 30. Snell: np sin30=na sin45=nb sin60. Hence nb/na=sin45/sin60=sqrt(2/3).",
+    "2026-3-08:4": "Original diagram: prism angle 30 degrees, normal 30 degrees above horizontal. Exit ray deviations below horizontal are 15 and 30 degrees; refraction angles are 45 and 60, not 15 and 30. Snell: np sin30=na sin45=nb sin60. Hence nb/na=sin45/sin60=sqrt(2/3).",
+    "2026-3-08:5": "Original diagram: prism angle 30 degrees, normal 30 degrees above horizontal. Exit ray deviations below horizontal are 15 and 30 degrees; refraction angles are 45 and 60, not 15 and 30. Snell: np sin30=na sin45=nb sin60. Hence nb/na=sin45/sin60=sqrt(2/3)."
+  },
+  "retrievalMethod": "Direct web open",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

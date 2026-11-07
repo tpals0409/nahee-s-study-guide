@@ -1,0 +1,107 @@
+{
+  "id": "2025-3-15",
+  "summary": "옳지 않은 것은 ⑤입니다. H₂O(g) 1 mol의 표준 생성 엔탈피는 d − a − f/2입니다. 물 2 mol의 분해 반응을 뒤집어 절반으로 줄여야 하므로 f 대신 f/2를 사용합니다.",
+  "choices": [
+    "옳습니다. a는 주어진 온도에서 얼음이 액체 물로 변할 때의 엔탈피 변화입니다. 융해는 흡열 과정이므로 a > 0입니다.",
+    "옳습니다. 같은 온도에서 고체 → 기체의 엔탈피 변화는 고체 → 액체와 액체 → 기체의 변화를 합한 것입니다. 따라서 d = a + ΔH°기화이며, 기화가 흡열이므로 d > a입니다.",
+    "옳습니다. 엔트로피는 상태함수이므로 e − b = S°[H₂O(g)] − S°[H₂O(l)]입니다. 기체 물의 엔트로피가 액체 물보다 크므로 e − b > 0, 즉 b < e입니다.",
+    "옳습니다. ΔG° = ΔH° − TΔS°에 따라 c = a − Tb입니다. 얼음이 액체 물로 변하면 엔트로피가 증가하여 b > 0이고 절대온도 T도 양수이므로 c < a입니다.",
+    "옳지 않습니다. 표준 생성 엔탈피는 원소의 표준 상태로부터 물질 1 mol을 만드는 반응을 기준으로 합니다. 세 번째 반응을 역으로 하고 1/2배 하면 H₂(g) + 1/2 O₂(g) → H₂O(l), ΔH° = −f/2입니다. 여기에 H₂O(l) → H₂O(s)의 −a와 H₂O(s) → H₂O(g)의 d를 더하면 H₂O(g)의 표준 생성 엔탈피는 d − a − f/2입니다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "5.3 Enthalpy",
+      "quote": "Hess’s law is valid because enthalpy is a state function",
+      "url": "https://openstax.org/books/chemistry-2e/pages/5-3-enthalpy",
+      "evidenceId": "9665009a211f5f5fb3c1",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "5.3 Enthalpy",
+      "quote": "Hess’s law is valid because enthalpy is a state function",
+      "url": "https://openstax.org/books/chemistry-2e/pages/5-3-enthalpy",
+      "evidenceId": "9665009a211f5f5fb3c1",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "5.3 Enthalpy",
+      "quote": "Hess’s law is valid because enthalpy is a state function",
+      "url": "https://openstax.org/books/chemistry-2e/pages/5-3-enthalpy",
+      "evidenceId": "9665009a211f5f5fb3c1",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e 10.3 Phase Transitions — Enthalpy of Vaporization",
+      "quote": "Vaporization is an endothermic process.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/10-3-phase-transitions",
+      "evidenceId": "ee145bf8fe86911f48a5",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e 10.3 Phase Transitions — Enthalpy of Vaporization",
+      "quote": "Vaporization is an endothermic process.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/10-3-phase-transitions",
+      "evidenceId": "ee145bf8fe86911f48a5",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 16.2 Entropy",
+      "quote": "the processes of vaporization and sublimation likewise involve increases in entropy",
+      "url": "https://openstax.org/books/chemistry-2e/pages/16-2-entropy",
+      "evidenceId": "1b547da80ddc783af135",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 16.2 Entropy",
+      "quote": "the processes of vaporization and sublimation likewise involve increases in entropy",
+      "url": "https://openstax.org/books/chemistry-2e/pages/16-2-entropy",
+      "evidenceId": "1b547da80ddc783af135",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 16.4 Free Energy",
+      "quote": "Free energy is a state function",
+      "url": "https://openstax.org/books/chemistry-2e/pages/16-4-free-energy",
+      "evidenceId": "9d7e8a1d59ca8ae957f5",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Original question image and canonical choices checked; independently derived Hess combination and all inequalities; primary textbook sections matched per choice. Removed 0°C numerical data misapplied at 25°C.",
+    "contentHash": "bf39476b8ed775223c233c542bdf9af8b2c8a3e403e72a7ba2fe11648f6e51be"
+  }
+}

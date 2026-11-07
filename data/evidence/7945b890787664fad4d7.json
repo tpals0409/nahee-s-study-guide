@@ -1,0 +1,21 @@
+{
+  "id": "7945b890787664fad4d7",
+  "kind": "science",
+  "source": "Thermo Fisher Scientific / Ambion",
+  "ref": "The Basics: Northern Analysis",
+  "url": "https://www.thermofisher.com/nz/en/home/references/ambion-tech-support/northern-analysis/general-articles/the-basics-northern-analysis.reg.us.html",
+  "excerpt": "RNA samples are first separated by size via electrophoresis in an agarose gel under denaturing conditions.",
+  "sourceHash": "8519fc5c607aec04be888fa97fc3202ac735f138d707f9c53457e6d52c08400a",
+  "cacheSourceId": "11a2118c129762ba2220",
+  "retrievedAt": "2026-11-07T01:12:33.961123+00:00",
+  "reviewedMappings": {
+    "2022-3-28:0": "Manufacturer method describes RNA sizing, membrane transfer and probe hybridization and relative transcript abundance. ㄱ and ㄴ true; RNA detection cannot directly establish protein structure, so ㄷ false.",
+    "2022-3-28:1": "Manufacturer method describes RNA sizing, membrane transfer and probe hybridization and relative transcript abundance. ㄱ and ㄴ true; RNA detection cannot directly establish protein structure, so ㄷ false.",
+    "2022-3-28:2": "Manufacturer method describes RNA sizing, membrane transfer and probe hybridization and relative transcript abundance. ㄱ and ㄴ true; RNA detection cannot directly establish protein structure, so ㄷ false.",
+    "2022-3-28:3": "Manufacturer method describes RNA sizing, membrane transfer and probe hybridization and relative transcript abundance. ㄱ and ㄴ true; RNA detection cannot directly establish protein structure, so ㄷ false.",
+    "2022-3-28:4": "Manufacturer method describes RNA sizing, membrane transfer and probe hybridization and relative transcript abundance. ㄱ and ㄴ true; RNA detection cannot directly establish protein structure, so ㄷ false.",
+    "2022-3-28:5": "Manufacturer method describes RNA sizing, membrane transfer and probe hybridization and relative transcript abundance. ㄱ and ㄴ true; RNA detection cannot directly establish protein structure, so ㄷ false."
+  },
+  "retrievalMethod": "Direct web read of manufacturer technical guidance after regional redirect; actual destination URL retained",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

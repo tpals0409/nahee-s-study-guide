@@ -1,0 +1,21 @@
+{
+  "id": "b4481f2a26d121c74df5",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume 3, 5.4 Length Contraction",
+  "url": "https://openstax.org/books/university-physics-volume-3/pages/5-4-length-contraction",
+  "excerpt": "is the distance between two points measured by an observer who is at rest relative to both of the points.",
+  "sourceHash": "81100c2f70e7981ff8ad8785fab0454c6633db710234317ba932eb34affcce41",
+  "cacheSourceId": "fc9c316c3bfdefacbf45",
+  "retrievedAt": "2026-11-07T03:48:07.762707+00:00",
+  "reviewedMappings": {
+    "2026-3-09:0": "Treat X and Y as fixed spatial points in A frame, as intended by the transit question. L0=0.8c*5s=4 light-seconds; gamma=5/3; simultaneous endpoint separation in B is L0/gamma=2.4 light-seconds, only choice 2. Departure and arrival occur at the same spaceship position in B and are not simultaneous endpoint events; their zero spatial separation is not the requested length.",
+    "2026-3-09:1": "Treat X and Y as fixed spatial points in A frame, as intended by the transit question. L0=0.8c*5s=4 light-seconds; gamma=5/3; simultaneous endpoint separation in B is L0/gamma=2.4 light-seconds, only choice 2. Departure and arrival occur at the same spaceship position in B and are not simultaneous endpoint events; their zero spatial separation is not the requested length.",
+    "2026-3-09:2": "Treat X and Y as fixed spatial points in A frame, as intended by the transit question. L0=0.8c*5s=4 light-seconds; gamma=5/3; simultaneous endpoint separation in B is L0/gamma=2.4 light-seconds, only choice 2. Departure and arrival occur at the same spaceship position in B and are not simultaneous endpoint events; their zero spatial separation is not the requested length.",
+    "2026-3-09:3": "Treat X and Y as fixed spatial points in A frame, as intended by the transit question. L0=0.8c*5s=4 light-seconds; gamma=5/3; simultaneous endpoint separation in B is L0/gamma=2.4 light-seconds, only choice 2. Departure and arrival occur at the same spaceship position in B and are not simultaneous endpoint events; their zero spatial separation is not the requested length.",
+    "2026-3-09:4": "Treat X and Y as fixed spatial points in A frame, as intended by the transit question. L0=0.8c*5s=4 light-seconds; gamma=5/3; simultaneous endpoint separation in B is L0/gamma=2.4 light-seconds, only choice 2. Departure and arrival occur at the same spaceship position in B and are not simultaneous endpoint events; their zero spatial separation is not the requested length.",
+    "2026-3-09:5": "Treat X and Y as fixed spatial points in A frame, as intended by the transit question. L0=0.8c*5s=4 light-seconds; gamma=5/3; simultaneous endpoint separation in B is L0/gamma=2.4 light-seconds, only choice 2. Departure and arrival occur at the same spaceship position in B and are not simultaneous endpoint events; their zero spatial separation is not the requested length."
+  },
+  "retrievalMethod": "Direct web open",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

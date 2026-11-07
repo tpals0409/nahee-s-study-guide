@@ -1,0 +1,16 @@
+{
+  "id": "c6265a2f7f85cb970aec",
+  "kind": "science",
+  "source": "NPTEL",
+  "ref": "NPTEL Bioinorganic Chemistry, Module 7, Photosystems",
+  "url": "https://archive.nptel.ac.in/content/storage2/courses/104103069/module7/lec3/1.html",
+  "excerpt": "PS II optimally absorbs photons of a wavelength of 680 nm",
+  "sourceHash": "70dd90ffc2dd1f31fc4c33afd0bb4b4b808114b2cd0b8aa1ffca0345101c37d3",
+  "cacheSourceId": "e368c711059c2f9db23b",
+  "retrievedAt": "2026-11-07T05:45:35.801701+00:00",
+  "reviewedMappings": {
+    "2020-3-26:2": "②의 PSII700nm 주장을 직접 반박하는 680nm 교육 자료. 같은 문단 PSI700nm도 직접 확인."
+  },
+  "retrievalMethod": "Direct NPTEL course page HTML",
+  "sourceHashScope": "Selected short excerpt only; not full source"
+}

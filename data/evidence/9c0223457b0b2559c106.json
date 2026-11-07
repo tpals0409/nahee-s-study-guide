@@ -1,0 +1,19 @@
+{
+  "id": "9c0223457b0b2559c106",
+  "kind": "science",
+  "source": "Microbiology Society",
+  "ref": "Chassard et al. (2012), Ruminococcus champanellensis sp. nov., a cellulose-degrading bacterium from human gut microbiota",
+  "url": "https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijs.0.027375-0",
+  "excerpt": "Acetate and succinate were the major end products of cellulose and cellobiose fermentation.",
+  "sourceHash": "e6e82d3f3c58e2a7bd9041124e6f4cfbc8cfbb9c213afe7417412a203b7536f5",
+  "cacheSourceId": "d665a355f5f06a89d545",
+  "retrievedAt": "2026-11-07T05:23:56.811599+00:00",
+  "reviewedMappings": {
+    "2014-3-26:0": "2012년 원저 초록은 사람 분변 분리균의 미결정 셀룰로스 분해와 acetate/succinate 생성을 보고한다. 사람 장내세균의 분해 능력이 없다는 주장에 반례지만 숙주 흡수량·에너지 기여의 직접 측정은 아니다.",
+    "2014-3-26:1": "ㄱ의 셀룰로스 분해 능력은 사람 분변 분리균에서 관찰되었다. 모든 사람·모든 장내세균에 일반화하거나 숙주 소화 기여량까지 입증했다고 쓰지 않는다.",
+    "2014-3-26:2": "ㄱ을 사람 자체의 셀룰레이스 부재로 배제하는 논리는 부정확하다. 분리균 발효 결과와 인간 생체 내 소화 기여는 구별해야 한다.",
+    "2014-3-26:4": "저장정답④에 맞추어 ㄱ을 무조건 거짓으로 설명할 수 없게 하는 시험 이전 연구 근거다."
+  },
+  "retrievalMethod": "Direct publisher abstract open",
+  "sourceHashScope": "Selected short excerpt only; not full article"
+}

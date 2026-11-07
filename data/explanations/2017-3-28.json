@@ -1,0 +1,86 @@
+{
+  "id": "2017-3-28",
+  "summary": "정답은 ③ 조면소포체 → 골지체 → 수송낭입니다. 분비될 항체는 소포체에서 골지체로 전달되고, 분비 소낭이 세포막과 융합하면서 세포 밖으로 나갑니다.",
+  "choices": [
+    "오답입니다. 항체 단백질의 이동은 핵 내부에서 시작하지 않습니다. 분비 단백질의 합성·진입에 해당하는 것은 리보솜이 붙은 조면소포체입니다.",
+    "오답입니다. 핵 내부와 리소좀을 거치는 순서가 아닙니다. 조면소포체 다음에 단백질을 가공·분류하는 골지체가 와야 합니다.",
+    "정답입니다. 조면소포체에서 합성·가공된 항체는 운반 소낭으로 골지체에 전달됩니다. 골지체를 거친 뒤 분비 소낭에 실려 세포막과 융합하고 세포외배출됩니다.",
+    "오답입니다. 리소좀은 주로 세포 내 물질의 분해를 담당하며, 정상적인 항체 분비 경로에서 골지체를 대신하는 중간 단계가 아닙니다.",
+    "오답입니다. 항체는 조면소포체에 결합한 리보솜에서 합성되어 소포체 안으로 들어갑니다. 활면소포체 → 리보솜 → 리소좀은 항체 분비 경로가 아닙니다."
+  ],
+  "lawNote": "③은 주요 소기관 순서를 간략히 나타낸 것입니다. 조면소포체와 골지체 사이에도 운반 소낭이 사용되며, 골지체 이후에는 분비 소낭이 세포막과 융합합니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e §4.4 The Endomembrane System and Proteins",
+      "quote": "Membrane and secretory proteins are synthesized in the rough endoplasmic reticulum (RER).",
+      "url": "https://openstax.org/books/biology-2e/pages/4-4-the-endomembrane-system-and-proteins",
+      "evidenceId": "4add1b3d03a571d3fc78",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e §4.4 The Endomembrane System and Proteins",
+      "quote": "Membrane and secretory proteins are synthesized in the rough endoplasmic reticulum (RER).",
+      "url": "https://openstax.org/books/biology-2e/pages/4-4-the-endomembrane-system-and-proteins",
+      "evidenceId": "4add1b3d03a571d3fc78",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e §4.4 The Endomembrane System and Proteins",
+      "quote": "Membrane and secretory proteins are synthesized in the rough endoplasmic reticulum (RER).",
+      "url": "https://openstax.org/books/biology-2e/pages/4-4-the-endomembrane-system-and-proteins",
+      "evidenceId": "4add1b3d03a571d3fc78",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e §4.4 The Endomembrane System and Proteins",
+      "quote": "Membrane and secretory proteins are synthesized in the rough endoplasmic reticulum (RER).",
+      "url": "https://openstax.org/books/biology-2e/pages/4-4-the-endomembrane-system-and-proteins",
+      "evidenceId": "4add1b3d03a571d3fc78",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e §4.4 The Endomembrane System and Proteins",
+      "quote": "Membrane and secretory proteins are synthesized in the rough endoplasmic reticulum (RER).",
+      "url": "https://openstax.org/books/biology-2e/pages/4-4-the-endomembrane-system-and-proteins",
+      "evidenceId": "4add1b3d03a571d3fc78",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e §4.4 The Endomembrane System and Proteins",
+      "quote": "Membrane and secretory proteins are synthesized in the rough endoplasmic reticulum (RER).",
+      "url": "https://openstax.org/books/biology-2e/pages/4-4-the-endomembrane-system-and-proteins",
+      "evidenceId": "4add1b3d03a571d3fc78",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "Original image and textbook secretory pathway reviewed; all five routes compared",
+    "contentHash": "f1d9729091f2fd7762b6ac699a54007eef1cb4639a9751473271057cdc1a8963"
+  }
+}

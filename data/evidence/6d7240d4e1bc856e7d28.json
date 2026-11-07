@@ -1,0 +1,14 @@
+{
+  "id": "6d7240d4e1bc856e7d28",
+  "kind": "science",
+  "source": "OpenStax · University Physics Volume 2",
+  "ref": "14.4",
+  "url": "https://openstax.org/books/university-physics-volume-2/pages/14-4-rl-circuits",
+  "excerpt": "The circuit then becomes equivalent to a resistor connected across a source of emf.",
+  "sourceHash": "a089634feccb6106e60bb553578e752984d6fb9d3203b037e6aa1cb2143d1172",
+  "cacheSourceId": "5cee401ec3b1eaf6b607",
+  "retrievedAt": "2026-11-06T14:52:06.021113+00:00",
+  "reviewedMappings": {
+    "2009-3-03:0": "ㄴ: 원문 식14.24와14.25의 일정 직류에 대한 I(t),τ=L/R를 확인. L은 과도응답을 바꾸며 정상전류는V/R. 주기적 교류의 위상조절을 직류에 적용한 진술은 틀림."
+  }
+}

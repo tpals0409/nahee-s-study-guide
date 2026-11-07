@@ -1,0 +1,18 @@
+{
+  "id": "52e2549d2cd2a864690c",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume 2 §3.6 Adiabatic Processes for an Ideal Gas",
+  "url": "https://openstax.org/books/university-physics-volume-2/pages/3-6-adiabatic-processes-for-an-ideal-gas",
+  "excerpt": "in an adiabatic expansion, the gas does work and its temperature drops.",
+  "sourceHash": "d5f1c9e45bde20c6f313ca47db61865c071333dd39d631f344b14b3ebd9fc4a5",
+  "cacheSourceId": "c873d60bcb9dd7f6a9f5",
+  "retrievedAt": "2026-11-07T04:42:22.902333+00:00",
+  "reviewedMappings": {
+    "2013-3-16:0": "단열 팽창의 일과 온도 감소.",
+    "2013-3-16:1": "진공 자유팽창의 w=0과 외부압력에 맞서는 본 과정 구분.",
+    "2013-3-16:2": "이상기체 U(T) 및 단열 팽창 온도 감소."
+  },
+  "retrievalMethod": "Direct web open",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

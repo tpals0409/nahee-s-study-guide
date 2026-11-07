@@ -1,0 +1,21 @@
+{
+  "id": "67e6a1edaedcfb79d3a9",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e 7.2 — Glycolysis",
+  "url": "https://openstax.org/books/biology-2e/pages/7-2-glycolysis",
+  "excerpt": "producing glucose-6-phosphate, a more reactive form of glucose.",
+  "sourceHash": "cd5396873717de2483eba7e2772a324b13f324831bfd8e1ebf63f058948ef4ea",
+  "cacheSourceId": "b9db5bb7cdd14ed4ac4e",
+  "retrievedAt": "2026-11-06T17:27:40.989547+00:00",
+  "reviewedMappings": {
+    "2012-3-27:0": "첫 반응과 최종 피루브산 생성 단계 대조. 인산화는 포도당 탄소를 보존하므로 표지 탄소는 포도당-6-인산에 먼저 나타남. ①②③ 배제 및 ④⑤ 첫 항목 판단.",
+    "2012-3-27:1": "첫 반응과 최종 피루브산 생성 단계 대조. 인산화는 포도당 탄소를 보존하므로 표지 탄소는 포도당-6-인산에 먼저 나타남. ①②③ 배제 및 ④⑤ 첫 항목 판단.",
+    "2012-3-27:2": "첫 반응과 최종 피루브산 생성 단계 대조. 인산화는 포도당 탄소를 보존하므로 표지 탄소는 포도당-6-인산에 먼저 나타남. ①②③ 배제 및 ④⑤ 첫 항목 판단.",
+    "2012-3-27:3": "첫 반응과 최종 피루브산 생성 단계 대조. 인산화는 포도당 탄소를 보존하므로 표지 탄소는 포도당-6-인산에 먼저 나타남. ①②③ 배제 및 ④⑤ 첫 항목 판단.",
+    "2012-3-27:4": "첫 반응과 최종 피루브산 생성 단계 대조. 인산화는 포도당 탄소를 보존하므로 표지 탄소는 포도당-6-인산에 먼저 나타남. ①②③ 배제 및 ④⑤ 첫 항목 판단.",
+    "2012-3-27:5": "첫 반응과 최종 피루브산 생성 단계 대조. 인산화는 포도당 탄소를 보존하므로 표지 탄소는 포도당-6-인산에 먼저 나타남. ①②③ 배제 및 ④⑤ 첫 항목 판단."
+  },
+  "retrievalMethod": "web.open; pathway steps and energy-carrier yields directly reviewed",
+  "sourceHashScope": "Selected excerpt only; not full page"
+}

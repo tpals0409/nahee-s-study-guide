@@ -1,0 +1,16 @@
+{
+  "id": "b194c68a2cefc4a4bfef",
+  "kind": "science",
+  "source": "ISPRA",
+  "ref": "ISPRA Nummulites lyelli",
+  "url": "https://www.isprambiente.gov.it/it/attivita/museo/collezioni-paleontologiche/paleo-reperti/nummulites-lyelli-foraminifero",
+  "excerpt": "Era Cenozoica – Paleogene -Eocene medio",
+  "sourceHash": "f7062e62db058d358e35bcad76b8fbf90d8983edd8bbe45fb9872b65c433db44",
+  "cacheSourceId": "a4780f8af59a188a3cb6",
+  "retrievedAt": "2026-11-07T04:18:59.799821+00:00",
+  "reviewedMappings": {
+    "2026-3-34:5": "Specimen chronology20 explicitly Cenozoic Paleogene middleEocene;26 foraminifera."
+  },
+  "retrievalMethod": "Direct web open/find",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "c8ce4b038a0d59fc38bf",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 2e §9.3 Stoichiometry of Gaseous Substances, Mixtures, and Reactions",
+  "url": "https://openstax.org/books/chemistry-2e/pages/9-3-stoichiometry-of-gaseous-substances-mixtures-and-reactions",
+  "excerpt": "The total pressure is given by the sum of the partial pressures:",
+  "sourceHash": "6cdd8d87e66bb968291c01eb02e4d4623abae94527c46ed309e4bbd0961d94a0",
+  "cacheSourceId": "58896b4a253a79d12d79",
+  "retrievedAt": "2026-11-06T23:21:35.746112+00:00",
+  "reviewedMappings": {
+    "2020-3-20:0": "직접 열람한 150–171행 PA=XA Ptotal 및 분압 합. 기체 몰분율을 yA로 표기하여 액체 몰분율 xA와 구별하고 yA=PA/(PA+PB)에 대입. yA/xA=400/P=2에서 P=200, xA=1/5, xB=4/5.",
+    "2020-3-20:1": "직접 열람한 150–171행 PA=XA Ptotal 및 분압 합. 기체 몰분율을 yA로 표기하여 액체 몰분율 xA와 구별하고 yA=PA/(PA+PB)에 대입. 선지 1: (xB,PA,PB,P,yA/xA)=('1/2', '200', '75', '275', '16/11'). 비율이2인 선지만 채택.",
+    "2020-3-20:2": "직접 열람한 150–171행 PA=XA Ptotal 및 분압 합. 기체 몰분율을 yA로 표기하여 액체 몰분율 xA와 구별하고 yA=PA/(PA+PB)에 대입. 선지 2: (xB,PA,PB,P,yA/xA)=('3/5', '160', '90', '250', '8/5'). 비율이2인 선지만 채택.",
+    "2020-3-20:3": "직접 열람한 150–171행 PA=XA Ptotal 및 분압 합. 기체 몰분율을 yA로 표기하여 액체 몰분율 xA와 구별하고 yA=PA/(PA+PB)에 대입. 선지 3: (xB,PA,PB,P,yA/xA)=('7/10', '120', '105', '225', '16/9'). 비율이2인 선지만 채택.",
+    "2020-3-20:4": "직접 열람한 150–171행 PA=XA Ptotal 및 분압 합. 기체 몰분율을 yA로 표기하여 액체 몰분율 xA와 구별하고 yA=PA/(PA+PB)에 대입. 선지 4: (xB,PA,PB,P,yA/xA)=('4/5', '80', '120', '200', '2'). 비율이2인 선지만 채택.",
+    "2020-3-20:5": "직접 열람한 150–171행 PA=XA Ptotal 및 분압 합. 기체 몰분율을 yA로 표기하여 액체 몰분율 xA와 구별하고 yA=PA/(PA+PB)에 대입. 선지 5: (xB,PA,PB,P,yA/xA)=('9/10', '40', '135', '175', '16/7'). 비율이2인 선지만 채택."
+  },
+  "retrievalMethod": "직접 열람한 150–171행 PA=XA Ptotal 및 분압 합. 기체 몰분율을 yA로 표기하여 액체 몰분율 xA와 구별하고 yA=PA/(PA+PB)에 대입.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

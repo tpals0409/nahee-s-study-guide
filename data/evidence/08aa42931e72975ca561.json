@@ -1,0 +1,16 @@
+{
+  "id": "08aa42931e72975ca561",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume 2 §10.1, ideal battery",
+  "url": "https://openstax.org/books/university-physics-volume-2/pages/10-1-electromotive-force",
+  "excerpt": "An ideal battery has no internal resistance, and the terminal voltage is equal to the emf of the battery.",
+  "sourceHash": "fbc0afa0c5fe1e5e2e376fae6f54336b85c81b2df892f3e4928881df585ff7b7",
+  "cacheSourceId": "da7bb88dbbbc5e5b616d",
+  "retrievedAt": "2026-11-06T16:18:59.091138+00:00",
+  "reviewedMappings": {
+    "2011-3-03:0": "원본의 내부저항 무시 조건에 따라 전지 단자전압 2V를 적용한다."
+  },
+  "retrievalMethod": "web.run source text, manually reviewed",
+  "sourceHashScope": "Selected excerpts only; not full page"
+}

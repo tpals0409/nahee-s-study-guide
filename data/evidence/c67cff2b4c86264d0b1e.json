@@ -1,0 +1,16 @@
+{
+  "id": "c67cff2b4c86264d0b1e",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume 1 §5.5 Newton’s Third Law, equation 5.10",
+  "url": "https://openstax.org/books/university-physics-volume-1/pages/5-5-newtons-third-law",
+  "excerpt": "equal in magnitude and opposite in direction",
+  "sourceHash": "531b3e0880dc6d72efea396fe9a8f946c7470e35c0db83eee6e70aff7d9f3fcb",
+  "cacheSourceId": "bc7d4e9551f474c5020a",
+  "retrievedAt": "2026-11-06T16:23:28.062908+00:00",
+  "reviewedMappings": {
+    "2011-3-09:0": "라켓A가 공에 가하는 힘과 그 공이 라켓A에 가하는 힘은 서로 다른 물체에 작용하는 제3법칙 힘쌍. 크기 같으므로 ㄷ참. 두 라켓의 힘 FA와FB 자체를 작용반작용 쌍으로 보지 않음."
+  },
+  "retrievalMethod": "web.run; equations and explanations manually reviewed",
+  "sourceHashScope": "Selected excerpt only; not full page"
+}

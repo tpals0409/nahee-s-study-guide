@@ -1,0 +1,85 @@
+{
+  "id": "2020-3-07",
+  "summary": "도선이 둘러싼 면적 중 영역 I은 2l², 영역 II는 l²입니다. 두 자기장이 면에 수직으로 같은 방향이므로 전체 선속은 Φ=(2at)(2l²)+(at+b)l²=5al²t+bl²입니다. 패러데이 법칙에서 |ε|=|dΦ/dt|=5|a|l²이며, 문제의 양의 시간에서 주어진 자기장 방향·세기에 맞게 a>0으로 읽으면 5al², 즉 ⑤입니다.",
+  "choices": [
+    "오답입니다. 영역 II의 선속 변화율은 al²이지만 영역 I에서도 4al²이 더해집니다. 전체 크기는 5al²입니다.",
+    "오답입니다. 영역 I의 면적은 2l²이고 변화율은 2a이므로 이 부분만으로도 4al²입니다. 전체 값은 2al²이 아닙니다.",
+    "오답입니다. 영역 I과 II의 기여는 각각 4al²과 al²입니다. 같은 방향으로 더해져 5al²이므로 3al²이 아닙니다.",
+    "오답입니다. 4al²은 영역 I의 기여에 해당합니다. 영역 II의 al²을 더해야 합니다.",
+    "정답입니다. |ε|=|2l²·2a+l²·a|=5al²입니다(a>0). 상수 b는 선속에 포함되지만 시간 미분하면 사라집니다."
+  ],
+  "lawNote": "기전력의 크기를 구할 때는 선속 변화율의 절댓값을 취합니다. a의 부호를 제한하지 않는 일반식은 5|a|l²입니다. 도선은 고정되어 있으므로 면적 변화 항은 없습니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2 §13.1 Faraday’s Law",
+      "quote": "The negative sign describes the direction in which the induced emf drives current around a circuit.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/13-1-faradays-law",
+      "evidenceId": "f9569a211a7fa8a08a49",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2 §13.1 Faraday’s Law",
+      "quote": "The negative sign describes the direction in which the induced emf drives current around a circuit.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/13-1-faradays-law",
+      "evidenceId": "f9569a211a7fa8a08a49",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2 §13.1 Faraday’s Law",
+      "quote": "The negative sign describes the direction in which the induced emf drives current around a circuit.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/13-1-faradays-law",
+      "evidenceId": "f9569a211a7fa8a08a49",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2 §13.1 Faraday’s Law",
+      "quote": "The negative sign describes the direction in which the induced emf drives current around a circuit.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/13-1-faradays-law",
+      "evidenceId": "f9569a211a7fa8a08a49",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2 §13.1 Faraday’s Law",
+      "quote": "The negative sign describes the direction in which the induced emf drives current around a circuit.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/13-1-faradays-law",
+      "evidenceId": "f9569a211a7fa8a08a49",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2 §13.1 Faraday’s Law",
+      "quote": "The negative sign describes the direction in which the induced emf drives current around a circuit.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/13-1-faradays-law",
+      "evidenceId": "f9569a211a7fa8a08a49",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Original region widths and field orientation visually verified; independent flux integration and exact finite-difference derivative checks; absolute-value qualification added; speculative distractor origins removed; primary source mapping.",
+    "contentHash": "6da8e507e6dc6d70aa359988ab3d2c9a31778c54884099a581f4b8dab0a6bf49"
+  }
+}

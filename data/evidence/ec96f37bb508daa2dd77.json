@@ -1,0 +1,21 @@
+{
+  "id": "ec96f37bb508daa2dd77",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 2e §17.1 — Balancing Redox Equations",
+  "url": "https://openstax.org/books/chemistry-2e/pages/17-1-review-of-redox-chemistry",
+  "excerpt": "the number of electrons consumed in one is equal to the number produced in the other.",
+  "sourceHash": "116feff2beabd39f95fea770589a00ae68327594f289f41fdde0a82f8d67b786",
+  "cacheSourceId": "ff222bf8c00b93e2bf1f",
+  "retrievedAt": "2026-11-06T21:51:30.996191+00:00",
+  "reviewedMappings": {
+    "2018-3-14:0": "반쪽 반응의 원자·전하 보존과 전자 수 일치 절차를 직접 검토. 독립 균형식 Cr₂O₇²⁻+14H⁺+6e⁻→2Cr³⁺+7H₂O는 Cr2/O7/H14, 양변 전하+6으로 보존. 주어진 에탄올 반응의 12전자와 결합하여 몰비 dichromate:ethanol=2:1. 모든 선지 계산의 출발점.",
+    "2018-3-14:1": "반쪽 반응의 원자·전하 보존과 전자 수 일치 절차를 직접 검토. 독립 균형식 Cr₂O₇²⁻+14H⁺+6e⁻→2Cr³⁺+7H₂O는 Cr2/O7/H14, 양변 전하+6으로 보존. 주어진 에탄올 반응의 12전자와 결합하여 몰비 dichromate:ethanol=2:1. 모든 선지 계산의 출발점.",
+    "2018-3-14:2": "반쪽 반응의 원자·전하 보존과 전자 수 일치 절차를 직접 검토. 독립 균형식 Cr₂O₇²⁻+14H⁺+6e⁻→2Cr³⁺+7H₂O는 Cr2/O7/H14, 양변 전하+6으로 보존. 주어진 에탄올 반응의 12전자와 결합하여 몰비 dichromate:ethanol=2:1. 모든 선지 계산의 출발점.",
+    "2018-3-14:3": "반쪽 반응의 원자·전하 보존과 전자 수 일치 절차를 직접 검토. 독립 균형식 Cr₂O₇²⁻+14H⁺+6e⁻→2Cr³⁺+7H₂O는 Cr2/O7/H14, 양변 전하+6으로 보존. 주어진 에탄올 반응의 12전자와 결합하여 몰비 dichromate:ethanol=2:1. 모든 선지 계산의 출발점.",
+    "2018-3-14:4": "반쪽 반응의 원자·전하 보존과 전자 수 일치 절차를 직접 검토. 독립 균형식 Cr₂O₇²⁻+14H⁺+6e⁻→2Cr³⁺+7H₂O는 Cr2/O7/H14, 양변 전하+6으로 보존. 주어진 에탄올 반응의 12전자와 결합하여 몰비 dichromate:ethanol=2:1. 모든 선지 계산의 출발점.",
+    "2018-3-14:5": "반쪽 반응의 원자·전하 보존과 전자 수 일치 절차를 직접 검토. 독립 균형식 Cr₂O₇²⁻+14H⁺+6e⁻→2Cr³⁺+7H₂O는 Cr2/O7/H14, 양변 전하+6으로 보존. 주어진 에탄올 반응의 12전자와 결합하여 몰비 dichromate:ethanol=2:1. 모든 선지 계산의 출발점."
+  },
+  "retrievalMethod": "Direct web open; relevant definition and equations reviewed; selected verbatim excerpt retained",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

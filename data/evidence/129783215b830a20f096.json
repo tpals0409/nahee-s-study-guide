@@ -1,0 +1,21 @@
+{
+  "id": "129783215b830a20f096",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 2e §12.1 Chemical Reaction Rates",
+  "url": "https://openstax.org/books/chemistry-2e/pages/12-1-chemical-reaction-rates",
+  "excerpt": "The rate of a reaction may be expressed as the change in concentration of any reactant or product.",
+  "sourceHash": "1605e7373c15b4bcf79d0dea1f1a0dcc0c5cda5c69ca2951f06e48804b96b2ab",
+  "cacheSourceId": "42596ce2284d6070604e",
+  "retrievedAt": "2026-11-07T04:54:23.608257+00:00",
+  "reviewedMappings": {
+    "2024-3-13:0": "소모속도와반응식계수정규화속도구분. 공식④는소모속도해석과일치. 평균소모속도 A c/120 M/s,D c/240 M/s,비2;정규화비1.",
+    "2024-3-13:1": "소모속도와반응식계수정규화속도구분. 공식④는소모속도해석과일치. 평균소모속도 A c/120 M/s,D c/240 M/s,비2;정규화비1.",
+    "2024-3-13:2": "소모속도와반응식계수정규화속도구분. 공식④는소모속도해석과일치. 평균소모속도 A c/120 M/s,D c/240 M/s,비2;정규화비1.",
+    "2024-3-13:3": "소모속도와반응식계수정규화속도구분. 공식④는소모속도해석과일치. 평균소모속도 A c/120 M/s,D c/240 M/s,비2;정규화비1.",
+    "2024-3-13:4": "소모속도와반응식계수정규화속도구분. 공식④는소모속도해석과일치. 평균소모속도 A c/120 M/s,D c/240 M/s,비2;정규화비1.",
+    "2024-3-13:5": "소모속도와반응식계수정규화속도구분. 공식④는소모속도해석과일치. 평균소모속도 A c/120 M/s,D c/240 M/s,비2;정규화비1."
+  },
+  "retrievalMethod": "Direct web open/find",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

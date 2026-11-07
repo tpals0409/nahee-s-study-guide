@@ -1,0 +1,21 @@
+{
+  "id": "e00920f982d1db03ebb7",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 2e 9.3 Stoichiometry of Gaseous Substances, Mixtures, and Reactions",
+  "url": "https://openstax.org/books/chemistry-2e/pages/9-3-stoichiometry-of-gaseous-substances-mixtures-and-reactions",
+  "excerpt": "The gases behave independently, so the partial pressure of each gas can be determined from the ideal gas equation",
+  "sourceHash": "827c1fe2b0e42ea2cb8b0c6206bfa5e204462182a74a656056f32e270ff91e0d",
+  "cacheSourceId": "b2ee57c0c148c968e3aa",
+  "retrievedAt": "2026-11-06T20:13:57.483491+00:00",
+  "reviewedMappings": {
+    "2016-3-11:0": "본문 150~165행의 부분압력 P_i=n_iRT/V 적용. 원문에서 기체 출입 없는 피스톤 압축과 냉각이므로 nHe 일정. (200/1)/(300/2)=4/3으로 He 부분압력 증가, ㄱ 참.",
+    "2016-3-11:1": "본문 150~165행의 부분압력 P_i=n_iRT/V 적용. 원문에서 기체 출입 없는 피스톤 압축과 냉각이므로 nHe 일정. (200/1)/(300/2)=4/3으로 He 부분압력 증가, ㄱ 참.",
+    "2016-3-11:2": "본문 150~165행의 부분압력 P_i=n_iRT/V 적용. 원문에서 기체 출입 없는 피스톤 압축과 냉각이므로 nHe 일정. (200/1)/(300/2)=4/3으로 He 부분압력 증가, ㄱ 참.",
+    "2016-3-11:3": "본문 150~165행의 부분압력 P_i=n_iRT/V 적용. 원문에서 기체 출입 없는 피스톤 압축과 냉각이므로 nHe 일정. (200/1)/(300/2)=4/3으로 He 부분압력 증가, ㄱ 참.",
+    "2016-3-11:4": "본문 150~165행의 부분압력 P_i=n_iRT/V 적용. 원문에서 기체 출입 없는 피스톤 압축과 냉각이므로 nHe 일정. (200/1)/(300/2)=4/3으로 He 부분압력 증가, ㄱ 참.",
+    "2016-3-11:5": "본문 150~165행의 부분압력 P_i=n_iRT/V 적용. 원문에서 기체 출입 없는 피스톤 압축과 냉각이므로 nHe 일정. (200/1)/(300/2)=4/3으로 He 부분압력 증가, ㄱ 참."
+  },
+  "retrievalMethod": "web open: directly reviewed source equations and explanatory text",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

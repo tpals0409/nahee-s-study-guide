@@ -1,0 +1,16 @@
+{
+  "id": "e6cad82e9f7be294264d",
+  "kind": "science",
+  "source": "Smithsonian Institution",
+  "ref": "Smithsonian Human Origins: Homo habilis",
+  "url": "https://humanorigins.si.edu/evidence/human-fossils/species/homo-habilis",
+  "excerpt": "When Lived: 2.4 million to 1.4 million years ago",
+  "sourceHash": "a093493934dd7090238dec39403b1968f8da59070236eec4b25c60685de4f061",
+  "cacheSourceId": "4fd41011e972da08d2e9",
+  "retrievedAt": "2026-11-06T18:16:26.170139+00:00",
+  "reviewedMappings": {
+    "2013-3-30:0": "Homo habilis 공식종소개 When Lived 시작연대 2.4백만년전 직접확인. 첫출현순서3.85>2.4>1.89 비교. 존속기간중첩과 직계계보를 혼동하지 않음."
+  },
+  "retrievalMethod": "web.open",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

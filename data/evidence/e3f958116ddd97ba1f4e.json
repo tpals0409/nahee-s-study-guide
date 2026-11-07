@@ -1,0 +1,21 @@
+{
+  "id": "e3f958116ddd97ba1f4e",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Organic Chemistry, 17.11 Spectroscopy of Alcohols and Phenols",
+  "url": "https://openstax.org/books/organic-chemistry/pages/17-11-spectroscopy-of-alcohols-and-phenols",
+  "excerpt": "a characteristic O–H stretching absorption at 3300 to 3600",
+  "sourceHash": "03ed54e7a81836986ba70544f3d84c778ce503aafe74449e964ff56d0dc21ec3",
+  "cacheSourceId": "a29536e866a952a1d1ac",
+  "retrievedAt": "2026-11-07T00:05:08.123202+00:00",
+  "reviewedMappings": {
+    "2021-3-15:0": "B의 3368은 알코올 O–H 영역. A에는 해당 특성 흡수가 제시되지 않음. 그림의 OH 유무를 비교하여 ③④를 배제하며 ①②⑤의 작용기 배치는 일치. 표는 폭을 제시하지 않으므로 실제 넓은 봉우리를 관찰했다고 표현하지 않음.",
+    "2021-3-15:1": "B의 3368은 알코올 O–H 영역. A에는 해당 특성 흡수가 제시되지 않음. 그림의 OH 유무를 비교하여 ③④를 배제하며 ①②⑤의 작용기 배치는 일치. 표는 폭을 제시하지 않으므로 실제 넓은 봉우리를 관찰했다고 표현하지 않음.",
+    "2021-3-15:2": "B의 3368은 알코올 O–H 영역. A에는 해당 특성 흡수가 제시되지 않음. 그림의 OH 유무를 비교하여 ③④를 배제하며 ①②⑤의 작용기 배치는 일치. 표는 폭을 제시하지 않으므로 실제 넓은 봉우리를 관찰했다고 표현하지 않음.",
+    "2021-3-15:3": "B의 3368은 알코올 O–H 영역. A에는 해당 특성 흡수가 제시되지 않음. 그림의 OH 유무를 비교하여 ③④를 배제하며 ①②⑤의 작용기 배치는 일치. 표는 폭을 제시하지 않으므로 실제 넓은 봉우리를 관찰했다고 표현하지 않음.",
+    "2021-3-15:4": "B의 3368은 알코올 O–H 영역. A에는 해당 특성 흡수가 제시되지 않음. 그림의 OH 유무를 비교하여 ③④를 배제하며 ①②⑤의 작용기 배치는 일치. 표는 폭을 제시하지 않으므로 실제 넓은 봉우리를 관찰했다고 표현하지 않음.",
+    "2021-3-15:5": "B의 3368은 알코올 O–H 영역. A에는 해당 특성 흡수가 제시되지 않음. 그림의 OH 유무를 비교하여 ③④를 배제하며 ①②⑤의 작용기 배치는 일치. 표는 폭을 제시하지 않으므로 실제 넓은 봉우리를 관찰했다고 표현하지 않음."
+  },
+  "retrievalMethod": "Direct page reviewed: IR sections §17.11 line26 / §18.8 line27; original question image independently checked.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

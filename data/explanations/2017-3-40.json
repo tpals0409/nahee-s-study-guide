@@ -1,0 +1,86 @@
+{
+  "id": "2017-3-40",
+  "summary": "정답은 ②입니다. 그림에서 ㄱ은 초거성, ㄴ은 거성, ㄷ은 주계열성, ㄹ은 백색 왜성에 해당합니다.",
+  "choices": [
+    "오답입니다. ㄴ은 주계열보다 위쪽에 모인 거성이고, ㄷ은 왼쪽 위에서 오른쪽 아래로 이어지는 주계열입니다. 두 분류가 바뀌었습니다.",
+    "정답입니다. ㄱ의 매우 밝은 상부 무리는 초거성, ㄴ의 주계열 위쪽 무리는 거성, ㄷ의 대각선 띠는 주계열성, ㄹ의 고온이면서 어두운 왼쪽 아래 무리는 백색 왜성입니다.",
+    "오답입니다. ㄱ과 ㄹ이 바뀌었습니다. 이 그림의 ㄱ은 매우 밝은 초거성이며, ㄹ은 표면 온도가 높지만 크기가 작아 어두운 백색 왜성입니다.",
+    "오답입니다. ㄱ·ㄴ·ㄷ·ㄹ은 차례로 초거성·거성·주계열성·백색 왜성입니다. 네 영역의 대응이 모두 틀렸습니다.",
+    "오답입니다. ㄱ은 초거성이고 ㄴ은 거성입니다. ㄷ은 주계열의 대각선 띠이며 ㄹ은 백색 왜성 무리이므로 네 대응이 모두 틀렸습니다."
+  ],
+  "lawNote": "가로축은 O형에서 M형으로 갈수록 표면 온도가 낮아집니다. 세로축은 절대등급이므로 위쪽일수록 등급 수가 작고 밝습니다. ㄱ은 이 그림에 표시된 저온 초거성 영역이며, 모든 초거성이 저온인 것은 아닙니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Astronomy 2e §18.4 — Features of the H–R Diagram",
+      "quote": "It is customary to plot H–R diagrams in such a way that temperature increases toward the left and luminosity toward the top.",
+      "url": "https://openstax.org/books/astronomy-2e/pages/18-4-the-h-r-diagram",
+      "evidenceId": "c18105763a36c6b701c0",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Astronomy 2e §18.4 — Features of the H–R Diagram",
+      "quote": "It is customary to plot H–R diagrams in such a way that temperature increases toward the left and luminosity toward the top.",
+      "url": "https://openstax.org/books/astronomy-2e/pages/18-4-the-h-r-diagram",
+      "evidenceId": "c18105763a36c6b701c0",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Astronomy 2e §18.4 — Features of the H–R Diagram",
+      "quote": "It is customary to plot H–R diagrams in such a way that temperature increases toward the left and luminosity toward the top.",
+      "url": "https://openstax.org/books/astronomy-2e/pages/18-4-the-h-r-diagram",
+      "evidenceId": "c18105763a36c6b701c0",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Astronomy 2e §18.4 — Features of the H–R Diagram",
+      "quote": "It is customary to plot H–R diagrams in such a way that temperature increases toward the left and luminosity toward the top.",
+      "url": "https://openstax.org/books/astronomy-2e/pages/18-4-the-h-r-diagram",
+      "evidenceId": "c18105763a36c6b701c0",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Astronomy 2e §18.4 — Features of the H–R Diagram",
+      "quote": "It is customary to plot H–R diagrams in such a way that temperature increases toward the left and luminosity toward the top.",
+      "url": "https://openstax.org/books/astronomy-2e/pages/18-4-the-h-r-diagram",
+      "evidenceId": "c18105763a36c6b701c0",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Astronomy 2e §18.4 — Features of the H–R Diagram",
+      "quote": "It is customary to plot H–R diagrams in such a way that temperature increases toward the left and luminosity toward the top.",
+      "url": "https://openstax.org/books/astronomy-2e/pages/18-4-the-h-r-diagram",
+      "evidenceId": "c18105763a36c6b701c0",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "원본 H-R도 축·표지·선지 판독 및 천문학 교재의 항성 분포 대조",
+    "contentHash": "c59e136da1f11aaf9a68eb26554ea71c142c37119437841a7434d798ccaa393b"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "34e18f21214b52fa5516",
+  "kind": "science",
+  "source": "Nucleic Acids Research / Edinburgh Research Explorer",
+  "ref": "Smith et al. (2003), Single primer amplification (SPA) of cDNA for microarray expression analysis",
+  "url": "https://www.pure.ed.ac.uk/ws/portalfiles/portal/9113434/Single_primer_amplification_SPA_of_cDNA_for_microarray_expression_analysis.pdf",
+  "excerpt": "Preparation of labelled target cDNA for hybridisation to microarray slides was carried out using one of three methods.",
+  "sourceHash": "9bbcc935971c9f89124827d0aeb7daca745bf7d3dccc0819ecc0ac27aaabae39",
+  "cacheSourceId": "f6bc6e89259ca2717227",
+  "retrievedAt": "2026-11-07T05:20:09.516547+00:00",
+  "reviewedMappings": {
+    "2012-3-25:0": "ㄷ: RNA를 cDNA로 전환한 뒤 증폭·형광 표지하고 microarray에 혼성화한다. mRNA 자체를 DNA 중합효소로 직접 증폭한다고 쓰지 않는다.",
+    "2012-3-25:2": "ㄷ의 소량 RNA 유래 시료 증폭 후 표지 사용을 지지한다. cDNA 합성 뒤 희석한 실험이므로 모든 극소량 원시료의 성능 보장으로 일반화하지 않는다.",
+    "2012-3-25:3": "ㄷ은 cDNA 전환·증폭·표지의 방법에서 지지된다. ㄹ의 제작 상태 판정과는 별개이다.",
+    "2012-3-25:4": "ㄷ이 가능한 실험 절차임을 지지하므로 ㄷ을 빼는 조합에 대한 설명 근거이다.",
+    "2012-3-25:5": "ㄷ의 절차를 지지하되 ㄹ을 거짓으로 처리하는 근거는 아니다."
+  },
+  "retrievalMethod": "Direct web open/find",
+  "sourceHashScope": "Selected short excerpt only; not full article"
+}

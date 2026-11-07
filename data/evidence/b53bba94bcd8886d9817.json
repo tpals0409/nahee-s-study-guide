@@ -1,0 +1,16 @@
+{
+  "id": "b53bba94bcd8886d9817",
+  "kind": "science",
+  "source": "NASA",
+  "ref": "Moon Fact Sheet — Moon/Earth Comparison",
+  "url": "https://nssdc.gsfc.nasa.gov/planetary/factsheet/moonfact.html",
+  "excerpt": "Mass (10^{24} kg) | 0.07346 | 5.9724 | 0.0123",
+  "sourceHash": "6b68f651a5036e476ef8415fbf0876939b87c3989cb2f2df5b8e00cebd44423a",
+  "cacheSourceId": "7e879d5b733d5eb3b210",
+  "retrievedAt": "2026-11-06T16:09:20.693368+00:00",
+  "reviewedMappings": {
+    "2010-3-40:0": "ㄴ: 표 열 순서는 Moon, Earth, Moon/Earth. 달 질량이 지구보다 작으므로 전체 소행성<달<지구를 도출."
+  },
+  "retrievalMethod": "web.open/web.find NASA body read; selected excerpts transcribed (table uses web-rendered cell separators)",
+  "sourceHashScope": "Selected excerpts only; not full page"
+}

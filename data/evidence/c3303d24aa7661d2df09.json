@@ -1,0 +1,18 @@
+{
+  "id": "c3303d24aa7661d2df09",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e, 4.4 The Endomembrane System and Proteins",
+  "url": "https://openstax.org/books/biology-2e/pages/4-4-the-endomembrane-system-and-proteins",
+  "excerpt": "storing calcium ions",
+  "sourceHash": "f84d78d1d4776a25e60907687afde6ba5ae634c939155e0c8a96208552436bf3",
+  "cacheSourceId": "8930302f44f6e163c62b",
+  "retrievedAt": "2026-11-07T01:49:53.264942+00:00",
+  "reviewedMappings": {
+    "2023-3-21:0": "ER소낭은Golgi cis면에합쳐지고 SER은Ca2+저장하므로③⑤거짓.",
+    "2023-3-21:3": "그림4.18 설명에서 ER소낭은cis면과융합,trans면에서운반소낭이나감.③은방향이반대.",
+    "2023-3-21:5": "Smooth ER 절은 칼슘이온저장을명시하고 근소포체예시를든다.⑤의저장이온은K+가아닌Ca2+. K+가소포체에전혀없다고확대하지않음."
+  },
+  "retrievalMethod": "Direct web open/find; relevant cytoskeleton dimensions, lysosomes/peroxisomes, SER and Golgi transport sections reviewed.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "7f692dd7739e6c6df79d",
+  "kind": "science",
+  "source": "NASA",
+  "ref": "Solar Science",
+  "url": "https://science.nasa.gov/heliophysics/focus-areas/solar-science/",
+  "excerpt": "the roughly 11-year cycle in solar activity.",
+  "sourceHash": "47658aabbc04e6adf466a22bb73af771ef628dc7a2211ca767a92275d65ee7ca",
+  "cacheSourceId": "d17f6038a040a2d5931b",
+  "retrievedAt": "2026-11-06T20:47:31.024529+00:00",
+  "reviewedMappings": {
+    "2016-3-38:0": "흑점 활동 약11년 주기와 극성이 원상복귀하는 약22년 주기를 구별하여 ④ 배제.",
+    "2016-3-38:4": "본문은 자기장 방향 변화와 원상복귀의 전체 주기가 약22년이고 활동 주기가 약11년이라고 구별한다. 흑점 극대→다음 극대 또는 극소→다음 극소가 21년이라는 주장은 틀림."
+  },
+  "retrievalMethod": "Indexed search excerpt reviewed; full page not opened.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

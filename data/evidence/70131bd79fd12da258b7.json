@@ -1,0 +1,20 @@
+{
+  "id": "70131bd79fd12da258b7",
+  "kind": "science",
+  "source": "Sedimentology / Wiley",
+  "ref": "Jobe, Lowe & Morris (2012), Climbing-ripple successions in turbidite systems",
+  "url": "https://onlinelibrary.wiley.com/doi/10.1111/j.1365-3091.2011.01283.x",
+  "excerpt": "Climbing-ripple cross-lamination is most commonly deposited by turbidity currents when suspended load fallout and bedload transport occur contemporaneously.",
+  "sourceHash": "471603ad745a7b8b4b59185542a288b9e9d1ce2485bcba68fa6081685313fc9e",
+  "cacheSourceId": "de7d3e26642e187005a2",
+  "retrievedAt": "2026-11-07T05:31:15.137350+00:00",
+  "reviewedMappings": {
+    "2025-3-32:0": "원저 초록은 뉴질랜드·남아프리카·멕시코만의 심해 climbing-ripple 퇴적층을 연구하며 저탁류 감속·확장과 부유퇴적 및 소류 운반의 동시 작용을 연결한다. 단순한 물결 표면 자국과 보존된 사층엽리의 차이는 있으나 연흔을 얕은 곳에만 한정할 수 없음을 지지한다. 특정 문제의 공식 채점 의도는 입증하지 않는다.",
+    "2025-3-32:1": "원저 초록은 뉴질랜드·남아프리카·멕시코만의 심해 climbing-ripple 퇴적층을 연구하며 저탁류 감속·확장과 부유퇴적 및 소류 운반의 동시 작용을 연결한다. 단순한 물결 표면 자국과 보존된 사층엽리의 차이는 있으나 연흔을 얕은 곳에만 한정할 수 없음을 지지한다. 특정 문제의 공식 채점 의도는 입증하지 않는다.",
+    "2025-3-32:3": "원저 초록은 뉴질랜드·남아프리카·멕시코만의 심해 climbing-ripple 퇴적층을 연구하며 저탁류 감속·확장과 부유퇴적 및 소류 운반의 동시 작용을 연결한다. 단순한 물결 표면 자국과 보존된 사층엽리의 차이는 있으나 연흔을 얕은 곳에만 한정할 수 없음을 지지한다. 특정 문제의 공식 채점 의도는 입증하지 않는다.",
+    "2025-3-32:4": "원저 초록은 뉴질랜드·남아프리카·멕시코만의 심해 climbing-ripple 퇴적층을 연구하며 저탁류 감속·확장과 부유퇴적 및 소류 운반의 동시 작용을 연결한다. 단순한 물결 표면 자국과 보존된 사층엽리의 차이는 있으나 연흔을 얕은 곳에만 한정할 수 없음을 지지한다. 특정 문제의 공식 채점 의도는 입증하지 않는다.",
+    "2025-3-32:5": "원저 초록은 뉴질랜드·남아프리카·멕시코만의 심해 climbing-ripple 퇴적층을 연구하며 저탁류 감속·확장과 부유퇴적 및 소류 운반의 동시 작용을 연결한다. 단순한 물결 표면 자국과 보존된 사층엽리의 차이는 있으나 연흔을 얕은 곳에만 한정할 수 없음을 지지한다. 특정 문제의 공식 채점 의도는 입증하지 않는다."
+  },
+  "retrievalMethod": "Direct web open",
+  "sourceHashScope": "Selected short excerpt only; not full source"
+}

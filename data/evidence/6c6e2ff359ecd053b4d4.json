@@ -1,0 +1,21 @@
+{
+  "id": "6c6e2ff359ecd053b4d4",
+  "kind": "science",
+  "source": "OpenStax Microbiology",
+  "ref": "11.6 How Asexual Prokaryotes Achieve Genetic Diversity",
+  "url": "https://openstax.org/books/microbiology/pages/11-6-how-asexual-prokaryotes-achieve-genetic-diversity",
+  "excerpt": "the bacterial cell may gain new phenotypic properties",
+  "sourceHash": "117ac571c310b3ce78f93fc20ef3acf3178659c8e8edf8e0fd4e380aa4bf1742",
+  "cacheSourceId": "2a4ac29859e5d873140a",
+  "retrievedAt": "2026-11-07T03:21:32.260556+00:00",
+  "reviewedMappings": {
+    "2025-3-25:0": "세 방식 정의를 원문의 ㄱㄴㄷ과 독립 대조하여 모두 참.",
+    "2025-3-25:1": "Transformation 절에 environmental naked DNA, recombination 및 plasmid uptake로 new phenotypic properties 획득 명시. ㄴㄷ 정의도 확인하여 단독선지 배제.",
+    "2025-3-25:2": "Conjugation 절 F+ donor→F- recipient 직접접촉 전달 확인; 특정 대장균 예를 모든 접합의 필수조건으로 일반화하지 않음.",
+    "2025-3-25:3": "Transduction 절에 bacteriophage가 세균간 DNA 이동 매개 명시, ㄴ 누락.",
+    "2025-3-25:4": "외부 DNA 재조합/플라스미드 도입으로 유전자형 및 표현형 변화 가능 명시; 항상 변한다고 해석하지 않음.",
+    "2025-3-25:5": "환경 DNA 흡수, 파지 매개, 직접접촉 각각 transformation/transduction/conjugation 정의와 일치."
+  },
+  "retrievalMethod": "Direct web reading of HGT definitions, transformation/recombination/plasmid maintenance, bacteriophage transduction, and donor-recipient F-plasmid conjugation.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "979ec92d687cfe70c931",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "2.3 Atomic Structure and Symbolism — Chemistry 2e",
+  "url": "https://openstax.org/books/chemistry-2e/pages/2-3-atomic-structure-and-symbolism",
+  "excerpt": "The number of protons in the nucleus of an atom is its atomic number (Z).",
+  "sourceHash": "7019151ef55fd48afcb0b8c93fabbe33441555a9b79fe64e2949f66c75a22684",
+  "cacheSourceId": "ced94cd690edea6aa900",
+  "retrievedAt": "2026-11-06T22:28:02.874299+00:00",
+  "reviewedMappings": {
+    "2019-3-11:0": "Reviewed definitions and isotope notation give Z=19,A=39,protons=19,neutrons=39-19=20,electrons=19 for neutral atom; only option 5 false.",
+    "2019-3-11:1": "Left subscript is atomic number; given subscript 19 supports option 1.",
+    "2019-3-11:2": "Left superscript is mass number; given superscript 39 supports option 2.",
+    "2019-3-11:3": "Atomic number equals proton count, so protons=19.",
+    "2019-3-11:4": "Mass number minus atomic number gives neutron count 39-19=20.",
+    "2019-3-11:5": "Neutrality requires electron count=proton count=19, not 20. With 20 electrons net charge would be -e."
+  },
+  "retrievalMethod": "Direct web open: atomic number, mass number, neutron count and neutral electron count lines 48–54; isotope superscript/subscript notation lines 102–106. Applied to given potassium isotope Z=19, A=39.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

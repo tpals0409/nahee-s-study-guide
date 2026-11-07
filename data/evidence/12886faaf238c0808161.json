@@ -1,0 +1,19 @@
+{
+  "id": "12886faaf238c0808161",
+  "kind": "science",
+  "source": "OpenStax Chemistry 2e",
+  "ref": "7.6 Molecular Structure and Polarity",
+  "url": "https://openstax.org/books/chemistry-2e/pages/7-6-molecular-structure-and-polarity",
+  "excerpt": "Two of the electron regions are lone pairs, so the molecular structure is bent.",
+  "sourceHash": "6c2f9b991d30f18def01b9d22b3e081df143624b9b51df18d7c7db3d1fc9feb9",
+  "cacheSourceId": "2b6923945d95d29f7961",
+  "retrievedAt": "2026-11-07T03:15:51.778725+00:00",
+  "reviewedMappings": {
+    "2025-3-19:0": "중심 O 주변 전자영역4 중 비공유쌍2인 OF2에 VSEPR 굽은형 적용.",
+    "2025-3-19:3": "OF2 중심 O의 전자영역4, 결합2/비공유2 → 굽은형이므로 ㄷ만 참.",
+    "2025-3-19:4": "ㄷ 굽은형 참이나 ㄱ 거짓이라 조합 오답.",
+    "2025-3-19:5": "ㄷ 굽은형 참이나 ㄴ 거짓이라 조합 오답."
+  },
+  "retrievalMethod": "Direct web page reading: octet, valence electron counting, bond pairs and OF2 example; four-region/two-lone-pair VSEPR geometry.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

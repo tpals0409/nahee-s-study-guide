@@ -1,0 +1,18 @@
+{
+  "id": "9665ec52a4676ed8538c",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e 14.1 Historical Basis of Modern Understanding",
+  "url": "https://openstax.org/books/biology-2e/pages/14-1-historical-basis-of-modern-understanding",
+  "excerpt": "other combinations were able to transform the bacteria",
+  "sourceHash": "54cce7a75cac7cbe0603a49e11b89ec6d22915fb919435945743c0f7e0dddbee",
+  "cacheSourceId": "7e2a6379b5954198ad15",
+  "retrievedAt": "2026-11-07T05:51:03.627030+00:00",
+  "reviewedMappings": {
+    "2012-3-29:0": "ㄴ의 표준 원리: DNA 이외 성분을 분해한 시료도 형질전환 가능. 실제 혼합된 생균에 대한 효소 농도·시간·독성을 모두 입증하는 자료는 아님.",
+    "2012-3-29:1": "ㄴ의 표준 원리: DNA 이외 성분을 분해한 시료도 형질전환 가능. 실제 혼합된 생균에 대한 효소 농도·시간·독성을 모두 입증하는 자료는 아님.",
+    "2012-3-29:4": "ㄴ의 표준 원리: DNA 이외 성분을 분해한 시료도 형질전환 가능. 실제 혼합된 생균에 대한 효소 농도·시간·독성을 모두 입증하는 자료는 아님."
+  },
+  "retrievalMethod": "Direct publisher textbook HTML",
+  "sourceHashScope": "Selected short excerpt only; not full source"
+}

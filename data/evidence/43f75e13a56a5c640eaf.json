@@ -1,0 +1,18 @@
+{
+  "id": "43f75e13a56a5c640eaf",
+  "kind": "science",
+  "source": "British Geological Survey",
+  "ref": "Trilobites",
+  "url": "https://www.bgs.ac.uk/discovering-geology/fossils-and-geological-time/trilobites/",
+  "excerpt": "Trilobites appeared in the Cambrian Period and became extinct at the end of the Permian Period.",
+  "sourceHash": "e4581610fa76ebeece09fd8b4075de1190cbd415c670af19242bfb1f265030ab",
+  "cacheSourceId": "3efe80a41f513b7799bd",
+  "retrievedAt": "2026-11-07T04:18:59.799457+00:00",
+  "reviewedMappings": {
+    "2021-3-32:3": "캄브리아기 출현부터 페름기 말 멸종까지의 범위를 확인. 삼엽충 화석은 고생대 지층과 부합함. 삼엽충 전체가 단기간만 생존했다는 의미의 표준화석 단정은 피함.",
+    "2026-3-34:0": "Marine arthropod paragraph34; Cambrian appearance and endPermian extinction22,94. False habitat and living era; not absolute exclusion of reworked specimens.",
+    "2026-3-34:3": "Marine arthropod paragraph34; Cambrian appearance and endPermian extinction22,94. False habitat and living era; not absolute exclusion of reworked specimens."
+  },
+  "retrievalMethod": "Direct web open/find",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

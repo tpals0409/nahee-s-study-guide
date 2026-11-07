@@ -1,0 +1,16 @@
+{
+  "id": "7d8913587a11cbb24c04",
+  "kind": "science",
+  "source": "NASA",
+  "ref": "Titan: Facts — Introduction",
+  "url": "https://science.nasa.gov/saturn/moons/titan/facts/",
+  "excerpt": "Saturn's largest moon, Titan",
+  "sourceHash": "96936565fe9d28067a09d4fb33d460d7467abd2308d891571fe2bca370a570e8",
+  "cacheSourceId": "804dfe79aab93bad9b08",
+  "retrievedAt": "2026-11-06T16:08:18.316284+00:00",
+  "reviewedMappings": {
+    "2010-3-38:0": "ㄹ은 타이탄이 토성 위성이라는 설명과 불일치."
+  },
+  "retrievalMethod": "web.open and web.find: NASA publisher body reviewed",
+  "sourceHashScope": "Selected excerpts only; not full page"
+}

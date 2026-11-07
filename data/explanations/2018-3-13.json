@@ -1,0 +1,151 @@
+{
+  "id": "2018-3-13",
+  "summary": "그림에서 A의 원자 오비탈(2s, 2p)이 B보다 높은 에너지에 있으므로, B가 전자를 더 강하게 붙잡는 원자, 즉 전기음성도가 더 큰 원자입니다. 원자가 전자 11개를 그림의 순서대로 채우면 π2p* 오비탈에 홀전자 1개가 남습니다. 따라서 AB는 상자기성이고 결합 차수는 2.5입니다. AB⁺는 그 반결합성 전자 1개를 잃어 결합 차수가 3이 되므로 결합 길이가 더 짧습니다. ㄱ, ㄴ, ㄷ이 모두 옳습니다.",
+  "choices": [
+    "ㄱ만 고른 경우: ㄱ은 옳습니다. A의 원자 오비탈 에너지가 B보다 높으므로 A의 전기음성도가 더 작습니다. 그러나 ㄴ(홀전자 1개 때문에 상자기성)과 ㄷ(결합 차수가 AB 2.5, AB⁺ 3이므로 AB가 더 김)도 옳으므로 이 조합은 정답이 아닙니다.",
+    "ㄷ만 고른 경우: ㄷ은 옳습니다. AB⁺는 π2p* 반결합성 전자를 잃어 결합 차수가 2.5에서 3으로 커지고, 그만큼 결합이 짧아집니다. 하지만 ㄱ과 ㄴ도 옳으므로 이 조합은 오답입니다.",
+    "ㄱ, ㄴ을 고른 경우: ㄱ과 ㄴ은 옳습니다. 그러나 ㄷ을 빠뜨렸습니다. 결합 차수가 큰 AB⁺의 결합이 더 짧으므로 'AB의 결합 길이가 AB⁺보다 길다'는 진술은 옳습니다. 따라서 이 조합은 오답입니다.",
+    "ㄴ, ㄷ을 고른 경우: ㄴ과 ㄷ은 옳습니다. 그러나 ㄱ을 빠뜨렸습니다. 원자 오비탈 에너지가 낮은 B가 전기음성도가 큰 원자이므로 'A가 B보다 전기음성도가 작다'는 옳습니다. 따라서 이 조합은 오답입니다.",
+    "ㄱ, ㄴ, ㄷ을 고른 경우: 정답입니다. 전기음성도는 A가 B보다 작고, 홀전자 1개 때문에 AB는 상자기성이며, 결합 차수가 AB 2.5, AB⁺ 3이므로 결합 길이는 AB가 더 깁니다."
+  ],
+  "lawNote": "주어진 에너지 준위와 바닥상태 전자 배치를 기준으로 판단합니다. AB를 특정 실제 분자로 단정할 필요는 없습니다. 결합 길이는 같은 두 원자로 된 AB와 AB⁺ 사이에서 결합 차수를 비교한 것입니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "Eric Dornshuld",
+      "ref": "Molecular Orbital Theory — Heteronuclear diatomics and Bond order",
+      "quote": "the AOs on the more electronegative atom are lower in energy",
+      "url": "https://dornshuld.com/chem1/notes/ch09-mo-theory.html",
+      "evidenceId": "b4f473b396d8f758482d",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "Eric Dornshuld",
+      "ref": "Molecular Orbital Theory — Heteronuclear diatomics and Bond order",
+      "quote": "the AOs on the more electronegative atom are lower in energy",
+      "url": "https://dornshuld.com/chem1/notes/ch09-mo-theory.html",
+      "evidenceId": "b4f473b396d8f758482d",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "Eric Dornshuld",
+      "ref": "Molecular Orbital Theory — Heteronuclear diatomics and Bond order",
+      "quote": "the AOs on the more electronegative atom are lower in energy",
+      "url": "https://dornshuld.com/chem1/notes/ch09-mo-theory.html",
+      "evidenceId": "b4f473b396d8f758482d",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "Eric Dornshuld",
+      "ref": "Molecular Orbital Theory — Heteronuclear diatomics and Bond order",
+      "quote": "the AOs on the more electronegative atom are lower in energy",
+      "url": "https://dornshuld.com/chem1/notes/ch09-mo-theory.html",
+      "evidenceId": "b4f473b396d8f758482d",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "Eric Dornshuld",
+      "ref": "Molecular Orbital Theory — Heteronuclear diatomics and Bond order",
+      "quote": "the AOs on the more electronegative atom are lower in energy",
+      "url": "https://dornshuld.com/chem1/notes/ch09-mo-theory.html",
+      "evidenceId": "b4f473b396d8f758482d",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "Eric Dornshuld",
+      "ref": "Molecular Orbital Theory — Heteronuclear diatomics and Bond order",
+      "quote": "the AOs on the more electronegative atom are lower in energy",
+      "url": "https://dornshuld.com/chem1/notes/ch09-mo-theory.html",
+      "evidenceId": "b4f473b396d8f758482d",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §8.4 — Magnetic properties",
+      "quote": "Such attraction to a magnetic field is called paramagnetism, and it arises in molecules that have unpaired electrons.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/8-4-molecular-orbital-theory",
+      "evidenceId": "feed409008568c67505b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §8.4 — Magnetic properties",
+      "quote": "Such attraction to a magnetic field is called paramagnetism, and it arises in molecules that have unpaired electrons.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/8-4-molecular-orbital-theory",
+      "evidenceId": "feed409008568c67505b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §8.4 — Magnetic properties",
+      "quote": "Such attraction to a magnetic field is called paramagnetism, and it arises in molecules that have unpaired electrons.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/8-4-molecular-orbital-theory",
+      "evidenceId": "feed409008568c67505b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §8.4 — Magnetic properties",
+      "quote": "Such attraction to a magnetic field is called paramagnetism, and it arises in molecules that have unpaired electrons.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/8-4-molecular-orbital-theory",
+      "evidenceId": "feed409008568c67505b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §8.4 — Magnetic properties",
+      "quote": "Such attraction to a magnetic field is called paramagnetism, and it arises in molecules that have unpaired electrons.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/8-4-molecular-orbital-theory",
+      "evidenceId": "feed409008568c67505b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §8.4 — Magnetic properties",
+      "quote": "Such attraction to a magnetic field is called paramagnetism, and it arises in molecules that have unpaired electrons.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/8-4-molecular-orbital-theory",
+      "evidenceId": "feed409008568c67505b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Original diagram inspection; independent orbital filling and bond-order calculation; direct educational source review",
+    "contentHash": "fd5529bcba9bf5c9a9dd1664798d59a4e274a3bcac2ce03e0a5eda935201b331"
+  }
+}

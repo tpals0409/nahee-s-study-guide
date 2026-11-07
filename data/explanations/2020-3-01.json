@@ -1,0 +1,151 @@
+{
+  "id": "2020-3-01",
+  "summary": "B의 운동방정식은 20−T=2×4이므로 장력 T=12 N입니다. A에서는 T−f=1×4이므로 마찰력 f=8 N입니다. 마찰력이 한 일은 −8×0.1=−0.8 J이며, 그 절댓값은 0.8 J이므로 정답은 ②입니다.",
+  "choices": [
+    "① 0.6 J이면 마찰력은 6 N입니다. 이때 가속도는 (20−6)/3=14/3 m/s²로 조건과 다릅니다.",
+    "② 마찰력은 20−(1+2)×4=8 N입니다. 이동 방향과 반대이므로 일은 −0.8 J, 절댓값은 0.8 J입니다.",
+    "③ 1.0 J이면 마찰력은 10 N이고 가속도는 (20−10)/3=10/3 m/s²로 조건과 다릅니다.",
+    "④ 1.2 J이면 마찰력은 12 N이고 가속도는 (20−12)/3=8/3 m/s²로 조건과 다릅니다.",
+    "⑤ 1.4 J이면 마찰력은 14 N이고 가속도는 (20−14)/3=2 m/s²로 조건과 다릅니다."
+  ],
+  "lawNote": "힘 F를 제거한 뒤의 운동만 계산합니다. 질량과 회전 마찰을 무시한 도르래·줄에서는 양쪽 장력의 크기가 같습니다. 마찰력이 한 일의 부호와 그 절댓값을 구분해야 합니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1 §6.1 Solving Problems with Newton’s Laws",
+      "quote": "Apply Newton’s second law to solve the problem.",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/6-1-solving-problems-with-newtons-laws",
+      "evidenceId": "36059bc6c1051c0f02d9",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1 §6.1 Solving Problems with Newton’s Laws",
+      "quote": "Apply Newton’s second law to solve the problem.",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/6-1-solving-problems-with-newtons-laws",
+      "evidenceId": "36059bc6c1051c0f02d9",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1 §6.1 Solving Problems with Newton’s Laws",
+      "quote": "Apply Newton’s second law to solve the problem.",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/6-1-solving-problems-with-newtons-laws",
+      "evidenceId": "36059bc6c1051c0f02d9",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1 §6.1 Solving Problems with Newton’s Laws",
+      "quote": "Apply Newton’s second law to solve the problem.",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/6-1-solving-problems-with-newtons-laws",
+      "evidenceId": "36059bc6c1051c0f02d9",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1 §6.1 Solving Problems with Newton’s Laws",
+      "quote": "Apply Newton’s second law to solve the problem.",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/6-1-solving-problems-with-newtons-laws",
+      "evidenceId": "36059bc6c1051c0f02d9",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1 §6.1 Solving Problems with Newton’s Laws",
+      "quote": "Apply Newton’s second law to solve the problem.",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/6-1-solving-problems-with-newtons-laws",
+      "evidenceId": "36059bc6c1051c0f02d9",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1 §7.1 Work",
+      "quote": "The simplest work to evaluate is that done by a force that is constant in magnitude and direction.",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/7-1-work",
+      "evidenceId": "6d095f35309eadcd947c",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1 §7.1 Work",
+      "quote": "The simplest work to evaluate is that done by a force that is constant in magnitude and direction.",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/7-1-work",
+      "evidenceId": "6d095f35309eadcd947c",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1 §7.1 Work",
+      "quote": "The simplest work to evaluate is that done by a force that is constant in magnitude and direction.",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/7-1-work",
+      "evidenceId": "6d095f35309eadcd947c",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1 §7.1 Work",
+      "quote": "The simplest work to evaluate is that done by a force that is constant in magnitude and direction.",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/7-1-work",
+      "evidenceId": "6d095f35309eadcd947c",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1 §7.1 Work",
+      "quote": "The simplest work to evaluate is that done by a force that is constant in magnitude and direction.",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/7-1-work",
+      "evidenceId": "6d095f35309eadcd947c",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1 §7.1 Work",
+      "quote": "The simplest work to evaluate is that done by a force that is constant in magnitude and direction.",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/7-1-work",
+      "evidenceId": "6d095f35309eadcd947c",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "원본 도르래 구성 확인, 각 물체 운동방정식과 일의 부호 독립 검산; 오답 원인 추측 삭제",
+    "contentHash": "b4e5f8d52873a10fe409bfdaae38e32fbae8dcc27add99ef0db515bb3e343d9b"
+  }
+}

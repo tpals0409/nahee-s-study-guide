@@ -1,0 +1,17 @@
+{
+  "id": "8b5137b3e17e8ea921ed",
+  "kind": "science",
+  "source": "Nature Methods",
+  "ref": "Two-dimensional gel electrophoresis of proteins",
+  "url": "https://www.nature.com/articles/nmeth0105-83",
+  "excerpt": "the independent parameters of isoelectric point and molecular weight",
+  "sourceHash": "fab37e0138516488b38fdee48f01d48344177002cd1f4862ad47809e66097458",
+  "cacheSourceId": "d3f2cae1fd916a6044b8",
+  "retrievedAt": "2026-11-07T02:41:00.983962+00:00",
+  "reviewedMappings": {
+    "2024-3-26:0": "Two-dimensional PAGE separates complex protein mixtures by pI and molecular weight; supports protein-analysis classification.",
+    "2024-3-26:4": "Two-dimensional PAGE separates complex protein mixtures by pI and molecular weight; supports protein-analysis classification."
+  },
+  "retrievalMethod": "Publisher indexed method summary reviewed; direct retrieval failed at publisher authorization redirect.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

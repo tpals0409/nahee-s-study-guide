@@ -1,0 +1,21 @@
+{
+  "id": "21ceeac0fb03b45d3e0f",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume 1 §4.3 — Independent motion components",
+  "url": "https://openstax.org/books/university-physics-volume-1/pages/4-3-projectile-motion",
+  "excerpt": "motions along perpendicular axes are independent and thus can be analyzed separately.",
+  "sourceHash": "20027292b7cfb0352cc67550cae8f68f6b704bf9bd27127dc419a5a4ce658033",
+  "cacheSourceId": "9126e1342a96542b6ab9",
+  "retrievedAt": "2026-11-06T21:43:30.010181+00:00",
+  "reviewedMappings": {
+    "2018-3-08:0": "직교방향 독립 운동 및 일정가속도식 검토. 중력 사례를 그대로 적용하지 않고 a_x=0,a_y=|q|E/m로 치환하여 x=v₀t,y=a_y t²/2 유도. t=l/v₀와 y=d를 대입하여⑤.",
+    "2018-3-08:1": "직교방향 독립 운동 및 일정가속도식 검토. 중력 사례를 그대로 적용하지 않고 a_x=0,a_y=|q|E/m로 치환하여 x=v₀t,y=a_y t²/2 유도. 후보 E의 계수0.5이면 y/d=0.25;1이 되는⑤만 일치. q는 크기로 해석.",
+    "2018-3-08:2": "직교방향 독립 운동 및 일정가속도식 검토. 중력 사례를 그대로 적용하지 않고 a_x=0,a_y=|q|E/m로 치환하여 x=v₀t,y=a_y t²/2 유도. 후보 E의 계수0.7071067811865475이면 y/d=0.35355339059327373;1이 되는⑤만 일치. q는 크기로 해석.",
+    "2018-3-08:3": "직교방향 독립 운동 및 일정가속도식 검토. 중력 사례를 그대로 적용하지 않고 a_x=0,a_y=|q|E/m로 치환하여 x=v₀t,y=a_y t²/2 유도. 후보 E의 계수1이면 y/d=0.5;1이 되는⑤만 일치. q는 크기로 해석.",
+    "2018-3-08:4": "직교방향 독립 운동 및 일정가속도식 검토. 중력 사례를 그대로 적용하지 않고 a_x=0,a_y=|q|E/m로 치환하여 x=v₀t,y=a_y t²/2 유도. 후보 E의 계수1.4142135623730951이면 y/d=0.7071067811865476;1이 되는⑤만 일치. q는 크기로 해석.",
+    "2018-3-08:5": "직교방향 독립 운동 및 일정가속도식 검토. 중력 사례를 그대로 적용하지 않고 a_x=0,a_y=|q|E/m로 치환하여 x=v₀t,y=a_y t²/2 유도. 후보 E의 계수2이면 y/d=1.0;1이 되는⑤만 일치. q는 크기로 해석."
+  },
+  "retrievalMethod": "Direct source page and relevant equations reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "b61be742ed1d977006fd",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "9.4 Types of Collisions — University Physics Volume 1",
+  "url": "https://openstax.org/books/university-physics-volume-1/pages/9-4-types-of-collisions",
+  "excerpt": "In this case, the total kinetic energy of the system is conserved.",
+  "sourceHash": "aca385998446dfc64d792e337bdb31960662c35079ed41db973da3f0ee80aa1f",
+  "cacheSourceId": "c35ed6184b707b6955cf",
+  "retrievedAt": "2026-11-06T22:21:22.729189+00:00",
+  "reviewedMappings": {
+    "2019-3-02:0": "Initial momentum zero and energy 3mv²/4. Momentum yields uA=2uB; elastic energy yields uB=v/2 and uA=v. Original diagram has opposite y motion, so separation=(uA+uB)t1=3vt1/2.",
+    "2019-3-02:1": "Derived separation includes both displacements; vt1 is smaller than required 3vt1/2.",
+    "2019-3-02:2": "Derived unique coefficient 3/2 differs from sqrt(2); opposite collinear positions require sum of travel distances.",
+    "2019-3-02:3": "Momentum and energy jointly give final speeds v and v/2; diagram positions +vt1 and -vt1/2 give choice 3.",
+    "2019-3-02:4": "sqrt(10)/2 differs from derived 3/2; no perpendicular displacement sum is appropriate to final y-axis motion.",
+    "2019-3-02:5": "3vt1 is twice derived distance. At zero momentum relative speed 3v would imply speeds 2v and v, giving four times initial kinetic energy."
+  },
+  "retrievalMethod": "Direct web open: elastic collision definition line 53; closed-system momentum and energy procedure lines 58–62; momentum and kinetic energy equations lines 98–103. Original question image app/public/images/2019-3-02.webp visually reviewed: initial opposite x motion; final A +y and B -y. Derived final speeds independently rather than applying one-dimensional collision formulas across changed axes.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

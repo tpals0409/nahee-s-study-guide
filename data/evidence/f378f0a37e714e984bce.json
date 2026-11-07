@@ -1,0 +1,21 @@
+{
+  "id": "f378f0a37e714e984bce",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume 2 §11.3, Eqs. 11.5–11.6",
+  "url": "https://openstax.org/books/university-physics-volume-2/pages/11-3-motion-of-a-charged-particle-in-a-magnetic-field",
+  "excerpt": "The result is uniform circular motion.",
+  "sourceHash": "f617a25dbae4646d5991f54de0d2d3bb725fdb22477e0874e8a933039a9073ce",
+  "cacheSourceId": "34871bd9d58c641427bb",
+  "retrievedAt": "2026-11-06T21:39:52.600008+00:00",
+  "reviewedMappings": {
+    "2018-3-03:0": "식11.5–11.6의 r=mv/(|q|B), T=2πr/v를 검토. 같은 주기에서 속력비2를 독립 계산하고 자기력 구심력으로 p=|q|Br 검산. 선택지 수치와 대조하여 ④만 일치.",
+    "2018-3-03:1": "식11.5–11.6의 r=mv/(|q|B), T=2πr/v를 검토. 같은 주기에서 속력비2를 독립 계산하고 자기력 구심력으로 p=|q|Br 검산. 선택지 수치와 대조하여 ④만 일치.",
+    "2018-3-03:2": "식11.5–11.6의 r=mv/(|q|B), T=2πr/v를 검토. 같은 주기에서 속력비2를 독립 계산하고 자기력 구심력으로 p=|q|Br 검산. 선택지 수치와 대조하여 ④만 일치.",
+    "2018-3-03:3": "식11.5–11.6의 r=mv/(|q|B), T=2πr/v를 검토. 같은 주기에서 속력비2를 독립 계산하고 자기력 구심력으로 p=|q|Br 검산. 선택지 수치와 대조하여 ④만 일치.",
+    "2018-3-03:4": "식11.5–11.6의 r=mv/(|q|B), T=2πr/v를 검토. 같은 주기에서 속력비2를 독립 계산하고 자기력 구심력으로 p=|q|Br 검산. 선택지 수치와 대조하여 ④만 일치.",
+    "2018-3-03:5": "식11.5–11.6의 r=mv/(|q|B), T=2πr/v를 검토. 같은 주기에서 속력비2를 독립 계산하고 자기력 구심력으로 p=|q|Br 검산. 선택지 수치와 대조하여 ④만 일치."
+  },
+  "retrievalMethod": "Direct source opened; cited equations and surrounding discussion reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

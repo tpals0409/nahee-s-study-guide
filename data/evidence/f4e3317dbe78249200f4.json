@@ -1,0 +1,20 @@
+{
+  "id": "f4e3317dbe78249200f4",
+  "kind": "science",
+  "source": "OpenStax Anatomy and Physiology 2e",
+  "ref": "23.7 Chemical Digestion and Absorption: A Closer Look",
+  "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/23-7-chemical-digestion-and-absorption-a-closer-look",
+  "excerpt": "The monosaccharide fructose (which is in fruit) is absorbed and transported by facilitated diffusion alone.",
+  "sourceHash": "d0e24e96d893475fe6f8b28d9273b26c42c492c90e440c0f91f27450e4ffe772",
+  "cacheSourceId": "54c07df0bf6b356a2178",
+  "retrievedAt": "2026-11-07T03:19:43.584123+00:00",
+  "reviewedMappings": {
+    "2025-3-23:0": "Carbohydrate/Protein Absorption에서 포도당 Na 공동수송과 아미노산 운반체 확인하여 ④ 판정.",
+    "2025-3-23:2": "과당 촉진확산 본문 직접 확인.",
+    "2025-3-23:3": "Table23.10과 흡수 본문에서 단당류/아미노산 모세혈관→간문맥 경로 확인.",
+    "2025-3-23:4": "포도당 secondary active cotransport 명시; 대부분 아미노산 운반체 Na 연계 명시. 모든 아미노산을 같은 운반체로 단정하지 않음.",
+    "2025-3-23:5": "Lipid Absorption의 장쇄지방 재합성→킬로미크론→lacteal와 짧은 사슬의 모세혈관 예외를 함께 대조; 일반적 식이지방 경로로 한정."
+  },
+  "retrievalMethod": "Direct web reading: villi/microvilli and portal drainage; carbohydrate, protein and lipid absorption including short-chain exception.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

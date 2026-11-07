@@ -1,0 +1,17 @@
+{
+  "id": "ced0d4c30a663450d5d2",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e 4.3 Eukaryotic Cells",
+  "url": "https://openstax.org/books/biology-2e/pages/4-3-eukaryotic-cells",
+  "excerpt": "It is comprised of organelles suspended in the gel-like cytosol",
+  "sourceHash": "d6ff03ae1727c44446e06acc024d9c8f9b9ba84629cb757f2f9ca4422f6becaf",
+  "cacheSourceId": "12a6d03f3089321152bf",
+  "retrievedAt": "2026-11-07T04:58:00.701085+00:00",
+  "reviewedMappings": {
+    "2026-3-29:0": "세포질에는 소기관이 포함된다. 원문③의 cytoplasm을 cytosol로 치환해야 반박된다는 용어상 한계를 뒷받침하며, 유일 정답 판정 근거는 아니다.",
+    "2026-3-29:3": "세포질에는 소기관이 포함된다. 원문③의 cytoplasm을 cytosol로 치환해야 반박된다는 용어상 한계를 뒷받침하며, 유일 정답 판정 근거는 아니다."
+  },
+  "retrievalMethod": "Direct web open",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "a3a9cd3563a4bc83f445",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Astronomy 2e §18.4 The H–R Diagram",
+  "url": "https://openstax.org/books/astronomy-2e/pages/18-4-the-h-r-diagram",
+  "excerpt": "The only way is for the star to be enormous",
+  "sourceHash": "a84a1cd583ccc4eb2946130665d92fcd669130ba841f94bd5303643c068ddbb6",
+  "cacheSourceId": "123449dcf77072700911",
+  "retrievedAt": "2026-11-06T22:58:36.400674+00:00",
+  "reviewedMappings": {
+    "2019-3-40:0": "낮은 온도에도 밝은 초거성의 큰 표면적이라는 H–R도 해석과 베텔기우스 위치를 대조하여 ㄷ을 배제했다.",
+    "2019-3-40:2": "낮은 온도에도 밝은 초거성의 큰 표면적이라는 H–R도 해석과 베텔기우스 위치를 대조하여 ㄷ을 배제했다.",
+    "2019-3-40:3": "낮은 온도에도 밝은 초거성의 큰 표면적이라는 H–R도 해석과 베텔기우스 위치를 대조하여 ㄷ을 배제했다.",
+    "2019-3-40:4": "낮은 온도에도 밝은 초거성의 큰 표면적이라는 H–R도 해석과 베텔기우스 위치를 대조하여 ㄷ을 배제했다.",
+    "2019-3-40:5": "낮은 온도에도 밝은 초거성의 큰 표면적이라는 H–R도 해석과 베텔기우스 위치를 대조하여 ㄷ을 배제했다."
+  },
+  "retrievalMethod": "Direct open/find lines 63–70: named positions of Spica, Sirius and Betelgeuse, cool luminous supergiants requiring large emitting area. Qualitative radius comparison only; no uncorrected visual-to-bolometric luminosity ratio asserted.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

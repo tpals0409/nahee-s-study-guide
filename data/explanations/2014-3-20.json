@@ -1,0 +1,74 @@
+{
+  "summary": "일정 부피에서 A만 넣어 반응을 시작하고 표의 평형상수를 Kc로 해석하면, A의 평형 농도는 25°C에서 0.5 M, 50°C에서 1 M이다. 촉매는 평형 도달을 빠르게 할 뿐 같은 온도의 평형상수를 바꾸지 않으므로 옳지 않은 것은 ④이다.",
+  "choices": [
+    "① 옳음. 처음 B가 없는 조건에서 A가 x M 감소하면 [A]=1−x, [B]=2x이다. Kc=[B]²/[A]=2를 대입하면 2x²+x−1=0이다. 가능한 해 x=0.5이므로 [A]=0.5 M이다. 다른 해 x=−1은 음의 B 농도를 주므로 제외한다.",
+    "② 옳음. 표에서 온도가 높아질수록 Kc가 증가한다. 이 문항의 온도 범위에서 정반응이 열을 흡수하는 반응으로 해석한다. 온도가 높아졌다는 사실만으로 판단하는 것이 아니라 평형상수의 증가 방향을 확인해야 한다.",
+    "③ 옳음. 50°C에서는 초기 A가 2 M이므로 4x²/(2−x)=4이다. x²+x−2=0에서 가능한 해는 x=1이고, [A]=1 M이다. 25°C의 0.5 M과 비교하면 정확히 두 배다. 음의 B 농도를 주는 x=−2는 제외한다.",
+    "④ 틀림. 촉매는 정·역반응을 촉진하여 평형 도달 시간을 줄이지만, 일정 온도에서 평형상수와 평형 조성을 바꾸지 않는다. 따라서 25°C의 평형상수는 촉매를 넣어도 2이다.",
+    "⑤ 옳음. 25°C와 부피를 유지하며 A를 더하면 순간적으로 [A]가 증가하여 Qc=[B]²/[A]가 Kc보다 작아진다. 따라서 A를 소비하고 B를 생성하는 정반응이 진행되어 평형을 회복한다."
+  ],
+  "lawNote": "계산은 “기체 A로부터 B가 생성”된다는 문맥에 따라 처음에는 A만 존재하고, 표의 평형상수는 농도 평형상수 Kc라는 해석을 사용합니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax Chemistry 2e",
+      "ref": "13.4 Equilibrium Calculations",
+      "quote": "These terms are derived from the stoichiometry of the reaction",
+      "url": "https://openstax.org/books/chemistry-2e/pages/13-4-equilibrium-calculations",
+      "evidenceId": "9b4758f01c8da5cbd7b4",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax Chemistry 2e",
+      "ref": "13.4 Equilibrium Calculations",
+      "quote": "These terms are derived from the stoichiometry of the reaction",
+      "url": "https://openstax.org/books/chemistry-2e/pages/13-4-equilibrium-calculations",
+      "evidenceId": "9b4758f01c8da5cbd7b4",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax Chemistry 2e",
+      "ref": "13.3 Shifting Equilibria: Le Chatelier’s Principle",
+      "quote": "without a change in the equilibrium constant",
+      "url": "https://openstax.org/books/chemistry-2e/pages/13-3-shifting-equilibria-le-chateliers-principle",
+      "evidenceId": "fe7090959e525f3ddf40",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax Chemistry 2e",
+      "ref": "13.3 Shifting Equilibria: Le Chatelier’s Principle",
+      "quote": "For exothermic processes, heat is viewed as a product",
+      "url": "https://openstax.org/books/chemistry-2e/pages/13-3-shifting-equilibria-le-chateliers-principle",
+      "evidenceId": "ca2408d2fb9dd5dd4e4b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax Chemistry 2e",
+      "ref": "13.3 Shifting Equilibria: Le Chatelier’s Principle",
+      "quote": "the equilibrium will shift right",
+      "url": "https://openstax.org/books/chemistry-2e/pages/13-3-shifting-equilibria-le-chateliers-principle",
+      "evidenceId": "a2d2a3f9358d6276be7a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "original-image-primary-source-and-rational-arithmetic",
+    "contentHash": "90510f7ad207abe4e28789c596635307e3b829797ec1ed5a73675c913c7c21ba"
+  }
+}

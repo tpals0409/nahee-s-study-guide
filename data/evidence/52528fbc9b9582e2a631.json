@@ -1,0 +1,16 @@
+{
+  "id": "52528fbc9b9582e2a631",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e §7.3 Oxidation of Pyruvate and the Citric Acid Cycle",
+  "url": "https://openstax.org/books/biology-2e/pages/7-3-oxidation-of-pyruvate-and-the-citric-acid-cycle",
+  "excerpt": "three NAD+ molecules are reduced to NADH",
+  "sourceHash": "dbd7c03a8ba68d1ffd9ffabe2c0a245f4496691f00f70b9e5540bf08abacc125",
+  "cacheSourceId": "51679d8d016086971c1a",
+  "retrievedAt": "2026-11-06T16:43:18.066399+00:00",
+  "reviewedMappings": {
+    "2011-3-29:0": "피루브산1당 NADH1, 회로1회당 NADH3/FADH2 1/ATP또는GTP1 확인. 포도당1당 피루브산2이므로 전이반응 및 회로를 각 두 번 계산. 총 순ATP4,NADH10,FADH2 2. GTP는 ATP당량으로 명시."
+  },
+  "retrievalMethod": "web.run official textbook paragraphs and figure descriptions reviewed",
+  "sourceHashScope": "Selected excerpt only; not full page"
+}

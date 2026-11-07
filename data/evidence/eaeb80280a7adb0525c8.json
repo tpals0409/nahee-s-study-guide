@@ -1,0 +1,19 @@
+{
+  "id": "eaeb80280a7adb0525c8",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Organic Chemistry 3.1 Functional Groups",
+  "url": "https://openstax.org/books/organic-chemistry/pages/3-1-functional-groups",
+  "excerpt": "two carbon atoms bonded",
+  "sourceHash": "6c3ad307108fbc79cc31b954a9a684125f4d085be276d8c8f94edefb6a14153e",
+  "cacheSourceId": "1fcf43bfcc0c6aa6e175",
+  "retrievedAt": "2026-11-07T06:15:25.806647+00:00",
+  "reviewedMappings": {
+    "2011-3-12:0": "Source identifies ether connectivity; vanillin Ar-O-Me matches. This does not resolve phenol/alcohol official-answer conflict.",
+    "2011-3-12:1": "Source identifies ether connectivity; vanillin Ar-O-Me matches. This does not resolve phenol/alcohol official-answer conflict.",
+    "2011-3-12:3": "Source identifies ether connectivity; vanillin Ar-O-Me matches. This does not resolve phenol/alcohol official-answer conflict.",
+    "2011-3-12:5": "Source identifies ether connectivity; vanillin Ar-O-Me matches. This does not resolve phenol/alcohol official-answer conflict."
+  },
+  "retrievalMethod": "web direct text",
+  "sourceHashScope": "Short reviewed excerpt only"
+}

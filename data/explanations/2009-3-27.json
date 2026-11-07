@@ -1,0 +1,52 @@
+{
+  "summary": "ㄱ과 ㄷ이 옳습니다. 진핵생물의 RNA 중합효소 I은 주요 rRNA의 전구체를 합성합니다. 다만 5S rRNA는 RNA 중합효소 III이 합성합니다. 단일가닥 mRNA에서는 A와 U, G와 C의 양이 같을 필요가 없으므로 ㄴ은 틀립니다. tRNA에는 A·U·G·C 외에도 화학적으로 변형된 염기가 있어 ㄷ은 옳습니다.",
+  "choices": [
+    "ㄱ은 옳지만 ㄷ도 옳으므로 오답입니다. RNA 중합효소 I이 rRNA를 합성한다는 설명은 맞지만, 모든 rRNA를 합성한다는 뜻은 아닙니다. 5S rRNA는 중합효소 III이 담당합니다.",
+    "ㄴ만 고른 보기: ㄴ은 틀린 진술입니다. 샤가프의 규칙은 이중가닥 DNA에서 A와 T, G와 C의 양이 같다는 규칙입니다. mRNA는 단일가닥이어서 A와 U, G와 C의 양이 같을 필요가 없습니다. 또 옳은 ㄱ과 ㄷ이 빠져 있으므로 오답입니다.",
+    "ㄱ, ㄷ을 고른 보기: ㄱ(RNA 중합효소 I의 rRNA 합성)과 ㄷ(tRNA의 일반염기와 변형염기)은 모두 옳고, 틀린 ㄴ은 제외되어 있으므로 정답입니다.",
+    "ㄴ, ㄷ을 고른 보기: ㄷ은 옳지만 틀린 ㄴ이 포함되어 있고 옳은 ㄱ이 빠져 있으므로 오답입니다.",
+    "ㄱ, ㄴ, ㄷ을 모두 고른 보기: 단일가닥 mRNA에 샤가프의 규칙을 적용한 ㄴ이 틀렸으므로 오답입니다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax · Biology 2e",
+      "ref": "15.3",
+      "quote": "All rRNAs except 5S rRNA",
+      "url": "https://openstax.org/books/biology-2e/pages/15-3-eukaryotic-transcription",
+      "evidenceId": "717f7bfe97d002d7bf58",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax · Biology 2e",
+      "ref": "3.5",
+      "quote": "RNA is usually single-stranded",
+      "url": "https://openstax.org/books/biology-2e/pages/3-5-nucleic-acids",
+      "evidenceId": "c599da942335ca2a157a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "RCSB PDB-101",
+      "ref": "Exploring the Structure of tRNA",
+      "quote": "tRNA has several modified bases such as pseudouridine (Ψ) and ribothymidine (T).",
+      "url": "https://pdb101.rcsb.org/learn/paper-models/trna-activity-page",
+      "evidenceId": "58dea741738f663c91ad",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "OpenStax15.3표15.1의 I:5S제외rRNA,III:5SrRNA 대조.3.5의 이중가닥DNA상보염기쌍과단일가닥RNA구조로 mRNA에서A=U/G=C필연성없음 판단. RCSBPDB101 tRNA표준4염기및변형염기확인.45S전구체크기를모든진핵생물에일반화한초안삭제.",
+    "contentHash": "fabedc061cecaf5c0009b5ddd8d71ea66f9205ba442d05f130cf8add35bd6c21"
+  }
+}

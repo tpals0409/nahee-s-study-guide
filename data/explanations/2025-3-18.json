@@ -1,0 +1,107 @@
+{
+  "id": "2025-3-18",
+  "summary": "정답은 ① methylenecyclohexane입니다. 탄소 7개에 고리 하나와 이중결합 하나가 있어 분자식은 C₇H₁₂입니다. 나머지는 탄소 7개에 고리 하나 또는 이중결합 하나만 있어 C₇H₁₄입니다.",
+  "choices": [
+    "methylenecyclohexane: 사이클로헥세인 고리(C₆)에 엑소사이클릭 =CH₂가 붙은 구조입니다. 고리 CH₂ 5개(C₅H₁₀), 이중결합에 참여하는 고리 탄소 1개(C), =CH₂(CH₂)를 더하면 C₇H₁₂입니다. 불포화도 2(고리 1 + C=C 1)이므로 C₇H₁₄가 아니며, 이 보기가 정답입니다.",
+    "cycloheptane: 7원 고리 사이클로알케인으로 일반식 CnH2n을 따르므로 C₇H₁₄입니다. 고리 1개, 불포화도 1이므로 정답이 아닙니다.",
+    "1-ethyl-2-methylcyclobutane: 사이클로뷰테인(C₄) 고리에 에틸(C₂)과 메틸(C₁)이 치환되어 탄소 수는 7입니다. 고리 1개만 있는 포화 고리 화합물이므로 C₇H₁₄이며, 정답이 아닙니다.",
+    "hept-1-ene: 탄소 7개의 사슬에 C=C 하나가 있는 알켄으로 일반식 CnH2n을 따르므로 C₇H₁₄(CH₂=CH-(CH₂)₄-CH₃)입니다. 불포화도 1이므로 정답이 아닙니다.",
+    "ethylcyclopentane: 사이클로펜테인(C₅) 고리에 에틸기(C₂)가 붙어 탄소 수 7이며, 고리 1개의 포화 화합물이므로 C₇H₁₄입니다. 정답이 아닙니다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Organic Chemistry 7.2 — Degree of Unsaturation",
+      "quote": "each ring or double bond in a molecule corresponds to a loss of two hydrogens",
+      "url": "https://openstax.org/books/organic-chemistry/pages/7-2-calculating-the-degree-of-unsaturation",
+      "evidenceId": "cc605bc8d4ece4b65122",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Organic Chemistry 7.2 — Degree of Unsaturation",
+      "quote": "each ring or double bond in a molecule corresponds to a loss of two hydrogens",
+      "url": "https://openstax.org/books/organic-chemistry/pages/7-2-calculating-the-degree-of-unsaturation",
+      "evidenceId": "cc605bc8d4ece4b65122",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Organic Chemistry 7.2 — Degree of Unsaturation",
+      "quote": "each ring or double bond in a molecule corresponds to a loss of two hydrogens",
+      "url": "https://openstax.org/books/organic-chemistry/pages/7-2-calculating-the-degree-of-unsaturation",
+      "evidenceId": "cc605bc8d4ece4b65122",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Organic Chemistry 7.2 — Degree of Unsaturation",
+      "quote": "each ring or double bond in a molecule corresponds to a loss of two hydrogens",
+      "url": "https://openstax.org/books/organic-chemistry/pages/7-2-calculating-the-degree-of-unsaturation",
+      "evidenceId": "cc605bc8d4ece4b65122",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Organic Chemistry 7.2 — Degree of Unsaturation",
+      "quote": "each ring or double bond in a molecule corresponds to a loss of two hydrogens",
+      "url": "https://openstax.org/books/organic-chemistry/pages/7-2-calculating-the-degree-of-unsaturation",
+      "evidenceId": "cc605bc8d4ece4b65122",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Organic Chemistry 7.2 — Degree of Unsaturation",
+      "quote": "each ring or double bond in a molecule corresponds to a loss of two hydrogens",
+      "url": "https://openstax.org/books/organic-chemistry/pages/7-2-calculating-the-degree-of-unsaturation",
+      "evidenceId": "cc605bc8d4ece4b65122",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "NIST Chemistry WebBook, SRD 69",
+      "ref": "Cyclohexane, methylene-",
+      "quote": "InChI=1S/C7H12/c1-7-5-3-2-4-6-7/h1-6H2",
+      "url": "https://webbook.nist.gov/cgi/cbook.cgi?ID=C1192376&Mask=2",
+      "evidenceId": "9f596979a5af48e82108",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "NIST Chemistry WebBook, SRD 69",
+      "ref": "Cyclohexane, methylene-",
+      "quote": "InChI=1S/C7H12/c1-7-5-3-2-4-6-7/h1-6H2",
+      "url": "https://webbook.nist.gov/cgi/cbook.cgi?ID=C1192376&Mask=2",
+      "evidenceId": "9f596979a5af48e82108",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Original image names checked; independent carbon/hydrogen and ring/double-bond counts; textbook unsaturation rule plus NIST molecular identity matched. Removed incorrect quaternary-carbon terminology from draft derivation.",
+    "contentHash": "e05ea7a13604ca1e2161c8e1827dc15057b558bf23302c2acd6554601fd8f240"
+  }
+}

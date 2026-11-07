@@ -1,0 +1,21 @@
+{
+  "id": "f59e922eac7c0468a441",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume 2, 12.2 Magnetic Field Due to a Thin Straight Wire",
+  "url": "https://openstax.org/books/university-physics-volume-2/pages/12-2-magnetic-field-due-to-a-thin-straight-wire",
+  "excerpt": "Determine the dependence of the magnetic field from a thin, straight wire",
+  "sourceHash": "21261c0d69aec76fc260bb8ddcfba87633c98b9b75336fd0f06fab9148d285b0",
+  "cacheSourceId": "a9dd6b91e005947d1f9a",
+  "retrievedAt": "2026-11-07T00:45:44.954673+00:00",
+  "reviewedMappings": {
+    "2022-3-05:0": "원본 +y 전류, x>0 회로: 오른손 법칙으로 −z. 식12.8의 B∝1/x이므로 +x이동에 따라 들어가는 선속 크기 감소.",
+    "2022-3-05:1": "원본 +y 전류, x>0 회로: 오른손 법칙으로 −z. 식12.8의 B∝1/x이므로 +x이동에 따라 들어가는 선속 크기 감소.",
+    "2022-3-05:2": "원본 +y 전류, x>0 회로: 오른손 법칙으로 −z. 식12.8의 B∝1/x이므로 +x이동에 따라 들어가는 선속 크기 감소.",
+    "2022-3-05:3": "원본 +y 전류, x>0 회로: 오른손 법칙으로 −z. 식12.8의 B∝1/x이므로 +x이동에 따라 들어가는 선속 크기 감소.",
+    "2022-3-05:4": "원본 +y 전류, x>0 회로: 오른손 법칙으로 −z. 식12.8의 B∝1/x이므로 +x이동에 따라 들어가는 선속 크기 감소.",
+    "2022-3-05:5": "원본 +y 전류, x>0 회로: 오른손 법칙으로 −z. 식12.8의 B∝1/x이므로 +x이동에 따라 들어가는 선속 크기 감소."
+  },
+  "retrievalMethod": "Direct textbook page opened; relevant field, flux-change and force equations reviewed with original diagram.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

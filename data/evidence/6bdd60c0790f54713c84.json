@@ -1,0 +1,17 @@
+{
+  "id": "6bdd60c0790f54713c84",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e §5.2 Passive Transport",
+  "url": "https://openstax.org/books/biology-2e/pages/5-2-passive-transport",
+  "excerpt": "Plasma membranes are asymmetric: the membrane's interior is not identical to its exterior.",
+  "sourceHash": "65f9abf2221cc20cbc251d45a4d7866a85c167e483f0b71b8dde7b51e76942ba",
+  "cacheSourceId": "d06bc0f27e2a14e30923",
+  "retrievedAt": "2026-11-06T23:22:34.383971+00:00",
+  "reviewedMappings": {
+    "2020-3-21:2": "직접 본문30–41행 선택적 투과, 두 leaflet 조성차 및 외측 당사슬, 산소·이산화탄소와 이온 투과 차이 검토. 선택적 투과② 참.",
+    "2020-3-21:4": "직접 본문30–41행 선택적 투과, 두 leaflet 조성차 및 외측 당사슬, 산소·이산화탄소와 이온 투과 차이 검토. 두 층 조성과 방향성의 비대칭④ 참."
+  },
+  "retrievalMethod": "직접 본문30–41행 선택적 투과, 두 leaflet 조성차 및 외측 당사슬, 산소·이산화탄소와 이온 투과 차이 검토.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

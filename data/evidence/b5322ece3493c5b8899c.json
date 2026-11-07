@@ -1,0 +1,16 @@
+{
+  "id": "b5322ece3493c5b8899c",
+  "kind": "science",
+  "source": "Smithsonian Institution",
+  "ref": "Smithsonian Human Origins: Homo erectus",
+  "url": "https://humanorigins.si.edu/evidence/human-fossils/species/homo-erectus",
+  "excerpt": "When Lived: Between about 1.89 million and 110,000 years ago",
+  "sourceHash": "ecee90db60d3970b5ad276d75b044d45804dbfa4caed63893c3709d530d8a65e",
+  "cacheSourceId": "33b686acdecab04ee3a1",
+  "retrievedAt": "2026-11-06T18:16:26.170328+00:00",
+  "reviewedMappings": {
+    "2013-3-30:0": "Homo erectus 공식종소개 When Lived 시작연대 1.89백만년전 직접확인. 첫출현순서3.85>2.4>1.89 비교. 존속기간중첩과 직계계보를 혼동하지 않음."
+  },
+  "retrievalMethod": "web.open",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

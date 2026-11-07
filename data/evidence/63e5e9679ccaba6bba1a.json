@@ -1,0 +1,19 @@
+{
+  "id": "63e5e9679ccaba6bba1a",
+  "kind": "science",
+  "source": "MNRAS / arXiv",
+  "ref": "Pinfield et al. (2003), Brown dwarfs and low-mass stars in the Pleiades and Praesepe",
+  "url": "https://arxiv.org/abs/astro-ph/0303600",
+  "excerpt": "Brown dwarfs and low-mass stars in the Pleiades and Praesepe",
+  "sourceHash": "ae30f7365dd7085e3bc1fa5ed77f7cf07870c4a4a097e65bc3263c8f1daf601a",
+  "cacheSourceId": "fb2bfa5781e3a7f9549e",
+  "retrievedAt": "2026-11-07T06:06:54.725132+00:00",
+  "reviewedMappings": {
+    "2011-3-36:0": "Authors report photometry/spectroscopy of low-mass cluster candidates and low-mass/brown-dwarf binarity. Supports rejecting an all-members-above-solar-mass inference from turnoff. Does not supply this exam figure or official interpretation.",
+    "2011-3-36:1": "Authors report photometry/spectroscopy of low-mass cluster candidates and low-mass/brown-dwarf binarity. Supports rejecting an all-members-above-solar-mass inference from turnoff. Does not supply this exam figure or official interpretation.",
+    "2011-3-36:4": "Authors report photometry/spectroscopy of low-mass cluster candidates and low-mass/brown-dwarf binarity. Supports rejecting an all-members-above-solar-mass inference from turnoff. Does not supply this exam figure or official interpretation.",
+    "2011-3-36:5": "Authors report photometry/spectroscopy of low-mass cluster candidates and low-mass/brown-dwarf binarity. Supports rejecting an all-members-above-solar-mass inference from turnoff. Does not supply this exam figure or official interpretation."
+  },
+  "retrievalMethod": "web direct arXiv title and author abstract, read previous goal turn",
+  "sourceHashScope": "Short title excerpt; semantic review also used abstract"
+}

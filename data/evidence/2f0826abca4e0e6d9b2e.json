@@ -1,0 +1,16 @@
+{
+  "id": "2f0826abca4e0e6d9b2e",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "OpenStax Chemistry 2e §13.2 Equilibrium Constants",
+  "url": "https://openstax.org/books/chemistry-2e/pages/13-2-equilibrium-constants",
+  "excerpt": "the reaction quotient is derived directly from the stoichiometry of the balanced equation",
+  "sourceHash": "5b0bd3d83b486e715777eaffa06b40299deb9c2dd640d422de85734e2385a83d",
+  "cacheSourceId": "79d2206f1d525024091c",
+  "retrievedAt": "2026-11-06T18:00:05.508173+00:00",
+  "reviewedMappings": {
+    "2013-3-15:0": "원본 그래프 I:A3,B2;II:A3.5,B1 확인. 일정부피 변화량0.5:1로 a:b=1:2, 최소정수 계수에서 Kc=B²/A=2/7. 반응지수식에 Ar은 포함되지 않고 일정부피에서 A,B농도불변이므로⑤평형불변을 직접 유도. 계수배수시K달라짐을 명시."
+  },
+  "retrievalMethod": "web.open and web.find; relevant equations and paragraphs directly reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

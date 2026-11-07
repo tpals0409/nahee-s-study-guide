@@ -1,0 +1,14 @@
+{
+  "id": "d64763978b67f2d3619c",
+  "kind": "science",
+  "source": "OpenStax · University Physics Volume 3",
+  "ref": "6.1",
+  "url": "https://openstax.org/books/university-physics-volume-3/pages/6-1-blackbody-radiation",
+  "excerpt": "its temperature is inversely proportional to the wavelength of its peak intensity.",
+  "sourceHash": "5c23528b0e83e75345d63de9ad5ba4f459243aba392e704d30c89618dcd6500b",
+  "cacheSourceId": "a18b175f7250418ba0ac",
+  "retrievedAt": "2026-11-06T15:07:50.960701+00:00",
+  "reviewedMappings": {
+    "2009-3-31:0": "원본2009-3-31.webp의 파장축과 단위면적·단위시간 조건 확인. Wien λmaxT=b로 지구/태양파장비6000/300=20. Stefan P/A=σT⁴로 태양/지구방출비20⁴=160000. 반지름·거리·지구수신플럭스와 구별. 선택지400=20²,3200000=20⁵ 재계산."
+  }
+}

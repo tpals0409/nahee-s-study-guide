@@ -1,0 +1,20 @@
+{
+  "id": "b9a34bcbd2476bcefa32",
+  "kind": "science",
+  "source": "한국지질자원연구원",
+  "ref": "고생대 탄산염암의 특성 및 성인에 대한 연구",
+  "url": "https://data.kigam.re.kr/data/RP-29809?lang=ko",
+  "excerpt": "초기 고생대의 두위봉형 조선누층군",
+  "sourceHash": "c6343dfb11bca37940dee3fcf42939b7aeaa9d5a382cc03204b17f9ef1d1f0d6",
+  "cacheSourceId": "740075d3563b70773875",
+  "retrievedAt": "2026-11-06T20:42:30.344664+00:00",
+  "reviewedMappings": {
+    "2016-3-34:0": "ㄱ 거짓. 조선누층군이 초기 고생대 지층임을 연구 요약에서 확인. 중생대 초기라는 시대 배정은 잘못이다.",
+    "2016-3-34:1": "ㄱ 거짓. 조선누층군이 초기 고생대 지층임을 연구 요약에서 확인. 중생대 초기라는 시대 배정은 잘못이다.",
+    "2016-3-34:2": "ㄱ 거짓. 조선누층군이 초기 고생대 지층임을 연구 요약에서 확인. 중생대 초기라는 시대 배정은 잘못이다.",
+    "2016-3-34:4": "ㄱ 거짓. 조선누층군이 초기 고생대 지층임을 연구 요약에서 확인. 중생대 초기라는 시대 배정은 잘못이다.",
+    "2016-3-34:5": "ㄱ 거짓. 조선누층군이 초기 고생대 지층임을 연구 요약에서 확인. 중생대 초기라는 시대 배정은 잘못이다."
+  },
+  "retrievalMethod": "Indexed search excerpt reviewed; full source text not retrieved for this evidence record.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

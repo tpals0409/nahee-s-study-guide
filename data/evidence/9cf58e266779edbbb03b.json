@@ -1,0 +1,16 @@
+{
+  "id": "9cf58e266779edbbb03b",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "OpenStax University Physics Volume 1 §7.4 Power",
+  "url": "https://openstax.org/books/university-physics-volume-1/pages/7-4-power",
+  "excerpt": "average power as the work done during a time interval, divided by the interval",
+  "sourceHash": "fdde35895ea36f14e6f366b701ff7d74dc250f34d470220d76ea3fa4c2b23b8c",
+  "cacheSourceId": "895101bdce974d2d642a",
+  "retrievedAt": "2026-11-06T17:52:20.010747+00:00",
+  "reviewedMappings": {
+    "2013-3-07:0": "식7.10 평균일률 ΔW/Δt 및 단위 J/s=W 직접 확인. 출력2kW=2kJ/s, 주기5kJ/(2kJ/s)=2.5s. 각 선택지시간×2로 순환일 검산."
+  },
+  "retrievalMethod": "web.open; source equations and explanatory text directly reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

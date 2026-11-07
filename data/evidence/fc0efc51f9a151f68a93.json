@@ -1,0 +1,16 @@
+{
+  "id": "fc0efc51f9a151f68a93",
+  "kind": "science",
+  "source": "NOAA",
+  "ref": "What are barnacles?",
+  "url": "https://oceanservice.noaa.gov/facts/barnacles.html",
+  "excerpt": "Barnacles are typical on gray whales and do not hurt them.",
+  "sourceHash": "45697623995e96aa20a623d75577c6f85b11786b641103cec26b2f44c1621371",
+  "cacheSourceId": "07fdc6e5fc99aad01ae2",
+  "retrievedAt": "2026-11-06T21:22:26.969601+00:00",
+  "reviewedMappings": {
+    "2017-3-26:4": "본문의 고래 부착 및 여과섭식, 사진 설명의 회색고래 무해성을 함께 검토. 편리공생의 통상적 예로 적용하되 모든 부착종·상황에 무해하다고 확대하지 않음."
+  },
+  "retrievalMethod": "Direct web page reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

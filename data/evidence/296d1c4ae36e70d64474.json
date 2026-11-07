@@ -1,0 +1,19 @@
+{
+  "id": "296d1c4ae36e70d64474",
+  "kind": "science",
+  "source": "U.S. National Park Service",
+  "ref": "Geologic Time Scale",
+  "url": "https://www.nps.gov/subjects/geology/time-scale.htm",
+  "excerpt": "Quaternary (2.6 MYA-present; Q)",
+  "sourceHash": "ee257d3d3ede2e78696c0e1d242d83870e029889f9aa07fb58e2ff7b38299b78",
+  "cacheSourceId": "e48c854a4e3c37a2b23f",
+  "retrievedAt": "2026-11-07T01:17:14.532778+00:00",
+  "reviewedMappings": {
+    "2022-3-33:0": "Direct timescale text:100–200Ma lies wholly in Mesozoic, not Quaternary. No need to infer fossil occurrence from lithology; false Quaternary clause suffices to reject ㄴ.",
+    "2022-3-33:3": "Direct timescale text:100–200Ma lies wholly in Mesozoic, not Quaternary. No need to infer fossil occurrence from lithology; false Quaternary clause suffices to reject ㄴ.",
+    "2022-3-33:4": "Direct timescale text:100–200Ma lies wholly in Mesozoic, not Quaternary. No need to infer fossil occurrence from lithology; false Quaternary clause suffices to reject ㄴ.",
+    "2022-3-33:5": "Direct timescale text:100–200Ma lies wholly in Mesozoic, not Quaternary. No need to infer fossil occurrence from lithology; false Quaternary clause suffices to reject ㄴ."
+  },
+  "retrievalMethod": "Direct source page read; original cross-section and decay graph visually inspected; independent half-life calculation",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

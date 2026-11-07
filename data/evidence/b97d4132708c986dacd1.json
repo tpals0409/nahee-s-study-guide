@@ -1,0 +1,16 @@
+{
+  "id": "b97d4132708c986dacd1",
+  "kind": "science",
+  "source": "NCBI Bookshelf",
+  "ref": "Genomes: Synthesis and Processing of RNA",
+  "url": "https://www.ncbi.nlm.nih.gov/books/NBK21132/",
+  "excerpt": "The spliceosome is formed when U4/U6-snRNP (a single snRNP containing two snRNAs) and U5-snRNP attach to the pre-spliceosome complex.",
+  "sourceHash": "216dc92b6fe72b405da152c4fafdb94addeca1d27c21c8323c465ba461bbd2f4",
+  "cacheSourceId": "b6bc4d5c415d0a12a158",
+  "retrievedAt": "2026-11-06T18:13:33.984570+00:00",
+  "reviewedMappings": {
+    "2013-3-27:5": "spliceosome 조립에snRNP포함 직접확인. snRNA와단백질의복합체라는 설명과 일치."
+  },
+  "retrievalMethod": "web.search_query indexed textbook excerpt",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

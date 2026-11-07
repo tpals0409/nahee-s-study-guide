@@ -1,0 +1,30 @@
+{
+  "summary": "정답은 ④ cosθ/(1−sinθ)입니다. 위로 당기는 성분 F sinθ가 수직항력을 줄입니다. 움직이기 직전 N=Mg−F sinθ이고 F cosθ=μsN이므로, F=Mg를 대입하면 μs=cosθ/(1−sinθ)입니다.",
+  "choices": [
+    "①은 일반식으로 옳지 않습니다. 수직항력을 Mg로 놓으면 cosθ가 나오지만, 그림의 힘에는 위쪽 성분이 있습니다. 실제 수직항력은 Mg(1−sinθ)이므로 이 감소분을 반영해야 합니다.",
+    "②는 일반식으로 옳지 않습니다. 마찰과 균형을 이루는 수평 힘은 F sinθ가 아니라 F cosθ입니다. 예를 들어 sinθ=3/5, cosθ=4/5이면 정지마찰계수는 2인데, 이 보기는 3/5입니다.",
+    "③은 일반식으로 옳지 않습니다. μs는 수평 힘과 수직항력의 비입니다. 수직항력은 F sinθ가 아니라 Mg−F sinθ이므로 cosθ/sinθ로 구할 수 없습니다. sinθ=3/5, cosθ=4/5이면 이 보기는 4/3으로 실제 값 2와 다릅니다.",
+    "④가 옳습니다. 연직 평형 N+F sinθ=Mg와 미끄러지기 직전의 수평 평형 F cosθ=μsN을 함께 적용합니다. F=Mg에서 μs=Mg cosθ/[Mg(1−sinθ)]=cosθ/(1−sinθ)입니다.",
+    "⑤는 일반식으로 옳지 않습니다. 올바른 식을 유리화하면 μs=(1+sinθ)/cosθ입니다. tanθ/(1+sinθ)와는 다릅니다. sinθ=3/5, cosθ=4/5이면 이 보기는 15/32로 실제 값 2와 다릅니다."
+  ],
+  "lawNote": "예각 0<θ<90°에서는 F=Mg일 때 N=Mg(1−sinθ)>0이므로 접촉이 유지됩니다. 문제는 넘어짐을 고려하지 않는 미끄럼 시작 조건으로 풉니다. f_s=μsN은 정지마찰력이 최댓값에 이른 직전에 적용하며, 일반적인 정지 상태에서는 f_s≤μsN입니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1, 6.2 Friction",
+      "quote": "static friction can have a maximum value",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/6-2-friction",
+      "evidenceId": "757bb7b02de56edab2ba",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "원본2014-3-05.webp 조건·그림·선지 대조, OpenStax 마찰 정의와 힘평형 대조, Fraction 삼각비 검산. 초안의 차원 분석으로 무차원 오답을 배제하는 표현 제거. 예각 범위 안의 반례 사용 및 정지마찰 임계조건 명시.",
+    "contentHash": "0cae349e84b489b27398a729b906b56b44957498c6240b4253ac73c228e82bf9"
+  }
+}

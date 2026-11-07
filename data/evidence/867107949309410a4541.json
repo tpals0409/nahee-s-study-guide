@@ -1,0 +1,20 @@
+{
+  "id": "867107949309410a4541",
+  "kind": "science",
+  "source": "Cretaceous Research / Elsevier",
+  "ref": "Life in an active volcanic arc: Petrology and sedimentology of dinosaur track beds in the Jindong Formation (Cretaceous), Gyeongsang Basin, South Korea",
+  "url": "https://www.sciencedirect.com/science/article/abs/pii/S0195667105001138",
+  "excerpt": "These sediments contain abundant dinosaur and bird tracks",
+  "sourceHash": "99b6cc375ad67bbae6c0cd2956a4498f3a374d8b86c191e2c066f07104897ac8",
+  "cacheSourceId": "4f426e63998c81787061",
+  "retrievedAt": "2026-11-06T20:42:30.345126+00:00",
+  "reviewedMappings": {
+    "2016-3-34:0": "ㄴ 참. 진동층의 여러 층리면에 공룡과 새 발자국이 풍부하게 산출됨을 연구 초록으로 확인.",
+    "2016-3-34:1": "ㄴ 참. 진동층의 여러 층리면에 공룡과 새 발자국이 풍부하게 산출됨을 연구 초록으로 확인.",
+    "2016-3-34:2": "ㄴ 참. 진동층의 여러 층리면에 공룡과 새 발자국이 풍부하게 산출됨을 연구 초록으로 확인.",
+    "2016-3-34:4": "ㄴ 참. 진동층의 여러 층리면에 공룡과 새 발자국이 풍부하게 산출됨을 연구 초록으로 확인.",
+    "2016-3-34:5": "ㄴ 참. 진동층의 여러 층리면에 공룡과 새 발자국이 풍부하게 산출됨을 연구 초록으로 확인."
+  },
+  "retrievalMethod": "Indexed search excerpt reviewed; full source text not retrieved for this evidence record.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "50dceee6801855ff9a46",
+  "kind": "science",
+  "source": "Earth-Science Reviews",
+  "ref": "Chough & Sohn — Tectonic and sedimentary evolution of a Cretaceous continental arc-backarc system",
+  "url": "https://scholarworks.gnu.ac.kr/item/9452b298-c815-4a01-a268-65f4774870f4",
+  "excerpt": "The backarc basin was initiated in the southeastern part of the Korean peninsula in the Early Cretaceous as a narrow NS-trending trough.",
+  "sourceHash": "a5f8dee0a92835f75f6d3056a97a794ebe90fa26309a97b9fbf5b85c62d01208",
+  "cacheSourceId": "e162d8b1fa393693e36e",
+  "retrievedAt": "2026-11-06T17:42:25.868321+00:00",
+  "reviewedMappings": {
+    "2012-3-39:0": "ㄹ 경상분지의 전기 백악기 시작."
+  },
+  "retrievalMethod": "web.open; relevant institutional page / author abstract directly reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

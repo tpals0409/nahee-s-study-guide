@@ -1,0 +1,17 @@
+{
+  "id": "a20bc3e4570b9c526f42",
+  "kind": "science",
+  "source": "OpenStax Biology 2e",
+  "ref": "4.3 Eukaryotic Cells",
+  "url": "https://openstax.org/books/biology-2e/pages/4-3-eukaryotic-cells",
+  "excerpt": "a membrane-bound nucleus",
+  "sourceHash": "80a427e4d4a7a5e144f45b90a80ccf84312e6d9cc377d71285ada499adb3b5b6",
+  "cacheSourceId": "9adf42d5bafde7b7c615",
+  "retrievedAt": "2026-11-06T18:54:18.000070+00:00",
+  "reviewedMappings": {
+    "2014-3-23:0": "32행 전형적인 진핵세포의 핵 및 미토콘드리아와 원핵세포 대비 확인. 조합 ㄱㄹ 도출. 모든 개별 진핵세포가 두 소기관을 보유한다고 일반화하지 않음.",
+    "2014-3-23:3": "32행 전형적인 진핵세포의 핵 및 미토콘드리아와 원핵세포 대비 확인. 조합 ㄱㄹ 도출. 모든 개별 진핵세포가 두 소기관을 보유한다고 일반화하지 않음."
+  },
+  "retrievalMethod": "web.open; manually reviewed excerpt",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

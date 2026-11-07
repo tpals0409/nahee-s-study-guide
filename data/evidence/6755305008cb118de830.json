@@ -1,0 +1,16 @@
+{
+  "id": "6755305008cb118de830",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "OpenStax Biology 2e 16.3 Eukaryotic Epigenetic Gene Regulation",
+  "url": "https://openstax.org/books/biology-2e/pages/16-3-eukaryotic-epigenetic-gene-regulation",
+  "excerpt": "DNA methylation is associated with developmental changes and gene silencing.",
+  "sourceHash": "80dd2c58ee10182c79d85d60163dfbb3626edbb2fd98ece0811315a62f578fe0",
+  "cacheSourceId": "844c3740cd72e0c039ed",
+  "retrievedAt": "2026-11-06T18:14:49.240633+00:00",
+  "reviewedMappings": {
+    "2013-3-28:0": "ㄱ·ㄴ: 염색질 접근성 및Fig16.8 응축/전사관계, DNA메틸화의 유전자발현조절 확인. 메틸화가 항상억제라는 일반화 하지 않음."
+  },
+  "retrievalMethod": "web.open; original question inspected",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

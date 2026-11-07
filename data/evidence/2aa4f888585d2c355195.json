@@ -1,0 +1,33 @@
+{
+  "id": "2aa4f888585d2c355195",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume 2, 11.3 Motion of a Charged Particle in a Magnetic Field",
+  "url": "https://openstax.org/books/university-physics-volume-2/pages/11-3-motion-of-a-charged-particle-in-a-magnetic-field",
+  "excerpt": "The particle’s kinetic energy and speed thus remain constant.",
+  "sourceHash": "33b58fc73045ea662547bac965d2aff9d73732e6763c413094a676d609716520",
+  "cacheSourceId": "6059a6417e091b99be77",
+  "retrievedAt": "2026-11-07T03:44:49.747812+00:00",
+  "reviewedMappings": {
+    "2021-3-02:0": "Perpendicular uniform field gives F=qvB; dividing by mass gives acceleration, not dividing by radius.",
+    "2021-3-02:1": "F=ma and qvB=mv²/r imply a=qvB/m; N/m has wrong dimensions.",
+    "2021-3-02:2": "Equation 11.6 gives T=2πr/v=2πm/(qB) in classical model.",
+    "2021-3-02:3": "Equation 11.5 derives radius mv/(qB).",
+    "2021-3-02:4": "Line 31 states constant speed and kinetic energy due to zero magnetic work; classical kinetic energy mv²/2.",
+    "2021-3-02:5": "Line 34 gives magnetic force qvB for perpendicular incidence.",
+    "2023-3-06:0": "원문은 v와B가 수직. qvB=mv²/r에서8 m/s, 자기력은 일을 하지 않음. 각 전압 후보의 반지름을 독립 계산하여3 m와 비교.",
+    "2023-3-06:1": "원문은 v와B가 수직. qvB=mv²/r에서8 m/s, 자기력은 일을 하지 않음. 각 전압 후보의 반지름을 독립 계산하여3 m와 비교.",
+    "2023-3-06:2": "원문은 v와B가 수직. qvB=mv²/r에서8 m/s, 자기력은 일을 하지 않음. 각 전압 후보의 반지름을 독립 계산하여3 m와 비교.",
+    "2023-3-06:3": "원문은 v와B가 수직. qvB=mv²/r에서8 m/s, 자기력은 일을 하지 않음. 각 전압 후보의 반지름을 독립 계산하여3 m와 비교.",
+    "2023-3-06:4": "원문은 v와B가 수직. qvB=mv²/r에서8 m/s, 자기력은 일을 하지 않음. 각 전압 후보의 반지름을 독립 계산하여3 m와 비교.",
+    "2023-3-06:5": "원문은 v와B가 수직. qvB=mv²/r에서8 m/s, 자기력은 일을 하지 않음. 각 전압 후보의 반지름을 독립 계산하여3 m와 비교.",
+    "2026-3-05:0": "Perpendicular magnetic force supplies centripetal acceleration a=qvB/m while speed remains constant. Combining with v=sqrt(2P/m) yields a=qB sqrt(2P/m³).",
+    "2026-3-05:1": "Perpendicular magnetic force supplies centripetal acceleration a=qvB/m while speed remains constant. Combining with v=sqrt(2P/m) yields a=qB sqrt(2P/m³).",
+    "2026-3-05:2": "Perpendicular magnetic force supplies centripetal acceleration a=qvB/m while speed remains constant. Combining with v=sqrt(2P/m) yields a=qB sqrt(2P/m³).",
+    "2026-3-05:3": "Perpendicular magnetic force supplies centripetal acceleration a=qvB/m while speed remains constant. Combining with v=sqrt(2P/m) yields a=qB sqrt(2P/m³).",
+    "2026-3-05:4": "Perpendicular magnetic force supplies centripetal acceleration a=qvB/m while speed remains constant. Combining with v=sqrt(2P/m) yields a=qB sqrt(2P/m³).",
+    "2026-3-05:5": "Perpendicular magnetic force supplies centripetal acceleration a=qvB/m while speed remains constant. Combining with v=sqrt(2P/m) yields a=qB sqrt(2P/m³)."
+  },
+  "retrievalMethod": "Direct web open",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

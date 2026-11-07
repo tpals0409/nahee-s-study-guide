@@ -1,0 +1,108 @@
+{
+  "id": "2016-3-24",
+  "summary": "해당과정에서는 포도당 한 분자가 피루브산 두 분자로 분해되므로 ①이 옳다. 산소는 전자전달계의 최종 전자수용체이고, 전자전달계에 연결된 ATP 합성은 산화적 인산화이다. 숙시닐-CoA에서 숙신산으로 가는 단계와 미토콘드리아 안팎의 H⁺ 기울기도 방향을 구분해야 한다.",
+  "choices": [
+    "옳아 정답이다. 해당과정은 세포질에서 포도당 한 분자를 탄소가 세 개인 피루브산 두 분자로 분해한다. 포도당 한 분자당 순수하게 ATP 두 분자와 NADH 두 분자가 생성된다.",
+    "옳지 않다. 이 문항의 호기성 세포호흡에서 최종 전자수용체는 O₂이다. 산소가 전자와 H⁺를 받아 환원되면 H₂O가 생성되므로 물은 최종 전자수용체가 아니라 생성물이다.",
+    "옳지 않다. 전자전달계는 H⁺의 전기화학적 기울기를 만들고, ATP 합성효소는 그 기울기를 이용한다. 이를 전자전달과 연결된 산화적 인산화라고 한다. 기질에서 인산기를 전달받는 기질수준 인산화와 다르다.",
+    "옳지 않다. 반응 방향이 반대이다. 시트르산회로에서는 숙시닐-CoA가 숙신산으로 전환되는 단계에 기질수준 인산화가 연결되어 GTP 또는 ATP가 생성된다. 어느 뉴클레오타이드가 생성되는지는 효소형과 조직 등에 따라 다르다.",
+    "옳지 않다. 정상적인 호기성 세포호흡에서 전자전달계는 H⁺를 기질에서 막간 공간으로 이동시킨다. 따라서 막간 공간의 H⁺ 농도가 더 높고 pH는 더 낮으며, 기질의 pH는 더 높다. H⁺가 ATP 합성효소를 통해 기질로 돌아오는 흐름에 ATP 합성이 연결된다."
+  ],
+  "lawNote": "ATP 합성의 구동력은 H⁺ 농도 차이뿐 아니라 막전위까지 포함한 전기화학적 기울기이다. 따라서 pH 차이 하나만을 모든 조건에서의 ATP 합성 여부를 결정하는 기준으로 일반화하지 않는다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "7.2 Glycolysis",
+      "quote": "ends with two molecules of a three-carbon keto acid called pyruvate.",
+      "url": "https://openstax.org/books/biology-2e/pages/7-2-glycolysis",
+      "evidenceId": "7fccebda74f3588b1150",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "7.2 Glycolysis",
+      "quote": "ends with two molecules of a three-carbon keto acid called pyruvate.",
+      "url": "https://openstax.org/books/biology-2e/pages/7-2-glycolysis",
+      "evidenceId": "7fccebda74f3588b1150",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "7.3 Oxidation of Pyruvate and the Citric Acid Cycle",
+      "quote": "during the conversion of the succinyl group to succinate",
+      "url": "https://openstax.org/books/biology-2e/pages/7-3-oxidation-of-pyruvate-and-the-citric-acid-cycle",
+      "evidenceId": "4ba3e5617a9f20b3ffa6",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "7.3 Oxidation of Pyruvate and the Citric Acid Cycle",
+      "quote": "during the conversion of the succinyl group to succinate",
+      "url": "https://openstax.org/books/biology-2e/pages/7-3-oxidation-of-pyruvate-and-the-citric-acid-cycle",
+      "evidenceId": "4ba3e5617a9f20b3ffa6",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "7.4 Oxidative Phosphorylation",
+      "quote": "Thus, oxygen is the final electron acceptor in the electron transport chain.",
+      "url": "https://openstax.org/books/biology-2e/pages/7-4-oxidative-phosphorylation",
+      "evidenceId": "8766e24e97986db67dfd",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "7.4 Oxidative Phosphorylation",
+      "quote": "Thus, oxygen is the final electron acceptor in the electron transport chain.",
+      "url": "https://openstax.org/books/biology-2e/pages/7-4-oxidative-phosphorylation",
+      "evidenceId": "8766e24e97986db67dfd",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "7.4 Oxidative Phosphorylation",
+      "quote": "Thus, oxygen is the final electron acceptor in the electron transport chain.",
+      "url": "https://openstax.org/books/biology-2e/pages/7-4-oxidative-phosphorylation",
+      "evidenceId": "8766e24e97986db67dfd",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "7.4 Oxidative Phosphorylation",
+      "quote": "Thus, oxygen is the final electron acceptor in the electron transport chain.",
+      "url": "https://openstax.org/books/biology-2e/pages/7-4-oxidative-phosphorylation",
+      "evidenceId": "8766e24e97986db67dfd",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "Original image checked; glycolysis products, oxygen reduction, phosphorylation mechanism, succinyl-CoA direction and normal mitochondrial proton gradient independently compared with textbook sources.",
+    "contentHash": "17d9bb4b7bb2ab662e233181112f66c88cee5c6dc710c5fd7e8fdb0fb6b00ada"
+  }
+}

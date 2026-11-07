@@ -1,0 +1,19 @@
+{
+  "id": "f4791ef0388f768a6705",
+  "kind": "science",
+  "source": "Royal Society of Chemistry",
+  "ref": "Argon — Atomic data",
+  "url": "https://periodic-table.rsc.org/element/18/argon",
+  "excerpt": "These values were determined using several different methods.",
+  "sourceHash": "bba6e0d4ceb1d8cc3b8e928e7eb9b7ab600db26ed44987183b6d1355bf08f198",
+  "cacheSourceId": "7cd31b02cfc3a7b7846a",
+  "retrievedAt": "2026-11-07T01:44:32.591126+00:00",
+  "reviewedMappings": {
+    "2023-3-16:0": "Ar 비결합반지름1.88Å와 공유반지름1.01Å를 구분한다. 반지름 정의 없이 중성원자·이온의 수치를 혼합해 ㄱ을 확정하거나 공식 취소사유를 추정하지 않는다. 이 근거는 과학적 부분 판단만 지지하며 전항정답의 공식 행정사유를 증명하지 않는다.",
+    "2023-3-16:1": "Ar 비결합반지름1.88Å와 공유반지름1.01Å를 구분한다. 반지름 정의 없이 중성원자·이온의 수치를 혼합해 ㄱ을 확정하거나 공식 취소사유를 추정하지 않는다. 이 근거는 과학적 부분 판단만 지지하며 전항정답의 공식 행정사유를 증명하지 않는다.",
+    "2023-3-16:3": "Ar 비결합반지름1.88Å와 공유반지름1.01Å를 구분한다. 반지름 정의 없이 중성원자·이온의 수치를 혼합해 ㄱ을 확정하거나 공식 취소사유를 추정하지 않는다. 이 근거는 과학적 부분 판단만 지지하며 전항정답의 공식 행정사유를 증명하지 않는다.",
+    "2023-3-16:5": "Ar 비결합반지름1.88Å와 공유반지름1.01Å를 구분한다. 반지름 정의 없이 중성원자·이온의 수치를 혼합해 ㄱ을 확정하거나 공식 취소사유를 추정하지 않는다. 이 근거는 과학적 부분 판단만 지지하며 전항정답의 공식 행정사유를 증명하지 않는다."
+  },
+  "retrievalMethod": "Direct open; nonbonded/covalent radius definitions and table reviewed.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

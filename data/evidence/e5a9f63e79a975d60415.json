@@ -1,0 +1,21 @@
+{
+  "id": "e5a9f63e79a975d60415",
+  "kind": "science",
+  "source": "Las Cumbres Observatory",
+  "ref": "Stellar Parallax",
+  "url": "https://lco.global/spacebook/distance/parallax-and-distance-measurement/",
+  "excerpt": "d = 1/p",
+  "sourceHash": "8ea663f64e0dc604f40cf5ccd1a5f28b20c77324ec45de04c79aedde8539bb40",
+  "cacheSourceId": "fbb0d3f4d7dc9db0ca63",
+  "retrievedAt": "2026-11-07T02:12:51.772569+00:00",
+  "reviewedMappings": {
+    "2023-3-39:0": "초각과 pc의 단위를 확인하고 원문 표에 적용하여 A=1, B=2, C=10 pc를 계산했다. 가장 가까운 별은 A이다.",
+    "2023-3-39:1": "초각과 pc의 단위를 확인하고 원문 표에 적용하여 A=1, B=2, C=10 pc를 계산했다. 가장 가까운 별은 A이다.",
+    "2023-3-39:2": "초각과 pc의 단위를 확인하고 원문 표에 적용하여 A=1, B=2, C=10 pc를 계산했다. 가장 가까운 별은 A이다.",
+    "2023-3-39:3": "초각과 pc의 단위를 확인하고 원문 표에 적용하여 A=1, B=2, C=10 pc를 계산했다. 가장 가까운 별은 A이다.",
+    "2023-3-39:4": "초각과 pc의 단위를 확인하고 원문 표에 적용하여 A=1, B=2, C=10 pc를 계산했다. 가장 가까운 별은 A이다.",
+    "2023-3-39:5": "초각과 pc의 단위를 확인하고 원문 표에 적용하여 A=1, B=2, C=10 pc를 계산했다. 가장 가까운 별은 A이다."
+  },
+  "retrievalMethod": "Direct web open; reviewed equations, units and distance-modulus interpretation",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

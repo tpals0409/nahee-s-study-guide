@@ -1,0 +1,18 @@
+{
+  "id": "4d14f576664c1171b1d5",
+  "kind": "science",
+  "source": "OpenStax Biology 2e",
+  "ref": "14.5 DNA Replication in Eukaryotes",
+  "url": "https://openstax.org/books/biology-2e/pages/14-5-dna-replication-in-eukaryotes",
+  "excerpt": "Primers are formed by the enzyme primase",
+  "sourceHash": "e638cb055d5b8c292a69fa7f32a85a216b9206390dc1b4b2ea65db2b219f94dc",
+  "cacheSourceId": "6bc63b8af81b6d1e5c14",
+  "retrievedAt": "2026-11-06T18:51:38.532652+00:00",
+  "reviewedMappings": {
+    "2014-3-21:1": "47–51행에서 primase, ATP 이용 helicase, α/δ/ε와 합성 방향 확인. 49행 RNase H를 flap endonuclease와 동일시한 부정확한 문구는 사용하지 않음.",
+    "2014-3-21:4": "47–51행에서 primase, ATP 이용 helicase, α/δ/ε와 합성 방향 확인. 49행 RNase H를 flap endonuclease와 동일시한 부정확한 문구는 사용하지 않음.",
+    "2014-3-21:5": "47–51행에서 primase, ATP 이용 helicase, α/δ/ε와 합성 방향 확인. 49행 RNase H를 flap endonuclease와 동일시한 부정확한 문구는 사용하지 않음."
+  },
+  "retrievalMethod": "web.open",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,30 @@
+{
+  "summary": "빈의 변위 법칙(λ_max × T = 일정)에 따라 최대 복사 파장은 온도에 반비례하므로 지구/태양 = 6000/300 = 20배입니다. 슈테판-볼츠만 법칙(E = σT⁴)에 따라 단위 면적·단위 시간당 방출 에너지는 온도의 4제곱에 비례하므로 태양/지구 = 20⁴ = 160000배입니다. 정답은 A=20, B=160000인 조합입니다.",
+  "choices": [
+    "(A) 10, (B) 400: 오답입니다. 온도비가 20인데 파장비를 10으로 잘못 잡았습니다. 또한 400은 20²으로, 에너지가 온도의 4제곱이 아니라 제곱에 비례한다고 본 값입니다.",
+    "(A) 10, (B) 160000: 오답입니다. (B)는 20⁴ = 160000으로 맞습니다. 그러나 (A)는 빈의 법칙에 따라 6000/300 = 20이어야 하는데 10으로 되어 있습니다.",
+    "(A) 20, (B) 400: 오답입니다. (A)는 맞습니다. 그러나 (B)를 온도비의 제곱(20² = 400)으로 계산해 슈테판-볼츠만 법칙의 4제곱 관계를 반영하지 못했습니다.",
+    "(A) 20, (B) 160000: 정답입니다. λ_max는 1/T에 비례하므로 지구/태양 = 6000/300 = 20입니다. E는 T⁴에 비례하므로 태양/지구 = (6000/300)⁴ = 20⁴ = 160000입니다.",
+    "(A) 20, (B) 3200000: 오답입니다. (A)는 맞습니다. 그러나 3200000은 20⁵에 해당하는 값으로, 슈테판-볼츠만 법칙의 T⁴ 관계와 맞지 않습니다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax · University Physics Volume 3",
+      "ref": "6.1",
+      "quote": "its temperature is inversely proportional to the wavelength of its peak intensity.",
+      "url": "https://openstax.org/books/university-physics-volume-3/pages/6-1-blackbody-radiation",
+      "evidenceId": "d64763978b67f2d3619c",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "원본2009-3-31.webp의 파장축과 단위면적·단위시간 조건 확인. Wien λmaxT=b로 지구/태양파장비6000/300=20. Stefan P/A=σT⁴로 태양/지구방출비20⁴=160000. 반지름·거리·지구수신플럭스와 구별. 선택지400=20²,3200000=20⁵ 재계산.",
+    "contentHash": "bb443d164e74b46ecaa92fc280c0532301875aeda381c1529b3063a52f8ee76b"
+  }
+}

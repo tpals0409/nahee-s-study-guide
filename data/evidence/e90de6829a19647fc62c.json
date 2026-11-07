@@ -1,0 +1,18 @@
+{
+  "id": "e90de6829a19647fc62c",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 2e §7.2 Covalent Bonding",
+  "url": "https://openstax.org/books/chemistry-2e/pages/7-2-covalent-bonding",
+  "excerpt": "considered polar covalent",
+  "sourceHash": "2f01c505e20377cdb8156963800758bda9bbc5c943163a636b5409c55e1d0d8a",
+  "cacheSourceId": "2ba48fdc89d0dbb9454b",
+  "retrievedAt": "2026-11-06T23:14:34.086056+00:00",
+  "reviewedMappings": {
+    "2020-3-15:0": "Identified HF is polar covalent with more electronegative fluorine; supports statements3/4.",
+    "2020-3-15:3": "HF polar bond yields nonzero molecular dipole for this diatomic.",
+    "2020-3-15:4": "X=H,Y=F; fluorine more electronegative than hydrogen."
+  },
+  "retrievalMethod": "Direct web retrieval; reviewed HF explicit polar covalent example line81 and electronegativity/partial-charge discussion75–95. No numerical dipole or electronegativity values retained.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "0bab9b47b7c2769b867c",
+  "kind": "science",
+  "source": "Addgene",
+  "ref": "Molecular Biology Reference — Plasmid Elements",
+  "url": "https://www.addgene.org/mol-bio-reference/",
+  "excerpt": "DNA sequence which directs the initiation of plasmid replication in bacteria by recruiting DNA replication machinery.",
+  "sourceHash": "d58c595b372f36fe7a6fff461f8d5745717bdfadd0734183cf7c6729354bb443",
+  "cacheSourceId": "80fc363ec7762647ec49",
+  "retrievedAt": "2026-11-06T15:48:32.568664+00:00",
+  "reviewedMappings": {
+    "2010-3-26:1": "복제기점이 세균에서 플라스미드 복제를 개시하므로 유지·증식에 필요."
+  },
+  "retrievalMethod": "web.open and web.find; Plasmid Elements table and Expression Plasmids row read",
+  "sourceHashScope": "Two selected excerpts only; hash does not represent full page"
+}

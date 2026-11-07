@@ -1,0 +1,33 @@
+{
+  "id": "17ce2f45a16b82108cd2",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 2e, 17.1 Review of Redox Chemistry",
+  "url": "https://openstax.org/books/chemistry-2e/pages/17-1-review-of-redox-chemistry",
+  "excerpt": "Balance each half-reaction for charge by adding electrons.",
+  "sourceHash": "35aef8c533bcda7aa7bc3889c385d8250d2ace15e0d7de4fdfa47fb9199eaf5b",
+  "cacheSourceId": "3eb4061fa9b778d91fd0",
+  "retrievedAt": "2026-11-07T03:50:49.315106+00:00",
+  "reviewedMappings": {
+    "2021-3-19:0": "반쪽 반응 전자수를8로 맞추고 산성 중간식의2H+를 양변2OH−로 중화. 최종1:4:2→2:4:5, 비5/2를 독립 도출.",
+    "2021-3-19:1": "산성 중간식 H2O3에 중화로 생기는 물2를 더해야 함. a=2 정규화에서 b=3이면 H/O 보존 불일치.",
+    "2021-3-19:2": "a=2 정규화에서 b=4이면 우변 H8/O16, 좌변 H10/O17로 불일치.",
+    "2021-3-19:3": "최종식 양변 Cl2 H10 O17 전하−2로 일치. a2,b5이므로 5/2.",
+    "2021-3-19:4": "a=2 정규화에서 b=6이면 우변 H12/O18, 좌변 H10/O17로 불일치.",
+    "2021-3-19:5": "a=2 정규화에서 b=7이면 우변 H14/O19, 좌변 H10/O17로 불일치. 추정한 수험생 오답 원인은 설명하지 않음.",
+    "2022-3-20:0": "Apply source oxidation-number and acid half-reaction rules to the given equation: Fe2+ -> Fe3+ + e-, peroxide + 2H+ + 2e- -> 2water. Sum gives coefficients 2,1,2,2; independently checked Fe/O/H atoms and +6 charge on both sides. Only ㄱ true.",
+    "2022-3-20:1": "Coefficient sum comparison follows balanced half-reactions: a+b=3 < c+d=4; only ㄱ is correct.",
+    "2022-3-20:2": "Using oxidation-number sum equal to molecular charge and H=+1, peroxide oxygen is -1; water oxygen is -2 as stated in source. ㄴ falsely claims increase.",
+    "2022-3-20:3": "Charge balance of Fe2+ -> Fe3+ requires one electron lost per ion, hence one mole electrons per mole Fe2+, not two. ㄷ false.",
+    "2022-3-20:4": "ㄱ true from 3<4, but ㄴ false because oxygen oxidation number decreases -1 to -2.",
+    "2022-3-20:5": "ㄱ true from balanced coefficients, but ㄷ false because Fe oxidation loses one electron per Fe2+ ion.",
+    "2026-3-12:0": "Independently apply cited half-reaction method: SO3(2-)+H2O→SO4(2-)+2H++2e-; MnO4(-)+8H++5e-→Mn2++4H2O. Multiply by 5 and 2 and cancel to get 5SO3(2-)+2MnO4(-)+6H+→5SO4(2-)+2Mn2++3H2O. Both sides S5 Mn2 O23 H6 and charge -6. x=2/5,y=3/5,sum1, only choice3.",
+    "2026-3-12:1": "Independently apply cited half-reaction method: SO3(2-)+H2O→SO4(2-)+2H++2e-; MnO4(-)+8H++5e-→Mn2++4H2O. Multiply by 5 and 2 and cancel to get 5SO3(2-)+2MnO4(-)+6H+→5SO4(2-)+2Mn2++3H2O. Both sides S5 Mn2 O23 H6 and charge -6. x=2/5,y=3/5,sum1, only choice3.",
+    "2026-3-12:2": "Independently apply cited half-reaction method: SO3(2-)+H2O→SO4(2-)+2H++2e-; MnO4(-)+8H++5e-→Mn2++4H2O. Multiply by 5 and 2 and cancel to get 5SO3(2-)+2MnO4(-)+6H+→5SO4(2-)+2Mn2++3H2O. Both sides S5 Mn2 O23 H6 and charge -6. x=2/5,y=3/5,sum1, only choice3.",
+    "2026-3-12:3": "Independently apply cited half-reaction method: SO3(2-)+H2O→SO4(2-)+2H++2e-; MnO4(-)+8H++5e-→Mn2++4H2O. Multiply by 5 and 2 and cancel to get 5SO3(2-)+2MnO4(-)+6H+→5SO4(2-)+2Mn2++3H2O. Both sides S5 Mn2 O23 H6 and charge -6. x=2/5,y=3/5,sum1, only choice3.",
+    "2026-3-12:4": "Independently apply cited half-reaction method: SO3(2-)+H2O→SO4(2-)+2H++2e-; MnO4(-)+8H++5e-→Mn2++4H2O. Multiply by 5 and 2 and cancel to get 5SO3(2-)+2MnO4(-)+6H+→5SO4(2-)+2Mn2++3H2O. Both sides S5 Mn2 O23 H6 and charge -6. x=2/5,y=3/5,sum1, only choice3.",
+    "2026-3-12:5": "Independently apply cited half-reaction method: SO3(2-)+H2O→SO4(2-)+2H++2e-; MnO4(-)+8H++5e-→Mn2++4H2O. Multiply by 5 and 2 and cancel to get 5SO3(2-)+2MnO4(-)+6H+→5SO4(2-)+2Mn2++3H2O. Both sides S5 Mn2 O23 H6 and charge -6. x=2/5,y=3/5,sum1, only choice3."
+  },
+  "retrievalMethod": "Direct web open",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

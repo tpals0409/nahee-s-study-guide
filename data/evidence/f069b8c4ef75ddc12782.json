@@ -1,0 +1,19 @@
+{
+  "id": "f069b8c4ef75ddc12782",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Anatomy and Physiology 2e 17.5",
+  "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/17-5-the-parathyroid-glands",
+  "excerpt": "Calcitriol then stimulates increased absorption of dietary calcium by the intestines.",
+  "sourceHash": "0e001b1da6a8b34a25f03805b5b49c10268b3b8d9fdcf34dcbd03ffbe96a3700",
+  "cacheSourceId": "247a18216ab3fdcf16c4",
+  "retrievedAt": "2026-11-07T05:17:02.292901+00:00",
+  "reviewedMappings": {
+    "2012-3-21:0": "ㄴ: 칼시트리올은 활성형 1,25-디히드록시 비타민D로 장 칼슘 흡수를 촉진한다.",
+    "2012-3-21:3": "ㄴ의 칼슘 흡수 촉진을 지지한다.",
+    "2012-3-21:4": "ㄴ은 맞지만 ㄹ 포함 조합의 최종 판정은 별도이다.",
+    "2012-3-21:5": "ㄴ의 장 칼슘 흡수 촉진을 지지한다. ㄹ의 오답 판정을 지지하지 않는다."
+  },
+  "retrievalMethod": "Direct web open/find",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

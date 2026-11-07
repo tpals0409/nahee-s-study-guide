@@ -1,0 +1,14 @@
+{
+  "id": "9236d4cd859534bdd158",
+  "kind": "science",
+  "source": "OpenStax · Chemistry 2e",
+  "ref": "10.6 Lattice Structures in Crystalline Solids",
+  "url": "https://openstax.org/books/chemistry-2e/pages/10-6-lattice-structures-in-crystalline-solids",
+  "excerpt": "The unit cell contains four sodium ions and four chloride ions",
+  "sourceHash": "73d7a5fc4b455b15e4f15c26d449c751cb079708bb3ef541a3c0ebc3696f63bc",
+  "cacheSourceId": "7a1b7b8e29056144244c",
+  "retrievedAt": "2026-11-06T15:30:57.120286+00:00",
+  "reviewedMappings": {
+    "2010-3-12:0": "원본 결정 그림 및 ㄱㄴㄷ 판독. 교재 Figure 10.60의 NaCl FCC+octahedral holes 배치 대조. 원점을 Na⁺에 두고 다른 Na⁺는 (±a/2,±a/2,0)의 순열 12개, Cl⁻는 (±a/2,0,0)의 순열 6개임을 독립 계수. 거리비 (a/√2)/(a/2)=√2. 꼭짓점·면심 분담 8/8+6/2=4, 모서리·체심 분담 12/4+1=4. ㄱ 거짓, ㄴㄷ 참."
+  }
+}

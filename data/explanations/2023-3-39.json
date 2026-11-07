@@ -1,0 +1,151 @@
+{
+  "id": "2023-3-39",
+  "summary": "정답은 ④(ㄱ, ㄷ)입니다. 연주시차 p(초각)와 거리 d(pc)는 d=1/p 관계이므로 A, B, C는 각각 1, 2, 10 pc에 있습니다. 별빛의 소광을 무시하는 이 문항에서는 M=m+5−5log₁₀d를 적용하여 A의 절대 등급은 +5, C는 2가 됩니다.",
+  "choices": [
+    "ㄱ: 오답입니다. ㄱ은 옳지만, C가 10 pc에 있어 절대 등급이 2라는 ㄷ도 옳으므로 ㄷ이 빠진 이 선택지는 불완전합니다.",
+    "ㄷ: 오답입니다. ㄷ은 옳지만, 연주시차가 가장 큰 A(1″, 1 pc)가 가장 가깝다는 ㄱ도 옳으므로 ㄱ이 빠진 이 선택지는 불완전합니다.",
+    "ㄱ, ㄴ: 오답입니다. A는 거리가 1 pc이므로 M = 0 + 5 − 5 log 1 = 5입니다. 따라서 절대 등급이 −5라는 ㄴ은 틀렸습니다. 또한 옳은 ㄷ이 빠져 있습니다.",
+    "ㄱ, ㄷ: 정답입니다. 거리는 A가 1 pc, B가 2 pc, C가 10 pc이므로 A가 가장 가깝습니다(ㄱ 옳음). C는 10 pc에 있으므로 M = m = 2입니다(ㄷ 옳음). A의 절대 등급은 5이므로 ㄴ은 틀렸습니다.",
+    "ㄱ, ㄴ, ㄷ: 오답입니다. A의 절대 등급은 −5가 아니라 +5이므로 ㄴ이 틀렸습니다. 따라서 세 보기를 모두 고를 수 없습니다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "Las Cumbres Observatory",
+      "ref": "Stellar Parallax",
+      "quote": "d = 1/p",
+      "url": "https://lco.global/spacebook/distance/parallax-and-distance-measurement/",
+      "evidenceId": "e5a9f63e79a975d60415",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "Las Cumbres Observatory",
+      "ref": "Stellar Parallax",
+      "quote": "d = 1/p",
+      "url": "https://lco.global/spacebook/distance/parallax-and-distance-measurement/",
+      "evidenceId": "e5a9f63e79a975d60415",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "Las Cumbres Observatory",
+      "ref": "Stellar Parallax",
+      "quote": "d = 1/p",
+      "url": "https://lco.global/spacebook/distance/parallax-and-distance-measurement/",
+      "evidenceId": "e5a9f63e79a975d60415",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "Las Cumbres Observatory",
+      "ref": "Stellar Parallax",
+      "quote": "d = 1/p",
+      "url": "https://lco.global/spacebook/distance/parallax-and-distance-measurement/",
+      "evidenceId": "e5a9f63e79a975d60415",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "Las Cumbres Observatory",
+      "ref": "Stellar Parallax",
+      "quote": "d = 1/p",
+      "url": "https://lco.global/spacebook/distance/parallax-and-distance-measurement/",
+      "evidenceId": "e5a9f63e79a975d60415",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "Las Cumbres Observatory",
+      "ref": "Stellar Parallax",
+      "quote": "d = 1/p",
+      "url": "https://lco.global/spacebook/distance/parallax-and-distance-measurement/",
+      "evidenceId": "e5a9f63e79a975d60415",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "Las Cumbres Observatory",
+      "ref": "What is distance modulus?",
+      "quote": "m - M = 5 log d - 5",
+      "url": "https://lco.global/spacebook/distance/what-is-distance-modulus/",
+      "evidenceId": "5fc721772128aa67b2a0",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "Las Cumbres Observatory",
+      "ref": "What is distance modulus?",
+      "quote": "m - M = 5 log d - 5",
+      "url": "https://lco.global/spacebook/distance/what-is-distance-modulus/",
+      "evidenceId": "5fc721772128aa67b2a0",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "Las Cumbres Observatory",
+      "ref": "What is distance modulus?",
+      "quote": "m - M = 5 log d - 5",
+      "url": "https://lco.global/spacebook/distance/what-is-distance-modulus/",
+      "evidenceId": "5fc721772128aa67b2a0",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "Las Cumbres Observatory",
+      "ref": "What is distance modulus?",
+      "quote": "m - M = 5 log d - 5",
+      "url": "https://lco.global/spacebook/distance/what-is-distance-modulus/",
+      "evidenceId": "5fc721772128aa67b2a0",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "Las Cumbres Observatory",
+      "ref": "What is distance modulus?",
+      "quote": "m - M = 5 log d - 5",
+      "url": "https://lco.global/spacebook/distance/what-is-distance-modulus/",
+      "evidenceId": "5fc721772128aa67b2a0",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "Las Cumbres Observatory",
+      "ref": "What is distance modulus?",
+      "quote": "m - M = 5 log d - 5",
+      "url": "https://lco.global/spacebook/distance/what-is-distance-modulus/",
+      "evidenceId": "5fc721772128aa67b2a0",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Original table inspected; independent numerical distance/magnitude check; direct LCO equation review",
+    "contentHash": "20c3fa0eee2ae5127b6324af13275559a43073696fcd81c4ae873376fff7f79d"
+  }
+}

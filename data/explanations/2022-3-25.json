@@ -1,0 +1,107 @@
+{
+  "id": "2022-3-25",
+  "summary": "정답은 ①입니다. 대장균은 유전자 전사에 한 종류의 RNA 중합효소를 사용합니다. RNA 중합효소 I·II·III의 구분은 진핵세포 핵의 전사 체계에 해당합니다.",
+  "choices": [
+    "① 옳지 않습니다. 대장균의 유전자 전사 효소는 진핵세포처럼 RNA 중합효소 I·II·III으로 나뉘지 않습니다. 진핵세포에서는 I이 주로 rRNA, II가 단백질 암호화 유전자의 전구 mRNA, III이 tRNA와 5S rRNA 등을 전사합니다.",
+    "② 옳습니다. 대장균의 세포질에서 70S 리보솜이 번역을 수행합니다. 소단위체는 30S, 대단위체는 50S이며, S는 침강계수 단위이므로 단순히 더하는 수치가 아닙니다.",
+    "③ 옳습니다. DNA 합성에는 기질인 dATP·dGTP·dCTP·dTTP의 화학 에너지가 사용됩니다. 또한 이중나선을 푸는 헬리케이스의 작용에도 ATP 가수분해가 필요합니다.",
+    "④ 옳습니다. 대장균의 lac 오페론과 trp 오페론에서는 관련 유전자들을 함께 전사하며, 억제자나 활성자 등에 의해 전사가 조절됩니다.",
+    "⑤ 옳습니다. 대장균의 개시 tRNA는 N-포밀메티오닌(fMet)을 운반하여 번역을 시작합니다. 이를 고세균을 포함한 모든 원핵생물의 특징으로 일반화하지 않습니다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax · Biology 2e",
+      "ref": "15.2 Prokaryotic Transcription",
+      "quote": "Prokaryotes use the same RNA polymerase to transcribe all of their genes.",
+      "url": "https://openstax.org/books/biology-2e/pages/15-2-prokaryotic-transcription",
+      "evidenceId": "5b83d909e30f545833ad",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax · Biology 2e",
+      "ref": "15.2 Prokaryotic Transcription",
+      "quote": "Prokaryotes use the same RNA polymerase to transcribe all of their genes.",
+      "url": "https://openstax.org/books/biology-2e/pages/15-2-prokaryotic-transcription",
+      "evidenceId": "5b83d909e30f545833ad",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e, 15.3 Eukaryotic Transcription",
+      "quote": "RNA polymerase III is also located in the nucleus.",
+      "url": "https://openstax.org/books/biology-2e/pages/15-3-eukaryotic-transcription",
+      "evidenceId": "82e5a4aaaa7dbbfd1b35",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e, 15.3 Eukaryotic Transcription",
+      "quote": "RNA polymerase III is also located in the nucleus.",
+      "url": "https://openstax.org/books/biology-2e/pages/15-3-eukaryotic-transcription",
+      "evidenceId": "82e5a4aaaa7dbbfd1b35",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e, 15.5 Ribosomes and Protein Synthesis",
+      "quote": "The fMet begins every polypeptide chain synthesized by E. coli",
+      "url": "https://openstax.org/books/biology-2e/pages/15-5-ribosomes-and-protein-synthesis",
+      "evidenceId": "56704dcdbd2b7895fb25",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e, 15.5 Ribosomes and Protein Synthesis",
+      "quote": "The fMet begins every polypeptide chain synthesized by E. coli",
+      "url": "https://openstax.org/books/biology-2e/pages/15-5-ribosomes-and-protein-synthesis",
+      "evidenceId": "56704dcdbd2b7895fb25",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e, 14.4 DNA Replication in Prokaryotes",
+      "quote": "ATP hydrolysis is required for this process.",
+      "url": "https://openstax.org/books/biology-2e/pages/14-4-dna-replication-in-prokaryotes",
+      "evidenceId": "e98740b3f7c5ec812f5c",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e, 16.2 Prokaryotic Gene Regulation",
+      "quote": "Both repressors and activators regulate gene expression",
+      "url": "https://openstax.org/books/biology-2e/pages/16-2-prokaryotic-gene-regulation",
+      "evidenceId": "4f448a94c1434a3a24d8",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Original question checked; five options matched to directly read textbook sections; scoped fMet and transcription claims to E. coli; removed unnecessary ligase and subunit details",
+    "contentHash": "bcbc0861ebc9b5862017deb0fe580d2bc86c4cf63427e7056319eedc6025feed"
+  }
+}

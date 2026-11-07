@@ -1,0 +1,25 @@
+{
+  "id": "6596199454764e3b3a3c",
+  "kind": "science",
+  "source": "NASA Goddard Space Flight Center",
+  "ref": "Planetary Fact Sheet - Metric",
+  "url": "https://nssdc.gsfc.nasa.gov/planetary/factsheet/",
+  "excerpt": "Planetary Fact Sheet - Metric",
+  "sourceHash": "ac9ff8f151dd694b583bbc24e7b92af1d5d1c85f0af5463a72d120244cd1fef4",
+  "cacheSourceId": "2b0de02aee511c4bb80d",
+  "retrievedAt": "2026-11-06T23:42:33.704511+00:00",
+  "reviewedMappings": {
+    "2018-3-38:0": "Reviewed all five table rows for eight planets; only density is greater for every terrestrial planet than every giant planet. Title excerpt identifies table; reasoning uses reviewed rows, not title alone.",
+    "2018-3-38:1": "Mass row: terrestrial maximum 5.97 is below giant minimum 86.8 in 10^24 kg.",
+    "2018-3-38:2": "Density row: terrestrial minimum 3934 exceeds giant maximum 1638 kg/m3.",
+    "2018-3-38:3": "Diameter row: terrestrial maximum 12756 is below giant minimum 49528 km; dividing diameters by two preserves radius ordering.",
+    "2018-3-38:4": "Number of Moons row: terrestrial maximum 2 is below giant minimum 16 in this dated table; no claim that every giant has dozens of moons or that counts are current.",
+    "2018-3-38:5": "Orbital Period row: terrestrial maximum 687 is below giant minimum 4331 days.",
+    "2020-3-38:1": "수성 원일점69.8백만km가 지구 근일점147.1백만km보다 작아 지구 궤도 안쪽임.",
+    "2020-3-38:3": "화성687.0일 > 지구365.2일.",
+    "2020-3-38:4": "목성1898×10^24kg가 다른 7행성보다 큼; 반올림하면1.90×10^27kg.",
+    "2020-3-38:5": "토성687kg/m³=0.687g/cm³ < 지구5514kg/m³=5.514g/cm³."
+  },
+  "retrievalMethod": "Direct web open; reviewed table columns and rows: mass (10^24 kg) Jupiter 1898 exceeds all other seven planets; density Earth 5514/Saturn 687 kg/m^3; Mercury aphelion 69.8 vs Earth perihelion 147.1 million km; orbital period Mars 687.0/Earth 365.2 days. Table title retained as short excerpt; numerical cells reviewed and recorded in mappings. No other-planet moon-count claims.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

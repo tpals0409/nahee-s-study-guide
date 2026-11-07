@@ -1,0 +1,21 @@
+{
+  "id": "408709ecf91f209ce70f",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume 1, 11.1 Rolling Motion",
+  "url": "https://openstax.org/books/university-physics-volume-1/pages/11-1-rolling-motion",
+  "excerpt": "the kinetic energy, or energy of motion, is equally shared between linear and rotational motion.",
+  "sourceHash": "05afecc8337524927dd2c6b9ef38f291bd28c82db6748533467897f26c64d1cc",
+  "cacheSourceId": "35aba44dd00ff72dcea7",
+  "retrievedAt": "2026-11-07T03:43:08.500886+00:00",
+  "reviewedMappings": {
+    "2026-3-03:0": "Original image gives straight no-slip rolling of thin uniform ring. I=integral R² dm=MR² about its rolling axle, omega=v/R. Reviewed energy decomposition and hollow-wheel example give Ktrans=Krot=Mv²/2. Total coefficient is 1, agreeing only with choice 1; coefficients 1.5,2,2.5,3.5 fail.",
+    "2026-3-03:1": "Original image gives straight no-slip rolling of thin uniform ring. I=integral R² dm=MR² about its rolling axle, omega=v/R. Reviewed energy decomposition and hollow-wheel example give Ktrans=Krot=Mv²/2. Total coefficient is 1, agreeing only with choice 1; coefficients 1.5,2,2.5,3.5 fail.",
+    "2026-3-03:2": "Original image gives straight no-slip rolling of thin uniform ring. I=integral R² dm=MR² about its rolling axle, omega=v/R. Reviewed energy decomposition and hollow-wheel example give Ktrans=Krot=Mv²/2. Total coefficient is 1, agreeing only with choice 1; coefficients 1.5,2,2.5,3.5 fail.",
+    "2026-3-03:3": "Original image gives straight no-slip rolling of thin uniform ring. I=integral R² dm=MR² about its rolling axle, omega=v/R. Reviewed energy decomposition and hollow-wheel example give Ktrans=Krot=Mv²/2. Total coefficient is 1, agreeing only with choice 1; coefficients 1.5,2,2.5,3.5 fail.",
+    "2026-3-03:4": "Original image gives straight no-slip rolling of thin uniform ring. I=integral R² dm=MR² about its rolling axle, omega=v/R. Reviewed energy decomposition and hollow-wheel example give Ktrans=Krot=Mv²/2. Total coefficient is 1, agreeing only with choice 1; coefficients 1.5,2,2.5,3.5 fail.",
+    "2026-3-03:5": "Original image gives straight no-slip rolling of thin uniform ring. I=integral R² dm=MR² about its rolling axle, omega=v/R. Reviewed energy decomposition and hollow-wheel example give Ktrans=Krot=Mv²/2. Total coefficient is 1, agreeing only with choice 1; coefficients 1.5,2,2.5,3.5 fail."
+  },
+  "retrievalMethod": "Direct web open",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

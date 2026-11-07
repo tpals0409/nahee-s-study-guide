@@ -1,0 +1,16 @@
+{
+  "id": "1b22f508d4b79c9241ec",
+  "kind": "science",
+  "source": "PubMed",
+  "ref": "Polyesters in higher plants",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/11217409/",
+  "excerpt": "composed of interesterified hydroxy and hydroxy epoxy fatty acids",
+  "sourceHash": "df928beb7a844ede48730990738af2fcb6d6c55a966dfb9218c516af0f53da65",
+  "cacheSourceId": "4150712840097136f2ab",
+  "retrievedAt": "2026-11-07T02:34:18.275213+00:00",
+  "reviewedMappings": {
+    "2024-3-21:1": "Cutin is an epidermal-wall-associated fatty-acid polyester, not a carbohydrate polymer."
+  },
+  "retrievalMethod": "PubMed indexed abstract reviewed; direct page contained no readable lines.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "d1efe64dbee1ea4d48cb",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "7.4 Formal Charges and Resonance",
+  "url": "https://openstax.org/books/chemistry-2e/pages/7-4-formal-charges-and-resonance",
+  "excerpt": "the arrangement with the smallest nonzero formal charges is preferable.",
+  "sourceHash": "be5d7256610120b6f4793f0fd66a15fd4f21ae568dc28d0af3e1cb73d4b691d3",
+  "cacheSourceId": "dd9a397eb3005b70495b",
+  "retrievedAt": "2026-11-06T20:21:21.284977+00:00",
+  "reviewedMappings": {
+    "2016-3-16:0": "본문 형식 전하 식과 전하 최소화 기준을 적용. 옥텟·16전자 조건을 만족하는 S-C-N 결합 차수 (2,2),(3,1),(1,3)의 전하를 각각 (0,0,-1),(1,0,-2),(-1,0,0)으로 독립 계산.",
+    "2016-3-16:1": "(나)의 +1/-2 전하 분리는 나머지 두 형태보다 불리하므로 ㄴ은 거짓.",
+    "2016-3-16:2": "(가)의 S=0으로 ㄱ 거짓, (나)의 전하 분리로 ㄴ 거짓. ㄷ은 별도 혼성 출처와 함께 판단.",
+    "2016-3-16:3": "S 형식 전하 6-4-2=0; (나) +1/-2는 전하 최소화에 불리. ㄱㄴ 모두 거짓.",
+    "2016-3-16:4": "(가) S의 비공유4,결합4 전자로 형식 전하0. ㄱ 거짓.",
+    "2016-3-16:5": "세 전하 배열을 직접 계산하여 (나)가 가장 유리하지 않음을 판단. ㄴ 거짓."
+  },
+  "retrievalMethod": "Direct web open; formal-charge rules and hybridization sections reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

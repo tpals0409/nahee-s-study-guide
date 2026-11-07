@@ -1,0 +1,21 @@
+{
+  "id": "f7d6cfbbc10d98e9a8d1",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 2e, 7.6 Molecular Structure and Polarity",
+  "url": "https://openstax.org/books/chemistry-2e/pages/7-6-molecular-structure-and-polarity",
+  "excerpt": "three regions form a trigonal planar geometry",
+  "sourceHash": "bff36816f116758d78e4b52a210539e2731b79c917532104f7e39110a62fba9e",
+  "cacheSourceId": "22cadc35f41abf4a82af",
+  "retrievedAt": "2026-11-07T03:56:53.430752+00:00",
+  "reviewedMappings": {
+    "2026-3-14:0": "BF3 has three B-F bonding regions and no central lone pairs; VSEPR yields trigonal planar; ㄷ true.",
+    "2026-3-14:1": "BF3 has three B-F bonding regions and no central lone pairs; VSEPR yields trigonal planar; ㄷ true.",
+    "2026-3-14:2": "BF3 has three B-F bonding regions and no central lone pairs; VSEPR yields trigonal planar; ㄷ true.",
+    "2026-3-14:3": "BF3 has three B-F bonding regions and no central lone pairs; VSEPR yields trigonal planar; ㄷ true.",
+    "2026-3-14:4": "BF3 has three B-F bonding regions and no central lone pairs; VSEPR yields trigonal planar; ㄷ true.",
+    "2026-3-14:5": "BF3 has three B-F bonding regions and no central lone pairs; VSEPR yields trigonal planar; ㄷ true."
+  },
+  "retrievalMethod": "Direct web open",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

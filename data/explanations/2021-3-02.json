@@ -1,0 +1,85 @@
+{
+  "id": "2021-3-02",
+  "summary": "속도와 균일한 자기장이 수직이므로 자기력 qvB가 구심력입니다. 따라서 가속도는 qvB/m이며, qvB/r로 쓴 ①이 옳지 않습니다. 아래 식은 이 문항의 비상대론적 운동 모형을 기준으로 합니다.",
+  "choices": [
+    "①은 옳지 않습니다. a=F/m=qvB/m=v²/r입니다. qvB/r의 단위는 N/m이므로 가속도의 단위 m/s²와도 다릅니다.",
+    "②는 옳습니다. T=2πr/v에 r=mv/(qB)를 대입하면 T=2πm/(qB)입니다. 이 모형에서는 주기가 속력에 의존하지 않습니다.",
+    "③은 옳습니다. qvB=mv²/r을 정리하면 r=mv/(qB)입니다.",
+    "④는 옳습니다. 운동에너지는 mv²/2입니다. 자기력이 속도에 수직이어서 일을 하지 않으므로 속력과 운동에너지가 일정합니다.",
+    "⑤는 옳습니다. 속도와 자기장이 수직일 때 자기력의 크기는 qvB입니다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2, 11.3 Motion of a Charged Particle in a Magnetic Field",
+      "quote": "The particle’s kinetic energy and speed thus remain constant.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/11-3-motion-of-a-charged-particle-in-a-magnetic-field",
+      "evidenceId": "2aa4f888585d2c355195",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2, 11.3 Motion of a Charged Particle in a Magnetic Field",
+      "quote": "The particle’s kinetic energy and speed thus remain constant.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/11-3-motion-of-a-charged-particle-in-a-magnetic-field",
+      "evidenceId": "2aa4f888585d2c355195",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2, 11.3 Motion of a Charged Particle in a Magnetic Field",
+      "quote": "The particle’s kinetic energy and speed thus remain constant.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/11-3-motion-of-a-charged-particle-in-a-magnetic-field",
+      "evidenceId": "2aa4f888585d2c355195",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2, 11.3 Motion of a Charged Particle in a Magnetic Field",
+      "quote": "The particle’s kinetic energy and speed thus remain constant.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/11-3-motion-of-a-charged-particle-in-a-magnetic-field",
+      "evidenceId": "2aa4f888585d2c355195",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2, 11.3 Motion of a Charged Particle in a Magnetic Field",
+      "quote": "The particle’s kinetic energy and speed thus remain constant.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/11-3-motion-of-a-charged-particle-in-a-magnetic-field",
+      "evidenceId": "2aa4f888585d2c355195",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2, 11.3 Motion of a Charged Particle in a Magnetic Field",
+      "quote": "The particle’s kinetic energy and speed thus remain constant.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/11-3-motion-of-a-charged-particle-in-a-magnetic-field",
+      "evidenceId": "2aa4f888585d2c355195",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Direct review of OpenStax University Physics Volume 2 section 11.3 lines 30–46: magnetic force perpendicular to velocity, zero work, qvB=mv²/r, radius and period. Original examination image checked, including denominator r in option 1. Independent classical derivation a=qvB/m=v²/r and dimensional check N/m is not acceleration. Classical nonrelativistic model used by the question; no universal speed-independent period claim outside that model.",
+    "contentHash": "7395daf9de21f5cca0260529d8190f215fa7b336e70ceabcc2312434284d36d0"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "e419294d641439361106",
+  "kind": "science",
+  "source": "NASA",
+  "ref": "Types of Solar Eclipses",
+  "url": "https://science.nasa.gov/eclipses/types/",
+  "excerpt": "can see the Sun’s corona, the outer atmosphere",
+  "sourceHash": "26f9eb03ec103111119ea0711d5aa0f630dbd4d780551a09c3b2cb75813bcb29",
+  "cacheSourceId": "05b6c299ba9371613bd0",
+  "retrievedAt": "2026-11-06T19:13:26.143570+00:00",
+  "reviewedMappings": {
+    "2014-3-40:0": "Original (가) shows fully covered central disk with diffuse halo/corona, unlike an annular photospheric ring. NASA confirms corona visible at totality.",
+    "2014-3-40:1": "Original (가) shows fully covered central disk with diffuse halo/corona, unlike an annular photospheric ring. NASA confirms corona visible at totality.",
+    "2014-3-40:3": "Original (가) shows fully covered central disk with diffuse halo/corona, unlike an annular photospheric ring. NASA confirms corona visible at totality."
+  },
+  "retrievalMethod": "Direct web open; relevant NASA eclipse-type, geometry and visibility sections reviewed against original image.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

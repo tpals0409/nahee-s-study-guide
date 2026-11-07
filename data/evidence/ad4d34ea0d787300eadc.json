@@ -1,0 +1,21 @@
+{
+  "id": "ad4d34ea0d787300eadc",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "6.2 Photoelectric Effect",
+  "url": "https://openstax.org/books/university-physics-volume-3/pages/6-2-photoelectric-effect",
+  "excerpt": "The potential difference at which the photocurrent stops flowing is called the stopping potential.",
+  "sourceHash": "07e480a6951a09365cf6a5bea65d233bafa99b17d289a33749ed8c5dc3ddbc39",
+  "cacheSourceId": "d0c115438a1a94729702",
+  "retrievedAt": "2026-11-06T20:59:50.284791+00:00",
+  "reviewedMappings": {
+    "2017-3-09:0": "본문 34–50행 정지전압의 크기와 K_max=eV_s, 73–76행 K_max=hf−φ, 97–99행 φ=hf₀ 확인. 원본 a는 −V₀, b는 −2V₀에서 전류가 0. f_a=2f₀이므로 eV₀=hf₀, f_b=3f₀, 비는 3/2. 각 선지 q가 예측하는 V_s,b/V₀=2q−1을 계산해 ③만 2임을 확인.",
+    "2017-3-09:1": "본문 34–50행 정지전압의 크기와 K_max=eV_s, 73–76행 K_max=hf−φ, 97–99행 φ=hf₀ 확인. 원본 a는 −V₀, b는 −2V₀에서 전류가 0. f_a=2f₀이므로 eV₀=hf₀, f_b=3f₀, 비는 3/2. 각 선지 q가 예측하는 V_s,b/V₀=2q−1을 계산해 ③만 2임을 확인.",
+    "2017-3-09:2": "본문 34–50행 정지전압의 크기와 K_max=eV_s, 73–76행 K_max=hf−φ, 97–99행 φ=hf₀ 확인. 원본 a는 −V₀, b는 −2V₀에서 전류가 0. f_a=2f₀이므로 eV₀=hf₀, f_b=3f₀, 비는 3/2. 각 선지 q가 예측하는 V_s,b/V₀=2q−1을 계산해 ③만 2임을 확인.",
+    "2017-3-09:3": "본문 34–50행 정지전압의 크기와 K_max=eV_s, 73–76행 K_max=hf−φ, 97–99행 φ=hf₀ 확인. 원본 a는 −V₀, b는 −2V₀에서 전류가 0. f_a=2f₀이므로 eV₀=hf₀, f_b=3f₀, 비는 3/2. 각 선지 q가 예측하는 V_s,b/V₀=2q−1을 계산해 ③만 2임을 확인.",
+    "2017-3-09:4": "본문 34–50행 정지전압의 크기와 K_max=eV_s, 73–76행 K_max=hf−φ, 97–99행 φ=hf₀ 확인. 원본 a는 −V₀, b는 −2V₀에서 전류가 0. f_a=2f₀이므로 eV₀=hf₀, f_b=3f₀, 비는 3/2. 각 선지 q가 예측하는 V_s,b/V₀=2q−1을 계산해 ③만 2임을 확인.",
+    "2017-3-09:5": "본문 34–50행 정지전압의 크기와 K_max=eV_s, 73–76행 K_max=hf−φ, 97–99행 φ=hf₀ 확인. 원본 a는 −V₀, b는 −2V₀에서 전류가 0. f_a=2f₀이므로 eV₀=hf₀, f_b=3f₀, 비는 3/2. 각 선지 q가 예측하는 V_s,b/V₀=2q−1을 계산해 ③만 2임을 확인."
+  },
+  "retrievalMethod": "Direct web page opened; stopping-potential, photoelectric-energy and threshold equations reviewed.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

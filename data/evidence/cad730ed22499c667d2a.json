@@ -1,0 +1,19 @@
+{
+  "id": "cad730ed22499c667d2a",
+  "kind": "science",
+  "source": "Eli Lilly & NCATS / NCBI Bookshelf",
+  "ref": "Assay Guidance Manual: Mechanism of Action Assays for Enzymes",
+  "url": "https://ncbi.nlm.nih.gov/sites/books/NBK92001/",
+  "excerpt": "An uncompetitive inhibitor binds exclusively to the enzyme-substrate complex yielding an inactive enzyme-substrate-inhibitor complex",
+  "sourceHash": "b25cd1bb1585ff25fe7932fd3e1fba1030c9f419fcb9c6f3617f9672f82fa5d7",
+  "cacheSourceId": "e1fa014fc8e9f26e1e5d",
+  "retrievedAt": "2026-11-07T04:11:39.561104+00:00",
+  "reviewedMappings": {
+    "2026-3-26:0": "Uncompetitive ES-only binding lowers apparent Vmax and Km, falsifying ㄷ; competitive section cautions active-site binding is classical rather than universal mechanism.",
+    "2026-3-26:3": "Uncompetitive ES-only binding lowers apparent Vmax and Km, falsifying ㄷ; competitive section cautions active-site binding is classical rather than universal mechanism.",
+    "2026-3-26:4": "Uncompetitive ES-only binding lowers apparent Vmax and Km, falsifying ㄷ; competitive section cautions active-site binding is classical rather than universal mechanism.",
+    "2026-3-26:5": "Uncompetitive ES-only binding lowers apparent Vmax and Km, falsifying ㄷ; competitive section cautions active-site binding is classical rather than universal mechanism."
+  },
+  "retrievalMethod": "Direct web open/find",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

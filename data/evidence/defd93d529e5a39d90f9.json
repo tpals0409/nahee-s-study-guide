@@ -1,0 +1,16 @@
+{
+  "id": "defd93d529e5a39d90f9",
+  "kind": "science",
+  "source": "OpenStax Organic Chemistry",
+  "ref": "1.7 sp3 Hybrid Orbitals and the Structure of Ethane",
+  "url": "https://openstax.org/books/organic-chemistry/pages/1-7-sp3-hybrid-orbitals-and-the-structure-of-ethane",
+  "excerpt": "The remaining three sp3 hybrid orbitals on each carbon overlap with the 1s orbitals of three hydrogens",
+  "sourceHash": "0c78e950dc3f8056ec5b9f56a6da8df7de805158c2c5d7de6bbf9a1ce0952cfe",
+  "cacheSourceId": "fb365e2b11f8d6f1434f",
+  "retrievedAt": "2026-11-06T18:49:35.968382+00:00",
+  "reviewedMappings": {
+    "2014-3-19:3": "원문의 메틸 탄소 결합 모형을 적용한다. 네 단일결합을 갖는 CH3 탄소 하나만으로 모든 탄소 sp2라는 선지를 반박한다."
+  },
+  "retrievalMethod": "web.open; manually reviewed excerpt",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

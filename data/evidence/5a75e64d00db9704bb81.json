@@ -1,0 +1,20 @@
+{
+  "id": "5a75e64d00db9704bb81",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume1 §3.4 Motion with Constant Acceleration",
+  "url": "https://openstax.org/books/university-physics-volume-1/pages/3-4-motion-with-constant-acceleration",
+  "excerpt": "If the dragster were given an initial velocity, this would add another term to the distance equation.",
+  "sourceHash": "ad87ed175b9624e553a866b3a58ead289b89eadc99ab1348cf4d6b62fbd80098",
+  "cacheSourceId": "0982f70cd21fea5c8a6b",
+  "retrievedAt": "2026-11-07T04:36:24.903913+00:00",
+  "reviewedMappings": {
+    "2019-3-09:0": "등가속도일반식의초속도항을명시하고정지출발시간비및반례를검산. 보기조합의판정은이조건하에서만적용.",
+    "2019-3-09:1": "등가속도일반식의초속도항을명시하고정지출발시간비및반례를검산. 보기조합의판정은이조건하에서만적용.",
+    "2019-3-09:3": "등가속도일반식의초속도항을명시하고정지출발시간비및반례를검산. 보기조합의판정은이조건하에서만적용.",
+    "2019-3-09:4": "등가속도일반식의초속도항을명시하고정지출발시간비및반례를검산. 보기조합의판정은이조건하에서만적용.",
+    "2019-3-09:5": "등가속도일반식의초속도항을명시하고정지출발시간비및반례를검산. 보기조합의판정은이조건하에서만적용."
+  },
+  "retrievalMethod": "Direct web open/find",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

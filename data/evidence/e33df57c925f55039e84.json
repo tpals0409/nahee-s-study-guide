@@ -1,0 +1,14 @@
+{
+  "id": "e33df57c925f55039e84",
+  "kind": "science",
+  "source": "OpenStax · Chemistry 2e",
+  "ref": "2.3",
+  "url": "https://openstax.org/books/chemistry-2e/pages/2-3-atomic-structure-and-symbolism",
+  "excerpt": "The total number of protons and neutrons in an atom is called its mass number (A).",
+  "sourceHash": "2dd048946068f61946827c56850298f5f55df2e78247582f0e17059ca050b35e",
+  "cacheSourceId": "a25003549ced6bd04def",
+  "retrievedAt": "2026-11-06T14:50:05.915164+00:00",
+  "reviewedMappings": {
+    "2009-3-11:0": "원본 그래프 79와81의 존재비 각각50% 확인. Br2 조합 158/160/162, 확률1/4,1/2,1/4; 평균160. Z=35에서 중성자 분자합88/90/92, 극값차4."
+  }
+}

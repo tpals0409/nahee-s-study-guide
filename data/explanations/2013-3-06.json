@@ -1,0 +1,30 @@
+{
+  "summary": "정답은 ④ (2√5/25)·kQ/R²입니다. 각 전하 요소에서 P까지의 거리는 √5R이고, 축 방향 성분의 비율은 2/√5입니다. 축에 수직인 성분은 대칭으로 상쇄되므로 E=[kQ/(5R²)]×(2/√5)=(2√5/25)·kQ/R²입니다.",
+  "choices": [
+    "계수 √3/12≈0.144는 실제 계수 2/(5√5)≈0.179보다 작아 일치하지 않습니다.",
+    "계수 2√3/12≈0.289는 실제 계수 약 0.179보다 큽니다. 고리의 축 방향 성분을 합한 결과와 다릅니다.",
+    "계수 2√3/15≈0.231는 실제 계수 약 0.179보다 큽니다. 전하 요소까지의 거리 √5R와 축 방향 비율 2/√5를 적용하면 이 값이 나오지 않습니다.",
+    "거리 제곱은 5R²이고 축 방향 비율은 2/√5이므로, 계수는 (1/5)×(2/√5)=2√5/25입니다.",
+    "계수 3√5/25는 실제 계수 2√5/25의 1.5배이므로 전기장의 크기를 과대평가합니다."
+  ],
+  "lawNote": "2R는 고리 중심에서 P까지의 거리입니다. 전하 요소에서 P까지의 거리는 √5R입니다. 고리를 중심의 점전하로 근사하는 식 kQ/z²는 z가 R보다 매우 클 때의 근사이므로 여기서는 정확한 고리 식을 사용합니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "OpenStax University Physics Volume 2 §5.5 Example 5.7",
+      "quote": "Find the electric field at a point on the axis passing through the center of the ring.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/5-5-calculating-electric-fields-of-charge-distributions",
+      "evidenceId": "05b0be5113afa3b065da",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "원본 2013-3-06_1.webp 확인; OpenStax Example5.7 기하 및 적분식 직접 대조; 모든 선지 계수를 수치 검산해④만 일치 확인. 초안의 추측성 오답 원인 제거.",
+    "contentHash": "45bf351a98a7907cb8737d61e559599578c5f7b5eea9b48654f01ef876f41f95"
+  }
+}

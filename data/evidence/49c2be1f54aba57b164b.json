@@ -1,0 +1,21 @@
+{
+  "id": "49c2be1f54aba57b164b",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume 2, 13.1 Faraday’s Law",
+  "url": "https://openstax.org/books/university-physics-volume-2/pages/13-1-faradays-law",
+  "excerpt": "only when the magnetic field in the region occupied by that circuit was changing.",
+  "sourceHash": "353e698c5e09a827ea95e01a611437042ad8e291756177a3b1d93312a5ddf6a7",
+  "cacheSourceId": "6f257a29379505e8d212",
+  "retrievedAt": "2026-11-07T03:45:33.897960+00:00",
+  "reviewedMappings": {
+    "2026-3-06:0": "Original graph slopes are 10/4=2.5, 0, and -10/2=-5 T/s. For fixed area 0.25 m² and perpendicular field, emf magnitudes are 0.625,0,1.25 V. Using given resistance 5 ohms and Ohm law yields 0.125,0,0.25 A. Therefore ㄴ and ㄷ true.",
+    "2026-3-06:1": "Original graph slopes are 10/4=2.5, 0, and -10/2=-5 T/s. For fixed area 0.25 m² and perpendicular field, emf magnitudes are 0.625,0,1.25 V. Using given resistance 5 ohms and Ohm law yields 0.125,0,0.25 A. Therefore ㄴ and ㄷ true.",
+    "2026-3-06:2": "Original graph slopes are 10/4=2.5, 0, and -10/2=-5 T/s. For fixed area 0.25 m² and perpendicular field, emf magnitudes are 0.625,0,1.25 V. Using given resistance 5 ohms and Ohm law yields 0.125,0,0.25 A. Therefore ㄴ and ㄷ true.",
+    "2026-3-06:3": "Original graph slopes are 10/4=2.5, 0, and -10/2=-5 T/s. For fixed area 0.25 m² and perpendicular field, emf magnitudes are 0.625,0,1.25 V. Using given resistance 5 ohms and Ohm law yields 0.125,0,0.25 A. Therefore ㄴ and ㄷ true.",
+    "2026-3-06:4": "Original graph slopes are 10/4=2.5, 0, and -10/2=-5 T/s. For fixed area 0.25 m² and perpendicular field, emf magnitudes are 0.625,0,1.25 V. Using given resistance 5 ohms and Ohm law yields 0.125,0,0.25 A. Therefore ㄴ and ㄷ true.",
+    "2026-3-06:5": "Original graph slopes are 10/4=2.5, 0, and -10/2=-5 T/s. For fixed area 0.25 m² and perpendicular field, emf magnitudes are 0.625,0,1.25 V. Using given resistance 5 ohms and Ohm law yields 0.125,0,0.25 A. Therefore ㄴ and ㄷ true."
+  },
+  "retrievalMethod": "Direct web open",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "e99587cab1fe8b6ee741",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Astronomy 2e §5.6 The Doppler Effect",
+  "url": "https://openstax.org/books/astronomy-2e/pages/5-6-the-doppler-effect",
+  "excerpt": "When the source of waves moves toward you, the wavelength decreases a bit.",
+  "sourceHash": "a9fe53d0023e74a53c41d564c362d089115f0e6d3a89b93d51850be64a218bff",
+  "cacheSourceId": "29b611858244e4589be7",
+  "retrievedAt": "2026-11-06T19:12:22.124302+00:00",
+  "reviewedMappings": {
+    "2014-3-39:0": "Source explicitly describes approach blueshift and recession redshift. Original problem states motion, so identify Doppler effect, not every possible origin of redshift.",
+    "2014-3-39:1": "Source explicitly describes approach blueshift and recession redshift. Original problem states motion, so identify Doppler effect, not every possible origin of redshift."
+  },
+  "retrievalMethod": "Direct web open; relevant section reviewed and original question image inspected.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

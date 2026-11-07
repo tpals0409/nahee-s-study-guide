@@ -1,0 +1,85 @@
+{
+  "id": "2008-3-08",
+  "summary": "정답은 ③ 4,000 g·cm²입니다. 균일한 막대의 질량중심은 끝점 A에서 7.5 cm 떨어져 있고, B는 질량중심에서 2.5 cm 떨어져 있습니다. 평행축 정리를 두 축에 적용해 빼면 I_B−I_A=m(2.5²−7.5²)=−1,000 g·cm²입니다. 따라서 I_B=5,000−1,000=4,000 g·cm²입니다.",
+  "choices": [
+    "오답입니다. 3,000 g·cm²는 A축에 비해 2,000 g·cm² 감소한 값입니다. 평행축 정리에 따른 감소량은 20×(7.5²−2.5²)=1,000 g·cm²이므로 조건과 맞지 않습니다.",
+    "오답입니다. 3,500 g·cm²는 A축에 비해 1,500 g·cm² 감소한 값입니다. 평행축 정리에 따른 감소량은 20×(7.5²−2.5²)=1,000 g·cm²이므로 조건과 맞지 않습니다.",
+    "정답입니다. 4,000 g·cm²는 A축에 비해 1,000 g·cm² 감소한 값입니다. 평행축 정리에 따른 감소량은 20×(7.5²−2.5²)=1,000 g·cm²이므로 조건과 일치합니다.",
+    "오답입니다. 4,500 g·cm²는 A축에 비해 500 g·cm² 감소한 값입니다. 평행축 정리에 따른 감소량은 20×(7.5²−2.5²)=1,000 g·cm²이므로 조건과 맞지 않습니다.",
+    "오답입니다. 5,000 g·cm²는 A축에 비해 0 g·cm² 감소한 값입니다. 평행축 정리에 따른 감소량은 20×(7.5²−2.5²)=1,000 g·cm²이므로 조건과 맞지 않습니다."
+  ],
+  "lawNote": "평행축 정리의 거리는 두 임의 축 사이의 거리 10 cm가 아니라 각각 질량중심을 지나는 평행축까지의 거리입니다. 반지름이 주어지지 않았으므로 가는 막대의 관성모멘트 공식을 대신 적용하지 않습니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1, 10.5 Calculating Moments of Inertia",
+      "quote": "the distance from an axis through the object’s center of mass to a new axis",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/10-5-calculating-moments-of-inertia",
+      "evidenceId": "3ba3876c86f390e0936e",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1, 10.5 Calculating Moments of Inertia",
+      "quote": "the distance from an axis through the object’s center of mass to a new axis",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/10-5-calculating-moments-of-inertia",
+      "evidenceId": "3ba3876c86f390e0936e",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1, 10.5 Calculating Moments of Inertia",
+      "quote": "the distance from an axis through the object’s center of mass to a new axis",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/10-5-calculating-moments-of-inertia",
+      "evidenceId": "3ba3876c86f390e0936e",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1, 10.5 Calculating Moments of Inertia",
+      "quote": "the distance from an axis through the object’s center of mass to a new axis",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/10-5-calculating-moments-of-inertia",
+      "evidenceId": "3ba3876c86f390e0936e",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1, 10.5 Calculating Moments of Inertia",
+      "quote": "the distance from an axis through the object’s center of mass to a new axis",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/10-5-calculating-moments-of-inertia",
+      "evidenceId": "3ba3876c86f390e0936e",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1, 10.5 Calculating Moments of Inertia",
+      "quote": "the distance from an axis through the object’s center of mass to a new axis",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/10-5-calculating-moments-of-inertia",
+      "evidenceId": "3ba3876c86f390e0936e",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Original HWP paragraph and x equation records directly checked. Parallel-axis calculation independently evaluated for all five choices; text specifies all needed dimensions/axis conditions. Original drawing not recovered; text-only restatement preserves these conditions.",
+    "contentHash": "0f966553fc8ddf1e83e9430b50c14e85c3f400860c7a7be2511ccd5882616687"
+  }
+}

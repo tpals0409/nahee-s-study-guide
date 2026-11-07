@@ -1,0 +1,21 @@
+{
+  "id": "2a12b75fbd00a020cde9",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume 2, 12.3 Magnetic Force between Two Parallel Currents",
+  "url": "https://openstax.org/books/university-physics-volume-2/pages/12-3-magnetic-force-between-two-parallel-currents",
+  "excerpt": "The force is attractive if the currents are in the same direction",
+  "sourceHash": "08e4d43bbcc23003eae273d07c782cbef06d56a70424895b9559d36afc7263bf",
+  "cacheSourceId": "3dcc675d99b5d0e9c0a5",
+  "retrievedAt": "2026-11-07T00:45:44.955349+00:00",
+  "reviewedMappings": {
+    "2022-3-05:0": "식12.10 F=iLB 및 평행전류 인력/반대전류 척력. 가까운 세로변 +y 전류에 −x힘, 먼 변 −y전류에 +x힘. 가까운 B가 크므로 순힘 −x. 수평변의 y방향 힘은 대칭으로 상쇄.",
+    "2022-3-05:1": "식12.10 F=iLB 및 평행전류 인력/반대전류 척력. 가까운 세로변 +y 전류에 −x힘, 먼 변 −y전류에 +x힘. 가까운 B가 크므로 순힘 −x. 수평변의 y방향 힘은 대칭으로 상쇄.",
+    "2022-3-05:2": "식12.10 F=iLB 및 평행전류 인력/반대전류 척력. 가까운 세로변 +y 전류에 −x힘, 먼 변 −y전류에 +x힘. 가까운 B가 크므로 순힘 −x. 수평변의 y방향 힘은 대칭으로 상쇄.",
+    "2022-3-05:3": "식12.10 F=iLB 및 평행전류 인력/반대전류 척력. 가까운 세로변 +y 전류에 −x힘, 먼 변 −y전류에 +x힘. 가까운 B가 크므로 순힘 −x. 수평변의 y방향 힘은 대칭으로 상쇄.",
+    "2022-3-05:4": "식12.10 F=iLB 및 평행전류 인력/반대전류 척력. 가까운 세로변 +y 전류에 −x힘, 먼 변 −y전류에 +x힘. 가까운 B가 크므로 순힘 −x. 수평변의 y방향 힘은 대칭으로 상쇄.",
+    "2022-3-05:5": "식12.10 F=iLB 및 평행전류 인력/반대전류 척력. 가까운 세로변 +y 전류에 −x힘, 먼 변 −y전류에 +x힘. 가까운 B가 크므로 순힘 −x. 수평변의 y방향 힘은 대칭으로 상쇄."
+  },
+  "retrievalMethod": "Direct textbook page opened; relevant field, flux-change and force equations reviewed with original diagram.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

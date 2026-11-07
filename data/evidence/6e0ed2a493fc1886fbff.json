@@ -1,0 +1,16 @@
+{
+  "id": "6e0ed2a493fc1886fbff",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "OpenStax Chemistry 2e §12.3 Rate Laws",
+  "url": "https://openstax.org/books/chemistry-2e/pages/12-3-rate-laws",
+  "excerpt": "The overall reaction order is simply the sum of orders for each reactant.",
+  "sourceHash": "07596d33b1efbb3def99912211b7d6e09780c79c1531fdb487e0dc2729f8fe67",
+  "cacheSourceId": "b9960be34d50f55ef542",
+  "retrievedAt": "2026-11-06T18:07:05.369310+00:00",
+  "reviewedMappings": {
+    "2013-3-20:5": "§12.3 rate=k[A]^m[B]^n와 전체차수 합을 확인. 두 과량조건 실험으로 얻은 m=1,n=2를 합해 3. 반응식 계수로 차수를 추정하지 않음."
+  },
+  "retrievalMethod": "web.open and web.find; original question image inspected",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

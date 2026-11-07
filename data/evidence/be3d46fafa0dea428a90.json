@@ -1,0 +1,21 @@
+{
+  "id": "be3d46fafa0dea428a90",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e §19.3 Adaptive Evolution",
+  "url": "https://openstax.org/books/biology-2e/pages/19-3-adaptive-evolution",
+  "excerpt": "Natural selection acts on the population’s heritable traits:",
+  "sourceHash": "bbf87c9e7a9da19774414bb1a02fec250b0273d855903fa5054fd0442ac0ab8c",
+  "cacheSourceId": "fb4ae2ca576f7a5577f6",
+  "retrievedAt": "2026-11-06T21:17:33.674795+00:00",
+  "reviewedMappings": {
+    "2017-3-24:0": "본문 및 Figure19.8의 방향성·분단성·안정화 선택을 원본 A/B/C에 대응. 유전형질의 선택에 따른 대립유전자빈도 변화(ㄱ)와 C의 중앙 집중 및 평균 유지(ㄷ)를 지지. B는 중간형 배제이므로 한 방향 저항성 증가와 다름.",
+    "2017-3-24:1": "본문 및 Figure19.8의 방향성·분단성·안정화 선택을 원본 A/B/C에 대응. 유전형질의 선택에 따른 대립유전자빈도 변화(ㄱ)와 C의 중앙 집중 및 평균 유지(ㄷ)를 지지. B는 중간형 배제이므로 한 방향 저항성 증가와 다름.",
+    "2017-3-24:2": "본문 및 Figure19.8의 방향성·분단성·안정화 선택을 원본 A/B/C에 대응. 유전형질의 선택에 따른 대립유전자빈도 변화(ㄱ)와 C의 중앙 집중 및 평균 유지(ㄷ)를 지지. B는 중간형 배제이므로 한 방향 저항성 증가와 다름.",
+    "2017-3-24:3": "본문 및 Figure19.8의 방향성·분단성·안정화 선택을 원본 A/B/C에 대응. 유전형질의 선택에 따른 대립유전자빈도 변화(ㄱ)와 C의 중앙 집중 및 평균 유지(ㄷ)를 지지. B는 중간형 배제이므로 한 방향 저항성 증가와 다름.",
+    "2017-3-24:4": "본문 및 Figure19.8의 방향성·분단성·안정화 선택을 원본 A/B/C에 대응. 유전형질의 선택에 따른 대립유전자빈도 변화(ㄱ)와 C의 중앙 집중 및 평균 유지(ㄷ)를 지지. B는 중간형 배제이므로 한 방향 저항성 증가와 다름.",
+    "2017-3-24:5": "본문 및 Figure19.8의 방향성·분단성·안정화 선택을 원본 A/B/C에 대응. 유전형질의 선택에 따른 대립유전자빈도 변화(ㄱ)와 C의 중앙 집중 및 평균 유지(ㄷ)를 지지. B는 중간형 배제이므로 한 방향 저항성 증가와 다름."
+  },
+  "retrievalMethod": "Direct browser review of natural-selection section/figure and insect-resistance mechanism",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "98299c8f6be9aa9237f3",
+  "kind": "science",
+  "source": "NASA",
+  "ref": "Moon Phases",
+  "url": "https://science.nasa.gov/moon/moon-phases/",
+  "excerpt": "The Moon is opposite the Sun, as viewed from Earth, revealing the Moon’s dayside.",
+  "sourceHash": "ef1eb34355c247979c14c870499974940eb0afb3a51ecfe31b98c50c1a2a99f6",
+  "cacheSourceId": "d2223b6a95c0a9e0dab5",
+  "retrievedAt": "2026-11-06T18:26:54.797567+00:00",
+  "reviewedMappings": {
+    "2013-3-38:0": "위상 순서·배치·삭/망/상현/하현 본문 대조. 원본 태양 오른쪽과 D→A→B→C 공전으로 A상현 B망 C하현 D삭 도출."
+  },
+  "retrievalMethod": "web.open",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

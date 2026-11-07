@@ -1,0 +1,14 @@
+{
+  "id": "a31a9309e6cca38c0f0c",
+  "kind": "science",
+  "source": "OpenStax · Chemistry 2e",
+  "ref": "19.3",
+  "url": "https://openstax.org/books/chemistry-2e/pages/19-3-spectroscopic-and-magnetic-properties-of-coordination-compounds",
+  "excerpt": "that contain no unpaired electrons are diamagnetic.",
+  "sourceHash": "9d859d5ad3993333039e9ffcfcd609b977d28b94bf6c260da01a87b18fe051dc",
+  "cacheSourceId": "66761657ca1a2b014d32",
+  "retrievedAt": "2026-11-06T14:54:22.760261+00:00",
+  "reviewedMappings": {
+    "2009-3-14:0": "Co3+ d6, en강한장 조건의팔면체 저스핀 t2g6 eg0로홀전자0, 반자성. 일반강한장저스핀채움원리와원문의low-spin d6 반자성예 대조."
+  }
+}

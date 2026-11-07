@@ -1,0 +1,17 @@
+{
+  "id": "be1ea2a187c2829ce5d3",
+  "kind": "science",
+  "source": "U.S. National Park Service",
+  "ref": "How Rocks are Classified",
+  "url": "https://home.nps.gov/subjects/geology/how-rocks-are-classified.htm",
+  "excerpt": "makes the erupted magma solidify very quickly.",
+  "sourceHash": "0f335cae7802fee476e99d1b1635dffa1af268efcc49591f799f269e93342725",
+  "cacheSourceId": "8dc9700ef459a7d03f38",
+  "retrievedAt": "2026-11-06T19:56:53.969546+00:00",
+  "reviewedMappings": {
+    "2015-3-35:0": "본문 27–29행은 관입 마그마의 느린 냉각과 분출 마그마의 빠른 냉각을 대비한다. ①은 관계를 뒤집었다. 표에 제시된 대표 암석의 일반적인 냉각 환경을 설명하며 모든 관입암의 입자가 반드시 크다는 단정은 하지 않는다.",
+    "2015-3-35:1": "본문 27–29행은 관입 마그마의 느린 냉각과 분출 마그마의 빠른 냉각을 대비한다. ①은 관계를 뒤집었다. 표에 제시된 대표 암석의 일반적인 냉각 환경을 설명하며 모든 관입암의 입자가 반드시 크다는 단정은 하지 않는다."
+  },
+  "retrievalMethod": "Direct web open; relevant text reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

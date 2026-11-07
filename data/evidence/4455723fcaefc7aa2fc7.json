@@ -1,0 +1,18 @@
+{
+  "id": "4455723fcaefc7aa2fc7",
+  "kind": "science",
+  "source": "US EPA",
+  "ref": "Ground-level Ozone Basics",
+  "url": "https://www.epa.gov/ground-level-ozone-pollution/ground-level-ozone-basics",
+  "excerpt": "Ozone occurs both in the Earth's upper atmosphere and at ground level.",
+  "sourceHash": "0b7ffa26cf7ab34c7289a438848970aefb309faec98d788cf5beac0af230d3d0",
+  "cacheSourceId": "53a99b5a197345b7ef64",
+  "retrievedAt": "2026-11-06T19:06:46.522408+00:00",
+  "reviewedMappings": {
+    "2014-3-34:0": "EPA explicitly confirms ground-level ozone, contradicting ㄱ (only stratosphere); original choices 1 and 2 include ㄱ.",
+    "2014-3-34:1": "EPA explicitly confirms ground-level ozone, contradicting ㄱ (only stratosphere); original choices 1 and 2 include ㄱ.",
+    "2014-3-34:2": "EPA explicitly confirms ground-level ozone, contradicting ㄱ (only stratosphere); original choices 1 and 2 include ㄱ."
+  },
+  "retrievalMethod": "Direct web open; relevant atmospheric science paragraphs reviewed against original question.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "70a1c02977f6fdd50269",
+  "kind": "science",
+  "source": "Southern Methodist University",
+  "ref": "Measuring the Stars Continued",
+  "url": "https://www.physics.smu.edu/jcotton/ph1311/ch10b.htm",
+  "excerpt": "m-M=5log(d/10)",
+  "sourceHash": "82f80a6a83e3537f08820e34c99a23f97ec394736c8e08680be18fa9c4bb0d24",
+  "cacheSourceId": "4fa5586ed0670c979dc0",
+  "retrievedAt": "2026-11-06T22:58:36.399993+00:00",
+  "reviewedMappings": {
+    "2019-3-40:0": "거리지수 4.0,6.4,−2.8을 계산하여 시리우스가 가장 가깝다는 ㄱ을 검증했다.",
+    "2019-3-40:1": "거리지수 4.0,6.4,−2.8을 계산하여 시리우스가 가장 가깝다는 ㄱ을 검증했다.",
+    "2019-3-40:3": "거리지수 4.0,6.4,−2.8을 계산하여 시리우스가 가장 가깝다는 ㄱ을 검증했다.",
+    "2019-3-40:4": "거리지수 4.0,6.4,−2.8을 계산하여 시리우스가 가장 가깝다는 ㄱ을 검증했다."
+  },
+  "retrievalMethod": "Direct open lines 7–16, absolute magnitude definition and distance modulus. Independently applied original diagram M values −3.6,−5.5,1.4 and apparent magnitudes 0.4,0.9,−1.4.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

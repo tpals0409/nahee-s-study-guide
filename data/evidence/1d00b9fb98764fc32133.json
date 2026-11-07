@@ -1,0 +1,21 @@
+{
+  "id": "1d00b9fb98764fc32133",
+  "kind": "science",
+  "source": "US National Park Service",
+  "ref": "Igneous Rocks: Composition and Minerals",
+  "url": "https://www.nps.gov/subjects/geology/igneous.htm",
+  "excerpt": "less silica and more iron and magnesium than mafic rocks",
+  "sourceHash": "3d775f5834a1c71fd3519df01e648350f5a5e2ca840ad270640e0eaf2ffb0795",
+  "cacheSourceId": "e8afc4168d193016e9fe",
+  "retrievedAt": "2026-11-07T02:48:20.895895+00:00",
+  "reviewedMappings": {
+    "2024-3-34:0": "Composition table plus explicit ultramafic peridotite paragraph establish qualitative silica ranking; no universal exact numerical boundaries assumed.",
+    "2024-3-34:1": "Rhyolite classified silicic, contrasted with ultramafic peridotite.",
+    "2024-3-34:2": "Andesite classified intermediate, contrasted with ultramafic peridotite.",
+    "2024-3-34:3": "Gabbro classified mafic, paired with basalt; ultramafic peridotite has less silica.",
+    "2024-3-34:4": "Peridotite explicitly listed as ultramafic plutonic rock; ultramafic defined as lower silica than mafic.",
+    "2024-3-34:5": "Diorite classified intermediate, paired with andesite; more silica than ultramafic peridotite."
+  },
+  "retrievalMethod": "Direct NPS Composition and Minerals table and ultramafic paragraph reviewed; identifies gabbro/diabase mafic, diorite/andesite intermediate, granite/rhyolite silicic, peridotite ultramafic.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

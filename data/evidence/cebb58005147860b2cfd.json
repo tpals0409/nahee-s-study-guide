@@ -1,0 +1,17 @@
+{
+  "id": "cebb58005147860b2cfd",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Microbiology12.2 Visualizing and Characterizing DNA, RNA, and Protein",
+  "url": "https://openstax.org/books/microbiology/pages/12-2-visualizing-and-characterizing-dna-rna-and-protein",
+  "excerpt": "Due to its negatively charged backbone, DNA is strongly attracted to a positive electrode.",
+  "sourceHash": "4a82c1bc64161d92120b09e248b93d3dfb05bb2658273db0ef53dbc17c7b41b4",
+  "cacheSourceId": "bd1563a43a1dd73ddae5",
+  "retrievedAt": "2026-11-07T04:05:39.609381+00:00",
+  "reviewedMappings": {
+    "2026-3-24:0": "Negative backbone attracted positive electrode directly refutes choice3.",
+    "2026-3-24:3": "Negative backbone attracted positive electrode directly refutes choice3."
+  },
+  "retrievalMethod": "Direct web open",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

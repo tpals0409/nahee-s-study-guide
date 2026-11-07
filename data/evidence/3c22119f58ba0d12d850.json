@@ -1,0 +1,17 @@
+{
+  "id": "3c22119f58ba0d12d850",
+  "kind": "science",
+  "source": "Kalapotharakos et al. / arXiv author manuscript",
+  "ref": "Kalapotharakos, Patsis & Grosbøl, NGC 1300 Dynamics I (2010), §§2,4 and Table1",
+  "url": "https://arxiv.org/pdf/1009.0376",
+  "excerpt": "some additional mass component exists besides the luminous component.",
+  "sourceHash": "631502a7fbdc06c0439d6bc428a5b0c6567050f7e29b95c58b3ce560421c4fb2",
+  "cacheSourceId": "4caf96c4b8fd49801858",
+  "retrievedAt": "2026-11-07T04:33:37.963981+00:00",
+  "reviewedMappings": {
+    "2009-3-35:0": "암흑물질 포함 헤일로로 해석한⑤의 질량 비교를 대상 은하 동역학 모형과 대조한다.",
+    "2009-3-35:5": "Table1의 전체DH는 A8e11/B1.6e12/C1.6e12태양질량이며15kpc내발광성분LC는각5e10/6.5e10/7.1e10이다. 팽대부는발광성분중일부이고, 문맥상 총암흑물질헤일로가팽대부보다크다는비교를지지한다. 수치는 모형값이지 사진의직접측정값이아니다."
+  },
+  "retrievalMethod": "Direct web open/find",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

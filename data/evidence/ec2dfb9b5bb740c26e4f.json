@@ -1,0 +1,20 @@
+{
+  "id": "ec2dfb9b5bb740c26e4f",
+  "kind": "science",
+  "source": "대한지질학회",
+  "ref": "음성 분지 지역 지하수 주원소 수리지구화학과 지질 특성의 관계 분석",
+  "url": "https://jgsk.or.kr/_common/do.php?a=full&aidx=36136&b=22&bidx=3201",
+  "excerpt": "분지의 북서부 및 남동부는 주로 쥐라기에 관입된 화강암류가 분포한다",
+  "sourceHash": "1e18a180602ee19a56cdf04e6f7f0ecf36194c30abae663d4e46e1e2169cffe1",
+  "cacheSourceId": "14a8fc3b76bdfb9c86f6",
+  "retrievedAt": "2026-11-06T22:52:21.124314+00:00",
+  "reviewedMappings": {
+    "2019-3-34:0": "쥐라기 관입 화강암의 존재로 ㄱ을 반증한다.",
+    "2019-3-34:1": "음성분지 주변 쥐라기 화강암 관입 사례를 직접 대조했다.",
+    "2019-3-34:2": "ㄱ이 틀리다는 배제 판단을 지지한다.",
+    "2019-3-34:3": "ㄱ을 포함한 조합을 배제한다.",
+    "2019-3-34:5": "ㄱ이 거짓이므로 모두 참인 조합은 불가능하다."
+  },
+  "retrievalMethod": "Direct web open and find; section 2.1 lines 133–135, Jurassic intrusive granites and geological-map classification. The 2023 study reports pre-existing geological facts, not a post-exam change.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

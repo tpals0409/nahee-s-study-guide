@@ -1,0 +1,17 @@
+{
+  "id": "500c6149b66077c363db",
+  "kind": "science",
+  "source": "Earth System Science Data / Copernicus",
+  "ref": "Last interglacial sea-level proxies in the Korean Peninsula",
+  "url": "https://essd.copernicus.org/articles/14/117/2022/",
+  "excerpt": "The Yellow Sea is a semi-enclosed shallow epicontinental sea",
+  "sourceHash": "ae14c6b4058d2ee6d2c46706ae8e9897d407b30e2738bf8f99673ca1b2a671ba",
+  "cacheSourceId": "fb59517f70f92d635bfb",
+  "retrievedAt": "2026-11-06T23:41:40.081168+00:00",
+  "reviewedMappings": {
+    "2020-3-37:0": "황해 얕은 해역을 심해저평원으로 분류할 수 없음을 뒷받침.",
+    "2020-3-37:4": "얕고 평탄한 황해와 수천 m 심해저평원을 구분."
+  },
+  "retrievalMethod": "Direct web open/find; reviewed section 2.1 line 258, Yellow Sea shallow epicontinental setting, broad flat floor and depths near 100 m or less. 2022 publication corroborates older bathymetric knowledge citing Chough et al. 2000.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "57b5c16fd391f824de41",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e 14.3 — Basics of DNA Replication",
+  "url": "https://openstax.org/books/biology-2e/pages/14-3-basics-of-dna-replication",
+  "excerpt": "each double-stranded DNA includes one parental or “old” strand and one “new” strand.",
+  "sourceHash": "eb03cf1b32f3c7a61fff87980bff6803eba8b639888626608e62cd88e810f578",
+  "cacheSourceId": "4761e49423548b33094f",
+  "retrievedAt": "2026-11-06T19:42:22.335912+00:00",
+  "reviewedMappings": {
+    "2015-3-25:0": "반보존적 복제 원리와 15N→14N 실험을 확인하고 원문의 5회 복제에 적용했다. 가닥 단위 모의 계산으로 32분자 중 혼성 2, 가벼운 30을 검산했다.",
+    "2015-3-25:1": "최초 두 부모 가닥의 개별 보존으로 혼성 분자 2개를 유도한다.",
+    "2015-3-25:2": "무거운 가닥은 두 개만 유지되므로 혼성 4개는 불가능하다.",
+    "2015-3-25:3": "전체 분자 증가는 무거운 부모 가닥 수 증가를 뜻하지 않으므로 8개를 배제한다.",
+    "2015-3-25:4": "독립 계수 결과 혼성 비율은 2/32=1/16이며 16개가 아니다.",
+    "2015-3-25:5": "전체 32와 혼성 2를 구분한다. 모의 계산에서 LL 30개 확인."
+  },
+  "retrievalMethod": "Direct page read, semiconservative replication and isotope experiment paragraphs inspected; short excerpt transcribed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "2837ac4c65155b2ead04",
+  "kind": "science",
+  "source": "NOAA",
+  "ref": "Why are the strongest winds in a hurricane typically on the right side of the storm?",
+  "url": "https://www.aoml.noaa.gov/hrd/tcfaq/D6.html",
+  "excerpt": "the motion of the hurricane also contributes to its swirling winds.",
+  "sourceHash": "ace077a82c611fd79414e7f0cc98c1607a7bd1c2fa28b8ce6dc69138ed386ed0",
+  "cacheSourceId": "6d0c04344c927f300f42",
+  "retrievedAt": "2026-11-06T22:14:45.942123+00:00",
+  "reviewedMappings": {
+    "2018-3-37:0": "ㄱ 열대저기압 비전선성, ㄴ 눈 중심 약풍/눈벽 강풍으로 거짓; ㄷ 북반구 진행 오른쪽 위험반원 참. 종합②. 해당 출처의 정의 또는 풍속 구조를 다른 연결 자료와 함께 적용.",
+    "2018-3-37:2": "ㄱㄴ 거짓, ㄷ 진행방향 오른쪽의 합성 풍속 증가 참으로 ㄷ만 고른②. 해당 출처의 정의 또는 풍속 구조를 다른 연결 자료와 함께 적용.",
+    "2018-3-37:4": "ㄷ 참이나 눈 중심 최대풍속 ㄴ 거짓. 해당 출처의 정의 또는 풍속 구조를 다른 연결 자료와 함께 적용.",
+    "2018-3-37:5": "ㄷ만 참이므로 ㄱㄴ까지 포함한⑤ 거짓. 해당 출처의 정의 또는 풍속 구조를 다른 연결 자료와 함께 적용."
+  },
+  "retrievalMethod": "NOAA AOML search-indexed FAQ reviewed: right defined relative to travel, rotational/translational contributions, reversed Southern Hemisphere. Direct open returned 403.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

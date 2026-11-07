@@ -1,0 +1,21 @@
+{
+  "id": "7a10c398a9b9bce5594b",
+  "kind": "science",
+  "source": "New England Biolabs",
+  "ref": "OneTaq One-Step RT-PCR Kit E5315 Instruction Manual, Version 5.0 (10/2020)",
+  "url": "https://prd-sccd01.neb.com/-/media/nebus/files/manuals/manuale5315.pdf?hash=F433EDD0986510AE7AFB0182EC638F1D&rev=d891c3dd27ac40269fe730e42789a95e",
+  "excerpt": "cDNA synthesis and PCR amplification steps are performed in a single reaction using gene-specific primers",
+  "sourceHash": "a3f413c8d05113f5fe66cab14d5003058dc5c42891202404f3a763bb7b48bfa8",
+  "cacheSourceId": "f253390fc2ae97b06483",
+  "retrievedAt": "2026-11-07T00:23:04.287360+00:00",
+  "reviewedMappings": {
+    "2021-3-29:0": "RNA에서 cDNA를 합성한 뒤 PCR 증폭하는 일반 원리와 성분표 확인. FDA의 바이러스 RNA 검출 설명과 결합하여 본 문항에 적용.",
+    "2021-3-29:1": "p1 reverse transcriptase and cDNA synthesis; RNA template in standard protocol.",
+    "2021-3-29:2": "p1 Hot Start Taq DNA polymerase; pp3–4 thermal cycling and DNA amplification.",
+    "2021-3-29:3": "p1 reaction mix contains dNTPs for cDNA synthesis and PCR amplification.",
+    "2021-3-29:4": "Standard protocol lists RNA, enzyme mix, reaction mix and gene-specific primers, not virus-specific IgM; do not infer all RT-PCR mixes lack any antibody.",
+    "2021-3-29:5": "pp1,3–4 gene-specific forward/reverse primers support targeted amplification."
+  },
+  "retrievalMethod": "Direct PDF text review: page 1 components/introduction, page 3 reaction conditions, page 4 standard protocol. General RT-PCR reagent evidence, not a SARS-CoV-2 diagnostic validation.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

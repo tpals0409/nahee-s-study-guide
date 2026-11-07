@@ -1,0 +1,21 @@
+{
+  "id": "0a716bc753d470122c16",
+  "kind": "science",
+  "source": "Arrivault et al., Journal of Experimental Botany (Oxford University Press); PMC",
+  "ref": "Metabolite pools and carbon flow during C4 photosynthesis in maize: 13CO2 labeling kinetics and cell type fractionation",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5853532/",
+  "excerpt": "CO₂ is incorporated into four-carbon metabolites in the mesophyll",
+  "sourceHash": "bd4f379f614d06c1100ce20f37aaec79fcd9e0305bbca1cb60f46883329e9b19",
+  "cacheSourceId": "bda728b72b289b3655d2",
+  "retrievedAt": "2026-11-07T01:06:53.044254+00:00",
+  "reviewedMappings": {
+    "2022-3-22:0": "Maize C4 labeling research abstract and introduction support all three statements: initial mesophyll fixation, four-carbon transport and bundle-sheath Rubisco fixation. Introduction also documents mesophyll reduction of 3PGA, so do not claim all CBC steps exclusively in bundle sheath.",
+    "2022-3-22:1": "ㄱ true, but omit true ㄴ and ㄷ as supported by maize C4 shuttle and bundle-sheath CBC.",
+    "2022-3-22:2": "ㄷ initial mesophyll PEPC fixation true; ㄱ maize C4 and ㄴ bundle-sheath CBC also true.",
+    "2022-3-22:3": "ㄱ and ㄴ true; initial mesophyll PEPC fixation makes omitted ㄷ true.",
+    "2022-3-22:4": "ㄴ and ㄷ true; paper directly studies maize C4 photosynthesis, making omitted ㄱ true.",
+    "2022-3-22:5": "All three true in conventional two-cell C4 model. Source also constrains explanation: Rubisco catalyzes fixation, not entire CBC, and 3PGA reduction can be shared with mesophyll."
+  },
+  "retrievalMethod": "Direct PMC full-text abstract and Introduction paragraphs reviewed, especially 3PGA/triose-phosphate shuttle; CO2 subscript normalized in excerpt",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

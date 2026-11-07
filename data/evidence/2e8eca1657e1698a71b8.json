@@ -1,0 +1,16 @@
+{
+  "id": "2e8eca1657e1698a71b8",
+  "kind": "science",
+  "source": "University of California, Santa Barbara — Physics Lecture Demonstrations",
+  "ref": "52.06 — Watching temperature change while heating water",
+  "url": "https://web.physics.ucsb.edu/~lecturedemonstrations/Composer/Pages/52.06.html",
+  "excerpt": "the heat that you add to to the water increases its internal energy",
+  "sourceHash": "895cf27fc3188f66153fd1cc4e1d00400ddacbb83adb18929f9f8c5aea1e7f5d",
+  "cacheSourceId": "a6fbec36c82b4406eef1",
+  "retrievedAt": "2026-11-07T00:03:06.070884+00:00",
+  "reviewedMappings": {
+    "2021-3-13:2": "상압에서 끓기 전 액체 물의 가열은 내부에너지와 온도를 증가시킨다는 실험 설명. 앞서 검토한 융해 단계의 ΔU>0와 합쳐 B→C의 U 증가를 뒷받침. 임의의 흡열 과정에 대한 일반화가 아님."
+  },
+  "retrievalMethod": "Direct UCSB lecture demonstration page, lines 2-8 reviewed: liquid water heated at atmospheric pressure before boiling.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

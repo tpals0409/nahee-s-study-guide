@@ -1,0 +1,21 @@
+{
+  "id": "f597275b186ff46e88c7",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 2e 19.3 — Crystal Field Theory",
+  "url": "https://openstax.org/books/chemistry-2e/pages/19-3-spectroscopic-and-magnetic-properties-of-coordination-compounds",
+  "excerpt": "The splitting is less than for octahedral complexes because the overlap is less",
+  "sourceHash": "ec44bdd8018155b6a29836e0399ecec38a93c8ea36305746413daf308a40fb37",
+  "cacheSourceId": "1ab6ef2f9bfe4a366a6a",
+  "retrievedAt": "2026-11-06T17:16:04.872157+00:00",
+  "reviewedMappings": {
+    "2012-3-17:0": "원문 tetrahedral 고스핀 설명 및 d오비탈5개 대조. Mn2+ d5는 약한 장Cl− 사면체에서5홀전자. Ni2+d8은 최대2, Co3+d6은 최대4이므로 정확한 Co스핀 분류 없이 Mn의 최댓값 결론 검증.",
+    "2012-3-17:1": "원문 tetrahedral 고스핀 설명 및 d오비탈5개 대조. Mn2+ d5는 약한 장Cl− 사면체에서5홀전자. Ni2+d8은 최대2, Co3+d6은 최대4이므로 정확한 Co스핀 분류 없이 Mn의 최댓값 결론 검증.",
+    "2012-3-17:2": "원문 tetrahedral 고스핀 설명 및 d오비탈5개 대조. Mn2+ d5는 약한 장Cl− 사면체에서5홀전자. Ni2+d8은 최대2, Co3+d6은 최대4이므로 정확한 Co스핀 분류 없이 Mn의 최댓값 결론 검증.",
+    "2012-3-17:3": "원문 tetrahedral 고스핀 설명 및 d오비탈5개 대조. Mn2+ d5는 약한 장Cl− 사면체에서5홀전자. Ni2+d8은 최대2, Co3+d6은 최대4이므로 정확한 Co스핀 분류 없이 Mn의 최댓값 결론 검증.",
+    "2012-3-17:4": "원문 tetrahedral 고스핀 설명 및 d오비탈5개 대조. Mn2+ d5는 약한 장Cl− 사면체에서5홀전자. Ni2+d8은 최대2, Co3+d6은 최대4이므로 정확한 Co스핀 분류 없이 Mn의 최댓값 결론 검증.",
+    "2012-3-17:5": "원문 tetrahedral 고스핀 설명 및 d오비탈5개 대조. Mn2+ d5는 약한 장Cl− 사면체에서5홀전자. Ni2+d8은 최대2, Co3+d6은 최대4이므로 정확한 Co스핀 분류 없이 Mn의 최댓값 결론 검증."
+  },
+  "retrievalMethod": "web.open and web.find relevant sections reviewed; selected excerpt retained",
+  "sourceHashScope": "Selected excerpt only; not full page"
+}

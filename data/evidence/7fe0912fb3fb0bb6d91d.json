@@ -1,0 +1,21 @@
+{
+  "id": "7fe0912fb3fb0bb6d91d",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Organic Chemistry, 19.14 Spectroscopy of Aldehydes and Ketones",
+  "url": "https://openstax.org/books/organic-chemistry/pages/19-14-spectroscopy-of-aldehydes-and-ketones",
+  "excerpt": "saturated aldehydes usually show carbonyl absorptions near 1730",
+  "sourceHash": "63a536bbe414afde81c15da9cc611bc0337779dd454c110b2e2960dcd2291fcb",
+  "cacheSourceId": "fdfa751bc6b621b73bd4",
+  "retrievedAt": "2026-11-07T01:42:03.243607+00:00",
+  "reviewedMappings": {
+    "2023-3-14:0": "표19.2는 CH₃CHO의 C=O흡수를1730cm⁻¹로 제시하며 본문은 강한 카보닐 흡수를 설명한다. ㄷ의 부근이라는 표현을 지지하며 모든 조건에서 정확히1730이라고 단정하지 않는다. 이 판단을 다른 두 진술의 검증과 합쳐 ㄱㄴㄷ 모두 참으로 ⑤만 완전한 조합임을 확인.",
+    "2023-3-14:1": "표19.2는 CH₃CHO의 C=O흡수를1730cm⁻¹로 제시하며 본문은 강한 카보닐 흡수를 설명한다. ㄷ의 부근이라는 표현을 지지하며 모든 조건에서 정확히1730이라고 단정하지 않는다. 이 판단을 다른 두 진술의 검증과 합쳐 ㄱㄴㄷ 모두 참으로 ⑤만 완전한 조합임을 확인.",
+    "2023-3-14:2": "표19.2는 CH₃CHO의 C=O흡수를1730cm⁻¹로 제시하며 본문은 강한 카보닐 흡수를 설명한다. ㄷ의 부근이라는 표현을 지지하며 모든 조건에서 정확히1730이라고 단정하지 않는다. 이 판단을 다른 두 진술의 검증과 합쳐 ㄱㄴㄷ 모두 참으로 ⑤만 완전한 조합임을 확인.",
+    "2023-3-14:3": "표19.2는 CH₃CHO의 C=O흡수를1730cm⁻¹로 제시하며 본문은 강한 카보닐 흡수를 설명한다. ㄷ의 부근이라는 표현을 지지하며 모든 조건에서 정확히1730이라고 단정하지 않는다. 이 판단을 다른 두 진술의 검증과 합쳐 ㄱㄴㄷ 모두 참으로 ⑤만 완전한 조합임을 확인.",
+    "2023-3-14:4": "표19.2는 CH₃CHO의 C=O흡수를1730cm⁻¹로 제시하며 본문은 강한 카보닐 흡수를 설명한다. ㄷ의 부근이라는 표현을 지지하며 모든 조건에서 정확히1730이라고 단정하지 않는다. 이 판단을 다른 두 진술의 검증과 합쳐 ㄱㄴㄷ 모두 참으로 ⑤만 완전한 조합임을 확인.",
+    "2023-3-14:5": "표19.2는 CH₃CHO의 C=O흡수를1730cm⁻¹로 제시하며 본문은 강한 카보닐 흡수를 설명한다. ㄷ의 부근이라는 표현을 지지하며 모든 조건에서 정확히1730이라고 단정하지 않는다. 이 판단을 다른 두 진술의 검증과 합쳐 ㄱㄴㄷ 모두 참으로 ⑤만 완전한 조합임을 확인."
+  },
+  "retrievalMethod": "Primary-source indexed web search excerpt reviewed (not a direct full-page retrieval). Source-specific statements/table excerpt checked against original question.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "9c7128cd440efa55cc1e",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "OpenStax Biology 2e Chapter 16 Summary",
+  "url": "https://openstax.org/books/biology-2e/pages/16-chapter-summary",
+  "excerpt": "MicroRNAs associated with RISC complexes may repress translation or lead to mRNA breakdown.",
+  "sourceHash": "285f5bcc2877abba14ea463e809473855f1e8a3749556dc0d1d9ea0e8b56a747",
+  "cacheSourceId": "2a0991b0ce11538c50a6",
+  "retrievedAt": "2026-11-06T18:14:49.241573+00:00",
+  "reviewedMappings": {
+    "2013-3-28:0": "ㄹ: RISC와 결합한miRNA의 번역억제 또는mRNA분해 유도 명시 확인. RNA자체가 단독절단효소라는 뜻으로 쓰지 않음."
+  },
+  "retrievalMethod": "web.open; original question inspected",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

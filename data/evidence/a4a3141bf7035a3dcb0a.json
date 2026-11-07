@@ -1,0 +1,19 @@
+{
+  "id": "a4a3141bf7035a3dcb0a",
+  "kind": "science",
+  "source": "U.S. Geological Survey",
+  "ref": "The timing of uplift, volcanism, and rifting peripheral to the Red Sea: A case for passive rifting?",
+  "url": "https://www.usgs.gov/publications/timing-uplift-volcanism-and-rifting-peripheral-red-sea-a-case-passive-rifting",
+  "excerpt": "alkaline volcanism and rifting beginning about 30–32 Ma",
+  "sourceHash": "ad251e703d1fdd32f1dea8979e7792c4e1cf28be6d922a8d99d50cc9c73dc9fc",
+  "cacheSourceId": "a476e6600c2af8980109",
+  "retrievedAt": "2026-11-06T19:52:40.944060+00:00",
+  "reviewedMappings": {
+    "2015-3-32:0": "1989년 연구 초록은 홍해 형성으로 이어진 열개가 약 3000만~3200만 년 전에 시작되었다고 설명한다. 아프리카–아라비아 분리와 관련된 신생대 사건으로 ㄷ은 참이다. 열개 시작과 현재의 바다가 완성된 시점을 동일시하지 않는다.",
+    "2015-3-32:2": "1989년 연구 초록은 홍해 형성으로 이어진 열개가 약 3000만~3200만 년 전에 시작되었다고 설명한다. 아프리카–아라비아 분리와 관련된 신생대 사건으로 ㄷ은 참이다. 열개 시작과 현재의 바다가 완성된 시점을 동일시하지 않는다.",
+    "2015-3-32:3": "1989년 연구 초록은 홍해 형성으로 이어진 열개가 약 3000만~3200만 년 전에 시작되었다고 설명한다. 아프리카–아라비아 분리와 관련된 신생대 사건으로 ㄷ은 참이다. 열개 시작과 현재의 바다가 완성된 시점을 동일시하지 않는다.",
+    "2015-3-32:4": "1989년 연구 초록은 홍해 형성으로 이어진 열개가 약 3000만~3200만 년 전에 시작되었다고 설명한다. 아프리카–아라비아 분리와 관련된 신생대 사건으로 ㄷ은 참이다. 열개 시작과 현재의 바다가 완성된 시점을 동일시하지 않는다."
+  },
+  "retrievalMethod": "Direct web open; abstract lines 6–12 reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

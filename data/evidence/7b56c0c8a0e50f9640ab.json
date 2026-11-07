@@ -1,0 +1,16 @@
+{
+  "id": "7b56c0c8a0e50f9640ab",
+  "kind": "science",
+  "source": "OpenStax Organic Chemistry",
+  "ref": "8.2 Halogenation of Alkenes",
+  "url": "https://openstax.org/books/organic-chemistry/pages/8-2-halogenation-of-alkenes-addition-of-x2",
+  "excerpt": "Bromine and chlorine add rapidly to alkenes to yield 1,2-dihalides",
+  "sourceHash": "33225da2b92a8105643f9bf55b38af927d13ea1e69dae08333b37479011f5a4f",
+  "cacheSourceId": "0db24352964a952d54ee",
+  "retrievedAt": "2026-11-06T18:49:35.968550+00:00",
+  "reviewedMappings": {
+    "2014-3-19:4": "고리 밖 알켄 이중결합에 대한 Br2 첨가 가능성을 확인했다. 수용액 생성물을 다이브로모 생성물로 단정한 초안 문장은 삭제했다."
+  },
+  "retrievalMethod": "web.open; manually reviewed excerpt",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,108 @@
+{
+  "id": "2017-3-11",
+  "summary": "AB₃ 0.10 mol의 20%인 0.02 mol이 분해되어 평형에서는 AB₃ 0.08 mol, AB와 B₂가 각각 0.02 mol입니다. 2.0 L로 나눈 농도를 적용하면 K_C=(0.01×0.01)/0.04=1/400입니다. 따라서 옳지 않은 설명은 ⑤입니다.",
+  "choices": [
+    "B₂(g)의 몰분율이 1/6이라는 설명은 옳습니다. 평형에서 B₂는 0.02 mol이고 전체 기체는 0.08 + 0.02 + 0.02 = 0.12 mol입니다. 따라서 몰분율은 0.02/0.12 = 1/6입니다.",
+    "AB(g)의 부분 압력이 0.8 atm이라는 설명은 옳습니다. 이상 기체 식 P = nRT/V를 쓰면 0.02 mol × 80 L·atm/mol ÷ 2.0 L = 0.8 atm입니다.",
+    "[AB₃]가 0.04 M이라는 설명은 옳습니다. 평형에서 남은 AB₃는 0.10 − 0.02 = 0.08 mol이고, 0.08 mol ÷ 2.0 L = 0.04 M입니다.",
+    "K_P가 0.2라는 설명은 옳습니다. 부분 압력은 P(AB₃) = 0.08 × 80/2 = 3.2 atm, P(AB) = P(B₂) = 0.8 atm입니다. 따라서 K_P = (0.8 × 0.8)/3.2 = 0.2입니다. 다른 방법으로 K_P = K_C(RT)^Δn = (1/400) × 80¹ = 0.2로도 같은 값이 나옵니다.",
+    "K_C가 1/200이라는 설명은 옳지 않습니다. 평형 농도는 [AB] = [B₂] = 0.01 M, [AB₃] = 0.04 M입니다. 따라서 K_C = (0.01 × 0.01)/0.04 = 0.0025 = 1/400입니다. 1/200은 이 값의 2배입니다."
+  ],
+  "lawNote": "평형 상수식에는 몰수를 그대로 넣지 말고 2.0 L로 나눈 몰농도 또는 각 기체의 부분압력을 사용합니다. K_P=K_C(RT)^Δn에서 Δn은 생성물과 반응물의 기체 계수 합 차이인 2−1=1입니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "13.2 Equilibrium Constants",
+      "quote": "the subscript c denotes the use of molar concentrations in the expression.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/13-2-equilibrium-constants",
+      "evidenceId": "ebd50dd69f599929a091",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "13.2 Equilibrium Constants",
+      "quote": "the subscript c denotes the use of molar concentrations in the expression.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/13-2-equilibrium-constants",
+      "evidenceId": "ebd50dd69f599929a091",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "13.2 Equilibrium Constants",
+      "quote": "the subscript c denotes the use of molar concentrations in the expression.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/13-2-equilibrium-constants",
+      "evidenceId": "ebd50dd69f599929a091",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "13.2 Equilibrium Constants",
+      "quote": "the subscript c denotes the use of molar concentrations in the expression.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/13-2-equilibrium-constants",
+      "evidenceId": "ebd50dd69f599929a091",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "9.3 Stoichiometry of Gaseous Substances, Mixtures, and Reactions",
+      "quote": "the partial pressure of each gas can be determined from the ideal gas equation",
+      "url": "https://openstax.org/books/chemistry-2e/pages/9-3-stoichiometry-of-gaseous-substances-mixtures-and-reactions",
+      "evidenceId": "3c023ef156fe590da9e9",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "9.3 Stoichiometry of Gaseous Substances, Mixtures, and Reactions",
+      "quote": "the partial pressure of each gas can be determined from the ideal gas equation",
+      "url": "https://openstax.org/books/chemistry-2e/pages/9-3-stoichiometry-of-gaseous-substances-mixtures-and-reactions",
+      "evidenceId": "3c023ef156fe590da9e9",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "9.3 Stoichiometry of Gaseous Substances, Mixtures, and Reactions",
+      "quote": "the partial pressure of each gas can be determined from the ideal gas equation",
+      "url": "https://openstax.org/books/chemistry-2e/pages/9-3-stoichiometry-of-gaseous-substances-mixtures-and-reactions",
+      "evidenceId": "3c023ef156fe590da9e9",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "9.3 Stoichiometry of Gaseous Substances, Mixtures, and Reactions",
+      "quote": "the partial pressure of each gas can be determined from the ideal gas equation",
+      "url": "https://openstax.org/books/chemistry-2e/pages/9-3-stoichiometry-of-gaseous-substances-mixtures-and-reactions",
+      "evidenceId": "3c023ef156fe590da9e9",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "Original image inspected; equilibrium composition and all five statements independently computed with exact fractions; Kp directly computed and cross-checked from Kc; primary textbook sources reviewed.",
+    "contentHash": "c10b500b6d3e2a39b808f3763eab02378713d3a84efe56ee62a67933e4840c82"
+  }
+}

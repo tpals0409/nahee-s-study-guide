@@ -1,0 +1,152 @@
+{
+  "id": "2016-3-05",
+  "summary": "한 고리 회로에 키르히호프 전압 법칙을 적용합니다. 병렬 저항 10Ω 두 개의 합성저항은 5Ω입니다. 전류 방향으로 한 바퀴 돌면 V₀ + 6V − 3V − 1A×5Ω = 0이 되므로 V₀ = 2V입니다.",
+  "choices": [
+    "1V: 이 값을 넣으면 1 + 6 − 3 − 5 = −1V가 되어 고리 전압의 합이 0이 아닙니다. 이때 전류는 1A보다 작아지므로 오답입니다.",
+    "2V: 전류 방향으로 기전력 합을 구하면 2 + 6 − 3 = 5V입니다. 이를 합성저항 5Ω으로 나누면 정확히 1A가 되므로 정답입니다.",
+    "3V: 기전력 합이 3 + 6 − 3 = 6V가 되어 전류가 6/5 = 1.2A로 커집니다. 1A 조건과 맞지 않으므로 오답입니다.",
+    "4V: 기전력 합이 7V가 되어 전류가 1.4A입니다. 주어진 1A와 다르므로 오답입니다.",
+    "5V를 대입하면 순 기전력이 5+6−3=8V이므로 전체 전류는 8/5=1.6A입니다. 주어진 1A와 일치하지 않아 오답입니다."
+  ],
+  "lawNote": "그림의 1A는 병렬 구간에 들어가는 전체 전류이며 각 10Ω 저항에는 0.5A씩 흐릅니다. 표시되지 않은 도선 저항과 전지 내부저항은 무시하는 이상 회로로 풉니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "10.3 Kirchhoff’s Rules",
+      "quote": "The algebraic sum of changes in potential around any closed circuit path (loop) must be zero:",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/10-3-kirchhoffs-rules",
+      "evidenceId": "d091d27bf1816590072b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "10.3 Kirchhoff’s Rules",
+      "quote": "The algebraic sum of changes in potential around any closed circuit path (loop) must be zero:",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/10-3-kirchhoffs-rules",
+      "evidenceId": "d091d27bf1816590072b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "10.3 Kirchhoff’s Rules",
+      "quote": "The algebraic sum of changes in potential around any closed circuit path (loop) must be zero:",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/10-3-kirchhoffs-rules",
+      "evidenceId": "d091d27bf1816590072b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "10.3 Kirchhoff’s Rules",
+      "quote": "The algebraic sum of changes in potential around any closed circuit path (loop) must be zero:",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/10-3-kirchhoffs-rules",
+      "evidenceId": "d091d27bf1816590072b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "10.3 Kirchhoff’s Rules",
+      "quote": "The algebraic sum of changes in potential around any closed circuit path (loop) must be zero:",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/10-3-kirchhoffs-rules",
+      "evidenceId": "d091d27bf1816590072b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "10.3 Kirchhoff’s Rules",
+      "quote": "The algebraic sum of changes in potential around any closed circuit path (loop) must be zero:",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/10-3-kirchhoffs-rules",
+      "evidenceId": "d091d27bf1816590072b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics 2 §10.2 Resistors in Series and Parallel",
+      "quote": "The sum of the individual currents equals the current that flows into the parallel connections.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/10-2-resistors-in-series-and-parallel",
+      "evidenceId": "015df73f9a3b32f96615",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics 2 §10.2 Resistors in Series and Parallel",
+      "quote": "The sum of the individual currents equals the current that flows into the parallel connections.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/10-2-resistors-in-series-and-parallel",
+      "evidenceId": "015df73f9a3b32f96615",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics 2 §10.2 Resistors in Series and Parallel",
+      "quote": "The sum of the individual currents equals the current that flows into the parallel connections.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/10-2-resistors-in-series-and-parallel",
+      "evidenceId": "015df73f9a3b32f96615",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics 2 §10.2 Resistors in Series and Parallel",
+      "quote": "The sum of the individual currents equals the current that flows into the parallel connections.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/10-2-resistors-in-series-and-parallel",
+      "evidenceId": "015df73f9a3b32f96615",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics 2 §10.2 Resistors in Series and Parallel",
+      "quote": "The sum of the individual currents equals the current that flows into the parallel connections.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/10-2-resistors-in-series-and-parallel",
+      "evidenceId": "015df73f9a3b32f96615",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics 2 §10.2 Resistors in Series and Parallel",
+      "quote": "The sum of the individual currents equals the current that flows into the parallel connections.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/10-2-resistors-in-series-and-parallel",
+      "evidenceId": "015df73f9a3b32f96615",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "Original image polarity and current arrow checked; exact parallel-current and loop calculations; power balance cross-check; primary sources mapped",
+    "contentHash": "1b6ce72069a6d3ab3c0ba7a97451589cd31d05684a0ad39d237c60151ad53822"
+  }
+}

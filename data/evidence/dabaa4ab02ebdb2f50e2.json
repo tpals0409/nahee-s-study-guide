@@ -1,0 +1,21 @@
+{
+  "id": "dabaa4ab02ebdb2f50e2",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 2e, 8.2 Hybrid Atomic Orbitals",
+  "url": "https://openstax.org/books/chemistry-2e/pages/8-2-hybrid-atomic-orbitals",
+  "excerpt": "each carbon in ethane has four neighboring atoms arranged at the corners of a tetrahedron",
+  "sourceHash": "d0adb16e7f9faef8c30ee41928cff58da2616a805229f09228487a5f8c7af82f",
+  "cacheSourceId": "1857720fc67df6b902c8",
+  "retrievedAt": "2026-11-07T03:56:53.430535+00:00",
+  "reviewedMappings": {
+    "2026-3-14:0": "C2H6 carbons each make four sigma bonds with sp3 orbitals; ㄱ true. BF3 has three bonding regions, consistent with sp2.",
+    "2026-3-14:1": "C2H6 carbons each make four sigma bonds with sp3 orbitals; ㄱ true. BF3 has three bonding regions, consistent with sp2.",
+    "2026-3-14:2": "C2H6 carbons each make four sigma bonds with sp3 orbitals; ㄱ true. BF3 has three bonding regions, consistent with sp2.",
+    "2026-3-14:3": "C2H6 carbons each make four sigma bonds with sp3 orbitals; ㄱ true. BF3 has three bonding regions, consistent with sp2.",
+    "2026-3-14:4": "C2H6 carbons each make four sigma bonds with sp3 orbitals; ㄱ true. BF3 has three bonding regions, consistent with sp2.",
+    "2026-3-14:5": "C2H6 carbons each make four sigma bonds with sp3 orbitals; ㄱ true. BF3 has three bonding regions, consistent with sp2."
+  },
+  "retrievalMethod": "Direct web open",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "a479098ccad2663923e1",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "OpenStax Biology 2e §11.1 The Process of Meiosis",
+  "url": "https://openstax.org/books/biology-2e/pages/11-1-the-process-of-meiosis",
+  "excerpt": "Homologous pairs of chromosomes line up at the metaphase plate during metaphase I of meiosis, but not during mitosis.",
+  "sourceHash": "98f962c3e836ca14af38f917bea7960f1f07515bc8300c189ea3cf21dd1f00ce",
+  "cacheSourceId": "a5735145f53450175385",
+  "retrievedAt": "2026-11-06T18:12:36.144570+00:00",
+  "reviewedMappings": {
+    "2013-3-26:1": "§11.1 Comparing Meiosis and Mitosis: 유사분열에서는 상동쌍 접합없이 개별염색체 배열.2n6 적용.",
+    "2013-3-26:2": "MetaphaseI 및Fig11.6: 상동쌍 중기판배열 확인. 원본그림 동일형태 두개씩 세쌍,복제상태와 대조.",
+    "2013-3-26:3": "감수I후 반수체이며 자매염색분체 유지; MetaphaseII 개별염색체배열. 원본2n6에서 n3 도출.",
+    "2013-3-26:4": "TelophaseII 이후 반수체 각염색체 단일염색분체. n3 도출.",
+    "2013-3-26:5": "Comparing Meiosis and Mitosis: 유사분열 딸핵 염색체세트 유지·자매분리.2n6 단일염색분체 염색체6개 도출."
+  },
+  "retrievalMethod": "web.open and web.find; original image inspected",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

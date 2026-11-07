@@ -1,0 +1,21 @@
+{
+  "id": "01ee0fc95982df5b66e0",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume 2, 6.2 Explaining Gauss’s Law",
+  "url": "https://openstax.org/books/university-physics-volume-2/pages/6-2-explaining-gausss-law",
+  "excerpt": "we define the area vector of a closed surface to point outward.",
+  "sourceHash": "479acef023247b6e136a8b137c95eb8fbb3ef5d73a75b01c2a1428a58bc3a0bf",
+  "cacheSourceId": "c0a71e76b6ab96c00797",
+  "retrievedAt": "2026-11-06T23:52:41.935451+00:00",
+  "reviewedMappings": {
+    "2021-3-06:0": "Centered cube construction and radial field symmetry yield 1/6 per face and 1/4 per quadrant; magnitude 1/24; normal sign explicit.",
+    "2021-3-06:1": "1/2 of total differs from required 1/24 by factor 12.",
+    "2021-3-06:2": "1/3 differs from required 1/24 by factor 8.",
+    "2021-3-06:3": "1/6 applies to full 2d-by-2d lower face, not its quadrant.",
+    "2021-3-06:4": "1/12 applies to half face, while target is quarter face.",
+    "2021-3-06:5": "Six congruent faces and four symmetry-related quadrants yield q/(24epsilon0)."
+  },
+  "retrievalMethod": "Original examination figure reviewed: square edges along positive x and y, 0<=x,y<=d, z=0, point charge (0,0,d). Direct OpenStax 6.2 lines 32–38, 62–68,75–81 reviewed for radial point-charge field, flux integral, Gauss law and outward normal. Independently construct cube [-d,d]x[-d,d]x[0,2d]; centered charge makes six equal face fluxes; reflection symmetry divides lower face into four equal fluxes. Downward normal gives positive q/(24epsilon0); upward gives negative. No normal specified in original, all choices positive, so explanation explicitly reports magnitude and orientation. Unneeded solid-angle and infinite-plane claims removed.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

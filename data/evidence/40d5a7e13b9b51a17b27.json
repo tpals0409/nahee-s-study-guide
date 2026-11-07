@@ -1,0 +1,20 @@
+{
+  "id": "40d5a7e13b9b51a17b27",
+  "kind": "science",
+  "source": "Addgene",
+  "ref": "Molecular Biology Reference — Plasmid Elements",
+  "url": "https://www.addgene.org/mol-bio-reference/",
+  "excerpt": "Allows for selection of plasmid-containing bacteria by providing a survival advantage to the bacterial host.",
+  "sourceHash": "bf2fc70717456dedd98abec24e062b2ff492593cbe87620554d793dabd8f16e6",
+  "cacheSourceId": "2c0493504ae85a562d2b",
+  "retrievedAt": "2026-11-06T22:06:17.491189+00:00",
+  "reviewedMappings": {
+    "2018-3-29:0": "일반적인 제한효소 클로닝 벡터의 자리 서열과 항생제 저항성 표지자는 포함, 세균 발현용 인슐린 서열은 인트론 없이 준비하므로 ㄱ·ㄷ=④. 이 출처는 해당하는 벡터 구성 또는 cDNA 원리를 뒷받침하며 다른 연결 자료와 함께 판단함.",
+    "2018-3-29:1": "ㄱ 외에 선별표지자 ㄷ도 포함되므로 불완전. 이 출처는 해당하는 벡터 구성 또는 cDNA 원리를 뒷받침하며 다른 연결 자료와 함께 판단함.",
+    "2018-3-29:3": "ㄷ 외에 일반적인 클로닝 벡터의 제한효소자리 ㄱ도 포함. 이 출처는 해당하는 벡터 구성 또는 cDNA 원리를 뒷받침하며 다른 연결 자료와 함께 판단함.",
+    "2018-3-29:4": "ㄱ·ㄷ만 고른 ④. 플라스미드의 구성과 인트론 없는 발현 서열을 구분. 이 출처는 해당하는 벡터 구성 또는 cDNA 원리를 뒷받침하며 다른 연결 자료와 함께 판단함.",
+    "2018-3-29:5": "항생제 저항성 ㄷ은 참이나 인슐린 인트론 ㄴ은 제외, ㄱ 누락. 이 출처는 해당하는 벡터 구성 또는 cDNA 원리를 뒷받침하며 다른 연결 자료와 함께 판단함."
+  },
+  "retrievalMethod": "Direct web open, redirected from plasmid-background; reviewed Plasmid Elements lines 352–360 and selection lines 397–399. General conventional vector structure, not universal requirement for every cloning technology.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

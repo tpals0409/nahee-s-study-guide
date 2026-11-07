@@ -1,0 +1,20 @@
+{
+  "id": "afa4e6569498b9f52e1c",
+  "kind": "science",
+  "source": "NOAA National Ocean Service",
+  "ref": "The Global Conveyor Belt",
+  "url": "https://oceanservice.noaa.gov/education/tutorial_currents/05conveyor2.html",
+  "excerpt": "Thermohaline circulation drives a global-scale system of currents",
+  "sourceHash": "61dcb20951eb8ea5adf2adc1d6f14acf99691ebb896a713945ded910c4f0751b",
+  "cacheSourceId": "ad6a2cbc8f0dbeb8749e",
+  "retrievedAt": "2026-11-07T02:54:36.852836+00:00",
+  "reviewedMappings": {
+    "2024-3-38:0": "심층수의 대양 간 이동과 용승·표층 귀환 경로를 확인. ㄴ의 섞임을 전지구 해수 교환의 의미로 설명하며 미세 난류 혼합의 유일 원인이라고 주장하지 않음.",
+    "2024-3-38:1": "심층수의 대양 간 이동과 용승·표층 귀환 경로를 확인. ㄴ의 섞임을 전지구 해수 교환의 의미로 설명하며 미세 난류 혼합의 유일 원인이라고 주장하지 않음.",
+    "2024-3-38:3": "심층수의 대양 간 이동과 용승·표층 귀환 경로를 확인. ㄴ의 섞임을 전지구 해수 교환의 의미로 설명하며 미세 난류 혼합의 유일 원인이라고 주장하지 않음.",
+    "2024-3-38:4": "심층수의 대양 간 이동과 용승·표층 귀환 경로를 확인. ㄴ의 섞임을 전지구 해수 교환의 의미로 설명하며 미세 난류 혼합의 유일 원인이라고 주장하지 않음.",
+    "2024-3-38:5": "심층수의 대양 간 이동과 용승·표층 귀환 경로를 확인. ㄴ의 섞임을 전지구 해수 교환의 의미로 설명하며 미세 난류 혼합의 유일 원인이라고 주장하지 않음."
+  },
+  "retrievalMethod": "Direct NOAA tutorial page opened and relevant body paragraphs reviewed.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

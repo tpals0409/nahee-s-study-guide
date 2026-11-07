@@ -1,0 +1,140 @@
+{
+  "id": "2023-3-19",
+  "summary": "전체 반응은 A+2H⁺→A²⁺+H₂이므로 H⁺는 산화제다. Q=(0.001×0.1)/(0.1)²=0.01이고, 0.82=E°cell−0.03logQ에서 E°cell=0.76V이다. 따라서 A²⁺/A의 표준 환원 전위는−0.76V다. A²⁺농도와 H₂압력을 유지하고 pH만3으로 바꾸면 전지 전위는0.70V다. ㄱ만 옳아 정답은①이다.",
+  "choices": [
+    "정답. H⁺가 전자를 받아 H₂로 환원되므로 산화제라는 ㄱ은 옳다. ㄴ의 표준 환원 전위와 ㄷ의 전위 비교는 틀리다.",
+    "오답. 표준 전지 전위는0.76V이며 표준 수소 전극은0V다. 0.76=0−E°(A²⁺/A)이므로 E°=−0.76V이지−0.70V가 아니다.",
+    "오답. 다른 주어진 조건을 유지하고 pH=3으로 바꾸면 Q=(0.001×0.1)/(10⁻³)²=100이다. E=0.76−0.03log100=0.70V로0.76V보다 작아 ㄷ은 틀리다.",
+    "오답. ㄴ은−0.76V, ㄷ은 pH만 변경한 조건에서0.70V가 계산되므로 둘 다 틀리다. 옳은 진술은 ㄱ이다.",
+    "오답. ㄱ만 옳고 ㄴ·ㄷ은 틀리므로 모두 고를 수 없다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 17.4 Potential, Free Energy, and Equilibrium",
+      "quote": "Use the Nernst equation to determine cell potentials under nonstandard conditions",
+      "url": "https://openstax.org/books/chemistry-2e/pages/17-4-potential-free-energy-and-equilibrium",
+      "evidenceId": "43ff02ad3be0f17551f8",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 17.4 Potential, Free Energy, and Equilibrium",
+      "quote": "Use the Nernst equation to determine cell potentials under nonstandard conditions",
+      "url": "https://openstax.org/books/chemistry-2e/pages/17-4-potential-free-energy-and-equilibrium",
+      "evidenceId": "43ff02ad3be0f17551f8",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 17.4 Potential, Free Energy, and Equilibrium",
+      "quote": "Use the Nernst equation to determine cell potentials under nonstandard conditions",
+      "url": "https://openstax.org/books/chemistry-2e/pages/17-4-potential-free-energy-and-equilibrium",
+      "evidenceId": "43ff02ad3be0f17551f8",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 17.4 Potential, Free Energy, and Equilibrium",
+      "quote": "Use the Nernst equation to determine cell potentials under nonstandard conditions",
+      "url": "https://openstax.org/books/chemistry-2e/pages/17-4-potential-free-energy-and-equilibrium",
+      "evidenceId": "43ff02ad3be0f17551f8",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 17.4 Potential, Free Energy, and Equilibrium",
+      "quote": "Use the Nernst equation to determine cell potentials under nonstandard conditions",
+      "url": "https://openstax.org/books/chemistry-2e/pages/17-4-potential-free-energy-and-equilibrium",
+      "evidenceId": "43ff02ad3be0f17551f8",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 17.4 Potential, Free Energy, and Equilibrium",
+      "quote": "Use the Nernst equation to determine cell potentials under nonstandard conditions",
+      "url": "https://openstax.org/books/chemistry-2e/pages/17-4-potential-free-energy-and-equilibrium",
+      "evidenceId": "43ff02ad3be0f17551f8",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 17.3 Electrode and Cell Potentials",
+      "quote": "assigning it a potential of exactly 0 V",
+      "url": "https://openstax.org/books/chemistry-2e/pages/17-3-electrode-and-cell-potentials",
+      "evidenceId": "c1f342280fdc8fed02b9",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 17.3 Electrode and Cell Potentials",
+      "quote": "assigning it a potential of exactly 0 V",
+      "url": "https://openstax.org/books/chemistry-2e/pages/17-3-electrode-and-cell-potentials",
+      "evidenceId": "c1f342280fdc8fed02b9",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 17.3 Electrode and Cell Potentials",
+      "quote": "assigning it a potential of exactly 0 V",
+      "url": "https://openstax.org/books/chemistry-2e/pages/17-3-electrode-and-cell-potentials",
+      "evidenceId": "c1f342280fdc8fed02b9",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 17.3 Electrode and Cell Potentials",
+      "quote": "assigning it a potential of exactly 0 V",
+      "url": "https://openstax.org/books/chemistry-2e/pages/17-3-electrode-and-cell-potentials",
+      "evidenceId": "c1f342280fdc8fed02b9",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 17.3 Electrode and Cell Potentials",
+      "quote": "assigning it a potential of exactly 0 V",
+      "url": "https://openstax.org/books/chemistry-2e/pages/17-3-electrode-and-cell-potentials",
+      "evidenceId": "c1f342280fdc8fed02b9",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "원문 전지기호·0.82V·농도·압력·0.06계수 확인. 전체반응 n2와Q로 계산하고 개별환원전위 EH=−0.03/−0.15V,EA=−0.85V의 차로0.82/0.70V교차검산. ㄷ은 다른 주어진조건 유지라는 계산범위를 명시. 표준수소전위와 실제수소전위 혼동 방지. 출처 직접대조.",
+    "contentHash": "a2d63e9f9a0058400961f8d8d18f0977fc7023473168cfbeadd550a60165578c"
+  }
+}

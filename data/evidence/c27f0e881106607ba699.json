@@ -1,0 +1,17 @@
+{
+  "id": "c27f0e881106607ba699",
+  "kind": "science",
+  "source": "The Geological Society",
+  "ref": "Alpine Orogeny",
+  "url": "https://www.geolsoc.org.uk/Plate-Tectonics/Chap4-Plate-Tectonics-of-the-UK/Alpine-Orogeny.html",
+  "excerpt": "The continental collisions of the Alpine Orogeny formed the Alps",
+  "sourceHash": "ef5c9cf3242a725419f41faaafbe28245e4382f2c552309f80b59ed80a8ba53c",
+  "cacheSourceId": "c186e3c8e2f11d9cc017",
+  "retrievedAt": "2026-11-07T02:04:00.938848+00:00",
+  "reviewedMappings": {
+    "2023-3-33:0": "③ Alps는 대륙충돌에 의한 산맥으로 발산경계 아님.",
+    "2023-3-33:3": "③ Alps는 대륙충돌에 의한 산맥으로 발산경계 아님."
+  },
+  "retrievalMethod": "페이지 직접 열람.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

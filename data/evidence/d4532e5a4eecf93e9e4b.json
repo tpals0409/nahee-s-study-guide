@@ -1,0 +1,19 @@
+{
+  "id": "d4532e5a4eecf93e9e4b",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology2e3.2 Carbohydrates",
+  "url": "https://openstax.org/books/biology-2e/pages/3-2-carbohydrates",
+  "excerpt": "A long chain of monosaccharides linked by glycosidic bonds is a polysaccharide",
+  "sourceHash": "8bfe8afa399bcc50989440d544b057cd064712bb9f85e800f11895b90e26df2d",
+  "cacheSourceId": "247d3044c310383c6b58",
+  "retrievedAt": "2026-11-07T04:12:40.473729+00:00",
+  "reviewedMappings": {
+    "2026-3-27:1": "Paragraphs61-67 and Figure3.9 directly read: monosaccharide polymer, amylose alpha1-4, amylopectin branching alpha1-6, starch/glycogen storage; glycogen more branched than amylopectin.",
+    "2026-3-27:3": "Paragraphs61-67 and Figure3.9 directly read: monosaccharide polymer, amylose alpha1-4, amylopectin branching alpha1-6, starch/glycogen storage; glycogen more branched than amylopectin.",
+    "2026-3-27:4": "Paragraphs61-67 and Figure3.9 directly read: monosaccharide polymer, amylose alpha1-4, amylopectin branching alpha1-6, starch/glycogen storage; glycogen more branched than amylopectin.",
+    "2026-3-27:5": "Paragraphs61-67 and Figure3.9 directly read: monosaccharide polymer, amylose alpha1-4, amylopectin branching alpha1-6, starch/glycogen storage; glycogen more branched than amylopectin."
+  },
+  "retrievalMethod": "Direct web find",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

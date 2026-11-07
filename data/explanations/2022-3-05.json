@@ -1,0 +1,217 @@
+{
+  "id": "2022-3-05",
+  "summary": "직선 전류가 x>0 영역에 만드는 자기장은 종이면(수평면)을 뚫고 들어가는 방향입니다. 회로가 도선에서 멀어지면 이 방향의 자기 선속이 감소하므로, 유도 전류는 시계 방향으로 흘러 선속 감소를 보충합니다. 이 유도 전류가 받는 알짜 힘은 운동을 방해하는 -x 방향이므로 도선과 회로 사이에는 인력이 작용합니다. ㄱ, ㄴ, ㄷ이 모두 옳습니다.",
+  "choices": [
+    "ㄱ만 고른 선지: ㄱ은 옳습니다. 그러나 ㄴ(선속 감소에 따른 시계 방향 유도 전류)과 ㄷ(운동을 방해하는 인력)도 옳으므로 정답이 아닙니다.",
+    "ㄷ만 고른 선지: ㄷ은 옳습니다. 그러나 ㄱ(x>0에서 자기장이 회로를 뚫고 들어가는 방향)과 ㄴ도 옳으므로 정답이 아닙니다.",
+    "ㄱ, ㄴ을 고른 선지: 두 보기는 옳습니다. 하지만 렌츠 법칙에 따라 회로가 도선에서 멀어지는 운동을 방해하는 인력이 작용하므로 ㄷ도 옳습니다. 따라서 정답이 아닙니다.",
+    "ㄴ, ㄷ을 고른 선지: 두 보기는 옳습니다. 하지만 오른손 법칙으로 B ∝ ŷ × x̂ = -ẑ이므로 x>0 영역의 자기장은 회로를 뚫고 들어가는 방향이고 ㄱ도 옳습니다. 따라서 정답이 아닙니다.",
+    "ㄱ, ㄴ, ㄷ을 고른 선지: 정답입니다. 자기장은 회로를 뚫고 들어가는 방향이고, 멀어지는 운동으로 선속이 줄어 시계 방향 유도 전류가 흐릅니다. 회로의 가까운 변에는 도선과 같은 방향(+y)의 전류가 흘러 끌어당기는 힘이, 먼 변에는 반대 방향 전류가 흘러 밀어내는 힘이 작용합니다. 가까운 변의 힘이 더 크므로 알짜 힘은 인력입니다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2, 12.2 Magnetic Field Due to a Thin Straight Wire",
+      "quote": "Determine the dependence of the magnetic field from a thin, straight wire",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/12-2-magnetic-field-due-to-a-thin-straight-wire",
+      "evidenceId": "f59e922eac7c0468a441",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2, 12.2 Magnetic Field Due to a Thin Straight Wire",
+      "quote": "Determine the dependence of the magnetic field from a thin, straight wire",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/12-2-magnetic-field-due-to-a-thin-straight-wire",
+      "evidenceId": "f59e922eac7c0468a441",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2, 12.2 Magnetic Field Due to a Thin Straight Wire",
+      "quote": "Determine the dependence of the magnetic field from a thin, straight wire",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/12-2-magnetic-field-due-to-a-thin-straight-wire",
+      "evidenceId": "f59e922eac7c0468a441",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2, 12.2 Magnetic Field Due to a Thin Straight Wire",
+      "quote": "Determine the dependence of the magnetic field from a thin, straight wire",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/12-2-magnetic-field-due-to-a-thin-straight-wire",
+      "evidenceId": "f59e922eac7c0468a441",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2, 12.2 Magnetic Field Due to a Thin Straight Wire",
+      "quote": "Determine the dependence of the magnetic field from a thin, straight wire",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/12-2-magnetic-field-due-to-a-thin-straight-wire",
+      "evidenceId": "f59e922eac7c0468a441",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2, 12.2 Magnetic Field Due to a Thin Straight Wire",
+      "quote": "Determine the dependence of the magnetic field from a thin, straight wire",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/12-2-magnetic-field-due-to-a-thin-straight-wire",
+      "evidenceId": "f59e922eac7c0468a441",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2, 13.2 Lenz’s Law",
+      "quote": "always oppose the change in magnetic flux that causes the emf.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/13-2-lenzs-law",
+      "evidenceId": "d9d293c234a2fe4fffbe",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2, 13.2 Lenz’s Law",
+      "quote": "always oppose the change in magnetic flux that causes the emf.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/13-2-lenzs-law",
+      "evidenceId": "d9d293c234a2fe4fffbe",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2, 13.2 Lenz’s Law",
+      "quote": "always oppose the change in magnetic flux that causes the emf.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/13-2-lenzs-law",
+      "evidenceId": "d9d293c234a2fe4fffbe",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2, 13.2 Lenz’s Law",
+      "quote": "always oppose the change in magnetic flux that causes the emf.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/13-2-lenzs-law",
+      "evidenceId": "d9d293c234a2fe4fffbe",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2, 13.2 Lenz’s Law",
+      "quote": "always oppose the change in magnetic flux that causes the emf.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/13-2-lenzs-law",
+      "evidenceId": "d9d293c234a2fe4fffbe",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2, 13.2 Lenz’s Law",
+      "quote": "always oppose the change in magnetic flux that causes the emf.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/13-2-lenzs-law",
+      "evidenceId": "d9d293c234a2fe4fffbe",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2, 12.3 Magnetic Force between Two Parallel Currents",
+      "quote": "The force is attractive if the currents are in the same direction",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/12-3-magnetic-force-between-two-parallel-currents",
+      "evidenceId": "2a12b75fbd00a020cde9",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2, 12.3 Magnetic Force between Two Parallel Currents",
+      "quote": "The force is attractive if the currents are in the same direction",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/12-3-magnetic-force-between-two-parallel-currents",
+      "evidenceId": "2a12b75fbd00a020cde9",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2, 12.3 Magnetic Force between Two Parallel Currents",
+      "quote": "The force is attractive if the currents are in the same direction",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/12-3-magnetic-force-between-two-parallel-currents",
+      "evidenceId": "2a12b75fbd00a020cde9",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2, 12.3 Magnetic Force between Two Parallel Currents",
+      "quote": "The force is attractive if the currents are in the same direction",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/12-3-magnetic-force-between-two-parallel-currents",
+      "evidenceId": "2a12b75fbd00a020cde9",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2, 12.3 Magnetic Force between Two Parallel Currents",
+      "quote": "The force is attractive if the currents are in the same direction",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/12-3-magnetic-force-between-two-parallel-currents",
+      "evidenceId": "2a12b75fbd00a020cde9",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2, 12.3 Magnetic Force between Two Parallel Currents",
+      "quote": "The force is attractive if the currents are in the same direction",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/12-3-magnetic-force-between-two-parallel-currents",
+      "evidenceId": "2a12b75fbd00a020cde9",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Original diagram and right-hand-rule review; flux derivative and loop-side force comparison with OpenStax references",
+    "contentHash": "c8d3add139cd28682553db0c0c01adb003565e5868ffe60c97ea3d47a79e81d6"
+  }
+}

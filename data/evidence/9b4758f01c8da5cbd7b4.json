@@ -1,0 +1,17 @@
+{
+  "id": "9b4758f01c8da5cbd7b4",
+  "kind": "science",
+  "source": "OpenStax Chemistry 2e",
+  "ref": "13.4 Equilibrium Calculations",
+  "url": "https://openstax.org/books/chemistry-2e/pages/13-4-equilibrium-calculations",
+  "excerpt": "These terms are derived from the stoichiometry of the reaction",
+  "sourceHash": "5454ba20b48e7e754ab2a212ee409ae6ba115b250aad7c88711a96f4ada30e14",
+  "cacheSourceId": "3415519ea96f743ec5d6",
+  "retrievedAt": "2026-11-06T18:50:31.375389+00:00",
+  "reviewedMappings": {
+    "2014-3-20:1": "원문에 명시된 일정 부피와 A만 존재한다는 문맥 해석 아래 ICE 관계와 양의 농도 조건을 적용. 25도 A=1/2,B=1;50도 A=1,B=2를 대입 검산.",
+    "2014-3-20:3": "원문에 명시된 일정 부피와 A만 존재한다는 문맥 해석 아래 ICE 관계와 양의 농도 조건을 적용. 25도 A=1/2,B=1;50도 A=1,B=2를 대입 검산."
+  },
+  "retrievalMethod": "web.open; manually reviewed excerpt",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

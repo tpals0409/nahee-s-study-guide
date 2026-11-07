@@ -1,0 +1,16 @@
+{
+  "id": "3efda7771d20e80fdec6",
+  "kind": "science",
+  "source": "NASA Space Place",
+  "ref": "Ionosphere",
+  "url": "https://spaceplace.nasa.gov/ionosphere/en/",
+  "excerpt": "the ionosphere overlaps the mesosphere, thermosphere, and exosphere.",
+  "sourceHash": "e4603462ca0220e63355cb2e4f249e9df69adee1bf32d9ffcdaf75dcf6ef6f6b",
+  "cacheSourceId": "a30be885e9e5704ce4cf",
+  "retrievedAt": "2026-11-07T00:38:34.161006+00:00",
+  "reviewedMappings": {
+    "2021-3-39:5": "NASA가 전리층과 중간권·열권·외기권의 중첩을 명시. 열권에 존재한다는 진술은 참이나 열권에만 한정하거나 D/E/F 전체를 열권으로 분류하지 않음."
+  },
+  "retrievalMethod": "Direct NASA Space Place page opened; paragraphs 15 and 20 reviewed.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

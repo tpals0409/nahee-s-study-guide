@@ -1,0 +1,18 @@
+{
+  "id": "bc3585d634ef83dfd9e5",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "OpenStax Anatomy and Physiology 2e §19.1 Heart Anatomy",
+  "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/19-1-heart-anatomy",
+  "excerpt": "Coronary arteries supply blood to the myocardium and other components of the heart.",
+  "sourceHash": "3e4fd83b9c0565e84a5ab3eef0c7d1ce28509c27ffdb0415045d6e07b6132902",
+  "cacheSourceId": "7194b3ecbcd46928675f",
+  "retrievedAt": "2026-11-06T18:09:14.193755+00:00",
+  "reviewedMappings": {
+    "2013-3-22:2": "§19.1 반월판 역류방지, 관상동맥 심근혈액공급, 폐정맥 폐→좌심방 혈액운반 확인. 이들은 심방-심실 전도 관문을 묻는 선지에 해당하지 않음. 혈관·판막질환이 전기문제의 원인이 절대로 될 수 없다는 단정은 하지 않음.",
+    "2013-3-22:3": "§19.1 반월판 역류방지, 관상동맥 심근혈액공급, 폐정맥 폐→좌심방 혈액운반 확인. 이들은 심방-심실 전도 관문을 묻는 선지에 해당하지 않음. 혈관·판막질환이 전기문제의 원인이 절대로 될 수 없다는 단정은 하지 않음.",
+    "2013-3-22:5": "§19.1 반월판 역류방지, 관상동맥 심근혈액공급, 폐정맥 폐→좌심방 혈액운반 확인. 이들은 심방-심실 전도 관문을 묻는 선지에 해당하지 않음. 혈관·판막질환이 전기문제의 원인이 절대로 될 수 없다는 단정은 하지 않음."
+  },
+  "retrievalMethod": "web.open and web.find; original question image inspected",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "8620dceacf45d57715a5",
+  "kind": "science",
+  "source": "PubMed / The Plant Cell original research",
+  "ref": "Double Fertilization in Gnetum gnemon: The Relationship between the Cell Cycle and Sexual Reproduction",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/12242365/",
+  "excerpt": "two zygotes per pollen tube",
+  "sourceHash": "c51929cb42922447744b84a489aa78cbb52323e5b51c80a26d84dee82181ace5",
+  "cacheSourceId": "5e5ceb75c68da79dcbfc",
+  "retrievedAt": "2026-11-07T02:43:36.296093+00:00",
+  "reviewedMappings": {
+    "2024-3-29:0": "Indexed original research abstract reviewed; direct open returned no substantive abstract. It explicitly identifies double fertilization in nonflowering Gnetum gnemon producing two zygotes, a counterexample to an unrestricted exclusivity claim.",
+    "2024-3-29:4": "Indexed original research abstract reviewed; direct open returned no substantive abstract. It explicitly identifies double fertilization in nonflowering Gnetum gnemon producing two zygotes, a counterexample to an unrestricted exclusivity claim."
+  },
+  "retrievalMethod": "Indexed original research abstract reviewed; direct open returned no substantive abstract. It explicitly identifies double fertilization in nonflowering Gnetum gnemon producing two zygotes, a counterexample to an unrestricted exclusivity claim.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "f55660f8c4bc4bf38c16",
+  "kind": "science",
+  "source": "Cambridge University Press",
+  "ref": "Cambridge University Press biology excerpt: Environment and Niche definitions",
+  "url": "https://assets.cambridge.org/97805216/92953/excerpt/9780521692953_excerpt.pdf",
+  "excerpt": "all of the environmental conditions and resources needed for an organism to survive, reproduce and maintain a viable population.",
+  "sourceHash": "fd1d61282d9eca438548c015c5472af7a889f66fb32e955c92561839e5acf6c4",
+  "cacheSourceId": "d46c7db0c097dec76c41",
+  "retrievedAt": "2026-11-06T18:15:39.067170+00:00",
+  "reviewedMappings": {
+    "2013-3-29:0": "ㄱ: Niche정의의 환경조건/자원과 Environment정의의 biotic/abiotic 양범주 확인. 생물요인과비생물요인 모두포함."
+  },
+  "retrievalMethod": "web.search_query indexed publisher PDF excerpt",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

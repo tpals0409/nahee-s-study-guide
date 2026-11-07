@@ -1,0 +1,14 @@
+{
+  "id": "d8817627fcb32e1b8cc9",
+  "kind": "science",
+  "source": "OpenStax · Biology 2e",
+  "ref": "8.2",
+  "url": "https://openstax.org/books/biology-2e/pages/8-2-the-light-dependent-reactions-of-photosynthesis",
+  "excerpt": "work together to produce NADPH and ATP.",
+  "sourceHash": "ac7a74367a5298f8bb64ffd27f2a47915ebbed4e1ba0b288e83b3675079504fa",
+  "cacheSourceId": "5191096ae0ba00493d97",
+  "retrievedAt": "2026-11-06T15:05:58.593646+00:00",
+  "reviewedMappings": {
+    "2009-3-22:0": "ㄱ은 식물 외 조류·남세균의 광합성으로 반증(8.1). ㄴ은 PSII 물분해의 산소, ㄹ은 ATP/NADPH 생성으로 판정(8.2). ㄷ은 CO2와RuBP의 Rubisco 촉매반응(8.3). 미검증Km수치·동위원소실험 역사 삭제."
+  }
+}

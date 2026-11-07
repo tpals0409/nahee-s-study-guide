@@ -1,0 +1,85 @@
+{
+  "id": "2019-3-30",
+  "summary": "질소고정은 N₂를 NH₃로 환원하는 과정이므로 ㄱ은 옳습니다. ㄴ과 ㄷ은 탈질산화와 질산화의 설명이 서로 뒤바뀌어 있어 틀립니다. 따라서 정답은 'ㄱ'만 고른 보기입니다.",
+  "choices": [
+    "정답입니다. 질소고정 세균은 대기의 N₂를 NH₃로 전환합니다. ㄴ과 ㄷ은 과정의 명칭이 바뀌어 있으므로 ㄱ만 옳습니다.",
+    "ㄷ은 틀립니다. 질산화는 암모니아를 아질산이온(NO₂⁻), 질산이온(NO₃⁻)으로 산화하는 과정입니다. 질산이온을 N₂로 환원하는 것은 탈질산화입니다.",
+    "ㄱ은 옳지만 ㄴ은 틀립니다. 암모니아를 질산이온으로 산화하는 것은 질산화이며, 탈질산화는 질산이온을 질소 기체로 환원하는 과정입니다.",
+    "ㄴ과 ㄷ은 질산화와 탈질산화의 설명을 서로 바꿔 쓴 것이므로 모두 틀립니다.",
+    "ㄱ만 옳고 ㄴ과 ㄷ은 틀리므로 세 진술을 모두 선택할 수 없습니다."
+  ],
+  "lawNote": "질소의 산화수는 N₂에서 0, NH₃에서 −3, NO₃⁻에서 +5입니다. 따라서 질소고정은 환원, 질산화는 산화, 탈질산화는 환원 과정입니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "8.7 Biogeochemical Cycles",
+      "quote": "converting it into nitrogen gas that reenters the atmosphere.",
+      "url": "https://openstax.org/books/microbiology/pages/8-7-biogeochemical-cycles",
+      "evidenceId": "4b364526babbd2e6af1b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "8.7 Biogeochemical Cycles",
+      "quote": "converting it into nitrogen gas that reenters the atmosphere.",
+      "url": "https://openstax.org/books/microbiology/pages/8-7-biogeochemical-cycles",
+      "evidenceId": "4b364526babbd2e6af1b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "8.7 Biogeochemical Cycles",
+      "quote": "converting it into nitrogen gas that reenters the atmosphere.",
+      "url": "https://openstax.org/books/microbiology/pages/8-7-biogeochemical-cycles",
+      "evidenceId": "4b364526babbd2e6af1b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "8.7 Biogeochemical Cycles",
+      "quote": "converting it into nitrogen gas that reenters the atmosphere.",
+      "url": "https://openstax.org/books/microbiology/pages/8-7-biogeochemical-cycles",
+      "evidenceId": "4b364526babbd2e6af1b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "8.7 Biogeochemical Cycles",
+      "quote": "converting it into nitrogen gas that reenters the atmosphere.",
+      "url": "https://openstax.org/books/microbiology/pages/8-7-biogeochemical-cycles",
+      "evidenceId": "4b364526babbd2e6af1b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "8.7 Biogeochemical Cycles",
+      "quote": "converting it into nitrogen gas that reenters the atmosphere.",
+      "url": "https://openstax.org/books/microbiology/pages/8-7-biogeochemical-cycles",
+      "evidenceId": "4b364526babbd2e6af1b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Direct OpenStax nitrogen-cycle prose review; independent oxidation-state and process-name comparison",
+    "contentHash": "470a2e4dfc8e0d27a4d270a224b8ae7a2232ecdddea0ae89d4a19f31fad66e17"
+  }
+}

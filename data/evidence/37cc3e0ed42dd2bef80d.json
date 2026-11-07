@@ -1,0 +1,17 @@
+{
+  "id": "37cc3e0ed42dd2bef80d",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e §8.2 The Light-Dependent Reactions of Photosynthesis",
+  "url": "https://openstax.org/books/biology-2e/pages/8-2-the-light-dependent-reactions-of-photosynthesis",
+  "excerpt": "Light energy initiates the process of photosynthesis when pigments absorb specific wavelengths of visible light.",
+  "sourceHash": "de6398f1a75b3276e37643abec88c93335e54528f3d61eae6e54da00fdec2853",
+  "cacheSourceId": "bd90fc13e2eb20873312",
+  "retrievedAt": "2026-11-06T21:25:15.293505+00:00",
+  "reviewedMappings": {
+    "2017-3-29:4": "Absorption of Light 절의 가시광선 이용과 대조하여 식물이 주로 근적외선을 이용한다는 ㅁ을 배제. 특정 파장 경계나 모든 광합성 세균에 대한 일반화는 하지 않음.",
+    "2017-3-29:5": "Absorption of Light 절의 가시광선 이용과 대조하여 식물이 주로 근적외선을 이용한다는 ㅁ을 배제. 특정 파장 경계나 모든 광합성 세균에 대한 일반화는 하지 않음."
+  },
+  "retrievalMethod": "Direct web page reviewed; chemical subscripts normalized",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

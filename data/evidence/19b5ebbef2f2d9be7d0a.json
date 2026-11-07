@@ -1,0 +1,21 @@
+{
+  "id": "19b5ebbef2f2d9be7d0a",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 2e 12.4 Integrated Rate Laws",
+  "url": "https://openstax.org/books/chemistry-2e/pages/12-4-integrated-rate-laws",
+  "excerpt": "an equation describing how the reactant concentration varies with time",
+  "sourceHash": "420b94c5800117b7cb207e8841a0ac983dfbcadb09b394bf9b33e158eb742e93",
+  "cacheSourceId": "09ee8ef9fbc6bc521eaf",
+  "retrievedAt": "2026-11-07T04:50:46.758006+00:00",
+  "reviewedMappings": {
+    "2016-3-13:0": "k비10 및 반감기비1/10. 생성농도 순서와 총몰수의 구별.",
+    "2016-3-13:1": "같은부피 해석에서 ㄷ도 참이므로 ㄱ만으로 불충분.",
+    "2016-3-13:2": "t_halfⅡ/t_halfⅠ=kⅠ/kⅡ=10⁻⁴/10⁻³=1/10.",
+    "2016-3-13:3": "ⅡⅢ k동일, 초기농도Ⅲ2배;ⅡⅠ초기농도동일,kⅡ>kⅠ. 생성농도Ⅲ>Ⅱ>Ⅰ.",
+    "2016-3-13:4": "ㄴ거짓 반감기비. 부피가 같은 조건에서의ㄷ만으로④를 정답으로 할수없음.",
+    "2016-3-13:5": "반감기비가4/3아니므로ㄴ포함선지배제. 생성몰수는V를곱해야함."
+  },
+  "retrievalMethod": "Direct web open/find",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

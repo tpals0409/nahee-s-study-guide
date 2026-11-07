@@ -1,0 +1,16 @@
+{
+  "id": "baf76c932c0abf5bff1a",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Microbiology 14.5 Drug Resistance",
+  "url": "https://openstax.org/books/microbiology/pages/14-5-drug-resistance",
+  "excerpt": "select for chromosomal mutations conferring resistance",
+  "sourceHash": "f402c2c2f625681ad9c7da2a74dff62aec3373da6f60ca6517dc9b8ff7cbdf85",
+  "cacheSourceId": "10713db98f71c6e929d9",
+  "retrievedAt": "2026-11-07T05:00:13.978131+00:00",
+  "reviewedMappings": {
+    "2026-3-21:1": "항생제 선택압으로 내성균이 상대적으로 살아남아 집단 비율이 증가함을 뒷받침한다. 항생제가 목적에 맞는 유전자를 만들어준다는 주장은 하지 않는다."
+  },
+  "retrievalMethod": "Direct web open/find",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

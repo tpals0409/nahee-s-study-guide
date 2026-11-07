@@ -1,0 +1,21 @@
+{
+  "id": "7ea553bb46978d74d64e",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "6.5 De Broglie’s Matter Waves",
+  "url": "https://openstax.org/books/university-physics-volume-3/pages/6-5-de-broglies-matter-waves",
+  "excerpt": "must satisfy the following standing-wave condition:",
+  "sourceHash": "6fa59c0e86e217a914990f743d1043840b214fc264552d7b6599d0d75d4d2ba0",
+  "cacheSourceId": "5a197b2b30067097518c",
+  "retrievedAt": "2026-11-06T22:27:30.263807+00:00",
+  "reviewedMappings": {
+    "2019-3-10:0": "Reviewed standing-wave quantization and photon energy relation, applied to original diagram n=3 to 2: energy coefficient 1/4-1/9=5/36.",
+    "2019-3-10:1": "Option 1 coefficient corresponds to 3→2, verified as 1/4-1/9. Original diagram requires 3→2; matches.",
+    "2019-3-10:2": "Option 2 coefficient corresponds to 4→2, verified as 1/4-1/16. Original diagram requires 3→2; does not match.",
+    "2019-3-10:3": "Option 3 coefficient corresponds to 2→1, verified as 1/1-1/4. Original diagram requires 3→2; does not match.",
+    "2019-3-10:4": "Option 4 coefficient corresponds to 3→1, verified as 1/1-1/9. Original diagram requires 3→2; does not match.",
+    "2019-3-10:5": "Option 5 coefficient corresponds to 4→1, verified as 1/1-1/16. Original diagram requires 3→2; does not match."
+  },
+  "retrievalMethod": "Direct open lines 95–109, equation 6.59: circumference contains n wavelengths. Original app/public/images/2019-3-10.webp inspected: two outward lobes in (가), three in (나), hence n=2 and 3. No inference from drawn circle sizes.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

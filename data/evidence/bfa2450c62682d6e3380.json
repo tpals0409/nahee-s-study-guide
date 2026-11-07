@@ -1,0 +1,16 @@
+{
+  "id": "bfa2450c62682d6e3380",
+  "kind": "science",
+  "source": "Australian Society of Plant Scientists — Plants in Action",
+  "ref": "Chapter 2 Carbon dioxide assimilation and respiration",
+  "url": "https://www.asps.org.au/wp-content/uploads/Chapter-2-Carbon-dioxide-assimilation-and-respiration-for-PDF.pdf",
+  "excerpt": "Although Rubisco’s affinity for CO2 is an order of magnitude higher than that for O2",
+  "sourceHash": "1284104393ec3b8a769c65b368bce8c921ff1b48dabff639a30f582c790a01e9",
+  "cacheSourceId": "b3c8d9803eea22594761",
+  "retrievedAt": "2026-11-06T18:52:53.757888+00:00",
+  "reviewedMappings": {
+    "2014-3-22:4": "학회 교재 검색 색인 발췌로 CO2 친화력이 더 크다는 방향 확인. 원문 전체 열람 아님. 초안의 80–100 특이성 인자를 친화력 비율로 취급하지 않도록 삭제."
+  },
+  "retrievalMethod": "web.search_query indexed excerpt; direct open returned 404",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

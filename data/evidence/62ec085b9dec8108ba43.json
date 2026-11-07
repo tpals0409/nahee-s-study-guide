@@ -1,0 +1,22 @@
+{
+  "id": "62ec085b9dec8108ba43",
+  "kind": "science",
+  "source": "OpenStax · Biology 2e",
+  "ref": "19.1",
+  "url": "https://openstax.org/books/biology-2e/pages/19-1-population-evolution",
+  "excerpt": "the frequency of pq individuals is 2pq",
+  "sourceHash": "45f1b533f9be855cbc114c9ed85daa3b305c0e7e7b6c266c399f8b9895a21134",
+  "cacheSourceId": "003f44755d0618d26f9c",
+  "retrievedAt": "2026-11-07T03:29:06.955057+00:00",
+  "reviewedMappings": {
+    "2009-3-25:0": "열성 표현형 bb=90/1000=q². q=.3,p=.7,2pq=.42; BB490+Bb420+bb90=1000, 검은털910. 다섯 선택지의 수치를 독립 계산.",
+    "2025-3-30:0": "Hardy-Weinberg Principle 절에서 평형의 세대 간 빈도 유지, p+q=1, p²·2pq·q²를 확인. 문제의 p=0.6으로 q=0.4, RR=0.36, Rr=0.48, rr=0.16을 직접 계산. 각 오답이 q²,pq,p²,q라는 차이를 대조했다.",
+    "2025-3-30:1": "Hardy-Weinberg Principle 절에서 평형의 세대 간 빈도 유지, p+q=1, p²·2pq·q²를 확인. 문제의 p=0.6으로 q=0.4, RR=0.36, Rr=0.48, rr=0.16을 직접 계산. 각 오답이 q²,pq,p²,q라는 차이를 대조했다.",
+    "2025-3-30:2": "Hardy-Weinberg Principle 절에서 평형의 세대 간 빈도 유지, p+q=1, p²·2pq·q²를 확인. 문제의 p=0.6으로 q=0.4, RR=0.36, Rr=0.48, rr=0.16을 직접 계산. 각 오답이 q²,pq,p²,q라는 차이를 대조했다.",
+    "2025-3-30:3": "Hardy-Weinberg Principle 절에서 평형의 세대 간 빈도 유지, p+q=1, p²·2pq·q²를 확인. 문제의 p=0.6으로 q=0.4, RR=0.36, Rr=0.48, rr=0.16을 직접 계산. 각 오답이 q²,pq,p²,q라는 차이를 대조했다.",
+    "2025-3-30:4": "Hardy-Weinberg Principle 절에서 평형의 세대 간 빈도 유지, p+q=1, p²·2pq·q²를 확인. 문제의 p=0.6으로 q=0.4, RR=0.36, Rr=0.48, rr=0.16을 직접 계산. 각 오답이 q²,pq,p²,q라는 차이를 대조했다.",
+    "2025-3-30:5": "Hardy-Weinberg Principle 절에서 평형의 세대 간 빈도 유지, p+q=1, p²·2pq·q²를 확인. 문제의 p=0.6으로 q=0.4, RR=0.36, Rr=0.48, rr=0.16을 직접 계산. 각 오답이 q²,pq,p²,q라는 차이를 대조했다."
+  },
+  "retrievalMethod": "Direct textbook section read",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

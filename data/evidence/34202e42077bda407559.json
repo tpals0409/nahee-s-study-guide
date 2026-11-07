@@ -1,0 +1,17 @@
+{
+  "id": "34202e42077bda407559",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 2e 7.2 Covalent Bonding",
+  "url": "https://openstax.org/books/chemistry-2e/pages/7-2-covalent-bonding",
+  "excerpt": "electronegativity increases from left to right across a period",
+  "sourceHash": "1d889be4fde07776ae817a28c7df9803b91841ea2cb7ee2e733b2dee36dc9e99",
+  "cacheSourceId": "113385133b53dfa52739",
+  "retrievedAt": "2026-11-06T19:28:33.566223+00:00",
+  "reviewedMappings": {
+    "2012-3-12:1": "C,N,O 순서에 적용하여 X=O가 가장 큼. 불필요한 수치 제거.",
+    "2015-3-14:1": "Electronegativity trend directly inspected in lines 63–65. Original C and O are in period 2 with O to the right; omit unsupported precise Pauling numbers."
+  },
+  "retrievalMethod": "Direct web.open and find; surrounding specific element comparisons inspected",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

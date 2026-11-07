@@ -1,0 +1,86 @@
+{
+  "id": "2015-3-14",
+  "summary": "정답은 ⑤입니다. 바닥 상태 전자 배치는 Cr이 [Ar]3d⁵4s¹, Mn이 [Ar]3d⁵4s²입니다. Cr은 3d의 홀전자 5개와 4s의 홀전자 1개를 합해 6개이고, Mn은 4s 전자가 짝을 이루므로 홀전자가 5개입니다.",
+  "choices": [
+    "오답입니다. 전기음성도는 C보다 O가 큽니다. 두 원소는 같은 2주기에 있으며, O는 C보다 오른쪽에 있어 결합 전자를 더 강하게 끌어당깁니다.",
+    "오답입니다. Na⁺와 F⁻는 모두 전자 10개의 등전자 이온입니다. 핵의 양성자 수가 11개인 Na⁺가 9개인 F⁻보다 전자를 강하게 끌어당기므로 Na⁺의 반지름이 더 작습니다.",
+    "오답입니다. 제1차 이온화 에너지는 O보다 N이 큽니다. N의 2p³은 세 오비탈에 전자가 하나씩 있지만 O의 2p⁴에는 전자쌍이 있습니다. O에서 그 쌍의 전자 하나를 제거하면 전자 사이 반발이 줄어들어 전자를 떼는 데 필요한 에너지가 더 작습니다.",
+    "오답입니다. 최외각 전자가 느끼는 유효 핵전하는 Al보다 Cl이 큽니다. 같은 3주기에서 오른쪽으로 갈 때 증가한 핵전하를 같은 껍질 전자들의 가려막기가 완전히 상쇄하지 못합니다.",
+    "정답입니다. Cr의 [Ar]3d⁵4s¹에서는 3d 오비탈 다섯 개와 4s 오비탈 하나에 각각 홀전자가 있습니다. Mn의 [Ar]3d⁵4s²에서는 4s의 두 전자가 짝을 이루므로 홀전자 수는 Cr 6개, Mn 5개입니다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e 7.2 Covalent Bonding",
+      "quote": "electronegativity increases from left to right across a period",
+      "url": "https://openstax.org/books/chemistry-2e/pages/7-2-covalent-bonding",
+      "evidenceId": "34202e42077bda407559",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e 6.5 Periodic Variations",
+      "quote": "The first ionization energy for oxygen is slightly less than that for nitrogen",
+      "url": "https://openstax.org/books/chemistry-2e/pages/6-5-periodic-variations-in-element-properties",
+      "evidenceId": "fb0dc501aa0500d79c9f",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e 6.5 Periodic Variations",
+      "quote": "The first ionization energy for oxygen is slightly less than that for nitrogen",
+      "url": "https://openstax.org/books/chemistry-2e/pages/6-5-periodic-variations-in-element-properties",
+      "evidenceId": "fb0dc501aa0500d79c9f",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e 6.5 Periodic Variations",
+      "quote": "The first ionization energy for oxygen is slightly less than that for nitrogen",
+      "url": "https://openstax.org/books/chemistry-2e/pages/6-5-periodic-variations-in-element-properties",
+      "evidenceId": "fb0dc501aa0500d79c9f",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §6.4 Electronic Structure of Atoms (Electron Configurations)",
+      "quote": "an electron shifts from the 4s into the 3d orbital",
+      "url": "https://openstax.org/books/chemistry-2e/pages/6-4-electronic-structure-of-atoms-electron-configurations",
+      "evidenceId": "bd36bc30ea6a4f43d3e2",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §6.4 Electronic Structure of Atoms (Electron Configurations)",
+      "quote": "an electron shifts from the 4s into the 3d orbital",
+      "url": "https://openstax.org/books/chemistry-2e/pages/6-4-electronic-structure-of-atoms-electron-configurations",
+      "evidenceId": "bd36bc30ea6a4f43d3e2",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "Original table and five comparisons inspected; element-specific textbook passages matched. Electron totals and unpaired occupancy checked independently. Removed unsourced precise ionic radii and Slater-rule values; limited trend claims to compared atoms.",
+    "contentHash": "92b1ec5859d46defb9ce023bae91add5e363faf001075b3f751ca30604a1a384"
+  }
+}

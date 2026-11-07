@@ -1,0 +1,21 @@
+{
+  "id": "8ae9b104f81f87e73a0a",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e, 19.1 Population Evolution",
+  "url": "https://openstax.org/books/biology-2e/pages/19-1-population-evolution",
+  "excerpt": "conditions with no mutations, migration, emigration, or selective pressure for or against genotype",
+  "sourceHash": "115d519e6994c91f49f203114ecb78cafa57f5c03ed2b506c6c45a3ebaba7d6a",
+  "cacheSourceId": "cdba43ed6790a2f874d6",
+  "retrievedAt": "2026-11-07T04:05:01.098075+00:00",
+  "reviewedMappings": {
+    "2026-3-23:0": "Standard null model assumes infinite population, no mutation/gene flow/selection, random mating. Map original ㄱstrongselection=false,ㄴnomutation=true,ㄷrandommating=true,ㄹnogene flow=true,ㅁsmallpopulation=false. Only option4 selects all true conditions.",
+    "2026-3-23:1": "Standard null model assumes infinite population, no mutation/gene flow/selection, random mating. Map original ㄱstrongselection=false,ㄴnomutation=true,ㄷrandommating=true,ㄹnogene flow=true,ㅁsmallpopulation=false. Only option4 selects all true conditions.",
+    "2026-3-23:2": "Standard null model assumes infinite population, no mutation/gene flow/selection, random mating. Map original ㄱstrongselection=false,ㄴnomutation=true,ㄷrandommating=true,ㄹnogene flow=true,ㅁsmallpopulation=false. Only option4 selects all true conditions.",
+    "2026-3-23:3": "Standard null model assumes infinite population, no mutation/gene flow/selection, random mating. Map original ㄱstrongselection=false,ㄴnomutation=true,ㄷrandommating=true,ㄹnogene flow=true,ㅁsmallpopulation=false. Only option4 selects all true conditions.",
+    "2026-3-23:4": "Standard null model assumes infinite population, no mutation/gene flow/selection, random mating. Map original ㄱstrongselection=false,ㄴnomutation=true,ㄷrandommating=true,ㄹnogene flow=true,ㅁsmallpopulation=false. Only option4 selects all true conditions.",
+    "2026-3-23:5": "Standard null model assumes infinite population, no mutation/gene flow/selection, random mating. Map original ㄱstrongselection=false,ㄴnomutation=true,ㄷrandommating=true,ㄹnogene flow=true,ㅁsmallpopulation=false. Only option4 selects all true conditions."
+  },
+  "retrievalMethod": "Direct web open",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

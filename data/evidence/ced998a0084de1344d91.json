@@ -1,0 +1,19 @@
+{
+  "id": "ced998a0084de1344d91",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Anatomy and Physiology 2e 25.8",
+  "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/25-8-endocrine-regulation-of-kidney-function",
+  "excerpt": "It promotes Na⁺ reabsorption by the nephron, promoting the retention of water.",
+  "sourceHash": "ce13b748f0bfbfce64cf008bf78e9b412ab451508386797626a5334e661f82b1",
+  "cacheSourceId": "cc5c625dc09e423a595c",
+  "retrievedAt": "2026-11-07T05:17:02.293110+00:00",
+  "reviewedMappings": {
+    "2012-3-21:0": "ㄷ: 알도스테론은 Na 재흡수, ADH는 집합관 아쿠아포린을 통한 물 재흡수를 조절한다.",
+    "2012-3-21:1": "ㄷ의 재흡수 조절은 옳지만 ㄱ이 틀리다.",
+    "2012-3-21:3": "ㄴ과 함께 ㄷ을 지지하나 ㄹ을 배제하는 근거는 아니다.",
+    "2012-3-21:4": "ㄷ의 재흡수 조절은 옳다. ㄹ은 막수용체 원저를 별도로 검토한다."
+  },
+  "retrievalMethod": "Direct web open/find",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

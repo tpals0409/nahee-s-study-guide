@@ -1,0 +1,20 @@
+{
+  "id": "a878cfb9adb32af92703",
+  "kind": "science",
+  "source": "Journal of Systematic Palaeontology",
+  "ref": "Morphometric analysis of Eocene nummulitids in western and central Cuba: taxonomy, biostratigraphy and evolutionary trends",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6474738/",
+  "excerpt": "Late Paleocene to Oligocene.",
+  "sourceHash": "64ba1b0b3e314328f328427b350f8e5a7dc1560806b5bae85c50226b189015a3",
+  "cacheSourceId": "f455c40eacc973b1e479",
+  "retrievedAt": "2026-11-07T03:33:49.872526+00:00",
+  "reviewedMappings": {
+    "2025-3-35:0": "Systematic palaeontology의 Genus Nummulites 생존 범위가 후기 팔레오세~올리고세로 제시됨. 신생대 고제3기 화폐석을 1억~2억 년 사이 지층 D의 동시대 화석으로 대응할 수 없어 ㄷ 반박.",
+    "2025-3-35:2": "Systematic palaeontology의 Genus Nummulites 생존 범위가 후기 팔레오세~올리고세로 제시됨. 신생대 고제3기 화폐석을 1억~2억 년 사이 지층 D의 동시대 화석으로 대응할 수 없어 ㄷ 반박.",
+    "2025-3-35:3": "Systematic palaeontology의 Genus Nummulites 생존 범위가 후기 팔레오세~올리고세로 제시됨. 신생대 고제3기 화폐석을 1억~2억 년 사이 지층 D의 동시대 화석으로 대응할 수 없어 ㄷ 반박.",
+    "2025-3-35:4": "Systematic palaeontology의 Genus Nummulites 생존 범위가 후기 팔레오세~올리고세로 제시됨. 신생대 고제3기 화폐석을 1억~2억 년 사이 지층 D의 동시대 화석으로 대응할 수 없어 ㄷ 반박.",
+    "2025-3-35:5": "Systematic palaeontology의 Genus Nummulites 생존 범위가 후기 팔레오세~올리고세로 제시됨. 신생대 고제3기 화폐석을 1억~2억 년 사이 지층 D의 동시대 화석으로 대응할 수 없어 ㄷ 반박."
+  },
+  "retrievalMethod": "Search-indexed source text read; USGS direct pages returned 403",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

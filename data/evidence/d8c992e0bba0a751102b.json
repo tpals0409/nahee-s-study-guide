@@ -1,0 +1,14 @@
+{
+  "id": "d8c992e0bba0a751102b",
+  "kind": "science",
+  "source": "USGS",
+  "ref": "Understanding plate motions",
+  "url": "https://pubs.usgs.gov/gip/dynamic/understanding.html",
+  "excerpt": "The collision between the Indian and Eurasian plates has pushed up the Himalayas",
+  "sourceHash": "86eea9d0fbd53e27c8fe613160f20f6de4f7083211aeb4e38045dd6d590b6697",
+  "cacheSourceId": "38d657fd4e4aca2ce87e",
+  "retrievedAt": "2026-11-06T15:09:07.128063+00:00",
+  "reviewedMappings": {
+    "2009-3-33:0": "USGS열점FAQ에서 판내부하와이 확인. This Dynamic Earth의 divergent/MidAtlantic 및continentalcontinental/Himalaya 항목대조.ㄱㄴ거짓ㄷ참. 맨틀플룸기원단정·불필요지자기/연대설명삭제."
+  }
+}

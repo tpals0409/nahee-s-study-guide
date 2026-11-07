@@ -1,0 +1,16 @@
+{
+  "id": "5cde7a033eb3a2469db0",
+  "kind": "science",
+  "source": "NOAA NCEI",
+  "ref": "Tsunami Travel Time Maps",
+  "url": "https://www.ncei.noaa.gov/products/natural-hazards/tsunamis-earthquakes-volcanoes/tsunamis/travel-time-maps",
+  "excerpt": "Wave speed is computed from the square root of the quantity: water depth times the acceleration of gravity.",
+  "sourceHash": "b649173923c2f5e765d1029b10cce214cca0d7c497d0c4340cd6960ccee2a6b3",
+  "cacheSourceId": "581c52c61c3389ac14c4",
+  "retrievedAt": "2026-11-07T04:26:26.463595+00:00",
+  "reviewedMappings": {
+    "2026-3-38:3": "속력이 수심과 중력가속도 곱의 제곱근이며 파장 정보 없이 계산된다는 설명을 적용한다. 장파 근사로 범위를 명시한다."
+  },
+  "retrievalMethod": "Direct web open/find",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "9e46a8c5353f5de2b024",
+  "kind": "science",
+  "source": "NASA",
+  "ref": "NASA’s Juno Probes the Depths of Jupiter’s Great Red Spot",
+  "url": "https://science.nasa.gov/missions/juno/nasas-juno-probes-the-depths-of-jupiters-great-red-spot/",
+  "excerpt": "Jupiter's Great Red Spot is a giant oval of crimson-colored clouds in Jupiter's southern hemisphere",
+  "sourceHash": "f4f410939aa5032c4e96349d219c0aefa2f8ea397f22452f6e9abc1245927852",
+  "cacheSourceId": "281c0fecd586d727e374",
+  "retrievedAt": "2026-11-06T16:08:18.316107+00:00",
+  "reviewedMappings": {
+    "2010-3-38:0": "ㄴ의 남반구·붉은색·타원형 모두 본문 직접 확인."
+  },
+  "retrievalMethod": "web.open and web.find: NASA publisher body reviewed",
+  "sourceHashScope": "Selected excerpts only; not full page"
+}

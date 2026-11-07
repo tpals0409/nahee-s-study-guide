@@ -1,0 +1,21 @@
+{
+  "id": "a9f4c4b13f23f912571d",
+  "kind": "science",
+  "source": "OpenStax University Physics Volume 1",
+  "ref": "9.4 Types of Collisions",
+  "url": "https://openstax.org/books/university-physics-volume-1/pages/9-4-types-of-collisions",
+  "excerpt": "A closed system always conserves momentum",
+  "sourceHash": "ec69a3ed69952082ad71b3094784833da3948a08e383af5ea49ab9f87401b4d2",
+  "cacheSourceId": "bc809a1dba11085d01a1",
+  "retrievedAt": "2026-11-07T01:27:55.128352+00:00",
+  "reviewedMappings": {
+    "2023-3-01:0": "충돌 후 두 물체가 붙고 수평 외력이 없으므로 수평 운동량 보존. mu=4mv로 u=4v. 운동에너지 보존은 적용하지 않음.",
+    "2023-3-01:1": "충돌 후 두 물체가 붙고 수평 외력이 없으므로 수평 운동량 보존. mu=4mv로 u=4v. 운동에너지 보존은 적용하지 않음.",
+    "2023-3-01:2": "충돌 후 두 물체가 붙고 수평 외력이 없으므로 수평 운동량 보존. mu=4mv로 u=4v. 운동에너지 보존은 적용하지 않음.",
+    "2023-3-01:3": "충돌 후 두 물체가 붙고 수평 외력이 없으므로 수평 운동량 보존. mu=4mv로 u=4v. 운동에너지 보존은 적용하지 않음.",
+    "2023-3-01:4": "충돌 후 두 물체가 붙고 수평 외력이 없으므로 수평 운동량 보존. mu=4mv로 u=4v. 운동에너지 보존은 적용하지 않음.",
+    "2023-3-01:5": "충돌 후 두 물체가 붙고 수평 외력이 없으므로 수평 운동량 보존. mu=4mv로 u=4v. 운동에너지 보존은 적용하지 않음."
+  },
+  "retrievalMethod": "Direct chapter open, Inelastic and Collisions strategy sections.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

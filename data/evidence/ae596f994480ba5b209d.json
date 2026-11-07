@@ -1,0 +1,20 @@
+{
+  "id": "ae596f994480ba5b209d",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 2e §7.6 Molecular Structure and Polarity",
+  "url": "https://openstax.org/books/chemistry-2e/pages/7-6-molecular-structure-and-polarity",
+  "excerpt": "Molecular structure describes the location of the atoms, not the electrons.",
+  "sourceHash": "c52b1a3c36b715c97c51f801d7678a58e246766094445969c7e1773225b1c344",
+  "cacheSourceId": "902bbd792585a31f5a35",
+  "retrievedAt": "2026-11-06T21:09:13.842367+00:00",
+  "reviewedMappings": {
+    "2017-3-16:0": "Figure 7.19의 전자영역/비공유쌍별 구조에 독립 Lewis 전자계수를 적용하여 네 구조를 비교.",
+    "2017-3-16:1": "§7.6 Figure 7.20은 ClF3의 두 비공유쌍이 적도에 위치하고 T자형임을 직접 설명.",
+    "2017-3-16:2": "Figure 7.19의 5영역/1비공유쌍은 시소형. SF4의 34전자에서 결합8 및 말단24를 빼면 중심2전자.",
+    "2017-3-16:3": "Figure 7.19의 5영역/0비공유쌍은 삼각쌍뿔. PBr5 분자 Lewis 모형에서 40−10−30=0.",
+    "2017-3-16:4": "Figure 7.19의 4영역/2비공유쌍은 굽은형. I3+ 전체20전자에서 결합4와 말단12를 빼면 중심4전자."
+  },
+  "retrievalMethod": "Direct browser review of textbook section and figure descriptions",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "22665856a55e7f904c7a",
+  "kind": "science",
+  "source": "NASA",
+  "ref": "Venus Facts: Moons",
+  "url": "https://science.nasa.gov/venus/venus-facts/",
+  "excerpt": "Venus is one of only two planets in our solar system that doesn't have a moon",
+  "sourceHash": "d4403cddca45842b5272ca29c6fc2a344082d96b37d6eac0d674530870bf2bfd",
+  "cacheSourceId": "119b902e8f711cb96441",
+  "retrievedAt": "2026-11-06T23:42:33.705028+00:00",
+  "reviewedMappings": {
+    "2020-3-38:0": "금성에는 자연 위성이 없어②가 틀림.",
+    "2020-3-38:2": "금성 자연 위성 부재와 태양공전 준위성의 구분."
+  },
+  "retrievalMethod": "Direct web open/find; reviewed Moons section lines 301–303: no moon, quasi-satellites orbit Sun. Omitted post-exam naming detail and speculative history.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

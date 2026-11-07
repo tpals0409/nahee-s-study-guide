@@ -1,0 +1,16 @@
+{
+  "id": "01d58ddb016f9d4f208d",
+  "kind": "science",
+  "source": "BCcampus",
+  "ref": "Overview of Igneous Rocks",
+  "url": "https://pressbooks.bccampus.ca/geolmanualed2/chapter/overview-of-igneous-rocks/",
+  "excerpt": "Felsic igneous rocks with a large amount of non-ferromagnesian minerals will be light in colour.",
+  "sourceHash": "cea2c0b69dc8ccc715eeb273d2a37bbc1c6fefca2e4902b8d77c5009355e2db8",
+  "cacheSourceId": "8de3d018f8bbcdaaa17d",
+  "retrievedAt": "2026-11-07T02:46:46.598945+00:00",
+  "reviewedMappings": {
+    "2024-3-32:4": "Indexed textbook colour classification reviewed; combined with low-temperature felsic end of Bowen series."
+  },
+  "retrievalMethod": "Indexed textbook colour classification reviewed; combined with low-temperature felsic end of Bowen series.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

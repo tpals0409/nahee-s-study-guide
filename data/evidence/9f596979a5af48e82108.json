@@ -1,0 +1,17 @@
+{
+  "id": "9f596979a5af48e82108",
+  "kind": "science",
+  "source": "NIST Chemistry WebBook, SRD 69",
+  "ref": "Cyclohexane, methylene-",
+  "url": "https://webbook.nist.gov/cgi/cbook.cgi?ID=C1192376&Mask=2",
+  "excerpt": "InChI=1S/C7H12/c1-7-5-3-2-4-6-7/h1-6H2",
+  "sourceHash": "5e73472a77d5e750289895687bfdf66830ea1fb3b0244d29f4ab478cc28b565c",
+  "cacheSourceId": "4595606138a3e727b72f",
+  "retrievedAt": "2026-11-07T03:14:57.795450+00:00",
+  "reviewedMappings": {
+    "2025-3-18:0": "물질명 동의어 Methylenecyclohexane 및 분자식 C7H12, InChI 직접 대조.",
+    "2025-3-18:1": "NIST 분자식 및 InChI의 수소6개 탄소에 각2H로 총12 확인. 고리 이중결합 탄소에는 H가 없음."
+  },
+  "retrievalMethod": "Direct web open: unsaturation rule and examples; NIST identity, formula and InChI.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "02ee3f3e90a61d7834fa",
+  "kind": "science",
+  "source": "Sheffield Hallam University",
+  "ref": "NMR Spectroscopy — Theoretical principles",
+  "url": "https://teaching.shu.ac.uk/hwb/chemistry/tutorials/molspec/nmr1.htm",
+  "excerpt": "This occurs because there is a small interaction (coupling) between the two groups of protons.",
+  "sourceHash": "1649d9a486dcdbd2dc7e3898abd248fdc381c5f7680a83235dde93a0a78d5e55",
+  "cacheSourceId": "f960355e481260fa0f5c",
+  "retrievedAt": "2026-11-06T23:12:14.293359+00:00",
+  "reviewedMappings": {
+    "2020-3-13:0": "C2H6O and integration2:1:3 imply ethanol; assign CH2=A, OH=B, CH3=C. Source explains exact ethanol quartet/triplet pair.",
+    "2020-3-13:1": "Omitted ㄷ true: ethanol CH2/CH3 signals mutually coupled.",
+    "2020-3-13:2": "Omitted ㄷ true from A quartet and C triplet consistent with adjacent CH2/CH3.",
+    "2020-3-13:3": "Included ㄷ true; structure assignment ethanol supports reaction analysis.",
+    "2020-3-13:4": "Included ㄷ true: A/C mutually coupled.",
+    "2020-3-13:5": "ㄷ true; source supports exact ethanol coupling pattern."
+  },
+  "retrievalMethod": "Direct web retrieval, reviewed ethanol spin–spin coupling lines90–110; original question spectrum visually checked for A quartet, C triplet and stated integration2:1:3.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

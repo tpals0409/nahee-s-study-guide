@@ -1,0 +1,17 @@
+{
+  "id": "97705f211b0275a8e485",
+  "kind": "science",
+  "source": "OpenStax Biology 2e",
+  "ref": "15.5 Ribosomes and Protein Synthesis",
+  "url": "https://openstax.org/books/biology-2e/pages/15-5-ribosomes-and-protein-synthesis",
+  "excerpt": "Proteins are co-translationally targeted into the ER for secretion.",
+  "sourceHash": "37b8c66b94ed5cceaa44bb0b4ab4d0c09e9d0616fbb6a62e561a77e75ee76951",
+  "cacheSourceId": "7b2b74e8f4a61536c36e",
+  "retrievedAt": "2026-11-07T03:17:48.816069+00:00",
+  "reviewedMappings": {
+    "2025-3-21:1": "SRP가 신호서열을 인식하고 리보솜을 ER translocation channel로 보내 내강으로 합성되는 설명 대조.",
+    "2025-3-21:5": "Figure15.20의 세포질 번역 시작→신호서열 인식→ER 이동을 확인. 자유리보솜 합성 단백질은 절대 ER로 못 들어간다는 초안의 과도한 일반화 수정."
+  },
+  "retrievalMethod": "Direct web open: RER/SER, Golgi, secretory vesicles and lysosome paragraphs; Figure 15.20 and SRP targeting paragraph.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

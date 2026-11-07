@@ -1,0 +1,20 @@
+{
+  "id": "3b7d291fdcbe2f0169dd",
+  "kind": "science",
+  "source": "Grassl and Korber, Acta Crystallographica E (2014)",
+  "ref": "Tetraammineplatinum(II) dichloride ammonia tetrasolvate",
+  "url": "https://journals.iucr.org/e/issues/2014/07/00/pk2522/index.html",
+  "excerpt": "forming a square-planar complex.",
+  "sourceHash": "c426d7540df18580fd95ee8cb090a42751808e0906baf958e468fca750875b68",
+  "cacheSourceId": "1d937a30251df18e98f3",
+  "retrievedAt": "2026-11-06T19:36:28.641862+00:00",
+  "reviewedMappings": {
+    "2015-3-19:0": "Primary crystallography identifies the [Pt(NH3)4]2+ coordination geometry as square planar. Solvent ammonia and lattice packing are not assigned to the aqueous exam product; statement ㄴ is false.",
+    "2015-3-19:1": "Primary crystallography identifies the [Pt(NH3)4]2+ coordination geometry as square planar. Solvent ammonia and lattice packing are not assigned to the aqueous exam product; statement ㄴ is false.",
+    "2015-3-19:2": "Primary crystallography identifies the [Pt(NH3)4]2+ coordination geometry as square planar. Solvent ammonia and lattice packing are not assigned to the aqueous exam product; statement ㄴ is false.",
+    "2015-3-19:4": "Primary crystallography identifies the [Pt(NH3)4]2+ coordination geometry as square planar. Solvent ammonia and lattice packing are not assigned to the aqueous exam product; statement ㄴ is false.",
+    "2015-3-19:5": "Primary crystallography identifies the [Pt(NH3)4]2+ coordination geometry as square planar. Solvent ammonia and lattice packing are not assigned to the aqueous exam product; statement ㄴ is false."
+  },
+  "retrievalMethod": "Direct web page opened and relevant text read; short excerpt transcribed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

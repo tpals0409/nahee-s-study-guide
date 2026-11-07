@@ -1,0 +1,16 @@
+{
+  "id": "fb7c10032a46617aa4fd",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume 2 §6.2 Explaining Gauss’s Law",
+  "url": "https://openstax.org/books/university-physics-volume-2/pages/6-2-explaining-gausss-law",
+  "excerpt": "From Gauss’s law, the flux through each surface is given by",
+  "sourceHash": "9c84b94449a6750fcd39f90d03df21c1fa41abb332cc1c24a198437f7dfd3676",
+  "cacheSourceId": "2a32da8486e80bcdb4ac",
+  "retrievedAt": "2026-11-06T16:19:50.283575+00:00",
+  "reviewedMappings": {
+    "2011-3-04:0": "§6.2式6.5は閉曲面の全電束Qenc/ε0。原図でL/2の垂直距離と辺Lを確認。対象面を底面とする辺Lの立方体を構成すると電荷は中心。中心点電荷を固定した立方体の回転で6面が対応し各面積分は等しいため6Φ=Q/ε0。各選択肢をこの独立導出で比較。面上の電場一定は仮定していない。"
+  },
+  "retrievalMethod": "web.run; reviewed equation 6.5 and Example 6.5",
+  "sourceHashScope": "Selected excerpt only; not full page"
+}

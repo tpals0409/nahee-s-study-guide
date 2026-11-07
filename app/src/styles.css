@@ -269,6 +269,7 @@ input.field, textarea.field { width: 100%; min-height: 48px; padding: var(--sp-m
 .basis { margin-top: var(--sp-sm); font-size: 14px; line-height: 21px; color: var(--muted); }
 .basis summary { cursor: pointer; }
 .basis blockquote { margin: var(--sp-sm) 0 0; padding-left: var(--sp-md); border-left: 2px solid var(--primary); color: var(--text); }
+.basis-source { display: inline-flex; align-items: center; min-height: 44px; color: #216394; text-decoration: underline; text-underline-offset: 3px; }
 .say { padding: var(--sp-md) var(--sp-lg); border-radius: var(--r-lg); white-space: pre-wrap; }
 .say.me { background: var(--primarySoft); margin-left: var(--sp-xl); }
 .openexplain { display: flex; }

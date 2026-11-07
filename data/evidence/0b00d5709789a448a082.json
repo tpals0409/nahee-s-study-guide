@@ -1,0 +1,21 @@
+{
+  "id": "0b00d5709789a448a082",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume 2 §15.5 — Resonance, Eqs. 15.15–15.17",
+  "url": "https://openstax.org/books/university-physics-volume-2/pages/15-5-resonance-in-an-ac-circuit",
+  "excerpt": "Therefore, at resonance, an RLC circuit is purely resistive, with the applied emf and current in phase.",
+  "sourceHash": "748b064ef32dd43cb2e6f113e3d870919be117f8bee3d5eec81d5146986a26b2",
+  "cacheSourceId": "cbc26490908c046dfc0b",
+  "retrievedAt": "2026-11-06T21:44:56.796811+00:00",
+  "reviewedMappings": {
+    "2018-3-10:0": "식15.15의 ωL−1/(ωC), 공진식ω₀L=1/(ω₀C), Z=R 검토.2ω₀에서 X_C=X_L/4;4=1+(3X_L/(4R))²를 풀면4/√3.",
+    "2018-3-10:1": "해당 절 임피던스·공진식을 원문2f₀에 적용. 후보 X_L/R=0.750000000이면 Z/R=1.147347484;2와 비교하여⑤만 일치. X_C=X_L/4로 독립 대입 검산.",
+    "2018-3-10:2": "해당 절 임피던스·공진식을 원문2f₀에 적용. 후보 X_L/R=1.333333333이면 Z/R=1.414213562;2와 비교하여⑤만 일치. X_C=X_L/4로 독립 대입 검산.",
+    "2018-3-10:3": "해당 절 임피던스·공진식을 원문2f₀에 적용. 후보 X_L/R=1.500000000이면 Z/R=1.505199322;2와 비교하여⑤만 일치. X_C=X_L/4로 독립 대입 검산.",
+    "2018-3-10:4": "해당 절 임피던스·공진식을 원문2f₀에 적용. 후보 X_L/R=2.121320344이면 Z/R=1.879162047;2와 비교하여⑤만 일치. X_C=X_L/4로 독립 대입 검산.",
+    "2018-3-10:5": "해당 절 임피던스·공진식을 원문2f₀에 적용. 후보 X_L/R=2.309401077이면 Z/R=2.000000000;2와 비교하여⑤만 일치. X_C=X_L/4로 독립 대입 검산."
+  },
+  "retrievalMethod": "Direct source reviewed: impedance expression, resonance condition and Z=R; cross-checked §15.3 phasor formula",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "251003c6eaa69e92b768",
+  "kind": "science",
+  "source": "Australian Museum",
+  "ref": "Looking inside the Earth",
+  "url": "https://australian.museum/learn/minerals/shaping-earth/looking-inside-the-earth/",
+  "excerpt": "where S-wave speeds decrease rapidly to a minimum and then gradually increase again.",
+  "sourceHash": "0974339b4827d4871dfa416a549003053015be9907fbeb71422c4a113c29bf54",
+  "cacheSourceId": "7d89f094c231dc476d0f",
+  "retrievedAt": "2026-11-06T19:55:34.615302+00:00",
+  "reviewedMappings": {
+    "2015-3-34:0": "본문 92행은 상부맨틀 저속도층에서 S파 속도가 낮아지는 구간을 명시하여 ④를 지지한다. 깊이를 전 지구적으로 고정하거나 모든 연약권을 액체층으로 설명하지 않는다.",
+    "2015-3-34:4": "본문 92행은 상부맨틀 저속도층에서 S파 속도가 낮아지는 구간을 명시하여 ④를 지지한다. 깊이를 전 지구적으로 고정하거나 모든 연약권을 액체층으로 설명하지 않는다."
+  },
+  "retrievalMethod": "Direct web open; mantle section reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

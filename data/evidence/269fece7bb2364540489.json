@@ -1,0 +1,17 @@
+{
+  "id": "269fece7bb2364540489",
+  "kind": "science",
+  "source": "RNA journal (2005)",
+  "ref": "Sequence characteristics of functional siRNAs",
+  "url": "https://rnajournal.cshlp.org/content/11/6/864.full",
+  "excerpt": "When loaded with a single-strand siRNA, RISC binds to a complementary sequence on the mRNA",
+  "sourceHash": "faa35649f7e15014b5efbbd4594c7a9d2e605cdf7e0b5316e52736f71383a532",
+  "cacheSourceId": "47d2b864963b60a77e27",
+  "retrievedAt": "2026-11-06T18:56:06.432459+00:00",
+  "reviewedMappings": {
+    "2014-3-25:2": "가이드 한 가닥을 사용하는 작용 단계와 투입/전형적 siRNA duplex를 구분. 모든 기능성 siRNA가 항상 이중가닥 상태라는 표현을 피함.",
+    "2014-3-25:5": "가이드 한 가닥을 사용하는 작용 단계와 투입/전형적 siRNA duplex를 구분. 모든 기능성 siRNA가 항상 이중가닥 상태라는 표현을 피함."
+  },
+  "retrievalMethod": "web.search_query indexed article excerpt; direct open returned 403",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

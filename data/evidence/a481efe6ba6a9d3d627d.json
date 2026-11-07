@@ -1,0 +1,21 @@
+{
+  "id": "a481efe6ba6a9d3d627d",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "6.4 Bohr’s Model of the Hydrogen Atom",
+  "url": "https://openstax.org/books/university-physics-volume-3/pages/6-4-bohrs-model-of-the-hydrogen-atom",
+  "excerpt": "the emitted photon carries away the difference of energies between the states involved in the transition.",
+  "sourceHash": "78aedaba24aacf72a81f5367dde87903d9fd68d6d84ce017d316ffff6bd2c34d",
+  "cacheSourceId": "2c2aa62a2c70b0c2ed9e",
+  "retrievedAt": "2026-11-06T22:27:30.264255+00:00",
+  "reviewedMappings": {
+    "2019-3-10:0": "Reviewed standing-wave quantization and photon energy relation, applied to original diagram n=3 to 2: energy coefficient 1/4-1/9=5/36.",
+    "2019-3-10:1": "Option 1 coefficient corresponds to 3→2, verified as 1/4-1/9. Original diagram requires 3→2; matches.",
+    "2019-3-10:2": "Option 2 coefficient corresponds to 4→2, verified as 1/4-1/16. Original diagram requires 3→2; does not match.",
+    "2019-3-10:3": "Option 3 coefficient corresponds to 2→1, verified as 1/1-1/4. Original diagram requires 3→2; does not match.",
+    "2019-3-10:4": "Option 4 coefficient corresponds to 3→1, verified as 1/1-1/9. Original diagram requires 3→2; does not match.",
+    "2019-3-10:5": "Option 5 coefficient corresponds to 4→1, verified as 1/1-1/16. Original diagram requires 3→2; does not match."
+  },
+  "retrievalMethod": "Direct open/find lines 110–115 and 167–194: energy levels and emitted photon energy equations 6.45 and 6.48. Independently computed all five fractions.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

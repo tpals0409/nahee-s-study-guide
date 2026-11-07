@@ -1,0 +1,19 @@
+{
+  "id": "8011b159bb3c7e7ec6d5",
+  "kind": "science",
+  "source": "NASA",
+  "ref": "Earth’s Atmosphere: A Multi-layered Cake",
+  "url": "https://science.nasa.gov/earth/earth-atmosphere/earths-atmosphere-a-multi-layered-cake/",
+  "excerpt": "height lower at Earth’s poles and higher at the equator.",
+  "sourceHash": "a521b9e1fb80e911c6e97bdc973d239421c7e2b9ad5cfd9de9875ae9bfc056c4",
+  "cacheSourceId": "101be0a579661e21a10c",
+  "retrievedAt": "2026-11-06T19:58:58.807296+00:00",
+  "reviewedMappings": {
+    "2015-3-37:0": "NASA 253행은 대류권의 상단 높이가 극에서 낮고 적도에서 높음을 설명한다. 원문 (나) 화살표 끝은 약 15km의 대류권 상단 경계에 위치한다. 따라서 대류권계면의 높이에 관한 ㄷ은 참이다.",
+    "2015-3-37:2": "NASA 253행은 대류권의 상단 높이가 극에서 낮고 적도에서 높음을 설명한다. 원문 (나) 화살표 끝은 약 15km의 대류권 상단 경계에 위치한다. 따라서 대류권계면의 높이에 관한 ㄷ은 참이다.",
+    "2015-3-37:3": "NASA 253행은 대류권의 상단 높이가 극에서 낮고 적도에서 높음을 설명한다. 원문 (나) 화살표 끝은 약 15km의 대류권 상단 경계에 위치한다. 따라서 대류권계면의 높이에 관한 ㄷ은 참이다.",
+    "2015-3-37:5": "NASA 253행은 대류권의 상단 높이가 극에서 낮고 적도에서 높음을 설명한다. 원문 (나) 화살표 끝은 약 15km의 대류권 상단 경계에 위치한다. 따라서 대류권계면의 높이에 관한 ㄷ은 참이다."
+  },
+  "retrievalMethod": "Direct web open; relevant paragraphs reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

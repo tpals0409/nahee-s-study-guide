@@ -1,0 +1,85 @@
+{
+  "id": "2020-3-16",
+  "summary": "은의 평균 두께 40 μm=0.004 cm이므로 도금층 부피는 54×0.004=0.216 cm³, 질량은 2.16 g입니다. 이는 은 0.0200 mol이며, Ag(I)가 Ag(0)으로 환원될 때 은 1몰당 전자 1몰이 필요합니다. 필요한 전하량 1930 C를 전류 9.65 A로 나누면 200초이므로 정답은 ②입니다.",
+  "choices": [
+    "100초는 오답입니다. Q=It=965 C로 은 0.0100 mol이 석출됩니다. 이때 평균 두께는 20 μm로 요구된 40 μm의 절반입니다.",
+    "200초가 정답입니다. 부피 54 cm² × 4.0×10⁻³ cm = 0.216 cm³, 질량 0.216 cm³ × 10 g/cm³ = 2.16 g, 몰수 2.16/108 = 0.0200 mol입니다. 전하량은 0.0200 mol × 96500 C/mol = 1930 C이고, 시간은 1930 C ÷ 9.65 A = 200 s입니다.",
+    "300초는 오답입니다. 이 시간이면 전하량이 9.65 × 300 = 2895 C가 되어 은 0.03 mol, 즉 3.24 g이 석출됩니다. 실제 필요한 2.16 g보다 많아 평균 두께가 60 µm가 됩니다.",
+    "400초는 오답입니다. 전하량은 3860 C, 은의 양은 0.0400 mol이므로 평균 두께가 80 μm로 요구된 값의 두 배입니다.",
+    "500초는 오답입니다. 전하량이 4825 C이므로 은 0.05 mol(5.4 g)이 석출되고, 두께는 100 µm가 되어 조건과 맞지 않습니다."
+  ],
+  "lawNote": "전류 효율을 100%로 두고, 얇은 도금층의 부피를 표면적×평균 두께로 계산합니다. 평균 두께가 주어졌으므로 모든 지점의 두께가 같을 필요는 없습니다. 실제 착물의 형태와 무관하게 이 문제의 Ag(I)→Ag(0) 환원에는 은 1개당 전자 1개가 필요합니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §17.7 Electrolysis",
+      "quote": "The net result is the transfer of silver metal from the anode to the cathode.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/17-7-electrolysis",
+      "evidenceId": "12a323e7a867680b42b8",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §17.7 Electrolysis",
+      "quote": "The net result is the transfer of silver metal from the anode to the cathode.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/17-7-electrolysis",
+      "evidenceId": "12a323e7a867680b42b8",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §17.7 Electrolysis",
+      "quote": "The net result is the transfer of silver metal from the anode to the cathode.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/17-7-electrolysis",
+      "evidenceId": "12a323e7a867680b42b8",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §17.7 Electrolysis",
+      "quote": "The net result is the transfer of silver metal from the anode to the cathode.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/17-7-electrolysis",
+      "evidenceId": "12a323e7a867680b42b8",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §17.7 Electrolysis",
+      "quote": "The net result is the transfer of silver metal from the anode to the cathode.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/17-7-electrolysis",
+      "evidenceId": "12a323e7a867680b42b8",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §17.7 Electrolysis",
+      "quote": "The net result is the transfer of silver metal from the anode to the cathode.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/17-7-electrolysis",
+      "evidenceId": "12a323e7a867680b42b8",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Independent exact rational thickness-volume-mass-electron-charge calculation and all-option reverse thickness checks; source Ag(I) stoichiometry mapped without assuming cyanide speciation; current efficiency explicit and unnecessary uniform-thickness requirement removed.",
+    "contentHash": "c0ecb1662e8ab138786fe0796ac03da7b701bed6fef82c03fcdebc233ca8fffe"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "72b17d3d78279f19e31a",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e, 13.1 Chromosomal Theory and Genetic Linkage",
+  "url": "https://openstax.org/books/biology-2e/pages/13-1-chromosomal-theory-and-genetic-linkage",
+  "excerpt": "During meiosis, homologous chromosome pairs migrate as discrete structures that are independent of other chromosome pairs.",
+  "sourceHash": "3b41a5b39a5d026597ddee63d63ec6af190ad6dd4e433d7b3bb2a7809ce8362d",
+  "cacheSourceId": "583e604364178d80d2f2",
+  "retrievedAt": "2026-11-07T00:16:04.962418+00:00",
+  "reviewedMappings": {
+    "2021-3-26:0": "교차없음에서 연관 블록 Ad/aD와 다른 염색체 B/b를 독립분리. 네 배우자 ABd,Abd,aBD,abD 각1/4. 전체16 수정 조합 중4가 AaBbDd로1/4.",
+    "2021-3-26:1": "AaDd만은1/2이나 Bb도 요구되므로 추가1/2 곱해1/4. 1/2는 전체유전자형 확률 아님.",
+    "2021-3-26:2": "Ad/aD 자가교배의 이형 블록1/2와 Bb1/2 독립사건의 곱1/4. 16배우자쌍 열거로 재확인.",
+    "2021-3-26:3": "A,D는 완전연관이므로 세 이형접합 사건을 독립으로 곱한1/8은 부적합.",
+    "2021-3-26:4": "16개의 등확률 배우자쌍 중4개이므로1/4. 제시되지 않은 표현형 조건으로 조건부확률을 계산하지 않음.",
+    "2021-3-26:5": "16개 중1개가 아닌4개 조합이 목표유전자형. 상인/상반 연관을 바꾸면1/16이 된다는 초안 주장은 잘못이므로 삭제."
+  },
+  "retrievalMethod": "Direct lines39-43,52-63 reviewed: independent chromosome assortment and no-crossing-over linked inheritance; all 16 ordered gamete pairs independently enumerated.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

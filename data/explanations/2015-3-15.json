@@ -1,0 +1,86 @@
+{
+  "id": "2015-3-15",
+  "summary": "정답은 ④ 480mmHg입니다. 그래프에서 순수 톨루엔의 증기 압력은 300mmHg이고, 벤젠 몰분율 0.6에서 전체 증기 압력은 600mmHg입니다. 톨루엔의 몰분율은 0.4이므로 라울 법칙에 따라 그 부분 압력은 0.4×300=120mmHg입니다. 따라서 벤젠의 부분 압력은 600−120=480mmHg입니다.",
+  "choices": [
+    "오답입니다. 180mmHg에 톨루엔의 부분 압력 120mmHg를 더하면 전체가 300mmHg로, 그래프의 600mmHg와 다릅니다.",
+    "오답입니다. 300mmHg는 벤젠 몰분율이 0일 때 순수 톨루엔의 증기 압력입니다. 문제에서 묻는 조성의 벤젠 부분 압력은 480mmHg입니다.",
+    "오답입니다. 600×0.6=360으로 계산할 수 없습니다. 주어진 0.6은 액상 벤젠의 몰분율이며, 라울 법칙에서는 전체 압력이 아니라 순수 벤젠의 증기 압력에 곱해야 합니다.",
+    "정답입니다. P톨루엔=(1−0.6)×300=120mmHg이고, 전체 압력은 두 성분의 부분 압력의 합이므로 P벤젠=600−120=480mmHg입니다.",
+    "오답입니다. 540mmHg에 톨루엔 부분 압력 120mmHg를 더하면 660mmHg가 되어 그래프의 전체 압력 600mmHg와 맞지 않습니다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §11.4 Colligative Properties",
+      "quote": "the total pressure of a gaseous mixture is equal to the sum of partial pressures for all its components",
+      "url": "https://openstax.org/books/chemistry-2e/pages/11-4-colligative-properties",
+      "evidenceId": "08252aecf5bf89dd7968",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §11.4 Colligative Properties",
+      "quote": "the total pressure of a gaseous mixture is equal to the sum of partial pressures for all its components",
+      "url": "https://openstax.org/books/chemistry-2e/pages/11-4-colligative-properties",
+      "evidenceId": "08252aecf5bf89dd7968",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §11.4 Colligative Properties",
+      "quote": "the total pressure of a gaseous mixture is equal to the sum of partial pressures for all its components",
+      "url": "https://openstax.org/books/chemistry-2e/pages/11-4-colligative-properties",
+      "evidenceId": "08252aecf5bf89dd7968",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §11.4 Colligative Properties",
+      "quote": "the total pressure of a gaseous mixture is equal to the sum of partial pressures for all its components",
+      "url": "https://openstax.org/books/chemistry-2e/pages/11-4-colligative-properties",
+      "evidenceId": "08252aecf5bf89dd7968",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §11.4 Colligative Properties",
+      "quote": "the total pressure of a gaseous mixture is equal to the sum of partial pressures for all its components",
+      "url": "https://openstax.org/books/chemistry-2e/pages/11-4-colligative-properties",
+      "evidenceId": "08252aecf5bf89dd7968",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §11.4 Colligative Properties",
+      "quote": "the total pressure of a gaseous mixture is equal to the sum of partial pressures for all its components",
+      "url": "https://openstax.org/books/chemistry-2e/pages/11-4-colligative-properties",
+      "evidenceId": "08252aecf5bf89dd7968",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "Original graph labels and liquid composition inspected; exact fractional pressure balance and reconstructed linear total-pressure relation checked. Removed claim that unlabeled endpoint800 was directly read and invented distractor mechanism for540.",
+    "contentHash": "e7572322fdde804910e0e5ed86f9a6fbd4860b5f6d991513451b23ec24f929ab"
+  }
+}

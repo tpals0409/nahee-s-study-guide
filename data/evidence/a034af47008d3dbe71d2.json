@@ -1,0 +1,16 @@
+{
+  "id": "a034af47008d3dbe71d2",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e §46.3 Biogeochemical Cycles",
+  "url": "https://openstax.org/books/biology-2e/pages/46-3-biogeochemical-cycles",
+  "excerpt": "However, the matter that makes up living organisms is conserved and recycled.",
+  "sourceHash": "ed9811733ce384445ad9145b9910536ae95c94503bfc5387018fe94913aaf5b7",
+  "cacheSourceId": "22760f022287201aa326",
+  "retrievedAt": "2026-11-06T21:22:26.969075+00:00",
+  "reviewedMappings": {
+    "2017-3-26:1": "서두의 물질 재순환 및 생물·비생물 환경 간 순환 설명을 선지 ①에 대응."
+  },
+  "retrievalMethod": "Direct web page reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

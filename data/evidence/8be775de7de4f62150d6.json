@@ -1,0 +1,16 @@
+{
+  "id": "8be775de7de4f62150d6",
+  "kind": "science",
+  "source": "Hong Kong Observatory",
+  "ref": "What is upper-air disturbance?",
+  "url": "https://www.weather.gov.hk/en/education/weather/meteorology-basics/00478-what-is-upperair-disturbance.html",
+  "excerpt": "westerly winds generally prevail in the atmosphere over the mid-latitudes region",
+  "sourceHash": "16f69a3d9574e2bb3147d53d0c471f91f29479c58afd4a7773a85fbdf6142b23",
+  "cacheSourceId": "51f8240a4b8015107231",
+  "retrievedAt": "2026-11-06T18:24:39.838239+00:00",
+  "reviewedMappings": {
+    "2013-3-36:5": "중위도 상층의 평균적 서→동 흐름 및 전향력 설명. 국지적 굽이침 가능하므로 항상 같은 방향이라는 단정 배제."
+  },
+  "retrievalMethod": "web.open: official educational page",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "7ff27384e73c3161e635",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume 2 §10.5 RC Circuits",
+  "url": "https://openstax.org/books/university-physics-volume-2/pages/10-5-rc-circuits",
+  "excerpt": "As time approaches infinity, the current approaches zero.",
+  "sourceHash": "03a8187cea98768f46606a43341a0f05e92b83da0ec0d86cf36e5573a2560ed9",
+  "cacheSourceId": "b51f6ac9031d6c70bac9",
+  "retrievedAt": "2026-11-07T03:43:54.142171+00:00",
+  "reviewedMappings": {
+    "2020-3-04:0": "초기 C 전압 0·L 전류 0에서 Ii=15/(2+3)=3 A, 정상 C 전류 0·L 전압 0에서 If=(15-3)/(2+4)=2 A; 비 2/3.",
+    "2020-3-04:2": "두 극한 등가회로와 KVL로 Ii=3, If=2; 비 2/3.",
+    "2020-3-04:3": "Ii=3 A이나 If=2 A로 서로 다름.",
+    "2020-3-04:4": "If/Ii=2/3이며 3/2는 역비.",
+    "2020-3-04:5": "Ii=3 A≠0이고 If=2 A로 비는 유한.",
+    "2026-3-04:0": "The ideal capacitor branch carries no current in the fully charged DC steady state; C=q/V gives Q=C times the actual node-potential difference, not automatically the source voltage.",
+    "2026-3-04:1": "The ideal capacitor branch carries no current in the fully charged DC steady state; C=q/V gives Q=C times the actual node-potential difference, not automatically the source voltage.",
+    "2026-3-04:2": "The ideal capacitor branch carries no current in the fully charged DC steady state; C=q/V gives Q=C times the actual node-potential difference, not automatically the source voltage.",
+    "2026-3-04:3": "The ideal capacitor branch carries no current in the fully charged DC steady state; C=q/V gives Q=C times the actual node-potential difference, not automatically the source voltage.",
+    "2026-3-04:4": "The ideal capacitor branch carries no current in the fully charged DC steady state; C=q/V gives Q=C times the actual node-potential difference, not automatically the source voltage.",
+    "2026-3-04:5": "The ideal capacitor branch carries no current in the fully charged DC steady state; C=q/V gives Q=C times the actual node-potential difference, not automatically the source voltage."
+  },
+  "retrievalMethod": "Direct web open",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

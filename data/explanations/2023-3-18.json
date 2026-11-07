@@ -1,1 +1,86 @@
-{"summary": "옳지 않은 것을 찾는 문제예요. 결합 차수는 B₂ 1, C₂ 2, N₂ 3, O₂ 2, F₂ 1이에요. 홀전자가 있는 분자는 B₂와 O₂ 둘뿐이에요. 그래서 상자기성 분자가 3개라는 설명이 틀렸고, 이것이 정답입니다.", "choices": ["옳은 설명이라 정답이 아니에요. 결합 차수를 더하면 1+2+3+2+1=9예요. 표로 외워 두면 금방 확인돼요.", "옳지 않은 설명이라 이 문제의 정답이에요. 상자기성 분자는 π_2p에 홀전자 2개가 있는 B₂와 π*_2p에 홀전자 2개가 있는 O₂, 이렇게 2개예요. C₂, N₂, F₂는 전자가 모두 짝지어져 반자기성이랍니다.", "옳은 설명이라 정답이 아니에요. O₂와 F₂는 σ_2p가 π_2p보다 낮아요. B₂, C₂, N₂는 2s와 2p의 혼합 때문에 순서가 뒤바뀌어 π_2p가 더 낮아요.", "옳은 설명이라 정답이 아니에요. N₂는 결합 차수가 3으로 가장 커서 결합 에너지도 가장 커요. 삼중 결합을 떠올리면 쉬워요.", "옳은 설명이라 정답이 아니에요. B₂의 홀전자 2개와 O₂의 홀전자 2개를 더하면 4개예요. 나머지 세 분자는 홀전자가 없어요."], "lawNote": "", "basis": [], "dropped": 0}
+{
+  "summary": "B₂, C₂, N₂, O₂, F₂의 결합 차수는 각각1,2,3,2,1이고 홀전자는2,0,0,2,0개다. 상자기성 분자는 B₂와 O₂의2개이므로 3개라고 한②가 옳지 않다.",
+  "choices": [
+    "옳다. 결합 차수=(결합성 전자 수−반결합성 전자 수)/2이다. 각 분자의 값1+2+3+2+1을 더하면9다.",
+    "옳지 않으므로 정답이다. B₂는 결합성π₂p에, O₂는 반결합성π*₂p에 홀전자2개씩을 갖는다. 상자기성 분자는 이2개이고 C₂·N₂·F₂는 반자기성이다.",
+    "옳다. O₂와 F₂는 결합성σ₂p가 π₂p보다 낮다. B₂·C₂·N₂는 s-p혼합의 영향으로 결합성π₂p가 σ₂p보다 낮다.",
+    "옳다. 이 다섯 분자 중 N₂의 결합 해리 에너지가 가장 크다. N₂의 MO결합 차수도3으로 가장 높다.",
+    "옳다. B₂와 O₂에 홀전자2개씩, C₂·N₂·F₂에0개이므로 총4개다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 8.4 Molecular Orbital Theory",
+      "quote": "Between N₂ and O₂, the order of the orbitals changes.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/8-4-molecular-orbital-theory",
+      "evidenceId": "e0f327623bae71e6ac91",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 8.4 Molecular Orbital Theory",
+      "quote": "Between N₂ and O₂, the order of the orbitals changes.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/8-4-molecular-orbital-theory",
+      "evidenceId": "e0f327623bae71e6ac91",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 8.4 Molecular Orbital Theory",
+      "quote": "Between N₂ and O₂, the order of the orbitals changes.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/8-4-molecular-orbital-theory",
+      "evidenceId": "e0f327623bae71e6ac91",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 8.4 Molecular Orbital Theory",
+      "quote": "Between N₂ and O₂, the order of the orbitals changes.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/8-4-molecular-orbital-theory",
+      "evidenceId": "e0f327623bae71e6ac91",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 8.4 Molecular Orbital Theory",
+      "quote": "Between N₂ and O₂, the order of the orbitals changes.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/8-4-molecular-orbital-theory",
+      "evidenceId": "e0f327623bae71e6ac91",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "University of Illinois Department of Chemistry",
+      "ref": "Molecular Orbital Theory — comparative diatomic table",
+      "quote": "Observed bond dissociation energy",
+      "url": "https://chemistry.illinois.edu/system/files/2023-07/Molecular%20Orbital%20Theory.pdf",
+      "evidenceId": "0619ed3518db4ce6eb6e",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    }
+  ],
+  "dropped": 0,
+  "id": "2023-3-18",
+  "review": {
+    "status": "verified",
+    "method": "원문 분자목록·바닥상태·5개선지 대조. OpenStax 표8.3 전자배치로 결합차수·홀전자수 독립계산 및 합 검산. Illinois 대학자료 검색색인의 관측결합에너지표로④ 추가대조. 기존 무근거 해설에 출처 매핑하고 암기 권유 및 결합차수만으로 이종분자 결합에너지 결정하는 일반화 수정.",
+    "contentHash": "c7f1dcb7bbd4c8249a8134728abb479fd037beee0e06bc7470169119752f0b9b"
+  }
+}

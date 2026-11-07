@@ -1,0 +1,17 @@
+{
+  "id": "4a1e7a0e180ef3ee36a3",
+  "kind": "science",
+  "source": "U.S. Geological Survey",
+  "ref": "East Africa volcanoes",
+  "url": "https://pubs.usgs.gov/gip/dynamic/East_Africa.html",
+  "excerpt": "splitting along the East African Rift Zone",
+  "sourceHash": "f3a852265791db4ad64b20ccbbe8faa2c99f48c1a9403325651f3e8e9c1040d8",
+  "cacheSourceId": "ab1bc946959d0d7ed44b",
+  "retrievedAt": "2026-11-07T02:04:00.939425+00:00",
+  "reviewedMappings": {
+    "2023-3-33:0": "⑤ 누비아·소말리아 쪽 분리와 대륙열곡은 발산경계. 모든 열곡이 필연적으로 새 대양이 된다고 단정하지 않음.",
+    "2023-3-33:5": "⑤ 누비아·소말리아 쪽 분리와 대륙열곡은 발산경계. 모든 열곡이 필연적으로 새 대양이 된다고 단정하지 않음."
+  },
+  "retrievalMethod": "USGS 지도 설명 검색 색인 확인. Arabian·Nubian·Somalian 세판의 분리 및 동아프리카 열곡을 명시.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "af65893793f749900490",
+  "kind": "science",
+  "source": "Endocrinology (1990), PubMed",
+  "ref": "Cold exposure elevates cellular levels of messenger ribonucleic acid encoding thyrotropin-releasing hormone in paraventricular nucleus despite elevated levels of thyroid hormones",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/2123445/",
+  "excerpt": "by stimulating the secretion of TRH from the median eminence.",
+  "sourceHash": "5c0619d572c96c54d5300cbe6ef7fe4a7e02d6f9ed9c1092c03b08c964c141e7",
+  "cacheSourceId": "38438500b16f280fac6b",
+  "retrievedAt": "2026-11-06T19:41:32.475211+00:00",
+  "reviewedMappings": {
+    "2015-3-24:0": "논문 검색 색인의 초록에서 추위 노출이 TRH 분비를 자극함을 확인했다. 동물 실험에 근거한 기전이며 사람의 모든 조건에서 동일한 시간 경과를 주장하지 않는다.",
+    "2015-3-24:1": "논문 검색 색인의 초록에서 추위 노출이 TRH 분비를 자극함을 확인했다. 동물 실험에 근거한 기전이며 사람의 모든 조건에서 동일한 시간 경과를 주장하지 않는다.",
+    "2015-3-24:2": "논문 검색 색인의 초록에서 추위 노출이 TRH 분비를 자극함을 확인했다. 동물 실험에 근거한 기전이며 사람의 모든 조건에서 동일한 시간 경과를 주장하지 않는다.",
+    "2015-3-24:5": "논문 검색 색인의 초록에서 추위 노출이 TRH 분비를 자극함을 확인했다. 동물 실험에 근거한 기전이며 사람의 모든 조건에서 동일한 시간 경과를 주장하지 않는다."
+  },
+  "retrievalMethod": "Search-index abstract excerpt; direct PubMed page returned no readable lines",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

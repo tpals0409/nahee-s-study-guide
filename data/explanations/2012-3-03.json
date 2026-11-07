@@ -1,0 +1,30 @@
+{
+  "summary": "파장은 λ=340/680=0.5 m입니다. 두 경로의 차이는 πr−2r이며, 문제에서 π=3이므로 r입니다. 최대 보강 조건 r=nλ에서 최소 양의 반지름은 0.5 m=50 cm, 즉 ②입니다.",
+  "choices": [
+    "경로차가 0.30 m=0.6λ여서 최대 보강 조건을 만족하지 않습니다.",
+    "경로차가 0.50 m=λ입니다. 가장 작은 양의 정수배 파장이므로 정답입니다.",
+    "경로차가 0.60 m=1.2λ여서 최대 보강 조건을 만족하지 않습니다.",
+    "경로차가 0.75 m=1.5λ입니다. 두 파동이 반대 위상으로 만나 상쇄하므로 최대 세기가 아닙니다.",
+    "경로차가 0.80 m=1.6λ여서 최대 보강 조건을 만족하지 않습니다."
+  ],
+  "lawNote": "같은 소리가 분기하여 두 경로를 지난 뒤 합쳐지는 이상적인 간섭 모형입니다. 반원 관의 반지름이므로 r=0은 제외합니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1 17.4 — Interference of Sound Waves",
+      "quote": "When the difference in the path lengths is an integer multiple of a wavelength",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/17-4-normal-modes-of-a-standing-sound-wave",
+      "evidenceId": "5a536e8bbebd46454718",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "원본 2012-3-03.webp의 π=3·속력·진동수·도형·선지 직접 확인. 교재 간섭 조건 대조 후 경로차와 각 선지의 파장비 독립 검산.",
+    "contentHash": "b26fd76d907b093b08e665f5448edec592a8d9a675ca05f1e099b77e2f42823b"
+  }
+}

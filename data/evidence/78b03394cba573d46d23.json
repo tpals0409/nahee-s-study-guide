@@ -1,0 +1,16 @@
+{
+  "id": "78b03394cba573d46d23",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 2e §7.6 Molecular Structure and Polarity",
+  "url": "https://openstax.org/books/chemistry-2e/pages/7-6-molecular-structure-and-polarity",
+  "excerpt": "Due to resonance, all three C–O bonds are identical.",
+  "sourceHash": "f1f4cc037be36d62ed45cec40d2618a52ae94ff0b8aa1ab10cd6eaf5c6687d93",
+  "cacheSourceId": "2ba8e336006347cb8de5",
+  "retrievedAt": "2026-11-06T16:10:03.910191+00:00",
+  "reviewedMappings": {
+    "2010-3-13:4": "동일한 탄산 이온 답변에서 공명과 세 결합의 등가성 명시."
+  },
+  "retrievalMethod": "web.open/web.find OpenStax body and figure captions reviewed",
+  "sourceHashScope": "Selected excerpts only; not full page"
+}

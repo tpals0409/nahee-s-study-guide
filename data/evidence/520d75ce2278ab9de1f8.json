@@ -1,0 +1,21 @@
+{
+  "id": "520d75ce2278ab9de1f8",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics 2 §10.1 Electromotive Force",
+  "url": "https://openstax.org/books/university-physics-volume-2/pages/10-1-electromotive-force",
+  "excerpt": "the internal resistance r is in series with the load",
+  "sourceHash": "0c349641fb4b14f4c384e8f9165bb462ec839985f2bbddbfefa4135bd957ba3c",
+  "cacheSourceId": "214fd5f00929afd88fc9",
+  "retrievedAt": "2026-11-06T19:21:19.355467+00:00",
+  "reviewedMappings": {
+    "2015-3-06:0": "Battery model and I=emf/(r+Rload) directly inspected, lines 58–74. Original 15 V interpreted as fixed emf, not identical loaded terminal voltage; use full battery current for internal drop. Supports independent Ip/Is calculation for each option.",
+    "2015-3-06:1": "Battery model and I=emf/(r+Rload) directly inspected, lines 58–74. Original 15 V interpreted as fixed emf, not identical loaded terminal voltage; use full battery current for internal drop. Supports independent Ip/Is calculation for each option.",
+    "2015-3-06:2": "Battery model and I=emf/(r+Rload) directly inspected, lines 58–74. Original 15 V interpreted as fixed emf, not identical loaded terminal voltage; use full battery current for internal drop. Supports independent Ip/Is calculation for each option.",
+    "2015-3-06:3": "Battery model and I=emf/(r+Rload) directly inspected, lines 58–74. Original 15 V interpreted as fixed emf, not identical loaded terminal voltage; use full battery current for internal drop. Supports independent Ip/Is calculation for each option.",
+    "2015-3-06:4": "Battery model and I=emf/(r+Rload) directly inspected, lines 58–74. Original 15 V interpreted as fixed emf, not identical loaded terminal voltage; use full battery current for internal drop. Supports independent Ip/Is calculation for each option.",
+    "2015-3-06:5": "Battery model and I=emf/(r+Rload) directly inspected, lines 58–74. Original 15 V interpreted as fixed emf, not identical loaded terminal voltage; use full battery current for internal drop. Supports independent Ip/Is calculation for each option."
+  },
+  "retrievalMethod": "Direct web.open; surrounding circuit equations inspected",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

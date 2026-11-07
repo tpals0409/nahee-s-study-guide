@@ -1,0 +1,151 @@
+{
+  "id": "2024-3-31",
+  "summary": "그림의 A는 지각, B는 맨틀, C는 외핵, D는 내핵입니다. 맨틀과 외핵의 경계는 구텐베르크 불연속면이며, 액체인 외핵은 S파를 전달하지 못합니다. 따라서 ②가 정답입니다.",
+  "choices": [
+    "B는 맨틀입니다. 맨틀은 철·마그네슘이 풍부한 규산염 물질로 이루어져 있으며, 주로 규장질이라는 설명은 틀립니다.",
+    "B–C는 약 2,890 km 깊이의 맨틀–외핵 경계, 즉 구텐베르크 불연속면입니다. 액체 외핵에서는 S파가 S파의 형태로 전파되지 못하므로 옳습니다. 여기서 소멸은 지진파 에너지가 모두 없어짐을 뜻하지 않습니다.",
+    "C와 D는 모두 철을 주성분으로 하는 핵이지만 외핵은 액체, 내핵은 고체입니다. 따라서 물리적 성질이 같다는 부분이 틀립니다. 두 층의 세부 조성까지 완전히 같다는 뜻은 아닙니다.",
+    "외핵 C가 액체이고 내핵 D는 고체이므로 틀립니다. 맨틀 B는 지질학적 시간 규모에서 변형·유동할 수 있지만 전체가 액체인 층은 아닙니다.",
+    "깊이가 증가하는 방향으로 외핵 C에서 내핵 D로 넘어갈 때 P파 속도는 증가합니다. 급격히 감소하는 경계는 맨틀 B에서 외핵 C로 들어가는 경계입니다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "USGS",
+      "ref": "The Interior of the Earth",
+      "quote": "iron and magnesium silicate minerals",
+      "url": "https://pubs.usgs.gov/gip/interior/",
+      "evidenceId": "917c3eae8ab35ff4f3dd",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "USGS",
+      "ref": "The Interior of the Earth",
+      "quote": "iron and magnesium silicate minerals",
+      "url": "https://pubs.usgs.gov/gip/interior/",
+      "evidenceId": "917c3eae8ab35ff4f3dd",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "USGS",
+      "ref": "The Interior of the Earth",
+      "quote": "iron and magnesium silicate minerals",
+      "url": "https://pubs.usgs.gov/gip/interior/",
+      "evidenceId": "917c3eae8ab35ff4f3dd",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "USGS",
+      "ref": "Are the tectonic plates floating on magma?",
+      "quote": "it stops S-waves and the velocity of P-waves are sharply reduced",
+      "url": "https://www.usgs.gov/faqs/are-tectonic-plates-floating-magma",
+      "evidenceId": "3cf3cd740787a7e9aba9",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "USGS",
+      "ref": "Are the tectonic plates floating on magma?",
+      "quote": "it stops S-waves and the velocity of P-waves are sharply reduced",
+      "url": "https://www.usgs.gov/faqs/are-tectonic-plates-floating-magma",
+      "evidenceId": "3cf3cd740787a7e9aba9",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "USGS",
+      "ref": "Are the tectonic plates floating on magma?",
+      "quote": "it stops S-waves and the velocity of P-waves are sharply reduced",
+      "url": "https://www.usgs.gov/faqs/are-tectonic-plates-floating-magma",
+      "evidenceId": "3cf3cd740787a7e9aba9",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "USGS",
+      "ref": "Inside the Earth: This Dynamic Earth",
+      "quote": "liquid outer core",
+      "url": "https://pubs.usgs.gov/gip/dynamic/inside.html",
+      "evidenceId": "4ac381285a66e9935dcd",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "USGS",
+      "ref": "Inside the Earth: This Dynamic Earth",
+      "quote": "liquid outer core",
+      "url": "https://pubs.usgs.gov/gip/dynamic/inside.html",
+      "evidenceId": "4ac381285a66e9935dcd",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "USGS",
+      "ref": "Inside the Earth: This Dynamic Earth",
+      "quote": "liquid outer core",
+      "url": "https://pubs.usgs.gov/gip/dynamic/inside.html",
+      "evidenceId": "4ac381285a66e9935dcd",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "NASA GSFC hosted historical account",
+      "ref": "History of the detection of the core",
+      "quote": "Gutenberg determined the depth of a core-mantle boundary",
+      "url": "https://core2.gsfc.nasa.gov/MIRROR_www_astro_oma_be/history.html",
+      "evidenceId": "10e8df670f7e2ebdddea",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "NASA GSFC hosted historical account",
+      "ref": "History of the detection of the core",
+      "quote": "Gutenberg determined the depth of a core-mantle boundary",
+      "url": "https://core2.gsfc.nasa.gov/MIRROR_www_astro_oma_be/history.html",
+      "evidenceId": "10e8df670f7e2ebdddea",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "University College London",
+      "ref": "Geophysics: Seismic wave velocities in the core",
+      "quote": "The P–wave velocity in the inner core is about 11.3 km/s.",
+      "url": "https://www.ucl.ac.uk/~uccghlv/GEOL2014/Revised%20Course/Detailed%20Lecture%20Notes/LECTURE7.PDF",
+      "evidenceId": "1a5f47e34e64c302911d",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Original labeled diagram inspected; layer composition/state, Gutenberg boundary and seismic velocity behavior checked against geological-survey and university sources; removed unsupported numerical/cause simplifications.",
+    "contentHash": "32a608c49477924ef6790fc370bc0b60396c1ab9acbdde291860906e41b682d1"
+  }
+}

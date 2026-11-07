@@ -1,0 +1,17 @@
+{
+  "id": "59ecdbaaac74b8b7bd44",
+  "kind": "science",
+  "source": "Oregon State University — Volcano World",
+  "ref": "What is lava made of?",
+  "url": "https://volcano.oregonstate.edu/faq/what-lava-made",
+  "excerpt": "MgO  | 6.73  | 3.33  | 1.78  | 0.39  | 0.93",
+  "sourceHash": "ac1c72167d29241242b514e73a772e5495e88cf46f7236dc8820bc4b5e0f81a6",
+  "cacheSourceId": "8428e622b6c31fc0d4d8",
+  "retrievedAt": "2026-11-06T19:56:53.970904+00:00",
+  "reviewedMappings": {
+    "2015-3-35:0": "같은 표의 현무암과 유문암 MgO는 각각 6.73, 0.39이다. FeO와 함께 MgO 증가 주장도 반대임을 확인했다.",
+    "2015-3-35:5": "같은 표의 현무암과 유문암 MgO는 각각 6.73, 0.39이다. FeO와 함께 MgO 증가 주장도 반대임을 확인했다."
+  },
+  "retrievalMethod": "Direct web open; composition table header and rows reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

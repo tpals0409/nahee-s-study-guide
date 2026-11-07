@@ -1,0 +1,21 @@
+{
+  "id": "dab56e7a84843355cffc",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Astronomy 2e §17.1 — The Magnitude Scale / The Magnitude Equation",
+  "url": "https://openstax.org/books/astronomy-2e/pages/17-1-the-brightness-of-stars",
+  "excerpt": "a difference of five magnitudes corresponds exactly to a brightness ratio of 100:1.",
+  "sourceHash": "9d16d070372bb9571e1ead1f35a00c1dfd24a47f54a9b8132e1960069e9bda4c",
+  "cacheSourceId": "4ef419d6aa7adb560d56",
+  "retrievedAt": "2026-11-06T21:36:09.243873+00:00",
+  "reviewedMappings": {
+    "2017-3-38:0": "5등급 차이는 밝기비100:1이라는 정의 및 정확식100^(Δm/5) 확인.",
+    "2017-3-38:1": "정확식 Δm=2.5 log10(R)에 보기 밝기비 10를 독립 대입하면 2.500000등급. 5등급과 일치하는지 검산. 자료의 2.5배 반올림식을 정확식으로 사용하지 않음.",
+    "2017-3-38:2": "정확식 Δm=2.5 log10(R)에 보기 밝기비 50를 독립 대입하면 4.247425등급. 5등급과 일치하는지 검산. 자료의 2.5배 반올림식을 정확식으로 사용하지 않음.",
+    "2017-3-38:3": "정확식 Δm=2.5 log10(R)에 보기 밝기비 100를 독립 대입하면 5.000000등급. 5등급과 일치하는지 검산. 자료의 2.5배 반올림식을 정확식으로 사용하지 않음.",
+    "2017-3-38:4": "정확식 Δm=2.5 log10(R)에 보기 밝기비 500를 독립 대입하면 6.747425등급. 5등급과 일치하는지 검산. 자료의 2.5배 반올림식을 정확식으로 사용하지 않음.",
+    "2017-3-38:5": "정확식 Δm=2.5 log10(R)에 보기 밝기비 1000를 독립 대입하면 7.500000등급. 5등급과 일치하는지 검산. 자료의 2.5배 반올림식을 정확식으로 사용하지 않음."
+  },
+  "retrievalMethod": "Direct source page reviewed: magnitude definition and exact equation in Example 17.1",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

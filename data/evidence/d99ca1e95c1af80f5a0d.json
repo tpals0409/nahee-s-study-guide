@@ -1,0 +1,18 @@
+{
+  "id": "d99ca1e95c1af80f5a0d",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "19.3 Spectroscopic and Magnetic Properties of Coordination Compounds",
+  "url": "https://openstax.org/books/chemistry-2e/pages/19-3-spectroscopic-and-magnetic-properties-of-coordination-compounds",
+  "excerpt": "Diamagnetic substances have a slight tendency to be repelled by magnetic fields.",
+  "sourceHash": "9baa699fccd578b91f0b9d2e59c3b6328a2b1ccf689d08a395b89dfcf60d4846",
+  "cacheSourceId": "6486569192870406d372",
+  "retrievedAt": "2026-11-06T20:20:16.276918+00:00",
+  "reviewedMappings": {
+    "2016-3-15:0": "본문 104–119의 정사면체 분열과 124–127의 반자기성·d6 고/저스핀 설명을 적용한다.",
+    "2016-3-15:2": "통상적 정사면체 d6 e3t2^3의 홀전자 4개를 계수하여 반자기성 조건에서 제외한다.",
+    "2016-3-15:5": "정팔면체 d6 저스핀 [2,2,2,0,0]은 홀전자0, 고스핀 [2,1,1,1,1]은 홀전자4. 본문 d6 비교와 일치한다."
+  },
+  "retrievalMethod": "Direct web open and targeted find; relevant text reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

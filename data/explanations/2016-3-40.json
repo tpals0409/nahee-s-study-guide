@@ -1,0 +1,119 @@
+{
+  "id": "2016-3-40",
+  "summary": "지구의 자전 때문에 나타나는 것은 ㄱ, 별의 일주운동입니다. 별의 연주시차와 태양의 연주운동은 지구의 공전 때문에 나타나므로 정답은 ①입니다.",
+  "choices": [
+    "정답입니다. 지구가 서에서 동으로 자전하므로 별들은 천구의 극을 중심으로 반대 방향으로 도는 것처럼 보입니다. 이것이 별의 일주운동입니다.",
+    "오답입니다. 별의 연주시차는 지구가 태양 주위를 공전하면서 관측 위치가 바뀌어 가까운 별의 방향이 배경 별에 대해 달라지는 현상입니다. 자전이 아닌 공전의 효과입니다.",
+    "오답입니다. ㄱ은 자전의 결과지만, ㄷ은 지구 공전 때문에 태양이 배경 별에 대해 황도를 따라 연간 한 바퀴 이동해 보이는 현상입니다.",
+    "오답입니다. ㄴ과 ㄷ은 모두 지구 공전의 결과입니다. 자전의 결과인 ㄱ을 빠뜨렸습니다.",
+    "오답입니다. 세 현상 중 자전의 결과는 ㄱ뿐입니다. 공전의 결과인 ㄴ과 ㄷ을 함께 고를 수 없습니다."
+  ],
+  "lawNote": "일주운동은 하루 동안의 겉보기 운동, 연주운동은 일 년 동안 배경 별에 대한 위치 변화입니다. 연주시차에서 공전 궤도 반대편 두 관측점의 간격은 약 2 AU이고, 정의에 쓰이는 기준 길이는 1 AU입니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Astronomy 2e — 2.1 The Sky Above",
+      "quote": "the sky appears to turn in the opposite direction around those celestial poles",
+      "url": "https://openstax.org/books/astronomy-2e/pages/2-1-the-sky-above",
+      "evidenceId": "1bf6227a5c976df5a83c",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Astronomy 2e — 2.1 The Sky Above",
+      "quote": "the sky appears to turn in the opposite direction around those celestial poles",
+      "url": "https://openstax.org/books/astronomy-2e/pages/2-1-the-sky-above",
+      "evidenceId": "1bf6227a5c976df5a83c",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Astronomy 2e — 2.1 The Sky Above",
+      "quote": "the sky appears to turn in the opposite direction around those celestial poles",
+      "url": "https://openstax.org/books/astronomy-2e/pages/2-1-the-sky-above",
+      "evidenceId": "1bf6227a5c976df5a83c",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Astronomy 2e — 2.1 The Sky Above",
+      "quote": "the sky appears to turn in the opposite direction around those celestial poles",
+      "url": "https://openstax.org/books/astronomy-2e/pages/2-1-the-sky-above",
+      "evidenceId": "1bf6227a5c976df5a83c",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Astronomy 2e — 2.1 The Sky Above",
+      "quote": "the sky appears to turn in the opposite direction around those celestial poles",
+      "url": "https://openstax.org/books/astronomy-2e/pages/2-1-the-sky-above",
+      "evidenceId": "1bf6227a5c976df5a83c",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Astronomy 2e — 19.2 Surveying the Stars",
+      "quote": "Seen from opposite sides of Earth’s orbit, a nearby star shifts position",
+      "url": "https://openstax.org/books/astronomy-2e/pages/19-2-surveying-the-stars",
+      "evidenceId": "470640c19312b1ed3cf9",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Astronomy 2e — 19.2 Surveying the Stars",
+      "quote": "Seen from opposite sides of Earth’s orbit, a nearby star shifts position",
+      "url": "https://openstax.org/books/astronomy-2e/pages/19-2-surveying-the-stars",
+      "evidenceId": "470640c19312b1ed3cf9",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Astronomy 2e — 19.2 Surveying the Stars",
+      "quote": "Seen from opposite sides of Earth’s orbit, a nearby star shifts position",
+      "url": "https://openstax.org/books/astronomy-2e/pages/19-2-surveying-the-stars",
+      "evidenceId": "470640c19312b1ed3cf9",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Astronomy 2e — 19.2 Surveying the Stars",
+      "quote": "Seen from opposite sides of Earth’s orbit, a nearby star shifts position",
+      "url": "https://openstax.org/books/astronomy-2e/pages/19-2-surveying-the-stars",
+      "evidenceId": "470640c19312b1ed3cf9",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "Original image checked; daily stellar motion, annual parallax, and annual solar motion independently compared with textbook. Corrected vague 1-AU displacement statement and removed unsupported official-answer attribution. Stored answer 1 agrees.",
+    "contentHash": "958ddc4f0003958b2b7b415915e036d8c0f3cdc80c2df198c97b051378c2fcfd"
+  }
+}

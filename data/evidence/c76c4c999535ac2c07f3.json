@@ -1,0 +1,16 @@
+{
+  "id": "c76c4c999535ac2c07f3",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e 15.2 Prokaryotic Transcription",
+  "url": "https://openstax.org/books/biology-2e/pages/15-2-prokaryotic-transcription",
+  "excerpt": "use the same RNA polymerase",
+  "sourceHash": "6fc5f8fb2ab437f3d1196424e08a433a323b8348513e58473ce52d76ef43cf10",
+  "cacheSourceId": "e532c8723831f10d7b71",
+  "retrievedAt": "2026-11-07T06:01:16.314184+00:00",
+  "reviewedMappings": {
+    "2020-3-27:3": "Direct bacterial transcription enzyme comparison; replaces unrelated coupling quote. No claim about all phage enzymes or polymerase subunit count."
+  },
+  "retrievalMethod": "web open, direct text",
+  "sourceHashScope": "Short reviewed excerpt only; not full page"
+}

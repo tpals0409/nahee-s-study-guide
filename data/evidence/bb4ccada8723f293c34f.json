@@ -1,0 +1,19 @@
+{
+  "id": "bb4ccada8723f293c34f",
+  "kind": "science",
+  "source": "Journal of Chemical Physics / author-hosted PDF",
+  "ref": "Beu et al. (1997), A new intermolecular potential for hydrazine clusters: Structures and spectra, Table II",
+  "url": "https://phys.ubbcluj.ro/~titus.beu/e-Papers/JCP_1997_106_6795.pdf",
+  "excerpt": "HNH angle 106.00°\nNNH angle 108.85°",
+  "sourceHash": "9a9181f0f5327ad63cfb66a86f957ad955c04e02a9cd09866a55dad623faea1a",
+  "cacheSourceId": "5fd8653a20fc6ad8d781",
+  "retrievedAt": "2026-11-07T06:08:46.855106+00:00",
+  "reviewedMappings": {
+    "2009-3-16:0": "Theoretical cluster study Table II uses different HNH and NNH angles. Supports distinguishing angle definitions; not a fresh experimental measurement or proof of ranking against unspecified N2F2 isomer.",
+    "2009-3-16:1": "Theoretical cluster study Table II uses different HNH and NNH angles. Supports distinguishing angle definitions; not a fresh experimental measurement or proof of ranking against unspecified N2F2 isomer.",
+    "2009-3-16:3": "Theoretical cluster study Table II uses different HNH and NNH angles. Supports distinguishing angle definitions; not a fresh experimental measurement or proof of ranking against unspecified N2F2 isomer.",
+    "2009-3-16:4": "Theoretical cluster study Table II uses different HNH and NNH angles. Supports distinguishing angle definitions; not a fresh experimental measurement or proof of ranking against unspecified N2F2 isomer."
+  },
+  "retrievalMethod": "web PDF extracted text",
+  "sourceHashScope": "Short reviewed table excerpt only"
+}

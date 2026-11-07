@@ -1,0 +1,21 @@
+{
+  "id": "a51d4ccab4be9235ee3d",
+  "kind": "science",
+  "source": "Australian Museum",
+  "ref": "Mineral groups",
+  "url": "https://australian.museum/learn/minerals/what-are-minerals/mineral-groups/",
+  "excerpt": "Orthoclase KAlSi3O8(mon)",
+  "sourceHash": "f8e7dc2b1d36a7469ddc273fcfd509840c63821e01aae5caf9d1b4fbf29d1001",
+  "cacheSourceId": "c8ed4bd898a982fa6b9a",
+  "retrievedAt": "2026-11-06T21:29:05.167276+00:00",
+  "reviewedMappings": {
+    "2017-3-33:0": "박물관의 장석·산화물·탄산염·감람석·카올리나이트 조성 목록과 원본 반응물을 대조. 정장석 조성 KAlSi3O8은 ⑤의 반응물에만 있음. ④ 원문은 그대로 확인하되 정확한 균형식으로 해설하지 않음.",
+    "2017-3-33:1": "박물관의 장석·산화물·탄산염·감람석·카올리나이트 조성 목록과 원본 반응물을 대조. 정장석 조성 KAlSi3O8은 ⑤의 반응물에만 있음. ④ 원문은 그대로 확인하되 정확한 균형식으로 해설하지 않음.",
+    "2017-3-33:2": "박물관의 장석·산화물·탄산염·감람석·카올리나이트 조성 목록과 원본 반응물을 대조. 정장석 조성 KAlSi3O8은 ⑤의 반응물에만 있음. ④ 원문은 그대로 확인하되 정확한 균형식으로 해설하지 않음.",
+    "2017-3-33:3": "박물관의 장석·산화물·탄산염·감람석·카올리나이트 조성 목록과 원본 반응물을 대조. 정장석 조성 KAlSi3O8은 ⑤의 반응물에만 있음. ④ 원문은 그대로 확인하되 정확한 균형식으로 해설하지 않음.",
+    "2017-3-33:4": "박물관의 장석·산화물·탄산염·감람석·카올리나이트 조성 목록과 원본 반응물을 대조. 정장석 조성 KAlSi3O8은 ⑤의 반응물에만 있음. ④ 원문은 그대로 확인하되 정확한 균형식으로 해설하지 않음.",
+    "2017-3-33:5": "박물관의 장석·산화물·탄산염·감람석·카올리나이트 조성 목록과 원본 반응물을 대조. 정장석 조성 KAlSi3O8은 ⑤의 반응물에만 있음. ④ 원문은 그대로 확인하되 정확한 균형식으로 해설하지 않음."
+  },
+  "retrievalMethod": "Direct web page reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

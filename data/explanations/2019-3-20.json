@@ -1,0 +1,129 @@
+{
+  "id": "2019-3-20",
+  "summary": "두 반응 모두 ln[농도]가 시간에 대해 직선으로 감소하므로 1차 반응입니다. 기울기로 구한 반응 속도 상수는 (가)가 1/t₁, (나)가 1/(2t₁)입니다. t₁일 때 X의 생성 속도와 2t₁일 때 Y의 생성 속도는 서로 같으므로 옳은 것은 ㄱ, ㄴ입니다.",
+  "choices": [
+    "ㄱ만 고른 선지: ㄱ은 옳지만 ㄴ도 옳으므로 정답이 아닙니다.",
+    "ㄷ은 틀립니다. 비교 시점의 농도를 c라 하면 X의 생성 속도는 c/t₁이고, Y의 생성 속도는 2×c/(2t₁)=c/t₁로 같습니다.",
+    "ㄱ, ㄴ을 고른 선지: 정답입니다. ln[A]가 t에 대해 직선이므로 (가)는 1차 반응입니다. 기울기는 (가)가 -1/t₁, (나)가 -1/(2t₁)이므로 k(가) = 2k(나)입니다.",
+    "ㄴ, ㄷ을 고른 선지: ㄷ이 틀렸고 옳은 ㄱ이 빠져 있으므로 오답입니다.",
+    "ㄱ, ㄴ, ㄷ을 고른 선지: ㄷ에서 두 생성 속도는 2배 관계가 아니라 같습니다. 따라서 오답입니다."
+  ],
+  "lawNote": "B → 2Y에서는 Y의 생성 속도가 B의 소모 속도의 2배입니다. 그래프에서 얻은 B의 소모 속도에 생성물 계수 2를 반영해야 합니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "12.4 Integrated Rate Laws",
+      "quote": "a straight line with a slope of −k",
+      "url": "https://openstax.org/books/chemistry-2e/pages/12-4-integrated-rate-laws",
+      "evidenceId": "422d9b978d460d4f12ea",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "12.4 Integrated Rate Laws",
+      "quote": "a straight line with a slope of −k",
+      "url": "https://openstax.org/books/chemistry-2e/pages/12-4-integrated-rate-laws",
+      "evidenceId": "422d9b978d460d4f12ea",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "12.4 Integrated Rate Laws",
+      "quote": "a straight line with a slope of −k",
+      "url": "https://openstax.org/books/chemistry-2e/pages/12-4-integrated-rate-laws",
+      "evidenceId": "422d9b978d460d4f12ea",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "12.4 Integrated Rate Laws",
+      "quote": "a straight line with a slope of −k",
+      "url": "https://openstax.org/books/chemistry-2e/pages/12-4-integrated-rate-laws",
+      "evidenceId": "422d9b978d460d4f12ea",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "12.4 Integrated Rate Laws",
+      "quote": "a straight line with a slope of −k",
+      "url": "https://openstax.org/books/chemistry-2e/pages/12-4-integrated-rate-laws",
+      "evidenceId": "422d9b978d460d4f12ea",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "12.4 Integrated Rate Laws",
+      "quote": "a straight line with a slope of −k",
+      "url": "https://openstax.org/books/chemistry-2e/pages/12-4-integrated-rate-laws",
+      "evidenceId": "422d9b978d460d4f12ea",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e 12.1 Chemical Reaction Rates",
+      "quote": "these rate expressions are all related simply to one another according to the reaction stoichiometry.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/12-1-chemical-reaction-rates",
+      "evidenceId": "d5f7f8adaaa64a8623db",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e 12.1 Chemical Reaction Rates",
+      "quote": "these rate expressions are all related simply to one another according to the reaction stoichiometry.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/12-1-chemical-reaction-rates",
+      "evidenceId": "d5f7f8adaaa64a8623db",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e 12.1 Chemical Reaction Rates",
+      "quote": "these rate expressions are all related simply to one another according to the reaction stoichiometry.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/12-1-chemical-reaction-rates",
+      "evidenceId": "d5f7f8adaaa64a8623db",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e 12.1 Chemical Reaction Rates",
+      "quote": "these rate expressions are all related simply to one another according to the reaction stoichiometry.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/12-1-chemical-reaction-rates",
+      "evidenceId": "d5f7f8adaaa64a8623db",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Original graph inspection; direct OpenStax first-order and stoichiometric-rate review; independent slope and product-rate ratio derivation",
+    "contentHash": "60e1b4b668cb4b37891db7ff25cc37560fe78b26aa0326c7f82fdeb68e5126f7"
+  }
+}

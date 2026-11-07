@@ -1,0 +1,21 @@
+{
+  "id": "5dfd03f676bc2fc93ae7",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "28.7 Patterns of Inheritance",
+  "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/28-7-patterns-of-inheritance",
+  "excerpt": "People who have two i alleles do not produce either A or B surface antigens: they have type O blood.",
+  "sourceHash": "71700e33236017b1b10871db15bc0c3551445e41c76f460e22051d681710a310",
+  "cacheSourceId": "71331dbac06b095f9771",
+  "retrievedAt": "2026-11-06T22:40:30.670812+00:00",
+  "reviewedMappings": {
+    "2019-3-23:0": "O형 자녀로 양친 AO 추론; OO확률1/4와 여자확률1/2의 곱1/8.",
+    "2019-3-23:1": "전체8개 동등 가능 조합 중 OO 여자1개.",
+    "2019-3-23:2": "1/4는 O형 확률만 반영하고 여자 조건이 빠짐.",
+    "2019-3-23:3": "3/8은 A형 여자 확률로 질문과 다름.",
+    "2019-3-23:4": "1/2는 여자 확률만 반영하고 O형 조건이 빠짐.",
+    "2019-3-23:5": "3/4는 A형 확률로 질문과 다름."
+  },
+  "retrievalMethod": "Direct web open/find: 33–36 sex chromosomes and parental allele contributions, 56 equal allele transmission, 97–109 ABO genotype table. Independently inferred AO×AO from the O child and enumerated offspring.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

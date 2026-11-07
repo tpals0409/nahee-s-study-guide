@@ -1,0 +1,20 @@
+{
+  "id": "916256b4af5abc252429",
+  "kind": "science",
+  "source": "U.S. Geological Survey (USGS)",
+  "ref": "The Science of Earthquakes",
+  "url": "https://www.usgs.gov/programs/earthquake-hazards/science-earthquakes",
+  "excerpt": "There is one magnitude for each earthquake.",
+  "sourceHash": "295affb1a5e6aedadf50130b929757d615d43da467bd0b61c3dcda2dc6b10020",
+  "cacheSourceId": "aa45511a0e6e7a9e934c",
+  "retrievedAt": "2026-11-06T22:08:32.894058+00:00",
+  "reviewedMappings": {
+    "2018-3-31:0": "원본 C의 PS 간격 최장, B에 직접 S 표시, 동일 지진 규모 구별을 종합하여 ㄷ만=③. 관련 본문과 원본 그림의 독립 판독을 함께 적용.",
+    "2018-3-31:1": "관측소 진폭 차이가 지진 자체 규모 차이는 아니므로 ㄱ 거짓. 관련 본문과 원본 그림의 독립 판독을 함께 적용.",
+    "2018-3-31:3": "원본 눈금에서 A 약2분 B 약2.5분 C 약4분의 PS 간격, C가 분명히 최장. 근사 수치보다 대소관계를 근거로 ㄷ 참. 관련 본문과 원본 그림의 독립 판독을 함께 적용.",
+    "2018-3-31:4": "ㄱ 규모 오해 및 ㄴ 직접 S파 외핵 통과 주장이 모두 거짓. 관련 본문과 원본 그림의 독립 판독을 함께 적용.",
+    "2018-3-31:5": "ㄷ은 참이나 ㄴ은 거짓이므로 오답. 관련 본문과 원본 그림의 독립 판독을 함께 적용."
+  },
+  "retrievalMethod": "Direct open: magnitude/intensity lines 70–72 and P/S arrival interval versus distance lines 74–82 reviewed; original seismogram inspected.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "2f018c2c1b4f2ee1a7a8",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "17.3 Electrode and Cell Potentials",
+  "url": "https://openstax.org/books/chemistry-2e/pages/17-3-electrode-and-cell-potentials",
+  "excerpt": "It is only the difference in potential between two half-cells that may be measured,",
+  "sourceHash": "44823891e392c8e32f29e24d8b8a3830ae9d7d5efe2c535a546712e947dbc18f",
+  "cacheSourceId": "f8f39800337f6d2641e7",
+  "retrievedAt": "2026-11-06T20:24:41.398878+00:00",
+  "reviewedMappings": {
+    "2016-3-19:0": "본문33–37의 환원 전위 차를 주어진 정반응 방향에 적용: Fe환원−0.44에서 Mn쌍 환원전위+1.51을 빼면−1.95.",
+    "2016-3-19:1": "계수를 곱한−5.22가 아니라 두 환원전위 차−1.95를 사용한다. 계수 효과는 별도 ΔG/nF 관계와 함께 검토.",
+    "2016-3-19:2": "원본 반응 방향 Fe2+→Fe 환원, Mn2+→MnO4- 산화 확인. E°=−0.44−1.51.",
+    "2016-3-19:3": "전위−1.95는 맞지만 전자수는 주어진 반응의10이어야 함.",
+    "2016-3-19:4": "반응 방향을 뒤집으면 전위 차 부호가 바뀜.",
+    "2016-3-19:5": "정반응 전위 음수이며 절댓값1.95. 부호와 크기 오류 배제."
+  },
+  "retrievalMethod": "Direct web open; potential difference and Gibbs energy/equilibrium equations reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

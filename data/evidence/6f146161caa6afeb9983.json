@@ -1,0 +1,21 @@
+{
+  "id": "6f146161caa6afeb9983",
+  "kind": "science",
+  "source": "OpenStax University Physics Volume 2",
+  "ref": "4.2 Heat Engines",
+  "url": "https://openstax.org/books/university-physics-volume-2/pages/4-2-heat-engines",
+  "excerpt": "the initial and final states of the system are the same",
+  "sourceHash": "94e7900948a24cdb3f8bd506b08d6ffa091a424bbb7297357d2f5c76121d3483",
+  "cacheSourceId": "e5a19d30556f0312e03a",
+  "retrievedAt": "2026-11-07T01:30:31.692137+00:00",
+  "reviewedMappings": {
+    "2023-3-04:0": "순환 열기관의 W=Qin−Qout, 효율 W/Qin을 각 기관에 적용. 원문에서 같은 |Qm|이 배출/입력으로 명시됨. 전체 공급열100 J로 정규화하여 W₁40 J,W₂18 J,Qc42 J,η0.58 독립 계산. 각 선지를 에너지 수지와 비교.",
+    "2023-3-04:1": "순환 열기관의 W=Qin−Qout, 효율 W/Qin을 각 기관에 적용. 원문에서 같은 |Qm|이 배출/입력으로 명시됨. 전체 공급열100 J로 정규화하여 W₁40 J,W₂18 J,Qc42 J,η0.58 독립 계산. 각 선지를 에너지 수지와 비교.",
+    "2023-3-04:2": "순환 열기관의 W=Qin−Qout, 효율 W/Qin을 각 기관에 적용. 원문에서 같은 |Qm|이 배출/입력으로 명시됨. 전체 공급열100 J로 정규화하여 W₁40 J,W₂18 J,Qc42 J,η0.58 독립 계산. 각 선지를 에너지 수지와 비교.",
+    "2023-3-04:3": "순환 열기관의 W=Qin−Qout, 효율 W/Qin을 각 기관에 적용. 원문에서 같은 |Qm|이 배출/입력으로 명시됨. 전체 공급열100 J로 정규화하여 W₁40 J,W₂18 J,Qc42 J,η0.58 독립 계산. 각 선지를 에너지 수지와 비교.",
+    "2023-3-04:4": "순환 열기관의 W=Qin−Qout, 효율 W/Qin을 각 기관에 적용. 원문에서 같은 |Qm|이 배출/입력으로 명시됨. 전체 공급열100 J로 정규화하여 W₁40 J,W₂18 J,Qc42 J,η0.58 독립 계산. 각 선지를 에너지 수지와 비교.",
+    "2023-3-04:5": "순환 열기관의 W=Qin−Qout, 효율 W/Qin을 각 기관에 적용. 원문에서 같은 |Qm|이 배출/입력으로 명시됨. 전체 공급열100 J로 정규화하여 W₁40 J,W₂18 J,Qc42 J,η0.58 독립 계산. 각 선지를 에너지 수지와 비교."
+  },
+  "retrievalMethod": "Direct chapter open; cyclic first-law balance and efficiency equations 4.1–4.2, lines 40–57. Energy balance used without requiring Carnot/reversible operation.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

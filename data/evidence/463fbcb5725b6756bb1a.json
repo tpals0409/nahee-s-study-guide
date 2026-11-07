@@ -1,0 +1,21 @@
+{
+  "id": "463fbcb5725b6756bb1a",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 2e, 19.2 Coordination Chemistry of Transition Metals",
+  "url": "https://openstax.org/books/chemistry-2e/pages/19-2-coordination-chemistry-of-transition-metals",
+  "excerpt": "optical isomers are nonsuperimposable mirror images",
+  "sourceHash": "3dc64d772d894fbc99d4a1fed2b753f763d1fcbcce3ce1485ab90adb4494ba6c",
+  "cacheSourceId": "3862e2da04a3ff84ac32",
+  "retrievedAt": "2026-11-07T00:06:48.602725+00:00",
+  "reviewedMappings": {
+    "2021-3-16:0": "출처는 기하/광학 이성질체 구별과 거울상 중첩 기준. 이 문제의 수 2,3은 교재에 직접 인용된 값이 아니라 phen을 cis +x,+y에 고정한 배치 열거로 독립 도출. (가) 두 배치 모두 비카이랄, (나) 세 기하배치 중 두 배치 비카이랄.",
+    "2021-3-16:1": "ㄱ 참이나 ㄴ·ㄷ도 참. Br 1개는 N의 trans 또는 축 자리 두 종류; Br2는 축/축, 평면/평면, 혼합 세 종류. 앞 두 배치는 반사 대칭.",
+    "2021-3-16:2": "ㄷ 참이나 ㄱ·ㄴ도 참. (가)의 Br=-x는 xy 거울면, Br=+z는 x=y 거울면을 가져 거울상과 중첩됨.",
+    "2021-3-16:3": "ㄷ 누락. (나)의 Br=±z 및 Br=-x,-y 배치는 xy 반사에 불변이므로 광학 비활성.",
+    "2021-3-16:4": "ㄱ 누락. (가)의 두 배치가 각기 xy 또는 x=y 반사 대칭을 가짐.",
+    "2021-3-16:5": "ㄱㄴㄷ 모두 참. 독립적인 정팔면체 대칭 열거에서 (가)2 비카이랄; (나)3 기하형, 혼합배치만 거울상 한 쌍. 거울상 두 형태를 별도 기하이성질체로 세지 않음."
+  },
+  "retrievalMethod": "Direct text lines 197-211 reviewed for optical/geometric isomers; original phen structure visually checked; independent octahedral symmetry enumeration saved in work/2021-3-16-symmetry-check.json.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

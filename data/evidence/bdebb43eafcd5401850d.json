@@ -1,0 +1,16 @@
+{
+  "id": "bdebb43eafcd5401850d",
+  "kind": "science",
+  "source": "University of Wisconsin–Madison",
+  "ref": "UW Madison Satellite Meteorology: Coriolis Force",
+  "url": "https://profhorn.aos.wisc.edu/wxwise/satmet/lesson7/coriolis1.html",
+  "excerpt": "The magnitude of the Coriolis force is proportional to the speed of the wind.",
+  "sourceHash": "29f5a509d88478eba10d93385b9b651f7b5f5bc96e8aa31e9698c1df3cf27d2a",
+  "cacheSourceId": "a3e58ef518a07d3f4a1c",
+  "retrievedAt": "2026-11-06T18:25:42.141747+00:00",
+  "reviewedMappings": {
+    "2013-3-37:0": "같은 위도에서 전향력 크기와 풍속은 비례. C_B>C_A이므로v_B>v_A."
+  },
+  "retrievalMethod": "web.search_query: indexed university source excerpt",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

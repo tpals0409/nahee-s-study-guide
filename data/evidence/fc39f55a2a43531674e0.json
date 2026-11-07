@@ -1,0 +1,17 @@
+{
+  "id": "fc39f55a2a43531674e0",
+  "kind": "science",
+  "source": "NCBI Bookshelf / Garland Science",
+  "ref": "Molecular Biology of the Cell: Fractionation of Cells",
+  "url": "https://www.ncbi.nlm.nih.gov/books/NBK26936/",
+  "excerpt": "the pH at which the protein has no net charge",
+  "sourceHash": "8fe2a708de07a2595dd2a90d79caaba2abab7399feeefd23363a7bf79156aa40",
+  "cacheSourceId": "47b3a37eba127fbd970b",
+  "retrievedAt": "2026-11-07T02:41:00.983799+00:00",
+  "reviewedMappings": {
+    "2024-3-26:0": "Proteins migrate through a pH gradient to their isoelectric point where net charge and electric migration vanish.",
+    "2024-3-26:3": "Proteins migrate through a pH gradient to their isoelectric point where net charge and electric migration vanish."
+  },
+  "retrievalMethod": "Indexed textbook isoelectric-focusing passage reviewed; direct open returned browser challenge.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

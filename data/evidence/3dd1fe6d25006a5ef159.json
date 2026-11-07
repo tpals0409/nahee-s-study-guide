@@ -1,0 +1,14 @@
+{
+  "id": "3dd1fe6d25006a5ef159",
+  "kind": "science",
+  "source": "OpenStax · University Physics Volume 2",
+  "ref": "7.5",
+  "url": "https://openstax.org/books/university-physics-volume-2/pages/7-5-equipotential-surfaces-and-conductors",
+  "excerpt": "a conductor can be fixed at what we consider zero volts by connecting it to the earth with a good conductor",
+  "sourceHash": "b7e00db70a829e1de5a02b76742cdca3ea52badb0df9b613dc859d12c82f8713",
+  "cacheSourceId": "6e6fcb6bd5d877038aa5",
+  "retrievedAt": "2026-11-06T14:48:34.364220+00:00",
+  "reviewedMappings": {
+    "2009-3-10:0": "원본 그림에서 B는 안쪽 구면 접지, 바깥쪽은 전지와 열린 회로로 +Q 보존. 구면 대칭 전위의 중첩 V(R)=kq/R+kQ/(2R)=0에서 q=-Q/2. 각 오답 대입 잔여전위와 무한대 기준 확인."
+  }
+}

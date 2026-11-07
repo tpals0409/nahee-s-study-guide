@@ -1,0 +1,16 @@
+{
+  "id": "cca8bd2f1c82b0bc4657",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "OpenStax University Physics Volume 1 §10.7 Newton’s Second Law for Rotation",
+  "url": "https://openstax.org/books/university-physics-volume-1/pages/10-7-newtons-second-law-for-rotation",
+  "excerpt": "the sum of the torques equals the moment of inertia times the angular acceleration",
+  "sourceHash": "b9580a55b3cdd198bf318f87ba704c49f13388ac046816d693ef9861b42bbc2d",
+  "cacheSourceId": "d3c589d02892319c5859",
+  "retrievedAt": "2026-11-06T17:48:06.072150+00:00",
+  "reviewedMappings": {
+    "2013-3-04:0": "원본 수평 균질 막대 끝점축에 I=ML²/3, tau=MgL/2, a=Lalpha 적용. a=3g/2. 각 오답 a를 tau=I a/L에 역대입해 실제 토크와 불일치 확인."
+  },
+  "retrievalMethod": "web.open/find; torque equation, a=r alpha and rod endpoint integral directly reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

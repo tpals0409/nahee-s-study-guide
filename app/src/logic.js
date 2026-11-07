@@ -193,14 +193,23 @@ export function stemHtml(q) {
 	return `<div class="question-stem">${parts.prompt ? `<p class="stem${parts.prompt.length > 200 ? " long" : ""}">${esc(parts.prompt)}</p>` : ""}<section class="statement-box" aria-label="보기 지문"><h3 class="statement-heading">보기</h3><ul class="statements" role="list">${parts.items.map((item) => `<li class="statement"><span class="statement-label">${item.label}.</span><p>${esc(item.text)}</p></li>`).join("")}</ul></section></div>`;
 }
 
-/* 조문·조약은 생성 때 본문과 대조한 근거, 판례는 원문이 없는 근거 */
+const evidenceUrl = (value) => {
+	try {
+		const url = new URL(value);
+		return url.protocol === "https:" && !url.username && ["law.go.kr", "www.law.go.kr", "openstax.org", "science.nasa.gov", "www.nasa.gov", "www.noaa.gov", "www.weather.gov", "www.usgs.gov", "www.nist.gov", "www.ncbi.nlm.nih.gov"].includes(url.hostname) ? url.href : "";
+	} catch { return ""; }
+};
+
+/* 원문 대조 근거와 기존의 미확인 판례 표시는 구별한다. */
 export function basisHtml(q, ex, choice) {
 	const items = ex.basis?.filter((b) => b.choice === choice) ?? [];
-	if (ex.basis && !items.length && choice && q.subject !== "자연과학개론") return '<p class="basis muted">근거 미확인</p>';
+	if (ex.basis && !items.length && choice && !ex.basis.some((b) => b.choice === 0)) return '<p class="basis muted">근거 미확인</p>';
 	return items.map((b) => {
-		if (b.kind === "precedent") return `<p class="basis muted">판례 기반 · 원문 미확인</p>`;
-		const name = b.kind === "article" ? `${b.source} 제${b.ref}조` : b.source;
-		return `<details class="basis"><summary>${esc(name)} · 조문 확인${b.changed ? " · 현행 문구 다름" : ""}</summary><blockquote>${esc(b.quote)}</blockquote></details>`;
+		if (b.kind === "precedent" && b.verification !== "source-matched") return `<p class="basis muted">판례 기반 · 원문 미확인</p>`;
+		const name = b.kind === "article" ? `${b.source} 제${b.ref}조` : `${b.source}${b.ref ? ` ${b.ref}` : ""}`;
+		const url = evidenceUrl(b.url);
+		const label = b.kind === "science" ? "개념·공식 근거" : b.kind === "precedent" ? "판례 원문" : "조문 확인";
+		return `<details class="basis"><summary>${esc(name)} · ${label}${b.changed ? " · 현행 문구 다름" : ""}</summary><blockquote>${esc(b.quote)}</blockquote>${url ? `<a class="basis-source" href="${esc(url)}" target="_blank" rel="noopener noreferrer">${b.kind === "article" ? "시험 당시 법령 원문" : "출처 원문"} 열기 ↗</a>` : ""}</details>`;
 	}).join("");
 }
 

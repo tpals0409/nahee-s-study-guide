@@ -1,0 +1,16 @@
+{
+  "id": "a30edca178eabe8e4a23",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 2e 6.5 Periodic Variations",
+  "url": "https://openstax.org/books/chemistry-2e/pages/6-5-periodic-variations-in-element-properties",
+  "excerpt": "decrease across a period",
+  "sourceHash": "58b171bec52c88f8b90a2ddac404acdb123daad370f591931c14058f38e0fb48",
+  "cacheSourceId": "3d0e78821cd321413a5a",
+  "retrievedAt": "2026-11-06T17:11:29.379779+00:00",
+  "reviewedMappings": {
+    "2012-3-12:2": "같은 주기 C에서 O로 갈수록 반지름 감소. Z=C가 X=O보다 큼."
+  },
+  "retrievalMethod": "web.open relevant paragraphs reviewed; selected excerpt retained",
+  "sourceHashScope": "Selected excerpt only; not full page"
+}

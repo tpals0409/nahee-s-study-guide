@@ -1,0 +1,16 @@
+{
+  "id": "333acab2cc4acb7add5c",
+  "kind": "science",
+  "source": "The Geological Society",
+  "ref": "Chemical composition - 'crust' and 'mantle'",
+  "url": "https://www.geolsoc.org.uk/Plate-Tectonics/Chap2-What-is-a-Plate/Chemical-composition-crust-and-mantle.html",
+  "excerpt": "before crossing the Moho and entering the upper mantle.",
+  "sourceHash": "dd486de8439166665cf394c1fd9dbff4f36fe04b4cfbed3e081abeb5411892bf",
+  "cacheSourceId": "edd7155e4891716775d8",
+  "retrievedAt": "2026-11-07T01:25:06.658651+00:00",
+  "reviewedMappings": {
+    "2022-3-38:1": "모호면을 통과하면 지각에서 상부맨틀로 들어간다는 설명이 ①을 직접 지지한다."
+  },
+  "retrievalMethod": "Direct page open, crust and mantle boundary paragraphs.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

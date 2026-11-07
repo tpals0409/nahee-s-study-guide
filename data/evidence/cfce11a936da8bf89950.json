@@ -1,0 +1,18 @@
+{
+  "id": "cfce11a936da8bf89950",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Anatomy and Physiology 19.1 Heart Anatomy",
+  "url": "https://openstax.org/books/anatomy-and-physiology/pages/19-1-heart-anatomy",
+  "excerpt": "The pulmonary veins conduct blood into the left atrium",
+  "sourceHash": "f203f9386c3d28c7021004583c73fc68d071ac995b5d5abb2b85dae53e20af36",
+  "cacheSourceId": "370290dc5505720a7504",
+  "retrievedAt": "2026-11-06T16:58:15.016925+00:00",
+  "reviewedMappings": {
+    "2011-3-22:3": "ㄹ의 우심방은 좌심방의 오류.",
+    "2011-3-22:5": "ㄹ 포함으로 오답.",
+    "2011-3-22:0": "공통 해설 근거: ㄹ의 우심방은 좌심방의 오류. ㄹ 포함으로 오답."
+  },
+  "retrievalMethod": "web.search 반환 본문 직접 대조; 전체 페이지 취득 아님",
+  "sourceHashScope": "Selected excerpt only; not full page"
+}

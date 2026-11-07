@@ -1,0 +1,16 @@
+{
+  "id": "0619ed3518db4ce6eb6e",
+  "kind": "science",
+  "source": "University of Illinois Department of Chemistry",
+  "ref": "Molecular Orbital Theory — comparative diatomic table",
+  "url": "https://chemistry.illinois.edu/system/files/2023-07/Molecular%20Orbital%20Theory.pdf",
+  "excerpt": "Observed bond dissociation energy",
+  "sourceHash": "99de643900244152c6d124c479e86449fcca97ea905a058e4504a9ac11a2c63c",
+  "cacheSourceId": "8c50b5438b5d03b23158",
+  "retrievedAt": "2026-11-07T01:46:46.382838+00:00",
+  "reviewedMappings": {
+    "2023-3-18:4": "다섯 분자 중 N2의 결합차수3이 가장 높으며 별도의 관측결합해리에너지 비교표도 N2최대임을 지지한다. 다른 원소 사이의 에너지를 결합차수만으로 보편적으로 단정하지 않는다."
+  },
+  "retrievalMethod": "Primary university-hosted PDF opened; comparison table values available in indexed search excerpt (290,620,942,495,154 kJ/mol for B2,C2,N2,O2,F2); screenshot attempt cache-missed, not visually confirmed.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

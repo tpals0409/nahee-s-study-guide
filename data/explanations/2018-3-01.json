@@ -1,0 +1,86 @@
+{
+  "id": "2018-3-01",
+  "summary": "전체 정사각형의 질량 중심에서 잘라낸 A 부분의 기여를 빼는 방법으로 계산합니다. 그 결과 남은 B 부분의 질량 중심은 (14/3, 14/3) cm입니다.",
+  "choices": [
+    "(4,4)는 잘라내기 전 정사각형 전체의 질량 중심입니다. A를 제거하면 원점 쪽 질량이 줄어들어 질량 중심이 원점 반대 방향으로 이동하므로 오답입니다.",
+    "(13/3, 13/3)은 이동량을 과소평가한 값입니다. 올바른 계산값인 14/3과 맞지 않으므로 오답입니다.",
+    "(9/2, 9/2)도 올바른 값 14/3(약 4.67)보다 작은 4.5입니다. 질량 가중 평균 계산 결과와 맞지 않으므로 오답입니다.",
+    "(14/3, 14/3)이 정답입니다. 전체 질량 중심 4는 A(질량비 1/4, 중심 2)와 B(질량비 3/4, 중심 x)의 가중 평균입니다. 따라서 4 = (1/4)(2) + (3/4)x이고, 이를 풀면 x = 14/3 cm입니다. y좌표도 대칭에 의해 같습니다.",
+    "(5,5)는 B를 L자 모양으로 나누어 계산해 보아도 나오지 않는 값입니다. 질량 중심을 지나치게 많이 이동시킨 값이므로 오답입니다."
+  ],
+  "lawNote": "균일한 얇은 판이므로 질량비를 면적비로 계산합니다. 전체 면적 64 cm², 제거한 A의 면적 16 cm², 남은 B의 면적 48 cm²입니다. x_B=y_B=(64×4−16×2)/48=14/3 cm.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1 §9.6 — Center of Mass, Eq. 9.29",
+      "quote": "the weighted average position of the mass of the extended object.",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/9-6-center-of-mass",
+      "evidenceId": "862bacd556080178e1b7",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1 §9.6 — Center of Mass, Eq. 9.29",
+      "quote": "the weighted average position of the mass of the extended object.",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/9-6-center-of-mass",
+      "evidenceId": "862bacd556080178e1b7",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1 §9.6 — Center of Mass, Eq. 9.29",
+      "quote": "the weighted average position of the mass of the extended object.",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/9-6-center-of-mass",
+      "evidenceId": "862bacd556080178e1b7",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1 §9.6 — Center of Mass, Eq. 9.29",
+      "quote": "the weighted average position of the mass of the extended object.",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/9-6-center-of-mass",
+      "evidenceId": "862bacd556080178e1b7",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1 §9.6 — Center of Mass, Eq. 9.29",
+      "quote": "the weighted average position of the mass of the extended object.",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/9-6-center-of-mass",
+      "evidenceId": "862bacd556080178e1b7",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1 §9.6 — Center of Mass, Eq. 9.29",
+      "quote": "the weighted average position of the mass of the extended object.",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/9-6-center-of-mass",
+      "evidenceId": "862bacd556080178e1b7",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "원본 도형·정답 대조, 질량 중심 공식 근거 확인, 면적 모멘트 차감 및 두 직사각형 분할의 유리수 계산 검산",
+    "contentHash": "f10a93f3f410d59249be3066303ac11ac1332dde896830dfb5d89199a7782020"
+  }
+}

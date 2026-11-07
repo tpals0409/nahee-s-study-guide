@@ -1,0 +1,17 @@
+{
+  "id": "9205f564762406cb6071",
+  "kind": "science",
+  "source": "Annual Reviews / NASA IPAC NED",
+  "ref": "Sofue & Rubin (2001), Rotation Curves of Spiral Galaxies, §4.2 The Milky Way Center",
+  "url": "https://ned.ipac.caltech.edu/level5/Sept05/Sofue/Sofue4.html",
+  "excerpt": "shows a very steep rise in the central hundred pc region",
+  "sourceHash": "90b20ae0d9d0ea221434f63b88904d7d3417001e89f2d217628d3e7418af761d",
+  "cacheSourceId": "4c8597dc4b9c2736c327",
+  "retrievedAt": "2026-11-07T04:28:40.574762+00:00",
+  "reviewedMappings": {
+    "2026-3-40:0": "저자 검토논문의 중심부 관측곡선 설명에서 상승과 약300pc봉우리를 확인해⑤의 감소 진술을 반박한다.",
+    "2026-3-40:5": "14–16은 중심수백pc상승과 약300pc봉우리, 그이후감소 및 블랙홀극중심의 별도거동을 명시한다. 균질밀도강체회전이나 바깥모든구간평탄으로 일반화하지 않는다."
+  },
+  "retrievalMethod": "Direct web open/find",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "96f071d408a5f258ae29",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Anatomy and Physiology 2e, 20.2 Blood Flow, Blood Pressure, and Resistance",
+  "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/20-2-blood-flow-blood-pressure-and-resistance",
+  "excerpt": "the total cross-sectional area of the body’s capillary beds is far greater than any other type of vessel",
+  "sourceHash": "690e30e77081114ef04c05aaf2e7abaa11526bf8374fb3701248841b99333714",
+  "cacheSourceId": "38395777b460ff56e201",
+  "retrievedAt": "2026-11-07T00:13:18.728530+00:00",
+  "reviewedMappings": {
+    "2021-3-23:0": "동맥→모세혈관→정맥의 통상적인 순환단계 비교. 동맥압 최대, 모세혈관 총단면적 최대 및 평균유속 최소. ㄱㄷ참/ㄴ거짓.",
+    "2021-3-23:1": "ㄱ은 참이나 총단면적이 가장 큰 모세혈관에 대한 ㄷ도 참이므로 불완전.",
+    "2021-3-23:2": "정맥보다 모세혈관의 평균유속이 작으므로 ㄴ거짓. lines136,170-171.",
+    "2021-3-23:3": "lines31,135에서 동맥 쪽 압력이 높음; line134에서 모세혈관 전체 단면적 최대. ㄱㄷ 조합 일치.",
+    "2021-3-23:4": "ㄷ참이나 ㄴ거짓. 모세혈관 이후 정맥 쪽 유속은 다시 증가하며, 높은 정맥 유속을 높은 압력과 혼동하지 않음.",
+    "2021-3-23:5": "ㄱㄷ참이나 ㄴ을 포함해 오답. 모세혈관에서 최소 유속임."
+  },
+  "retrievalMethod": "Direct lines31,134-136,170-171 reviewed: systemic pressure declines, maximal capillary total area, minimum capillary velocity and rising venous velocity.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

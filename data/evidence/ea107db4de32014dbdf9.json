@@ -1,0 +1,16 @@
+{
+  "id": "ea107db4de32014dbdf9",
+  "kind": "science",
+  "source": "Australian Antarctic Program",
+  "ref": "Antarctic krill — Diet and feeding",
+  "url": "https://www.antarctica.gov.au/about-antarctica/animals/krill/",
+  "excerpt": "The primary food of krill is phytoplankton",
+  "sourceHash": "714429c1100ff1e8cc33e65e5279fc6caf3ed0d382fd0e347f1d3651527b8fb5",
+  "cacheSourceId": "44fa85fe4382bf96f059",
+  "retrievedAt": "2026-11-06T15:49:45.354156+00:00",
+  "reviewedMappings": {
+    "2010-3-27:1": "주먹이인 식물플랑크톤과 겨울의 동물 등 대체 먹이 문맥 확인. 생산자를 먹는 관계에 한해 1차 소비자로 한정."
+  },
+  "retrievalMethod": "web tool source text read; relevant section context reviewed",
+  "sourceHashScope": "Selected excerpt only, not complete page"
+}

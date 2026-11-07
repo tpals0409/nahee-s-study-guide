@@ -1,0 +1,17 @@
+{
+  "id": "38d55c62cad66d12780f",
+  "kind": "science",
+  "source": "대한지질학회",
+  "ref": "강원권 지질유산의 발굴 및 가치평가",
+  "url": "https://www.jgsk.or.kr/_PR/view/?aidx=27196&bidx=2488",
+  "excerpt": "구문소 북측의 하상과 하안을 따라 오오도비스기의 탄산염암(석회암, 돌로마이트질 석회암, 돌로마이트) 지층(막골층)이 단속적으로 노출되어 있으며,",
+  "sourceHash": "9d1529117006ac0f71c745cee9f57198efdddbd54ae4cfb4fe96c3b6c9d1eeb4",
+  "cacheSourceId": "681574a4feb0d0061615",
+  "retrievedAt": "2026-11-06T23:36:30.691082+00:00",
+  "reviewedMappings": {
+    "2020-3-34:0": "태백 구문소 오르도비스기 막골층의 석회암 노출이 고생대 석회암 부재 진술 ④를 직접 반박한다.",
+    "2020-3-34:4": "태백 구문소 오르도비스기 막골층의 석회암 노출이 고생대 석회암 부재 진술 ④를 직접 반박한다."
+  },
+  "retrievalMethod": "Direct web open and find; reviewed sections 2.2 and 4.2, lines 90–96 and 139. Article published December 2020; used as corroboration of longstanding Ordovician limestone exposures, not a source available before exam.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

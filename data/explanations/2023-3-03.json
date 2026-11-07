@@ -1,0 +1,85 @@
+{
+  "id": "2023-3-03",
+  "summary": "정답은 ③, 24 kg입니다. 얼음 부피를 V라 하면 (나)의 부력 평형은 ρw(47V/48)=(11/12)ρwV+72입니다(g를 약분). 따라서 ρwV=1152 kg입니다. 짐을 내린 뒤 줄어든 부력 ρwgV/48이 짐의 무게이므로 짐의 질량은 1152/48=24 kg입니다.",
+  "choices": [
+    "① 오답입니다. (나)에서 ρwV=1152 kg이고 얼음 질량은 1056 kg입니다. 짐이 12 kg이면 (가)의 총질량은 1140 kg으로, 완전히 잠긴 얼음이 밀어낸 물의 질량 1152 kg보다 작아 주어진 높이에서 평형이 아닙니다.",
+    "② 오답입니다. 짐이 18 kg이면 (가)의 총질량은 1056+72+18=1146 kg입니다. 주어진 높이의 부력에 해당하는 1152 kg보다 작으므로 조건에 맞지 않습니다.",
+    "③ 정답입니다. 두 상태의 부력 차이는 ρwgV/48이고 무게 차이는 짐의 무게입니다. (나)에서 구한 ρwV=1152 kg을 이용하면 짐의 질량은 24 kg입니다.",
+    "④ 오답입니다. 짐이 36 kg이면 (가)의 총질량은 1164 kg입니다. 주어진 높이에서 얼음이 받는 부력은 1152g이므로 무게와 부력이 평형을 이루지 않습니다.",
+    "⑤ 오답입니다. 짐이 48 kg이면 (가)의 총질량은 1176 kg입니다. 얼음 전체 부피에 해당하는 부력 1152g보다 무게가 커서 주어진 상태를 만족하지 않습니다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1 14.4 — Archimedes’ Principle",
+      "quote": "The buoyant force on an object equals the weight of the fluid it displaces.",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/14-4-archimedes-principle-and-buoyancy",
+      "evidenceId": "3c351de88016f9fdb60c",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1 14.4 — Archimedes’ Principle",
+      "quote": "The buoyant force on an object equals the weight of the fluid it displaces.",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/14-4-archimedes-principle-and-buoyancy",
+      "evidenceId": "3c351de88016f9fdb60c",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1 14.4 — Archimedes’ Principle",
+      "quote": "The buoyant force on an object equals the weight of the fluid it displaces.",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/14-4-archimedes-principle-and-buoyancy",
+      "evidenceId": "3c351de88016f9fdb60c",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1 14.4 — Archimedes’ Principle",
+      "quote": "The buoyant force on an object equals the weight of the fluid it displaces.",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/14-4-archimedes-principle-and-buoyancy",
+      "evidenceId": "3c351de88016f9fdb60c",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1 14.4 — Archimedes’ Principle",
+      "quote": "The buoyant force on an object equals the weight of the fluid it displaces.",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/14-4-archimedes-principle-and-buoyancy",
+      "evidenceId": "3c351de88016f9fdb60c",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1 14.4 — Archimedes’ Principle",
+      "quote": "The buoyant force on an object equals the weight of the fluid it displaces.",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/14-4-archimedes-principle-and-buoyancy",
+      "evidenceId": "3c351de88016f9fdb60c",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Original ice/load diagram and density fractions verified; exact rational equilibrium calculation, difference method and mass-balance cross-check. Removed force-as-kg wording and unsupported claims about later sinking motion.",
+    "contentHash": "1f710f75b3939e9aae761b97e817a042db329f8c4ee073c51108cc83a2e056cc"
+  }
+}

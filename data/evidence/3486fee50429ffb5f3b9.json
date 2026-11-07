@@ -1,0 +1,19 @@
+{
+  "id": "3486fee50429ffb5f3b9",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e §45.6 Community Ecology",
+  "url": "https://openstax.org/books/biology-2e/pages/45-6-community-ecology",
+  "excerpt": "in secondary succession, part of an ecosystem is disturbed and remnants of the previous community remain.",
+  "sourceHash": "1af8e4e85edeab2250cef708ac43e9ef93d85e2a1d3074a47eb2527c0dc3ba75",
+  "cacheSourceId": "18edf0e858de90968776",
+  "retrievedAt": "2026-11-07T03:28:19.471117+00:00",
+  "reviewedMappings": {
+    "2025-3-29:0": "Community Dynamics와 Secondary succession 절: 기존 군집 잔존물이 남은 교란 후 회복이라는 정의를 옐로스톤 사례에 적용해 2차 천이로 분류한다.",
+    "2025-3-29:2": "Community Dynamics와 Secondary succession 절: 기존 군집 잔존물이 남은 교란 후 회복이라는 정의를 옐로스톤 사례에 적용해 2차 천이로 분류한다.",
+    "2025-3-29:4": "Community Dynamics와 Secondary succession 절: 기존 군집 잔존물이 남은 교란 후 회복이라는 정의를 옐로스톤 사례에 적용해 2차 천이로 분류한다.",
+    "2025-3-29:5": "Community Dynamics와 Secondary succession 절: 기존 군집 잔존물이 남은 교란 후 회복이라는 정의를 옐로스톤 사례에 적용해 2차 천이로 분류한다."
+  },
+  "retrievalMethod": "Direct textbook section read",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

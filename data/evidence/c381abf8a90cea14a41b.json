@@ -1,0 +1,17 @@
+{
+  "id": "c381abf8a90cea14a41b",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "OpenStax Biology 2e §15.4 RNA Processing in Eukaryotes",
+  "url": "https://openstax.org/books/biology-2e/pages/15-4-rna-processing-in-eukaryotes",
+  "excerpt": "The process of removing introns and reconnecting exons is called splicing",
+  "sourceHash": "554542c4d93dffe0fc98c652b92556c3179007ffbf6ede0ca6017b4f40801467",
+  "cacheSourceId": "6fd95ebc5bc8a4146e42",
+  "retrievedAt": "2026-11-06T18:13:33.984193+00:00",
+  "reviewedMappings": {
+    "2013-3-27:3": "핵수출 전 가공 및 전사중 5prime캡 형성 확인. Figure15.11 성숙mRNA에3primeUTR 존재. 인트론제거와 비번역부위를 혼동하지 않도록 수정.",
+    "2013-3-27:4": "핵수출 전 가공 및 전사중 5prime캡 형성 확인. Figure15.11 성숙mRNA에3primeUTR 존재. 인트론제거와 비번역부위를 혼동하지 않도록 수정."
+  },
+  "retrievalMethod": "web.open",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

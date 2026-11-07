@@ -1,0 +1,21 @@
+{
+  "id": "b53f297d25dde071efcf",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e — 44.1 The Scope of Ecology",
+  "url": "https://openstax.org/books/biology-2e/pages/44-1-the-scope-of-ecology",
+  "excerpt": "These levels are organism, population, community, and ecosystem",
+  "sourceHash": "9ff1977223996410e0c3bafc5c00d0248e92346f730e2e222e264d580afcd0a4",
+  "cacheSourceId": "ad232c958fa369a64d47",
+  "retrievedAt": "2026-11-06T20:37:08.282471+00:00",
+  "reviewedMappings": {
+    "2016-3-29:0": "본문의 개체군·군집·생태계 정의 대조: 개체군은 같은 지역·시기의 같은 종, 군집은 여러 종, 생태계는 생물 및 비생물 환경. 따라서 ㄱ만 참.",
+    "2016-3-29:1": "ㄱ의 생물과 환경이라는 정의는 Ecosystem Ecology의 생물적·비생물적 구성요소와 일치한다.",
+    "2016-3-29:2": "Population Ecology의 같은 종이라는 조건에 반하므로 여러 종이라는 ㄴ은 거짓이다.",
+    "2016-3-29:3": "Community Ecology의 여러 종이라는 정의에 반하므로 같은 종이라는 ㄷ은 개체군의 정의다.",
+    "2016-3-29:4": "ㄱ은 생태계 정의와 일치하지만 ㄴ은 개체군과 군집을 혼동하여 조합이 틀린다.",
+    "2016-3-29:5": "ㄴ과 ㄷ 모두 개체군과 군집 정의를 뒤바꾸었으므로 조합이 틀린다."
+  },
+  "retrievalMethod": "Direct web open; definitions of population, community, and ecosystem reviewed in sections Population Ecology, Community Ecology, Ecosystem Ecology.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

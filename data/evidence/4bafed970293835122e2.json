@@ -1,0 +1,21 @@
+{
+  "id": "4bafed970293835122e2",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume 3, 6.3 The Compton Effect",
+  "url": "https://openstax.org/books/university-physics-volume-3/pages/6-3-the-compton-effect",
+  "excerpt": "the conservation of linear momentum",
+  "sourceHash": "abe7561854e729fb67176d53b04b731829dfb69db3da388ffa9902964ed5e7ae",
+  "cacheSourceId": "933ada5e65db1d113f4f",
+  "retrievedAt": "2026-11-07T01:37:59.659000+00:00",
+  "reviewedMappings": {
+    "2023-3-10:0": "식 6.21 광자 운동량 h/λ와 6.25 벡터 운동량 보존을 사용. 문제의 콤프턴 관계로 cosφ를 소거하여 p²=(a−b+k)²−k²를 직접 도출했고, 식 6.26과도 일치한다.",
+    "2023-3-10:1": "동일한 보존식에서 정답은 (a−b)²+2k(a−b). ①은 (a+b)²+2k(a+b)이므로 다르다. λ=λ_C, φ=π에서 40/9와 실제 16/9를 유리수로 대조.",
+    "2023-3-10:2": "②는 (a+b−k)²+k². λ=λ_C, φ=π이면 10/9이나 벡터 운동량 보존의 실제 값은 16/9이므로 일반식이 아니다.",
+    "2023-3-10:3": "식 6.25의 벡터 차의 제곱은 a²+b²−2ab cosφ. 콤프턴 식과 ab(λ′−λ)/λ_C=k(a−b)를 대입하면 ③과 같아진다.",
+    "2023-3-10:4": "④ 전개는 (a−b)²−2k(a−b)+2k²로, 올바른 교차항 +2k(a−b) 및 상수항 0과 다르다. 후방산란 수치로도 불일치 확인.",
+    "2023-3-10:5": "⑤ 전개는 (a−b)²−2k(a−b)로 교차항 부호가 틀리다. 후방산란 예에서 −8/9가 되어 운동량 제곱 16/9와 불일치."
+  },
+  "retrievalMethod": "Direct web open: equations 6.17–6.27, photon momentum and vector momentum conservation reviewed; original question image inspected.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

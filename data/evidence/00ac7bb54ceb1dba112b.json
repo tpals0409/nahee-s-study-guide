@@ -1,0 +1,16 @@
+{
+  "id": "00ac7bb54ceb1dba112b",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume 1 §11.1 Rolling Motion, conservation of energy and Example 11.3",
+  "url": "https://openstax.org/books/university-physics-volume-1/pages/11-1-rolling-motion",
+  "excerpt": "the incremental work done by the static friction force is zero.",
+  "sourceHash": "5011eb7182bfdf8d9b73200b37f2f8ab1e6c7ace0f2628defe195618830a1f97",
+  "cacheSourceId": "24b6ab4b2b7f62c258d7",
+  "retrievedAt": "2026-11-06T16:15:18.463248+00:00",
+  "reviewedMappings": {
+    "2011-3-02:0": "정지 지면에서 순수 구름: 접점 속도 0 및 마찰 일 0. Eq11.1 v=Rω, 예11.3 I=mr²와 에너지 보존 도출을 본문 대조. 문제 원본 그림의 출발/도착 수평면 높이 차 h 확인. 고리 전 질량이 축에서 R에 있어 I=∫R²dm=MR²로 독립 도출."
+  },
+  "retrievalMethod": "web.open/web.find; rolling condition Eq.11.1, energy equation and hollow-wheel worked example read",
+  "sourceHashScope": "Selected excerpt only; not full page"
+}

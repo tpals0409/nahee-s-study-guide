@@ -1,0 +1,151 @@
+{
+  "id": "2020-3-08",
+  "summary": "그림에서 각 상태는 A(V0, P0), B(2V0, 2P0), C(2V0, P0)입니다. 순환과정에서 기체가 한 총 일은 삼각형의 넓이인 P0V0/2입니다. A→B 과정에서 흡수한 열량은 내부에너지 변화 9P0V0/2와 기체가 한 일 3P0V0/2를 더한 6P0V0입니다. 따라서 |W/QAB| = (1/2)/6 = 1/12입니다.",
+  "choices": [
+    "오답입니다. 순환 일 W=P0V0/2를 기준으로 비가 1/24이려면 QAB=12P0V0이어야 합니다. 하지만 ΔUAB=9P0V0/2, WAB=3P0V0/2이므로 QAB=6P0V0입니다.",
+    "오답입니다. 순환 일 W=P0V0/2를 기준으로 비가 1/16이려면 QAB=8P0V0이어야 합니다. 하지만 ΔUAB=9P0V0/2, WAB=3P0V0/2이므로 QAB=6P0V0입니다.",
+    "정답입니다. 순환 일은 WAB+WBC+WCA=(3/2+0−1)P0V0=P0V0/2입니다. 단원자 이상기체에서 ΔUAB=(3/2)(PBVB−PAVA)=9P0V0/2이므로 QAB=ΔUAB+WAB=6P0V0입니다. 따라서 |W/QAB|=1/12입니다.",
+    "오답입니다. 순환 일 W=P0V0/2를 기준으로 비가 1/8이려면 QAB=4P0V0이어야 합니다. 하지만 ΔUAB=9P0V0/2, WAB=3P0V0/2이므로 QAB=6P0V0입니다.",
+    "오답입니다. 순환 일 W=P0V0/2를 기준으로 비가 1/6이려면 QAB=3P0V0이어야 합니다. 하지만 ΔUAB=9P0V0/2, WAB=3P0V0/2이므로 QAB=6P0V0입니다."
+  ],
+  "lawNote": "기체가 외부에 한 일을 양수로 정하여 Q=ΔU+W를 적용합니다. A→B는 압력과 부피가 모두 변하는 직선 경로이므로 등압 또는 등적 과정의 열량식을 그대로 적용하지 않습니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2 §3.2 Work, Heat, and Internal Energy, equation 3.4",
+      "quote": "Work done by the gas is positive for expansion and negative for compression.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/3-2-work-heat-and-internal-energy",
+      "evidenceId": "25493eb951409e392604",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2 §3.2 Work, Heat, and Internal Energy, equation 3.4",
+      "quote": "Work done by the gas is positive for expansion and negative for compression.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/3-2-work-heat-and-internal-energy",
+      "evidenceId": "25493eb951409e392604",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2 §3.2 Work, Heat, and Internal Energy, equation 3.4",
+      "quote": "Work done by the gas is positive for expansion and negative for compression.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/3-2-work-heat-and-internal-energy",
+      "evidenceId": "25493eb951409e392604",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2 §3.2 Work, Heat, and Internal Energy, equation 3.4",
+      "quote": "Work done by the gas is positive for expansion and negative for compression.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/3-2-work-heat-and-internal-energy",
+      "evidenceId": "25493eb951409e392604",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2 §3.2 Work, Heat, and Internal Energy, equation 3.4",
+      "quote": "Work done by the gas is positive for expansion and negative for compression.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/3-2-work-heat-and-internal-energy",
+      "evidenceId": "25493eb951409e392604",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2 §3.2 Work, Heat, and Internal Energy, equation 3.4",
+      "quote": "Work done by the gas is positive for expansion and negative for compression.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/3-2-work-heat-and-internal-energy",
+      "evidenceId": "25493eb951409e392604",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2 §3.3 First Law of Thermodynamics, equation 3.7",
+      "quote": "The first law is a statement of energy conservation.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/3-3-first-law-of-thermodynamics",
+      "evidenceId": "cb98c16d153030dad8d4",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2 §3.3 First Law of Thermodynamics, equation 3.7",
+      "quote": "The first law is a statement of energy conservation.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/3-3-first-law-of-thermodynamics",
+      "evidenceId": "cb98c16d153030dad8d4",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2 §3.3 First Law of Thermodynamics, equation 3.7",
+      "quote": "The first law is a statement of energy conservation.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/3-3-first-law-of-thermodynamics",
+      "evidenceId": "cb98c16d153030dad8d4",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2 §3.3 First Law of Thermodynamics, equation 3.7",
+      "quote": "The first law is a statement of energy conservation.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/3-3-first-law-of-thermodynamics",
+      "evidenceId": "cb98c16d153030dad8d4",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2 §3.3 First Law of Thermodynamics, equation 3.7",
+      "quote": "The first law is a statement of energy conservation.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/3-3-first-law-of-thermodynamics",
+      "evidenceId": "cb98c16d153030dad8d4",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2 §3.3 First Law of Thermodynamics, equation 3.7",
+      "quote": "The first law is a statement of energy conservation.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/3-3-first-law-of-thermodynamics",
+      "evidenceId": "cb98c16d153030dad8d4",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Original PV graph visually checked; independent path-integral work, monatomic internal energy and first-law computation; exact rational cycle-energy and all-option consistency checks; speculative distractor explanations replaced; primary sources mapped.",
+    "contentHash": "9224169182475fa5898153ef9d4cff669861629bbe90fb8d4278d6d4748b44ce"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "3b9d513174cc23d16252",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e, 9.1 Signaling Molecules and Cellular Receptors",
+  "url": "https://openstax.org/books/biology-2e/pages/9-1-signaling-molecules-and-cellular-receptors",
+  "excerpt": "autocrine signaling acts on the signaling cell.",
+  "sourceHash": "e5db6d16845de5e407fb71f84b45ce20f8e966ad9c119b0ba7a0544f7e8b88fc",
+  "cacheSourceId": "648164bc6033e543333b",
+  "retrievedAt": "2026-11-07T01:54:36.934499+00:00",
+  "reviewedMappings": {
+    "2023-3-23:0": "신호전달 유형 대조: 자신=자가분비, 주변=국소분비, 시냅스=틈을 통한 전달, 내분비=혈류를 통한 원거리 전달.",
+    "2023-3-23:1": "국소분비와 자가분비의 대상이 다르므로 자신에게 작용한다는 ①은 틀림.",
+    "2023-3-23:2": "Paracrine Signaling 절 및 그림9.3: 신경전달물질은 시냅스 틈으로 방출된다. 따라서 혈류로 확산한다는 ②는 틀림.",
+    "2023-3-23:5": "Endocrine Signaling 절: 호르몬은 혈류로 먼 표적세포까지 전달된다. ⑤는 국소 전달과 혼동."
+  },
+  "retrievalMethod": "직접 열람: Forms of Signaling, Paracrine Signaling, Endocrine Signaling, Autocrine Signaling 및 그림9.2~9.3.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

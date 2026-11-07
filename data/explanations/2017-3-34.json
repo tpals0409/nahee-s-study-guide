@@ -1,0 +1,86 @@
+{
+  "id": "2017-3-34",
+  "summary": "정답은 ① 감람암–화강암입니다. 제시된 심성암의 대표적인 SiO₂ 함량은 감람암 < 반려암 < 섬록암 < 화강암 순입니다.",
+  "choices": [
+    "감람암은 초고철질, 화강암은 규산이 풍부한 심성암입니다. 제시된 암석 중 SiO₂가 가장 적은 것과 가장 많은 것을 순서대로 짝지었으므로 정답입니다.",
+    "섬록암은 중간 조성이고 반려암은 고철질 조성입니다. 둘 다 제시된 암석의 최솟값·최댓값에 해당하지 않습니다.",
+    "화강암은 제시된 암석 중 SiO₂가 가장 많은 쪽이므로 첫 자리에 올 수 없습니다. 반려암도 가장 많은 암석이 아닙니다.",
+    "반려암보다 감람암의 SiO₂가 적고, 섬록암보다 화강암의 SiO₂가 많습니다. 따라서 양 끝의 암석을 고른 조합이 아닙니다.",
+    "섬록암은 가장 적은 암석이 아니며, 감람암은 오히려 가장 적은 쪽입니다. 가장 많은 암석 자리에 감람암을 둘 수 없습니다."
+  ],
+  "lawNote": "문항은 대표적인 암석 조성을 비교합니다. 심성암의 정식 분류에는 구성 광물의 비율도 사용하므로, SiO₂ 수치 하나가 모든 시료의 암석명을 결정한다고 이해하지 않습니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "U.S. National Park Service",
+      "ref": "Igneous Rocks — composition and intrusive rock classification",
+      "quote": "Intermediate rocks are those that have compositions between mafic and silicic.",
+      "url": "https://www.nps.gov/subjects/geology/igneous.htm",
+      "evidenceId": "8a25ad630cf44e22fb3e",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "U.S. National Park Service",
+      "ref": "Igneous Rocks — composition and intrusive rock classification",
+      "quote": "Intermediate rocks are those that have compositions between mafic and silicic.",
+      "url": "https://www.nps.gov/subjects/geology/igneous.htm",
+      "evidenceId": "8a25ad630cf44e22fb3e",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "U.S. National Park Service",
+      "ref": "Igneous Rocks — composition and intrusive rock classification",
+      "quote": "Intermediate rocks are those that have compositions between mafic and silicic.",
+      "url": "https://www.nps.gov/subjects/geology/igneous.htm",
+      "evidenceId": "8a25ad630cf44e22fb3e",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "U.S. National Park Service",
+      "ref": "Igneous Rocks — composition and intrusive rock classification",
+      "quote": "Intermediate rocks are those that have compositions between mafic and silicic.",
+      "url": "https://www.nps.gov/subjects/geology/igneous.htm",
+      "evidenceId": "8a25ad630cf44e22fb3e",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "U.S. National Park Service",
+      "ref": "Igneous Rocks — composition and intrusive rock classification",
+      "quote": "Intermediate rocks are those that have compositions between mafic and silicic.",
+      "url": "https://www.nps.gov/subjects/geology/igneous.htm",
+      "evidenceId": "8a25ad630cf44e22fb3e",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "U.S. National Park Service",
+      "ref": "Igneous Rocks — composition and intrusive rock classification",
+      "quote": "Intermediate rocks are those that have compositions between mafic and silicic.",
+      "url": "https://www.nps.gov/subjects/geology/igneous.htm",
+      "evidenceId": "8a25ad630cf44e22fb3e",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "Original image and NPS composition table reviewed; all five ordered pairs compared",
+    "contentHash": "38f69a52a353f084614e4f41406ce4e537a7a733a96be7712377312dcc6d593f"
+  }
+}

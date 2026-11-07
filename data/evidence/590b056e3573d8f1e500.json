@@ -1,0 +1,14 @@
+{
+  "id": "590b056e3573d8f1e500",
+  "kind": "science",
+  "source": "NOAA · National Weather Service",
+  "ref": "El Niño/Southern Oscillation",
+  "url": "https://www.weather.gov/fwd/basics",
+  "excerpt": "Guided by the winds, a westward ocean current moves water from the eastern Pacific into the central Pacific.",
+  "sourceHash": "1f0dc27db6082413ff1ec7be4a53101d8591f6a153f794ee7c874c6b70818926",
+  "cacheSourceId": "f416e82d40cee5fcf627",
+  "retrievedAt": "2026-11-06T15:08:49.499168+00:00",
+  "reviewedMappings": {
+    "2009-3-32:0": "NWS Walker circulation의 동→서무역풍과 이에따른서향해류 원문대조. 문항의 대표방향과 남북수송을구분. 초안의 적도잠류·Ekman세부설명을삭제."
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "e874fbe2650f980d5619",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 2e §10.4 — Water phase diagram",
+  "url": "https://openstax.org/books/chemistry-2e/pages/10-4-phase-diagrams",
+  "excerpt": "At the pressure and temperature represented by this point, three phases of water coexist in equilibrium.",
+  "sourceHash": "82a5ba89458e91fb9ed5fe09ce23ed2d773f5a34c19e6c8eb44bc955a2a2b6e0",
+  "cacheSourceId": "9fb234cb36904b410fa6",
+  "retrievedAt": "2026-11-06T21:41:20.581318+00:00",
+  "reviewedMappings": {
+    "2018-3-05:0": "물 상도표의 삼중점0.01°C와 등압 방향 판독. 원본 A→P→B는 고체→삼중점→기체이며 P 이후 액체영역을 지나지 않는다. 100°C 끓음은1atm 조건임을 대조. 원본 다섯 그래프의 수평구간 위치를 직접 대조.",
+    "2018-3-05:1": "물 상도표의 삼중점0.01°C와 등압 방향 판독. 원본 A→P→B는 고체→삼중점→기체이며 P 이후 액체영역을 지나지 않는다. 100°C 끓음은1atm 조건임을 대조. 원본 다섯 그래프의 수평구간 위치를 직접 대조.",
+    "2018-3-05:2": "물 상도표의 삼중점0.01°C와 등압 방향 판독. 원본 A→P→B는 고체→삼중점→기체이며 P 이후 액체영역을 지나지 않는다. 100°C 끓음은1atm 조건임을 대조. 원본 다섯 그래프의 수평구간 위치를 직접 대조.",
+    "2018-3-05:3": "물 상도표의 삼중점0.01°C와 등압 방향 판독. 원본 A→P→B는 고체→삼중점→기체이며 P 이후 액체영역을 지나지 않는다. 100°C 끓음은1atm 조건임을 대조. 원본 다섯 그래프의 수평구간 위치를 직접 대조.",
+    "2018-3-05:4": "물 상도표의 삼중점0.01°C와 등압 방향 판독. 원본 A→P→B는 고체→삼중점→기체이며 P 이후 액체영역을 지나지 않는다. 100°C 끓음은1atm 조건임을 대조. 원본 다섯 그래프의 수평구간 위치를 직접 대조.",
+    "2018-3-05:5": "물 상도표의 삼중점0.01°C와 등압 방향 판독. 원본 A→P→B는 고체→삼중점→기체이며 P 이후 액체영역을 지나지 않는다. 100°C 끓음은1atm 조건임을 대조. 원본 다섯 그래프의 수평구간 위치를 직접 대조."
+  },
+  "retrievalMethod": "Direct source page opened; relevant phase diagram or heating curve section reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

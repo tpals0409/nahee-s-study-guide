@@ -1,0 +1,21 @@
+{
+  "id": "261ee54781ff3e306158",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "13.1 Faraday’s Law",
+  "url": "https://openstax.org/books/university-physics-volume-2/pages/13-1-faradays-law",
+  "excerpt": "Any change in the magnetic field or change in orientation of the area of the coil",
+  "sourceHash": "7e9299a247827b27e5be1b3b2c35365723bdbb30f69615919bf36c9d7204adc3",
+  "cacheSourceId": "1937fcaa836e5c089bbb",
+  "retrievedAt": "2026-11-06T20:55:09.352698+00:00",
+  "reviewedMappings": {
+    "2017-3-03:0": "본문 41–50행 자속 적분과 패러데이 법칙 확인. 균일한 수직 자기장에 Φ=Bπr², |ε|=πr²|dB/dt|=2π V. 주어진 총저항과 결합하여 각 선지를 판정한다.",
+    "2017-3-03:1": "본문 41–50행 자속 적분과 패러데이 법칙 확인. 균일한 수직 자기장에 Φ=Bπr², |ε|=πr²|dB/dt|=2π V. 주어진 총저항과 결합하여 각 선지를 판정한다.",
+    "2017-3-03:2": "본문 41–50행 자속 적분과 패러데이 법칙 확인. 균일한 수직 자기장에 Φ=Bπr², |ε|=πr²|dB/dt|=2π V. 주어진 총저항과 결합하여 각 선지를 판정한다.",
+    "2017-3-03:3": "본문 41–50행 자속 적분과 패러데이 법칙 확인. 균일한 수직 자기장에 Φ=Bπr², |ε|=πr²|dB/dt|=2π V. 주어진 총저항과 결합하여 각 선지를 판정한다.",
+    "2017-3-03:4": "본문 41–50행 자속 적분과 패러데이 법칙 확인. 균일한 수직 자기장에 Φ=Bπr², |ε|=πr²|dB/dt|=2π V. 주어진 총저항과 결합하여 각 선지를 판정한다.",
+    "2017-3-03:5": "본문 41–50행 자속 적분과 패러데이 법칙 확인. 균일한 수직 자기장에 Φ=Bπr², |ε|=πr²|dB/dt|=2π V. 주어진 총저항과 결합하여 각 선지를 판정한다."
+  },
+  "retrievalMethod": "Direct web page opened; relevant equations and circuit assumptions reviewed.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

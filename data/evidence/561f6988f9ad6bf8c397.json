@@ -1,0 +1,19 @@
+{
+  "id": "561f6988f9ad6bf8c397",
+  "kind": "science",
+  "source": "NOAA",
+  "ref": "What is a turbidity current?",
+  "url": "https://oceanservice.noaa.gov/facts/turbidity.html",
+  "excerpt": "A turbidity current is a rapid, downhill flow of water caused by increased density due to high amounts of sediment.",
+  "sourceHash": "9543cfe2dcb17fd7c4626b6a4a6777ef0c42d4c812130262b6d369b0c7dbe7a3",
+  "cacheSourceId": "8a91539101fa440083ba",
+  "retrievedAt": "2026-11-06T20:44:47.074206+00:00",
+  "reviewedMappings": {
+    "2016-3-36:0": "저탁류가 퇴적물로 밀도가 높아진 물의 사면 하강 흐름이라는 기전 근거. 이 자료만으로 지형별 관측 빈도 순위 또는 ㄷ의 참·거짓을 확정할 수 없다.",
+    "2016-3-36:3": "저탁류가 퇴적물로 밀도가 높아진 물의 사면 하강 흐름이라는 기전 근거. 이 자료만으로 지형별 관측 빈도 순위 또는 ㄷ의 참·거짓을 확정할 수 없다.",
+    "2016-3-36:4": "저탁류가 퇴적물로 밀도가 높아진 물의 사면 하강 흐름이라는 기전 근거. 이 자료만으로 지형별 관측 빈도 순위 또는 ㄷ의 참·거짓을 확정할 수 없다.",
+    "2016-3-36:5": "저탁류가 퇴적물로 밀도가 높아진 물의 사면 하강 흐름이라는 기전 근거. 이 자료만으로 지형별 관측 빈도 순위 또는 ㄷ의 참·거짓을 확정할 수 없다."
+  },
+  "retrievalMethod": "Direct web open; definition, initiation and sediment transport paragraphs reviewed.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

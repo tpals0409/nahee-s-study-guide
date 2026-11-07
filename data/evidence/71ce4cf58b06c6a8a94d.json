@@ -1,0 +1,16 @@
+{
+  "id": "71ce4cf58b06c6a8a94d",
+  "kind": "science",
+  "source": "NASA",
+  "ref": "Jupiter Facts — Formation / Structure",
+  "url": "https://science.nasa.gov/jupiter/jupiter-facts/",
+  "excerpt": "more than twice the combined material of the other bodies in the solar system",
+  "sourceHash": "6d5a0c7f3ec1d93653154eaa60056c5ff60724a6ba1ceb074ab9a5c367e4d1f6",
+  "cacheSourceId": "edf3c7fe663d733db2e8",
+  "retrievedAt": "2026-11-06T16:08:18.315566+00:00",
+  "reviewedMappings": {
+    "2010-3-38:0": "ㄱ은 수소·헬륨 주성분과 불일치. ㄷ은 태양 형성 후 다른 천체들의 합보다 질량이 크다는 Formation 문맥으로 확인. 태양까지 비교하는 의미가 아님."
+  },
+  "retrievalMethod": "web.open and web.find: NASA publisher body reviewed",
+  "sourceHashScope": "Selected excerpts only; not full page"
+}

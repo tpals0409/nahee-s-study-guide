@@ -1,0 +1,17 @@
+{
+  "id": "e3583395f9652adba29e",
+  "kind": "science",
+  "source": "USGS",
+  "ref": "This Dynamic Planet",
+  "url": "https://pubs.usgs.gov/pdf/planet.pdf",
+  "excerpt": "Transform boundaries typically produce shallow earthquakes and accompanying ground faulting, rather than volcanic activity.",
+  "sourceHash": "255ca2f0c84ecb6eae6598914964c58a6ef304cb23b455f5ae5de65d1bb18fab",
+  "cacheSourceId": "2693ec8733dc36747c61",
+  "retrievedAt": "2026-11-07T03:32:47.806857+00:00",
+  "reviewedMappings": {
+    "2025-3-34:0": "Transform Plate Boundaries 절의 천발지진 및 비화산성 특징으로 ①의 심발지진·활발한 화산활동 주장 반박.",
+    "2025-3-34:1": "Transform Plate Boundaries 절의 천발지진 및 비화산성 특징으로 ①의 심발지진·활발한 화산활동 주장 반박."
+  },
+  "retrievalMethod": "Search-indexed USGS source text read; main Understanding page direct request returned 403",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

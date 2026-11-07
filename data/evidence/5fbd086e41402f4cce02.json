@@ -1,0 +1,20 @@
+{
+  "id": "5fbd086e41402f4cce02",
+  "kind": "science",
+  "source": "University of Iowa",
+  "ref": "Exploring the Sky II - Star Charts and Stellarium",
+  "url": "https://itu.physics.uiowa.edu/labs/foundational/exploring-sky-ii-star-charts-and-stellarium",
+  "excerpt": "RA = 18h during the Winter Solstice",
+  "sourceHash": "4fa4926c43c6486a71d65f19d854f408697a7d681682e2d1a29fbf9e01ed625b",
+  "cacheSourceId": "e2de015c8ab64f017364",
+  "retrievedAt": "2026-11-06T20:04:43.794289+00:00",
+  "reviewedMappings": {
+    "2015-3-40:0": "본문 50·64·65행의 적경 단위와 동지 태양 적경을 확인했다. 자정 남중 방향은 태양 반대쪽이므로 (18+12) mod 24=6h. 원문 그림의 쌍둥이자리 위치에 적용한 ㄴ 판단이며 실제 별자리 전체에 단일 적경을 부여하지 않는다.",
+    "2015-3-40:2": "본문 50·64·65행의 적경 단위와 동지 태양 적경을 확인했다. 자정 남중 방향은 태양 반대쪽이므로 (18+12) mod 24=6h. 원문 그림의 쌍둥이자리 위치에 적용한 ㄴ 판단이며 실제 별자리 전체에 단일 적경을 부여하지 않는다.",
+    "2015-3-40:3": "본문 50·64·65행의 적경 단위와 동지 태양 적경을 확인했다. 자정 남중 방향은 태양 반대쪽이므로 (18+12) mod 24=6h. 원문 그림의 쌍둥이자리 위치에 적용한 ㄴ 판단이며 실제 별자리 전체에 단일 적경을 부여하지 않는다.",
+    "2015-3-40:4": "본문 50·64·65행의 적경 단위와 동지 태양 적경을 확인했다. 자정 남중 방향은 태양 반대쪽이므로 (18+12) mod 24=6h. 원문 그림의 쌍둥이자리 위치에 적용한 ㄴ 판단이며 실제 별자리 전체에 단일 적경을 부여하지 않는다.",
+    "2015-3-40:5": "본문 50·64·65행의 적경 단위와 동지 태양 적경을 확인했다. 자정 남중 방향은 태양 반대쪽이므로 (18+12) mod 24=6h. 원문 그림의 쌍둥이자리 위치에 적용한 ㄴ 판단이며 실제 별자리 전체에 단일 적경을 부여하지 않는다."
+  },
+  "retrievalMethod": "web open: directly reviewed page text",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

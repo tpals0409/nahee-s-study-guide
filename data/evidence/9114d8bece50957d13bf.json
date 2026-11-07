@@ -1,0 +1,16 @@
+{
+  "id": "9114d8bece50957d13bf",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Organic Chemistry, 13.4 Chemical Shifts in 1H NMR Spectroscopy",
+  "url": "https://openstax.org/books/organic-chemistry/pages/13-4-chemical-shifts-in-1h-nmr-spectroscopy",
+  "excerpt": "Protons on carbons that are bonded to electronegative atoms",
+  "sourceHash": "746d5314c4e6afe3533376776c93e62d3b21698faada98a28dd476642efb2aa8",
+  "cacheSourceId": "4d69073258319399c46f",
+  "retrievedAt": "2026-11-06T18:46:32.979651+00:00",
+  "reviewedMappings": {
+    "2014-3-18:0": "원문표13.3 및 에스터 OCH3 예제의탈차폐를 확인. 원본①의OCH3가s,③의OCH2가q라는 구조 차이에 적용하여δ순서 구분.②알데하이드의 낮은장도 표로확인. 정확한 실측ppm값은 인용하지 않음."
+  },
+  "retrievalMethod": "web.open; direct primary-source page reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

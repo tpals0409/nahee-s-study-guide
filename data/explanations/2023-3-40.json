@@ -1,0 +1,107 @@
+{
+  "id": "2023-3-40",
+  "summary": "정답은 ③입니다. 우리은하는 막대 나선 은하이며, 태양은 원반 안의 오리온 팔(오리온 지류)에 위치합니다. 은하 중심은 궁수자리 방향이고, 별 헤일로에는 주로 오래된 별과 구상성단이 분포합니다.",
+  "choices": [
+    "우리은하는 중심 막대와 나선 구조를 가진 막대 나선 은하입니다. 따라서 타원 은하라는 설명은 틀립니다.",
+    "우리은하 중심은 황소자리가 아니라 궁수자리 방향에 있습니다.",
+    "태양은 우리은하 원반의 오리온 팔 또는 오리온 지류라 불리는 작은 나선 구조에 위치합니다. 이 구조는 궁수자리 팔과 페르세우스 팔 사이에 있으므로 옳은 설명입니다.",
+    "헤일로의 별 집단은 주로 오래된 별들로 이루어져 있습니다. 젊은 별들이 주를 이룬다는 설명은 틀립니다. 여기서 비교하는 것은 헤일로의 별 집단이며, 헤일로 전체 질량이 별로만 구성된다는 뜻은 아닙니다.",
+    "오래된 별로 이루어진 구상성단은 나선 팔에 집중되기보다 은하 중심을 둘러싼 헤일로 등에 분포합니다. 나선 팔에는 상대적으로 젊은 별 집단이 두드러지므로 틀린 설명입니다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "NASA",
+      "ref": "Solar System: Facts",
+      "quote": "called the Orion Arm, or Orion Spur",
+      "url": "https://science.nasa.gov/solar-system/solar-system-facts/",
+      "evidenceId": "d61b0ebb4ad5e68a25a9",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "NASA",
+      "ref": "Solar System: Facts",
+      "quote": "called the Orion Arm, or Orion Spur",
+      "url": "https://science.nasa.gov/solar-system/solar-system-facts/",
+      "evidenceId": "d61b0ebb4ad5e68a25a9",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "NASA",
+      "ref": "Solar System: Facts",
+      "quote": "called the Orion Arm, or Orion Spur",
+      "url": "https://science.nasa.gov/solar-system/solar-system-facts/",
+      "evidenceId": "d61b0ebb4ad5e68a25a9",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "European Southern Observatory",
+      "ref": "Wide-field view of the centre of the Milky Way",
+      "quote": "constellation of Sagittarius (the Archer)",
+      "url": "https://www.eso.org/public/images/galactic-centre-a/",
+      "evidenceId": "07b878a8cc37864833b7",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "European Southern Observatory",
+      "ref": "Wide-field view of the centre of the Milky Way",
+      "quote": "constellation of Sagittarius (the Archer)",
+      "url": "https://www.eso.org/public/images/galactic-centre-a/",
+      "evidenceId": "07b878a8cc37864833b7",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Astronomy 2e, Chapter 25 Summary",
+      "quote": "a spherical halo containing populations of very old stars",
+      "url": "https://openstax.org/books/astronomy-2e/pages/25-summary",
+      "evidenceId": "0d1ec44a8988c91a6637",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Astronomy 2e, Chapter 25 Summary",
+      "quote": "a spherical halo containing populations of very old stars",
+      "url": "https://openstax.org/books/astronomy-2e/pages/25-summary",
+      "evidenceId": "0d1ec44a8988c91a6637",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Astronomy 2e, Chapter 25 Summary",
+      "quote": "a spherical halo containing populations of very old stars",
+      "url": "https://openstax.org/books/astronomy-2e/pages/25-summary",
+      "evidenceId": "0d1ec44a8988c91a6637",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Original choices inspected; direct NASA, ESO and OpenStax review of Galactic structure",
+    "contentHash": "1b2d35296b3467a13e8ac957c3bb280e4143179975755a4d0426ffeb41d8dfb6"
+  }
+}

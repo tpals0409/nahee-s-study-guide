@@ -1,0 +1,96 @@
+{
+  "id": "2022-3-38",
+  "summary": "정답은 ③입니다. 내핵은 고온이지만 매우 높은 압력 아래에서 고체로 존재합니다. 액체 상태인 것은 외핵입니다. 모호면, 맨틀의 부피, 상부맨틀 저속도층에 관한 나머지 진술은 옳습니다.",
+  "choices": [
+    "① 옳습니다. 모호로비치치 불연속면, 즉 모호면은 지각과 맨틀의 경계입니다. 지각 아래에서 상부맨틀을 이루는 암석으로 바뀝니다.",
+    "② 옳습니다. 맨틀은 지각 아래에서 핵 위까지 넓게 분포하며 지구 부피의 약 84%를 차지합니다. 따라서 지각·맨틀·핵 중 부피가 가장 큽니다.",
+    "③ 옳지 않아 정답입니다. 물질의 상태는 온도뿐 아니라 압력에도 영향을 받습니다. 내핵은 온도가 높지만 압력이 매우 커서 고체 상태이며, 액체라고 한 설명이 틀렸습니다.",
+    "④ 옳습니다. 외핵은 액체입니다. 전단파인 S파가 외핵을 통과하지 못한다는 사실은 이를 뒷받침합니다.",
+    "⑤ 옳습니다. 상부맨틀에는 지진파 속도가 상대적으로 감소하는 저속도층이 있습니다. 이는 상부맨틀 전체가 액체라는 뜻은 아닙니다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "The Geological Society",
+      "ref": "Chemical composition - 'crust' and 'mantle'",
+      "quote": "before crossing the Moho and entering the upper mantle.",
+      "url": "https://www.geolsoc.org.uk/Plate-Tectonics/Chap2-What-is-a-Plate/Chemical-composition-crust-and-mantle.html",
+      "evidenceId": "333acab2cc4acb7add5c",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "Sonja Aulbach / DGGV",
+      "ref": "Earth’s mantle: probing a hidden heavy-weight",
+      "quote": "some 84% by volume and 67% by mass",
+      "url": "https://www.dggv.de/e-publikationen/earths-mantle-probing-a-hidden-heavy-weight/",
+      "evidenceId": "2b2176bfe278eee37d97",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "U.S. National Park Service",
+      "ref": "Inner Earth Model",
+      "quote": "but becomes a solid inner core because of the pressure.",
+      "url": "https://www.nps.gov/subjects/geology/plate-tectonics-inner-earth-model.htm",
+      "evidenceId": "87c7832c3befa4c1d26b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "U.S. National Park Service",
+      "ref": "Inner Earth Model",
+      "quote": "but becomes a solid inner core because of the pressure.",
+      "url": "https://www.nps.gov/subjects/geology/plate-tectonics-inner-earth-model.htm",
+      "evidenceId": "87c7832c3befa4c1d26b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "British Geological Survey",
+      "ref": "What causes earthquakes?",
+      "quote": "the outer part of the core is liquid, because S-waves do not pass through it.",
+      "url": "https://www.bgs.ac.uk/discovering-geology/earth-hazards/earthquakes/what-causes-earthquakes/",
+      "evidenceId": "16f8bd3d204620aa3e15",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "British Geological Survey",
+      "ref": "What causes earthquakes?",
+      "quote": "the outer part of the core is liquid, because S-waves do not pass through it.",
+      "url": "https://www.bgs.ac.uk/discovering-geology/earth-hazards/earthquakes/what-causes-earthquakes/",
+      "evidenceId": "16f8bd3d204620aa3e15",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "U.S. Geological Survey",
+      "ref": "The Interior of the Earth",
+      "quote": "Below this low-velocity zone is a transition zone in the upper mantle",
+      "url": "https://pubs.usgs.gov/gip/interior/",
+      "evidenceId": "9bad0dd7105cbe2b3187",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Original image checked; independent solid-inner/liquid-outer-core judgment and individual source mappings for Moho, mantle volume and upper-mantle LVZ. Removed unnecessary PKJKP claim, numerical thermal estimates and strict LVZ/asthenosphere identity.",
+    "contentHash": "d04820617b43e6b9199b53ab62c1e2aade023f800794bbded377a543a3cf901d"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "ef897c0a0b7a048ce77b",
+  "kind": "science",
+  "source": "한국학중앙연구원",
+  "ref": "한국민족문화대백과사전 — 지질",
+  "url": "https://encykorea.aks.ac.kr/Article/E0054408",
+  "excerpt": "이들의 변성 시기가 중원생대가 가장 우세하기 때문에",
+  "sourceHash": "d30b95c3e1c32a417125f235f21ecd7b2005d6d12458fd52a255e61218aabc5e",
+  "cacheSourceId": "7a1b763859308eaefbd1",
+  "retrievedAt": "2026-11-06T15:59:03.052101+00:00",
+  "reviewedMappings": {
+    "2010-3-34:1": "경기 편마암복합체의 변성 시기를 원생대로 설명한 문단 대조. 선캄브리아 기반암 분류를 지지하되 정확한 퇴적 시기는 불명이라는 출처 한계 보존. 고생대 형성 단정 반증."
+  },
+  "retrievalMethod": "web.find: 경기 편마암복합체, 제3기 화성활동 및 지각변동 문맥 확인",
+  "sourceHashScope": "Selected excerpts only"
+}

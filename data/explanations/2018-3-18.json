@@ -1,0 +1,151 @@
+{
+  "id": "2018-3-18",
+  "summary": "고정된 금속판과 실린더 벽 때문에 두 기체 모두 부피가 일정합니다. 따라서 B의 최종 온도는 압력에 비례해 (5/3)T₀이며, 열을 전달하는 금속판을 통한 평형에서 A도 같은 온도입니다. 각 1몰 기체의 내부에너지 증가는 RT₀입니다. 부피 변화에 따른 일이 없고 외부로 열이 새지 않으므로 q=2RT₀, 정답은 ④입니다.",
+  "choices": [
+    "1: 한 기체(1몰)의 내부에너지 증가량은 (3/2)R×(2/3)T₀ = RT₀입니다. q/(RT₀)=1은 이 값만 반영한 것으로, 금속판을 통해 A로 전달되어 A의 온도를 올린 열을 빠뜨린 결과입니다. 오답입니다.",
+    "4/3은 오답입니다. 두 기체의 총 몰수 2와 온도 상승 (2/3)T₀에 몰 정적열용량 (3/2)R까지 곱해야 하므로 q/(RT₀)=2입니다.",
+    "3/2는 오답입니다. 몰 정적열용량의 계수만으로 열량을 정할 수 없습니다. 총 2몰과 온도 상승 (2/3)T₀를 반영하면 비는 2입니다.",
+    "2: 일은 0이므로 q = ΔU_A + ΔU_B = 2×(3/2)R×(2/3)T₀ = 2RT₀이고, q/(RT₀) = 2입니다. 정답입니다.",
+    "5/2는 오답입니다. 이 과정은 등적이므로 q=2C_VΔT=2RT₀입니다. 정압열용량 C_P를 적용하는 과정이 아닙니다."
+  ],
+  "lawNote": "원본 그림의 단열된 실린더와 고정된 금속판 조건을 사용합니다. 단열은 지정된 열량 q 외의 열 출입을 막는 조건입니다. A+B 전체를 계로 잡으면 금속판을 통한 열 이동은 내부 교환이므로 중복해서 더하지 않습니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2 §3.5 — Heat Capacities of an Ideal Gas",
+      "quote": "Since the piston of vessel A is fixed, the volume of the enclosed gas does not change.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/3-5-heat-capacities-of-an-ideal-gas",
+      "evidenceId": "c63be710d31f1b121f77",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2 §3.5 — Heat Capacities of an Ideal Gas",
+      "quote": "Since the piston of vessel A is fixed, the volume of the enclosed gas does not change.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/3-5-heat-capacities-of-an-ideal-gas",
+      "evidenceId": "c63be710d31f1b121f77",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2 §3.5 — Heat Capacities of an Ideal Gas",
+      "quote": "Since the piston of vessel A is fixed, the volume of the enclosed gas does not change.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/3-5-heat-capacities-of-an-ideal-gas",
+      "evidenceId": "c63be710d31f1b121f77",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2 §3.5 — Heat Capacities of an Ideal Gas",
+      "quote": "Since the piston of vessel A is fixed, the volume of the enclosed gas does not change.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/3-5-heat-capacities-of-an-ideal-gas",
+      "evidenceId": "c63be710d31f1b121f77",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2 §3.5 — Heat Capacities of an Ideal Gas",
+      "quote": "Since the piston of vessel A is fixed, the volume of the enclosed gas does not change.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/3-5-heat-capacities-of-an-ideal-gas",
+      "evidenceId": "c63be710d31f1b121f77",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2 §3.5 — Heat Capacities of an Ideal Gas",
+      "quote": "Since the piston of vessel A is fixed, the volume of the enclosed gas does not change.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/3-5-heat-capacities-of-an-ideal-gas",
+      "evidenceId": "c63be710d31f1b121f77",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2 §1.1 — Thermal Equilibrium",
+      "quote": "if two objects are in thermal equilibrium, they have the same temperature.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/1-1-temperature-and-thermal-equilibrium",
+      "evidenceId": "536a0e69a8fbe5273230",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2 §1.1 — Thermal Equilibrium",
+      "quote": "if two objects are in thermal equilibrium, they have the same temperature.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/1-1-temperature-and-thermal-equilibrium",
+      "evidenceId": "536a0e69a8fbe5273230",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2 §1.1 — Thermal Equilibrium",
+      "quote": "if two objects are in thermal equilibrium, they have the same temperature.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/1-1-temperature-and-thermal-equilibrium",
+      "evidenceId": "536a0e69a8fbe5273230",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2 §1.1 — Thermal Equilibrium",
+      "quote": "if two objects are in thermal equilibrium, they have the same temperature.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/1-1-temperature-and-thermal-equilibrium",
+      "evidenceId": "536a0e69a8fbe5273230",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2 §1.1 — Thermal Equilibrium",
+      "quote": "if two objects are in thermal equilibrium, they have the same temperature.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/1-1-temperature-and-thermal-equilibrium",
+      "evidenceId": "536a0e69a8fbe5273230",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2 §1.1 — Thermal Equilibrium",
+      "quote": "if two objects are in thermal equilibrium, they have the same temperature.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/1-1-temperature-and-thermal-equilibrium",
+      "evidenceId": "536a0e69a8fbe5273230",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Original figure inspected; independent ideal-gas and energy-balance calculation; direct source review",
+    "contentHash": "5488d1487738ac7ecccc12ac19f3feb0deea1d11ff93109c24a5a13b64f57ea7"
+  }
+}

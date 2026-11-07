@@ -1,0 +1,21 @@
+{
+  "id": "1fa2c270611eb89176a3",
+  "kind": "science",
+  "source": "NobelPrize.org",
+  "ref": "The Nobel Prize in Chemistry 2000: Advanced Information",
+  "url": "https://www.nobelprize.org/uploads/2018/06/advanced-chemistryprize2000.pdf",
+  "excerpt": "polyacetylene, can be made conductive almost like a metal.",
+  "sourceHash": "efcd1ae5fb8108c9af4ced33e2bc5b56487536c9e0400756ebf5788db06aabdb",
+  "cacheSourceId": "795b2fea3ec15792888c",
+  "retrievedAt": "2026-11-07T01:42:03.243240+00:00",
+  "reviewedMappings": {
+    "2023-3-14:0": "폴리아세틸렌은 공액 고분자로 도핑에 의해 전도성이 크게 증가한다. ㄴ은 전도성 고분자라는 재료 분류로 참이며 무도핑 상태가 금속처럼 전도한다는 뜻으로 확대하지 않는다. 이 판단을 다른 두 진술의 검증과 합쳐 ㄱㄴㄷ 모두 참으로 ⑤만 완전한 조합임을 확인.",
+    "2023-3-14:1": "폴리아세틸렌은 공액 고분자로 도핑에 의해 전도성이 크게 증가한다. ㄴ은 전도성 고분자라는 재료 분류로 참이며 무도핑 상태가 금속처럼 전도한다는 뜻으로 확대하지 않는다. 이 판단을 다른 두 진술의 검증과 합쳐 ㄱㄴㄷ 모두 참으로 ⑤만 완전한 조합임을 확인.",
+    "2023-3-14:2": "폴리아세틸렌은 공액 고분자로 도핑에 의해 전도성이 크게 증가한다. ㄴ은 전도성 고분자라는 재료 분류로 참이며 무도핑 상태가 금속처럼 전도한다는 뜻으로 확대하지 않는다. 이 판단을 다른 두 진술의 검증과 합쳐 ㄱㄴㄷ 모두 참으로 ⑤만 완전한 조합임을 확인.",
+    "2023-3-14:3": "폴리아세틸렌은 공액 고분자로 도핑에 의해 전도성이 크게 증가한다. ㄴ은 전도성 고분자라는 재료 분류로 참이며 무도핑 상태가 금속처럼 전도한다는 뜻으로 확대하지 않는다. 이 판단을 다른 두 진술의 검증과 합쳐 ㄱㄴㄷ 모두 참으로 ⑤만 완전한 조합임을 확인.",
+    "2023-3-14:4": "폴리아세틸렌은 공액 고분자로 도핑에 의해 전도성이 크게 증가한다. ㄴ은 전도성 고분자라는 재료 분류로 참이며 무도핑 상태가 금속처럼 전도한다는 뜻으로 확대하지 않는다. 이 판단을 다른 두 진술의 검증과 합쳐 ㄱㄴㄷ 모두 참으로 ⑤만 완전한 조합임을 확인.",
+    "2023-3-14:5": "폴리아세틸렌은 공액 고분자로 도핑에 의해 전도성이 크게 증가한다. ㄴ은 전도성 고분자라는 재료 분류로 참이며 무도핑 상태가 금속처럼 전도한다는 뜻으로 확대하지 않는다. 이 판단을 다른 두 진술의 검증과 합쳐 ㄱㄴㄷ 모두 참으로 ⑤만 완전한 조합임을 확인."
+  },
+  "retrievalMethod": "Primary-source indexed web search excerpt reviewed (not a direct full-page retrieval). Source-specific statements/table excerpt checked against original question.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "3909184fc86c01220c0f",
+  "kind": "science",
+  "source": "Utah Geological Survey",
+  "ref": "Glad You Asked: What is an Unconformity?",
+  "url": "https://geology.utah.gov/map-pub/survey-notes/glad-you-asked/unconformity/",
+  "excerpt": "When a region is uplifted, deposition usually ceases and erosion begins.",
+  "sourceHash": "40e63740934ee90c4604f0dad93f2db1b45e16eb140137f77d306e94f3222abc",
+  "cacheSourceId": "413861bfdfaacc69156b",
+  "retrievedAt": "2026-11-06T16:45:45.134067+00:00",
+  "reviewedMappings": {
+    "2011-3-31:0": "공식 기관 검색 반환 본문에서 경사부정합의 습곡·융기·침식·재퇴적 및 시간공백 확인. 원본의 절단된 습곡층과 자갈이 놓인 불규칙 경계, 위쪽 수평층과 대조. ②는 문항의 통상적 형성과정 해석이며 침식이 융기만으로 발생한다는 초안 절대명제는 삭제. ③④ 근거."
+  },
+  "retrievalMethod": "web.run search retrieved official page excerpt; direct open timed out",
+  "sourceHashScope": "Selected excerpt only; not full page"
+}

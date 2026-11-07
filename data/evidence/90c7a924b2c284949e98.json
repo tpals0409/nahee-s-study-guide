@@ -1,0 +1,17 @@
+{
+  "id": "90c7a924b2c284949e98",
+  "kind": "science",
+  "source": "국토지리정보원",
+  "ref": "National Atlas: Lithosphere, Rocks and Minerals, Paleozoic regional table",
+  "url": "https://nationalatlas.cafe24.com/pages/download.php?dir=%2Fnationalatlas%2Fus_2%2Fpdf&file=LITHOSPHERE_1-2-Rocks+and+Minerals.pdf",
+  "excerpt": "Great Hiatus",
+  "sourceHash": "a7757aae5458837e33a47c4e10a4fea768793111948a417f819526b72c538859",
+  "cacheSourceId": "b7962a8d71b8e96c1d73",
+  "retrievedAt": "2026-11-07T02:50:38.169245+00:00",
+  "reviewedMappings": {
+    "2024-3-36:0": "Taebaeksan column places Devonian in Great Hiatus between Cambro-Ordovician Choseon and Carboniferous-Permian Pyeongan. Does not imply absence of all Devonian rocks throughout South Korea.",
+    "2024-3-36:2": "Taebaeksan column places Devonian in Great Hiatus between Cambro-Ordovician Choseon and Carboniferous-Permian Pyeongan. Does not imply absence of all Devonian rocks throughout South Korea."
+  },
+  "retrievalMethod": "Indexed official atlas regional table reviewed; rows distinguish Taebaeksan Basin from Imjingang Belt and Gyeonggi Massif.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

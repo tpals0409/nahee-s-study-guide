@@ -1,0 +1,16 @@
+{
+  "id": "58dea741738f663c91ad",
+  "kind": "science",
+  "source": "RCSB PDB-101",
+  "ref": "Exploring the Structure of tRNA",
+  "url": "https://pdb101.rcsb.org/learn/paper-models/trna-activity-page",
+  "excerpt": "tRNA has several modified bases such as pseudouridine (Ψ) and ribothymidine (T).",
+  "sourceHash": "df9e2366a6ebecc4fbd831d2f353abccc1f1e863504a55218cb7ee6d7aafd0fa",
+  "cacheSourceId": "6578afc0cc4eaf0f41b9",
+  "retrievedAt": "2026-11-06T15:18:54.106373+00:00",
+  "reviewedMappings": {
+    "2009-3-27:0": "OpenStax15.3표15.1의 I:5S제외rRNA,III:5SrRNA 대조.3.5의 이중가닥DNA상보염기쌍과단일가닥RNA구조로 mRNA에서A=U/G=C필연성없음 판단. RCSBPDB101 tRNA표준4염기및변형염기확인.45S전구체크기를모든진핵생물에일반화한초안삭제."
+  },
+  "retrievalMethod": "web tool open, primary structure paragraph inspected",
+  "sourceHashScope": "reviewed excerpt only; hash is excerpt hash"
+}

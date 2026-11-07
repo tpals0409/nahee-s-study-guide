@@ -1,0 +1,118 @@
+{
+  "id": "2022-3-39",
+  "summary": "정답은 ⑤입니다. 북위 37.5°에서 남중고도는 h=90°−37.5°+δ입니다(δ는 태양 적위). 그림의 하지에는 δ≈+23.5°이므로 h≈76°입니다. 춘·추분에는 52.5°이며 여름의 남중고도를 52°라고 한 설명은 틀립니다.",
+  "choices": [
+    "① 옳습니다. 북반구에서 천구 북극의 고도는 관측지 위도와 같습니다. 북극성을 천구 북극에 있는 것으로 근사하는 이 문제의 모형에서는 약 37.5°입니다. 실제 북극성은 천구 북극에 정확히 일치하지 않습니다.",
+    "② 옳습니다. 동지점은 천구 적도에서 남쪽으로 약 23.5° 떨어져 있습니다. 적위는 북쪽을 양수, 남쪽을 음수로 나타내므로 약 −23.5°입니다.",
+    "③ 옳습니다. 춘·추분점의 태양은 적위가 0°이므로 천구 적도를 따라 일주운동하는 것으로 봅니다. 천구 적도와 지평선이 만나는 정동점에서 떠서 정서점으로 집니다. 대기 굴절 등은 무시한 기하학적 설명입니다.",
+    "④ 옳습니다. 이 북반구 중위도 지역의 겨울에는 태양의 적위가 음수이고 일주 경로 중 지평선 위 부분이 절반보다 짧아 낮이 밤보다 짧습니다.",
+    "⑤ 옳지 않아 정답입니다. 이 지역에서는 h=90°−위도+적위입니다. 하지 남중고도는 90°−37.5°+23.5°=76°입니다. 여름 내내 76°로 일정한 것은 아니지만, 여름의 양의 적위에서는 춘·추분의 52.5°보다 높으므로 52°가 아닙니다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax Astronomy 2e",
+      "ref": "2.1 The Sky Above",
+      "quote": "equal to the observer’s latitude.",
+      "url": "https://openstax.org/books/astronomy-2e/pages/2-1-the-sky-above",
+      "evidenceId": "9509c81adc4bfd99cbea",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax Astronomy 2e",
+      "ref": "2.1 The Sky Above",
+      "quote": "equal to the observer’s latitude.",
+      "url": "https://openstax.org/books/astronomy-2e/pages/2-1-the-sky-above",
+      "evidenceId": "9509c81adc4bfd99cbea",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax Astronomy 2e",
+      "ref": "2.1 The Sky Above",
+      "quote": "equal to the observer’s latitude.",
+      "url": "https://openstax.org/books/astronomy-2e/pages/2-1-the-sky-above",
+      "evidenceId": "9509c81adc4bfd99cbea",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax Astronomy 2e",
+      "ref": "2.1 The Sky Above",
+      "quote": "equal to the observer’s latitude.",
+      "url": "https://openstax.org/books/astronomy-2e/pages/2-1-the-sky-above",
+      "evidenceId": "9509c81adc4bfd99cbea",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax Astronomy 2e",
+      "ref": "4.2 The Seasons",
+      "quote": "fewer hours of daylight and more hours of night in northern lands",
+      "url": "https://openstax.org/books/astronomy-2e/pages/4-2-the-seasons",
+      "evidenceId": "fdef5d1ae7d760c49e6a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax Astronomy 2e",
+      "ref": "4.2 The Seasons",
+      "quote": "fewer hours of daylight and more hours of night in northern lands",
+      "url": "https://openstax.org/books/astronomy-2e/pages/4-2-the-seasons",
+      "evidenceId": "fdef5d1ae7d760c49e6a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax Astronomy 2e",
+      "ref": "4.2 The Seasons",
+      "quote": "fewer hours of daylight and more hours of night in northern lands",
+      "url": "https://openstax.org/books/astronomy-2e/pages/4-2-the-seasons",
+      "evidenceId": "fdef5d1ae7d760c49e6a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax Astronomy 2e",
+      "ref": "4.2 The Seasons",
+      "quote": "fewer hours of daylight and more hours of night in northern lands",
+      "url": "https://openstax.org/books/astronomy-2e/pages/4-2-the-seasons",
+      "evidenceId": "fdef5d1ae7d760c49e6a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax Astronomy 2e",
+      "ref": "4.2 The Seasons",
+      "quote": "fewer hours of daylight and more hours of night in northern lands",
+      "url": "https://openstax.org/books/astronomy-2e/pages/4-2-the-seasons",
+      "evidenceId": "fdef5d1ae7d760c49e6a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Original seasonal sky diagram checked; direct OpenStax celestial-pole and seasonal-geometry sources; independent meridian altitude calculations. Scoped Polaris approximation and distinguished summer range from solstice value; removed speculation about examiner rounding.",
+    "contentHash": "727bb9e710de9ae8925ab43efabfee9737e961e4450263a63885a6d6b9e6c69c"
+  }
+}

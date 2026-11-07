@@ -1,0 +1,16 @@
+{
+  "id": "c3452c7bb32b33d7f9e0",
+  "kind": "science",
+  "source": "US Geological Survey",
+  "ref": "Inside the Earth — This Dynamic Earth",
+  "url": "https://pubs.usgs.gov/gip/dynamic/inside.html",
+  "excerpt": "below the lithosphere is a relatively narrow, mobile zone",
+  "sourceHash": "c9f77638fa5cbb189e7b3fc5aecce82a68fa9e71106c30c9139fa709d773b075",
+  "cacheSourceId": "605cd2487e2bd4e8a653",
+  "retrievedAt": "2026-11-06T19:01:36.619157+00:00",
+  "reviewedMappings": {
+    "2014-3-31:4": "동일 공식 출판물 색인에서 연약권이 암석권 아래임 확인. 연약권 전체가 액체이거나 고정100~400km라는 단정 삭제."
+  },
+  "retrievalMethod": "web.search_query indexed USGS text; direct open returned 403",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

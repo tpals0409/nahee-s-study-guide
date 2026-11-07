@@ -1,0 +1,20 @@
+{
+  "id": "4a9da5a0b389137c95f4",
+  "kind": "science",
+  "source": "OpenStax Biology 2e",
+  "ref": "10.2 The Cell Cycle",
+  "url": "https://openstax.org/books/biology-2e/pages/10-2-the-cell-cycle",
+  "excerpt": "In plants, a cell plate separates the two cells.",
+  "sourceHash": "27756b01f868025e9c721de43db0d85c4542f0803350cdbc84576d11ffe96d49",
+  "cacheSourceId": "0e20dca58b84aa4e5104",
+  "retrievedAt": "2026-11-07T03:22:24.899091+00:00",
+  "reviewedMappings": {
+    "2025-3-26:0": "식물 세포판과 동물 수축환 구별 본문 확인.",
+    "2025-3-26:1": "Cytokinesis와 Figure10.9 설명의 동물 actin/myosin cleavage와 식물 vesicle/cell plate 비교.",
+    "2025-3-26:2": "ㄱ 거짓: 식물 세포판 형성.",
+    "2025-3-26:3": "ㄱ 거짓: 식물 세포판 형성.",
+    "2025-3-26:5": "ㄱ 거짓으로 모두 선택 불가."
+  },
+  "retrievalMethod": "Direct web section reading: plant/animal cytokinesis; double fertilization and central cell; root pericycle and lateral roots.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "669facb55a9a02aeb4ef",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e, 4.3 Eukaryotic Cells",
+  "url": "https://openstax.org/books/biology-2e/pages/4-3-eukaryotic-cells",
+  "excerpt": "numerous membrane-bound organelles such as the endoplasmic reticulum, Golgi apparatus, chloroplasts, mitochondria",
+  "sourceHash": "05325d9696fde45cc4e087858508fb2a7e486b686199c7132ca641a37a5d39a8",
+  "cacheSourceId": "43a33ad6ee247792a35f",
+  "retrievedAt": "2026-11-07T00:23:36.059636+00:00",
+  "reviewedMappings": {
+    "2021-3-30:5": "소포체·골지체·미토콘드리아 같은 막성 소기관은 진핵세포의 대표적 특징이라는 비교를 확인. 모든 세균 내부에 막성 구획이 절대 없다는 확대 해석은 하지 않음."
+  },
+  "retrievalMethod": "Direct page review, introductory comparison of prokaryotic and eukaryotic cellular organization.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

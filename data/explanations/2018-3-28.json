@@ -1,0 +1,151 @@
+{
+  "id": "2018-3-28",
+  "summary": "헬리카제는 양쪽 복제분기점에서 DNA를 풉니다. (나)에서 A를 주형으로 한 신생 DNA는 분기점 진행과 반대 방향으로 연장되어 오카자키 절편을 형성합니다. ㄱ·ㄷ이 옳아 ③이 정답입니다.",
+  "choices": [
+    "ㄱ은 옳지만, (나)의 A 주형에서 오카자키 절편이 만들어진다는 ㄷ도 옳습니다.",
+    "ㄴ은 틀립니다. 복제 중 생기는 과도한 꼬임을 해소하는 회전효소의 작용 위치는 복제분기점 앞쪽이며, 그림 중앙의 복제원점 ㉠을 가리키는 설명은 맞지 않습니다.",
+    "정답입니다. 양쪽 분기점에서 헬리카제가 작용합니다. A는 왼쪽 5′·오른쪽 3′이므로 그 신생가닥은 왼쪽으로 5′→3′ 연장됩니다. 오른쪽으로 진행하는 (나)의 분기점과 방향이 반대여서 불연속적으로 합성됩니다.",
+    "ㄷ은 옳지만 ㄴ이 틀리고, 양쪽에서 헬리카제가 작용한다는 ㄱ이 빠졌습니다.",
+    "ㄱ과 ㄷ은 옳지만 ㄴ이 틀리므로 세 가지 모두를 고를 수 없습니다."
+  ],
+  "lawNote": "5′→3′은 새 DNA가 연장되는 방향입니다. 지연가닥의 각 절편도 이 방향으로 합성됩니다. 회전효소의 위치 설명은 이 그림의 복제 과정에서 앞쪽 꼬임을 해소하는 역할에 관한 것입니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e §14.5 — DNA Replication in Eukaryotes",
+      "quote": "These are resolved with the action of topoisomerases.",
+      "url": "https://openstax.org/books/biology-2e/pages/14-5-dna-replication-in-eukaryotes",
+      "evidenceId": "c33b33a3f89792bd1a29",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e §14.5 — DNA Replication in Eukaryotes",
+      "quote": "These are resolved with the action of topoisomerases.",
+      "url": "https://openstax.org/books/biology-2e/pages/14-5-dna-replication-in-eukaryotes",
+      "evidenceId": "c33b33a3f89792bd1a29",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e §14.5 — DNA Replication in Eukaryotes",
+      "quote": "These are resolved with the action of topoisomerases.",
+      "url": "https://openstax.org/books/biology-2e/pages/14-5-dna-replication-in-eukaryotes",
+      "evidenceId": "c33b33a3f89792bd1a29",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e §14.5 — DNA Replication in Eukaryotes",
+      "quote": "These are resolved with the action of topoisomerases.",
+      "url": "https://openstax.org/books/biology-2e/pages/14-5-dna-replication-in-eukaryotes",
+      "evidenceId": "c33b33a3f89792bd1a29",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e §14.5 — DNA Replication in Eukaryotes",
+      "quote": "These are resolved with the action of topoisomerases.",
+      "url": "https://openstax.org/books/biology-2e/pages/14-5-dna-replication-in-eukaryotes",
+      "evidenceId": "c33b33a3f89792bd1a29",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e §14.5 — DNA Replication in Eukaryotes",
+      "quote": "These are resolved with the action of topoisomerases.",
+      "url": "https://openstax.org/books/biology-2e/pages/14-5-dna-replication-in-eukaryotes",
+      "evidenceId": "c33b33a3f89792bd1a29",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e §14.4 — DNA Replication in Prokaryotes",
+      "quote": "Two replication forks are formed at the origin of replication and these get extended bi-directionally as replication proceeds.",
+      "url": "https://openstax.org/books/biology-2e/pages/14-4-dna-replication-in-prokaryotes",
+      "evidenceId": "d66ac1c11dc77c294c3a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e §14.4 — DNA Replication in Prokaryotes",
+      "quote": "Two replication forks are formed at the origin of replication and these get extended bi-directionally as replication proceeds.",
+      "url": "https://openstax.org/books/biology-2e/pages/14-4-dna-replication-in-prokaryotes",
+      "evidenceId": "d66ac1c11dc77c294c3a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e §14.4 — DNA Replication in Prokaryotes",
+      "quote": "Two replication forks are formed at the origin of replication and these get extended bi-directionally as replication proceeds.",
+      "url": "https://openstax.org/books/biology-2e/pages/14-4-dna-replication-in-prokaryotes",
+      "evidenceId": "d66ac1c11dc77c294c3a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e §14.4 — DNA Replication in Prokaryotes",
+      "quote": "Two replication forks are formed at the origin of replication and these get extended bi-directionally as replication proceeds.",
+      "url": "https://openstax.org/books/biology-2e/pages/14-4-dna-replication-in-prokaryotes",
+      "evidenceId": "d66ac1c11dc77c294c3a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e §14.4 — DNA Replication in Prokaryotes",
+      "quote": "Two replication forks are formed at the origin of replication and these get extended bi-directionally as replication proceeds.",
+      "url": "https://openstax.org/books/biology-2e/pages/14-4-dna-replication-in-prokaryotes",
+      "evidenceId": "d66ac1c11dc77c294c3a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e §14.4 — DNA Replication in Prokaryotes",
+      "quote": "Two replication forks are formed at the origin of replication and these get extended bi-directionally as replication proceeds.",
+      "url": "https://openstax.org/books/biology-2e/pages/14-4-dna-replication-in-prokaryotes",
+      "evidenceId": "d66ac1c11dc77c294c3a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Original replication-bubble diagram inspection; direct OpenStax eukaryotic and shared replication principles; independent strand-direction and all-choice review",
+    "contentHash": "87f6dc5c746f7911d3b70f5f4b6a77272b16a628853eacda43ad648f88dc0e99"
+  }
+}

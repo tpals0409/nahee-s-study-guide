@@ -1,0 +1,85 @@
+{
+  "id": "2020-3-05",
+  "summary": "원형 전류 중심의 자기장 B = μ0I/(2R)를 이용합니다. 두 고리가 만드는 중심 자기장의 크기가 같고 방향이 반대여야 하므로, 전류 방향은 서로 반대이고 IA : IB = 2 : 1입니다. 자기모멘트 m = IπR²로 계산하면 A가 B의 8배이므로 ㄷ은 틀립니다. 따라서 ㄱ, ㄴ이 옳아 정답은 ③입니다.",
+  "choices": [
+    "ㄱ만 고른 보기: 오답입니다. ㄱ은 옳지만, ㄴ도 중심 자기장 상쇄 조건에서 직접 성립하므로 ㄴ이 빠져 있습니다.",
+    "ㄷ만 고른 보기: 오답입니다. 자기모멘트의 비는 A : B = IA·π(2r)² : IB·πr² = 2IB·4πr² : IB·πr² = 8 : 1입니다. 4배가 아니므로 ㄷ은 틀린 진술입니다.",
+    "ㄱ, ㄴ을 고른 보기: 정답입니다. 같은 평면의 동심 원형 전류가 중심에 만드는 자기장은 모두 평면에 수직입니다. 합이 0이 되려면 방향이 반대여야 하므로 전류 방향도 반대입니다(ㄱ). 크기 조건 μ0IA/(2·2r) = μ0IB/(2r)에서 IA = 2IB가 됩니다(ㄴ).",
+    "ㄴ, ㄷ을 고른 보기: 오답입니다. ㄴ은 옳지만 ㄷ은 8배이므로 틀립니다. 또한 옳은 진술인 ㄱ이 빠져 있습니다.",
+    "ㄱ, ㄴ, ㄷ을 고른 보기: 오답입니다. ㄱ과 ㄴ은 옳지만, 자기모멘트는 4배가 아니라 8배이므로 ㄷ이 틀립니다."
+  ],
+  "lawNote": "전류 방향은 두 고리를 같은 쪽에서 바라보아 비교합니다. 자기모멘트의 크기는 전류와 면적의 곱이며, 중심 자기장이 상쇄된다고 각 고리의 자기모멘트가 같은 것은 아닙니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "12.4 Magnetic Field of a Current Loop",
+      "quote": "we obtain the magnetic field at the center of the loop:",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/12-4-magnetic-field-of-a-current-loop",
+      "evidenceId": "3da2de3ea5c13ee525be",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "12.4 Magnetic Field of a Current Loop",
+      "quote": "we obtain the magnetic field at the center of the loop:",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/12-4-magnetic-field-of-a-current-loop",
+      "evidenceId": "3da2de3ea5c13ee525be",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "12.4 Magnetic Field of a Current Loop",
+      "quote": "we obtain the magnetic field at the center of the loop:",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/12-4-magnetic-field-of-a-current-loop",
+      "evidenceId": "3da2de3ea5c13ee525be",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "12.4 Magnetic Field of a Current Loop",
+      "quote": "we obtain the magnetic field at the center of the loop:",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/12-4-magnetic-field-of-a-current-loop",
+      "evidenceId": "3da2de3ea5c13ee525be",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "12.4 Magnetic Field of a Current Loop",
+      "quote": "we obtain the magnetic field at the center of the loop:",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/12-4-magnetic-field-of-a-current-loop",
+      "evidenceId": "3da2de3ea5c13ee525be",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "12.4 Magnetic Field of a Current Loop",
+      "quote": "we obtain the magnetic field at the center of the loop:",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/12-4-magnetic-field-of-a-current-loop",
+      "evidenceId": "3da2de3ea5c13ee525be",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Original radii and statement/option combinations visually verified; independent center-field cancellation, right-hand direction and magnetic moment calculation; rational ratio and truth-set checks; direct OpenStax review.",
+    "contentHash": "7f46ce670b15741d2422041392af7283bfdd3583f3615d87e9c0ead1cf948bf0"
+  }
+}

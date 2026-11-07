@@ -1,0 +1,21 @@
+{
+  "id": "46c2c292d18c5fdf7d52",
+  "kind": "science",
+  "source": "USGS",
+  "ref": "Fossils, Rocks, and Time — The Numeric Time Scale",
+  "url": "https://pubs.usgs.gov/gip/fossils/numeric.html",
+  "excerpt": "the length of time required for exactly one-half of the parent atoms to decay to daughter atoms.",
+  "sourceHash": "d5c1ce0f2a30a5fa3113b9788490f728ec3cbc530825ec9ac3f78241942c2c07",
+  "cacheSourceId": "46cd75e2098f7c9b00d7",
+  "retrievedAt": "2026-11-07T03:33:49.871501+00:00",
+  "reviewedMappings": {
+    "2025-3-35:0": "반감기 정의와 원문 그래프의 50% 지점 1억 년을 대조. A의 1/4은 두 반감기 2억 년, B의 1/2은 한 반감기 1억 년.",
+    "2025-3-35:1": "반감기 정의와 원문 그래프의 50% 지점 1억 년을 대조. A의 1/4은 두 반감기 2억 년, B의 1/2은 한 반감기 1억 년.",
+    "2025-3-35:2": "반감기 정의와 원문 그래프의 50% 지점 1억 년을 대조. A의 1/4은 두 반감기 2억 년, B의 1/2은 한 반감기 1억 년.",
+    "2025-3-35:3": "반감기 정의와 원문 그래프의 50% 지점 1억 년을 대조. A의 1/4은 두 반감기 2억 년, B의 1/2은 한 반감기 1억 년.",
+    "2025-3-35:4": "반감기 정의와 원문 그래프의 50% 지점 1억 년을 대조. A의 1/4은 두 반감기 2억 년, B의 1/2은 한 반감기 1억 년.",
+    "2025-3-35:5": "반감기 정의와 원문 그래프의 50% 지점 1억 년을 대조. A의 1/4은 두 반감기 2억 년, B의 1/2은 한 반감기 1억 년."
+  },
+  "retrievalMethod": "Search-indexed source text read; USGS direct pages returned 403",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "c07c3869ef4dc53e7cb8",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume 1, 6.1, Example 6.4 Two Attached Blocks",
+  "url": "https://openstax.org/books/university-physics-volume-1/pages/6-1-solving-problems-with-newtons-laws",
+  "excerpt": "the tension is the same throughout the string",
+  "sourceHash": "6aeda74f0e81826eb9e434b8109e21048b85d4d50e725de8d48d859a9def782b",
+  "cacheSourceId": "f30a7b40d127079e1085",
+  "retrievedAt": "2026-11-07T02:15:25.487567+00:00",
+  "reviewedMappings": {
+    "2024-3-02:0": "Example 6.4의 수평면 물체·매달린 물체 운동방정식과 이상적 실/도르래의 동일 장력을 확인했다. (가)는 수평 질량5m+M, (나)는 M으로 적용한다. 2mg=(7m+M)a=(M+2m)2a에서 M=3m,a=g/5, C의 방정식에서 T비=3/4. 수평 물체 식으로도 독립 검산했다.",
+    "2024-3-02:1": "Example 6.4의 수평면 물체·매달린 물체 운동방정식과 이상적 실/도르래의 동일 장력을 확인했다. (가)는 수평 질량5m+M, (나)는 M으로 적용한다. 2mg=(7m+M)a=(M+2m)2a에서 M=3m,a=g/5, C의 방정식에서 T비=3/4. 수평 물체 식으로도 독립 검산했다.",
+    "2024-3-02:2": "Example 6.4의 수평면 물체·매달린 물체 운동방정식과 이상적 실/도르래의 동일 장력을 확인했다. (가)는 수평 질량5m+M, (나)는 M으로 적용한다. 2mg=(7m+M)a=(M+2m)2a에서 M=3m,a=g/5, C의 방정식에서 T비=3/4. 수평 물체 식으로도 독립 검산했다.",
+    "2024-3-02:3": "Example 6.4의 수평면 물체·매달린 물체 운동방정식과 이상적 실/도르래의 동일 장력을 확인했다. (가)는 수평 질량5m+M, (나)는 M으로 적용한다. 2mg=(7m+M)a=(M+2m)2a에서 M=3m,a=g/5, C의 방정식에서 T비=3/4. 수평 물체 식으로도 독립 검산했다.",
+    "2024-3-02:4": "Example 6.4의 수평면 물체·매달린 물체 운동방정식과 이상적 실/도르래의 동일 장력을 확인했다. (가)는 수평 질량5m+M, (나)는 M으로 적용한다. 2mg=(7m+M)a=(M+2m)2a에서 M=3m,a=g/5, C의 방정식에서 T비=3/4. 수평 물체 식으로도 독립 검산했다.",
+    "2024-3-02:5": "Example 6.4의 수평면 물체·매달린 물체 운동방정식과 이상적 실/도르래의 동일 장력을 확인했다. (가)는 수평 질량5m+M, (나)는 M으로 적용한다. 2mg=(7m+M)a=(M+2m)2a에서 M=3m,a=g/5, C의 방정식에서 T비=3/4. 수평 물체 식으로도 독립 검산했다."
+  },
+  "retrievalMethod": "Direct web open; reviewed Example 6.4 free-body equations and ideal pulley assumptions",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

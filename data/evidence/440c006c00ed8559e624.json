@@ -1,0 +1,16 @@
+{
+  "id": "440c006c00ed8559e624",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 2e §7.6 Molecular Structure and Polarity",
+  "url": "https://openstax.org/books/chemistry-2e/pages/7-6-molecular-structure-and-polarity",
+  "excerpt": "the net CO_{2} molecule is nonpolar",
+  "sourceHash": "f1f4cc037be36d62ed45cec40d2618a52ae94ff0b8aa1ab10cd6eaf5c6687d93",
+  "cacheSourceId": "2ba8e336006347cb8de5",
+  "retrievedAt": "2026-11-06T16:10:03.910191+00:00",
+  "reviewedMappings": {
+    "2010-3-13:2": "그림 7.27 설명과 본문: 선형 CO2의 반대 방향 C=O 결합 쌍극자가 상쇄하므로 영구 쌍극자 0."
+  },
+  "retrievalMethod": "web.open/web.find OpenStax body and figure captions reviewed",
+  "sourceHashScope": "Selected excerpts only; not full page"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "0c0fce522a3e2ef99df9",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume 3, 10.4 Nuclear Reactions",
+  "url": "https://openstax.org/books/university-physics-volume-3/pages/10-4-nuclear-reactions",
+  "excerpt": "Nuclear beta decay involves the conversion of one nucleon into another.",
+  "sourceHash": "941c8fec06503c690b50c8c0f3e056876a9a1b90bd3bb8794d2a980a64dd8835",
+  "cacheSourceId": "19521398da3d6de6ac1f",
+  "retrievedAt": "2026-11-07T03:48:50.980741+00:00",
+  "reviewedMappings": {
+    "2026-3-10:0": "For ordinary single beta-minus/plus decays excluding electron capture as specified, one nucleon converts into the other. A unchanged, Z changes ±1 and N changes ∓1; only statement 5 false.",
+    "2026-3-10:1": "Beta-minus charge balance: 0=1−1+0; beta-plus in nucleus: 1=0+1+0. Total charge conserved including emitted lepton.",
+    "2026-3-10:2": "Reviewed section expressly describes emission of electron or positron with antineutrino or neutrino and creation during decay, not release of pre-existing nuclear electrons.",
+    "2026-3-10:3": "One nucleon converts into another; nuclear equations preserve A, the total neutron plus proton number.",
+    "2026-3-10:4": "n→p in beta-minus increases Z by 1; p→n in beta-plus decreases Z by 1.",
+    "2026-3-10:5": "At fixed A and N=A−Z, Z±1 necessarily means N∓1. Same-neutron-number claim is false."
+  },
+  "retrievalMethod": "Direct web open",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

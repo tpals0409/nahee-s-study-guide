@@ -1,0 +1,18 @@
+{
+  "id": "a651d7316c85b9a53fe9",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e 2.2 Water",
+  "url": "https://openstax.org/books/biology-2e/pages/2-2-water",
+  "excerpt": "Water’s high heat capacity is a property that hydrogen bonding among water molecules causes.",
+  "sourceHash": "c676aae3c71213d626c9a28cac44d54c9a7a2c38717200fb10071a61b9dbdeab",
+  "cacheSourceId": "f9dfce2e82391b6ff338",
+  "retrievedAt": "2026-11-07T05:17:02.292388+00:00",
+  "reviewedMappings": {
+    "2012-3-21:0": "ㄱ: 높은 비열은 물 분자 사이 수소결합과 관련된다.",
+    "2012-3-21:1": "ㄱ은 분자 사이 결합을 공유결합이라고 잘못 표현했다. ㄷ은 별도 신장 근거 참조.",
+    "2012-3-21:2": "ㄱ의 분자 사이 공유결합이라는 표현이 틀렸다. ㄹ은 별도 원저 근거에 따라 판정 보류."
+  },
+  "retrievalMethod": "Direct web open/find",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "175ad55b33e203592243",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "OpenStax Chemistry 2e §6.2 The Bohr Model",
+  "url": "https://openstax.org/books/chemistry-2e/pages/6-2-the-bohr-model",
+  "excerpt": "E = 0 corresponds to the ionization limit where the electron is completely removed from the nucleus.",
+  "sourceHash": "2186dda9520c7cb049559943b1f1f2a2a2a9b790885471bec00e865edf7a11ce",
+  "cacheSourceId": "4b6ffc2542b1dde60097",
+  "retrievedAt": "2026-11-06T18:02:50.884401+00:00",
+  "reviewedMappings": {
+    "2013-3-18:0": "원본 첫째들뜸n2→둘째들뜸n3 및 Ei바닥상태이온화 정의 확인. 출처 En=−k/n²,기저n1,이온화한계0 대조하여k=Ei. ΔE/Ei=1/4−1/9=5/36. 선지비교;③④⑤는n2이온화에너지1/4보다도 큼.⑤는n1→2값임을 계산."
+  },
+  "retrievalMethod": "web.open and web.find; energy levels and ionization-limit equations directly reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

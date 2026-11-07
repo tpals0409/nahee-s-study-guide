@@ -1,0 +1,129 @@
+{
+  "id": "2018-3-36",
+  "summary": "흑점수가 극대에서 다음 극대까지, 또는 극소에서 다음 극소까지 변하는 주기는 평균 약 11년입니다. 따라서 평균 23년이라고 한 ②가 옳지 않습니다.",
+  "choices": [
+    "옳습니다. 태양의 핵에서 수소가 헬륨으로 융합하는 핵반응이 일어나 태양의 에너지를 공급합니다.",
+    "옳지 않은 설명으로 정답입니다. 흑점수의 증감 주기는 평균 약 11년이며 23년이 아닙니다. 매 주기가 정확히 같은 길이인 것은 아닙니다.",
+    "옳습니다. 태양면에서 흑점의 위치가 시간에 따라 이동하는 모습을 추적하면 태양의 자전 주기를 알아낼 수 있습니다.",
+    "옳습니다. 태양과 지구는 같은 방향으로 자전합니다.",
+    "옳습니다. 태양은 위도에 따라 자전 주기가 다른 차등 자전을 합니다. 적도 부근은 고위도보다 자전 주기가 짧으므로 더 빠르게 돕니다."
+  ],
+  "lawNote": "흑점수의 약 11년 주기는 태양의 자전 주기와 다른 개념입니다. 자전 주기는 수십 일 규모이고 위도에 따라서도 달라집니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "NASA",
+      "ref": "Sun: Facts",
+      "quote": "Nuclear reactions here – where hydrogen is fused to form helium – power the Sun’s heat and light.",
+      "url": "https://science.nasa.gov/sun/facts/",
+      "evidenceId": "710290f1f7ce46a38454",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "NASA",
+      "ref": "Sun: Facts",
+      "quote": "Nuclear reactions here – where hydrogen is fused to form helium – power the Sun’s heat and light.",
+      "url": "https://science.nasa.gov/sun/facts/",
+      "evidenceId": "710290f1f7ce46a38454",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "NASA",
+      "ref": "The Sunspot Cycle",
+      "quote": "the number of sunspots visible on the sun waxes and wanes with an approximate 11-year cycle.",
+      "url": "https://solarscience.msfc.nasa.gov/SunspotCycle.shtml",
+      "evidenceId": "03897206808d86d2a834",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "NASA",
+      "ref": "The Sunspot Cycle",
+      "quote": "the number of sunspots visible on the sun waxes and wanes with an approximate 11-year cycle.",
+      "url": "https://solarscience.msfc.nasa.gov/SunspotCycle.shtml",
+      "evidenceId": "03897206808d86d2a834",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "NASA",
+      "ref": "Solar Rotation",
+      "quote": "This rotation was first detected by observing the motion of sunspots",
+      "url": "https://solarscience.msfc.nasa.gov/sunturn.shtml",
+      "evidenceId": "7663aab48e4e7604b7d6",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "NASA",
+      "ref": "Solar Rotation",
+      "quote": "This rotation was first detected by observing the motion of sunspots",
+      "url": "https://solarscience.msfc.nasa.gov/sunturn.shtml",
+      "evidenceId": "7663aab48e4e7604b7d6",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "NASA",
+      "ref": "Solar Rotation",
+      "quote": "This rotation was first detected by observing the motion of sunspots",
+      "url": "https://solarscience.msfc.nasa.gov/sunturn.shtml",
+      "evidenceId": "7663aab48e4e7604b7d6",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "NASA",
+      "ref": "Differential Rotation of the Sun",
+      "quote": "The Sun rotates in the same direction as Earth.",
+      "url": "https://soho.nascom.nasa.gov/explore/lessons/diffrot9_12.html",
+      "evidenceId": "9209ab6eaa5dbc487a08",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "NASA",
+      "ref": "Differential Rotation of the Sun",
+      "quote": "The Sun rotates in the same direction as Earth.",
+      "url": "https://soho.nascom.nasa.gov/explore/lessons/diffrot9_12.html",
+      "evidenceId": "9209ab6eaa5dbc487a08",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "NASA",
+      "ref": "Differential Rotation of the Sun",
+      "quote": "The Sun rotates in the same direction as Earth.",
+      "url": "https://soho.nascom.nasa.gov/explore/lessons/diffrot9_12.html",
+      "evidenceId": "9209ab6eaa5dbc487a08",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Direct NASA solar-core, sunspot-cycle and rotation references; independent all-choice review with unnecessary numerical ranges and historical claims removed",
+    "contentHash": "40c5f4aff548bccd4753759f2b4b092e6ec963374c344da72f96b5223628c58c"
+  }
+}

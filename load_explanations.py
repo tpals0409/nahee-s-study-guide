@@ -2,6 +2,8 @@
 """data/explanations 의 해설을 운영 D1에 넣는다. 같은 id는 덮어써서 몇 번을 돌려도 된다."""
 import json, subprocess, tempfile, sys
 from pathlib import Path
+from law_lookup import check_basis
+from evidence_store import check_registered_basis
 
 ROOT = Path(__file__).parent
 DB = "f4043927-ef1d-477e-b86f-c5b024cefb32"
@@ -11,6 +13,7 @@ PUT = "INSERT INTO explanations (id, body) VALUES (?, ?) ON CONFLICT (id) DO UPD
 
 def rows():
     questions = {q["id"]: q for q in json.loads((ROOT / "app/public/questions.json").read_text())}
+    dates = json.loads((ROOT / 'data/exam_dates.json').read_text())
     for path in sorted((ROOT / "data/explanations").glob("*.json")):
         body = json.loads(path.read_text())
         if (path.stem not in questions or not isinstance(body.get("summary"), str)
@@ -18,6 +21,13 @@ def rows():
                 or len(body["choices"]) != len(questions[path.stem]["choices"])
                 or not all(isinstance(c, str) and c.strip() for c in body["choices"])):
             raise ValueError(f"{path.name} 형식 오류")
+        for basis in body.get('basis', []):
+            if not isinstance(basis, dict) or type(basis.get('choice')) is not int or basis['choice'] not in range(6) or basis.get('kind') not in ('article', 'treaty', 'precedent', 'science'):
+                raise ValueError(f'{path.name} 근거 형식 오류')
+            date = dates[str(questions[path.stem]['year'])]
+            error = check_registered_basis(basis, path.stem, date) if basis.get('evidenceId') or basis['kind'] == 'science' else check_basis(basis, date)
+            if error:
+                raise ValueError(f'{path.name}: {error}')
         yield path.stem, json.dumps(body, ensure_ascii=False, separators=(",", ":"))
 
 

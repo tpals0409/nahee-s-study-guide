@@ -1,0 +1,41 @@
+{
+  "summary": "출제 모형에서 옳지 않은 설명은 ⑤입니다. 자전축 경사각만 비교하면 23.5°보다 24.5°일 때 여름과 겨울의 일사량 차이가 커져 계절 대비가 강해집니다. 연교차가 더 작아진다는 설명은 반대입니다.",
+  "choices": [
+    "옳습니다. A에서 자전축의 북극 쪽은 태양 반대 방향으로 기울어 있습니다. 북반구는 태양 쪽으로 기운 때보다 낮이 짧고 태양 고도가 낮아 겨울에 해당합니다.",
+    "문항의 단순화된 세차 모형에서는 옳습니다. 자전축 방향이 반대로 바뀌는 데 약 26,000년의 절반인 13,000년이 걸린다고 판단합니다. 다만 이 계산은 경사 방향의 변화에 관한 것이며, 실제 그때 경사각도 정확히 24.5°가 된다는 예측은 아닙니다.",
+    "옳습니다. B에서는 자전축 북극 쪽이 태양을 향해 기울어 있으므로 북반구에 있는 우리나라는 여름에 해당합니다.",
+    "옳습니다. 세차운동으로 춘분점의 위치가 황도를 따라 서서히 변합니다. 약 26,000년에 한 바퀴라는 근사를 쓰면 360×3,600÷26,000≈49.85각초/년으로, 약 50각초/년입니다.",
+    "옳지 않으므로 정답입니다. 경사각만 고려하면 (나)의 24.5°는 (가)의 23.5°보다 커서 중·고위도의 여름 일사량은 늘고 겨울 일사량은 줄어드는 방향으로 작용합니다. 따라서 계절 대비와 기온의 연교차가 커지는 것으로 해석해야 합니다."
+  ],
+  "lawNote": "(나)는 문제에서 주어진 비교 모형으로 읽어야 합니다. 세차와 경사각 변화는 서로 다른 운동이며, 실제 미래의 경사각·궤도 방향·지역 기온을 이 그림만으로 예측할 수는 없습니다. ⑤는 명시된 대로 경사각의 영향만 비교합니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "US Naval Observatory",
+      "ref": "The Seasons and the Earth's Orbit",
+      "quote": "the northern hemisphere is tilted toward the Sun and experiences summer.",
+      "url": "https://aa.usno.navy.mil/faq/seasons_orbit",
+      "evidenceId": "41c540262cca1e20318a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "NASA",
+      "ref": "Milankovitch (Orbital) Cycles and Their Role in Earth's Climate",
+      "quote": "The cycle of axial precession spans about 25,771.5 years.",
+      "url": "https://science.nasa.gov/science-research/earth-science/climate-science/milankovitch-orbital-cycles-and-their-role-in-earths-climate/",
+      "evidenceId": "45833c24b46411d889b3",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "원본2013-3-39.webp A/B기울기·각도·⑤경사각만조건 확인. USNO계절 및 NASA세차/경사각주기 대조. ②를출제모형의반주기근사로한정, 실제13000년후24.5도예측과구별. 각초환산독립계산. 정답⑤.",
+    "contentHash": "c5bf95f97a7d4acd2262f38abd061cf6fbe9bbdd73116bdb50ca4486944d4dc2"
+  }
+}

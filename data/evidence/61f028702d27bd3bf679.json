@@ -1,0 +1,19 @@
+{
+  "id": "61f028702d27bd3bf679",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e §8.2 — Light-Dependent Reactions",
+  "url": "https://openstax.org/books/biology-2e/pages/8-2-the-light-dependent-reactions-of-photosynthesis",
+  "excerpt": "The electron transport chain moves protons across the thylakoid membrane into the lumen.",
+  "sourceHash": "31507d9af0187a4365dc03defd6b0a2a61b1f4c5d8818ab4fb6af4af9ca81c5a",
+  "cacheSourceId": "842b8f28c930bf9b68b9",
+  "retrievedAt": "2026-11-06T21:58:47.483369+00:00",
+  "reviewedMappings": {
+    "2018-3-23:0": "Figure8.17 설명 및 양성자 축적 문단 직접 검토: 전자전달과 물 산화로 내강H+ 증가, 내강pH 낮아짐. ㄷ 거짓이므로 ③⑤오답,④정답. 특정pH5/8이나 고정3단위 차이를 단정하지 않음.",
+    "2018-3-23:3": "Figure8.17 설명 및 양성자 축적 문단 직접 검토: 전자전달과 물 산화로 내강H+ 증가, 내강pH 낮아짐. ㄷ 거짓이므로 ③⑤오답,④정답. 특정pH5/8이나 고정3단위 차이를 단정하지 않음.",
+    "2018-3-23:4": "Figure8.17 설명 및 양성자 축적 문단 직접 검토: 전자전달과 물 산화로 내강H+ 증가, 내강pH 낮아짐. ㄷ 거짓이므로 ③⑤오답,④정답. 특정pH5/8이나 고정3단위 차이를 단정하지 않음.",
+    "2018-3-23:5": "Figure8.17 설명 및 양성자 축적 문단 직접 검토: 전자전달과 물 산화로 내강H+ 증가, 내강pH 낮아짐. ㄷ 거짓이므로 ③⑤오답,④정답. 특정pH5/8이나 고정3단위 차이를 단정하지 않음."
+  },
+  "retrievalMethod": "Direct web open; relevant paragraphs and figure caption reviewed; selected verbatim excerpt retained",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

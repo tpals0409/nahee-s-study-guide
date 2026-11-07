@@ -1,0 +1,27 @@
+{
+  "id": "363399806792570ac4fa",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "13.2 Equilibrium Constants",
+  "url": "https://openstax.org/books/chemistry-2e/pages/13-2-equilibrium-constants",
+  "excerpt": "concentration terms are only included for gaseous and solute species",
+  "sourceHash": "a0ec49700c535b6dd95baa78afa2fb7231bb4f16c725a0898b359a49c900d034",
+  "cacheSourceId": "9b97f92ebcc0b3846a19",
+  "retrievedAt": "2026-11-06T23:16:08.913941+00:00",
+  "reviewedMappings": {
+    "2019-3-15:0": "Solid-free Kp=PC/PB and partial-pressure proportionality give x/(1-x)=4, x=4/5; remaining solid=1/5 mol, positive, so assumed solid phase is present.",
+    "2019-3-15:1": "For candidate remaining A=1/5 mol, B=1/5, C=4/5; PC/PB=4. Matches 4.",
+    "2019-3-15:2": "For candidate remaining A=3/10 mol, B=3/10, C=7/10; PC/PB=7/3. Does not match 4.",
+    "2019-3-15:3": "For candidate remaining A=2/5 mol, B=2/5, C=3/5; PC/PB=3/2. Does not match 4.",
+    "2019-3-15:4": "For candidate remaining A=1/2 mol, B=1/2, C=1/2; PC/PB=1. Does not match 4.",
+    "2019-3-15:5": "For candidate remaining A=3/5 mol, B=3/5, C=2/5; PC/PB=2/3. Does not match 4.",
+    "2020-3-17:0": "Gas mass22→25g means3g carbon consumed, y=.3g; stoichiometry CO2=.25mol, CO=.5mol; p=.525,1.05atm; Kp2.1 and ratio7.",
+    "2020-3-17:1": "Kp=pCO²/pCO2=1.05²/.525=2.1; y=.3 gives7.",
+    "2020-3-17:2": "y=.3 and ratio8 require Kp2.4, contrary to computed2.1.",
+    "2020-3-17:3": "ratio9 requires Kp2.7, contrary to2.1.",
+    "2020-3-17:4": "ratio10 requires Kp3.0, contrary to2.1.",
+    "2020-3-17:5": "ratio12 requires Kp3.6, contrary to2.1."
+  },
+  "retrievalMethod": "Direct web retrieval; reviewed pressure reaction quotient lines30–40 and heterogeneous equilibria lines263–270, including pure-solid carbon omission. Applied to supplied balanced reaction and remaining solid.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

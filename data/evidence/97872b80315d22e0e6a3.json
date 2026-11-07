@@ -1,0 +1,21 @@
+{
+  "id": "97872b80315d22e0e6a3",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e 43.3 — Human Reproductive Anatomy and Gametogenesis",
+  "url": "https://openstax.org/books/biology-2e/pages/43-3-human-reproductive-anatomy-and-gametogenesis",
+  "excerpt": "The primary oocytes arrest in prophase I before birth.",
+  "sourceHash": "263185742f985e54a2271365e93c8c4844405087b9397c2f5d26ef6602fabec4",
+  "cacheSourceId": "13a106690b37718dee5e",
+  "retrievedAt": "2026-11-06T17:26:52.796404+00:00",
+  "reviewedMappings": {
+    "2012-3-26:0": "출생 전 제1분열 전기 정지 및 배란되는 제2난모세포의 제2분열 중기 정지 대조. ㄱ 거짓 및 보충 설명 근거.",
+    "2012-3-26:1": "출생 전 제1분열 전기 정지 및 배란되는 제2난모세포의 제2분열 중기 정지 대조. ㄱ 거짓 및 보충 설명 근거.",
+    "2012-3-26:2": "출생 전 제1분열 전기 정지 및 배란되는 제2난모세포의 제2분열 중기 정지 대조. ㄱ 거짓 및 보충 설명 근거.",
+    "2012-3-26:3": "출생 전 제1분열 전기 정지 및 배란되는 제2난모세포의 제2분열 중기 정지 대조. ㄱ 거짓 및 보충 설명 근거.",
+    "2012-3-26:4": "출생 전 제1분열 전기 정지 및 배란되는 제2난모세포의 제2분열 중기 정지 대조. ㄱ 거짓 및 보충 설명 근거.",
+    "2012-3-26:5": "출생 전 제1분열 전기 정지 및 배란되는 제2난모세포의 제2분열 중기 정지 대조. ㄱ 거짓 및 보충 설명 근거."
+  },
+  "retrievalMethod": "web.search_query; relevant publisher excerpt read",
+  "sourceHashScope": "Selected excerpt only; not full page"
+}

@@ -1,0 +1,151 @@
+{
+  "id": "2018-3-19",
+  "summary": "1/[A]가 시간에 대해 직선이므로 이 반응은 A에 대한 2차 반응이며, 직선의 기울기가 속도 상수 k입니다. 온도 T에서 k는 0.10 L/(mol·s), 4/3·T에서 k는 0.40 L/(mol·s)로 4배 차이가 납니다. 이를 아레니우스 식에 대입하면 Ea = 4RT·ln4 = 14 kJ/mol입니다.",
+  "choices": [
+    "7 kJ/mol은 오답입니다. ln4 = 1.40 대신 ln2 = 0.70을 사용하면, 즉 속도 상수 비를 4가 아니라 2로 잘못 읽으면 나오는 값입니다. 실제 기울기 비는 0.40/0.10 = 4입니다.",
+    "10 kJ/mol은 오답입니다. 올바른 계산 Ea = 4 × 2.5 × 1.40 = 14와 일치하지 않습니다. 4RT = 10 kJ/mol에서 ln4 인자를 빠뜨렸을 때 나오는 값입니다.",
+    "12 kJ/mol은 오답입니다. 그래프에서 구한 속도 상수 비 4를 사용하면 Ea=4RT ln4=4×2.5×1.40=14 kJ/mol입니다.",
+    "14 kJ/mol이 정답입니다. 계산은 다음과 같습니다. ln(k2/k1) = ln4 = 1.40이고, (Ea/R)(1/T − 3/(4T)) = Ea/(4RT)입니다. 따라서 Ea = 1.40 × 4 × 2.5 = 14 kJ/mol입니다.",
+    "21 kJ/mol은 오답입니다. 역온도 차는 1/T−1/((4/3)T)=1/(4T)이며, 이를 적용한 값은 14 kJ/mol입니다."
+  ],
+  "lawNote": "두 직선의 초기 절편이 다르므로 100초의 세로축 값끼리 나누지 말고 각각의 증가량으로 기울기를 구합니다. 두 온도 사이에서 동일한 아레니우스 모형을 적용하며, ln2는 문제에서 제시한 0.70을 사용합니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §12.4 — Second-Order Reactions",
+      "quote": "According to the second-order integrated rate law, the rate constant is equal to the slope",
+      "url": "https://openstax.org/books/chemistry-2e/pages/12-4-integrated-rate-laws",
+      "evidenceId": "cf5ee218b4077f3a8e8d",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §12.4 — Second-Order Reactions",
+      "quote": "According to the second-order integrated rate law, the rate constant is equal to the slope",
+      "url": "https://openstax.org/books/chemistry-2e/pages/12-4-integrated-rate-laws",
+      "evidenceId": "cf5ee218b4077f3a8e8d",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §12.4 — Second-Order Reactions",
+      "quote": "According to the second-order integrated rate law, the rate constant is equal to the slope",
+      "url": "https://openstax.org/books/chemistry-2e/pages/12-4-integrated-rate-laws",
+      "evidenceId": "cf5ee218b4077f3a8e8d",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §12.4 — Second-Order Reactions",
+      "quote": "According to the second-order integrated rate law, the rate constant is equal to the slope",
+      "url": "https://openstax.org/books/chemistry-2e/pages/12-4-integrated-rate-laws",
+      "evidenceId": "cf5ee218b4077f3a8e8d",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §12.4 — Second-Order Reactions",
+      "quote": "According to the second-order integrated rate law, the rate constant is equal to the slope",
+      "url": "https://openstax.org/books/chemistry-2e/pages/12-4-integrated-rate-laws",
+      "evidenceId": "cf5ee218b4077f3a8e8d",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §12.4 — Second-Order Reactions",
+      "quote": "According to the second-order integrated rate law, the rate constant is equal to the slope",
+      "url": "https://openstax.org/books/chemistry-2e/pages/12-4-integrated-rate-laws",
+      "evidenceId": "cf5ee218b4077f3a8e8d",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §12.5 — Activation Energy and the Arrhenius Equation",
+      "quote": "the Arrhenius equation is rearranged to a convenient two-point form:",
+      "url": "https://openstax.org/books/chemistry-2e/pages/12-5-collision-theory",
+      "evidenceId": "b2a809b8908e5365c881",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §12.5 — Activation Energy and the Arrhenius Equation",
+      "quote": "the Arrhenius equation is rearranged to a convenient two-point form:",
+      "url": "https://openstax.org/books/chemistry-2e/pages/12-5-collision-theory",
+      "evidenceId": "b2a809b8908e5365c881",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §12.5 — Activation Energy and the Arrhenius Equation",
+      "quote": "the Arrhenius equation is rearranged to a convenient two-point form:",
+      "url": "https://openstax.org/books/chemistry-2e/pages/12-5-collision-theory",
+      "evidenceId": "b2a809b8908e5365c881",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §12.5 — Activation Energy and the Arrhenius Equation",
+      "quote": "the Arrhenius equation is rearranged to a convenient two-point form:",
+      "url": "https://openstax.org/books/chemistry-2e/pages/12-5-collision-theory",
+      "evidenceId": "b2a809b8908e5365c881",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §12.5 — Activation Energy and the Arrhenius Equation",
+      "quote": "the Arrhenius equation is rearranged to a convenient two-point form:",
+      "url": "https://openstax.org/books/chemistry-2e/pages/12-5-collision-theory",
+      "evidenceId": "b2a809b8908e5365c881",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §12.5 — Activation Energy and the Arrhenius Equation",
+      "quote": "the Arrhenius equation is rearranged to a convenient two-point form:",
+      "url": "https://openstax.org/books/chemistry-2e/pages/12-5-collision-theory",
+      "evidenceId": "b2a809b8908e5365c881",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Original graph inspected; independent slope ratio and exact arithmetic; direct source and all-choice review",
+    "contentHash": "1c7407ae2c32c5ae6b69c744e861cad02c50fc52359811050dc4f55d0f4abb83"
+  }
+}

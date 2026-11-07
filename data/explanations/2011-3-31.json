@@ -1,0 +1,41 @@
+{
+  "summary": "옳지 않은 것은 ⑤입니다. 아래쪽 층은 U자형으로 휘어 있어 문항에서는 배사가 아니라 향사로 해석합니다. 휘어진 층이 잘린 경계 위를 새로운 층이 덮는 부정합도 나타납니다.",
+  "choices": [
+    "옳습니다. 아래쪽의 여러 층이 함께 굽어 있으므로 습곡이 나타납니다.",
+    "문항의 통상적인 지질사 해석에서 옳습니다. 습곡된 지층이 융기·노출되어 침식된 뒤 다시 퇴적층으로 덮인 과정으로 해석합니다.",
+    "옳습니다. 휘어진 층의 윗부분이 불규칙한 경계에서 잘리고 그 위에 자갈과 새로운 층이 놓여 있어 침식면으로 해석됩니다.",
+    "옳습니다. 아래의 변형된 층과 위의 새로운 퇴적층 사이 부정합은 지질 기록에 시간적 공백이 있음을 나타냅니다.",
+    "틀립니다. 그림의 습곡은 아래로 오목한 향사이며, 위로 볼록한 배사로 표시되어 있지 않습니다."
+  ],
+  "lawNote": "그림만으로 각 암석의 종류나 융기량·시간을 특정할 수는 없습니다. 또한 침식이 있었다는 사실만으로 모든 경우에 융기를 단정하는 것은 아니며, 여기서는 제시된 경사 부정합의 전형적인 형성과정을 해석합니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "U.S. National Park Service",
+      "ref": "Tectonic Folding",
+      "quote": "synclines are shaped like the letter 'U.'",
+      "url": "https://www.nps.gov/articles/tectonic-folding.htm",
+      "evidenceId": "9a36e6defa5571bf7b37",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "Utah Geological Survey",
+      "ref": "Glad You Asked: What is an Unconformity?",
+      "quote": "When a region is uplifted, deposition usually ceases and erosion begins.",
+      "url": "https://geology.utah.gov/map-pub/survey-notes/glad-you-asked/unconformity/",
+      "evidenceId": "3909184fc86c01220c0f",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "원본2011-3-31_1.webp 직접 시각확인. U자 습곡, 불규칙한 절단경계와 자갈, 상부 수평층 관찰. NPS 습곡 및 Utah Geological Survey 경사부정합 근거 대조. 초안의 평탄면·암석종류 추측과 침식에는 반드시 융기 필요 주장 수정. 저장정답⑤ 확인.",
+    "contentHash": "fee220e4d3e1a91c9ea93531ba562265d181c3bb6e583178a5bad2bcd5f5af7a"
+  }
+}

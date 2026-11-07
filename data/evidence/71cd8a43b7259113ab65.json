@@ -1,0 +1,16 @@
+{
+  "id": "71cd8a43b7259113ab65",
+  "kind": "science",
+  "source": "OpenStax Anatomy and Physiology 2e",
+  "ref": "17.6 The Adrenal Glands",
+  "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/17-6-the-adrenal-glands",
+  "excerpt": "The medulla is stimulated to secrete the amine hormones epinephrine and norepinephrine.",
+  "sourceHash": "9eb1a3e2f2a637c4e3959e39a21f3f953bd2b0c27ee20cc815f69d8aecf584e0",
+  "cacheSourceId": "cf0304bc5ebd963b1d41",
+  "retrievedAt": "2026-11-06T18:58:01.914097+00:00",
+  "reviewedMappings": {
+    "2014-3-27:5": "42–44,79–83행 부신수질 분비와 심박/혈류/간 글리코겐 반응 확인. 골격근 글리코겐이 직접 혈당으로 방출된다는 식의 출처82행 확대 해석은 배제."
+  },
+  "retrievalMethod": "web.open; manually reviewed excerpt",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

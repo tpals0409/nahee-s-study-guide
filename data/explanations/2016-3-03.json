@@ -1,0 +1,218 @@
+{
+  "id": "2016-3-03",
+  "summary": "회전축에 대한 각운동량을 보존시킵니다. 막대의 관성모멘트는 ML²/3이고, 입자의 경로와 회전축 사이 거리는 L/2입니다. 두 각운동량은 방향이 반대이며 충돌 직후 모두 정지하므로 (ML²/3)ω−mv(L/2)=0입니다. 따라서 입자의 속력은 2MLω/(3m), 정답은 ②입니다.",
+  "choices": [
+    "①을 대입하면 입자의 각운동량 크기는 ML²ω/6입니다. 막대의 ML²ω/3보다 작아 초기 총 각운동량이 0이 되지 않습니다.",
+    "②를 대입하면 mv(L/2)=ML²ω/3으로 막대의 각운동량과 크기가 같고 방향이 반대입니다. 충돌 직후 모두 정지한다는 조건을 만족합니다.",
+    "③을 대입하면 입자의 각운동량 크기는 ML²ω/2입니다. 막대의 ML²ω/3보다 커서 두 값이 상쇄되지 않습니다.",
+    "④를 대입하면 입자의 각운동량 크기는 3ML²ω/4입니다. 막대의 ML²ω/3과 다르므로 정지 조건을 만족하지 않습니다.",
+    "⑤를 대입하면 입자의 각운동량 크기는 3ML²ω/2입니다. 막대의 ML²ω/3과 상쇄되지 않으므로 오답입니다."
+  ],
+  "lawNote": "충돌 동안 회전축에 대한 외부 각충격량을 무시하는 통상적인 충돌 모형을 적용합니다. 축의 충격력 때문에 막대와 입자의 선운동량은 보존되지 않을 수 있습니다. 충돌 전후 운동에너지 보존은 적용하지 않습니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "11.3 Conservation of Angular Momentum",
+      "quote": "if there is no net external torque around that point",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/11-3-conservation-of-angular-momentum",
+      "evidenceId": "9c02aefcad8ce06ae12e",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "11.3 Conservation of Angular Momentum",
+      "quote": "if there is no net external torque around that point",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/11-3-conservation-of-angular-momentum",
+      "evidenceId": "9c02aefcad8ce06ae12e",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "11.3 Conservation of Angular Momentum",
+      "quote": "if there is no net external torque around that point",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/11-3-conservation-of-angular-momentum",
+      "evidenceId": "9c02aefcad8ce06ae12e",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "11.3 Conservation of Angular Momentum",
+      "quote": "if there is no net external torque around that point",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/11-3-conservation-of-angular-momentum",
+      "evidenceId": "9c02aefcad8ce06ae12e",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "11.3 Conservation of Angular Momentum",
+      "quote": "if there is no net external torque around that point",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/11-3-conservation-of-angular-momentum",
+      "evidenceId": "9c02aefcad8ce06ae12e",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "11.3 Conservation of Angular Momentum",
+      "quote": "if there is no net external torque around that point",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/11-3-conservation-of-angular-momentum",
+      "evidenceId": "9c02aefcad8ce06ae12e",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "OpenStax University Physics Volume 1 §10.5 Calculating Moments of Inertia",
+      "quote": "A uniform thin rod with axis at the end",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/10-5-calculating-moments-of-inertia",
+      "evidenceId": "694f0aba335153db5622",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "OpenStax University Physics Volume 1 §10.5 Calculating Moments of Inertia",
+      "quote": "A uniform thin rod with axis at the end",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/10-5-calculating-moments-of-inertia",
+      "evidenceId": "694f0aba335153db5622",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "OpenStax University Physics Volume 1 §10.5 Calculating Moments of Inertia",
+      "quote": "A uniform thin rod with axis at the end",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/10-5-calculating-moments-of-inertia",
+      "evidenceId": "694f0aba335153db5622",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "OpenStax University Physics Volume 1 §10.5 Calculating Moments of Inertia",
+      "quote": "A uniform thin rod with axis at the end",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/10-5-calculating-moments-of-inertia",
+      "evidenceId": "694f0aba335153db5622",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "OpenStax University Physics Volume 1 §10.5 Calculating Moments of Inertia",
+      "quote": "A uniform thin rod with axis at the end",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/10-5-calculating-moments-of-inertia",
+      "evidenceId": "694f0aba335153db5622",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "OpenStax University Physics Volume 1 §10.5 Calculating Moments of Inertia",
+      "quote": "A uniform thin rod with axis at the end",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/10-5-calculating-moments-of-inertia",
+      "evidenceId": "694f0aba335153db5622",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1 11.2 Angular Momentum",
+      "quote": "The magnitude of the angular momentum is found from the definition of the cross-product,",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/11-2-angular-momentum",
+      "evidenceId": "fa0e8a27ce470269ab89",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1 11.2 Angular Momentum",
+      "quote": "The magnitude of the angular momentum is found from the definition of the cross-product,",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/11-2-angular-momentum",
+      "evidenceId": "fa0e8a27ce470269ab89",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1 11.2 Angular Momentum",
+      "quote": "The magnitude of the angular momentum is found from the definition of the cross-product,",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/11-2-angular-momentum",
+      "evidenceId": "fa0e8a27ce470269ab89",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1 11.2 Angular Momentum",
+      "quote": "The magnitude of the angular momentum is found from the definition of the cross-product,",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/11-2-angular-momentum",
+      "evidenceId": "fa0e8a27ce470269ab89",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1 11.2 Angular Momentum",
+      "quote": "The magnitude of the angular momentum is found from the definition of the cross-product,",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/11-2-angular-momentum",
+      "evidenceId": "fa0e8a27ce470269ab89",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1 11.2 Angular Momentum",
+      "quote": "The magnitude of the angular momentum is found from the definition of the cross-product,",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/11-2-angular-momentum",
+      "evidenceId": "fa0e8a27ce470269ab89",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "Original diagram inspected; endpoint inertia and opposite angular momenta derived; all five options checked with exact rational arithmetic; primary sources mapped",
+    "contentHash": "c02b81057e77f754b53c8ba245e4a99ab58d20a7da32db4380e4be4c01f75ef9"
+  }
+}

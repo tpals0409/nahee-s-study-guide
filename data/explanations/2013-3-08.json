@@ -1,0 +1,30 @@
+{
+  "summary": "정답은 ⑤ 100 nm입니다. 공기→SiO와 SiO→Si는 모두 굴절률이 증가하는 경계이므로 두 반사광에 각각 π의 위상 변화가 생깁니다. 반사에 의한 상대 위상차는 없으므로, 수직 입사에서 최소 반사를 만드는 가장 작은 양의 두께는 2nd=λ/2를 만족합니다. 따라서 d=580/(4×1.45)=100 nm입니다.",
+  "choices": [
+    "25.0 nm이면 광경로차 2nd=72.5 nm=λ/8입니다. 최소 반사의 조건 λ/2와 다릅니다.",
+    "50.0 nm이면 광경로차는 145 nm=λ/4입니다. 필요한 290 nm보다 작습니다.",
+    "60.0 nm이면 광경로차는 174 nm=0.3λ이므로 최소 반사 조건을 만족하지 않습니다.",
+    "80.0 nm이면 광경로차는 232 nm=0.4λ이므로 최소 반사 조건을 만족하지 않습니다.",
+    "100 nm이면 광경로차는 290 nm=λ/2입니다. 두 반사광의 위상차가 π가 되어 상쇄 간섭이 가장 강해지는 최소 두께입니다."
+  ],
+  "lawNote": "580 nm는 입사광의 파장이고, 박막 안의 파장은 580/1.45=400 nm입니다. 최소 두께는 박막 내부 파장의 1/4입니다. 여기서 구하는 것은 반사가 최소가 되는 두께입니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "OpenStax University Physics Volume 3 §3.4 Interference in Thin Films, Example 3.3",
+      "quote": "Thus, to obtain destructive interference, ray 2 needs to travel a half wavelength farther than ray 1.",
+      "url": "https://openstax.org/books/university-physics-volume-3/pages/3-4-interference-in-thin-films",
+      "evidenceId": "5613fbb6f1c79ac0f7d2",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "원본 그림과 모든 조건·선지 확인. OpenStax §3.4 반사위상 및 Example3.3 직접 대조. 유리수 계산으로100nm 검산; 저장 정답⑤ 일치. 초안의 추측성 오답 원인 제거, 반사 최소와 완전 무반사 혼동 방지.",
+    "contentHash": "e890f1848641f79245330bb062e6f1114e56340f418920205dd6befa862e793d"
+  }
+}

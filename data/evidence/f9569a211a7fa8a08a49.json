@@ -1,0 +1,21 @@
+{
+  "id": "f9569a211a7fa8a08a49",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume 2 §13.1 Faraday’s Law",
+  "url": "https://openstax.org/books/university-physics-volume-2/pages/13-1-faradays-law",
+  "excerpt": "The negative sign describes the direction in which the induced emf drives current around a circuit.",
+  "sourceHash": "7d56e2026c1e6bdfcdef713722b8a16d4c172f5e72fb6ef453a262a8b2235e95",
+  "cacheSourceId": "fb1f8d1e807b81669f90",
+  "retrievedAt": "2026-11-06T23:07:11.096191+00:00",
+  "reviewedMappings": {
+    "2020-3-07:0": "구역별 선속 합 Φ=(2at)(2l²)+(at+b)l²의 시간 미분 크기는 5|a|l². 양의 시간에서 바깥 방향 세기 2at를 읽으면 a>0으로 ⑤.",
+    "2020-3-07:1": "II contributes al² but I adds 4al² under stated positive-a reading.",
+    "2020-3-07:2": "I alone has derivative (2a)(2l²)=4al², so 2al² is not total.",
+    "2020-3-07:3": "Same oriented surface gives addition 4al²+al²=5al², not 3al².",
+    "2020-3-07:4": "4al² omits II contribution al².",
+    "2020-3-07:5": "Faraday law absolute derivative yields 5|a|l²; a>0 gives 5al² and constant b derivative is zero."
+  },
+  "retrievalMethod": "Direct web retrieval; reviewed surface-integral flux and Faraday law equations 13.1–13.2, lines 39–59, and fixed-area example lines 65–78. Original image checked for areas 2l² and l² and both outward field symbols.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

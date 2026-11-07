@@ -1,0 +1,21 @@
+{
+  "id": "49935675d82d15a6e39d",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e, 7.4 Oxidative Phosphorylation",
+  "url": "https://openstax.org/books/biology-2e/pages/7-4-oxidative-phosphorylation",
+  "excerpt": "oxygen is reduced to form water",
+  "sourceHash": "bfd071fd7ec3074c576dbadd87f8544c3e008aad7d189281c46d49e53603b3ec",
+  "cacheSourceId": "73f5ac4df2b833d8743b",
+  "retrievedAt": "2026-11-07T01:07:41.335901+00:00",
+  "reviewedMappings": {
+    "2022-3-23:0": "Electron Transport Chain and Figure 7.12: oxygen terminal acceptor, water product and NADH donor. Independently balanced O2+4e+4H ->2water; do not use erroneous two-electrons-per-O2 wording in Complex IV paragraph. Applied to summary",
+    "2022-3-23:1": "Electron Transport Chain and Figure 7.12: oxygen terminal acceptor, water product and NADH donor. Independently balanced O2+4e+4H ->2water; do not use erroneous two-electrons-per-O2 wording in Complex IV paragraph. Applied to O2/NADPH: second incorrect",
+    "2022-3-23:2": "Electron Transport Chain and Figure 7.12: oxygen terminal acceptor, water product and NADH donor. Independently balanced O2+4e+4H ->2water; do not use erroneous two-electrons-per-O2 wording in Complex IV paragraph. Applied to O2/NADP+: both correct",
+    "2022-3-23:3": "Electron Transport Chain and Figure 7.12: oxygen terminal acceptor, water product and NADH donor. Independently balanced O2+4e+4H ->2water; do not use erroneous two-electrons-per-O2 wording in Complex IV paragraph. Applied to water/NADPH: both incorrect",
+    "2022-3-23:4": "Electron Transport Chain and Figure 7.12: oxygen terminal acceptor, water product and NADH donor. Independently balanced O2+4e+4H ->2water; do not use erroneous two-electrons-per-O2 wording in Complex IV paragraph. Applied to water/NADP+: first incorrect",
+    "2022-3-23:5": "Electron Transport Chain and Figure 7.12: oxygen terminal acceptor, water product and NADH donor. Independently balanced O2+4e+4H ->2water; do not use erroneous two-electrons-per-O2 wording in Complex IV paragraph. Applied to water/NADH: both incorrect"
+  },
+  "retrievalMethod": "Direct web read of electron transport text and figure captions; superscript plus normalized in selected excerpt",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

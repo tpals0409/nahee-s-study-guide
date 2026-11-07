@@ -1,0 +1,18 @@
+{
+  "id": "9eadf542bcd3af3aed6c",
+  "kind": "science",
+  "source": "Veronica Chiriac and Gabriel Balea",
+  "ref": "Buffer Index and Buffer Capacity for a Simple Buffer Solution, J. Chem. Educ. 74 (1997), 937–939",
+  "url": "https://lateqs.iqsc.usp.br/files/2012/10/Buffer-Capacity.pdf",
+  "excerpt": "the buffer capacity is not equivalent to the buffer index for an electrolyte solution",
+  "sourceHash": "8a1c90f9decc2699534ff28b66c42b81ffdd18c1bdac153d276d9ea7743af953",
+  "cacheSourceId": "e5dcb240b6394fb4b5c4",
+  "retrievedAt": "2026-11-06T21:11:52.110429+00:00",
+  "reviewedMappings": {
+    "2017-3-18:0": "pp.937–938 식(1),(11) 및 (17),(18) 확인: 미분지수와 유한 pH 1단위 용량 구별. 강산의 미분지수도 0이 아니므로 단순 정의 변경으로 정답을 단정하지 않음.",
+    "2017-3-18:1": "식(11),(13): r=1에서 산/짝염기 기여 β=ln(10)C/4. ① 총농도0.2M.",
+    "2017-3-18:2": "식(17),(18): r=1에서 pH±1 이동에 필요한 양/부피는9C/22. ② 총농도0.1M이나 부피10L. βV를 유한 pH1 이동 몰수라고 쓸 수 없음."
+  },
+  "retrievalMethod": "Direct browser review of textbook section or journal article equations",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

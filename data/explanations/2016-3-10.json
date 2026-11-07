@@ -1,0 +1,86 @@
+{
+  "id": "2016-3-10",
+  "summary": "일차원 무한 퍼텐셜 우물에서 에너지는 E_n = n²h²/(8mL²)입니다. (가)의 n=1 에너지와 (나)의 n=3 에너지를 같게 놓으면 L₂² = 9L₁²이므로 L₂/L₁ = 3입니다.",
+  "choices": [
+    "9: 오답입니다. 이 값은 L₂²/L₁²에 해당합니다. 에너지가 L²에 반비례한다는 관계에서 제곱근을 취하지 않고 9를 그대로 쓰면 이 값이 나옵니다. 실제 길이 비는 √9 = 3입니다.",
+    "3: 정답입니다. h²/(8mL₁²) = 9h²/(8mL₂²)에서 L₂² = 9L₁²이고, L₂/L₁ = 3입니다. 우물이 넓을수록 준위 간격이 좁아지므로, 더 넓은 (나)의 세 번째 준위가 (가)의 바닥상태와 같아질 수 있습니다.",
+    "1: 오답입니다. 두 우물의 폭이 같으면 같은 질량의 전자에서 n=3 에너지는 n=1 에너지의 9배가 됩니다. 따라서 두 에너지가 같다는 조건을 만족할 수 없습니다.",
+    "1/3: 오답입니다. 비를 뒤집은 값, 즉 L₁/L₂입니다. L₂ = L₁/3이면 (나)의 n=3 에너지는 (가)의 바닥상태 에너지의 81배가 됩니다.",
+    "L₂/L₁=1/9를 대입하면 E₃(L₂)/E₁(L₁)=9/(1/9)²=729입니다. 두 에너지가 같아야 한다는 조건에 맞지 않습니다."
+  ],
+  "lawNote": "그림은 개략도이므로 그려진 폭이나 준위 사이 거리를 재어 비를 구하지 않습니다. 두 전자에 같은 질량을 적용하고 각 우물 내부 퍼텐셜을 공통 기준 0으로 놓는 표준 무한 우물 모형으로 계산합니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 3 7.4 The Quantum Particle in a Box",
+      "quote": "The state for $n=2$ is the first excited state, the state for $n=3$ is the second excited state",
+      "url": "https://openstax.org/books/university-physics-volume-3/pages/7-4-the-quantum-particle-in-a-box",
+      "evidenceId": "6cf1501a7edbba8613b2",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 3 7.4 The Quantum Particle in a Box",
+      "quote": "The state for $n=2$ is the first excited state, the state for $n=3$ is the second excited state",
+      "url": "https://openstax.org/books/university-physics-volume-3/pages/7-4-the-quantum-particle-in-a-box",
+      "evidenceId": "6cf1501a7edbba8613b2",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 3 7.4 The Quantum Particle in a Box",
+      "quote": "The state for $n=2$ is the first excited state, the state for $n=3$ is the second excited state",
+      "url": "https://openstax.org/books/university-physics-volume-3/pages/7-4-the-quantum-particle-in-a-box",
+      "evidenceId": "6cf1501a7edbba8613b2",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 3 7.4 The Quantum Particle in a Box",
+      "quote": "The state for $n=2$ is the first excited state, the state for $n=3$ is the second excited state",
+      "url": "https://openstax.org/books/university-physics-volume-3/pages/7-4-the-quantum-particle-in-a-box",
+      "evidenceId": "6cf1501a7edbba8613b2",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 3 7.4 The Quantum Particle in a Box",
+      "quote": "The state for $n=2$ is the first excited state, the state for $n=3$ is the second excited state",
+      "url": "https://openstax.org/books/university-physics-volume-3/pages/7-4-the-quantum-particle-in-a-box",
+      "evidenceId": "6cf1501a7edbba8613b2",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 3 7.4 The Quantum Particle in a Box",
+      "quote": "The state for $n=2$ is the first excited state, the state for $n=3$ is the second excited state",
+      "url": "https://openstax.org/books/university-physics-volume-3/pages/7-4-the-quantum-particle-in-a-box",
+      "evidenceId": "6cf1501a7edbba8613b2",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "Original n labels and width ratio inspected; primary infinite-well energy equation matched; all options checked using exact rational arithmetic",
+    "contentHash": "80421c5b005380db82b24d77855e5993176d50a5f53bbefa3a145a135dfa645a"
+  }
+}

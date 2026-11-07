@@ -1,0 +1,16 @@
+{
+  "id": "d431695b14cbfbf8a946",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e 7.7 Regulation of Cellular Respiration",
+  "url": "https://openstax.org/books/biology-2e/pages/7-7-regulation-of-cellular-respiration",
+  "excerpt": "High levels of ATP or citrate or a lower, more acidic pH decreases the enzyme’s activity.",
+  "sourceHash": "c7d040d07e01ef90d6cfbd56419d4351f85951399fff3a592782fc3300822928",
+  "cacheSourceId": "e65d139e3c9dda4bea39",
+  "retrievedAt": "2026-11-06T19:39:26.355429+00:00",
+  "reviewedMappings": {
+    "2015-3-22:3": "직전 문장의 phosphofructokinase를 대상으로 시트르산의 억제 작용을 설명하는 본문 문단을 확인했다."
+  },
+  "retrievalMethod": "Direct web page and relevant paragraphs read; selected short excerpt transcribed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

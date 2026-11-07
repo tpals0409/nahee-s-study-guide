@@ -1,0 +1,16 @@
+{
+  "id": "437443873d9f61958c2e",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e 28.5 Superphylum Ecdysozoa: Nematodes and Tardigrades",
+  "url": "https://openstax.org/books/biology-2e/pages/28-5-superphylum-ecdysozoa-nematodes-and-tardigrades",
+  "excerpt": "the cuticle—a tough, but flexible exoskeleton",
+  "sourceHash": "306efa62ae45c00392d0bc534f4b89a0af474ea801913cb4e7eb7af68a6633e2",
+  "cacheSourceId": "21131df970b7078c1f78",
+  "retrievedAt": "2026-11-07T05:03:38.217395+00:00",
+  "reviewedMappings": {
+    "2023-3-30:5": "외골격은 단단한 키틴성 껍질에 한정되지 않고 유연한 큐티클도 포함한다. 탈피동물의 주기적 외피 탈피를 뒷받침한다."
+  },
+  "retrievalMethod": "Direct web open/find",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

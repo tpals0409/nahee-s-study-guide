@@ -1,0 +1,18 @@
+{
+  "id": "aad1e724952a111dea31",
+  "kind": "science",
+  "source": "Investigative Ophthalmology & Visual Science / PubMed",
+  "ref": "Fullard and Snyder (1990), Protein levels in nonstimulated and stimulated tears of normal human subjects",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/2354914/",
+  "excerpt": "IgM levels were also higher in nonstimulated tears.",
+  "sourceHash": "972efd587cc9689a4b530898bdc6d7d4b08fc714b3725e998855e7439c954c28",
+  "cacheSourceId": "40b2c372f0f55009cd5d",
+  "retrievedAt": "2026-11-07T06:02:23.264667+00:00",
+  "reviewedMappings": {
+    "2022-3-24:0": "Original abstract: 30 clinically normal subjects, atraumatic stimulated/nonstimulated tears, fractionation and protein assays; supports tear IgM measurement, not proof of local secretion route or IgM-specific protective efficacy.",
+    "2022-3-24:2": "Original abstract: 30 clinically normal subjects, atraumatic stimulated/nonstimulated tears, fractionation and protein assays; supports tear IgM measurement, not proof of local secretion route or IgM-specific protective efficacy.",
+    "2022-3-24:4": "Original abstract: 30 clinically normal subjects, atraumatic stimulated/nonstimulated tears, fractionation and protein assays; supports tear IgM measurement, not proof of local secretion route or IgM-specific protective efficacy."
+  },
+  "retrievalMethod": "web open, PubMed original article abstract",
+  "sourceHashScope": "Short reviewed excerpt only"
+}

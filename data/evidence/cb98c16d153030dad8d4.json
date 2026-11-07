@@ -1,0 +1,22 @@
+{
+  "id": "cb98c16d153030dad8d4",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume 2 §3.3 First Law of Thermodynamics, equation 3.7",
+  "url": "https://openstax.org/books/university-physics-volume-2/pages/3-3-first-law-of-thermodynamics",
+  "excerpt": "The first law is a statement of energy conservation.",
+  "sourceHash": "47a13e76859a7c4fa59590536b7b6057f622f031662864656fb3505ba5eb9ed3",
+  "cacheSourceId": "8d5b3668404c812f67b1",
+  "retrievedAt": "2026-11-06T23:08:01.622008+00:00",
+  "reviewedMappings": {
+    "2011-3-06:0": "물에 공급되는 에너지138000J에서 팽창일9994J를 빼면 ΔU=128006J. 따라서 W<ΔU로 ㄴ 거짓. 히터를 포함한 계의 전기적 일과 물로 전달되는 열을 혼동하지 않도록 단열 관련 설명 구분.",
+    "2020-3-08:0": "Graph states give WAB=3/2, WBC=0, WCA=-1 in P0V0 units; U=3PV/2 gives ΔUAB=9/2, QAB=6 and ratio1/12.",
+    "2020-3-08:1": "Ratio1/24 with W=1/2 requires QAB=12, contradicting first-law QAB=6.",
+    "2020-3-08:2": "Ratio1/16 requires QAB=8, contradicting ΔUAB+WAB=6.",
+    "2020-3-08:3": "QAB=9/2+3/2=6 and cyclic W=3/2-1=1/2 give1/12.",
+    "2020-3-08:4": "Ratio1/8 requires QAB=4, contradicting QAB=6.",
+    "2020-3-08:5": "Ratio1/6 requires QAB=3, contradicting QAB=6."
+  },
+  "retrievalMethod": "Direct web retrieval; reviewed ΔEint=Q-W equation3.7 and heat/work sign convention lines31–59.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "92959f86211d75003115",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Organic Chemistry, 13.6 Spin–Spin Splitting in 1H NMR Spectra",
+  "url": "https://openstax.org/books/organic-chemistry/pages/13-6-spin-spin-splitting-in-1h-nmr-spectra",
+  "excerpt": "The signal of a proton with n equivalent neighboring protons is split into a multiplet of n + 1 peaks",
+  "sourceHash": "763df944e4492443059f63aa55e15ac31d76710568d6032f35c8574f87afdfb1",
+  "cacheSourceId": "104f5bf833b895dfab2c",
+  "retrievedAt": "2026-11-06T18:46:32.980116+00:00",
+  "reviewedMappings": {
+    "2014-3-18:0": "원문n+1규칙과 장거리결합이 보통작다는 적용범위대조. 원본다섯구조에서 인접수소수와비등가수소환경을 직접열거.①에틸기q/t+OCH3 s,③모양동일하나위치순서불일치. OH교환조건과약한장거리결합을무시하는시험모형명시."
+  },
+  "retrievalMethod": "web.open; direct primary-source page reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

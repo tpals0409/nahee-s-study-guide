@@ -1,0 +1,16 @@
+{
+  "id": "356e70b7aca318ddd453",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Anatomy and Physiology 2e §22.5 Transport of Gases",
+  "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/22-5-transport-of-gases",
+  "excerpt": "a higher, or more basic, pH inhibits oxygen dissociation from hemoglobin.",
+  "sourceHash": "3fe794b6108287b22ad192412925587a6258158991b6baa9090ab89a1b2e1ab3",
+  "cacheSourceId": "04c6638f01e64a1f8b68",
+  "retrievedAt": "2026-11-06T16:39:04.334005+00:00",
+  "reviewedMappings": {
+    "2011-3-25:0": "§22.5 본문에서 산소분압 증가→결합 증가(ㄱ), 첫 산소 결합의 구조변화가 후속 결합을 촉진(ㄴ 거짓), pH 증가→해리 억제(ㄷ 거짓)를 확인. 같은 산소분압·온도 등 비교조건을 구별. Biology2e §39.4의 네번째 산소 표현에 의존하지 않고 해당 교재의 명시적 협동결합 설명 사용. 모든 보기 조합 대조."
+  },
+  "retrievalMethod": "web.run official textbook Function of Hemoglobin and Oxygen Dissociation sections reviewed",
+  "sourceHashScope": "Selected excerpt only; not full page"
+}

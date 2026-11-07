@@ -1,0 +1,21 @@
+{
+  "id": "dc81d64568c00adbee9b",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "6.2 Friction",
+  "url": "https://openstax.org/books/university-physics-volume-1/pages/6-2-friction",
+  "excerpt": "the force of static friction keeps the crate stationary",
+  "sourceHash": "52531f2c4bbc0228974ce3a54f74157a2ac18042b3a6e5087384bd9bebba86d0",
+  "cacheSourceId": "10802a012f7c514798a2",
+  "retrievedAt": "2026-11-06T20:05:33.865057+00:00",
+  "reviewedMappings": {
+    "2016-3-01:0": "본문 127·132행은 정지마찰력이 최대값 이하에서 평형에 필요한 크기로 작용함을 설명한다. 수직항력 40N 자체나 두 물체 무게의 합 60N을 마찰력으로 둘 수 없다.",
+    "2016-3-01:1": "본문 127·132행은 정지마찰력이 최대값 이하에서 평형에 필요한 크기로 작용함을 설명한다. 수직항력 40N 자체나 두 물체 무게의 합 60N을 마찰력으로 둘 수 없다.",
+    "2016-3-01:2": "본문 127·132행은 정지마찰력이 최대값 이하에서 평형에 필요한 크기로 작용함을 설명한다. 수직항력 40N 자체나 두 물체 무게의 합 60N을 마찰력으로 둘 수 없다.",
+    "2016-3-01:3": "본문 127·132행은 정지마찰력이 최대값 이하에서 평형에 필요한 크기로 작용함을 설명한다. 수직항력 40N 자체나 두 물체 무게의 합 60N을 마찰력으로 둘 수 없다.",
+    "2016-3-01:4": "본문 127·132행은 정지마찰력이 최대값 이하에서 평형에 필요한 크기로 작용함을 설명한다. 수직항력 40N 자체나 두 물체 무게의 합 60N을 마찰력으로 둘 수 없다.",
+    "2016-3-01:5": "본문 127·132행은 정지마찰력이 최대값 이하에서 평형에 필요한 크기로 작용함을 설명한다. 수직항력 40N 자체나 두 물체 무게의 합 60N을 마찰력으로 둘 수 없다."
+  },
+  "retrievalMethod": "web open: directly reviewed page text",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

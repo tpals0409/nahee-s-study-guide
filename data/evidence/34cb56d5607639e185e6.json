@@ -1,0 +1,16 @@
+{
+  "id": "34cb56d5607639e185e6",
+  "kind": "science",
+  "source": "Smith College",
+  "ref": "Geology 222b Petrology: Plagioclase",
+  "url": "https://www.science.smith.edu/geosciences/petrology/petrography/plagioclase/plagioclase.html",
+  "excerpt": "Solid solution series between Na-rich end-member (albite) and Ca-rich end-member (anorthite).",
+  "sourceHash": "686073160aa865b1fbd5e5319351156b992fd070c322ff15e7811735567f8a26",
+  "cacheSourceId": "c536c861ac2d9f1ac986",
+  "retrievedAt": "2026-11-07T02:46:46.599084+00:00",
+  "reviewedMappings": {
+    "2024-3-32:5": "Indexed university petrographic data table reviewed; explicitly identifies endmembers and solid solution."
+  },
+  "retrievalMethod": "Indexed university petrographic data table reviewed; explicitly identifies endmembers and solid solution.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

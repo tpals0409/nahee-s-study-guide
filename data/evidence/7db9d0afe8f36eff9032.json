@@ -1,0 +1,14 @@
+{
+  "id": "7db9d0afe8f36eff9032",
+  "kind": "science",
+  "source": "NASA",
+  "ref": "Hubble Watches Jupiter’s Great Red Spot",
+  "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-watches-jupiters-great-red-spot-behave-like-a-stress-ball/",
+  "excerpt": "for at least 150 years.",
+  "sourceHash": "dcabaa8d5c9c722b5d2639a59917d3517b55f26b266fa1787972ebb7a26142d2",
+  "cacheSourceId": "a60f145dfa1d693d216f",
+  "retrievedAt": "2026-11-06T15:14:48.714175+00:00",
+  "reviewedMappings": {
+    "2009-3-37:4": "각선지NASA원문대조. 금성>수성표면온도, 화성687일<천왕성30687일, 가니메데148.2e21kg>달73.5e21kg(지름아닌질량행). 대적반최소150년관측으로수일소멸반박;17세기동일폭풍단정삭제. 타이탄주성분질소. 날짜이후연구를시험당시정답변경근거로사용하지않음."
+  }
+}

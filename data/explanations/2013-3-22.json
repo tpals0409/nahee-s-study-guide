@@ -1,0 +1,74 @@
+{
+  "summary": "정답은 ① 방실결절입니다. 심방의 규칙적인 활동이 심실 활동으로 일정하게 이어지지 않는다는 점이 핵심입니다. 방실결절은 심방에서 온 흥분을 지연시킨 뒤 방실다발(히스속)로 전달하므로, 제시된 선택지 중 이러한 전도 이상과 가장 직접적으로 연결됩니다.",
+  "choices": [
+    "방실결절은 심방에서 심실로 이어지는 정상 전도 경로의 관문입니다. 이 부위의 전도에 문제가 생기면 심방의 흥분이 심실로 일정하게 전달되지 않을 수 있어 가장 적절합니다.",
+    "반월판은 대동맥판과 폐동맥판으로, 동맥에서 심실로 혈액이 역류하는 것을 막습니다. 심방의 흥분을 심실로 전달하는 전도계의 관문이 아닙니다.",
+    "관상동맥은 심근 등에 혈액을 공급하는 혈관입니다. 이 문항은 혈액 공급보다 심방과 심실 사이의 전기신호 전달 부위를 묻기 때문에 방실결절이 더 적절합니다.",
+    "동방결절은 정상 심장의 박동을 시작하는 박동조율기입니다. 심방 리듬은 규칙적인데 이후 심실 활동이 불규칙하다는 조건은 박동 시작 부위보다 심방-심실 전달 부위의 문제를 지지합니다.",
+    "폐정맥은 폐에서 산소가 풍부한 혈액을 좌심방으로 운반합니다. 심방에서 심실로 흥분을 전달하는 정상 전도 경로의 관문은 아닙니다."
+  ],
+  "lawNote": "이 문항은 선택지 중 가장 적절한 부위를 고르는 문제입니다. 제시된 설명만으로 구체적인 방실차단 유형이나 다른 전도 부위의 정상 여부를 확정할 수는 없습니다. 심전도의 P파·QRS군은 각각 심방·심실의 탈분극을 나타내며, 수축 자체와 동일한 것은 아닙니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "OpenStax Anatomy and Physiology 2e §19.2 Cardiac Muscle and Electrical Activity",
+      "quote": "The septum prevents the impulse from spreading directly to the ventricles without passing through the AV node.",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/19-2-cardiac-muscle-and-electrical-activity",
+      "evidenceId": "1d23d1956c51fb78a320",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "OpenStax Anatomy and Physiology 2e §19.2 Cardiac Muscle and Electrical Activity",
+      "quote": "The septum prevents the impulse from spreading directly to the ventricles without passing through the AV node.",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/19-2-cardiac-muscle-and-electrical-activity",
+      "evidenceId": "1d23d1956c51fb78a320",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "OpenStax Anatomy and Physiology 2e §19.1 Heart Anatomy",
+      "quote": "Coronary arteries supply blood to the myocardium and other components of the heart.",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/19-1-heart-anatomy",
+      "evidenceId": "bc3585d634ef83dfd9e5",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "OpenStax Anatomy and Physiology 2e §19.1 Heart Anatomy",
+      "quote": "Coronary arteries supply blood to the myocardium and other components of the heart.",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/19-1-heart-anatomy",
+      "evidenceId": "bc3585d634ef83dfd9e5",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "OpenStax Anatomy and Physiology 2e §19.1 Heart Anatomy",
+      "quote": "Coronary arteries supply blood to the myocardium and other components of the heart.",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/19-1-heart-anatomy",
+      "evidenceId": "bc3585d634ef83dfd9e5",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "원본2013-3-22.webp 전체문구·선지확인 및 정답①대조. OpenStax §19.1·19.2 전도/해부기능확인. P파=수축 혼동, SA정상확정, 특정2도차단 진단, 불필요한 폐정맥부정맥 설명 제거.",
+    "contentHash": "3b5bcc16d793bd7f8973c60da74f05d9561e5d473a0de12b82b387114c4d74b4"
+  }
+}

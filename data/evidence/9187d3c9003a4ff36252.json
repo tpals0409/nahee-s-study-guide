@@ -1,0 +1,16 @@
+{
+  "id": "9187d3c9003a4ff36252",
+  "kind": "science",
+  "source": "USGS",
+  "ref": "Developing the theory",
+  "url": "https://pubs.usgs.gov/gip/dynamic/developing.html",
+  "excerpt": "cools and becomes increasingly older as it moves away from the ridge crest with seafloor spreading",
+  "sourceHash": "138585e76122196f9fc6bac1f9dc4d12be83e3441729c0c10fb2fd9aa2bb7552",
+  "cacheSourceId": "0a243f19edfc96d82962",
+  "retrievedAt": "2026-11-06T18:23:38.840864+00:00",
+  "reviewedMappings": {
+    "2013-3-35:0": "ㄷ 해령에서 생성된 해양지각이 해저 확장으로 멀어질수록 연령 증가."
+  },
+  "retrievalMethod": "web.search_query: indexed official excerpt; direct page returned 403",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

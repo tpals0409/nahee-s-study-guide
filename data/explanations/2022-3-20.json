@@ -1,0 +1,85 @@
+{
+  "id": "2022-3-20",
+  "summary": "균형 반응식은 2Fe²⁺ + H₂O₂ + 2H⁺ → 2Fe³⁺ + 2H₂O이므로 a=2, b=1, c=2, d=2입니다. a+b=3이 c+d=4보다 작으므로 ㄱ은 옳습니다. O의 산화수는 -1에서 -2로 감소하므로 ㄴ은 틀립니다. Fe²⁺ 1 mol은 전자 1 mol을 잃으므로 ㄷ도 틀립니다. 따라서 정답은 ㄱ만 고른 선지입니다.",
+  "choices": [
+    "'ㄱ'만 고른 선지: 정답입니다. a=2, b=1, c=2, d=2이므로 a+b=3이고 c+d=4입니다. 3<4이므로 ㄱ은 옳습니다. ㄴ과 ㄷ은 틀린 진술이므로 ㄱ만 고르는 이 선지가 맞습니다.",
+    "'ㄴ'만 고른 선지: 오답입니다. H₂O₂에서 O의 산화수는 -1입니다(H가 +1이므로 2(+1)+2x=0, x=-1). H₂O에서 O의 산화수는 -2입니다. 따라서 O의 산화수는 감소하며, H₂O₂는 환원되는 산화제입니다. 또한 옳은 진술인 ㄱ이 빠져 있습니다.",
+    "'ㄷ'만 고른 선지: 오답입니다. Fe²⁺ → Fe³⁺ + e⁻이므로 Fe²⁺ 1 mol당 잃는 전자는 1 mol입니다. 2 mol이 아닙니다. 또한 옳은 진술인 ㄱ이 빠져 있습니다.",
+    "'ㄱ, ㄴ'을 고른 선지: 오답입니다. ㄱ은 옳지만, ㄴ은 틀립니다. O의 산화수는 -1에서 -2로 감소하기 때문입니다.",
+    "'ㄱ, ㄷ'을 고른 선지: 오답입니다. ㄱ은 옳지만, ㄷ은 틀립니다. Fe²⁺ 1 mol은 전자 1 mol만 잃기 때문입니다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 17.1 Review of Redox Chemistry",
+      "quote": "Balance each half-reaction for charge by adding electrons.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/17-1-review-of-redox-chemistry",
+      "evidenceId": "17ce2f45a16b82108cd2",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 17.1 Review of Redox Chemistry",
+      "quote": "Balance each half-reaction for charge by adding electrons.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/17-1-review-of-redox-chemistry",
+      "evidenceId": "17ce2f45a16b82108cd2",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 17.1 Review of Redox Chemistry",
+      "quote": "Balance each half-reaction for charge by adding electrons.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/17-1-review-of-redox-chemistry",
+      "evidenceId": "17ce2f45a16b82108cd2",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 17.1 Review of Redox Chemistry",
+      "quote": "Balance each half-reaction for charge by adding electrons.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/17-1-review-of-redox-chemistry",
+      "evidenceId": "17ce2f45a16b82108cd2",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 17.1 Review of Redox Chemistry",
+      "quote": "Balance each half-reaction for charge by adding electrons.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/17-1-review-of-redox-chemistry",
+      "evidenceId": "17ce2f45a16b82108cd2",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 17.1 Review of Redox Chemistry",
+      "quote": "Balance each half-reaction for charge by adding electrons.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/17-1-review-of-redox-chemistry",
+      "evidenceId": "17ce2f45a16b82108cd2",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Original image checked; independent atom, charge and electron balance; direct OpenStax oxidation-number and acidic half-reaction review",
+    "contentHash": "1b54da4a4eec59fb35e031012b2c919cf54686fb96f9f5fe070a473398b94f66"
+  }
+}

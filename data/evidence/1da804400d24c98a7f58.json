@@ -1,0 +1,22 @@
+{
+  "id": "1da804400d24c98a7f58",
+  "kind": "science",
+  "source": "OpenStax Biology 2e",
+  "ref": "11.1 The Process of Meiosis",
+  "url": "https://openstax.org/books/biology-2e/pages/11-1-the-process-of-meiosis",
+  "excerpt": "one round of chromosome replication followed by two rounds of nuclear division",
+  "sourceHash": "6907d9498cadf5e4ff0355607d2f8d2e9642e36129f03a7cebc57cc35d1e65c8",
+  "cacheSourceId": "586cfb14c370e1936361",
+  "retrievedAt": "2026-11-07T00:15:10.721285+00:00",
+  "reviewedMappings": {
+    "2014-3-30:5": "37–44행 1회 복제 후2회 핵분열. 생식세포분열이라는 문맥에서 감수분열로 해석. DNA량C와 염색체배수성n 혼용 금지.",
+    "2021-3-25:0": "교재37-47,120: 복제1회 후 분열2회; 교차 전기I; 자매염색분체 분리 후기II. ㄱㄴ참/ㄷ거짓.",
+    "2021-3-25:1": "전기I 비자매염색분체 교차로 ㄱ참이나 후기II 자매분리 ㄴ도 참이므로 불완전.",
+    "2021-3-25:2": "후기II 자매염색분체 분리로 ㄴ참이나 전기I 교차 ㄱ 누락.",
+    "2021-3-25:3": "복제는 감수I 이전 S기 한번. 감수I와II 사이 추가 전장 DNA 복제가 없어 두번이라는 ㄷ거짓.",
+    "2021-3-25:4": "전기I 비자매염색분체 간 교차와 후기II 자매염색분체 분리가 모두 교재와 일치.",
+    "2021-3-25:5": "ㄱ참이나 ㄷ거짓. 감수I 상동염색체 분리로 배수성 감소하며 감수II는 자매염색분체 분리. 복제와 분열횟수를 구별."
+  },
+  "retrievalMethod": "Direct lines37-47,119-123 reviewed: premeiotic S phase, nonsister crossing over in prophase I, sister separation in anaphase II.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

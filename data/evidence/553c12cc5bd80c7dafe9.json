@@ -1,0 +1,17 @@
+{
+  "id": "553c12cc5bd80c7dafe9",
+  "kind": "science",
+  "source": "Nature Biotechnology",
+  "ref": "Genome editing with Cas9 in adult mice corrects a disease mutation and phenotype",
+  "url": "https://www.nature.com/articles/nbt.2884",
+  "excerpt": "correction of a Fah mutation in hepatocytes",
+  "sourceHash": "0c9610ff3a941d2930ee125dc55930196c178daf91988935d11bfc8b5775dd74",
+  "cacheSourceId": "dc074cdd4a2bf597f7b4",
+  "retrievedAt": "2026-11-07T02:00:23.171033+00:00",
+  "reviewedMappings": {
+    "2023-3-29:0": "⑤ 성체 생쥐 간세포의 Fah돌연변이를 CRISPR-Cas9으로 교정한 실제 연구로 가능성 뒷받침. 모든 세포에서 성공하거나 인간 치료가 보장된다는 주장이 아님.",
+    "2023-3-29:5": "⑤ 성체 생쥐 간세포의 Fah돌연변이를 CRISPR-Cas9으로 교정한 실제 연구로 가능성 뒷받침. 모든 세포에서 성공하거나 인간 치료가 보장된다는 주장이 아님."
+  },
+  "retrievalMethod": "2014 원논문 초록 검색 색인 확인. Nature 직접열기는인증리디렉션실패.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "04a840f7292fe1ccf6b4",
+  "kind": "science",
+  "source": "Chris P. Schaller, College of Saint Benedict / Saint John’s University",
+  "ref": "Reactivity in Chemistry LS7 — The Trans Effect",
+  "url": "https://employees.csbsju.edu/cschaller/Reactivity/MLnSub/lstranseffect.htm",
+  "excerpt": "the ligand that gets replaced is trans to a chloride.",
+  "sourceHash": "7694afbf11d96bb3ad7ee36afd61f0947c3563a990372d4dd374a35ce564b22e",
+  "cacheSourceId": "3d9fe83a2dcfadd724a6",
+  "retrievedAt": "2026-11-06T19:36:28.642040+00:00",
+  "reviewedMappings": {
+    "2015-3-19:0": "University authored text describes tetrachloroplatinate plus ammonia yielding cisplatin and tetraammineplatinum plus chloride yielding transplatin, and chloride-trans substitution. Applied to original A/B/C; statement ㄷ rejected, with independent Pt(II) charge balance.",
+    "2015-3-19:1": "University authored text describes tetrachloroplatinate plus ammonia yielding cisplatin and tetraammineplatinum plus chloride yielding transplatin, and chloride-trans substitution. Applied to original A/B/C; statement ㄷ rejected, with independent Pt(II) charge balance.",
+    "2015-3-19:3": "University authored text describes tetrachloroplatinate plus ammonia yielding cisplatin and tetraammineplatinum plus chloride yielding transplatin, and chloride-trans substitution. Applied to original A/B/C; statement ㄷ rejected, with independent Pt(II) charge balance.",
+    "2015-3-19:4": "University authored text describes tetrachloroplatinate plus ammonia yielding cisplatin and tetraammineplatinum plus chloride yielding transplatin, and chloride-trans substitution. Applied to original A/B/C; statement ㄷ rejected, with independent Pt(II) charge balance.",
+    "2015-3-19:5": "University authored text describes tetrachloroplatinate plus ammonia yielding cisplatin and tetraammineplatinum plus chloride yielding transplatin, and chloride-trans substitution. Applied to original A/B/C; statement ㄷ rejected, with independent Pt(II) charge balance."
+  },
+  "retrievalMethod": "Direct web page opened and relevant text read; short excerpt transcribed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

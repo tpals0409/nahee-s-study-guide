@@ -1,0 +1,173 @@
+{
+  "id": "2023-3-24",
+  "summary": "ㄴ·ㄹ이 옳으므로 정답은 ④이다. 전문 항원제시세포는 II형 MHC도 발현하며, T세포의 성숙 장소는 골수가 아니라 가슴샘이다.",
+  "choices": [
+    "ㄴ은 옳지만 ㄱ이 틀리다. 수지상세포·대식세포·B세포 같은 전문 항원제시세포는 II형 MHC도 발현하므로 I형만 가진다는 주장은 틀리다.",
+    "ㄱ·ㄷ 모두 틀리다. 전문 항원제시세포에는 II형 MHC도 있으며, T세포는 가슴샘에서 성숙한다.",
+    "ㄴ은 옳지만 ㄷ이 틀리다. 세포독성 T세포는 감염세포를 죽인다. T세포 전구세포가 골수에서 유래한다는 것과 가슴샘에서 성숙한다는 것을 구별해야 한다.",
+    "ㄴ·ㄹ 모두 옳다. 세포독성 T세포는 감염세포의 사멸을 유도한다. B세포 항원수용체와 항체는 항원의 특정 결합 부위인 항원결정부를 인식한다.",
+    "ㄹ은 옳지만 ㄷ이 틀리다. B세포 항원수용체와 항체는 항원결정부를 인식하며, T세포는 골수가 아니라 가슴샘에서 성숙한다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e, 42.2 Adaptive Immune Response",
+      "quote": "MHC II molecule",
+      "url": "https://openstax.org/books/biology-2e/pages/42-2-adaptive-immune-response",
+      "evidenceId": "9f5702291d2b21d8c546",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e, 42.2 Adaptive Immune Response",
+      "quote": "MHC II molecule",
+      "url": "https://openstax.org/books/biology-2e/pages/42-2-adaptive-immune-response",
+      "evidenceId": "9f5702291d2b21d8c546",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e, 42.2 Adaptive Immune Response",
+      "quote": "MHC II molecule",
+      "url": "https://openstax.org/books/biology-2e/pages/42-2-adaptive-immune-response",
+      "evidenceId": "9f5702291d2b21d8c546",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e, 42.2 Adaptive Immune Response",
+      "quote": "Cytotoxic T cells kill infected cells.",
+      "url": "https://openstax.org/books/biology-2e/pages/42-2-adaptive-immune-response",
+      "evidenceId": "65ba56bd5120a0b76da8",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e, 42.2 Adaptive Immune Response",
+      "quote": "Cytotoxic T cells kill infected cells.",
+      "url": "https://openstax.org/books/biology-2e/pages/42-2-adaptive-immune-response",
+      "evidenceId": "65ba56bd5120a0b76da8",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e, 42.2 Adaptive Immune Response",
+      "quote": "Cytotoxic T cells kill infected cells.",
+      "url": "https://openstax.org/books/biology-2e/pages/42-2-adaptive-immune-response",
+      "evidenceId": "65ba56bd5120a0b76da8",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e, 42.2 Adaptive Immune Response",
+      "quote": "Cytotoxic T cells kill infected cells.",
+      "url": "https://openstax.org/books/biology-2e/pages/42-2-adaptive-immune-response",
+      "evidenceId": "65ba56bd5120a0b76da8",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e, 42.2 Adaptive Immune Response",
+      "quote": "thymus for maturation",
+      "url": "https://openstax.org/books/biology-2e/pages/42-2-adaptive-immune-response",
+      "evidenceId": "de6a6910959f06e88c3a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e, 42.2 Adaptive Immune Response",
+      "quote": "thymus for maturation",
+      "url": "https://openstax.org/books/biology-2e/pages/42-2-adaptive-immune-response",
+      "evidenceId": "de6a6910959f06e88c3a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e, 42.2 Adaptive Immune Response",
+      "quote": "thymus for maturation",
+      "url": "https://openstax.org/books/biology-2e/pages/42-2-adaptive-immune-response",
+      "evidenceId": "de6a6910959f06e88c3a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e, 42.2 Adaptive Immune Response",
+      "quote": "thymus for maturation",
+      "url": "https://openstax.org/books/biology-2e/pages/42-2-adaptive-immune-response",
+      "evidenceId": "de6a6910959f06e88c3a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e, 42.2 Adaptive Immune Response",
+      "quote": "epitopes are known as “antigenic determinants.”",
+      "url": "https://openstax.org/books/biology-2e/pages/42-2-adaptive-immune-response",
+      "evidenceId": "eb142c4a7b6eb887609f",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e, 42.2 Adaptive Immune Response",
+      "quote": "epitopes are known as “antigenic determinants.”",
+      "url": "https://openstax.org/books/biology-2e/pages/42-2-adaptive-immune-response",
+      "evidenceId": "eb142c4a7b6eb887609f",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e, 42.2 Adaptive Immune Response",
+      "quote": "epitopes are known as “antigenic determinants.”",
+      "url": "https://openstax.org/books/biology-2e/pages/42-2-adaptive-immune-response",
+      "evidenceId": "eb142c4a7b6eb887609f",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "원문 이미지 대조 및 OpenStax Biology2e42.2 관련절 직접 검증. ㄱ 거짓, ㄴ 참, ㄷ 거짓, ㄹ 참으로 ④. 불필요한 Fas 경로·양성음성선택 상세 삭제. 내부 선형 에피토프도 항체 결합에 접근 가능해야 하므로 표면 인식에 대한 초안의 막연한 이의는 제거.",
+    "contentHash": "7bc028d2a0a322e92a90fd7bb11947edf411437b3941dbc3ab0d29c034321481"
+  }
+}

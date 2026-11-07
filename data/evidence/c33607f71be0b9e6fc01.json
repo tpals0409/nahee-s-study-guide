@@ -1,0 +1,16 @@
+{
+  "id": "c33607f71be0b9e6fc01",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Microbiology 18.4 B Lymphocytes and Humoral Immunity",
+  "url": "https://openstax.org/books/microbiology/pages/18-4-b-lymphocytes-and-humoral-immunity",
+  "excerpt": "a variety of antibody classes with the same epitope specificity",
+  "sourceHash": "aef8806053f2d3e22fa0c7ef96da14a17109248f43a5669a21eb100d9400e76c",
+  "cacheSourceId": "c3f1314180c1f8565390",
+  "retrievedAt": "2026-11-07T02:39:21.756022+00:00",
+  "reviewedMappings": {
+    "2024-3-24:1": "Isotype switching changes antibody class rather than eliminating the immature autoreactive cell."
+  },
+  "retrievalMethod": "Publisher indexed class-switching paragraph reviewed.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

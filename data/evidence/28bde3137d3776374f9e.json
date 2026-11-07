@@ -1,0 +1,16 @@
+{
+  "id": "28bde3137d3776374f9e",
+  "kind": "science",
+  "source": "U.S. Geological Survey",
+  "ref": "USGS thesaurus — unconformities",
+  "url": "https://apps.usgs.gov/thesaurus/term-simple.php?code=1198&thcode=2",
+  "excerpt": "where erosion had removed some of the older rocks before the younger rocks were deposited.",
+  "sourceHash": "96bf9c3682451b945b1ede8f2399c3cf18e1b48e061e568a888cedadb35a9cf1",
+  "cacheSourceId": "db53c55bfe42158c2f36",
+  "retrievedAt": "2026-11-06T19:07:48.794293+00:00",
+  "reviewedMappings": {
+    "2014-3-35:0": "Supports missing/eroded older rock before younger sedimentation only. Does not by itself prove subaerial exposure, tectonic uplift followed by subsidence, or identity of schematic basal pebbles. Partial evidence, question remains unresolved."
+  },
+  "retrievalMethod": "Indexed search excerpt; direct open returned HTTP 403.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

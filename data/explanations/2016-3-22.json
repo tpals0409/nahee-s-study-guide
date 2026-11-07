@@ -1,0 +1,196 @@
+{
+  "id": "2016-3-22",
+  "summary": "삼투는 용질이 아니라 물의 막 통과이므로 ㄱ은 틀리다. 폐포에서 대기로 CO₂가 배출되는 과정은 기도를 통한 환기이며 세포막의 능동수송이 아니므로 ㄴ도 틀리다. 소낭이 세포막과 융합해 내용물을 밖으로 방출하는 세포외배출작용을 설명한 ㄷ만 옳아 정답은 ②이다.",
+  "choices": [
+    "오답이다. ㄱ은 삼투의 이동 물질을 잘못 설명했다. 생물학에서 삼투는 선택적 투과성 막을 통한 물의 이동이며, 용질의 확산이 아니다. 또한 옳은 ㄷ이 빠져 있다.",
+    "정답이다. ㄷ의 세포외배출작용은 물질을 담은 소낭이 세포막과 융합해 내용물을 세포 밖으로 내보내는 과정이다. ㄱ은 삼투의 정의가 틀리고, ㄴ은 환기를 세포막 능동수송으로 잘못 설명했으므로 ㄷ만 옳다.",
+    "오답이다. ㄱ과 ㄴ 모두 틀리다. 삼투는 물의 이동이다. 폐포에서 대기로 나가는 CO₂는 날숨의 공기 흐름에 실려 기도를 통해 배출되며, 세포막 능동수송으로 대기에 도달하는 것이 아니다.",
+    "오답이다. ㄷ은 옳지만 ㄴ은 틀리다. 폐포와 대기 사이의 기체 이동은 압력 차이에 따른 환기로 설명한다. CO₂가 세포막을 통과할 때의 단순확산과도 구분해야 하며, 어느 쪽도 ㄴ의 세포막 능동수송 설명을 뒷받침하지 않는다.",
+    "오답이다. ㄷ만 옳다. ㄱ은 물 대신 용질을 삼투의 이동 대상으로 적었고, ㄴ은 폐포에서 대기로의 환기를 능동수송이라고 하였으므로 세 진술을 모두 고를 수 없다."
+  ],
+  "lawNote": "폐포–대기 사이의 환기와 혈액–폐포 사이의 막을 통한 기체 교환은 서로 다른 과정이다. 호흡근이 에너지를 사용한다는 사실을 CO₂ 자체가 세포막 능동수송으로 배출된다는 뜻으로 해석하지 않는다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e 5.2 — Passive Transport",
+      "quote": "Osmosis is the movement of free water molecules through a semipermeable membrane",
+      "url": "https://openstax.org/books/biology-2e/pages/5-2-passive-transport",
+      "evidenceId": "2805e485146bc8b69561",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e 5.2 — Passive Transport",
+      "quote": "Osmosis is the movement of free water molecules through a semipermeable membrane",
+      "url": "https://openstax.org/books/biology-2e/pages/5-2-passive-transport",
+      "evidenceId": "2805e485146bc8b69561",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e 5.2 — Passive Transport",
+      "quote": "Osmosis is the movement of free water molecules through a semipermeable membrane",
+      "url": "https://openstax.org/books/biology-2e/pages/5-2-passive-transport",
+      "evidenceId": "2805e485146bc8b69561",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e 5.2 — Passive Transport",
+      "quote": "Osmosis is the movement of free water molecules through a semipermeable membrane",
+      "url": "https://openstax.org/books/biology-2e/pages/5-2-passive-transport",
+      "evidenceId": "2805e485146bc8b69561",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e 5.2 — Passive Transport",
+      "quote": "Osmosis is the movement of free water molecules through a semipermeable membrane",
+      "url": "https://openstax.org/books/biology-2e/pages/5-2-passive-transport",
+      "evidenceId": "2805e485146bc8b69561",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "5.4 Bulk Transport",
+      "quote": "In exocytosis, vesicles containing substances fuse with the plasma membrane.",
+      "url": "https://openstax.org/books/biology-2e/pages/5-4-bulk-transport",
+      "evidenceId": "36c15c964f5fefa440a5",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "5.4 Bulk Transport",
+      "quote": "In exocytosis, vesicles containing substances fuse with the plasma membrane.",
+      "url": "https://openstax.org/books/biology-2e/pages/5-4-bulk-transport",
+      "evidenceId": "36c15c964f5fefa440a5",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "5.4 Bulk Transport",
+      "quote": "In exocytosis, vesicles containing substances fuse with the plasma membrane.",
+      "url": "https://openstax.org/books/biology-2e/pages/5-4-bulk-transport",
+      "evidenceId": "36c15c964f5fefa440a5",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "5.4 Bulk Transport",
+      "quote": "In exocytosis, vesicles containing substances fuse with the plasma membrane.",
+      "url": "https://openstax.org/books/biology-2e/pages/5-4-bulk-transport",
+      "evidenceId": "36c15c964f5fefa440a5",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "5.4 Bulk Transport",
+      "quote": "In exocytosis, vesicles containing substances fuse with the plasma membrane.",
+      "url": "https://openstax.org/books/biology-2e/pages/5-4-bulk-transport",
+      "evidenceId": "36c15c964f5fefa440a5",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "5.4 Bulk Transport",
+      "quote": "In exocytosis, vesicles containing substances fuse with the plasma membrane.",
+      "url": "https://openstax.org/books/biology-2e/pages/5-4-bulk-transport",
+      "evidenceId": "36c15c964f5fefa440a5",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "22.3 The Process of Breathing",
+      "quote": "pressure within the lungs becomes greater than the atmospheric pressure.",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/22-3-the-process-of-breathing",
+      "evidenceId": "7f126367620eeda86a61",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "22.3 The Process of Breathing",
+      "quote": "pressure within the lungs becomes greater than the atmospheric pressure.",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/22-3-the-process-of-breathing",
+      "evidenceId": "7f126367620eeda86a61",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "22.3 The Process of Breathing",
+      "quote": "pressure within the lungs becomes greater than the atmospheric pressure.",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/22-3-the-process-of-breathing",
+      "evidenceId": "7f126367620eeda86a61",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "22.3 The Process of Breathing",
+      "quote": "pressure within the lungs becomes greater than the atmospheric pressure.",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/22-3-the-process-of-breathing",
+      "evidenceId": "7f126367620eeda86a61",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "22.3 The Process of Breathing",
+      "quote": "pressure within the lungs becomes greater than the atmospheric pressure.",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/22-3-the-process-of-breathing",
+      "evidenceId": "7f126367620eeda86a61",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "Original image checked; osmosis, literal alveolus-to-atmosphere ventilation wording and vesicle fusion compared with separate textbook sections; all five answer combinations reviewed.",
+    "contentHash": "f9e49e52c2bdd48ee062776a61835a6787d1a3bf10765c6d2b9bf6339db0cbad"
+  }
+}

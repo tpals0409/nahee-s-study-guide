@@ -1,0 +1,21 @@
+{
+  "id": "84fee8991a7be073f78a",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Anatomy and Physiology 2e 17.4 — The Thyroid Gland",
+  "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/17-4-the-thyroid-gland",
+  "excerpt": "increasing levels of T₃ and T₄ decrease the production and secretion of TSH.",
+  "sourceHash": "8ab6543f3817e695d4db6f62596a1341da095d9abb8711fa59850350ba5e1065",
+  "cacheSourceId": "7dd3ba2529c372ff00c5",
+  "retrievedAt": "2026-11-06T19:41:32.474716+00:00",
+  "reviewedMappings": {
+    "2015-3-24:0": "본문의 정상 조절축, 음성 되먹임, 기초대사·열 발생 및 요오드 결핍성 갑상선종을 읽고 원문에 적용했다. 비대를 저하증에만 한정하지 않는다.",
+    "2015-3-24:1": "본문의 정상 조절축, 음성 되먹임, 기초대사·열 발생 및 요오드 결핍성 갑상선종을 읽고 원문에 적용했다. 비대를 저하증에만 한정하지 않는다.",
+    "2015-3-24:2": "본문의 정상 조절축, 음성 되먹임, 기초대사·열 발생 및 요오드 결핍성 갑상선종을 읽고 원문에 적용했다. 비대를 저하증에만 한정하지 않는다.",
+    "2015-3-24:3": "본문의 정상 조절축, 음성 되먹임, 기초대사·열 발생 및 요오드 결핍성 갑상선종을 읽고 원문에 적용했다. 비대를 저하증에만 한정하지 않는다.",
+    "2015-3-24:4": "본문의 정상 조절축, 음성 되먹임, 기초대사·열 발생 및 요오드 결핍성 갑상선종을 읽고 원문에 적용했다. 비대를 저하증에만 한정하지 않는다.",
+    "2015-3-24:5": "본문의 정상 조절축, 음성 되먹임, 기초대사·열 발생 및 요오드 결핍성 갑상선종을 읽고 원문에 적용했다. 비대를 저하증에만 한정하지 않는다."
+  },
+  "retrievalMethod": "Direct page and relevant sections read; chemical subscripts normalized in short excerpt",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

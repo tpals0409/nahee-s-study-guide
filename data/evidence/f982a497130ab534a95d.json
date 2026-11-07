@@ -1,0 +1,17 @@
+{
+  "id": "f982a497130ab534a95d",
+  "kind": "science",
+  "source": "Geoscience Australia",
+  "ref": "Palaeontology",
+  "url": "https://www.ga.gov.au/scientific-topics/disciplines/palaeontology",
+  "excerpt": "reveals changes in environmental conditions through time",
+  "sourceHash": "965df922731b99cd6310ea4855c9fa8973eec94b98d1a13f282b44c87a522857",
+  "cacheSourceId": "d533afcc852962ccfe6c",
+  "retrievedAt": "2026-11-07T02:04:56.885910+00:00",
+  "reviewedMappings": {
+    "2023-3-34:0": "② 해설의 한정: 화석과 생태조건의 관계로 고환경을 추정할 수 있고 화석의 시대·환경 활용은 겹칠 수 있다. 표준화석의 정의상 핵심인 시대지시 기능과 환경지시 기능을 구별.",
+    "2023-3-34:2": "② 해설의 한정: 화석과 생태조건의 관계로 고환경을 추정할 수 있고 화석의 시대·환경 활용은 겹칠 수 있다. 표준화석의 정의상 핵심인 시대지시 기능과 환경지시 기능을 구별."
+  },
+  "retrievalMethod": "직접 열람: 생물의 분포와 환경요인, 미화석의 환경·시대 판정 활용.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

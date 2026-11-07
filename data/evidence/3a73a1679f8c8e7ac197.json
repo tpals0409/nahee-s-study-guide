@@ -1,0 +1,16 @@
+{
+  "id": "3a73a1679f8c8e7ac197",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "OpenStax Organic Chemistry §12.7 Interpreting Infrared Spectra",
+  "url": "https://openstax.org/books/organic-chemistry/pages/12-7-interpreting-infrared-spectra",
+  "excerpt": "Acetone has a strong C=O absorption at 1715",
+  "sourceHash": "839cadea24add7654d8c2998601d77822b29cfef0a0294bcf50c18d669e790ee",
+  "cacheSourceId": "ca1b50e09dd8254cc941",
+  "retrievedAt": "2026-11-06T17:57:41.864415+00:00",
+  "reviewedMappings": {
+    "2013-3-13:0": "Example12.4 아세톤C=O1715cm⁻¹ 및 강한결합의 높은진동수 경향 확인. B아세톤 배정. 단순 이원자 환산질량이 모든 다원자 정상모드에 정확히 같다는 초안 설명 제거. 이 배정과 모든 선지 순열을 비교하여④만일치."
+  },
+  "retrievalMethod": "web.open and web.find; source table or relevant text directly reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

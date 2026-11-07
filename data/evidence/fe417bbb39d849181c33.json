@@ -1,0 +1,21 @@
+{
+  "id": "fe417bbb39d849181c33",
+  "kind": "science",
+  "source": "Stanford University — Kalee Gregory",
+  "ref": "Organic Chemistry Text — Hybridization",
+  "url": "https://web.stanford.edu/~kaleeg/chem32/orgT/",
+  "excerpt": "The central carbon is sp hybridized.",
+  "sourceHash": "47ee63d1a4a4fd3e8513278d835bb6986f89142bafc8f11448d660fecdc2d8ec",
+  "cacheSourceId": "728ba20f1a82b2585c14",
+  "retrievedAt": "2026-11-07T00:04:04.980721+00:00",
+  "reviewedMappings": {
+    "2021-3-14:0": "ㄱ·ㄷ: 알렌 중앙 탄소는 sp, 두 말단 CH2 평면은 서로 수직. ㄱ은 참, ㄷ은 거짓이므로 ㄷ 포함 선지를 배제.",
+    "2021-3-14:1": "ㄱ·ㄷ: 알렌 중앙 탄소는 sp, 두 말단 CH2 평면은 서로 수직. ㄱ은 참, ㄷ은 거짓이므로 ㄷ 포함 선지를 배제.",
+    "2021-3-14:2": "ㄱ·ㄷ: 알렌 중앙 탄소는 sp, 두 말단 CH2 평면은 서로 수직. ㄱ은 참, ㄷ은 거짓이므로 ㄷ 포함 선지를 배제.",
+    "2021-3-14:3": "ㄱ·ㄷ: 알렌 중앙 탄소는 sp, 두 말단 CH2 평면은 서로 수직. ㄱ은 참, ㄷ은 거짓이므로 ㄷ 포함 선지를 배제.",
+    "2021-3-14:4": "ㄱ·ㄷ: 알렌 중앙 탄소는 sp, 두 말단 CH2 평면은 서로 수직. ㄱ은 참, ㄷ은 거짓이므로 ㄷ 포함 선지를 배제.",
+    "2021-3-14:5": "ㄱ·ㄷ: 알렌 중앙 탄소는 sp, 두 말단 CH2 평면은 서로 수직. ㄱ은 참, ㄷ은 거짓이므로 ㄷ 포함 선지를 배제."
+  },
+  "retrievalMethod": "Direct lines 3-5: allene central sp carbon and perpendicular terminal hydrogen planes.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

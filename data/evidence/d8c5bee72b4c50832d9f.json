@@ -1,0 +1,16 @@
+{
+  "id": "d8c5bee72b4c50832d9f",
+  "kind": "science",
+  "source": "USGS",
+  "ref": "Earthquakes — Measuring Earthquakes",
+  "url": "https://pubs.usgs.gov/gip/earthq1/measure.html",
+  "excerpt": "Shear waves do not travel as rapidly through the Earth’s crust and mantle as do compressional waves",
+  "sourceHash": "b6948e03db147674c1515ec586803baf8ca6a4c5f0ae10728bc895345e49b9f3",
+  "cacheSourceId": "8cb5e61d79128489a7de",
+  "retrievedAt": "2026-11-07T03:30:05.368033+00:00",
+  "reviewedMappings": {
+    "2025-3-31:2": "USGS 지진 설명에서 P와 S가 모두 지각·맨틀을 통과함을 확인."
+  },
+  "retrievalMethod": "Search-indexed source text read",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

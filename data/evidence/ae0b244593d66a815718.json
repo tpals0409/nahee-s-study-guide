@@ -1,0 +1,21 @@
+{
+  "id": "ae0b244593d66a815718",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume 3, 3.4 Interference in Thin Films",
+  "url": "https://openstax.org/books/university-physics-volume-3/pages/3-4-interference-in-thin-films",
+  "excerpt": "the wavelength in vacuum and n is the index of refraction",
+  "sourceHash": "d4739be4f72aef3357b49e140e4f924ea75246076759916ead572e706a990bcd",
+  "cacheSourceId": "792e6a7dedde1f5462ad",
+  "retrievedAt": "2026-11-07T03:47:23.943569+00:00",
+  "reviewedMappings": {
+    "2026-3-08:0": "For the same monochromatic light lambda_a/lambda_b=nb/na. Combining the independently read prism geometry and Snell law yields sqrt(2/3). Other options are not this ratio; sqrt(3/2) is its reciprocal.",
+    "2026-3-08:1": "For the same monochromatic light lambda_a/lambda_b=nb/na. Combining the independently read prism geometry and Snell law yields sqrt(2/3). Other options are not this ratio; sqrt(3/2) is its reciprocal.",
+    "2026-3-08:2": "For the same monochromatic light lambda_a/lambda_b=nb/na. Combining the independently read prism geometry and Snell law yields sqrt(2/3). Other options are not this ratio; sqrt(3/2) is its reciprocal.",
+    "2026-3-08:3": "For the same monochromatic light lambda_a/lambda_b=nb/na. Combining the independently read prism geometry and Snell law yields sqrt(2/3). Other options are not this ratio; sqrt(3/2) is its reciprocal.",
+    "2026-3-08:4": "For the same monochromatic light lambda_a/lambda_b=nb/na. Combining the independently read prism geometry and Snell law yields sqrt(2/3). Other options are not this ratio; sqrt(3/2) is its reciprocal.",
+    "2026-3-08:5": "For the same monochromatic light lambda_a/lambda_b=nb/na. Combining the independently read prism geometry and Snell law yields sqrt(2/3). Other options are not this ratio; sqrt(3/2) is its reciprocal."
+  },
+  "retrievalMethod": "Direct web open",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

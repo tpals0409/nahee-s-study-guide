@@ -1,0 +1,85 @@
+{
+  "id": "2020-3-34",
+  "summary": "고생대 지층에도 석회암이 산출됩니다. 태백 구문소의 오르도비스기 막골층이 그 사례이므로, 석회암층이 산출되지 않는다고 한 ④가 정답입니다.",
+  "choices": [
+    "옳습니다. 국내 석탄은 대부분 무연탄이며, 고생대 탄층이 주로 분포합니다. 이는 석탄이 고생대 지층에서만 산출된다는 뜻은 아닙니다.",
+    "옳습니다. 경남 고성 덕명리의 공룡 발자국 화석은 중생대 백악기의 사례입니다.",
+    "남한의 대표적인 고생대 지층 분포를 설명한 것으로 옳습니다. 강원권은 국내 최대 고생대 지층 분포지역이며 태백·영월·정선·삼척 등지에 넓게 나타납니다. 강원도에만 분포한다는 뜻은 아닙니다.",
+    "고생대에 석회암층이 산출되지 않는다는 진술은 틀립니다. 태백 구문소에는 고생대 오르도비스기의 막골층이 노출되며, 석회암과 돌로마이트질 암석을 포함합니다.",
+    "옳습니다. 태백 장성의 오르도비스기 지층에서는 삼엽충 화석이 산출됩니다. 오르도비스기는 고생대에 속합니다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "대한석탄공사",
+      "ref": "석탄의 분류와 이용에 대하여 알고 싶어요",
+      "quote": "우리나라의 석탄은 대부분 무연탄으로 고생대 탄층이 주로 분포한다.",
+      "url": "https://www.kocoal.or.kr/board/board_view.php?board_name=cs_faq&page=1&search_category=%EC%84%9D%ED%83%84&view_id=10",
+      "evidenceId": "926d74321e35453fc957",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "고성군",
+      "ref": "2017 군정백서: 제2편 분야별 성과와 전망",
+      "quote": "중생대 백악기시대에 살았던 공룡의 발자국 화석",
+      "url": "https://www.goseong.go.kr/uploadFile/pdf/gunjung_2017.pdf",
+      "evidenceId": "d0b3daf1e7598b8d8883",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "태백시",
+      "ref": "태백 장성 오르도비스기 화석산지",
+      "quote": "‘태백 장성 오르도비스기 화석산지’에서 발견되는 삼엽충화석은 5속 15종으로 분류되며",
+      "url": "https://tour.taebaek.go.kr/tour/go/culture?cid=8210&mode=read",
+      "evidenceId": "5844ef1c5515b7520d29",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "대한지질학회",
+      "ref": "강원권 지질유산의 발굴 및 가치평가",
+      "quote": "구문소 북측의 하상과 하안을 따라 오오도비스기의 탄산염암(석회암, 돌로마이트질 석회암, 돌로마이트) 지층(막골층)이 단속적으로 노출되어 있으며,",
+      "url": "https://www.jgsk.or.kr/_PR/view/?aidx=27196&bidx=2488",
+      "evidenceId": "38d55c62cad66d12780f",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "대한지질학회",
+      "ref": "강원권 지질유산의 발굴 및 가치평가",
+      "quote": "구문소 북측의 하상과 하안을 따라 오오도비스기의 탄산염암(석회암, 돌로마이트질 석회암, 돌로마이트) 지층(막골층)이 단속적으로 노출되어 있으며,",
+      "url": "https://www.jgsk.or.kr/_PR/view/?aidx=27196&bidx=2488",
+      "evidenceId": "38d55c62cad66d12780f",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "대한지질학회",
+      "ref": "강원권 지질유산의 발굴 및 가치평가",
+      "quote": "강원권은 우리나라의 최대 고생대 지층 분포지역이며,",
+      "url": "https://www.jgsk.or.kr/_PR/view/?aidx=27196&bidx=2488",
+      "evidenceId": "a2f381918fa19b705a0c",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "All five canonical choices reviewed against coal corporation, local-government fossil descriptions, and geological survey article. Distribution qualified to South Korean regional context; no unsupported restriction of whole Pyeongan age range.",
+    "contentHash": "004a0d428700048567c9ae7b50aa28e6bf170b3b47be1ea27cb9ee77a0d49923"
+  }
+}

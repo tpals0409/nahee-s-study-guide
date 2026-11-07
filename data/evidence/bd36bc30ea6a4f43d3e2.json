@@ -1,0 +1,17 @@
+{
+  "id": "bd36bc30ea6a4f43d3e2",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 2e §6.4 Electronic Structure of Atoms (Electron Configurations)",
+  "url": "https://openstax.org/books/chemistry-2e/pages/6-4-electronic-structure-of-atoms-electron-configurations",
+  "excerpt": "an electron shifts from the 4s into the 3d orbital",
+  "sourceHash": "934c4e62c21ab2232de715f49465c0e078ac990394079a699c1aec8ac2005698",
+  "cacheSourceId": "fcfdc0ca03b8e17ccdf9",
+  "retrievedAt": "2026-11-06T19:28:33.567478+00:00",
+  "reviewedMappings": {
+    "2015-3-14:0": "Cr half-filled d5 with s1 described in lines123–125; Mn explicitly identified as [Ar]4s²3d⁵ in lines115–122. Hund filling yields five d single electrons, plus Cr s single electron; 6 vs 5. No claim that half-filled-shell heuristic predicts all configurations.",
+    "2015-3-14:5": "Cr half-filled d5 with s1 described in lines123–125; Mn explicitly identified as [Ar]4s²3d⁵ in lines115–122. Hund filling yields five d single electrons, plus Cr s single electron; 6 vs 5. No claim that half-filled-shell heuristic predicts all configurations."
+  },
+  "retrievalMethod": "Direct web.open and find; surrounding specific element comparisons inspected",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

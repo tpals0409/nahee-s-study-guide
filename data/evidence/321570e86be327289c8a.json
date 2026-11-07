@@ -1,0 +1,21 @@
+{
+  "id": "321570e86be327289c8a",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 2e, 15.2 Lewis Acids and Bases",
+  "url": "https://openstax.org/books/chemistry-2e/pages/15-2-lewis-acids-and-bases",
+  "excerpt": "The very large equilibrium constant means the amount of the complex ion that will dissociate, x, will be very small.",
+  "sourceHash": "3d9cf6f42139b5362129b79057cdd8839fbda9a458296feec7ca2f213a1f82c8",
+  "cacheSourceId": "ada9752f34db23930fc7",
+  "retrievedAt": "2026-11-07T04:00:37.812278+00:00",
+  "reviewedMappings": {
+    "2026-3-18:0": "Formation-constant expression and coupled dissolution/complexation framework support multiplying given Ksp and K. Question explicitly permits negligible return amount in product concentrations: c≈y≈1 =>x=.01,ratio100. Exact two-equilibrium balances yield99.88968 and residual solid.0033159mol, validating approximation and saturated condition.",
+    "2026-3-18:1": "Formation-constant expression and coupled dissolution/complexation framework support multiplying given Ksp and K. Question explicitly permits negligible return amount in product concentrations: c≈y≈1 =>x=.01,ratio100. Exact two-equilibrium balances yield99.88968 and residual solid.0033159mol, validating approximation and saturated condition.",
+    "2026-3-18:2": "Formation-constant expression and coupled dissolution/complexation framework support multiplying given Ksp and K. Question explicitly permits negligible return amount in product concentrations: c≈y≈1 =>x=.01,ratio100. Exact two-equilibrium balances yield99.88968 and residual solid.0033159mol, validating approximation and saturated condition.",
+    "2026-3-18:3": "Formation-constant expression and coupled dissolution/complexation framework support multiplying given Ksp and K. Question explicitly permits negligible return amount in product concentrations: c≈y≈1 =>x=.01,ratio100. Exact two-equilibrium balances yield99.88968 and residual solid.0033159mol, validating approximation and saturated condition.",
+    "2026-3-18:4": "Formation-constant expression and coupled dissolution/complexation framework support multiplying given Ksp and K. Question explicitly permits negligible return amount in product concentrations: c≈y≈1 =>x=.01,ratio100. Exact two-equilibrium balances yield99.88968 and residual solid.0033159mol, validating approximation and saturated condition.",
+    "2026-3-18:5": "Formation-constant expression and coupled dissolution/complexation framework support multiplying given Ksp and K. Question explicitly permits negligible return amount in product concentrations: c≈y≈1 =>x=.01,ratio100. Exact two-equilibrium balances yield99.88968 and residual solid.0033159mol, validating approximation and saturated condition."
+  },
+  "retrievalMethod": "Direct web open",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

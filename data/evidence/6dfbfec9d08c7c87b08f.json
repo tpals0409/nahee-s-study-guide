@@ -1,0 +1,16 @@
+{
+  "id": "6dfbfec9d08c7c87b08f",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 2e §6.4 Electronic Structure of Atoms",
+  "url": "https://openstax.org/books/chemistry-2e/pages/6-4-electronic-structure-of-atoms-electron-configurations",
+  "excerpt": "All of the electrons in the noble gas neon (atomic number 10) are paired",
+  "sourceHash": "7425b79b6b16485c0ed0730e5f8df93732a12bf3a3fa1918dc9bcf23b551fcbe",
+  "cacheSourceId": "1fc31e805241610a30d3",
+  "retrievedAt": "2026-11-06T16:25:05.284116+00:00",
+  "reviewedMappings": {
+    "2011-3-11:0": "전자수합10,11,17,19와 Aufbau 순서로 Ne,Na,Cl,K 식별. Na=[Ne]3s¹, Cl=[Ne]3s²3p⁵, K=[Ar]4s¹. Hund 규칙으로 Na와Cl 홀전자 각1. 채워진 최외각 n=3과4로 Na,K의 주기 다름. 원문 전자배치·주기표 대응 근거와 대조."
+  },
+  "retrievalMethod": "web.run; periodic trends, ionization table and orbital filling reviewed",
+  "sourceHashScope": "Selected excerpt only; not full page"
+}

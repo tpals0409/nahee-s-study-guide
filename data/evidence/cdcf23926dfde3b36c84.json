@@ -1,0 +1,18 @@
+{
+  "id": "cdcf23926dfde3b36c84",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "OpenStax Organic Chemistry §8.10 Radical Additions to Alkenes: Chain-Growth Polymers",
+  "url": "https://openstax.org/books/organic-chemistry/pages/8-10-radical-additions-to-alkenes-chain-growth-polymers",
+  "excerpt": "Many substituted ethylenes, called vinyl monomers, also undergo polymerization",
+  "sourceHash": "9fed1033ab6bf54582a4a8782315de2336dfc94a9781e68a639c7e8864f26fb3",
+  "cacheSourceId": "aed82e0d88bd8dd744c4",
+  "retrievedAt": "2026-11-06T18:49:35.967655+00:00",
+  "reviewedMappings": {
+    "2013-3-11:0": "표8.1 에틸렌,염화비닐,스티렌,아세트산비닐의 구조와 중합체 직접 확인. 원본①②③첨가중합. ④명칭은 PVAc이나 그림COOCH3는 표의OCOCH3와 불일치; 두 경우 모두 비닐 첨가중합 판정. 물이 빠져나오는 주사슬 에스터화와 곁사슬 에스터 존재를 구분.",
+    "2014-3-19:1": "원본 반복단위의 치환기를 유지하여 비닐 단량체를 복원하고 원자 수를 직접 계산했다. 라디칼 개시가 이 문항의 특정 중합 조건이라고 주장하지 않는다.",
+    "2014-3-19:5": "원본 반복단위의 치환기를 유지하여 비닐 단량체를 복원하고 원자 수를 직접 계산했다. 라디칼 개시가 이 문항의 특정 중합 조건이라고 주장하지 않는다."
+  },
+  "retrievalMethod": "web.open; manually reviewed excerpt",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

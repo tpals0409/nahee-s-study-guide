@@ -1,0 +1,14 @@
+{
+  "id": "17d51120a7dc946f9b6b",
+  "kind": "science",
+  "source": "OpenStax · University Physics Volume 1",
+  "ref": "10.5",
+  "url": "https://openstax.org/books/university-physics-volume-1/pages/10-5-calculating-moments-of-inertia",
+  "excerpt": "Iparallel-axis=Icenter of mass+md2.",
+  "sourceHash": "3df6a8266e7b8eea6b8b2b4688d6bc1674571f2e9bf7e3d0de654acd45fccbca",
+  "cacheSourceId": "3c51a0c3817fa638ea26",
+  "retrievedAt": "2026-11-06T14:52:05.417754+00:00",
+  "reviewedMappings": {
+    "2009-3-03:0": "ㄷ: 원문 평행축 정리10.20. 균질구는 모든 중심축 관성모멘트가 같고, 비중심축마다 평행한 중심축과 비교하면 Md²>0. 따라서 방향이 다른 비중심축에도 성립. 직접구적분으로 Icm=2MR²/5."
+  }
+}

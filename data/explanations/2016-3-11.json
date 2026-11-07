@@ -1,0 +1,152 @@
+{
+  "id": "2016-3-11",
+  "summary": "용기가 닫혀 있어 He과 Ne의 몰수는 (가)와 (나)에서 같다고 보고, P ∝ nT/V를 적용하면 전체 압력과 He의 부분 압력이 모두 4/3배로 커집니다. 평균 운동 에너지는 온도에만 의존하므로 같은 온도인 (가)에서 He과 Ne이 같습니다. 제곱 평균근 속력은 √(T/M)에 비례하므로 (나)의 He이 (가)의 Ne보다 빠릅니다. 따라서 옳은 것은 ㄱ, ㄴ입니다.",
+  "choices": [
+    "ㄱ만 고른 선지는 오답입니다. ㄱ은 옳지만, 같은 300 K에서 He과 Ne의 평균 운동 에너지가 (3/2)kT로 같다는 ㄴ도 옳기 때문에 ㄴ이 빠져 있습니다.",
+    "ㄷ만 고른 선지는 오답입니다. ㄷ은 틀린 진술입니다. v_rms = √(3RT/M)이므로 (가)의 Ne은 T/M = 300/20 = 15이고, (나)의 He은 T/M = 200/4 = 50입니다. 따라서 (나)의 He이 약 1.8배 더 빠릅니다. 또한 옳은 진술인 ㄱ과 ㄴ이 모두 빠져 있습니다.",
+    "ㄱ, ㄴ을 고른 선지가 정답입니다. 몰수가 일정하므로 P ∝ T/V이고, 전체 압력의 비는 (가):(나) = (300/2):(200/1) = 3:4로 증가합니다. 몰분율은 변하지 않으므로 He의 부분 압력도 (가) < (나)가 되어 ㄱ이 옳습니다. 평균 운동 에너지는 온도에만 비례하므로 같은 온도인 (가)에서 두 기체가 같아 ㄴ도 옳습니다.",
+    "ㄴ, ㄷ을 고른 선지는 오답입니다. ㄴ은 옳지만, ㄷ은 √(T/M) 비교 결과 (나)의 He이 더 빠르므로 틀렸습니다. 또한 옳은 진술인 ㄱ이 빠져 있습니다.",
+    "ㄱ, ㄴ, ㄷ을 모두 고른 선지는 오답입니다. ㄷ이 틀린 진술이기 때문입니다. (가)의 Ne은 √15에, (나)의 He은 √50에 비례하므로 (가)의 Ne이 더 빠르다는 진술은 성립하지 않습니다."
+  ],
+  "lawNote": "평균 운동에너지는 입자 한 개당 평균 병진운동에너지를 비교합니다. 두 기체의 전체 운동에너지가 같다는 뜻은 아닙니다. 대기압은 일정하지만 추를 올렸으므로 실린더 내부 압력까지 일정한 과정은 아닙니다. 속력 비에서는 같은 몰질량 단위를 사용하면 환산 인자가 약분됩니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e 9.3 Stoichiometry of Gaseous Substances, Mixtures, and Reactions",
+      "quote": "The gases behave independently, so the partial pressure of each gas can be determined from the ideal gas equation",
+      "url": "https://openstax.org/books/chemistry-2e/pages/9-3-stoichiometry-of-gaseous-substances-mixtures-and-reactions",
+      "evidenceId": "e00920f982d1db03ebb7",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e 9.3 Stoichiometry of Gaseous Substances, Mixtures, and Reactions",
+      "quote": "The gases behave independently, so the partial pressure of each gas can be determined from the ideal gas equation",
+      "url": "https://openstax.org/books/chemistry-2e/pages/9-3-stoichiometry-of-gaseous-substances-mixtures-and-reactions",
+      "evidenceId": "e00920f982d1db03ebb7",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e 9.3 Stoichiometry of Gaseous Substances, Mixtures, and Reactions",
+      "quote": "The gases behave independently, so the partial pressure of each gas can be determined from the ideal gas equation",
+      "url": "https://openstax.org/books/chemistry-2e/pages/9-3-stoichiometry-of-gaseous-substances-mixtures-and-reactions",
+      "evidenceId": "e00920f982d1db03ebb7",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e 9.3 Stoichiometry of Gaseous Substances, Mixtures, and Reactions",
+      "quote": "The gases behave independently, so the partial pressure of each gas can be determined from the ideal gas equation",
+      "url": "https://openstax.org/books/chemistry-2e/pages/9-3-stoichiometry-of-gaseous-substances-mixtures-and-reactions",
+      "evidenceId": "e00920f982d1db03ebb7",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e 9.3 Stoichiometry of Gaseous Substances, Mixtures, and Reactions",
+      "quote": "The gases behave independently, so the partial pressure of each gas can be determined from the ideal gas equation",
+      "url": "https://openstax.org/books/chemistry-2e/pages/9-3-stoichiometry-of-gaseous-substances-mixtures-and-reactions",
+      "evidenceId": "e00920f982d1db03ebb7",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e 9.3 Stoichiometry of Gaseous Substances, Mixtures, and Reactions",
+      "quote": "The gases behave independently, so the partial pressure of each gas can be determined from the ideal gas equation",
+      "url": "https://openstax.org/books/chemistry-2e/pages/9-3-stoichiometry-of-gaseous-substances-mixtures-and-reactions",
+      "evidenceId": "e00920f982d1db03ebb7",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax · Chemistry 2e",
+      "ref": "9.5 The Kinetic-Molecular Theory",
+      "quote": "The average kinetic energy of the gas molecules is proportional to the kelvin temperature of the gas.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/9-5-the-kinetic-molecular-theory",
+      "evidenceId": "19308762d19f2a480f6a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax · Chemistry 2e",
+      "ref": "9.5 The Kinetic-Molecular Theory",
+      "quote": "The average kinetic energy of the gas molecules is proportional to the kelvin temperature of the gas.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/9-5-the-kinetic-molecular-theory",
+      "evidenceId": "19308762d19f2a480f6a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax · Chemistry 2e",
+      "ref": "9.5 The Kinetic-Molecular Theory",
+      "quote": "The average kinetic energy of the gas molecules is proportional to the kelvin temperature of the gas.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/9-5-the-kinetic-molecular-theory",
+      "evidenceId": "19308762d19f2a480f6a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax · Chemistry 2e",
+      "ref": "9.5 The Kinetic-Molecular Theory",
+      "quote": "The average kinetic energy of the gas molecules is proportional to the kelvin temperature of the gas.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/9-5-the-kinetic-molecular-theory",
+      "evidenceId": "19308762d19f2a480f6a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax · Chemistry 2e",
+      "ref": "9.5 The Kinetic-Molecular Theory",
+      "quote": "The average kinetic energy of the gas molecules is proportional to the kelvin temperature of the gas.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/9-5-the-kinetic-molecular-theory",
+      "evidenceId": "19308762d19f2a480f6a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax · Chemistry 2e",
+      "ref": "9.5 The Kinetic-Molecular Theory",
+      "quote": "The average kinetic energy of the gas molecules is proportional to the kelvin temperature of the gas.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/9-5-the-kinetic-molecular-theory",
+      "evidenceId": "19308762d19f2a480f6a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "Original piston states, atomic masses and options inspected; exact pressure and squared-speed ratios checked; primary chemistry sources mapped",
+    "contentHash": "ff2ab9775e52054386a0561721a9dd1c2f01fb84e56943f41ba412f1520ff3db"
+  }
+}

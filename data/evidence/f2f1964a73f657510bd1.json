@@ -1,0 +1,14 @@
+{
+  "id": "f2f1964a73f657510bd1",
+  "kind": "science",
+  "source": "OpenStax · University Physics Volume 1",
+  "ref": "14.4",
+  "url": "https://openstax.org/books/university-physics-volume-1/pages/14-4-archimedes-principle-and-buoyancy",
+  "excerpt": "The buoyant force on an object equals the weight of the fluid it displaces.",
+  "sourceHash": "6872cfebae2e2b1ce3700b705a9ab9407b405d753486faa9dc768a98eead8e5b",
+  "retrievedAt": "2026-11-06T14:21:08.230991+00:00",
+  "decisionDate": "",
+  "reviewedMappings": {
+    "2009-3-01:0": "부력 ρVg를 중력 mg에서 빼면 물속 등속 인양력 480 N이다."
+  }
+}

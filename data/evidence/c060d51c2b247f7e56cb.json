@@ -1,0 +1,21 @@
+{
+  "id": "c060d51c2b247f7e56cb",
+  "kind": "science",
+  "source": "U.S. Geological Survey",
+  "ref": "Volcano Watch (2003-03-20): silica, viscosity and gas escape",
+  "url": "https://www.usgs.gov/news/volcano-watch-why-are-mount-st-helens-eruptions-generally-more-explosive-those-kilauea",
+  "excerpt": "increasing the silica content of the magma liquid increases the lava's viscosity.",
+  "sourceHash": "c9d5bb477e073a6640a51ebad31f053e12e8b789717eeda05cc09bf3e4f4ffc1",
+  "cacheSourceId": "c96fc802e16936b82b38",
+  "retrievedAt": "2026-11-06T19:05:42.132268+00:00",
+  "reviewedMappings": {
+    "2014-3-33:0": "Original table has felsic viscosity ㄱ, mafic viscosity ㄴ, felsic explosivity ㄷ, mafic explosivity ㄹ. Silica raises viscosity; retained bubbles explain generally stronger explosive behavior. This is a typical comparison, not an absolute rule. Source lines 18 support viscosity.",
+    "2014-3-33:1": "Choice 1 gets viscosity correct but reverses typical explosivity. Source lines 18 support viscosity.",
+    "2014-3-33:2": "Choice 2 matches both high/low viscosity and strong/weak typical explosivity. Source lines 18 support viscosity.",
+    "2014-3-33:3": "Choice 3 reverses both comparisons. Source lines 18 support viscosity.",
+    "2014-3-33:4": "Choice 4 gets typical explosivity correct but reverses viscosity. Source lines 18 support viscosity.",
+    "2014-3-33:5": "Choice 5 incorrectly equates viscosity and reverses typical explosivity. Source lines 18 support viscosity."
+  },
+  "retrievalMethod": "Direct web open; USGS Hawaiian Volcano Observatory, 2003-03-20, lines 18–22 reviewed.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

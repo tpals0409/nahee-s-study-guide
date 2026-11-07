@@ -1,0 +1,21 @@
+{
+  "id": "c5c0e3c944b8401da945",
+  "kind": "science",
+  "source": "University of Calgary",
+  "ref": "The Pauli Exclusion Principle — Working with Quantum Numbers",
+  "url": "https://chem-textbook.ucalgary.ca/version2/chapter-6-main/development-of-quantum-theory/the-pauli-exclusion-principle/",
+  "excerpt": "The number of radial nodes is equal to n – l – 1.",
+  "sourceHash": "cf96cba6b869fa5bd73e1d5aa5e0b61dc9e0c42e82b95981bb7ecad89087ffdb",
+  "cacheSourceId": "bce4268b71811b29c5ea",
+  "retrievedAt": "2026-11-07T00:07:52.148497+00:00",
+  "reviewedMappings": {
+    "2021-3-17:0": "방사 마디 0=N−ℓ−1. B의 N=n+1과 ℓ=2를 대입하면 n=2. A에 n=2를 대입하면 ℓ=1(p). 선지 조합 0을 이 참거짓 결과와 대조.",
+    "2021-3-17:1": "방사 마디 0=N−ℓ−1. B의 N=n+1과 ℓ=2를 대입하면 n=2. A에 n=2를 대입하면 ℓ=1(p). 선지 조합 1을 이 참거짓 결과와 대조.",
+    "2021-3-17:2": "방사 마디 0=N−ℓ−1. B의 N=n+1과 ℓ=2를 대입하면 n=2. A에 n=2를 대입하면 ℓ=1(p). 선지 조합 2을 이 참거짓 결과와 대조.",
+    "2021-3-17:3": "방사 마디 0=N−ℓ−1. B의 N=n+1과 ℓ=2를 대입하면 n=2. A에 n=2를 대입하면 ℓ=1(p). 선지 조합 3을 이 참거짓 결과와 대조.",
+    "2021-3-17:4": "방사 마디 0=N−ℓ−1. B의 N=n+1과 ℓ=2를 대입하면 n=2. A에 n=2를 대입하면 ℓ=1(p). 선지 조합 4을 이 참거짓 결과와 대조.",
+    "2021-3-17:5": "방사 마디 0=N−ℓ−1. B의 N=n+1과 ℓ=2를 대입하면 n=2. A에 n=2를 대입하면 ℓ=1(p). 선지 조합 5을 이 참거짓 결과와 대조."
+  },
+  "retrievalMethod": "Direct page lines 67-75 reviewed, including subshell labels and radial-node equation.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

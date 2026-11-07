@@ -1,0 +1,16 @@
+{
+  "id": "19b90ba2c3d3720895e3",
+  "kind": "science",
+  "source": "American Physical Society / CaltechAUTHORS",
+  "ref": "Bitter (1930), The Magnetic Susceptibility of Gases II. Temperature Dependence, Phys. Rev. 36, 1648–1653; DOI 10.1103/PhysRev.36.1648",
+  "url": "https://authors.library.caltech.edu/records/a2hj5-8ja37",
+  "excerpt": "CO2 -24.2",
+  "sourceHash": "cd6d48d96ca0c536abef65b0592e083f981dccd8c559b282f78ae741a36daf1a",
+  "cacheSourceId": "b0889ecb6b3f8229c2dc",
+  "retrievedAt": "2026-11-06T16:11:59.752794+00:00",
+  "reviewedMappings": {
+    "2010-3-13:5": "⑤ 중 CO2에 한정: 초록의 298 K 분자 자기감수율이 음수이고 본문 초록도 diamagnetic으로 설명. 다른 두 화학종이나 미시적 전자 배치까지 입증하는 근거 아님."
+  },
+  "retrievalMethod": "web.open Caltech institutional record: original article abstract and measurement table context reviewed",
+  "sourceHashScope": "Selected excerpt only; not full abstract"
+}

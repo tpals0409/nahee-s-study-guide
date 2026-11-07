@@ -1,0 +1,14 @@
+{
+  "id": "a005d8ac18bcee12b159",
+  "kind": "science",
+  "source": "OpenStax · Organic Chemistry",
+  "ref": "12.7",
+  "url": "https://openstax.org/books/organic-chemistry/pages/12-7-interpreting-infrared-spectra",
+  "excerpt": "Most functional groups have characteristic IR absorption bands that don’t change much from one compound to another.",
+  "sourceHash": "674abb2b918820cdf6dfe98e02214c93e86ab7d4f456eec3bc0d9897e30da750",
+  "cacheSourceId": "7aeef882bd52fb3a86ec",
+  "retrievedAt": "2026-11-06T15:19:50.078636+00:00",
+  "reviewedMappings": {
+    "2009-3-18:3": "MS분자량12.2, XRD원자위치ChemAtomsFirst3.1, IR작용기12.7,1HNMR화학환경13.4,UV공액14.8원문대조. MS는분자이온확인조건, XRD는핵스핀측정아님. 초안의탄소13만스핀존재단정·자연존재비·불필요IR수치삭제."
+  }
+}

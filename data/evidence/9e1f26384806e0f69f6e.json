@@ -1,0 +1,20 @@
+{
+  "id": "9e1f26384806e0f69f6e",
+  "kind": "science",
+  "source": "University of Minnesota — Southwest Research and Outreach Center",
+  "ref": "Nitrogen Cycle",
+  "url": "https://swroc.cfans.umn.edu/research/soil-water/nitrogen-cycle",
+  "excerpt": "The conversion of organic nitrogen to NH₃ is called ammonification.",
+  "sourceHash": "1202375abca4181ecfbe75448544aa3c28e26723ea7ba666776c762f905cd6b6",
+  "cacheSourceId": "49c336753efd5a8ae6a6",
+  "retrievedAt": "2026-11-06T23:24:16.939439+00:00",
+  "reviewedMappings": {
+    "2020-3-23:0": "직접 본문31–52행 암모니아화·NH4 식물흡수·NH4→NO2→NO3 질산화·뿌리 NO3 흡수·NO3 환원 탈질화 검토. 질소과정 정의 대조 및 NO3/NH4 흡수로④ 선택.",
+    "2020-3-23:2": "직접 본문31–52행 암모니아화·NH4 식물흡수·NH4→NO2→NO3 질산화·뿌리 NO3 흡수·NO3 환원 탈질화 검토. NO3→N2는 탈질화이므로② 배제.",
+    "2020-3-23:3": "직접 본문31–52행 암모니아화·NH4 식물흡수·NH4→NO2→NO3 질산화·뿌리 NO3 흡수·NO3 환원 탈질화 검토. NH4→NO2는 질산화이므로③ 배제.",
+    "2020-3-23:4": "직접 본문31–52행 암모니아화·NH4 식물흡수·NH4→NO2→NO3 질산화·뿌리 NO3 흡수·NO3 환원 탈질화 검토. NO3와 NH4 식물 흡수④ 확인.",
+    "2020-3-23:5": "직접 본문31–52행 암모니아화·NH4 식물흡수·NH4→NO2→NO3 질산화·뿌리 NO3 흡수·NO3 환원 탈질화 검토. 유기N 암모니아화와 N2 고정을 구별하여⑤ 배제."
+  },
+  "retrievalMethod": "직접 본문31–52행 암모니아화·NH4 식물흡수·NH4→NO2→NO3 질산화·뿌리 NO3 흡수·NO3 환원 탈질화 검토. 화학식 아래첨자는 유니코드로 표기.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

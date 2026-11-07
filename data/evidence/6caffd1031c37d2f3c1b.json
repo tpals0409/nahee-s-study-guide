@@ -1,0 +1,20 @@
+{
+  "id": "6caffd1031c37d2f3c1b",
+  "kind": "science",
+  "source": "NOAA / National Weather Service",
+  "ref": "Physics of Tsunamis",
+  "url": "https://www.tsunami.gov/php/tsunami_science.php",
+  "excerpt": "Tsunamis are characterized as shallow-water waves.",
+  "sourceHash": "3f288fc53659513e5a8384e20b6b78122cf5a68ab060cc8d62e259b298c8a153",
+  "cacheSourceId": "a9efcabfd327dc7b7df2",
+  "retrievedAt": "2026-11-07T00:36:19.190481+00:00",
+  "reviewedMappings": {
+    "2021-3-37:0": "장파의 작은 수심/파장 비로 천해파 분류, 심해파 진술 배제.",
+    "2021-3-37:1": "본문 113–114행의 천해파 분류와 상대수심 설명.",
+    "2021-3-37:2": "114행 속도 sqrt(gh) 관계. 근사식으로 표현.",
+    "2021-3-37:3": "104,110,116행 천수 시 파고 증가 및 해안·해저 지형 영향.",
+    "2021-3-37:5": "103,108–112행 지진에 의한 해저 변형과 수괴 변위 및 다른 발생 원인."
+  },
+  "retrievalMethod": "Direct official page opened and relevant explanatory sections/table reviewed.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

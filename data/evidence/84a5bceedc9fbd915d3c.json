@@ -1,0 +1,16 @@
+{
+  "id": "84a5bceedc9fbd915d3c",
+  "kind": "science",
+  "source": "Wedekind et al. — Applied and Environmental Microbiology (1988)",
+  "ref": "Enumeration and isolation of cellulolytic and hemicellulolytic bacteria from human feces",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC202691/",
+  "excerpt": "This work demonstrates that many humans harbor intestinal cellulolytic bacteria",
+  "sourceHash": "8c0aa9033bc272c8561dbe96b95d3961947b03ec8a1bda6a5e54b0fb8580a3d0",
+  "cacheSourceId": "93abed0774aab8d7538e",
+  "retrievedAt": "2026-11-06T18:57:07.203537+00:00",
+  "reviewedMappings": {
+    "2014-3-26:0": "1988년 연구 초록70–72행에서 사람 분변의 셀룰로스 분해 세균을 분리·확인. 이는 인간 자체의 소화효소 부재를 근거로 장내세균의 분해까지 부정한 초안 논리를 반박한다. 숙주에 대한 정량적 영양 기여나 ㄴㄷ 전체 판정을 이 발췌만으로 증명하지는 않음."
+  },
+  "retrievalMethod": "web.open; research abstract reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

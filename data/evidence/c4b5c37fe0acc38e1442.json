@@ -1,0 +1,17 @@
+{
+  "id": "c4b5c37fe0acc38e1442",
+  "kind": "science",
+  "source": "Applied and Environmental Microbiology / PubMed",
+  "ref": "Winstel et al. (2015), Transfer of plasmid DNA to clinical coagulase-negative staphylococcal pathogens by using a unique bacteriophage",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/25616805/",
+  "excerpt": "Plasmid transfer to CoNS is facilitated by Φ187 via transduction.",
+  "sourceHash": "1f4fe0048db1b07326fb8f405c40522139e46c66424c2a1f646aa89c17ffbd50",
+  "cacheSourceId": "bd667185e2ee703df331",
+  "retrievedAt": "2026-11-07T05:00:13.978345+00:00",
+  "reviewedMappings": {
+    "2026-3-21:0": "파지에 의한 플라스미드 전달의 실험적 사례가 있어 불가능성 단정을 막는다.",
+    "2026-3-21:2": "Fig3는 플라스미드 형질도입과 구별 실험을 보고한다. 이는②를 문자 그대로 불가능하다고 반박하는 논거의 한계이며 공식 정답 변경의 근거로 사용하지 않는다."
+  },
+  "retrievalMethod": "Direct web open/find",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

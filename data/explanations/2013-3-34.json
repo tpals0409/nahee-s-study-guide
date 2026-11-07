@@ -1,0 +1,85 @@
+{
+  "summary": "정답은 ③ 암석풍화입니다. 풍화는 지표 부근의 암석이 부서지거나 화학적으로 변하는 과정으로, 그 자체가 지각의 융기·침강·변형을 입증하지는 않습니다.",
+  "choices": [
+    "융기해빈은 과거 해안에서 형성된 퇴적물 등이 현재 해수면보다 높은 곳에 남은 지형으로, 지반 융기를 알아보는 자료가 될 수 있습니다. 실제 원인을 판단할 때는 해수면 자체의 하강도 구별해야 합니다.",
+    "습곡은 암석이나 지층이 힘을 받아 휘어진 구조이고, 단층은 균열을 따라 상대적인 이동이 일어난 구조입니다. 지각의 변형과 이동을 보여 주므로 이 문항의 정답이 아닙니다.",
+    "암석풍화는 지표 부근에서 암석이 물리적으로 부서지거나 구성 광물이 화학적으로 변하는 현상입니다. 이러한 변화만으로 지각의 융기·침강이나 구조적 변형이 있었다고 판단할 수 없으므로 정답입니다.",
+    "해안단구는 과거 해안에서 형성된 면이 현재 해안보다 높은 곳에 계단상으로 남은 지형으로, 융기 이력을 연구하는 자료가 됩니다. 지속적인 융기와 해수면 변동의 조합으로도 여러 단이 생길 수 있으므로, 단의 개수를 융기 사건의 횟수와 곧바로 같게 보면 안 됩니다.",
+    "침강해안은 지반이 내려가 해안이 잠기는 상황과 관련되어 지반 침강을 살피는 자료가 됩니다. 다만 해안의 침수 자체는 해수면 상승으로도 생기므로, 실제 지형 연구에서는 침강과 해수면 상승의 영향을 나누어 확인합니다."
+  ],
+  "lawNote": "이 문항은 지각의 이동·변형과 암석풍화를 구별하는 문제입니다. 해안 지형은 상대적인 해수면 변화를 기록하므로, 지형 하나만으로 지각 운동의 원인·횟수를 확정하지는 않습니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "National Park Service",
+      "ref": "Weathering",
+      "quote": "Weathering includes two processes that occur at or near Earth's surface and work in concert to decompose rocks.",
+      "url": "https://www.nps.gov/subjects/erosion/weathering.htm",
+      "evidenceId": "d7ec741b2cfad9569209",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "National Park Service",
+      "ref": "Tectonic Folding",
+      "quote": "Folding occurs when tectonic processes put stress on a rock, and the rock bends, instead of breaking.",
+      "url": "https://www.nps.gov/articles/tectonic-folding.htm",
+      "evidenceId": "7a2ef9d27c5fe0c99281",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "National Park Service",
+      "ref": "Faults and Fractures",
+      "quote": "Faults are cracks in the earth's crust along which there is movement.",
+      "url": "https://www.nps.gov/articles/faults-and-fractures.htm",
+      "evidenceId": "66df0512a67efeebc882",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "USGS",
+      "ref": "Geologic Records of High Sea Levels",
+      "quote": "If uplift is continuous over time, a “stair step” type of landscape develops",
+      "url": "https://www.usgs.gov/centers/geosciences-and-environmental-change-science-center/science/geologic-records-high-sea",
+      "evidenceId": "b537f018f780af9b1d9c",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "Penn State",
+      "ref": "Emergent and Submergent Coasts",
+      "quote": "Submergent Coasts are those that have been flooded by ocean waters because of a relative rise in the elevation of sea level at that location.",
+      "url": "https://courses.ems.psu.edu/earth107/book/export/html/1269",
+      "evidenceId": "472ba210feb5768a6c24",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "British Geological Survey",
+      "ref": "West Lothian Geodiversity, Volume 1",
+      "quote": "Raised beaches comprise material, originally deposited in a coastal environment, which has since been elevated due to falling sea-level or uplifting land.",
+      "url": "https://www.westlothian.gov.uk/media/13502/West-Lothian-Geodiversity-Volume-1-Report/pdf/BGS_West_Lothian_Geodiversity_Report6.pdf?m=1470840427403",
+      "evidenceId": "f43e97a60ceb905f8faf",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "원본 2013-3-34_1.webp 확인. NPS 풍화·습곡·단층, USGS 해안단구, Penn State 상대해수면, BGS 융기해빈 자료 대조. 정답③. 여러 단=여러 차례 융기 단정 및 모든 침수해안=지반 침강 단정 수정.",
+    "contentHash": "f663f895f1266064171f5d14722ec192925b2c2ae5fb474dc849c28c39ac75e8"
+  }
+}

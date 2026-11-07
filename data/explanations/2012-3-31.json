@@ -1,0 +1,30 @@
+{
+  "summary": "망상구조는 사면체가 3차원으로 연결된 구조입니다. 정장석은 장석류이고 석영과 함께 망상구조에 속합니다. 따라서 ㄴ·ㄷ을 고른 ③이 정답입니다.",
+  "choices": [
+    "정장석은 맞지만 백운모는 판상구조입니다. 운모류의 사면체는 층을 이룹니다.",
+    "백운모는 판상구조, 감람석은 독립사면체 구조이므로 둘 다 해당하지 않습니다.",
+    "정장석과 석영은 모두 3차원 망상구조입니다. 석영에서는 각 사면체의 네 꼭짓점 산소가 이웃 사면체와 공유됩니다.",
+    "석영은 맞지만 각섬석은 두 사슬이 연결된 복사슬 구조입니다.",
+    "감람석은 독립사면체, 각섬석은 복사슬 구조이므로 망상구조 광물이 없습니다."
+  ],
+  "lawNote": "광물 이름과 사면체 연결 방식을 대응하세요: 백운모—판상, 정장석·석영—망상, 감람석—독립사면체, 각섬석—복사슬.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "Steven Earle / BCcampus",
+      "ref": "Physical Geology 2nd Edition 2.4 — Silicate Minerals",
+      "quote": "Silica tetrahedra are bonded in three-dimensional frameworks in both the feldspars and quartz.",
+      "url": "https://opentextbc.ca/physicalgeology2ed/chapter/2-4-silicate-minerals/",
+      "evidenceId": "084b9093d17af9e2a98c",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "원본 2012-3-31.webp 대조 및 Physical Geology 2.4 광물별 구조 확인. 초안의 Al 치환을 무시한 백운모 Si:O 비 등 불필요한 조성 일반화를 제거. ㄴㄷ, 저장 정답③ 일치.",
+    "contentHash": "a00b5ea7462f7e8e0535b59297c7308a9517fab6b22f7ebbba6bc8c6270de785"
+  }
+}

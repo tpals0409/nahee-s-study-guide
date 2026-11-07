@@ -1,0 +1,20 @@
+{
+  "id": "b580d5bff1428ee8e377",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e §8.3 — The Calvin Cycle",
+  "url": "https://openstax.org/books/biology-2e/pages/8-3-using-light-energy-to-make-organic-molecules",
+  "excerpt": "the stroma of the chloroplast—the site of light-independent reactions of photosynthesis.",
+  "sourceHash": "3dbbffa43a6c21c92326cbb2bdaa18e9a0fd25e15cb00fe170ab75207b79d6da",
+  "cacheSourceId": "daa93dedef10cf7b9999",
+  "retrievedAt": "2026-11-06T21:58:47.482720+00:00",
+  "reviewedMappings": {
+    "2018-3-23:0": "본문 스트로마 위치, 암반응 명칭의 오해, ATP/NADPH 소비 및 Stage3 RuBP 재생을 직접 검토. ㄱ·ㄴ 참, 각 조합의 누락 판단. 불필요한 효소 활성화 세부와 ATP 수명 단정은 사용하지 않음.",
+    "2018-3-23:1": "본문 스트로마 위치, 암반응 명칭의 오해, ATP/NADPH 소비 및 Stage3 RuBP 재생을 직접 검토. ㄱ·ㄴ 참, 각 조합의 누락 판단. 불필요한 효소 활성화 세부와 ATP 수명 단정은 사용하지 않음.",
+    "2018-3-23:2": "본문 스트로마 위치, 암반응 명칭의 오해, ATP/NADPH 소비 및 Stage3 RuBP 재생을 직접 검토. ㄱ·ㄴ 참, 각 조합의 누락 판단. 불필요한 효소 활성화 세부와 ATP 수명 단정은 사용하지 않음.",
+    "2018-3-23:4": "본문 스트로마 위치, 암반응 명칭의 오해, ATP/NADPH 소비 및 Stage3 RuBP 재생을 직접 검토. ㄱ·ㄴ 참, 각 조합의 누락 판단. 불필요한 효소 활성화 세부와 ATP 수명 단정은 사용하지 않음.",
+    "2018-3-23:5": "본문 스트로마 위치, 암반응 명칭의 오해, ATP/NADPH 소비 및 Stage3 RuBP 재생을 직접 검토. ㄱ·ㄴ 참, 각 조합의 누락 판단. 불필요한 효소 활성화 세부와 ATP 수명 단정은 사용하지 않음."
+  },
+  "retrievalMethod": "Direct web open; relevant paragraphs and figure caption reviewed; selected verbatim excerpt retained",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

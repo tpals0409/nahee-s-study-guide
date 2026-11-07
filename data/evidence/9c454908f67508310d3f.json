@@ -1,0 +1,21 @@
+{
+  "id": "9c454908f67508310d3f",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume 2 11.3 — Equations 11.4–11.6",
+  "url": "https://openstax.org/books/university-physics-volume-2/pages/11-3-motion-of-a-charged-particle-in-a-magnetic-field",
+  "excerpt": "because the charge is negative, the force is opposite in direction to the prediction of the right-hand rule.",
+  "sourceHash": "68d8fcae228dd2f610a05d378259fb15ac711ad604b5ed23a3ee03f0ea559660",
+  "cacheSourceId": "f9827dde42206115b488",
+  "retrievedAt": "2026-11-06T17:02:20.781047+00:00",
+  "reviewedMappings": {
+    "2012-3-05:0": "원본 그림에서 v 아래,B 지면안쪽,구심력 왼쪽. 양전하 v×B는 오른쪽이므로 음전하. q는 크기로 사용해 r=mv/(qB), ω=qB/m, 반주기 πm/(qB).",
+    "2012-3-05:1": "ㄱ 틀림, ㄴ 맞음.",
+    "2012-3-05:2": "ㄱ 음전하 부호와 ㄷ 각진동수 역수 모두 틀림.",
+    "2012-3-05:3": "ㄴ 맞고 ㄷ 역수 틀림.",
+    "2012-3-05:4": "전하 크기 q 사용 시 ㄴ·ㄹ 맞음. 반원 호길이 πr/v로 시간 독립 검산.",
+    "2012-3-05:5": "ㄹ 맞고 ㄷ 틀림. m/(qB)의 차원은 시간."
+  },
+  "retrievalMethod": "web.open 본문30–46, 식11.4–11.6 직접 대조",
+  "sourceHashScope": "Selected excerpt only; not full page"
+}

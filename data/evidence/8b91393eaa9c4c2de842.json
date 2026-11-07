@@ -1,0 +1,14 @@
+{
+  "id": "8b91393eaa9c4c2de842",
+  "kind": "science",
+  "source": "OpenStax · Biology 2e",
+  "ref": "3.1 Synthesis of Biological Macromolecules",
+  "url": "https://openstax.org/books/biology-2e/pages/3-1-synthesis-of-biological-macromolecules",
+  "excerpt": "Polymers break down into monomers during hydrolysis.",
+  "sourceHash": "d1ed2b6d55aec6d7f81480abe862754523639b8fb98c37423f5cbad0108fa092",
+  "cacheSourceId": "fdbf872d005e26e57cd0",
+  "retrievedAt": "2026-11-06T15:37:56.856815+00:00",
+  "reviewedMappings": {
+    "2010-3-20:0": "물 첨가에 의한 결합 절단과 단백질 소화의 가수분해 예시 대조. 특정 효소가 주어진 합성 고분자에 반드시 작용한다는 단정은 제외."
+  }
+}

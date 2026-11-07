@@ -1,0 +1,22 @@
+{
+  "id": "19308762d19f2a480f6a",
+  "kind": "science",
+  "source": "OpenStax · Chemistry 2e",
+  "ref": "9.5 The Kinetic-Molecular Theory",
+  "url": "https://openstax.org/books/chemistry-2e/pages/9-5-the-kinetic-molecular-theory",
+  "excerpt": "The average kinetic energy of the gas molecules is proportional to the kelvin temperature of the gas.",
+  "sourceHash": "3f92cffcae95f0ac041e3d83906cc84e1b7411ffd087cde43ea699d2b1134b9c",
+  "cacheSourceId": "c3966f9841a2066f0dbc",
+  "retrievedAt": "2026-11-06T20:13:57.483985+00:00",
+  "reviewedMappings": {
+    "2010-3-15:0": "원본 그래프에서 A의 봉우리가 B보다 낮은 속력에 위치하고 두 분포 모두 폭이 있음을 확인. 교재 Maxwell–Boltzmann 분포와 KE=mu²/2, 몰 평균 KE=3RT/2, 질량과 속력 관계 대조. ㄱ 거짓, ㄴㄷ 참. 분자의 내부 회전·진동 에너지와 혼동하지 않도록 병진 운동에너지로 명시.",
+    "2016-3-11:0": "본문 33행 및 65~75행 평균 운동에너지와 rms 속력 식 확인. 같은 300K에서 입자당 평균 병진운동에너지는 동일하여 ㄴ 참. ㄷ 비교: vNe(가)²/vHe(나)²=(300/20)/(200/4)=3/10<1, 따라서 ㄷ 거짓. 원자량은 원문 제공값 사용.",
+    "2016-3-11:1": "본문 33행 및 65~75행 평균 운동에너지와 rms 속력 식 확인. 같은 300K에서 입자당 평균 병진운동에너지는 동일하여 ㄴ 참. ㄷ 비교: vNe(가)²/vHe(나)²=(300/20)/(200/4)=3/10<1, 따라서 ㄷ 거짓. 원자량은 원문 제공값 사용.",
+    "2016-3-11:2": "본문 33행 및 65~75행 평균 운동에너지와 rms 속력 식 확인. 같은 300K에서 입자당 평균 병진운동에너지는 동일하여 ㄴ 참. ㄷ 비교: vNe(가)²/vHe(나)²=(300/20)/(200/4)=3/10<1, 따라서 ㄷ 거짓. 원자량은 원문 제공값 사용.",
+    "2016-3-11:3": "본문 33행 및 65~75행 평균 운동에너지와 rms 속력 식 확인. 같은 300K에서 입자당 평균 병진운동에너지는 동일하여 ㄴ 참. ㄷ 비교: vNe(가)²/vHe(나)²=(300/20)/(200/4)=3/10<1, 따라서 ㄷ 거짓. 원자량은 원문 제공값 사용.",
+    "2016-3-11:4": "본문 33행 및 65~75행 평균 운동에너지와 rms 속력 식 확인. 같은 300K에서 입자당 평균 병진운동에너지는 동일하여 ㄴ 참. ㄷ 비교: vNe(가)²/vHe(나)²=(300/20)/(200/4)=3/10<1, 따라서 ㄷ 거짓. 원자량은 원문 제공값 사용.",
+    "2016-3-11:5": "본문 33행 및 65~75행 평균 운동에너지와 rms 속력 식 확인. 같은 300K에서 입자당 평균 병진운동에너지는 동일하여 ㄴ 참. ㄷ 비교: vNe(가)²/vHe(나)²=(300/20)/(200/4)=3/10<1, 따라서 ㄷ 거짓. 원자량은 원문 제공값 사용."
+  },
+  "retrievalMethod": "web open: directly reviewed source equations and explanatory text",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

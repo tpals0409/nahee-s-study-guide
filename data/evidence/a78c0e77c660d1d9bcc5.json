@@ -1,0 +1,20 @@
+{
+  "id": "a78c0e77c660d1d9bcc5",
+  "kind": "science",
+  "source": "National Human Genome Research Institute",
+  "ref": "NHGRI Genetics Glossary — Gene",
+  "url": "https://www.genome.gov/genetics-glossary/Gene",
+  "excerpt": "Genes are passed from parents to offspring and contain the information needed to specify physical and biological traits.",
+  "sourceHash": "4b122773173cb50eb52470010466f266b260921292bc32f458c9011b8454765c",
+  "cacheSourceId": "3369695510bd04ee42af",
+  "retrievedAt": "2026-11-06T19:43:11.498710+00:00",
+  "reviewedMappings": {
+    "2015-3-26:0": "NHGRI 정의와 narration에서 단백질 암호화 정보 및 기능성 RNA 유전자의 DNA 구간을 확인했다. 모든 유전자가 단백질을 암호화한다는 일반화는 배제한다.",
+    "2015-3-26:1": "NHGRI 정의와 narration에서 단백질 암호화 정보 및 기능성 RNA 유전자의 DNA 구간을 확인했다. 모든 유전자가 단백질을 암호화한다는 일반화는 배제한다.",
+    "2015-3-26:2": "NHGRI 정의와 narration에서 단백질 암호화 정보 및 기능성 RNA 유전자의 DNA 구간을 확인했다. 모든 유전자가 단백질을 암호화한다는 일반화는 배제한다.",
+    "2015-3-26:3": "NHGRI 정의와 narration에서 단백질 암호화 정보 및 기능성 RNA 유전자의 DNA 구간을 확인했다. 모든 유전자가 단백질을 암호화한다는 일반화는 배제한다.",
+    "2015-3-26:5": "NHGRI 정의와 narration에서 단백질 암호화 정보 및 기능성 RNA 유전자의 DNA 구간을 확인했다. 모든 유전자가 단백질을 암호화한다는 일반화는 배제한다."
+  },
+  "retrievalMethod": "Direct glossary definition and narration read; selected short excerpt transcribed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

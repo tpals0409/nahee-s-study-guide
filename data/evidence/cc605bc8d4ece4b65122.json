@@ -1,0 +1,33 @@
+{
+  "id": "cc605bc8d4ece4b65122",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Organic Chemistry 7.2 — Degree of Unsaturation",
+  "url": "https://openstax.org/books/organic-chemistry/pages/7-2-calculating-the-degree-of-unsaturation",
+  "excerpt": "each ring or double bond in a molecule corresponds to a loss of two hydrogens",
+  "sourceHash": "c659bcf17a08f4c9c4925d048cc41bd15a6b274083cc2a4f0e67a79a4bfae25f",
+  "cacheSourceId": "6c4f1e71786d62218a8a",
+  "retrievedAt": "2026-11-07T03:14:57.794906+00:00",
+  "reviewedMappings": {
+    "2012-3-15:0": "구조 직접 열거: 불포화도 (가)1,(나)2,(다)2. (다)의 sp²4는 서로 겹치지 않는 두 이중결합 필요. 불포화도 모두 사용하므로 고리 없고 네 탄소 연결시 CH2=CH−CH=CH2만 가능. (가)/(나)/(다)1/2/1종.",
+    "2012-3-15:1": "구조 직접 열거: 불포화도 (가)1,(나)2,(다)2. (다)의 sp²4는 서로 겹치지 않는 두 이중결합 필요. 불포화도 모두 사용하므로 고리 없고 네 탄소 연결시 CH2=CH−CH=CH2만 가능. (가)/(나)/(다)1/2/1종.",
+    "2012-3-15:2": "구조 직접 열거: 불포화도 (가)1,(나)2,(다)2. (다)의 sp²4는 서로 겹치지 않는 두 이중결합 필요. 불포화도 모두 사용하므로 고리 없고 네 탄소 연결시 CH2=CH−CH=CH2만 가능. (가)/(나)/(다)1/2/1종.",
+    "2012-3-15:3": "구조 직접 열거: 불포화도 (가)1,(나)2,(다)2. (다)의 sp²4는 서로 겹치지 않는 두 이중결합 필요. 불포화도 모두 사용하므로 고리 없고 네 탄소 연결시 CH2=CH−CH=CH2만 가능. (가)/(나)/(다)1/2/1종.",
+    "2012-3-15:4": "구조 직접 열거: 불포화도 (가)1,(나)2,(다)2. (다)의 sp²4는 서로 겹치지 않는 두 이중결합 필요. 불포화도 모두 사용하므로 고리 없고 네 탄소 연결시 CH2=CH−CH=CH2만 가능. (가)/(나)/(다)1/2/1종.",
+    "2012-3-15:5": "구조 직접 열거: 불포화도 (가)1,(나)2,(다)2. (다)의 sp²4는 서로 겹치지 않는 두 이중결합 필요. 불포화도 모두 사용하므로 고리 없고 네 탄소 연결시 CH2=CH−CH=CH2만 가능. (가)/(나)/(다)1/2/1종.",
+    "2020-3-14:0": "DBE=(10-8)/2=1; independent enumeration: cyclobutane,methylcyclopropane and but1ene,but2ene,2methylpropene. No sp carbons in standard model.",
+    "2020-3-14:1": "ㄱ true: two cyclic skeletons. ㄴ false: three alkenes. ㄷ false: no triple/cumulated double bonds.",
+    "2020-3-14:2": "Three alkene connectivities rather than two; ㄴ false.",
+    "2020-3-14:3": "ㄱ true, ㄷ false since sp bonding absent in all five ordinary structures.",
+    "2020-3-14:4": "ㄴ false (three alkenes), ㄷ false (no sp); true ㄱ omitted.",
+    "2020-3-14:5": "Only ㄱ true; adding ㄴ and ㄷ invalid.",
+    "2025-3-18:0": "C7 포화 비고리 기준 H16에서 고리/이중결합 각각 H2 감소. 보기별 탄소와 불포화 요소를 직접 셈.",
+    "2025-3-18:1": "C6 고리+외부 =CH2: 탄소7, 고리1+이중결합1 → H12.",
+    "2025-3-18:2": "일곱 CH2 고리: C7H14, 불포화도1.",
+    "2025-3-18:3": "고리 탄소4+ethyl2+methyl1=7; 고리1만 있으므로 H14. 직접 합산 C4H6+C2H5+CH3.",
+    "2025-3-18:4": "CH2=CH-(CH2)4-CH3: 탄소7, 수소2+1+8+3=14.",
+    "2025-3-18:5": "고리 탄소5+ethyl2=7; 고리1만 존재. 직접 C5H9+C2H5=C7H14."
+  },
+  "retrievalMethod": "Direct web open: unsaturation rule and examples; NIST identity, formula and InChI.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "8d07da343096ef3d1d95",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "OpenStax Microbiology 11.5 Mutations",
+  "url": "https://openstax.org/books/microbiology/pages/11-5-mutations",
+  "excerpt": "The location of the changed amino acid within the protein also is important.",
+  "sourceHash": "baad4c94140a6f26963bcbe29dbf79f80e44084a275988570d2e6bf2ef85510a",
+  "cacheSourceId": "6c711ac7a5e4c238be97",
+  "retrievedAt": "2026-11-07T05:15:01.432031+00:00",
+  "reviewedMappings": {
+    "2019-3-27:3": "42: 유전 암호의 축퇴성 때문에 염기 치환에도 동일 아미노산이 편입될 수 있다. RNA 가공 등이 유지되는 코돈 수준의 설명이다.",
+    "2019-3-27:4": "43: 미스센스의 기능 영향은 잔기 성질과 위치에 의존하며 기능이 유지될 수 있다. 이 구절만으로 모든 보존적 치환의 기능이 완전히 동일함을 보장하지 않는다."
+  },
+  "retrievalMethod": "Direct web open",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

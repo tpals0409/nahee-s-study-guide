@@ -1,0 +1,16 @@
+{
+  "id": "c778b42e69bb143e577b",
+  "kind": "science",
+  "source": "USGS",
+  "ref": "Understanding plate motions",
+  "url": "https://pubs.usgs.gov/gip/dynamic/understanding.html?%24NMW_TRANS%24=ext",
+  "excerpt": "The collision of India into Asia 50 million years ago caused the Indian and Eurasian Plates to crumple up along the collision zone.",
+  "sourceHash": "025d8d37cd452932ea0ae091d9559bf852592b9b5f2a7a32dcca68b6f8b10141",
+  "cacheSourceId": "45e309863f62b8ba5049",
+  "retrievedAt": "2026-11-06T18:23:38.839999+00:00",
+  "reviewedMappings": {
+    "2013-3-35:0": "ㄱ 히말라야의 대륙 충돌 형성 및 판 경계 유형."
+  },
+  "retrievalMethod": "web.search_query: indexed official excerpt; canonical page returned 403",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

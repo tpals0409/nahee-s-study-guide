@@ -1,0 +1,17 @@
+{
+  "id": "b7f502898afefe7edbc9",
+  "kind": "science",
+  "source": "British Antarctic Survey",
+  "ref": "Earth’s Crust",
+  "url": "https://legacy.bas.ac.uk/about_antarctica/geography/rock/earths_crust.php",
+  "excerpt": "Continental crust is more silica-rich and thicker than oceanic crust, and by virtue of generally surviving longer, is on average older.",
+  "sourceHash": "db08cfad8bf4c8e25700b89b80a13ad711b34b1df576e44471c6ac396f1b26ac",
+  "cacheSourceId": "1c4913f6903c982c3d8f",
+  "retrievedAt": "2026-11-06T19:55:34.614626+00:00",
+  "reviewedMappings": {
+    "2015-3-34:0": "BAS의 지각 설명은 대륙지각이 평균적으로 더 오래됨을 명시한다. 따라서 일반적 연령 비교인 ①은 거짓이다. 모든 대륙 암석이 모든 해양 암석보다 오래됐다는 뜻은 아니다. 최고 연령의 비율을 평균 연령 비율로 바꾸지 않는다.",
+    "2015-3-34:1": "BAS의 지각 설명은 대륙지각이 평균적으로 더 오래됨을 명시한다. 따라서 일반적 연령 비교인 ①은 거짓이다. 모든 대륙 암석이 모든 해양 암석보다 오래됐다는 뜻은 아니다. 최고 연령의 비율을 평균 연령 비율로 바꾸지 않는다."
+  },
+  "retrievalMethod": "Search-indexed official text reviewed; direct page open returned 500",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

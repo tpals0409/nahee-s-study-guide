@@ -1,0 +1,17 @@
+{
+  "id": "480176f0ccf8839beff7",
+  "kind": "science",
+  "source": "Nucleic Acids Research / Oxford University Press",
+  "ref": "Structural and functional homology between the RNAPI subunits A14/A43 and the archaeal RNAP subunits E/F",
+  "url": "https://academic.oup.com/nar/article/31/15/4391/1107972?login=false",
+  "excerpt": "While bacteria and archaea have a single RNA polymerase (RNAP), eukaryotic nuclei contain three different types of RNAPs",
+  "sourceHash": "c4b59feb1933e134d9933a6008ed77b35d9c6068fe41ea4e64e2d0b0d9d4bf6c",
+  "cacheSourceId": "b168430154ff4155a61c",
+  "retrievedAt": "2026-11-07T00:26:09.166053+00:00",
+  "reviewedMappings": {
+    "2021-3-30:0": "Bacteria and archaea share one major transcriptional RNAP type, unlike the three principal nuclear eukaryotic RNAPs. Supports selection among given conventional textbook traits but not a unique bacterial diagnostic.",
+    "2021-3-30:1": "Single type means polymerase class, not one molecule or one protein subunit. Explicit bacterial/archaeal shared feature prevents false exclusive classification."
+  },
+  "retrievalMethod": "Publisher-indexed article search excerpt reviewed (Nucleic Acids Research 31(15), 4391, 2003); direct URL returned cache miss.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,85 @@
+{
+  "id": "2021-3-28",
+  "summary": "계통수는 가지를 회전시키거나 좌우·상하 배치를 바꾸어도 분기(클레이드) 구조가 같으면 같은 진화적 관계를 나타냅니다. 각 그림을 괄호식으로 바꾸면 (가)와 (나)는 모두 (A,(B,(C,(D,E))))입니다. (다)는 (A,(C,(B,(D,E))))이고 (라)는 (A,((B,C),(D,E)))로 서로 다릅니다. 따라서 정답은 (가)-(나)입니다.",
+  "choices": [
+    "(가)-(나)는 같은 계통 관계입니다. 두 그림 모두 D와 E가 자매군이고, 이들을 포함하는 더 큰 군집이 {C,D,E}, 그다음 {B,C,D,E}입니다. 분기점을 기준으로 가지를 회전하면 서로 겹칠 수 있으며, 말단 이름의 위아래 순서가 다르다는 이유로 다른 계통수가 되지는 않습니다.",
+    "(가)-(다): 오답입니다. (다)에서는 E와 D가 묶인 뒤 B가 붙어 {B,D,E} 클레이드를 이루고, 그다음 C가 붙습니다. (가)는 {C,D,E} 클레이드를 가지므로 B와 C의 위치가 서로 다릅니다.",
+    "(나)-(다): 오답입니다. (나)는 {C,D,E} 클레이드를, (다)는 {B,D,E} 클레이드를 가집니다. 따라서 두 계통수는 서로 다른 관계를 나타냅니다.",
+    "(나)-(라): 오답입니다. (라)에서는 B와 C가 자매군 {B,C}를 이루고, D와 E가 자매군 {D,E}를 이룹니다. 이 두 묶음이 다시 합쳐지는 구조입니다. (나)에는 {B,C} 클레이드가 없으므로 다릅니다.",
+    "(다)-(라): 오답입니다. (다)는 {B,D,E} 클레이드를 가지지만 (라)는 {B,C}와 {D,E}가 따로 묶인 뒤 합쳐집니다. 두 계통수의 분기 구조가 다릅니다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e, 20.1 Organizing Life on Earth",
+      "quote": "rotation at branch points does not change the information",
+      "url": "https://openstax.org/books/biology-2e/pages/20-1-organizing-life-on-earth",
+      "evidenceId": "756bc515c3f28ef8ab1a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e, 20.1 Organizing Life on Earth",
+      "quote": "rotation at branch points does not change the information",
+      "url": "https://openstax.org/books/biology-2e/pages/20-1-organizing-life-on-earth",
+      "evidenceId": "756bc515c3f28ef8ab1a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e, 20.1 Organizing Life on Earth",
+      "quote": "rotation at branch points does not change the information",
+      "url": "https://openstax.org/books/biology-2e/pages/20-1-organizing-life-on-earth",
+      "evidenceId": "756bc515c3f28ef8ab1a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e, 20.1 Organizing Life on Earth",
+      "quote": "rotation at branch points does not change the information",
+      "url": "https://openstax.org/books/biology-2e/pages/20-1-organizing-life-on-earth",
+      "evidenceId": "756bc515c3f28ef8ab1a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e, 20.1 Organizing Life on Earth",
+      "quote": "rotation at branch points does not change the information",
+      "url": "https://openstax.org/books/biology-2e/pages/20-1-organizing-life-on-earth",
+      "evidenceId": "756bc515c3f28ef8ab1a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e, 20.1 Organizing Life on Earth",
+      "quote": "rotation at branch points does not change the information",
+      "url": "https://openstax.org/books/biology-2e/pages/20-1-organizing-life-on-earth",
+      "evidenceId": "756bc515c3f28ef8ab1a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Original figure inspection and independent clade comparison with textbook principle",
+    "contentHash": "b5cadb5fe0b0788c24d4bbc2ab4635f4c6ddceb08e4620fe902648474b7d4062"
+  }
+}

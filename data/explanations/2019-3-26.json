@@ -1,0 +1,140 @@
+{
+  "id": "2019-3-26",
+  "summary": "헤모글로빈은 산소와 결합하여 혈액의 산소 운반을 돕습니다. 폐에서 산소를 받은 혈액이 폐정맥으로 돌아오므로 폐정맥의 산소 포화도가 폐동맥보다 높습니다. 혈압은 모세혈관을 지난 정맥 쪽에서 더 낮아지므로 ㄷ은 틀리고, ㄱ과 ㄴ이 옳습니다.",
+  "choices": [
+    "'ㄱ'만 고른 보기는 오답입니다. ㄱ은 옳지만, 폐정맥 혈액의 산소 포화도가 폐동맥보다 높다는 ㄴ도 옳은데 이를 빠뜨렸습니다.",
+    "'ㄴ'만 고른 보기는 오답입니다. ㄴ은 옳지만, 헤모글로빈이 산소 운반 효율을 높인다는 ㄱ도 옳은데 이를 빠뜨렸습니다.",
+    "ㄷ은 틀립니다. 일반적인 혈관계의 혈압 변화는 동맥에서 모세혈관을 거쳐 정맥으로 갈수록 낮아집니다. 세 종류 중 모세혈관의 혈압이 가장 낮은 것은 아닙니다.",
+    "정답입니다. 헤모글로빈은 산소와 결합해 운반량을 높이며, 폐정맥은 폐에서 산소를 받은 혈액을 심장으로 되돌립니다. 따라서 ㄱ과 ㄴ이 옳습니다.",
+    "ㄷ이 틀리므로 모두 선택할 수 없습니다. 모세혈관에서는 혈류 속도가 느리지만, 혈압은 정맥 쪽에서 더 낮습니다."
+  ],
+  "lawNote": "동맥과 정맥은 산소량이 아니라 심장을 기준으로 혈액이 나가는지 돌아오는지에 따라 구분합니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "39.4 Transport of Gases in Human Bodily Fluids",
+      "quote": "only a small amount of oxygen is transported this way.",
+      "url": "https://openstax.org/books/biology-2e/pages/39-4-transport-of-gases-in-human-bodily-fluids",
+      "evidenceId": "39d433f65b6e8106c1c6",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "39.4 Transport of Gases in Human Bodily Fluids",
+      "quote": "only a small amount of oxygen is transported this way.",
+      "url": "https://openstax.org/books/biology-2e/pages/39-4-transport-of-gases-in-human-bodily-fluids",
+      "evidenceId": "39d433f65b6e8106c1c6",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "39.4 Transport of Gases in Human Bodily Fluids",
+      "quote": "only a small amount of oxygen is transported this way.",
+      "url": "https://openstax.org/books/biology-2e/pages/39-4-transport-of-gases-in-human-bodily-fluids",
+      "evidenceId": "39d433f65b6e8106c1c6",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "39.4 Transport of Gases in Human Bodily Fluids",
+      "quote": "only a small amount of oxygen is transported this way.",
+      "url": "https://openstax.org/books/biology-2e/pages/39-4-transport-of-gases-in-human-bodily-fluids",
+      "evidenceId": "39d433f65b6e8106c1c6",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "40.3 Mammalian Heart and Blood Vessels",
+      "quote": "The left atrium then receives the oxygen-rich blood from the lungs via the pulmonary veins.",
+      "url": "https://openstax.org/books/biology-2e/pages/40-3-mammalian-heart-and-blood-vessels",
+      "evidenceId": "4b44dd7f709c358dc045",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "40.3 Mammalian Heart and Blood Vessels",
+      "quote": "The left atrium then receives the oxygen-rich blood from the lungs via the pulmonary veins.",
+      "url": "https://openstax.org/books/biology-2e/pages/40-3-mammalian-heart-and-blood-vessels",
+      "evidenceId": "4b44dd7f709c358dc045",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "40.3 Mammalian Heart and Blood Vessels",
+      "quote": "The left atrium then receives the oxygen-rich blood from the lungs via the pulmonary veins.",
+      "url": "https://openstax.org/books/biology-2e/pages/40-3-mammalian-heart-and-blood-vessels",
+      "evidenceId": "4b44dd7f709c358dc045",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "40.3 Mammalian Heart and Blood Vessels",
+      "quote": "The left atrium then receives the oxygen-rich blood from the lungs via the pulmonary veins.",
+      "url": "https://openstax.org/books/biology-2e/pages/40-3-mammalian-heart-and-blood-vessels",
+      "evidenceId": "4b44dd7f709c358dc045",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "40.4 Blood Flow and Blood Pressure Regulation",
+      "quote": "In the capillaries and veins, the blood pressure continues to decrease",
+      "url": "https://openstax.org/books/biology-2e/pages/40-4-blood-flow-and-blood-pressure-regulation",
+      "evidenceId": "e3ca31b9746ed31fff61",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "40.4 Blood Flow and Blood Pressure Regulation",
+      "quote": "In the capillaries and veins, the blood pressure continues to decrease",
+      "url": "https://openstax.org/books/biology-2e/pages/40-4-blood-flow-and-blood-pressure-regulation",
+      "evidenceId": "e3ca31b9746ed31fff61",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "40.4 Blood Flow and Blood Pressure Regulation",
+      "quote": "In the capillaries and veins, the blood pressure continues to decrease",
+      "url": "https://openstax.org/books/biology-2e/pages/40-4-blood-flow-and-blood-pressure-regulation",
+      "evidenceId": "e3ca31b9746ed31fff61",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Direct OpenStax hemoglobin transport, mammalian pulmonary circulation and vascular pressure review; independent statement evaluation",
+    "contentHash": "ee75cedef79d93181a1161441c013131ba379d4b47efbc32c7cb8b65662f4be9"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "254e9a5f19ee79e4f0dd",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "OpenStax Organic Chemistry §18.8 Spectroscopy of Ethers",
+  "url": "https://openstax.org/books/organic-chemistry/pages/18-8-spectroscopy-of-ethers",
+  "excerpt": "C–O single-bond stretching in the range 1050 to 1150",
+  "sourceHash": "1c6cea816eef0f15555beb553199c94a6ea49b1cb783002c3bacf98142766b5b",
+  "cacheSourceId": "a0e737887f0da108e633",
+  "retrievedAt": "2026-11-06T17:57:41.864608+00:00",
+  "reviewedMappings": {
+    "2013-3-13:0": "본문 및 Figure18.3 디에틸에터C–O신축 확인. C가장낮은파수로 배정. 문제는 도식적스펙트럼임을 원문에서 명시하므로 C의그림위치를 실제흡수1350이라고 해석하지 않음. 이 배정과 모든 선지 순열을 비교하여④만일치."
+  },
+  "retrievalMethod": "web.open and web.find; source table or relevant text directly reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

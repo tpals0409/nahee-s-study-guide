@@ -1,0 +1,17 @@
+{
+  "id": "195600cd44b1346ef2f8",
+  "kind": "science",
+  "source": "The Plant Cell / PMC",
+  "ref": "Carmichael and Friedman (1995), Double Fertilization in Gnetum gnemon",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC161055/",
+  "excerpt": "two zygotes per pollen tube",
+  "sourceHash": "c51929cb42922447744b84a489aa78cbb52323e5b51c80a26d84dee82181ace5",
+  "cacheSourceId": "1f11ba1375dbf34a12d8",
+  "retrievedAt": "2026-11-07T05:04:50.888911+00:00",
+  "reviewedMappings": {
+    "2024-3-29:0": "Gnetum gnemon에서 두 접합자를 만드는 중복수정을 직접 보고한 초록. 속씨식물의 배·배젖 형성형과 구별하며 제한 없는 독점성 진술의 한계를 설명한다.",
+    "2024-3-29:4": "Gnetum gnemon에서 두 접합자를 만드는 중복수정을 직접 보고한 초록. 속씨식물의 배·배젖 형성형과 구별하며 제한 없는 독점성 진술의 한계를 설명한다."
+  },
+  "retrievalMethod": "Direct web open",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

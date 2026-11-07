@@ -1,0 +1,18 @@
+{
+  "id": "45e8bf373ab992ba5743",
+  "kind": "science",
+  "source": "Structure / PubMed",
+  "ref": "Kumar et al. (2021), Structure of the human secretory immunoglobulin M core",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/33513362/?dopt=Abstract",
+  "excerpt": "secretory IgA and IgM (sIgA and sIgM) play critical roles in host-pathogen defense.",
+  "sourceHash": "34027e6880fbac9fa03dc292d8e07949455eb21aaddeb1044aabf26552d301e7",
+  "cacheSourceId": "0e0c7b776bfb257b30bd",
+  "retrievedAt": "2026-11-07T05:05:50.583143+00:00",
+  "reviewedMappings": {
+    "2022-3-24:0": "원논문 초록이 분비형IgM의 점막 이동과 방어를 명시하여 단순한 IgA독점 설명을 반박한다.",
+    "2022-3-24:2": "점막IgM의 방어 기능 직접 지지. 단, 이 논문 초록만으로 눈물과 호흡기 분비액 각각의 측정 결과를 주장하지 않는다.",
+    "2022-3-24:4": "ㄴ의 포괄적 표현과 공식정답의 긴장을 뒷받침한다. 이 출처만으로 복수정답을 확정하지 않는다."
+  },
+  "retrievalMethod": "Direct web open",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

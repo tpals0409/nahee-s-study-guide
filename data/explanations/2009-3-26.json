@@ -1,0 +1,30 @@
+{
+  "summary": "정답은 1/40입니다. 원본 그림에서 A/a는 B·C와 다른 염색체 쌍에 있고, B·C는 BC/bc로 배열되어 있습니다. 문제의 교차율 10%를 재조합 생식세포의 비율로 해석하면 bC의 확률은 0.10÷2=0.05입니다. 여기에 독립적으로 분리되는 A의 확률 1/2을 곱하면 0.025=1/40입니다.",
+  "choices": [
+    "1/2: A가 생식세포로 들어갈 확률만 반영한 값입니다. bC 조합은 교차가 일어나야만 생기는 재조합형인데, 그 낮은 확률을 곱하지 않았으므로 오답입니다.",
+    "1/4은 오답입니다. bC의 확률은 1/2이 아니라 재조합형 전체 10%의 절반인 1/20입니다. 따라서 AbC는 (1/2)×(1/20)=1/40입니다.",
+    "1/10: 교차율 10%를 bC 한 종류의 빈도로 착각한 값입니다. 10%는 Bc와 bC 두 재조합형을 합한 빈도입니다. 또 A가 들어갈 확률 1/2도 곱하지 않았으므로 오답입니다.",
+    "1/20: 재조합형 bC의 빈도(10% ÷ 2 = 5%)는 맞게 구했습니다. 그러나 독립적으로 분리되는 A의 확률 1/2을 곱하지 않았으므로 오답입니다.",
+    "1/40: A(1/2) × bC(0.10 ÷ 2 = 1/20) = 1/40입니다. 정답입니다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax · Biology 2e",
+      "ref": "13.1",
+      "quote": "the genotypes Ab and aB are nonparental types that result from homologous recombination during meiosis.",
+      "url": "https://openstax.org/books/biology-2e/pages/13-1-chromosomal-theory-and-genetic-linkage",
+      "evidenceId": "d69bc9de6efc29b1130e",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "원본2009-3-26_1.webp에서 A/a별도쌍, BC/bc연관상인 확인. 교차율을 재조합률r=.10으로 해석. BC=bc=.45,Bc=bC=.05; A각.5로 AbC=.025. 네전체조합합1 검산. 교차발생 감수분열의 비율과 구별하여 전제 명시.",
+    "contentHash": "fa7e5f03130e5cc7772ac856f406027455b7b33ff8cdcb36c51757c61df13fa0"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "9a49ad9e9ae788d29348",
+  "kind": "science",
+  "source": "OpenStax · Organic Chemistry",
+  "ref": "14.8",
+  "url": "https://openstax.org/books/organic-chemistry/pages/14-8-interpreting-ultraviolet-spectra-the-effect-of-conjugation",
+  "excerpt": "One of the most important factors affecting the wavelength of UV absorption by a molecule is the extent of conjugation.",
+  "sourceHash": "da5c861e55a8e13bff47a2a578d1bb4356f5037da1ed96118c53c768274450cc",
+  "cacheSourceId": "ecffa6ba1f5b5be0e5c9",
+  "retrievedAt": "2026-11-06T15:19:38.340056+00:00",
+  "reviewedMappings": {
+    "2009-3-18:5": "MS분자량12.2, XRD원자위치ChemAtomsFirst3.1, IR작용기12.7,1HNMR화학환경13.4,UV공액14.8원문대조. MS는분자이온확인조건, XRD는핵스핀측정아님. 초안의탄소13만스핀존재단정·자연존재비·불필요IR수치삭제."
+  }
+}

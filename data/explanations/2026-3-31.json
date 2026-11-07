@@ -1,0 +1,85 @@
+{
+  "id": "2026-3-31",
+  "summary": "태양 활동의 변화는 지구 밖의 에너지원에서 비롯되는 요인입니다. 이를 기후변화의 지구 내적요인이라고 분류한 ④가 옳지 않습니다.",
+  "choices": [
+    "날씨는 특정 시각과 장소의 대기 상태이며 수시로 달라질 수 있으므로 옳습니다.",
+    "기후는 장기간의 날씨를 통계적으로 나타낸 특성입니다. 평균 상태뿐 아니라 변동 범위와 발생 빈도도 포함하지만, 장기간의 평균 날씨라는 설명은 기본적인 뜻에 맞습니다.",
+    "기압은 대기의 상태를 나타내는 측정량으로 기후요소에 해당합니다. 기후가 형성되는 조건인 위도·고도 등의 기후인자와 구별합니다.",
+    "태양 활동의 변화는 지구 밖에 있는 태양에서 비롯되므로 지구 외적요인입니다. 지구 내적요인이라는 분류가 틀렸습니다.",
+    "심해저 퇴적물은 과거 환경의 기록을 보존합니다. 퇴적층과 그 안의 유공충 껍데기 등을 분석해 과거 수온과 기후 변화를 추정할 수 있으므로 옳습니다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "NOAA National Weather Service",
+      "ref": "Climate versus Weather",
+      "quote": "Weather is defined as the state of the atmosphere at a given time and place",
+      "url": "https://www.weather.gov/climateservices/CvW",
+      "evidenceId": "8922511e3c50f56cab3b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "NOAA National Weather Service",
+      "ref": "Climate versus Weather",
+      "quote": "Weather is defined as the state of the atmosphere at a given time and place",
+      "url": "https://www.weather.gov/climateservices/CvW",
+      "evidenceId": "8922511e3c50f56cab3b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "NOAA National Weather Service",
+      "ref": "Climate versus Weather",
+      "quote": "Weather is defined as the state of the atmosphere at a given time and place",
+      "url": "https://www.weather.gov/climateservices/CvW",
+      "evidenceId": "8922511e3c50f56cab3b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "NASA",
+      "ref": "What are the primary forcings of the Earth system?",
+      "quote": "The Sun is the primary forcing of Earth's climate system.",
+      "url": "https://science.nasa.gov/big-questions/what-are-the-primary-causes-of-the-earth-system-variability/",
+      "evidenceId": "3828568f4793313a73d5",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "NASA",
+      "ref": "What are the primary forcings of the Earth system?",
+      "quote": "The Sun is the primary forcing of Earth's climate system.",
+      "url": "https://science.nasa.gov/big-questions/what-are-the-primary-causes-of-the-earth-system-variability/",
+      "evidenceId": "3828568f4793313a73d5",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "Woods Hole Oceanographic Institution",
+      "ref": "Paleoclimatology",
+      "quote": "cores of ancient sediment pulled from the deep sea contain many clues about past climate",
+      "url": "https://www.whoi.edu/ocean-learning-hub/ocean-topics/climate-weather/paleoclimatology/",
+      "evidenceId": "99018ae9e8ccadf6a1f9",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Original2026-3-31 full image read. Direct NOAA weather/climate, NASA solar forcing and WHOI sediment archive descriptions mapped to claims. Independent answer4 agrees with archived final key. Removed unnecessary30-year threshold, isotope/ice-volume detail, and ambiguous long lists of internal climate-system factors.",
+    "contentHash": "a54bdc5ffeacefdcf3d52a1e6cf1f004d99f71f8524f83afa9226fb0586a5454"
+  }
+}

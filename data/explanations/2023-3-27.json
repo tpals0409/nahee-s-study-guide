@@ -1,0 +1,118 @@
+{
+  "id": "2023-3-27",
+  "summary": "정답은 ②이다. 젖당 오페론의 양성 조절에서는 cAMP가 활성인자 CAP에 결합하고, 이 복합체가 전사 개시를 촉진한다. 유도자가 lac 억제자에 결합하는 음성 조절 해제와 구별해야 한다.",
+  "choices": [
+    "틀리다. 표준적인 대장균 trp 오페론 모형에서는 Trp가 결합한 억제자에 의한 음성 조절과 전사 감쇠를 구분한다. 억제가 풀려 전사가 증가하는 것을 활성인자에 의한 양성 조절이라고 부르지는 않는다.",
+    "옳다. 공동조절자인 cAMP가 활성인자 CAP에 결합하면 CAP–cAMP 복합체가 DNA에 결합해 RNA 중합효소의 결합을 돕고 전사를 촉진한다.",
+    "틀리다. 대장균 trp 오페론의 이 감쇠 방식은 선도 RNA가 전사되는 동안 리보솜이 이를 번역하는 과정에 의존한다. 핵 전사와 세포질 번역이 분리된 진핵세포의 핵 유전자에서는 같은 방식이 성립하지 않는다. 이는 모든 종류의 감쇠 현상이 진핵세포에 없다는 뜻은 아니다.",
+    "틀리다. 유도자 알로락토스가 lac 억제자에 결합하면 작동자에 대한 결합력이 낮아져 억제가 풀린다. 유도자 결합이 작동자 결합을 활성화하는 것이 아니다.",
+    "틀리다. trp 억제자는 공동억제자인 트립토판이 결합해야 작동자에 효과적으로 결합해 전사를 억제한다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e, 16.2 Prokaryotic Gene Regulation",
+      "quote": "CAP binding stabilizes the binding of RNA polymerase",
+      "url": "https://openstax.org/books/biology-2e/pages/16-2-prokaryotic-gene-regulation",
+      "evidenceId": "2f823ee541bd6f61f95b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e, 16.2 Prokaryotic Gene Regulation",
+      "quote": "CAP binding stabilizes the binding of RNA polymerase",
+      "url": "https://openstax.org/books/biology-2e/pages/16-2-prokaryotic-gene-regulation",
+      "evidenceId": "2f823ee541bd6f61f95b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e, 16.2 Prokaryotic Gene Regulation",
+      "quote": "CAP binding stabilizes the binding of RNA polymerase",
+      "url": "https://openstax.org/books/biology-2e/pages/16-2-prokaryotic-gene-regulation",
+      "evidenceId": "2f823ee541bd6f61f95b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e, 16.2 Prokaryotic Gene Regulation",
+      "quote": "CAP binding stabilizes the binding of RNA polymerase",
+      "url": "https://openstax.org/books/biology-2e/pages/16-2-prokaryotic-gene-regulation",
+      "evidenceId": "2f823ee541bd6f61f95b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e, 16.2 Prokaryotic Gene Regulation",
+      "quote": "CAP binding stabilizes the binding of RNA polymerase",
+      "url": "https://openstax.org/books/biology-2e/pages/16-2-prokaryotic-gene-regulation",
+      "evidenceId": "2f823ee541bd6f61f95b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e, 16.1 Regulation of Gene Expression",
+      "quote": "physically separated by the nuclear membrane",
+      "url": "https://openstax.org/books/biology-2e/pages/16-1-regulation-of-gene-expression",
+      "evidenceId": "b0179e6c375ddde13539",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e, 16.1 Regulation of Gene Expression",
+      "quote": "physically separated by the nuclear membrane",
+      "url": "https://openstax.org/books/biology-2e/pages/16-1-regulation-of-gene-expression",
+      "evidenceId": "b0179e6c375ddde13539",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "PubMed / Nucleic Acids Research",
+      "ref": "Translation activates the paused transcription complex and restores transcription of the trp operon leader region",
+      "quote": "coupling of transcription and translation essential to attenuation control",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/2991886/",
+      "evidenceId": "eeaf4ea775ca0edfdc11",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "PubMed / Nucleic Acids Research",
+      "ref": "Translation activates the paused transcription complex and restores transcription of the trp operon leader region",
+      "quote": "coupling of transcription and translation essential to attenuation control",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/2991886/",
+      "evidenceId": "eeaf4ea775ca0edfdc11",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "원문 이미지·선지 대조. OpenStax16.1·16.2 및 trp 감쇠 원논문 초록 직접 확인. ②만 참. 모든 진핵 감쇠 불가능이라는 초안의 과도한 일반화를 대장균 전사-번역 공역형 감쇠와 진핵 핵 유전자로 제한. trp 전사 개시 억제와 감쇠를 구별.",
+    "contentHash": "ad30174f7047d83eda21a2c34078e9f8eac1f3f941e29875238ed74609a190b1"
+  }
+}

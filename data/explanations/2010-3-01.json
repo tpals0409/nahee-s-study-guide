@@ -1,0 +1,30 @@
+{
+  "summary": "일정한 힘 F가 정지한 물체에 작용하면 가속도는 a = F/m입니다. t₁ 동안의 이동거리는 d = (1/2)(F/m)t₁²이므로 한 일은 W = F·d = F²t₁²/(2m)입니다. 따라서 정답은 F²t₁²/(2m)입니다.",
+  "choices": [
+    "F²t₁²/(2m): 정답입니다. W = F·d = F·(1/2)(F/m)t₁² = F²t₁²/(2m)입니다. 일-에너지 정리로 구한 운동에너지 증가량 (1/2)mv² = (1/2)m(Ft₁/m)² = F²t₁²/(2m)과도 같습니다. 단위도 N²·s²/kg = N·(kg·m/s²)·s²/kg = N·m = J로 맞습니다.",
+    "Ft₁²/(4m): 오답입니다. 이 식은 F를 한 번만 포함하므로 단위가 N·s²/kg = m, 즉 길이의 단위가 됩니다. 일(J)의 단위가 아닙니다. 실제로는 이동거리 d = Ft₁²/(2m)에 다시 F를 곱해야 일이 됩니다.",
+    "2Ft₁²/m²: 오답입니다. 단위가 N·s²/kg² = m/kg이므로 에너지 단위가 아닙니다. 질량의 차수도 틀렸고, F²이 아닌 F의 1제곱만 포함되어 있습니다.",
+    "2Ft₁/m²는 오답입니다. 힘의 단위가 kg·m/s²이므로 이 식의 단위는 m/(kg·s)입니다. 일의 단위 kg·m²/s²와 다릅니다.",
+    "Ft₁/m²: 오답입니다. Ft₁/m는 나중 속력 v에 해당합니다. 여기에 다시 m으로 나눈 이 식은 단위가 (m/s)/kg이므로 일이 될 수 없습니다. 올바른 일은 (1/2)m v² = F²t₁²/(2m)입니다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax · University Physics Volume 1",
+      "ref": "7.3 Work-Energy Theorem",
+      "quote": "The net work done on a particle equals the change in the particle’s kinetic energy:",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/7-3-work-energy-theorem",
+      "evidenceId": "3eaab79521420bcd26c3",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "문제 조건과 5개 수식을 직접 확인. 일정한 수평 합력 F에서 m dv/dt=F를 적분하고 일-에너지 정리로 독립 계산. 각 오답의 SI 차원을 검산. OpenStax 7.3 본문 식과 대조.",
+    "contentHash": "1eee8cac6102a11151b42f1fdce3048b34ad7bc997e7d01471abefc4bffd3ed6"
+  }
+}

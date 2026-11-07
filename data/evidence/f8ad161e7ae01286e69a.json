@@ -1,0 +1,21 @@
+{
+  "id": "f8ad161e7ae01286e69a",
+  "kind": "science",
+  "source": "The Canadian Entomologist",
+  "ref": "Katsoyannos & Aliniazee (1998), The Canadian Entomologist 130:905–906",
+  "url": "https://www.zin.ru/Animalia/Coleoptera/addpages/Andrey_Ukrainsky_Library/References_files/Katsoyannos98.pdf",
+  "excerpt": "The parasitic tachinid fly Strongygaster triangulifera (Loew) is widely distributed",
+  "sourceHash": "7263ac334ebb65c1b649d4aea40a4e23f0973ffce318c363414d7777d22ec580",
+  "cacheSourceId": "49a45f683884cc6e4d8c",
+  "retrievedAt": "2026-11-06T17:30:53.962915+00:00",
+  "reviewedMappings": {
+    "2012-3-30:0": "원저 첫 페이지에 기생파리 Strongygaster triangulifera와 무당벌레류 Coccinella/Coleomegilla/Harmonia 숙주 기록 명시. 기생벌과 혼동하지 않음. ㄷ의 숙주 관계 대조.",
+    "2012-3-30:1": "원저 첫 페이지에 기생파리 Strongygaster triangulifera와 무당벌레류 Coccinella/Coleomegilla/Harmonia 숙주 기록 명시. 기생벌과 혼동하지 않음. ㄷ의 숙주 관계 대조.",
+    "2012-3-30:2": "원저 첫 페이지에 기생파리 Strongygaster triangulifera와 무당벌레류 Coccinella/Coleomegilla/Harmonia 숙주 기록 명시. 기생벌과 혼동하지 않음. ㄷ의 숙주 관계 대조.",
+    "2012-3-30:3": "원저 첫 페이지에 기생파리 Strongygaster triangulifera와 무당벌레류 Coccinella/Coleomegilla/Harmonia 숙주 기록 명시. 기생벌과 혼동하지 않음. ㄷ의 숙주 관계 대조.",
+    "2012-3-30:4": "원저 첫 페이지에 기생파리 Strongygaster triangulifera와 무당벌레류 Coccinella/Coleomegilla/Harmonia 숙주 기록 명시. 기생벌과 혼동하지 않음. ㄷ의 숙주 관계 대조.",
+    "2012-3-30:5": "원저 첫 페이지에 기생파리 Strongygaster triangulifera와 무당벌레류 Coccinella/Coleomegilla/Harmonia 숙주 기록 명시. 기생벌과 혼동하지 않음. ㄷ의 숙주 관계 대조."
+  },
+  "retrievalMethod": "web.open PDF; first-page host records read",
+  "sourceHashScope": "Selected excerpt only; not full paper"
+}

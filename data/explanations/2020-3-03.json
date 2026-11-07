@@ -1,0 +1,151 @@
+{
+  "id": "2020-3-03",
+  "summary": "남자와 사다리의 무게중심이 모두 사다리 중앙에 있으므로, 전체 무게 (M+m)g가 중앙에 작용한다고 보면 됩니다. 힘의 평형과 바닥 접점에 대한 돌림힘 평형을 세우면 tanθ_min = 1/(2μs)이며, 결과는 질량과 무관합니다. 따라서 정답은 1/(2μs)입니다.",
+  "choices": [
+    "정답입니다. W=(M+m)g라 두면 힘의 평형에서 N=W, f=P입니다. 바닥 접점에 대한 돌림힘 평형 P·l sinθ=W·(l/2)cosθ로부터 f/N=1/(2tanθ)입니다. f≤μsN을 적용하면 tanθ≥1/(2μs)이므로 최소각의 값은 1/(2μs)입니다.",
+    "오답입니다. 최소각은 tanθ_min=1/(2μs)로 마찰계수에 반비례합니다. μs/2는 일반적으로 이 경계식을 만족하지 않습니다.",
+    "오답입니다. 이 값을 넣으면 f/N=3μs/4가 되어 최대 정지마찰력에 도달하지 않습니다. 이 각도에서도 버틸 수 있지만 최소각은 아닙니다.",
+    "오답입니다. 두 무게가 모두 중앙에 작용하므로 필요한 마찰력과 바닥 수직항력에 공통인 (M+m)g가 약분됩니다. μs·m/[2(M+m)]는 올바른 최소각의 일반식이 아닙니다.",
+    "오답입니다. m>0일 때 M/(M+m)<1이므로 이 식은 1/(2μs)보다 작습니다. 이 각도에서는 필요한 마찰력이 최대 정지마찰력을 초과하여 평형을 유지할 수 없습니다."
+  ],
+  "lawNote": "정지마찰력은 항상 μsN이 아니라 f≤μsN이며, 미끄러지기 직전의 최소각에서 등호가 성립합니다. μs>0인 경우를 다룹니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1 §12.2 Examples of Static Equilibrium",
+      "quote": "We select the pivot at the contact point with the floor.",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/12-2-examples-of-static-equilibrium",
+      "evidenceId": "99ae5ba4026e7bfcc0dd",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1 §12.2 Examples of Static Equilibrium",
+      "quote": "We select the pivot at the contact point with the floor.",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/12-2-examples-of-static-equilibrium",
+      "evidenceId": "99ae5ba4026e7bfcc0dd",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1 §12.2 Examples of Static Equilibrium",
+      "quote": "We select the pivot at the contact point with the floor.",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/12-2-examples-of-static-equilibrium",
+      "evidenceId": "99ae5ba4026e7bfcc0dd",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1 §12.2 Examples of Static Equilibrium",
+      "quote": "We select the pivot at the contact point with the floor.",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/12-2-examples-of-static-equilibrium",
+      "evidenceId": "99ae5ba4026e7bfcc0dd",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1 §12.2 Examples of Static Equilibrium",
+      "quote": "We select the pivot at the contact point with the floor.",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/12-2-examples-of-static-equilibrium",
+      "evidenceId": "99ae5ba4026e7bfcc0dd",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1 §12.2 Examples of Static Equilibrium",
+      "quote": "We select the pivot at the contact point with the floor.",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/12-2-examples-of-static-equilibrium",
+      "evidenceId": "99ae5ba4026e7bfcc0dd",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1 §6.2 Friction",
+      "quote": "Static friction is a responsive force",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/6-2-friction",
+      "evidenceId": "605349515ebe0a1a1aa9",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1 §6.2 Friction",
+      "quote": "Static friction is a responsive force",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/6-2-friction",
+      "evidenceId": "605349515ebe0a1a1aa9",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1 §6.2 Friction",
+      "quote": "Static friction is a responsive force",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/6-2-friction",
+      "evidenceId": "605349515ebe0a1a1aa9",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1 §6.2 Friction",
+      "quote": "Static friction is a responsive force",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/6-2-friction",
+      "evidenceId": "605349515ebe0a1a1aa9",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1 §6.2 Friction",
+      "quote": "Static friction is a responsive force",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/6-2-friction",
+      "evidenceId": "605349515ebe0a1a1aa9",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1 §6.2 Friction",
+      "quote": "Static friction is a responsive force",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/6-2-friction",
+      "evidenceId": "605349515ebe0a1a1aa9",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Original diagram checked; independent force/torque balance and friction inequality; all options checked algebraically, with exact rational numerical cross-check; OpenStax primary text mapped to each choice.",
+    "contentHash": "07eec86af16deb907641e54ca3d9f0410b0536908c824a88c0f8857b1f5fa929"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "d61b0ebb4ad5e68a25a9",
+  "kind": "science",
+  "source": "NASA",
+  "ref": "Solar System: Facts",
+  "url": "https://science.nasa.gov/solar-system/solar-system-facts/",
+  "excerpt": "called the Orion Arm, or Orion Spur",
+  "sourceHash": "f781e12619f7b3966ba6a24b202c81f39a35bd6c775cc06698228f53165ec8a6",
+  "cacheSourceId": "14b8a49abcd33c7d87b6",
+  "retrievedAt": "2026-11-07T02:13:57.190122+00:00",
+  "reviewedMappings": {
+    "2023-3-40:0": "본문의 막대 나선 은하 분류와 태양이 궁수자리·페르세우스 팔 사이 작은 오리온 팔에 있다는 설명을 직접 확인했다. 불필요한 세부 형태분류 SBbc 단정은 삭제했다.",
+    "2023-3-40:1": "본문의 막대 나선 은하 분류와 태양이 궁수자리·페르세우스 팔 사이 작은 오리온 팔에 있다는 설명을 직접 확인했다. 불필요한 세부 형태분류 SBbc 단정은 삭제했다.",
+    "2023-3-40:3": "본문의 막대 나선 은하 분류와 태양이 궁수자리·페르세우스 팔 사이 작은 오리온 팔에 있다는 설명을 직접 확인했다. 불필요한 세부 형태분류 SBbc 단정은 삭제했다."
+  },
+  "retrievalMethod": "Direct web open; reviewed Milky Way structure, location and stellar populations",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

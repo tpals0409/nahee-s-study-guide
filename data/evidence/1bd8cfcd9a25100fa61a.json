@@ -1,0 +1,21 @@
+{
+  "id": "1bd8cfcd9a25100fa61a",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e,16.2 Prokaryotic Gene Regulation",
+  "url": "https://openstax.org/books/biology-2e/pages/16-2-prokaryotic-gene-regulation",
+  "excerpt": "The promoter sequence, to which RNA polymerase binds to initiate transcription",
+  "sourceHash": "5ecbc0ccfccba229af0df480e05af77f8f777e26e246588bfce40a507e8fdb5d",
+  "cacheSourceId": "2405fe64415a5518da80",
+  "retrievedAt": "2026-11-07T04:04:19.542946+00:00",
+  "reviewedMappings": {
+    "2026-3-22:0": "Operon multiple genes share transcription from promoter; ㄷ true and promoter definitionㄹ true.",
+    "2026-3-22:1": "Operon multiple genes share transcription from promoter; ㄷ true and promoter definitionㄹ true.",
+    "2026-3-22:2": "Operon multiple genes share transcription from promoter; ㄷ true and promoter definitionㄹ true.",
+    "2026-3-22:3": "Operon multiple genes share transcription from promoter; ㄷ true and promoter definitionㄹ true.",
+    "2026-3-22:4": "Operon multiple genes share transcription from promoter; ㄷ true and promoter definitionㄹ true.",
+    "2026-3-22:5": "Operon multiple genes share transcription from promoter; ㄷ true and promoter definitionㄹ true."
+  },
+  "retrievalMethod": "Direct web open",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

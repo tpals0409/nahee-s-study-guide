@@ -1,0 +1,27 @@
+{
+  "id": "daef1790d5d6fa775c89",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume 1, 6.3 Centripetal Force",
+  "url": "https://openstax.org/books/university-physics-volume-1/pages/6-3-centripetal-force",
+  "excerpt": "The direction of a centripetal force is toward the center of curvature",
+  "sourceHash": "3b4bd3f6897a43eb34919982e7840c6d7a0c9d554390150bb09ceae6c0942c76",
+  "cacheSourceId": "bcbcb1f9754cf568dd3f",
+  "retrievedAt": "2026-11-07T02:14:43.913944+00:00",
+  "reviewedMappings": {
+    "2022-3-01:0": "반지름 방향 가속도 v²/R 및 중심방향 힘 합. A에서 중력 반지름성분0, B에서 중력과 항력 모두 중심방향. 각 후보 h/R을 독립 대입하여 항력비 검산.",
+    "2022-3-01:1": "반지름 방향 가속도 v²/R 및 중심방향 힘 합. A에서 중력 반지름성분0, B에서 중력과 항력 모두 중심방향. 각 후보 h/R을 독립 대입하여 항력비 검산.",
+    "2022-3-01:2": "반지름 방향 가속도 v²/R 및 중심방향 힘 합. A에서 중력 반지름성분0, B에서 중력과 항력 모두 중심방향. 각 후보 h/R을 독립 대입하여 항력비 검산.",
+    "2022-3-01:3": "반지름 방향 가속도 v²/R 및 중심방향 힘 합. A에서 중력 반지름성분0, B에서 중력과 항력 모두 중심방향. 각 후보 h/R을 독립 대입하여 항력비 검산.",
+    "2022-3-01:4": "반지름 방향 가속도 v²/R 및 중심방향 힘 합. A에서 중력 반지름성분0, B에서 중력과 항력 모두 중심방향. 각 후보 h/R을 독립 대입하여 항력비 검산.",
+    "2022-3-01:5": "반지름 방향 가속도 v²/R 및 중심방향 힘 합. A에서 중력 반지름성분0, B에서 중력과 항력 모두 중심방향. 각 후보 h/R을 독립 대입하여 항력비 검산.",
+    "2024-3-01:0": "중심 방향 가속도 v²/R와 뉴턴 법칙을 적용했다. 반구 외면에서 중력 성분 mg sinθ는 안쪽, 수직항력 N은 바깥쪽이므로 mg sinθ−N=mv²/R. 접촉이 끝나는 N=0 조건과 Kq=3E를 결합해 6E=mgR sinθ를 유도했다. 접선 가속도가 있어도 중심 방향 식은 유효하다.",
+    "2024-3-01:1": "중심 방향 가속도 v²/R와 뉴턴 법칙을 적용했다. 반구 외면에서 중력 성분 mg sinθ는 안쪽, 수직항력 N은 바깥쪽이므로 mg sinθ−N=mv²/R. 접촉이 끝나는 N=0 조건과 Kq=3E를 결합해 6E=mgR sinθ를 유도했다. 접선 가속도가 있어도 중심 방향 식은 유효하다.",
+    "2024-3-01:2": "중심 방향 가속도 v²/R와 뉴턴 법칙을 적용했다. 반구 외면에서 중력 성분 mg sinθ는 안쪽, 수직항력 N은 바깥쪽이므로 mg sinθ−N=mv²/R. 접촉이 끝나는 N=0 조건과 Kq=3E를 결합해 6E=mgR sinθ를 유도했다. 접선 가속도가 있어도 중심 방향 식은 유효하다.",
+    "2024-3-01:3": "중심 방향 가속도 v²/R와 뉴턴 법칙을 적용했다. 반구 외면에서 중력 성분 mg sinθ는 안쪽, 수직항력 N은 바깥쪽이므로 mg sinθ−N=mv²/R. 접촉이 끝나는 N=0 조건과 Kq=3E를 결합해 6E=mgR sinθ를 유도했다. 접선 가속도가 있어도 중심 방향 식은 유효하다.",
+    "2024-3-01:4": "중심 방향 가속도 v²/R와 뉴턴 법칙을 적용했다. 반구 외면에서 중력 성분 mg sinθ는 안쪽, 수직항력 N은 바깥쪽이므로 mg sinθ−N=mv²/R. 접촉이 끝나는 N=0 조건과 Kq=3E를 결합해 6E=mgR sinθ를 유도했다. 접선 가속도가 있어도 중심 방향 식은 유효하다.",
+    "2024-3-01:5": "중심 방향 가속도 v²/R와 뉴턴 법칙을 적용했다. 반구 외면에서 중력 성분 mg sinθ는 안쪽, 수직항력 N은 바깥쪽이므로 mg sinθ−N=mv²/R. 접촉이 끝나는 N=0 조건과 Kq=3E를 결합해 6E=mgR sinθ를 유도했다. 접선 가속도가 있어도 중심 방향 식은 유효하다."
+  },
+  "retrievalMethod": "Direct web open; reviewed mechanical energy and radial Newton-law equations",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

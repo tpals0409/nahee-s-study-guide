@@ -1,0 +1,18 @@
+{
+  "id": "5335753178dd26bb0955",
+  "kind": "science",
+  "source": "The Geological Society",
+  "ref": "How do plates move?",
+  "url": "https://www.geolsoc.org.uk/Plate-Tectonics/Chap2-What-is-a-Plate/Plate-Movement.html",
+  "excerpt": "but becomes denser with age as it cools and thickens.",
+  "sourceHash": "7695847e869048cc1faaa152061a011c6122cd0ba2354cf2bb117c0bbd1f607a",
+  "cacheSourceId": "c31fbe2f1b150b6487df",
+  "retrievedAt": "2026-11-06T21:26:57.523687+00:00",
+  "reviewedMappings": {
+    "2017-3-31:2": "본문에서 새 해양 암석권의 냉각·두꺼워짐을 확인. ㄴ은 온도와 두께 관계를 반대로 썼으므로 거짓. 이 근거는 ㄱ이나 ㄷ의 열전달 비중을 검증하지 않음.",
+    "2017-3-31:4": "본문에서 새 해양 암석권의 냉각·두꺼워짐을 확인. ㄴ은 온도와 두께 관계를 반대로 썼으므로 거짓. 이 근거는 ㄱ이나 ㄷ의 열전달 비중을 검증하지 않음.",
+    "2017-3-31:5": "본문에서 새 해양 암석권의 냉각·두꺼워짐을 확인. ㄴ은 온도와 두께 관계를 반대로 썼으므로 거짓. 이 근거는 ㄱ이나 ㄷ의 열전달 비중을 검증하지 않음."
+  },
+  "retrievalMethod": "Direct web page reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

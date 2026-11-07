@@ -1,0 +1,28 @@
+{
+  "id": "7e44e97b6252e7f2ea64",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 2e §8.2 — sp Hybridization",
+  "url": "https://openstax.org/books/chemistry-2e/pages/8-2-hybrid-atomic-orbitals",
+  "excerpt": "The set of two sp orbitals are oriented at 180°, which is consistent with the geometry for two domains.",
+  "sourceHash": "1f1737cdeee9a75868ad4b4609a2d978a43a30df87ed185ec5f374fefdc5b768",
+  "cacheSourceId": "508cad1f39ae269ea2dd",
+  "retrievedAt": "2026-11-06T21:49:46.211136+00:00",
+  "reviewedMappings": {
+    "2010-3-13:1": "두 전자 영역에 대응하는 sp 혼성화 원리를 CO의 루이스 구조에 적용한 해설자 도출. 삼중결합은 전자 영역 하나로 계산.",
+    "2016-3-16:0": "본문 45–51의 두 전자 영역→선형 sp 모형. 세 구조 모두 C의 비공유 전자0, 두 결합 방향임을 계산.",
+    "2016-3-16:1": "옳은 ㄷ이 빠짐: C의 전자 영역2이므로 sp.",
+    "2016-3-16:2": "ㄷ 참: 단일·이중·삼중 결합은 각각 하나의 결합 방향이며 C의 전자 영역2.",
+    "2016-3-16:3": "선지에 누락된 ㄷ은 C 전자 영역2→sp에 따라 참.",
+    "2016-3-16:4": "ㄷ 자체는 참이나 ㄱ이 거짓이므로 조합 오답.",
+    "2016-3-16:5": "ㄷ 자체는 참이나 ㄴ이 거짓이므로 조합 오답.",
+    "2018-3-12:0": "sp Hybridization 절 직접 검토. 독립적으로 16전자 NO₂⁺의 O=N⁺=O 루이스 구조와 질소의 두 전자 영역을 계산하여 sp·180°를 적용. ㄱ과 ㄴ 및 각 조합 판단을 지원.",
+    "2018-3-12:1": "sp Hybridization 절 직접 검토. 독립적으로 16전자 NO₂⁺의 O=N⁺=O 루이스 구조와 질소의 두 전자 영역을 계산하여 sp·180°를 적용. ㄱ과 ㄴ 및 각 조합 판단을 지원.",
+    "2018-3-12:2": "sp Hybridization 절 직접 검토. 독립적으로 16전자 NO₂⁺의 O=N⁺=O 루이스 구조와 질소의 두 전자 영역을 계산하여 sp·180°를 적용. ㄱ과 ㄴ 및 각 조합 판단을 지원.",
+    "2018-3-12:3": "sp Hybridization 절 직접 검토. 독립적으로 16전자 NO₂⁺의 O=N⁺=O 루이스 구조와 질소의 두 전자 영역을 계산하여 sp·180°를 적용. ㄱ과 ㄴ 및 각 조합 판단을 지원.",
+    "2018-3-12:4": "sp Hybridization 절 직접 검토. 독립적으로 16전자 NO₂⁺의 O=N⁺=O 루이스 구조와 질소의 두 전자 영역을 계산하여 sp·180°를 적용. ㄱ과 ㄴ 및 각 조합 판단을 지원.",
+    "2018-3-12:5": "sp Hybridization 절 직접 검토. 독립적으로 16전자 NO₂⁺의 O=N⁺=O 루이스 구조와 질소의 두 전자 영역을 계산하여 sp·180°를 적용. ㄱ과 ㄴ 및 각 조합 판단을 지원."
+  },
+  "retrievalMethod": "Direct web open; relevant table rows or section reviewed; selected verbatim excerpt retained",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

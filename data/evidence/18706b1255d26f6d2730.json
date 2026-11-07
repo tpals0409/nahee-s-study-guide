@@ -1,0 +1,21 @@
+{
+  "id": "18706b1255d26f6d2730",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 2e, 14.2 pH and pOH",
+  "url": "https://openstax.org/books/chemistry-2e/pages/14-2-ph-and-poh",
+  "excerpt": "hydronium and hydroxide ions are present both in pure water and in all aqueous solutions",
+  "sourceHash": "a157d2acb8f2e2d0e5ab4e092c6844ceb1df99739030073045b3b75431219be1",
+  "cacheSourceId": "a214825c6181cb5a13a0",
+  "retrievedAt": "2026-11-07T00:10:27.018239+00:00",
+  "reviewedMappings": {
+    "2021-3-20:0": "lines30-31,50-65: Kw=[H3O+][OH−],25°C Kw1e−14,酸性H>OH。전하보존으로 독립 구성한 H=OH+Cl와 연립하여 H1.05125e−7,OH9.51249e−8을 도출. 다섯 선지 농도순서를 비교.",
+    "2021-3-20:1": "lines30-31,50-65: Kw=[H3O+][OH−],25°C Kw1e−14,酸性H>OH。전하보존으로 독립 구성한 H=OH+Cl와 연립하여 H1.05125e−7,OH9.51249e−8을 도출. 다섯 선지 농도순서를 비교.",
+    "2021-3-20:2": "lines30-31,50-65: Kw=[H3O+][OH−],25°C Kw1e−14,酸性H>OH。전하보존으로 독립 구성한 H=OH+Cl와 연립하여 H1.05125e−7,OH9.51249e−8을 도출. 다섯 선지 농도순서를 비교.",
+    "2021-3-20:3": "lines30-31,50-65: Kw=[H3O+][OH−],25°C Kw1e−14,酸性H>OH。전하보존으로 독립 구성한 H=OH+Cl와 연립하여 H1.05125e−7,OH9.51249e−8을 도출. 다섯 선지 농도순서를 비교.",
+    "2021-3-20:4": "lines30-31,50-65: Kw=[H3O+][OH−],25°C Kw1e−14,酸性H>OH。전하보존으로 독립 구성한 H=OH+Cl와 연립하여 H1.05125e−7,OH9.51249e−8을 도출. 다섯 선지 농도순서를 비교.",
+    "2021-3-20:5": "lines30-31,50-65: Kw=[H3O+][OH−],25°C Kw1e−14,酸性H>OH。전하보존으로 독립 구성한 H=OH+Cl와 연립하여 H1.05125e−7,OH9.51249e−8을 도출. 다섯 선지 농도순서를 비교."
+  },
+  "retrievalMethod": "Direct textbook page reviewed; lines30-31,50-65: Kw=[H3O+][OH−],25°C Kw1e−14,酸性H>OH。전하보존으로 독립 구성한 H=OH+Cl와 연립하여 H1.05125e−7,OH9.51249e−8을 도출. 다섯 선지 농도순서를 비교.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

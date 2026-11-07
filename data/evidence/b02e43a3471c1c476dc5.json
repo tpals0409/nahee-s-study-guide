@@ -1,0 +1,14 @@
+{
+  "id": "b02e43a3471c1c476dc5",
+  "kind": "science",
+  "source": "OpenStax · Biology 2e",
+  "ref": "9.3 Response to the Signal",
+  "url": "https://openstax.org/books/biology-2e/pages/9-3-response-to-the-signal",
+  "excerpt": "Apoptosis is also essential for normal embryological development.",
+  "sourceHash": "079bbb2a34f2896cc6820348419eb5b469cb6c181147354bb7434177650775e9",
+  "cacheSourceId": "ec36aa3665fd54318335",
+  "retrievedAt": "2026-11-06T15:39:56.947690+00:00",
+  "reviewedMappings": {
+    "2010-3-22:1": "본문 척추동물 배아의 손발가락 사이 조직 제거 예시 확인. 포유류 발생 과정에서 apoptosis가 일어난다는 선지 뒷받침."
+  }
+}

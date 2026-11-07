@@ -1,0 +1,16 @@
+{
+  "id": "6a1097dfc47c15babbe9",
+  "kind": "science",
+  "source": "Endotext / NCBI Bookshelf",
+  "ref": "Endotext: The Insulin Receptor and Its Signal Transduction Network",
+  "url": "https://www.ncbi.nlm.nih.gov/books/NBK378978/",
+  "excerpt": "major ones being liver (where it promotes glucose storage into glycogen and decreases glucose output), as well as skeletal muscle and fat",
+  "sourceHash": "906417166d1c5e488c219482a485d38805340cf746519e6e9145d40145c43f68",
+  "cacheSourceId": "f51663f40e181c59909a",
+  "retrievedAt": "2026-11-06T18:08:19.233230+00:00",
+  "reviewedMappings": {
+    "2013-3-21:0": "간·골격근·지방을 주요표적으로 명시한 검색반환 원문 확인. β세포도 표적이라고 이어지는 원문과 대조하여 β세포에는 수용체가 없다는 초안의 단정 삭제."
+  },
+  "retrievalMethod": "web.search_query excerpt; direct open returned browser challenge",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "dedafbfc704fe310c187",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 2e §14.3 Relative Strengths of Acids and Bases",
+  "url": "https://openstax.org/books/chemistry-2e/pages/14-3-relative-strengths-of-acids-and-bases",
+  "excerpt": "the percent ionization of a weak acid varies with the initial concentration of acid",
+  "sourceHash": "36b7d2a2c8d314b1df9a00d18dc7b09d00e852ca75d990216e23a9ecec8773dc",
+  "cacheSourceId": "1db4d6a47ba6be03cbe3",
+  "retrievedAt": "2026-11-06T19:27:29.420059+00:00",
+  "reviewedMappings": {
+    "2015-3-13:0": "Source gives Ka=[H3O+][A−]/[HA], percent ionization and concentration dependence; original supplies both Ka values and concentrations. Independent quadratic solution avoids small-ionization approximation.",
+    "2015-3-13:1": "Figure 14.6 explicitly lists HCl as strong acid; adjacent text describes essentially complete ionization. Thus approximately 100%, not minimum.",
+    "2015-3-13:2": "Use original formic Ka=1.7e-4 and C=.01 with cited equilibrium expression; independently computed percent, no external replacement Ka.",
+    "2015-3-13:3": "Use original acetic Ka=1.8e-5 and C=.01 with cited equilibrium expression; independently computed percent.",
+    "2015-3-13:4": "Use original formic Ka=1.7e-4 and C=.10 with cited equilibrium expression; independently computed percent.",
+    "2015-3-13:5": "Use original acetic Ka=1.8e-5 and C=.10 with cited equilibrium expression; independent minimum among four weak-acid cases plus strong HCl."
+  },
+  "retrievalMethod": "Direct web.open; strong-acid table, Ka expression and percent-ionization definition lines 32–50 inspected",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

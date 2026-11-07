@@ -1,0 +1,152 @@
+{
+  "id": "2015-3-03",
+  "summary": "정답은 ④ (2π+3√3/2)μR³ω입니다. 중심을 지나 고리 평면에 수직인 축에 대한 고리의 관성모멘트는 2πμR³이고, 정삼각형을 이루는 세 막대의 합은 (3√3/2)μR³입니다. 이들을 더한 뒤 각속도 ω를 곱합니다.",
+  "choices": [
+    "오답입니다. 막대 세 개의 항은 맞지만, 고리 항은 πμR³이 아니라 2πμR³입니다. 고리의 질량은 2πRμ이고 모든 부분이 회전축에서 R만큼 떨어져 있습니다.",
+    "오답입니다. 고리 항은 실제의 절반이고 막대 항은 실제의 두 배입니다. 올바른 합은 (2π+3√3/2)μR³입니다.",
+    "오답입니다. 계산된 무차원 계수는 2π+3√3/2≈8.881이며, 3√3π≈16.324와 다릅니다. 각 부분의 관성모멘트는 동일한 회전축을 기준으로 더해야 합니다.",
+    "정답입니다. 막대 하나의 길이는 ℓ=√3R, 질량은 m=μ√3R이며 중점과 회전축 사이 거리는 R/2입니다. 평행축 정리로 I막대=mℓ²/12+m(R/2)²=(√3/2)μR³입니다. 고리와 세 막대를 합하면 I=(2π+3√3/2)μR³이므로 L=Iω입니다.",
+    "오답입니다. 고리 항 2πμR³은 맞지만 막대 세 개의 합은 3√3μR³이 아니라 (3√3/2)μR³입니다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics 1 §10.5 Calculating Moments of Inertia",
+      "quote": "the moment of inertia for any object depends on the chosen axis.",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/10-5-calculating-moments-of-inertia",
+      "evidenceId": "dbdf729611dfa74fa6c6",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics 1 §10.5 Calculating Moments of Inertia",
+      "quote": "the moment of inertia for any object depends on the chosen axis.",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/10-5-calculating-moments-of-inertia",
+      "evidenceId": "dbdf729611dfa74fa6c6",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics 1 §10.5 Calculating Moments of Inertia",
+      "quote": "the moment of inertia for any object depends on the chosen axis.",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/10-5-calculating-moments-of-inertia",
+      "evidenceId": "dbdf729611dfa74fa6c6",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics 1 §10.5 Calculating Moments of Inertia",
+      "quote": "the moment of inertia for any object depends on the chosen axis.",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/10-5-calculating-moments-of-inertia",
+      "evidenceId": "dbdf729611dfa74fa6c6",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics 1 §10.5 Calculating Moments of Inertia",
+      "quote": "the moment of inertia for any object depends on the chosen axis.",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/10-5-calculating-moments-of-inertia",
+      "evidenceId": "dbdf729611dfa74fa6c6",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics 1 §10.5 Calculating Moments of Inertia",
+      "quote": "the moment of inertia for any object depends on the chosen axis.",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/10-5-calculating-moments-of-inertia",
+      "evidenceId": "dbdf729611dfa74fa6c6",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics 1 §11.2 Angular Momentum",
+      "quote": "The direction of the angular momentum vector is directed along the axis of rotation",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/11-2-angular-momentum",
+      "evidenceId": "db86eb0d6986251d219a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics 1 §11.2 Angular Momentum",
+      "quote": "The direction of the angular momentum vector is directed along the axis of rotation",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/11-2-angular-momentum",
+      "evidenceId": "db86eb0d6986251d219a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics 1 §11.2 Angular Momentum",
+      "quote": "The direction of the angular momentum vector is directed along the axis of rotation",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/11-2-angular-momentum",
+      "evidenceId": "db86eb0d6986251d219a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics 1 §11.2 Angular Momentum",
+      "quote": "The direction of the angular momentum vector is directed along the axis of rotation",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/11-2-angular-momentum",
+      "evidenceId": "db86eb0d6986251d219a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics 1 §11.2 Angular Momentum",
+      "quote": "The direction of the angular momentum vector is directed along the axis of rotation",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/11-2-angular-momentum",
+      "evidenceId": "db86eb0d6986251d219a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics 1 §11.2 Angular Momentum",
+      "quote": "The direction of the angular momentum vector is directed along the axis of rotation",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/11-2-angular-momentum",
+      "evidenceId": "db86eb0d6986251d219a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "Original explicitly stated axis/linear density and all options inspected; triangle chord geometry derived; parallel-axis theorem checked by direct integral with exact fractions; angular momentum dimensions checked. Removed invented distractor mechanisms.",
+    "contentHash": "5e6ac1a94cf098b9c6b63024732b3836bc99c4bbb48fcf15f281268721d10503"
+  }
+}

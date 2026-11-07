@@ -1,0 +1,21 @@
+{
+  "id": "a5e4dfdfeb3cf751ad42",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 2e, 15.1: Precipitation and Dissolution",
+  "url": "https://openstax.org/books/chemistry-2e/pages/15-1-precipitation-and-dissolution",
+  "excerpt": "This is an example of a phenomenon known as the common ion effect",
+  "sourceHash": "19db8daa08ebf4213fe3ccb04b6218285df8c749506648a970809e011330f2b9",
+  "cacheSourceId": "2aed95bb084bd51572f0",
+  "retrievedAt": "2026-11-07T03:07:12.708018+00:00",
+  "reviewedMappings": {
+    "2025-3-13:0": "용해도곱·공통이온 원리를 CaF2의 1:2 해리에 적용하여 Ksp=4s0³ 및 s(0.010+2s)²를 도출.",
+    "2025-3-13:1": "①은 계산한 포화 용해도보다 25배 커서 불일치.",
+    "2025-3-13:2": "②는 Ksp/(0.010)²=3.2e-7M. 2s/0.010이 약 0.0064%라 근사 유효.",
+    "2025-3-13:3": "③은 ②의 1/4이며 불소의 계수는 순수 물 Ksp 계산에 이미 반영됨.",
+    "2025-3-13:4": "④는 불소 농도를 제곱하지 않은 결과로 올바른 값의 1/100.",
+    "2025-3-13:5": "⑤를 평형식에 대입한 이온곱은 Ksp보다 훨씬 작아 불일치."
+  },
+  "retrievalMethod": "Direct solubility product and Common Ion Effect sections including stoichiometric exponents and ICE calculation reviewed.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

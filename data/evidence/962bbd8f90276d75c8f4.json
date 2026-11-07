@@ -1,0 +1,18 @@
+{
+  "id": "962bbd8f90276d75c8f4",
+  "kind": "science",
+  "source": "U.S. Geological Survey",
+  "ref": "Inside the Earth — This Dynamic Earth",
+  "url": "https://pubs.usgs.gov/gip/dynamic/inside.html",
+  "excerpt": "solid inner core",
+  "sourceHash": "cebb0aee740d3511d585fb27285ea6dd0f8cca2246c683cd314de4835c2b9c67",
+  "cacheSourceId": "d3744d16d927f9cfec26",
+  "retrievedAt": "2026-11-07T00:31:24.631088+00:00",
+  "reviewedMappings": {
+    "2021-3-35:0": "Official indexed excerpt reviewed: liquid outer core versus solid inner core. Direct page returned 403. No PKJKP detection claim or precise pressure used.",
+    "2021-3-35:1": "Official indexed excerpt reviewed: liquid outer core versus solid inner core. Direct page returned 403. No PKJKP detection claim or precise pressure used.",
+    "2021-3-35:4": "Official indexed excerpt reviewed: liquid outer core versus solid inner core. Direct page returned 403. No PKJKP detection claim or precise pressure used."
+  },
+  "retrievalMethod": "Official indexed excerpt reviewed: liquid outer core versus solid inner core. Direct page returned 403. No PKJKP detection claim or precise pressure used.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

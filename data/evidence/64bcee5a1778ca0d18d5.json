@@ -1,0 +1,18 @@
+{
+  "id": "64bcee5a1778ca0d18d5",
+  "kind": "science",
+  "source": "NOAA",
+  "ref": "Boundary Currents",
+  "url": "https://oceanservice.noaa.gov/education/tutorial_currents/04currents3.html",
+  "excerpt": "flanks the North Atlantic gyre",
+  "sourceHash": "76da5d4f905f271bb114176d591aab539f721add28d96c67fb4056963fcdad6a",
+  "cacheSourceId": "1518938404b0268c9bae",
+  "retrievedAt": "2026-11-07T02:08:49.137905+00:00",
+  "reviewedMappings": {
+    "2023-3-35:0": "본문의 북대서양 환류 양쪽 경계류와 반구별 주요 환류 방향을 대조했다.",
+    "2023-3-35:1": "본문의 북대서양 환류 양쪽 경계류와 반구별 주요 환류 방향을 대조했다.",
+    "2023-3-35:5": "본문의 북대서양 환류 양쪽 경계류와 반구별 주요 환류 방향을 대조했다."
+  },
+  "retrievalMethod": "Direct web open; reviewed relevant circulation sections",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

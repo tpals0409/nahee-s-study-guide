@@ -1,0 +1,20 @@
+{
+  "id": "8fff89241da9079bccc9",
+  "kind": "science",
+  "source": "US EPA",
+  "ref": "APTI SI:409 Basic Air Pollution Meteorology — Stability and Plume Behavior",
+  "url": "https://nepis.epa.gov/Exe/ZyPURL.cgi?Dockey=20011ROL.TXT",
+  "excerpt": "an inversion layer, which acts as a barrier to vertical mixing.",
+  "sourceHash": "320469673b92811b46e216bcfb4d28b759a5f048f4094f4e52ce316081325ae3",
+  "cacheSourceId": "b256b2eb4d3e80da20f2",
+  "retrievedAt": "2026-11-07T03:36:31.695227+00:00",
+  "reviewedMappings": {
+    "2025-3-38:0": "Lesson 5, pp.5-18~5-19 직접 대조: 부채형 안정, 원추형 중립 또는 약안정, 지붕형 하부 역전·상부 불안정, 훈증형 상부 역전 아래의 불안정 혼합. 원문 그래프 ①역전 ②하부불안정/상부역전 ④단열선 평행 ⑤하부역전/상부불안정을 매칭.",
+    "2025-3-38:1": "Lesson 5, pp.5-18~5-19 직접 대조: 부채형 안정, 원추형 중립 또는 약안정, 지붕형 하부 역전·상부 불안정, 훈증형 상부 역전 아래의 불안정 혼합. 원문 그래프 ①역전 ②하부불안정/상부역전 ④단열선 평행 ⑤하부역전/상부불안정을 매칭.",
+    "2025-3-38:2": "Lesson 5, pp.5-18~5-19 직접 대조: 부채형 안정, 원추형 중립 또는 약안정, 지붕형 하부 역전·상부 불안정, 훈증형 상부 역전 아래의 불안정 혼합. 원문 그래프 ①역전 ②하부불안정/상부역전 ④단열선 평행 ⑤하부역전/상부불안정을 매칭.",
+    "2025-3-38:4": "Lesson 5, pp.5-18~5-19 직접 대조: 부채형 안정, 원추형 중립 또는 약안정, 지붕형 하부 역전·상부 불안정, 훈증형 상부 역전 아래의 불안정 혼합. 원문 그래프 ①역전 ②하부불안정/상부역전 ④단열선 평행 ⑤하부역전/상부불안정을 매칭.",
+    "2025-3-38:5": "Lesson 5, pp.5-18~5-19 직접 대조: 부채형 안정, 원추형 중립 또는 약안정, 지붕형 하부 역전·상부 불안정, 훈증형 상부 역전 아래의 불안정 혼합. 원문 그래프 ①역전 ②하부불안정/상부역전 ④단열선 평행 ⑤하부역전/상부불안정을 매칭."
+  },
+  "retrievalMethod": "Direct EPA text sections read",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

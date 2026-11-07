@@ -1,0 +1,16 @@
+{
+  "id": "cb95865ddc0eee5489fd",
+  "kind": "science",
+  "source": "National Park Service",
+  "ref": "Mississippian Period",
+  "url": "https://www.nps.gov/articles/000/mississippian-period.htm",
+  "excerpt": "Indiana limestone that was deposited during the Mississippian Period",
+  "sourceHash": "1d8d7aa94cf6d562e7375a0df9a2c26cc97c7722524b2ac348f323b68f647a29",
+  "cacheSourceId": "0cd14749244baa63d42b",
+  "retrievedAt": "2026-11-07T04:19:36.241852+00:00",
+  "reviewedMappings": {
+    "2026-3-34:2": "33-40 equates Mississippian with earlier Carboniferous; coal-bed origin of Carboniferous name37; limestone deposition40."
+  },
+  "retrievalMethod": "Direct web find",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

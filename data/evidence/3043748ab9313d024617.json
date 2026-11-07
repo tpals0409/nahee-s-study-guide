@@ -1,0 +1,20 @@
+{
+  "id": "3043748ab9313d024617",
+  "kind": "science",
+  "source": "PubChem",
+  "ref": "Ionization Energy — Periodic Table",
+  "url": "https://pubchem.ncbi.nlm.nih.gov/ptable/ionization-energy/",
+  "excerpt": "21.565",
+  "sourceHash": "21d6ea45d468b1544f3f0bfb37b8ce73779cbb43e74cad18b3f278c43987036c",
+  "cacheSourceId": "78a2d737d7c87566bf9e",
+  "retrievedAt": "2026-11-07T01:44:32.590957+00:00",
+  "reviewedMappings": {
+    "2023-3-16:0": "제1이온화에너지 eV값 Na5.139<Cl12.968<Ar15.760<Ne21.565로 ㄴ참. 이 근거는 과학적 부분 판단만 지지하며 전항정답의 공식 행정사유를 증명하지 않는다.",
+    "2023-3-16:1": "제1이온화에너지 eV값 Na5.139<Cl12.968<Ar15.760<Ne21.565로 ㄴ참. 이 근거는 과학적 부분 판단만 지지하며 전항정답의 공식 행정사유를 증명하지 않는다.",
+    "2023-3-16:3": "제1이온화에너지 eV값 Na5.139<Cl12.968<Ar15.760<Ne21.565로 ㄴ참. 이 근거는 과학적 부분 판단만 지지하며 전항정답의 공식 행정사유를 증명하지 않는다.",
+    "2023-3-16:4": "제1이온화에너지 eV값 Na5.139<Cl12.968<Ar15.760<Ne21.565로 ㄴ참. 이 근거는 과학적 부분 판단만 지지하며 전항정답의 공식 행정사유를 증명하지 않는다.",
+    "2023-3-16:5": "제1이온화에너지 eV값 Na5.139<Cl12.968<Ar15.760<Ne21.565로 ㄴ참. 이 근거는 과학적 부분 판단만 지지하며 전항정답의 공식 행정사유를 증명하지 않는다."
+  },
+  "retrievalMethod": "Indexed primary-source search result table reviewed; not direct page retrieval.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

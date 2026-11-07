@@ -1,0 +1,16 @@
+{
+  "id": "6995fedf010f00ca745e",
+  "kind": "science",
+  "source": "IAVCEI",
+  "ref": "Fan et al., IAVCEI 2013 — History of Volcanic Activity, Magma Evolution and Eruptive Mechanisms of the Changbaishan Volcanic Province",
+  "url": "https://kazan.or.jp/iavcei2013/iavcei_hp/PDF/3W_3C-P27.pdf",
+  "excerpt": "trachyte cone-forming stage in the middle and late Pleistocene (1.12-0.04Ma)",
+  "sourceHash": "7b683f29436971f4b00ad0a7cf5ffff0318e9c87a3d94d467ce0684685c40ec8",
+  "cacheSourceId": "01ce320cf8b1a37334eb",
+  "retrievedAt": "2026-11-06T17:42:58.228384+00:00",
+  "reviewedMappings": {
+    "2012-3-39:0": "ㄷ 백두산 성층화산 원추체 형성 1.12–0.04Ma. 순상화산 및 역사시대 분화와 구별."
+  },
+  "retrievalMethod": "web.open; original conference abstract / institutional author abstract reviewed",
+  "sourceHashScope": "Selected abstract excerpt only; not full paper"
+}

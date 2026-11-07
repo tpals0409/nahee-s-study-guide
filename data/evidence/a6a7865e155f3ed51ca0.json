@@ -1,0 +1,16 @@
+{
+  "id": "a6a7865e155f3ed51ca0",
+  "kind": "science",
+  "source": "National Park Service",
+  "ref": "Divergent Plate Boundary—Passive Continental Margins",
+  "url": "https://www.nps.gov/subjects/geology/plate-tectonics-passive-continental-margins.htm",
+  "excerpt": "because they are far away from the current plate boundary at the Mid-Atlantic Ridge.",
+  "sourceHash": "d8ae9493c51cd45ffeb3ed5dbb23f9782aaeb8ac730872fffbc8a0d02b30602f",
+  "cacheSourceId": "2d6b1d67d8e7b4b6ece0",
+  "retrievedAt": "2026-11-06T18:23:38.841014+00:00",
+  "reviewedMappings": {
+    "2013-3-35:0": "ㄹ 열곡 기원의 수동형 대륙 연변부는 현재 해령 경계와 떨어져 있음. 본문은 활동형 연변부와 구별하고 과거 열곡층을 설명. 대륙 연변부 전체를 보존경계로 정의할 수 없음."
+  },
+  "retrievalMethod": "web.open",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

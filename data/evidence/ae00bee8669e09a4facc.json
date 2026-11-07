@@ -1,0 +1,21 @@
+{
+  "id": "ae00bee8669e09a4facc",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Anatomy and Physiology 2e 19.3 — Cardiac Cycle",
+  "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/19-3-cardiac-cycle",
+  "excerpt": "The QRS complex represents depolarization of the ventricles and is followed by ventricular contraction.",
+  "sourceHash": "104b46bcb3d30e93c7c90f388480cb0e53243864dd8d9887ba83b8de9b7ae800",
+  "cacheSourceId": "85f674ffff8b11bb7fcb",
+  "retrievedAt": "2026-11-06T17:28:25.482375+00:00",
+  "reviewedMappings": {
+    "2012-3-28:0": "원본 파형에서 (나)P, (라)QRS, (바)T 식별. 자료의 심방/심실 탈분극 후 수축 및 T 재분극 설명 대조. 수축 전체 시간과 전기파 구간 동일시는 배제하고 대응관계로 선지 판단.",
+    "2012-3-28:1": "원본 파형에서 (나)P, (라)QRS, (바)T 식별. 자료의 심방/심실 탈분극 후 수축 및 T 재분극 설명 대조. 수축 전체 시간과 전기파 구간 동일시는 배제하고 대응관계로 선지 판단.",
+    "2012-3-28:2": "원본 파형에서 (나)P, (라)QRS, (바)T 식별. 자료의 심방/심실 탈분극 후 수축 및 T 재분극 설명 대조. 수축 전체 시간과 전기파 구간 동일시는 배제하고 대응관계로 선지 판단.",
+    "2012-3-28:3": "원본 파형에서 (나)P, (라)QRS, (바)T 식별. 자료의 심방/심실 탈분극 후 수축 및 T 재분극 설명 대조. 수축 전체 시간과 전기파 구간 동일시는 배제하고 대응관계로 선지 판단.",
+    "2012-3-28:4": "원본 파형에서 (나)P, (라)QRS, (바)T 식별. 자료의 심방/심실 탈분극 후 수축 및 T 재분극 설명 대조. 수축 전체 시간과 전기파 구간 동일시는 배제하고 대응관계로 선지 판단.",
+    "2012-3-28:5": "원본 파형에서 (나)P, (라)QRS, (바)T 식별. 자료의 심방/심실 탈분극 후 수축 및 T 재분극 설명 대조. 수축 전체 시간과 전기파 구간 동일시는 배제하고 대응관계로 선지 판단."
+  },
+  "retrievalMethod": "web.open; atrial/ventricular systole and Figure 19.28 description reviewed",
+  "sourceHashScope": "Selected excerpt only; not full page"
+}

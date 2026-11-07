@@ -1,0 +1,21 @@
+{
+  "id": "f78559728dcf71562e6c",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Organic Chemistry 21.7 — Chemistry of Amides",
+  "url": "https://openstax.org/books/organic-chemistry/pages/21-7-chemistry-of-amides",
+  "excerpt": "Amides undergo hydrolysis to yield carboxylic acids plus ammonia or an amine",
+  "sourceHash": "5035c2f4d031664e945c865b0bf9333f253186b88367be80a048756031af5874",
+  "cacheSourceId": "0518838b6d45cb3a1091",
+  "retrievedAt": "2026-11-06T17:10:06.699620+00:00",
+  "reviewedMappings": {
+    "2012-3-11:0": "ㄴ: 원본 C(=O)–N 구조 직접 계수, 주사슬 두 곳과 곁사슬 한 곳. ㄷ: 세 결합 가수분해 후 서로 다른 세 아미노산 골격 확인.",
+    "2012-3-11:1": "ㄴ: 원본 C(=O)–N 구조 직접 계수, 주사슬 두 곳과 곁사슬 한 곳. ㄷ: 세 결합 가수분해 후 서로 다른 세 아미노산 골격 확인.",
+    "2012-3-11:2": "ㄴ: 원본 C(=O)–N 구조 직접 계수, 주사슬 두 곳과 곁사슬 한 곳. ㄷ: 세 결합 가수분해 후 서로 다른 세 아미노산 골격 확인.",
+    "2012-3-11:3": "ㄴ: 원본 C(=O)–N 구조 직접 계수, 주사슬 두 곳과 곁사슬 한 곳. ㄷ: 세 결합 가수분해 후 서로 다른 세 아미노산 골격 확인.",
+    "2012-3-11:4": "ㄴ: 원본 C(=O)–N 구조 직접 계수, 주사슬 두 곳과 곁사슬 한 곳. ㄷ: 세 결합 가수분해 후 서로 다른 세 아미노산 골격 확인.",
+    "2012-3-11:5": "ㄴ: 원본 C(=O)–N 구조 직접 계수, 주사슬 두 곳과 곁사슬 한 곳. ㄷ: 세 결합 가수분해 후 서로 다른 세 아미노산 골격 확인."
+  },
+  "retrievalMethod": "web.open relevant section reviewed; selected excerpt retained",
+  "sourceHashScope": "Selected excerpt only; not full page"
+}

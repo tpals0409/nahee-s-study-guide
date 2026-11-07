@@ -1,0 +1,19 @@
+{
+  "id": "ed441642de06591ac783",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e 7.4 Oxidative Phosphorylation",
+  "url": "https://openstax.org/books/biology-2e/pages/7-4-oxidative-phosphorylation",
+  "excerpt": "the electrons reduce molecular oxygen",
+  "sourceHash": "19a24e44677b2ce909009483a17f7225efa9558d3487b54bac7e5c7ed07975f1",
+  "cacheSourceId": "a44c0fc804166f568810",
+  "retrievedAt": "2026-11-06T19:39:26.355060+00:00",
+  "reviewedMappings": {
+    "2015-3-22:0": "전자전달 종말의 산소 환원과 미토콘드리아 내막의 H+ 기울기/ATP 합성효소를 확인했다. 산소 의존 경로의 ATP 생산 감소와 해당 ATP 생성 방식과의 구별에 적용한다.",
+    "2015-3-22:1": "전자전달 종말의 산소 환원과 미토콘드리아 내막의 H+ 기울기/ATP 합성효소를 확인했다. 산소 의존 경로의 ATP 생산 감소와 해당 ATP 생성 방식과의 구별에 적용한다.",
+    "2015-3-22:2": "전자전달 종말의 산소 환원과 미토콘드리아 내막의 H+ 기울기/ATP 합성효소를 확인했다. 산소 의존 경로의 ATP 생산 감소와 해당 ATP 생성 방식과의 구별에 적용한다.",
+    "2015-3-22:4": "전자전달 종말의 산소 환원과 미토콘드리아 내막의 H+ 기울기/ATP 합성효소를 확인했다. 산소 의존 경로의 ATP 생산 감소와 해당 ATP 생성 방식과의 구별에 적용한다."
+  },
+  "retrievalMethod": "Direct web page and relevant paragraphs read; selected short excerpt transcribed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "f9cd722d756d502e31b2",
+  "kind": "science",
+  "source": "Met Office",
+  "ref": "Storm surge",
+  "url": "https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/storms/storm-surge",
+  "excerpt": "by about 1 cm for every 1 millibar change in pressure.",
+  "sourceHash": "5f0c7d13e5523b73e0b3fb99d3ed276312a95c5f50e5534aa63975f7df42c2fb",
+  "cacheSourceId": "1787684a68a528529ece",
+  "retrievedAt": "2026-11-07T04:26:26.463799+00:00",
+  "reviewedMappings": {
+    "2026-3-38:4": "기압 변화 1 millibar=1 hPa당 약1cm를 적용한다. 주변1013hPa는 계산 가정이며93hPa×1cm/hPa=93cm. 전체해일높이와구분한다."
+  },
+  "retrievalMethod": "Direct web open/find",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

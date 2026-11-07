@@ -1,0 +1,85 @@
+{
+  "id": "2019-3-36",
+  "summary": "(가)는 수평으로 얇게 퍼지는 안정한 기층, (나)는 상하로 굽이치는 불안정한 기층의 전형적인 연기 모양입니다. 건조한 공기의 안정도 모형에서 ㄴ만 옳으므로 정답은 ②입니다.",
+  "choices": [
+    "① ㄱ은 틀립니다. (가)는 연직 혼합이 억제되는 안정한 기층의 부채형 연기입니다.",
+    "② ㄴ은 옳습니다. (나)를 건조한 공기의 불안정 상태로 해석하면 환경기온감률이 건조단열감률보다 큽니다. 상승한 공기가 주위보다 따뜻하게 유지되어 연직 운동이 강화됩니다.",
+    "③ ㄷ은 틀립니다. 이 대류는 지표 부근의 열을 위로 운반하므로, 열수송 자체는 지표의 가열을 완화하는 방향으로 작용합니다.",
+    "④ ㄴ은 옳지만 ㄱ은 틀립니다. 불안정한 기층의 모습은 (가)가 아니라 (나)입니다.",
+    "⑤ ㄴ은 옳지만 ㄷ은 틀립니다. 연직 대류의 열수송은 지표를 더 가열하는 과정이 아닙니다."
+  ],
+  "lawNote": "그림은 건조한 공기의 전형적인 안정도 비교로 해석합니다. 대류의 냉각 효과가 있다는 뜻이지, 일사 등 다른 열수지를 포함한 실제 지표 기온이 반드시 시간에 따라 하강한다는 뜻은 아닙니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "U.S. Environmental Protection Agency",
+      "ref": "APTI Course SI:409 Basic Air Pollution Meteorology Student Guidebook",
+      "quote": "As the air mass rises, cooler air moves underneath.",
+      "url": "https://nepis.epa.gov/Exe/ZyPURL.cgi?Dockey=20011ROL.TXT",
+      "evidenceId": "14bfdddd527d880b5aa0",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "U.S. Environmental Protection Agency",
+      "ref": "APTI Course SI:409 Basic Air Pollution Meteorology Student Guidebook",
+      "quote": "As the air mass rises, cooler air moves underneath.",
+      "url": "https://nepis.epa.gov/Exe/ZyPURL.cgi?Dockey=20011ROL.TXT",
+      "evidenceId": "14bfdddd527d880b5aa0",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "U.S. Environmental Protection Agency",
+      "ref": "APTI Course SI:409 Basic Air Pollution Meteorology Student Guidebook",
+      "quote": "As the air mass rises, cooler air moves underneath.",
+      "url": "https://nepis.epa.gov/Exe/ZyPURL.cgi?Dockey=20011ROL.TXT",
+      "evidenceId": "14bfdddd527d880b5aa0",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "U.S. Environmental Protection Agency",
+      "ref": "APTI Course SI:409 Basic Air Pollution Meteorology Student Guidebook",
+      "quote": "As the air mass rises, cooler air moves underneath.",
+      "url": "https://nepis.epa.gov/Exe/ZyPURL.cgi?Dockey=20011ROL.TXT",
+      "evidenceId": "14bfdddd527d880b5aa0",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "U.S. Environmental Protection Agency",
+      "ref": "APTI Course SI:409 Basic Air Pollution Meteorology Student Guidebook",
+      "quote": "As the air mass rises, cooler air moves underneath.",
+      "url": "https://nepis.epa.gov/Exe/ZyPURL.cgi?Dockey=20011ROL.TXT",
+      "evidenceId": "14bfdddd527d880b5aa0",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "U.S. Environmental Protection Agency",
+      "ref": "APTI Course SI:409 Basic Air Pollution Meteorology Student Guidebook",
+      "quote": "As the air mass rises, cooler air moves underneath.",
+      "url": "https://nepis.epa.gov/Exe/ZyPURL.cgi?Dockey=20011ROL.TXT",
+      "evidenceId": "14bfdddd527d880b5aa0",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "원본 도형 확인, 건조 대기 안정도·연기 형태·대류 열수송 자료 대조; 실제 기온 변화와 열수송의 기여 구분",
+    "contentHash": "fb408a036cd8dfe578f2ea59d272e47f5953f4f7991f60238c5c6c5bf48e9135"
+  }
+}

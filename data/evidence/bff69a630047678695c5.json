@@ -1,0 +1,21 @@
+{
+  "id": "bff69a630047678695c5",
+  "kind": "science",
+  "source": "NOAA",
+  "ref": "Layers of the Atmosphere",
+  "url": "https://www.noaa.gov/jetstream/atmosphere/layers-of-atmosphere",
+  "excerpt": "almost all weather occurs in this region",
+  "sourceHash": "ac982146bb9eac97fb8ffa98be39ea42e580eef5f3aff9b2acb307f4f8bb360e",
+  "cacheSourceId": "0fbc2c3d32d039228c58",
+  "retrievedAt": "2026-11-07T00:38:03.079587+00:00",
+  "reviewedMappings": {
+    "2020-3-35:0": "대류권이 일반적인 기상 현상의 주된 층임을 지지.",
+    "2020-3-35:1": "중간권 기온은 아래로 갈수록 상승하므로 위로 갈수록 감소.",
+    "2020-3-35:2": "일반적인 기상 현상은 대류권에서 발생; 중간권을 동일한 기상층으로 볼 수 없음.",
+    "2020-3-35:3": "성층권 역전 분포와 대류 억제.",
+    "2021-3-39:1": "77행 대부분의 날씨 현상이 대류권에서 발생함을 명시.",
+    "2021-3-39:2": "77행 대류권 높이의 위도별 차이 및 적도에서 높고 극에서 낮음을 명시. 고정 수치 범위는 제거."
+  },
+  "retrievalMethod": "Direct official page reviewed: troposphere paragraph 77, stratosphere 69–72, mesosphere 65–66.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

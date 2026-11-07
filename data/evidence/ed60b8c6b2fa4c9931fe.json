@@ -1,0 +1,21 @@
+{
+  "id": "ed60b8c6b2fa4c9931fe",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume 3 §6.5, equations 6.53–6.58 and Example 6.11",
+  "url": "https://openstax.org/books/university-physics-volume-3/pages/6-5-de-broglies-matter-waves",
+  "excerpt": "massless photons as well as massive particles",
+  "sourceHash": "95b675fd9d82ffbae8dad6a7bcaa85c43c93bacc29d251f299a8a2f290059dbf",
+  "cacheSourceId": "c0f872e411f5f7813200",
+  "retrievedAt": "2026-11-07T02:24:16.274497+00:00",
+  "reviewedMappings": {
+    "2024-3-10:0": "E=hf and photon λf=c imply 200 eV; λ=h/p and Eq6.58 imply electron K≈0.04 eV.",
+    "2024-3-10:1": "Both stated values contradict the supplied-wavelength energy calculation.",
+    "2024-3-10:2": "200 eV is electron pc, not electron kinetic energy; photon value also differs.",
+    "2024-3-10:3": "Electron value agrees; photon energy must be 200 eV.",
+    "2024-3-10:4": "Photon agrees; electron K is 0.04 rather than 0.02 eV.",
+    "2024-3-10:5": "Both values agree; relativistic cross-check gives 0.0399999984 eV."
+  },
+  "retrievalMethod": "Direct OpenStax page retrieval; reviewed photon frequency relation, de Broglie momentum and relativistic kinetic-energy equation, with nonrelativistic limit",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "2189380705003acf5fad",
+  "kind": "science",
+  "source": "WHO",
+  "ref": "Rabies",
+  "url": "https://www.who.int/news-room/fact-sheets/detail/rabies",
+  "excerpt": "Rabies is a vaccine-preventable, zoonotic, viral disease affecting the central nervous system.",
+  "sourceHash": "b3956e64a4cf441ab6e534a113e1f5fe26c1008c7fe895ab199e6777b7881b2b",
+  "cacheSourceId": "4adc16abab55bb8c7281",
+  "retrievedAt": "2026-11-06T22:45:26.361308+00:00",
+  "reviewedMappings": {
+    "2019-3-29:0": "Rabies의 바이러스성 병인을 확인하여 해당 선지는 정답에서 제외.",
+    "2019-3-29:2": "Rabies의 바이러스성 병인을 확인하여 해당 선지는 정답에서 제외."
+  },
+  "retrievalMethod": "Direct web find, overview at 98.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

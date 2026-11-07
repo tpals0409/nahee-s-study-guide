@@ -1,0 +1,85 @@
+{
+  "id": "2024-3-11",
+  "summary": "정답은 ①, ㄱ입니다. 질량·마찰을 무시하는 피스톤의 평형에서 내부 전체 압력은 외부 압력과 같습니다. (가)의 수증기 부분 압력은 0.4 atm이므로 수증기는 2/3 mol, 액체 물은 1/3 mol입니다. (나)는 그림에 표시된 기체 상태의 물 1 mol과 He 1 mol을 적용하면 He의 부분 압력은 0.25 atm이고, T₂/T₁=5/4입니다.",
+  "choices": [
+    "ㄱ만 고른 보기: 정답입니다. (가)에서 H2O(g)의 질량은 2/3 mol × 18 g/mol = 12 g이고, H2O(l)의 질량은 1/3 mol × 18 g/mol = 6 g입니다. 기체 질량이 액체 질량의 2배이므로 ㄱ은 옳습니다. ㄴ과 ㄷ은 틀리므로 ㄱ만 고르는 것이 맞습니다.",
+    "ㄷ은 옳지 않습니다. He는 두 상태에서 1 mol로 일정하므로 부분 압력에 대해 pHeV/T=일정입니다. T₂/T₁=(0.25×3V)/(0.6×V)=5/4이므로 5T₁=4T₂입니다. ㄷ의 4T₁=3T₂와 다릅니다.",
+    "ㄱ은 옳지만 ㄴ은 옳지 않습니다. (나)의 그림은 He(g)와 H₂O(g)만 있는 상태를 나타내므로 전체 기체는 2 mol입니다. He의 몰분율은 1/2이고 부분 압력은 (1/2)×0.5=0.25 atm입니다.",
+    "ㄴ, ㄷ을 고른 보기: 오답입니다. ㄴ은 He의 부분 압력이 0.25 atm이므로 틀리고, ㄷ은 실제 관계가 5T1 = 4T2이므로 틀립니다. 또한 옳은 진술인 ㄱ이 빠져 있습니다.",
+    "ㄱ, ㄴ, ㄷ을 고른 보기: 오답입니다. ㄱ만 옳고 ㄴ(0.25 atm)과 ㄷ(5T1 = 4T2)은 모두 틀립니다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §9.3, ideal gas law, Dalton’s law and Example 9.14",
+      "quote": "The gases behave independently",
+      "url": "https://openstax.org/books/chemistry-2e/pages/9-3-stoichiometry-of-gaseous-substances-mixtures-and-reactions",
+      "evidenceId": "e9506697938a3593bd20",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §9.3, ideal gas law, Dalton’s law and Example 9.14",
+      "quote": "The gases behave independently",
+      "url": "https://openstax.org/books/chemistry-2e/pages/9-3-stoichiometry-of-gaseous-substances-mixtures-and-reactions",
+      "evidenceId": "e9506697938a3593bd20",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §9.3, ideal gas law, Dalton’s law and Example 9.14",
+      "quote": "The gases behave independently",
+      "url": "https://openstax.org/books/chemistry-2e/pages/9-3-stoichiometry-of-gaseous-substances-mixtures-and-reactions",
+      "evidenceId": "e9506697938a3593bd20",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §9.3, ideal gas law, Dalton’s law and Example 9.14",
+      "quote": "The gases behave independently",
+      "url": "https://openstax.org/books/chemistry-2e/pages/9-3-stoichiometry-of-gaseous-substances-mixtures-and-reactions",
+      "evidenceId": "e9506697938a3593bd20",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §9.3, ideal gas law, Dalton’s law and Example 9.14",
+      "quote": "The gases behave independently",
+      "url": "https://openstax.org/books/chemistry-2e/pages/9-3-stoichiometry-of-gaseous-substances-mixtures-and-reactions",
+      "evidenceId": "e9506697938a3593bd20",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §9.3, ideal gas law, Dalton’s law and Example 9.14",
+      "quote": "The gases behave independently",
+      "url": "https://openstax.org/books/chemistry-2e/pages/9-3-stoichiometry-of-gaseous-substances-mixtures-and-reactions",
+      "evidenceId": "e9506697938a3593bd20",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Original image and phase labels inspected; direct OpenStax review; exact rational calculations cross-checked via total mixture and conserved helium",
+    "contentHash": "551794170c803cdc828409e2a9de78014e73c8cf66c130e150f7e012a61823a5"
+  }
+}

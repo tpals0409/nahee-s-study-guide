@@ -1,0 +1,23 @@
+{
+  "id": "3e6b5e01ca79068ed30f",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 2e §6.4 Electronic Structure of Atoms (Electron Configurations)",
+  "url": "https://openstax.org/books/chemistry-2e/pages/6-4-electronic-structure-of-atoms-electron-configurations",
+  "excerpt": "For transition metals, the last s orbital loses an electron before the d orbitals.",
+  "sourceHash": "040a6885246308947af0aa258171d9f70a729d66cf106c95314a95e705473aed",
+  "cacheSourceId": "5bef804b462350cd229a",
+  "retrievedAt": "2026-11-07T03:14:08.081961+00:00",
+  "reviewedMappings": {
+    "2020-3-11:0": "Mn explicitly [Ar]4s²3d⁵; Cr/Cu discussed as4s→3d exceptions giving d5s1/d10s1; Fe2+ explicitly [Ar]3d6. All statements correct.",
+    "2020-3-11:1": "Cr/Mn correct but explicit Fe2+ configuration and Cu exception also correct, so omission of ㄷㄹ invalid.",
+    "2020-3-11:2": "Cr/Fe2+ correct but Mn identification and Cu exception establish omitted ㄴㄹ.",
+    "2020-3-11:3": "Mn/Fe2+ correct but both Cr and Cu exceptions establish omitted ㄱㄹ.",
+    "2020-3-11:4": "Cu exception produces [Ar]3d10 4s1, so omitted ㄹ also correct.",
+    "2020-3-11:5": "All four configurations supported by cited examples and exception discussion; electron counts24,25,24,29 independently checked.",
+    "2025-3-17:4": "원문의 CN(-1) 여섯 개와 총전하 -3에서 x-6=-3; 중성 H2O 여섯 개와 총전하 +3에서 x=3. 교재의 양이온 전자 제거 정의와 연결.",
+    "2025-3-17:5": "Fe 중성 전자배치와 전이금속 ns 먼저 제거 규칙 대조. 4s 전자2개, 3d 전자1개 제거하여 [Ar]3d5."
+  },
+  "retrievalMethod": "Direct web page reading: relevant ligand series, specific Fe(III) spin examples and magnetic properties; ion configurations and Fe example.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

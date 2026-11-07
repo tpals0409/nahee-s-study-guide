@@ -1,0 +1,21 @@
+{
+  "id": "bd39ce641b0b5ed322a6",
+  "kind": "science",
+  "source": "Nature",
+  "ref": "The nuclear lamina is a meshwork of intermediate-type filaments",
+  "url": "https://www.nature.com/articles/323560a0",
+  "excerpt": "The nuclear lamina is a meshwork of intermediate-type filaments",
+  "sourceHash": "ab7b37eb62a93b98417a969d1bb67816d2596718253cd4ac99bdcb0fabf3f427",
+  "cacheSourceId": "af52dcb0c2bf483f0510",
+  "retrievedAt": "2026-11-06T22:01:33.307398+00:00",
+  "reviewedMappings": {
+    "2018-3-26:0": "1986 원논문 제목과 검색에 제공된 초록: 내핵막 안쪽의 lamina 망, lamins 및 intermediate-type filament 구조 관계 확인. ㄷ 참 및 각 조합의 포함·누락 판단. 전문을 읽었다고 주장하지 않음.",
+    "2018-3-26:1": "1986 원논문 제목과 검색에 제공된 초록: 내핵막 안쪽의 lamina 망, lamins 및 intermediate-type filament 구조 관계 확인. ㄷ 참 및 각 조합의 포함·누락 판단. 전문을 읽었다고 주장하지 않음.",
+    "2018-3-26:2": "1986 원논문 제목과 검색에 제공된 초록: 내핵막 안쪽의 lamina 망, lamins 및 intermediate-type filament 구조 관계 확인. ㄷ 참 및 각 조합의 포함·누락 판단. 전문을 읽었다고 주장하지 않음.",
+    "2018-3-26:3": "1986 원논문 제목과 검색에 제공된 초록: 내핵막 안쪽의 lamina 망, lamins 및 intermediate-type filament 구조 관계 확인. ㄷ 참 및 각 조합의 포함·누락 판단. 전문을 읽었다고 주장하지 않음.",
+    "2018-3-26:4": "1986 원논문 제목과 검색에 제공된 초록: 내핵막 안쪽의 lamina 망, lamins 및 intermediate-type filament 구조 관계 확인. ㄷ 참 및 각 조합의 포함·누락 판단. 전문을 읽었다고 주장하지 않음.",
+    "2018-3-26:5": "1986 원논문 제목과 검색에 제공된 초록: 내핵막 안쪽의 lamina 망, lamins 및 intermediate-type filament 구조 관계 확인. ㄷ 참 및 각 조합의 포함·누락 판단. 전문을 읽었다고 주장하지 않음."
+  },
+  "retrievalMethod": "Publisher search-indexed title and abstract reviewed; direct open failed with publisher authentication redirect",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

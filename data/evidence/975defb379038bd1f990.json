@@ -1,0 +1,17 @@
+{
+  "id": "975defb379038bd1f990",
+  "kind": "science",
+  "source": "eLife",
+  "ref": "Kramer et al. (2021), eLife 10:e56088",
+  "url": "https://elifesciences.org/articles/56088",
+  "excerpt": "FNR previously assigned as soluble is in fact membrane associated.",
+  "sourceHash": "7f1bc4059ca373d3914c510f67045b04285936c0137d6377286c6ff0be9a8b6c",
+  "cacheSourceId": "0b1b35f0f2b48e1b815e",
+  "retrievedAt": "2026-11-07T05:12:50.568497+00:00",
+  "reviewedMappings": {
+    "2020-3-26:0": "2021년 논문은 FNR 위치 논쟁 및 막 결합 관찰을 보고한다. 2020년 출제 의도를 입증하는 근거가 아니다.",
+    "2020-3-26:3": "결과118–127, Figure 1 설명130–131, 방법513–520: Arabidopsis 면역금 표지에서 막 인접 FNR을 관찰했다. 막 양쪽 10 nm 구역과 항체 위치 오차를 고려한 분석이며 촉매 반응 위치의 직접 측정은 아니다. 틸라코이드를 내강으로 한정하거나 ③을 무조건 거짓으로 설명하는 근거가 아니다."
+  },
+  "retrievalMethod": "Direct web open",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

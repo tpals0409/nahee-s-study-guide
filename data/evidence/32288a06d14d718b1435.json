@@ -1,0 +1,16 @@
+{
+  "id": "32288a06d14d718b1435",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e §10.2 The Cell Cycle",
+  "url": "https://openstax.org/books/biology-2e/pages/10-2-the-cell-cycle",
+  "excerpt": "Most of the cell cycle is spent in interphase",
+  "sourceHash": "3950f988395036d884416323038447216e133d6fff2d4f276f1fe05da73299b0",
+  "cacheSourceId": "226150f3a9bdfdce4d2f",
+  "retrievedAt": "2026-11-06T16:36:27.982326+00:00",
+  "reviewedMappings": {
+    "2011-3-23:0": "그림10.5 설명에서 간기가 대부분을 차지함을 확인(ㄱ). 본문 간기 G1/S/G2 및 유사분열 단계 구분 확인(ㄷ 거짓). 고정된 시간·비율로 일반화하지 않음."
+  },
+  "retrievalMethod": "web.run official textbook page reviewed",
+  "sourceHashScope": "Selected excerpt only; not full page"
+}

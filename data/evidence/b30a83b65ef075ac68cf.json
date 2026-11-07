@@ -1,0 +1,21 @@
+{
+  "id": "b30a83b65ef075ac68cf",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume 1, 9.2 Impulse and Collisions",
+  "url": "https://openstax.org/books/university-physics-volume-1/pages/9-2-impulse-and-collisions",
+  "excerpt": "We have defined momentum to be the product of mass and velocity.",
+  "sourceHash": "8862de55827a55705a01b5d42cc4fccf231ac8061568093830a1a5693941afc3",
+  "cacheSourceId": "bd6e773b1440d1ba53b3",
+  "retrievedAt": "2026-11-07T00:43:34.196135+00:00",
+  "reviewedMappings": {
+    "2022-3-03:0": "원본 그래프의 +x 알짜힘 적분은 5+20+5+5+20+5=60Ns. J=Δp=m(v−0),m=2kg에서 v=30m/s. 후보 속도별 요구 충격량40,60,80,120,160Ns와 비교.",
+    "2022-3-03:1": "원본 그래프의 +x 알짜힘 적분은 5+20+5+5+20+5=60Ns. J=Δp=m(v−0),m=2kg에서 v=30m/s. 후보 속도별 요구 충격량40,60,80,120,160Ns와 비교.",
+    "2022-3-03:2": "원본 그래프의 +x 알짜힘 적분은 5+20+5+5+20+5=60Ns. J=Δp=m(v−0),m=2kg에서 v=30m/s. 후보 속도별 요구 충격량40,60,80,120,160Ns와 비교.",
+    "2022-3-03:3": "원본 그래프의 +x 알짜힘 적분은 5+20+5+5+20+5=60Ns. J=Δp=m(v−0),m=2kg에서 v=30m/s. 후보 속도별 요구 충격량40,60,80,120,160Ns와 비교.",
+    "2022-3-03:4": "원본 그래프의 +x 알짜힘 적분은 5+20+5+5+20+5=60Ns. J=Δp=m(v−0),m=2kg에서 v=30m/s. 후보 속도별 요구 충격량40,60,80,120,160Ns와 비교.",
+    "2022-3-03:5": "원본 그래프의 +x 알짜힘 적분은 5+20+5+5+20+5=60Ns. J=Δp=m(v−0),m=2kg에서 v=30m/s. 후보 속도별 요구 충격량40,60,80,120,160Ns와 비교."
+  },
+  "retrievalMethod": "Direct OpenStax page opened; momentum definition and equations 9.3 and 9.6 reviewed against original force-time plot.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

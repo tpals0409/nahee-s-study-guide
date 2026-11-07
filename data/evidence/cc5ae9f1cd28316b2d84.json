@@ -1,0 +1,16 @@
+{
+  "id": "cc5ae9f1cd28316b2d84",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e, 4.3 Eukaryotic Cells",
+  "url": "https://openstax.org/books/biology-2e/pages/4-3-eukaryotic-cells",
+  "excerpt": "cell wall is cellulose",
+  "sourceHash": "68e5945a4d887a9dfe950f0224a0bcbea1f8d34fcc30bf1296c4ec86faee313d",
+  "cacheSourceId": "3480b9cc1f5fa642b1d1",
+  "retrievedAt": "2026-11-07T00:24:53.887151+00:00",
+  "reviewedMappings": {
+    "2021-3-30:4": "Cell Wall section: plant and some protistan cell walls contain cellulose."
+  },
+  "retrievalMethod": "Direct textbook page review: Cell Wall section.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

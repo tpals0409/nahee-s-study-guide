@@ -1,0 +1,16 @@
+{
+  "id": "29729ac6e494742024ed",
+  "kind": "science",
+  "source": "Nature / PubMed",
+  "ref": "A global analysis of Caenorhabditis elegans operons",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/12075352/",
+  "excerpt": "Operons are regulated multigene transcription units",
+  "sourceHash": "df971a8cc42f23f6e7d17bd2012904256bcd2fe3ab69cc3c52151ce7b55c587e",
+  "cacheSourceId": "60e73bb25c2ecbd5e189",
+  "retrievedAt": "2026-11-07T00:20:50.025593+00:00",
+  "reviewedMappings": {
+    "2021-3-27:1": "원저의 C. elegans 오페론 분석으로 진핵 오페론의 실제 존재 확인. 일반적인 원핵/진핵 비교와 생물학적 예외를 구별하여 설명."
+  },
+  "retrievalMethod": "PubMed indexed abstract search excerpt reviewed; direct page returned footer only.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

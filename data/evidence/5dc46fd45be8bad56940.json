@@ -1,0 +1,16 @@
+{
+  "id": "5dc46fd45be8bad56940",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e §18.2 Formation of New Species",
+  "url": "https://openstax.org/books/biology-2e/pages/18-2-formation-of-new-species",
+  "excerpt": "involves geographic separation of populations from a parent species and subsequent evolution.",
+  "sourceHash": "620068633887da6a40aa92010725819106db9a2446217bc2e65e75f000b4f0d1",
+  "cacheSourceId": "fe0db079712c4558df9b",
+  "retrievedAt": "2026-11-06T21:22:26.969450+00:00",
+  "reviewedMappings": {
+    "2017-3-26:3": "Speciation 및 Allopatric Speciation 절의 지리적 분리, 유전자 흐름 제한, 후속 분화와 생식적 격리 설명 확인. 지리적 분리가 언제나 즉시 종분화를 보장한다는 해석 배제."
+  },
+  "retrievalMethod": "Direct web page reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

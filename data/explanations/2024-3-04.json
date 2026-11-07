@@ -1,0 +1,85 @@
+{
+  "id": "2024-3-04",
+  "summary": "정답은 ④, 4V_H입니다. 두께를 t, 전하 운반자의 수밀도를 n, 전하량의 크기를 |q|라 하면 홀 전압의 크기는 V_H=IB/(n|q|t)입니다. 전류와 두께 등은 같고 자기장만 4배이므로 홀 전압도 4배입니다. 선폭 증가에 따른 이동 속력 감소와 측정 거리 증가는 서로 상쇄됩니다.",
+  "choices": [
+    "V_H는 옳지 않습니다. 선폭 변화의 효과는 상쇄되지만 자기장이 4배가 되므로 홀 전압은 4V_H입니다.",
+    "2V_H는 옳지 않습니다. 선폭이 2배이면 전하의 이동 속력은 절반이고 자기장이 4배이므로 홀 전기장은 2배입니다. 전압을 측정하는 거리도 2배이므로 전압은 4배입니다.",
+    "3V_H는 옳지 않습니다. 전류·재질·두께가 같은 조건에서 홀 전압은 자기장에 비례하므로 4배가 됩니다.",
+    "4V_H가 정답입니다. V_H=IB/(n|q|t)에 B′=4B를 대입하면 V_H′=4V_H입니다.",
+    "5V_H는 옳지 않습니다. 선폭과 자기장의 배율을 더하지 않고 V_H=v_dBd에 적용해야 합니다. 배율은 (1/2)×4×2=4입니다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2, 11.6 The Hall Effect",
+      "quote": "the electric force on the electrons in one direction is balanced by the magnetic force",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/11-6-the-hall-effect",
+      "evidenceId": "a770a271a7178a28edd2",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2, 11.6 The Hall Effect",
+      "quote": "the electric force on the electrons in one direction is balanced by the magnetic force",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/11-6-the-hall-effect",
+      "evidenceId": "a770a271a7178a28edd2",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2, 11.6 The Hall Effect",
+      "quote": "the electric force on the electrons in one direction is balanced by the magnetic force",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/11-6-the-hall-effect",
+      "evidenceId": "a770a271a7178a28edd2",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2, 11.6 The Hall Effect",
+      "quote": "the electric force on the electrons in one direction is balanced by the magnetic force",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/11-6-the-hall-effect",
+      "evidenceId": "a770a271a7178a28edd2",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2, 11.6 The Hall Effect",
+      "quote": "the electric force on the electrons in one direction is balanced by the magnetic force",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/11-6-the-hall-effect",
+      "evidenceId": "a770a271a7178a28edd2",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2, 11.6 The Hall Effect",
+      "quote": "the electric force on the electrons in one direction is balanced by the magnetic force",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/11-6-the-hall-effect",
+      "evidenceId": "a770a271a7178a28edd2",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Original ribbon figure inspected; Hall force-balance and current-density derivations cross-checked; direct OpenStax review",
+    "contentHash": "16bd4f54e07ecc5d3ef02589df03ff37c93b3e2977e5ab73fa83f9f4365cdd0b"
+  }
+}

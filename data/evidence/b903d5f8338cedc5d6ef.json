@@ -1,0 +1,17 @@
+{
+  "id": "b903d5f8338cedc5d6ef",
+  "kind": "science",
+  "source": "NASA",
+  "ref": "Hubble Focus: Our Amazing Solar System",
+  "url": "https://www.nasa.gov/sites/default/files/atoms/files/hubblefocusouramazingsolarsystem.pdf",
+  "excerpt": "Jupiter has the largest and most powerful magnetic field of any planet in the solar system.",
+  "sourceHash": "ea3b4b472b0f76b6957299cad1e5b493ab20998f6f68ca5acbe5ed4a2e02bcd9",
+  "cacheSourceId": "aab318b43a4fec22e16a",
+  "retrievedAt": "2026-11-07T02:56:28.402447+00:00",
+  "reviewedMappings": {
+    "2024-3-40:0": "태양계 행성 중 목성의 자기장이 최대라는 명시적 비교로 ⑤를 반박. 국소 자기장·쌍극자 모멘트의 불필요한 수치 주장은 제거.",
+    "2024-3-40:5": "태양계 행성 중 목성의 자기장이 최대라는 명시적 비교로 ⑤를 반박. 국소 자기장·쌍극자 모멘트의 불필요한 수치 주장은 제거."
+  },
+  "retrievalMethod": "Search-indexed NASA publication excerpt reviewed.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

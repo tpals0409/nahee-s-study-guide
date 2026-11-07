@@ -1,0 +1,17 @@
+{
+  "id": "ade8c004249dde2e1397",
+  "kind": "science",
+  "source": "OpenStax · Chemistry 2e",
+  "ref": "9.2 The Ideal Gas Law",
+  "url": "https://openstax.org/books/chemistry-2e/pages/9-2-relating-pressure-volume-amount-and-temperature-the-ideal-gas-law",
+  "excerpt": "PV=nRT",
+  "sourceHash": "b0ebbd315c4e80155842826c04794f827d99f03fc3ef87a7f299775ba9860020",
+  "cacheSourceId": "018db8e2ccf0c50f848f",
+  "retrievedAt": "2026-11-06T18:41:22.389037+00:00",
+  "reviewedMappings": {
+    "2010-3-16:0": "문제의 0 ℃·1 atm 조건에서 V_m≈22.4 L/mol, M≈25.98 g/mol 계산. 1 bar 기준 몰부피와 혼동하지 않음.",
+    "2014-3-12:5": "원문 이상기체식 확인. 그림의 고정부피 해석과 일정온도에서만 P비=n비=11/12. 밀폐는 고정부피와 동의어가 아님을 명시하여 초안의 무조건 압력감소 단정 제한."
+  },
+  "retrievalMethod": "web.open and web.find; direct primary-source page reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

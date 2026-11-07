@@ -1,0 +1,21 @@
+{
+  "id": "97930e152afce579a631",
+  "kind": "science",
+  "source": "Kansas State University — G. M. Wysin",
+  "ref": "Apparent and Absolute Magnitudes",
+  "url": "https://www.phys.ksu.edu/personal/wysin/astro/magnitudes.html",
+  "excerpt": "a brightness ratio of 100 is set to correspond exactly to a magnitude difference of 5.",
+  "sourceHash": "c09a05ae4f1f66cba9d8ebc46b66af19e7db3acc73ff808bc44c8f7eafc8362a",
+  "cacheSourceId": "bb434169aead844afc02",
+  "retrievedAt": "2026-11-06T20:01:06.024016+00:00",
+  "reviewedMappings": {
+    "2015-3-39:0": "본문 5–9행의 등급–밝기 로그 관계로 같은 밝기의 별 10000개를 더하면 등급이 10만큼 작아짐을 확인한다. 등급 자체를 더하지 않는다. 모든 선지에 M합=5−2.5log10(10000)=−5를 공통 적용한다.",
+    "2015-3-39:1": "본문 5–9행의 등급–밝기 로그 관계로 같은 밝기의 별 10000개를 더하면 등급이 10만큼 작아짐을 확인한다. 등급 자체를 더하지 않는다. 모든 선지에 M합=5−2.5log10(10000)=−5를 공통 적용한다.",
+    "2015-3-39:2": "본문 5–9행의 등급–밝기 로그 관계로 같은 밝기의 별 10000개를 더하면 등급이 10만큼 작아짐을 확인한다. 등급 자체를 더하지 않는다. 모든 선지에 M합=5−2.5log10(10000)=−5를 공통 적용한다.",
+    "2015-3-39:3": "본문 5–9행의 등급–밝기 로그 관계로 같은 밝기의 별 10000개를 더하면 등급이 10만큼 작아짐을 확인한다. 등급 자체를 더하지 않는다. 모든 선지에 M합=5−2.5log10(10000)=−5를 공통 적용한다.",
+    "2015-3-39:4": "본문 5–9행의 등급–밝기 로그 관계로 같은 밝기의 별 10000개를 더하면 등급이 10만큼 작아짐을 확인한다. 등급 자체를 더하지 않는다. 모든 선지에 M합=5−2.5log10(10000)=−5를 공통 적용한다.",
+    "2015-3-39:5": "본문 5–9행의 등급–밝기 로그 관계로 같은 밝기의 별 10000개를 더하면 등급이 10만큼 작아짐을 확인한다. 등급 자체를 더하지 않는다. 모든 선지에 M합=5−2.5log10(10000)=−5를 공통 적용한다."
+  },
+  "retrievalMethod": "Direct web open; magnitude relation and absolute magnitude sections reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

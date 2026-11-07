@@ -1,0 +1,18 @@
+{
+  "id": "75b75f4ddf58a19ca325",
+  "kind": "science",
+  "source": "Korea University / Journal of Structural Geology",
+  "ref": "The Geounri shear zone in the Paleozoic Taebaeksan Basin of Korea: Tectonic implications",
+  "url": "https://pure.korea.ac.kr/en/publications/the-geounri-shear-zone-in-the-paleozoic-taebaeksan-basin-of-korea/",
+  "excerpt": "the Jurassic Daebo tectonic event represents a thin-skinned contractional deformation in a continental arc setting.",
+  "sourceHash": "8b035d79a7454938eb5f3ef671f383970b6fe2b9afd42bc160c0ee8eae5aebd2",
+  "cacheSourceId": "1d75ee52e3f4bb2c370c",
+  "retrievedAt": "2026-11-06T19:52:40.944238+00:00",
+  "reviewedMappings": {
+    "2015-3-32:0": "2012년 연구 초록은 대보 지구조 사건을 쥐라기로 명시한다. ㄹ은 중생대 사건이므로 신생대 선택지에서 제외한다. 모든 관련 화강암 연대를 단일 연대로 고정하지 않는다.",
+    "2015-3-32:3": "2012년 연구 초록은 대보 지구조 사건을 쥐라기로 명시한다. ㄹ은 중생대 사건이므로 신생대 선택지에서 제외한다. 모든 관련 화강암 연대를 단일 연대로 고정하지 않는다.",
+    "2015-3-32:5": "2012년 연구 초록은 대보 지구조 사건을 쥐라기로 명시한다. ㄹ은 중생대 사건이므로 신생대 선택지에서 제외한다. 모든 관련 화강암 연대를 단일 연대로 고정하지 않는다."
+  },
+  "retrievalMethod": "Search-indexed research abstract reviewed; direct page returned Processing/unavailable",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "080541f82c31a37d6a8d",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume 2 §4.6 Entropy, equation 4.8 and Example 4.4",
+  "url": "https://openstax.org/books/university-physics-volume-2/pages/4-6-entropy",
+  "excerpt": "Entropy, like internal energy, is a state function.",
+  "sourceHash": "b781f75d187bb85852fa2385eb065305b63bc930de8cf7a72d36e51a648bbf35",
+  "cacheSourceId": "c002721933158f5c0ec1",
+  "retrievedAt": "2026-11-06T19:22:55.161498+00:00",
+  "reviewedMappings": {
+    "2011-3-06:0": "엔트로피는 상태함수. 같은 두 상태의 가역 등온 상변화 경로를 택해 ΔS=mL/T=138000/373.15≈369.8J/K. 원문 예제는 액체→기체 상변화에도 적용 가능함을 명시. 실제 히터 가열 자체가 가역이라는 주장은 하지 않음.",
+    "2014-3-04:1": "원문 식4.8의 가역 등온 ΔS=Q/T와 카르노 순환 설명을 대조. 가역 단열 변화0, 순환 상태함수 변화0으로 열량/온도 비 동등성과 고온 저장고의 음의 변화 도출. 시스템과 저장고를 구분.",
+    "2014-3-04:2": "원문 식4.8의 가역 등온 ΔS=Q/T와 카르노 순환 설명을 대조. 가역 단열 변화0, 순환 상태함수 변화0으로 열량/온도 비 동등성과 고온 저장고의 음의 변화 도출. 시스템과 저장고를 구분.",
+    "2014-3-04:3": "원문 식4.8의 가역 등온 ΔS=Q/T와 카르노 순환 설명을 대조. 가역 단열 변화0, 순환 상태함수 변화0으로 열량/온도 비 동등성과 고온 저장고의 음의 변화 도출. 시스템과 저장고를 구분.",
+    "2015-3-08:0": "Source directly states endpoint dependence and reversible integral dQ/T. Original image supplies pressure and volume ratios 3 each. Independently integrate a reversible isochoric heating plus isothermal expansion path to derive entropy; do not assume arbitrary actual heat divided by one temperature.",
+    "2015-3-08:1": "Source directly states endpoint dependence and reversible integral dQ/T. Original image supplies pressure and volume ratios 3 each. Independently integrate a reversible isochoric heating plus isothermal expansion path to derive entropy; do not assume arbitrary actual heat divided by one temperature.",
+    "2015-3-08:2": "Source directly states endpoint dependence and reversible integral dQ/T. Original image supplies pressure and volume ratios 3 each. Independently integrate a reversible isochoric heating plus isothermal expansion path to derive entropy; do not assume arbitrary actual heat divided by one temperature.",
+    "2015-3-08:3": "Source directly states endpoint dependence and reversible integral dQ/T. Original image supplies pressure and volume ratios 3 each. Independently integrate a reversible isochoric heating plus isothermal expansion path to derive entropy; do not assume arbitrary actual heat divided by one temperature.",
+    "2015-3-08:4": "Source directly states endpoint dependence and reversible integral dQ/T. Original image supplies pressure and volume ratios 3 each. Independently integrate a reversible isochoric heating plus isothermal expansion path to derive entropy; do not assume arbitrary actual heat divided by one temperature.",
+    "2015-3-08:5": "Source directly states endpoint dependence and reversible integral dQ/T. Original image supplies pressure and volume ratios 3 each. Independently integrate a reversible isochoric heating plus isothermal expansion path to derive entropy; do not assume arbitrary actual heat divided by one temperature."
+  },
+  "retrievalMethod": "Direct web.open; relevant equations and monatomic heat-capacity table inspected",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

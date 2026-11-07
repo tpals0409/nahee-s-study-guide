@@ -1,0 +1,21 @@
+{
+  "id": "38e272eb67953e0a8404",
+  "kind": "science",
+  "source": "Mesa Community College",
+  "ref": "Structural Geology Lab — Strike and Dip",
+  "url": "https://physci.mesacc.edu/Geology/Luther/GLG101IN/GLG101IN_Lab09_StructuralGeology/GLG101IN_Lab09_StructuralGeology2.html",
+  "excerpt": "the short line points toward the dip direction",
+  "sourceHash": "2daecdf930570750b5e10dbe2a03f6be1b9af3d660207ac307e71effe22d8f07",
+  "cacheSourceId": "03850e249b6254277072",
+  "retrievedAt": "2026-11-06T19:10:01.154237+00:00",
+  "reviewedMappings": {
+    "2014-3-37:0": "Original north arrow points up; short ticks on B,C,D point southeast. This establishes ㄱ independently of stored answer.",
+    "2014-3-37:1": "Original north arrow points up; short ticks on B,C,D point southeast. This establishes ㄱ independently of stored answer.",
+    "2014-3-37:2": "Original north arrow points up; short ticks on B,C,D point southeast. This establishes ㄱ independently of stored answer.",
+    "2014-3-37:3": "Original north arrow points up; short ticks on B,C,D point southeast. This establishes ㄱ independently of stored answer.",
+    "2014-3-37:4": "Original north arrow points up; short ticks on B,C,D point southeast. This establishes ㄱ independently of stored answer.",
+    "2014-3-37:5": "Original north arrow points up; short ticks on B,C,D point southeast. This establishes ㄱ independently of stored answer."
+  },
+  "retrievalMethod": "Direct web open; original geological map visually inspected and source principle applied independently.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

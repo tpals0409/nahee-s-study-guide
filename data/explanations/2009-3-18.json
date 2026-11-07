@@ -1,0 +1,74 @@
+{
+  "summary": "옳지 않은 짝은 X선 회절과 탄소 원자의 핵 스핀입니다. X선 회절은 결정 내 원자의 배열 등 구조 정보를 얻는 방법입니다. 질량분석·IR·수소 NMR·UV/가시광선 분석은 각각 분자량·작용기·수소의 화학적 환경·공액계 정보와 연결됩니다.",
+  "choices": [
+    "옳은 짝입니다. 질량분석에서 분자에 해당하는 이온을 확인하고 질량 대 전하비를 해석하면 분자량을 알 수 있습니다. 조각 이온의 피크를 분자 이온으로 혼동해서는 안 됩니다.",
+    "옳지 않은 짝이므로 정답입니다. X선 회절 무늬는 결정 내 원자의 위치와 배열을 파악하는 데 이용합니다. 탄소 원자의 핵 스핀을 알아보는 분석법으로 연결한 것은 잘못입니다.",
+    "옳은 짝입니다. 작용기마다 결합의 진동에 따른 특징적인 적외선 흡수띠가 있으므로 IR 스펙트럼으로 작용기 정보를 얻을 수 있습니다.",
+    "옳은 짝입니다. 수소 핵의 주변 전자 환경에 따라 NMR 화학적 이동이 달라지므로 수소의 화학적 환경을 추정할 수 있습니다.",
+    "옳은 짝입니다. 공액 π전자계의 전자 전이 에너지는 공액 정도에 영향을 받습니다. 따라서 UV/가시광선 흡수 파장으로 공액계에 관한 정보를 얻을 수 있습니다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax · Organic Chemistry",
+      "ref": "12.2",
+      "quote": "The most obvious information is the molecular weight of the sample",
+      "url": "https://openstax.org/books/organic-chemistry/pages/12-2-interpreting-mass-spectra",
+      "evidenceId": "23791795ba7b04a72963",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax · Chemistry: Atoms First 2e",
+      "ref": "3.1",
+      "quote": "This phenomenon of X-ray diffraction is the basis for very powerful techniques enabling the determination of molecular structure.",
+      "url": "https://openstax.org/books/chemistry-atoms-first-2e/pages/3-1-electromagnetic-energy",
+      "evidenceId": "46d1ad1e4134d2b47646",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax · Organic Chemistry",
+      "ref": "12.7",
+      "quote": "Most functional groups have characteristic IR absorption bands that don’t change much from one compound to another.",
+      "url": "https://openstax.org/books/organic-chemistry/pages/12-7-interpreting-infrared-spectra",
+      "evidenceId": "a005d8ac18bcee12b159",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax · Organic Chemistry",
+      "ref": "13.4",
+      "quote": "Table 13.3 shows the correlation of 1H chemical shift with electronic environment in more detail.",
+      "url": "https://openstax.org/books/organic-chemistry/pages/13-4-chemical-shifts-in-1h-nmr-spectroscopy",
+      "evidenceId": "18309d3116619635c286",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax · Organic Chemistry",
+      "ref": "14.8",
+      "quote": "One of the most important factors affecting the wavelength of UV absorption by a molecule is the extent of conjugation.",
+      "url": "https://openstax.org/books/organic-chemistry/pages/14-8-interpreting-ultraviolet-spectra-the-effect-of-conjugation",
+      "evidenceId": "9a49ad9e9ae788d29348",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "MS분자량12.2, XRD원자위치ChemAtomsFirst3.1, IR작용기12.7,1HNMR화학환경13.4,UV공액14.8원문대조. MS는분자이온확인조건, XRD는핵스핀측정아님. 초안의탄소13만스핀존재단정·자연존재비·불필요IR수치삭제.",
+    "contentHash": "6e7b36ea40426f12e0373de9f6fcc256d1d1ca9e9b69fe8fecd2e59ee6072b97"
+  }
+}

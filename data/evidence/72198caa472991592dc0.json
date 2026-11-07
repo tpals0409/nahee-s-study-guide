@@ -1,0 +1,16 @@
+{
+  "id": "72198caa472991592dc0",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics 3 §8.2 — Zeeman effect",
+  "url": "https://openstax.org/books/university-physics-volume-3/pages/8-2-orbital-magnetic-dipole-moment-of-the-electron",
+  "excerpt": "The Zeeman effect refers to the splitting of spectral lines by an external magnetic field.",
+  "sourceHash": "e5e4097dbdade6ac2f328b1b0e7871d8c27f7477fd733779f80e2040039b643b",
+  "cacheSourceId": "5534bdb3fa4cb2cf5f88",
+  "retrievedAt": "2026-11-06T19:12:22.125661+00:00",
+  "reviewedMappings": {
+    "2014-3-39:3": "Source supports magnetic splitting, not motion-induced common wavelength shift. Excluded erroneous figure text assigning n=2,l=2; no claim every Zeeman pattern has exactly three components."
+  },
+  "retrievalMethod": "Direct web open; relevant section reviewed and original question image inspected.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

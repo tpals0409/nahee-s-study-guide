@@ -1,0 +1,16 @@
+{
+  "id": "62d1ff1b99a46995c964",
+  "kind": "science",
+  "source": "QIAGEN",
+  "ref": "Analysis of DNA by Southern blotting",
+  "url": "https://www.qiagen.com/us/knowledge-and-support/knowledge-hub/bench-guide/dna/analysing-dna/analysis-of-dna-by-southern-blotting",
+  "excerpt": "Double-stranded DNA must be denatured in order to create suitable hybridization targets.",
+  "sourceHash": "2440718d32ec9d4403673eede1135bec8de1b0c9be4cfa8bca1ee26363e7f408",
+  "cacheSourceId": "814c40bd0529436f144a",
+  "retrievedAt": "2026-11-06T16:44:28.560801+00:00",
+  "reviewedMappings": {
+    "2011-3-30:0": "공식 bench guide 도입의 제한절단→겔분리→막전이→표지탐침 혼성화→autoradiography와 Denaturation/transfer/fixing 절 순서 확인. 문항의 가다나마라에 각각 매핑하고 5개 순열의 앞뒤 관계 대조. 여기서 제시한 방사성 탐침 서던블롯 방식에 한정."
+  },
+  "retrievalMethod": "web.run QIAGEN official bench guide reviewed",
+  "sourceHashScope": "Selected excerpt only; not full page"
+}

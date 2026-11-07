@@ -1,0 +1,19 @@
+{
+  "id": "5d8ff526902f9aada142",
+  "kind": "science",
+  "source": "Purdue University",
+  "ref": "Purdue University Chemistry, Alcohols and Ethers: Phenols",
+  "url": "https://chemed.chem.purdue.edu/genchem/topicreview/bp/2organic/alcohols.html",
+  "excerpt": "Another class of alcohols are the phenols",
+  "sourceHash": "43f6c58f3dc2c13b256f224ea286955b2d7877507e969b6306118ebacb9a6bcf",
+  "cacheSourceId": "ae207b76208ef1dff6bf",
+  "retrievedAt": "2026-11-07T06:16:06.045186+00:00",
+  "reviewedMappings": {
+    "2011-3-12:0": "Direct primary teaching material uses alcohol broadly for phenols, despite narrow saturated-carbon definition earlier on same page. Evidence of terminology variation only; not proof that Korean exam adopted this page or this convention.",
+    "2011-3-12:1": "Direct primary teaching material uses alcohol broadly for phenols, despite narrow saturated-carbon definition earlier on same page. Evidence of terminology variation only; not proof that Korean exam adopted this page or this convention.",
+    "2011-3-12:3": "Direct primary teaching material uses alcohol broadly for phenols, despite narrow saturated-carbon definition earlier on same page. Evidence of terminology variation only; not proof that Korean exam adopted this page or this convention.",
+    "2011-3-12:5": "Direct primary teaching material uses alcohol broadly for phenols, despite narrow saturated-carbon definition earlier on same page. Evidence of terminology variation only; not proof that Korean exam adopted this page or this convention."
+  },
+  "retrievalMethod": "web direct university teaching page",
+  "sourceHashScope": "Short reviewed excerpt only"
+}

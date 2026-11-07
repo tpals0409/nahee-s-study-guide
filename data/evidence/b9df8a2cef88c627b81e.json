@@ -1,0 +1,14 @@
+{
+  "id": "b9df8a2cef88c627b81e",
+  "kind": "science",
+  "source": "OpenStax · Organic Chemistry",
+  "ref": "3.2",
+  "url": "https://openstax.org/books/organic-chemistry/pages/3-2-alkanes-and-alkane-isomers",
+  "excerpt": "constitutional isomers are always different compounds with different properties but with the same formula.",
+  "sourceHash": "b11bc538d8d197ea7fea4774edaf8b4d97ba938edc24f0101112022a3b60959e",
+  "cacheSourceId": "326a2b6a07aceec83ff0",
+  "retrievedAt": "2026-11-06T14:50:06.038763+00:00",
+  "reviewedMappings": {
+    "2009-3-15:0": "C4H9Cl:1-chlorobutane,2-chlorobutane,1-chloro-2-methylpropane,2-chloro-2-methylpropane로4. C4H10O:butan-1-ol,butan-2-ol,2-methylpropan-1-ol,2-methylpropan-2-ol,methoxypropane,2-methoxypropane,ethoxyethane로7. C5H12:pentane,2-methylbutane,2,2-dimethylpropane로3. 포화 비고리 구조를 탄소골격과 결합 위치별로 완전 열거; 거울상은 별도 세지 않음."
+  }
+}

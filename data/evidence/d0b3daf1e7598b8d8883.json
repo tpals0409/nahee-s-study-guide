@@ -1,0 +1,16 @@
+{
+  "id": "d0b3daf1e7598b8d8883",
+  "kind": "science",
+  "source": "고성군",
+  "ref": "2017 군정백서: 제2편 분야별 성과와 전망",
+  "url": "https://www.goseong.go.kr/uploadFile/pdf/gunjung_2017.pdf",
+  "excerpt": "중생대 백악기시대에 살았던 공룡의 발자국 화석",
+  "sourceHash": "77122b5a19085271084b73e13194fb46a107444aacfb1bbb9d1526053f6ec152",
+  "cacheSourceId": "84797b088955b3302660",
+  "retrievedAt": "2026-11-06T23:37:26.334317+00:00",
+  "reviewedMappings": {
+    "2020-3-34:2": "덕명리 공룡 발자국의 중생대 백악기 산출을 공식 군정백서 발췌로 확인."
+  },
+  "retrievalMethod": "Official PDF search-result excerpt reviewed (2017 county report, Sangjogam/Deokmyeong-ri paragraph); direct PDF open timed out, full document not reviewed.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

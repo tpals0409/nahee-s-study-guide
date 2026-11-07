@@ -1,0 +1,86 @@
+{
+  "id": "2017-3-12",
+  "summary": "헤스의 법칙으로 A(g)의 표준 생성 엔탈피는 +50 kJ/mol, B(g)의 표준 연소 엔탈피는 -1390 kJ/mol로 계산되어 ㄱ과 ㄴ은 옳습니다. 기체 몰수가 2 mol에서 1 mol로 줄어들므로(Δn = -1) q_V = q_P + RT가 되어 q_P < q_V입니다. 따라서 ㄷ은 틀리며, 정답은 'ㄱ, ㄴ'입니다.",
+  "choices": [
+    "'ㄱ'만 고른 보기: ㄱ은 옳습니다. 그러나 ㄴ도 옳으므로(B의 표준 연소 엔탈피 -1390 kJ/mol) 옳은 것을 모두 고르지 못한 오답입니다.",
+    "'ㄷ'만 고른 보기: ㄷ은 틀린 진술입니다. Δn(gas) = -1이므로 q_V = ΔU = ΔH - ΔnRT = -110 + 2.48 ≈ -107.5 kJ이고, q_P = -110 kJ이므로 q_P < q_V입니다. 또한 옳은 진술인 ㄱ과 ㄴ을 빠뜨렸으므로 오답입니다.",
+    "'ㄱ, ㄴ'을 고른 보기: ㄱ에서 -110 = (-10) - 2x를 풀면 x = +50 kJ/mol입니다. ㄴ에서 B → 2A(+110 kJ)와 2A의 연소(2 × -750 = -1500 kJ)를 더하면 -1390 kJ/mol입니다. ㄷ은 q_P < q_V이므로 틀립니다. 따라서 정답입니다.",
+    "'ㄴ, ㄷ'을 고른 보기: ㄴ은 옳지만 ㄷ은 틀립니다(q_P < q_V). 또한 옳은 진술인 ㄱ을 빠뜨렸으므로 오답입니다.",
+    "'ㄱ, ㄴ, ㄷ'을 고른 보기: ㄱ과 ㄴ은 옳지만, 기체 몰수가 감소하는 반응에서는 q_P = q_V - RT < q_V이므로 ㄷ이 틀립니다. 따라서 오답입니다."
+  ],
+  "lawNote": "열 q는 계가 흡수하면 양수, 방출하면 음수입니다. 여기서는 q_P<q_V이지만 방출 열량의 크기는 |q_P|>|q_V|입니다. q_P=ΔH와 q_V=ΔU는 압력·부피 일 이외의 일이 없는 통상적인 열화학 조건에서 적용합니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "5.3 Enthalpy",
+      "quote": "Hess’s law is valid because enthalpy is a state function",
+      "url": "https://openstax.org/books/chemistry-2e/pages/5-3-enthalpy",
+      "evidenceId": "9665009a211f5f5fb3c1",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "5.3 Enthalpy",
+      "quote": "Hess’s law is valid because enthalpy is a state function",
+      "url": "https://openstax.org/books/chemistry-2e/pages/5-3-enthalpy",
+      "evidenceId": "9665009a211f5f5fb3c1",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "5.3 Enthalpy",
+      "quote": "Hess’s law is valid because enthalpy is a state function",
+      "url": "https://openstax.org/books/chemistry-2e/pages/5-3-enthalpy",
+      "evidenceId": "9665009a211f5f5fb3c1",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "5.3 Enthalpy",
+      "quote": "Hess’s law is valid because enthalpy is a state function",
+      "url": "https://openstax.org/books/chemistry-2e/pages/5-3-enthalpy",
+      "evidenceId": "9665009a211f5f5fb3c1",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "5.3 Enthalpy",
+      "quote": "Hess’s law is valid because enthalpy is a state function",
+      "url": "https://openstax.org/books/chemistry-2e/pages/5-3-enthalpy",
+      "evidenceId": "9665009a211f5f5fb3c1",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "5.3 Enthalpy",
+      "quote": "Hess’s law is valid because enthalpy is a state function",
+      "url": "https://openstax.org/books/chemistry-2e/pages/5-3-enthalpy",
+      "evidenceId": "9665009a211f5f5fb3c1",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "Original numerical table inspected; formation and combustion Hess cycles independently derived; constant-pressure/volume heat sign checked with exact arithmetic; primary textbook formulas reviewed.",
+    "contentHash": "df6198d2a0827a423758890bd2c6e8fb2de580f55dc19d0fb2d5c0feacac7317"
+  }
+}

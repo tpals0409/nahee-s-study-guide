@@ -1,0 +1,16 @@
+{
+  "id": "35fddf4d18d51d724e36",
+  "kind": "science",
+  "source": "National Center for Seismology · Government of India",
+  "ref": "Seismology Glossary",
+  "url": "https://seismo.gov.in/node/433",
+  "excerpt": "a precipitous fall of the compressional wave velocity",
+  "sourceHash": "38521da21ad1331225ef7485f38256bcbe8b42a9edeb6ce77d015bbc092699d4",
+  "cacheSourceId": "17156423d764c7ab8ead",
+  "retrievedAt": "2026-11-06T15:53:54.412936+00:00",
+  "reviewedMappings": {
+    "2010-3-31:0": "Core 항목에서 핵·맨틀 경계의 압축파 속도 급감과 전단파 전달 중단 확인. ㄷ 반증. 불필요한 정밀 속도·깊이·저속도층 수치는 삭제."
+  },
+  "retrievalMethod": "web.open: Elastic wave, Focus (Hypocentre), Core entries read",
+  "sourceHashScope": "Selected excerpts only, not full glossary"
+}

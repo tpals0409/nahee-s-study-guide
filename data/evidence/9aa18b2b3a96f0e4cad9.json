@@ -1,0 +1,21 @@
+{
+  "id": "9aa18b2b3a96f0e4cad9",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "6.2 Friction",
+  "url": "https://openstax.org/books/university-physics-volume-1/pages/6-2-friction",
+  "excerpt": "Friction is a force that opposes relative motion between systems in contact.",
+  "sourceHash": "1b3e188c6ce2d235c0f0875132ab3412511fa0ec223dfc0832a7aa67c58e72b2",
+  "cacheSourceId": "06f22321f81524c051a7",
+  "retrievedAt": "2026-11-06T20:55:56.739399+00:00",
+  "reviewedMappings": {
+    "2017-3-04:0": "본문 36–41행 운동마찰 방향 및 67–69행 f_k=μ_k N 확인. 그림에서 A가 아래로 움직일 때 마찰은 위쪽이며, 등속 조건에 필요한 3mg를 각 μ의 마찰력과 비교한다.",
+    "2017-3-04:1": "본문 36–41행 운동마찰 방향 및 67–69행 f_k=μ_k N 확인. 그림에서 A가 아래로 움직일 때 마찰은 위쪽이며, 등속 조건에 필요한 3mg를 각 μ의 마찰력과 비교한다.",
+    "2017-3-04:2": "본문 36–41행 운동마찰 방향 및 67–69행 f_k=μ_k N 확인. 그림에서 A가 아래로 움직일 때 마찰은 위쪽이며, 등속 조건에 필요한 3mg를 각 μ의 마찰력과 비교한다.",
+    "2017-3-04:3": "본문 36–41행 운동마찰 방향 및 67–69행 f_k=μ_k N 확인. 그림에서 A가 아래로 움직일 때 마찰은 위쪽이며, 등속 조건에 필요한 3mg를 각 μ의 마찰력과 비교한다.",
+    "2017-3-04:4": "본문 36–41행 운동마찰 방향 및 67–69행 f_k=μ_k N 확인. 그림에서 A가 아래로 움직일 때 마찰은 위쪽이며, 등속 조건에 필요한 3mg를 각 μ의 마찰력과 비교한다.",
+    "2017-3-04:5": "본문 36–41행 운동마찰 방향 및 67–69행 f_k=μ_k N 확인. 그림에서 A가 아래로 움직일 때 마찰은 위쪽이며, 등속 조건에 필요한 3mg를 각 μ의 마찰력과 비교한다."
+  },
+  "retrievalMethod": "Direct web page opened; force components, tension and friction equations reviewed.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

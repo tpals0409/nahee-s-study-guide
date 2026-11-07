@@ -1,0 +1,85 @@
+{
+  "id": "2018-3-25",
+  "summary": "A는 담즙에 의한 지방 유화, B는 리페이스에 의한 분해입니다. 그림의 두 과정은 소장 내강에서 일어나므로 위에서 일어난다는 ②가 틀립니다. C에서는 흡수된 모노글리세리드와 지방산이 트리글리세리드로 재합성되고, D에서는 단백질을 포함하는 유미입자가 형성됩니다. 유미입자는 소장 상피세포를 나와 암죽관으로 들어갑니다.",
+  "choices": [
+    "옳습니다. A는 지방덩어리가 작은 지방입자로 유화되는 과정이며 담즙산염이 작용합니다.",
+    "옳지 않아 정답입니다. 그림의 담즙에 의한 유화와 이자 리페이스에 의한 분해는 소장에서 일어납니다. 위에서도 일부 지방 소화는 가능하지만 그림의 A·B를 위의 과정으로 볼 수는 없습니다.",
+    "옳습니다. C는 소장 상피세포에 들어온 모노글리세리드와 지방산이 다시 트리글리세리드를 형성하는 과정입니다.",
+    "옳습니다. D에서 만들어지는 유미입자는 지질뿐 아니라 단백질도 포함하는 지질단백질 입자입니다.",
+    "옳습니다. 유미입자는 상피세포에서 방출된 뒤 융털의 암죽관으로 들어가 림프계를 통해 운반됩니다."
+  ],
+  "lawNote": "그림은 유미입자로 포장되어 운반되는 지방 흡수 경로입니다. 모든 지방산이 반드시 이 경로를 따르는 것은 아니며 짧은 사슬 지방산 등은 다른 경로로 흡수될 수 있습니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Anatomy and Physiology 2e §23.7 — Lipid Digestion and Absorption",
+      "quote": "The free fatty acids and monoacylglycerides that enter the epithelial cells are reincorporated into triglycerides.",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/23-7-chemical-digestion-and-absorption-a-closer-look",
+      "evidenceId": "c1a945c9f8976eaafb08",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Anatomy and Physiology 2e §23.7 — Lipid Digestion and Absorption",
+      "quote": "The free fatty acids and monoacylglycerides that enter the epithelial cells are reincorporated into triglycerides.",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/23-7-chemical-digestion-and-absorption-a-closer-look",
+      "evidenceId": "c1a945c9f8976eaafb08",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Anatomy and Physiology 2e §23.7 — Lipid Digestion and Absorption",
+      "quote": "The free fatty acids and monoacylglycerides that enter the epithelial cells are reincorporated into triglycerides.",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/23-7-chemical-digestion-and-absorption-a-closer-look",
+      "evidenceId": "c1a945c9f8976eaafb08",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Anatomy and Physiology 2e §23.7 — Lipid Digestion and Absorption",
+      "quote": "The free fatty acids and monoacylglycerides that enter the epithelial cells are reincorporated into triglycerides.",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/23-7-chemical-digestion-and-absorption-a-closer-look",
+      "evidenceId": "c1a945c9f8976eaafb08",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Anatomy and Physiology 2e §23.7 — Lipid Digestion and Absorption",
+      "quote": "The free fatty acids and monoacylglycerides that enter the epithelial cells are reincorporated into triglycerides.",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/23-7-chemical-digestion-and-absorption-a-closer-look",
+      "evidenceId": "c1a945c9f8976eaafb08",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Anatomy and Physiology 2e §23.7 — Lipid Digestion and Absorption",
+      "quote": "The free fatty acids and monoacylglycerides that enter the epithelial cells are reincorporated into triglycerides.",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/23-7-chemical-digestion-and-absorption-a-closer-look",
+      "evidenceId": "c1a945c9f8976eaafb08",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Original diagram inspected; direct primary textbook sections reviewed; choice-specific mapping and scope clarification",
+    "contentHash": "4c57111e54edeecdfbf8f4fdc93005ba631c8a07ec7efa6ea3d3fcbd401ca956"
+  }
+}

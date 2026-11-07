@@ -1,0 +1,20 @@
+{
+  "id": "2f823ee541bd6f61f95b",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e, 16.2 Prokaryotic Gene Regulation",
+  "url": "https://openstax.org/books/biology-2e/pages/16-2-prokaryotic-gene-regulation",
+  "excerpt": "CAP binding stabilizes the binding of RNA polymerase",
+  "sourceHash": "00b725d8322f8d5ee84091f19451d175e68c5b7da7352a6ebe0e0b4ad0930261",
+  "cacheSourceId": "0c96aa163ff1e603d9e7",
+  "retrievedAt": "2026-11-07T01:58:26.163163+00:00",
+  "reviewedMappings": {
+    "2023-3-27:0": "② CAP-cAMP는 활성인자 복합체. ① trp의 억제 해제와 양성 조절은 구분. ④ 유도자는 lac 억제자의 작동자 결합을 약화. ⑤ Trp는 공동억제자.",
+    "2023-3-27:1": "② CAP-cAMP는 활성인자 복합체. ① trp의 억제 해제와 양성 조절은 구분. ④ 유도자는 lac 억제자의 작동자 결합을 약화. ⑤ Trp는 공동억제자.",
+    "2023-3-27:2": "② CAP-cAMP는 활성인자 복합체. ① trp의 억제 해제와 양성 조절은 구분. ④ 유도자는 lac 억제자의 작동자 결합을 약화. ⑤ Trp는 공동억제자.",
+    "2023-3-27:4": "② CAP-cAMP는 활성인자 복합체. ① trp의 억제 해제와 양성 조절은 구분. ④ 유도자는 lac 억제자의 작동자 결합을 약화. ⑤ Trp는 공동억제자.",
+    "2023-3-27:5": "② CAP-cAMP는 활성인자 복합체. ① trp의 억제 해제와 양성 조절은 구분. ④ 유도자는 lac 억제자의 작동자 결합을 약화. ⑤ Trp는 공동억제자."
+  },
+  "retrievalMethod": "직접 열람: trp 억제자·Trp 결합, CAP-cAMP 활성화, allolactose-lac 억제자 절.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

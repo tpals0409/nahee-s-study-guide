@@ -1,0 +1,17 @@
+{
+  "id": "f5f39829102060d0cc68",
+  "kind": "science",
+  "source": "U.S. Geological Survey (USGS)",
+  "ref": "Geology of Hawaii reefs",
+  "url": "https://www.usgs.gov/publications/geology-hawaii-reefs",
+  "excerpt": "The Hawaii hot spot lies in the mantle under, or just to the south of, the Big Island of Hawaii.",
+  "sourceHash": "6338972ac0bce4fc10d5844def8a80cf86838b0489096c68079296dbd04dc622",
+  "cacheSourceId": "73a4e49f5688c052a384",
+  "retrievedAt": "2026-11-06T22:10:34.801085+00:00",
+  "reviewedMappings": {
+    "2018-3-33:0": "원본 지도 A동아프리카 B히말라야 C하와이 D산안드레아스 E아이슬란드로 판독. 각 출처 해당 지점 원리를 종합하여 ④만 거짓. 짧은 발췌만이 아니라 검색에 제공된 관련 본문과 원본 지도 판독을 함께 적용.",
+    "2018-3-33:3": "C는 태평양판 내부의 하와이 열점 화산활동으로 옳음. 짧은 발췌만이 아니라 검색에 제공된 관련 본문과 원본 지도 판독을 함께 적용."
+  },
+  "retrievalMethod": "USGS publication search-indexed abstract reviewed, including centrally located Pacific Plate hotspot and active volcanoes; full chapter not accessed.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

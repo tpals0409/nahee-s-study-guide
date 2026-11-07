@@ -1,0 +1,20 @@
+{
+  "id": "cd4d0d10db67cde9a39c",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Astronomy 2e — 17.2 Colors of Stars",
+  "url": "https://openstax.org/books/astronomy-2e/pages/17-2-colors-of-stars",
+  "excerpt": "the B–V index is always the “bluer” minus the “redder” color.",
+  "sourceHash": "8802e4c8df9bcaea0da83ac77e4e11a7916fe49b7825c2def067f507e770a622",
+  "cacheSourceId": "bd52ad38603836ca7386",
+  "retrievedAt": "2026-11-06T19:59:57.553492+00:00",
+  "reviewedMappings": {
+    "2015-3-38:0": "본문 34–35행과 55–58행에서 색–온도 관계, B−V 등급 차의 정의, 차가운 붉은 별일수록 더 큰 색지수를 확인했다. 문제의 표면 방출 스펙트럼 비교에서는 A가 더 저온이므로 색지수가 더 크다. 두 별 이름의 B와 청색 필터 등급 B를 구별하며 성간 소광을 따로 가정하지 않는다.",
+    "2015-3-38:2": "본문 34–35행과 55–58행에서 색–온도 관계, B−V 등급 차의 정의, 차가운 붉은 별일수록 더 큰 색지수를 확인했다. 문제의 표면 방출 스펙트럼 비교에서는 A가 더 저온이므로 색지수가 더 크다. 두 별 이름의 B와 청색 필터 등급 B를 구별하며 성간 소광을 따로 가정하지 않는다.",
+    "2015-3-38:3": "본문 34–35행과 55–58행에서 색–온도 관계, B−V 등급 차의 정의, 차가운 붉은 별일수록 더 큰 색지수를 확인했다. 문제의 표면 방출 스펙트럼 비교에서는 A가 더 저온이므로 색지수가 더 크다. 두 별 이름의 B와 청색 필터 등급 B를 구별하며 성간 소광을 따로 가정하지 않는다.",
+    "2015-3-38:4": "본문 34–35행과 55–58행에서 색–온도 관계, B−V 등급 차의 정의, 차가운 붉은 별일수록 더 큰 색지수를 확인했다. 문제의 표면 방출 스펙트럼 비교에서는 A가 더 저온이므로 색지수가 더 크다. 두 별 이름의 B와 청색 필터 등급 B를 구별하며 성간 소광을 따로 가정하지 않는다.",
+    "2015-3-38:5": "본문 34–35행과 55–58행에서 색–온도 관계, B−V 등급 차의 정의, 차가운 붉은 별일수록 더 큰 색지수를 확인했다. 문제의 표면 방출 스펙트럼 비교에서는 A가 더 저온이므로 색지수가 더 크다. 두 별 이름의 B와 청색 필터 등급 B를 구별하며 성간 소광을 따로 가정하지 않는다."
+  },
+  "retrievalMethod": "Direct web open; relevant textbook sections reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "f26cfc0d2ee9a3edf958",
+  "kind": "science",
+  "source": "British Geological Survey",
+  "ref": "British Geological Survey — Basalt",
+  "url": "https://webapps.bgs.ac.uk/bgsrcs/rcs_details.cfm?code=BA",
+  "excerpt": "if wt% SiO2 is less than 52% the rock is basalt.",
+  "sourceHash": "a10b0480db160ff29450b6a0dcf85980f9fa6b8142677400c24ab5dfbd93e35b",
+  "cacheSourceId": "491ad4d30666cae85f72",
+  "retrievedAt": "2026-11-06T17:33:25.910990+00:00",
+  "reviewedMappings": {
+    "2012-3-33:1": "현무암 SiO₂ 분류는 68% 이상이라는 선지를 배제한다."
+  },
+  "retrievalMethod": "web.open; relevant section reviewed; subscript/degree markup normalized where applicable",
+  "sourceHashScope": "Selected excerpt only; not full page"
+}

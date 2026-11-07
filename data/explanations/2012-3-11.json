@@ -1,0 +1,52 @@
+{
+  "summary": "구조는 라이신–페닐알라닌–아스파라진으로 된 펩타이드입니다. 카이랄 중심은 세 α-탄소에 하나씩 있어 ㄱ은 옳습니다. 아마이드 결합은 주사슬 2개와 곁사슬 1개로 총 3개이므로 ㄴ은 틀립니다. 완전 가수분해로 서로 다른 세 종류의 아미노산이 생겨 ㄷ은 옳습니다. 정답은 ③, ㄱ·ㄷ입니다.",
+  "choices": [
+    "ㄱ은 옳지만 ㄷ도 옳으므로 불완전한 조합입니다. 세 잔기는 가수분해 후에도 서로 다른 아미노산 골격을 이룹니다.",
+    "ㄴ을 포함하여 틀립니다. 주사슬의 –C(=O)–NH– 두 곳 외에 오른쪽 곁사슬의 –C(=O)–NH₂도 아마이드입니다.",
+    "ㄱ·ㄷ이 옳습니다. 각 α-CH의 네 치환기가 서로 달라 카이랄 중심은 3개이고, 완전 산 가수분해하면 라이신·페닐알라닌·아스파트산의 세 종류가 생성됩니다.",
+    "ㄴ은 틀립니다. 펩타이드 결합은 2개지만, 분자 전체의 아마이드 결합은 3개입니다.",
+    "ㄷ은 옳지만 ㄴ은 틀리고 ㄱ이 빠졌습니다. 곁사슬의 CH₂와 평면형 탄소들에는 추가 카이랄 중심이 없습니다."
+  ],
+  "lawNote": "아스파라진의 곁사슬 아마이드까지 가수분해하면 아스파트산과 암모니아계 생성물이 생깁니다. 펩타이드 결합만 절단할 때의 아스파라진과 구별해야 하며, 어느 경우에도 아미노산 종류는 3개입니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Organic Chemistry 26.1 — Structures of Amino Acids",
+      "quote": "the α carbons of amino acids are chirality centers.",
+      "url": "https://openstax.org/books/organic-chemistry/pages/26-1-structures-of-amino-acids",
+      "evidenceId": "8150574b83862a864252",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Organic Chemistry 21.7 — Chemistry of Amides",
+      "quote": "Amides undergo hydrolysis to yield carboxylic acids plus ammonia or an amine",
+      "url": "https://openstax.org/books/organic-chemistry/pages/21-7-chemistry-of-amides",
+      "evidenceId": "f78559728dcf71562e6c",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "Texas A&M University Protein Chemistry Laboratory",
+      "ref": "Amino Acid Analysis — Notes and Amino Acid Codes",
+      "quote": "When Asparagine and Glutamine are hydrolyzed, they are deamidated to the respective acids",
+      "url": "https://pcl.tamu.edu/n-amino-acid-analysis/",
+      "evidenceId": "14d6083f672b0634ffca",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "원본 2012-3-11_1.webp에 포함된 전체 구조·보기·선지 시각 확인. 세 α-CH와 세 C(=O)–N 직접 계수. OpenStax 구조·아마이드 절 및 Texas A&M 가수분해 설명 대조. 생성 아미노산 골격 독립 확인, 저장 정답③ 일치.",
+    "contentHash": "5019e5c68a7f3632bc0b0d19990e7885367f8c9682a91e33d661b77550581cd5"
+  }
+}

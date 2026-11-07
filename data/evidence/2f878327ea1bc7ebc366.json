@@ -1,0 +1,21 @@
+{
+  "id": "2f878327ea1bc7ebc366",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume 2, 10.2 Resistors in Series and Parallel",
+  "url": "https://openstax.org/books/university-physics-volume-2/pages/10-2-resistors-in-series-and-parallel",
+  "excerpt": "the current is the same in each resistor.",
+  "sourceHash": "c8f4dd380dbb316c5869ee346710c55f2a65a50d6bb9f4a45c2d23c7bdd994d5",
+  "cacheSourceId": "75c22b90d13cd6c1395b",
+  "retrievedAt": "2026-11-07T03:43:54.142984+00:00",
+  "reviewedMappings": {
+    "2026-3-04:0": "With the capacitor branch open, the left 1+4 ohm and right 8+2 ohm series branches each span 10 V. Currents are 2 and 1 A, intermediate potentials 8 and 2 V, difference 6 V. Thus for C=1 microfarad only 6 microcoulombs is consistent.",
+    "2026-3-04:1": "With the capacitor branch open, the left 1+4 ohm and right 8+2 ohm series branches each span 10 V. Currents are 2 and 1 A, intermediate potentials 8 and 2 V, difference 6 V. Thus for C=1 microfarad only 6 microcoulombs is consistent.",
+    "2026-3-04:2": "With the capacitor branch open, the left 1+4 ohm and right 8+2 ohm series branches each span 10 V. Currents are 2 and 1 A, intermediate potentials 8 and 2 V, difference 6 V. Thus for C=1 microfarad only 6 microcoulombs is consistent.",
+    "2026-3-04:3": "With the capacitor branch open, the left 1+4 ohm and right 8+2 ohm series branches each span 10 V. Currents are 2 and 1 A, intermediate potentials 8 and 2 V, difference 6 V. Thus for C=1 microfarad only 6 microcoulombs is consistent.",
+    "2026-3-04:4": "With the capacitor branch open, the left 1+4 ohm and right 8+2 ohm series branches each span 10 V. Currents are 2 and 1 A, intermediate potentials 8 and 2 V, difference 6 V. Thus for C=1 microfarad only 6 microcoulombs is consistent.",
+    "2026-3-04:5": "With the capacitor branch open, the left 1+4 ohm and right 8+2 ohm series branches each span 10 V. Currents are 2 and 1 A, intermediate potentials 8 and 2 V, difference 6 V. Thus for C=1 microfarad only 6 microcoulombs is consistent."
+  },
+  "retrievalMethod": "Direct web open",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "a2afcd013c2d7a93bc8b",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "15.3 RLC Series Circuits with AC",
+  "url": "https://openstax.org/books/university-physics-volume-2/pages/15-3-rlc-series-circuits-with-ac",
+  "excerpt": "is known as the impedance of the circuit.",
+  "sourceHash": "ab633445f68ffb97c1cf4fda3e091fb0174c87fd087e4a6e32b7d114b2703f9f",
+  "cacheSourceId": "deef4c67dec50cbbb890",
+  "retrievedAt": "2026-11-06T22:24:28.070657+00:00",
+  "reviewedMappings": {
+    "2019-3-06:0": "Equal resistor power at fixed source voltage and R requires equal impedance magnitudes; a has 2 omega L and b has omega L-1/(omega C). Only positive-frequency solution omega²LC=1/3.",
+    "2019-3-06:1": "Independent substitution of option 1: omega²LC=1/3, so |Xb|/(omega L)=2; compare |Xa|/(omega L)=2. Equality holds only for option 1.",
+    "2019-3-06:2": "Independent substitution of option 2: omega²LC=1/2, so |Xb|/(omega L)=1; compare |Xa|/(omega L)=2. Equality holds only for option 1.",
+    "2019-3-06:3": "Independent substitution of option 3: omega²LC=1, so |Xb|/(omega L)=0; compare |Xa|/(omega L)=2. Equality holds only for option 1.",
+    "2019-3-06:4": "Independent substitution of option 4: omega²LC=4/3, so |Xb|/(omega L)=1/4; compare |Xa|/(omega L)=2. Equality holds only for option 1.",
+    "2019-3-06:5": "Independent substitution of option 5: omega²LC=4, so |Xb|/(omega L)=3/4; compare |Xa|/(omega L)=2. Equality holds only for option 1."
+  },
+  "retrievalMethod": "Direct web review of equations 15.10–15.11, I0=V0/Z and Z²=R²+(XL-XC)², lines 55–72; series phasor addition lines 40–45. Original circuit image app/public/images/2019-3-06.webp inspected: a selects second L, b selects C. Independent reactance algebra applied.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

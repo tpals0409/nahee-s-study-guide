@@ -1,0 +1,21 @@
+{
+  "id": "b414e141777a8c01eabd",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 2e §19.3 — Crystal Field Theory and Magnetic Properties",
+  "url": "https://openstax.org/books/chemistry-2e/pages/19-3-spectroscopic-and-magnetic-properties-of-coordination-compounds",
+  "excerpt": "the orbitals closer to the ligands will be destabilized and raised in energy relative to the other set of orbitals.",
+  "sourceHash": "73834b7f57fbd1e39ba14753665c42814402a6324be4fceaa50d85f0c63992be",
+  "cacheSourceId": "5bd1a8b390ac42d50751",
+  "retrievedAt": "2026-11-06T21:52:21.398081+00:00",
+  "reviewedMappings": {
+    "2018-3-15:0": "CFT 방향별 반발·분광화학적 계열·저스핀·다른 기하구조·자성 절 전체 직접 검토 후 독립 적용. ㄱ거짓 ㄴ참 ㄷ거짓으로 ②.",
+    "2018-3-15:1": "원문 z축 리간드에 dz² 축방향 로브가 직접 향하고 dxz는 축 사이 방향. CFT 반발 원리의 독립 적용으로 dz²>dxz. 자료가 특정 Ag 착물을 직접 다룬다고 주장하지 않음.",
+    "2018-3-15:2": "평면 사각형 분열 및 CN 강한 장, 홀전자 없는 경우 반자기성 설명을 결합. +2 Ni는 d8, 낮은 4궤도에 각2전자, 최고 dx²−y² 비움. 원문에서 구조가 주어짐.",
+    "2018-3-15:3": "ㄱ은 방향별 반발로 거짓. ㄷ은 Cr+2 d4 및 Co+2 d7 독립 산정, 저스핀 t2g4=(2,1,1)와 사면체 e4t23=(2,2;1,1,1)의 홀전자2/3으로 거짓.",
+    "2018-3-15:4": "CN은 강한 장, Cr+2 저스핀d4는 t2g4의 홀전자2. Co+2 사면체d7은 e4t23의 홀전자3. 해당 구조의 준위 그림과 Hund 규칙을 독립 적용. 두 수가 다름.",
+    "2018-3-15:5": "앞의 방향별 반발과 d전자수·점유 계산에서 ㄱ·ㄷ은 거짓, ㄴ만 참. 따라서 전체 조합은 오답. 자료의 모든 사면체는 고스핀이라는 과도한 일반화와 그림 대체텍스트 오기는 사용하지 않음."
+  },
+  "retrievalMethod": "Direct web open; CFT, spectrochemical series, other geometries and magnetic properties sections reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

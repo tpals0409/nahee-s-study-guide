@@ -1,0 +1,17 @@
+{
+  "id": "4741b57f9d183a34bb33",
+  "kind": "science",
+  "source": "New England Biolabs",
+  "ref": "NEB: Appropriate annealing temperature",
+  "url": "https://www.neb.com/en-ca/faqs/how-should-i-determine-the-appropriate-annealing-temperature-for-my-reaction",
+  "excerpt": "The optimal annealing temperature (Ta) for a primer pair can be determined empirically by running a gradient PCR.",
+  "sourceHash": "308ff9c581b01d191be3a0e0bcd8ca470d0381f828ddd30b6229d2180531b96a",
+  "cacheSourceId": "d80c8dffdf6d94c8264d",
+  "retrievedAt": "2026-11-07T04:06:27.669551+00:00",
+  "reviewedMappings": {
+    "2026-3-24:0": "Manufacturer FAQ directly explains annealing optimization and high/low tradeoffs for choice2.",
+    "2026-3-24:2": "Manufacturer FAQ directly explains annealing optimization and high/low tradeoffs for choice2."
+  },
+  "retrievalMethod": "Direct web open",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

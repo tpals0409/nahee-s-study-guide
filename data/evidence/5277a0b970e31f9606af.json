@@ -1,0 +1,21 @@
+{
+  "id": "5277a0b970e31f9606af",
+  "kind": "science",
+  "source": "NASA / Alan Buis",
+  "ref": "Earth’s Atmosphere: A Multi-layered Cake",
+  "url": "https://science.nasa.gov/earth/earth-atmosphere/earths-atmosphere-a-multi-layered-cake/",
+  "excerpt": "with its height lower at Earth’s poles and higher at the equator.",
+  "sourceHash": "51f0b144088e9b09bae4fb3d0b642871f40ef5ed314649c41d6bf1e442ecf141",
+  "cacheSourceId": "aece7bbb22e10b09013c",
+  "retrievedAt": "2026-11-07T01:22:56.025276+00:00",
+  "reviewedMappings": {
+    "2022-3-36:0": "대류권·성층권 설명을 원문 그림과 대조: ㄱ의 위도 경향은 반대이고 ㄴ·ㄷ이 옳다.",
+    "2022-3-36:1": "대류권 높이가 극에서 낮고 적도에서 높다는 직접 설명이 ㄱ을 반박한다.",
+    "2022-3-36:2": "대류권 문단의 수증기와 대부분의 기상현상, 성층권 문단의 UV 관련 가열을 함께 검토해 ㄴ만 선택하면 ㄷ을 빠뜨림을 확인.",
+    "2022-3-36:3": "대류권 높이의 위도 경향은 ㄱ을 반박하며 성층권 오존과 UV 가열 설명은 ㄷ을 지지한다.",
+    "2022-3-36:4": "대류권의 대부분의 기상현상과 성층권의 오존/UV 가열이 ㄴ·ㄷ을 지지. 그림의 A/B 높이는 예시이며 전 지구 고정 경계로 일반화하지 않음.",
+    "2022-3-36:5": "ㄴ·ㄷ은 맞지만 대류권계면 위도 경향을 반대로 쓴 ㄱ을 포함하므로 오답."
+  },
+  "retrievalMethod": "Direct NASA article open; Troposphere and Stratosphere paragraphs, lines 253–256: latitude-height trend, most weather and moisture in troposphere, ozone layer and UV-related stratospheric warming reviewed.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "bdae23e29022813d7e83",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "4.2 Epithelial Tissue",
+  "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/4-2-epithelial-tissue",
+  "excerpt": "This tissue is highly cellular, with little or no extracellular material present between cells.",
+  "sourceHash": "77d621ed21cae6e6b72bb732f7fdb724d87b34aad0fd2d9368ef5ea158575c53",
+  "cacheSourceId": "a0cdc93bc8606c21b30c",
+  "retrievedAt": "2026-11-06T20:31:47.649868+00:00",
+  "reviewedMappings": {
+    "2016-3-26:0": "본문31–35 상피세포의 상피조직 분류, 표면/내강피복 및 아래결합조직과의 구분 확인.",
+    "2016-3-26:5": "상피세포는 상피조직 구성세포. 기저판이 아래 결합조직과 구분하고 세포간기질 적음. 상피와결합조직이접하더라도 조직분류는 다름."
+  },
+  "retrievalMethod": "Direct web open and targeted find; tissue classifications and cell roles reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

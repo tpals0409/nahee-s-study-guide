@@ -1,0 +1,21 @@
+{
+  "id": "605349515ebe0a1a1aa9",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume 1 §6.2 Friction",
+  "url": "https://openstax.org/books/university-physics-volume-1/pages/6-2-friction",
+  "excerpt": "Static friction is a responsive force",
+  "sourceHash": "30d1157c3e65a8411ca618ca1ca560656dfd6a5c2fbc9a6845884edc71d6e091",
+  "cacheSourceId": "9916ff1a0eac1e94aeda",
+  "retrievedAt": "2026-11-06T23:04:01.438950+00:00",
+  "reviewedMappings": {
+    "2020-3-03:0": "N=(M+m)g, f=P, P·l sinθ=(M+m)g·l cosθ/2와 f≤μsN으로 최소각 유도.",
+    "2020-3-03:1": "평형식에서 f/N=1/(2tanθ); 마찰 한계 등호로 tanθ_min=1/(2μs).",
+    "2020-3-03:2": "경계식 2μs tanθ=1에 μs/2를 대입하면 μs²로 일반적으로 1 아님.",
+    "2020-3-03:3": "tanθ=2/(3μs)일 때 f/N=3μs/4<μs; 가능하지만 최소각 아님.",
+    "2020-3-03:4": "전체 무게가 같은 중앙에 작용해 질량 인자가 약분됨; 제시식은 일반 경계식 불충족.",
+    "2020-3-03:5": "제시 각도에서 f/N=μs(M+m)/M>μs이므로 양의 질량에서 평형 불가능."
+  },
+  "retrievalMethod": "Direct web retrieval; reviewed Magnitude of Static Friction, lines 50–64, inequality and maximum-force condition.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

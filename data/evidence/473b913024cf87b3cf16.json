@@ -1,0 +1,19 @@
+{
+  "id": "473b913024cf87b3cf16",
+  "kind": "science",
+  "source": "National Park Service",
+  "ref": "Yellowstone National Park, 1988: A 25th Anniversary Retrospective",
+  "url": "https://www.nps.gov/articles/wildland-fire-yell-1988-25th-anniv-retrospective.htm",
+  "excerpt": "Surveys revealed that less than 1 percent of soils were heated enough to burn belowground plant seeds and roots.",
+  "sourceHash": "af578cbf661b10bf28656c614cb5a1c6d4c4c845b88a2a81dd3da564ee4ecf45",
+  "cacheSourceId": "87b5e8353d964cbc97db",
+  "retrievedAt": "2026-11-07T03:28:19.470903+00:00",
+  "reviewedMappings": {
+    "2025-3-29:0": "1988년 산불 조사에서 지하 종자·뿌리를 태울 정도로 가열된 토양은 1% 미만. 기존 생물과 토양이 남았다는 사건별 근거로 ㄴ의 1차 천이 주장을 반박한다.",
+    "2025-3-29:2": "1988년 산불 조사에서 지하 종자·뿌리를 태울 정도로 가열된 토양은 1% 미만. 기존 생물과 토양이 남았다는 사건별 근거로 ㄴ의 1차 천이 주장을 반박한다.",
+    "2025-3-29:4": "1988년 산불 조사에서 지하 종자·뿌리를 태울 정도로 가열된 토양은 1% 미만. 기존 생물과 토양이 남았다는 사건별 근거로 ㄴ의 1차 천이 주장을 반박한다.",
+    "2025-3-29:5": "1988년 산불 조사에서 지하 종자·뿌리를 태울 정도로 가열된 토양은 1% 미만. 기존 생물과 토양이 남았다는 사건별 근거로 ㄴ의 1차 천이 주장을 반박한다."
+  },
+  "retrievalMethod": "Direct article read",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

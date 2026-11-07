@@ -1,0 +1,21 @@
+{
+  "id": "3e26511b5e713cafcd94",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume 1, 16.2 Mathematics of Waves",
+  "url": "https://openstax.org/books/university-physics-volume-1/pages/16-2-mathematics-of-waves",
+  "excerpt": "The amplitude can be read straight from the equation and is equal to A.",
+  "sourceHash": "15763d129e0d53b0e38326b7cb056ef28d5d39f627bf77a4350c5ab18c409449",
+  "cacheSourceId": "4543c20a88a19d9cad08",
+  "retrievedAt": "2026-11-07T02:20:09.012992+00:00",
+  "reviewedMappings": {
+    "2024-3-08:0": "진폭 A, 파수 k=2π/λ, 전파 속력 ω/k를 직접 확인했다. 원문 P의 계수(a,b,c),Q의 계수(2a,3b,2c)를 대입해 진폭비2, 파장비1/3, 속력비2/3. 같은 위상점 bx−ct 및3bx−2ct를 시간 미분해 각각 dx/dt=c/b,2c/(3b)로 교차 검산했다.",
+    "2024-3-08:1": "진폭 A, 파수 k=2π/λ, 전파 속력 ω/k를 직접 확인했다. 원문 P의 계수(a,b,c),Q의 계수(2a,3b,2c)를 대입해 진폭비2, 파장비1/3, 속력비2/3. 같은 위상점 bx−ct 및3bx−2ct를 시간 미분해 각각 dx/dt=c/b,2c/(3b)로 교차 검산했다.",
+    "2024-3-08:2": "진폭 A, 파수 k=2π/λ, 전파 속력 ω/k를 직접 확인했다. 원문 P의 계수(a,b,c),Q의 계수(2a,3b,2c)를 대입해 진폭비2, 파장비1/3, 속력비2/3. 같은 위상점 bx−ct 및3bx−2ct를 시간 미분해 각각 dx/dt=c/b,2c/(3b)로 교차 검산했다.",
+    "2024-3-08:3": "진폭 A, 파수 k=2π/λ, 전파 속력 ω/k를 직접 확인했다. 원문 P의 계수(a,b,c),Q의 계수(2a,3b,2c)를 대입해 진폭비2, 파장비1/3, 속력비2/3. 같은 위상점 bx−ct 및3bx−2ct를 시간 미분해 각각 dx/dt=c/b,2c/(3b)로 교차 검산했다.",
+    "2024-3-08:4": "진폭 A, 파수 k=2π/λ, 전파 속력 ω/k를 직접 확인했다. 원문 P의 계수(a,b,c),Q의 계수(2a,3b,2c)를 대입해 진폭비2, 파장비1/3, 속력비2/3. 같은 위상점 bx−ct 및3bx−2ct를 시간 미분해 각각 dx/dt=c/b,2c/(3b)로 교차 검산했다.",
+    "2024-3-08:5": "진폭 A, 파수 k=2π/λ, 전파 속력 ω/k를 직접 확인했다. 원문 P의 계수(a,b,c),Q의 계수(2a,3b,2c)를 대입해 진폭비2, 파장비1/3, 속력비2/3. 같은 위상점 bx−ct 및3bx−2ct를 시간 미분해 각각 dx/dt=c/b,2c/(3b)로 교차 검산했다."
+  },
+  "retrievalMethod": "Direct web open; reviewed equations 16.2–16.4 and propagation-versus-medium velocity distinction",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "eb8725a6f175fbd3b6d2",
+  "kind": "science",
+  "source": "Truman State University — J. M. McCormick",
+  "ref": "Equilibrium Constant of an Esterification Reaction",
+  "url": "https://chemlab.truman.edu/physical-chemistry/physical-chemistry-laboratory/k-of-esterification/",
+  "excerpt": "A carboxylic acid will react with an alcohol to form an ester and water in a reversible reaction",
+  "sourceHash": "cba4452ac9c9fe6b4e78732bb384f272f01fbda7f1cd01ed91d996ce63d8ea88",
+  "cacheSourceId": "157978a95d144db402f5",
+  "retrievedAt": "2026-11-06T23:12:14.293984+00:00",
+  "reviewedMappings": {
+    "2020-3-13:0": "Ethanol reacts with acetic acid to ethyl acetate and water; ㄴ true.",
+    "2020-3-13:1": "Omitted ㄴ true from esterification.",
+    "2020-3-13:2": "Included ㄴ true.",
+    "2020-3-13:3": "Omitted ㄴ true: CH3COOH+C2H5OH⇌CH3COOC2H5+H2O.",
+    "2020-3-13:4": "Included ㄴ true.",
+    "2020-3-13:5": "ㄴ true; reversible acid-catalyzed esterification supports explanation."
+  },
+  "retrievalMethod": "Direct web retrieval; reviewed introduction lines57–60 explicitly ethanol/acetic acid to ethyl acetate, reversibility and acid catalysis.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

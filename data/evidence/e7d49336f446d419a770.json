@@ -1,0 +1,17 @@
+{
+  "id": "e7d49336f446d419a770",
+  "kind": "science",
+  "source": "U.S. Geological Survey",
+  "ref": "This Dynamic Planet",
+  "url": "https://pubs.usgs.gov/pdf/planet.pdf",
+  "excerpt": "Continent to continent convergence produces shallow and intermediate depth earthquakes but little volcanic activity.",
+  "sourceHash": "ba73cd99fedefd029fa3a2445af09e94fc00115df3fd44826281420f3d17ebba",
+  "cacheSourceId": "b0f7dae85041f78da3c6",
+  "retrievedAt": "2026-11-06T22:51:05.573880+00:00",
+  "reviewedMappings": {
+    "2019-3-33:0": "공식 USGS 자료의 대륙-대륙 수렴에서 화산활동이 적다는 직접 진술로 정답 ④를 검증했다.",
+    "2019-3-33:4": "little volcanic activity와 선지의 활발한 화산활동이 반대임을 확인했다."
+  },
+  "retrievalMethod": "Reviewed exact excerpt returned by web search for the official USGS PDF; direct PDF open returned 403, so no full-document review is claimed.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

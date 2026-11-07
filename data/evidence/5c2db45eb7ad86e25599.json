@@ -1,0 +1,19 @@
+{
+  "id": "5c2db45eb7ad86e25599",
+  "kind": "science",
+  "source": "Met Office",
+  "ref": "What is diurnal temperature range and why it changes as we move into spring",
+  "url": "https://www.metoffice.gov.uk/blog/2026/what-is-diurnal-temperature-range",
+  "excerpt": "Humid or cloudy regions tend to have much smaller temperature ranges",
+  "sourceHash": "0baf012d2bcadd7db679c62658b0e2e56f9d1ee14a8c1f32072c1ea1e418014a",
+  "cacheSourceId": "5ce2560bbf486ca1152a",
+  "retrievedAt": "2026-11-07T02:44:35.715041+00:00",
+  "reviewedMappings": {
+    "2024-3-30:0": "Humidity/cloud cover reduce daytime heating and nighttime cooling; supports comparison with dry climates, not confusion with annual range or a universal numeric range.",
+    "2024-3-30:2": "Humidity/cloud cover reduce daytime heating and nighttime cooling; supports comparison with dry climates, not confusion with annual range or a universal numeric range.",
+    "2024-3-30:4": "Humidity/cloud cover reduce daytime heating and nighttime cooling; supports comparison with dry climates, not confusion with annual range or a universal numeric range.",
+    "2024-3-30:5": "Humidity/cloud cover reduce daytime heating and nighttime cooling; supports comparison with dry climates, not confusion with annual range or a universal numeric range."
+  },
+  "retrievalMethod": "Official indexed explanatory paragraph reviewed; page opened to confirm source identity.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

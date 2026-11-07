@@ -1,0 +1,21 @@
+{
+  "id": "e398dd3866ed18871bda",
+  "kind": "science",
+  "source": "OpenStax Biology 2e",
+  "ref": "4.4 The Endomembrane System and Proteins",
+  "url": "https://openstax.org/books/biology-2e/pages/4-4-the-endomembrane-system-and-proteins",
+  "excerpt": "other secretory vesicles fuse with the plasma membrane and release their contents outside the cell.",
+  "sourceHash": "c0d49354e3ba728dae39a809318f6910441f16988884681ed87a6d30f5f9948c",
+  "cacheSourceId": "b60d8d7429631221903c",
+  "retrievedAt": "2026-11-07T03:17:48.815579+00:00",
+  "reviewedMappings": {
+    "2025-3-21:0": "RER→수송소낭→Golgi→분비소낭→세포막의 분비단백질 경로를 인슐린에 적용.",
+    "2025-3-21:1": "RER lumen, transport vesicle, Golgi cis/trans sorting, secretory vesicle fusion 경로 대조.",
+    "2025-3-21:2": "SER 기능과 RER 리보솜/분비단백질 설명 및 lysosome 분해 기능 대조.",
+    "2025-3-21:3": "Golgi 경유 분비 경로와 phagocytosis/lysosome 소화 경로를 구분.",
+    "2025-3-21:4": "분비소낭의 세포막 융합을 확인하여 lysosome으로 대체한 순서를 배제.",
+    "2025-3-21:5": "식포의 섭취·분해 역할과 분비소낭 역할 구분."
+  },
+  "retrievalMethod": "Direct web open: RER/SER, Golgi, secretory vesicles and lysosome paragraphs; Figure 15.20 and SRP targeting paragraph.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

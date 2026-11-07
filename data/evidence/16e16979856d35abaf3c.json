@@ -1,0 +1,20 @@
+{
+  "id": "16e16979856d35abaf3c",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e §31.3 Nutritional Adaptations of Plants",
+  "url": "https://openstax.org/books/biology-2e/pages/31-3-nutritional-adaptations-of-plants",
+  "excerpt": "This process entails the reduction of atmospheric nitrogen to ammonia",
+  "sourceHash": "73400095cc4e3e60c9d185131510e7b9d3a0e02a910d5dcde270ca498ee0551b",
+  "cacheSourceId": "a21dadb7b680f7521e1d",
+  "retrievedAt": "2026-11-06T23:24:16.938957+00:00",
+  "reviewedMappings": {
+    "2020-3-23:0": "직접 본문37–46행 식물의 직접 N2 이용 제한, 생물적 질소고정 및 뿌리혹 세균 공생 검토. 질소과정 정의 대조 및 NO3/NH4 흡수로④ 선택.",
+    "2020-3-23:1": "직접 본문37–46행 식물의 직접 N2 이용 제한, 생물적 질소고정 및 뿌리혹 세균 공생 검토. 식물 직접고정과 세균 공생을 구별하여① 배제.",
+    "2020-3-23:3": "직접 본문37–46행 식물의 직접 N2 이용 제한, 생물적 질소고정 및 뿌리혹 세균 공생 검토. NH4→NO2는 질산화이므로③ 배제.",
+    "2020-3-23:4": "직접 본문37–46행 식물의 직접 N2 이용 제한, 생물적 질소고정 및 뿌리혹 세균 공생 검토. NO3와 NH4 식물 흡수④ 확인.",
+    "2020-3-23:5": "직접 본문37–46행 식물의 직접 N2 이용 제한, 생물적 질소고정 및 뿌리혹 세균 공생 검토. 유기N 암모니아화와 N2 고정을 구별하여⑤ 배제."
+  },
+  "retrievalMethod": "직접 본문37–46행 식물의 직접 N2 이용 제한, 생물적 질소고정 및 뿌리혹 세균 공생 검토. 화학식 아래첨자는 유니코드로 표기.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

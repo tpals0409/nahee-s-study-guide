@@ -1,0 +1,21 @@
+{
+  "id": "fbb005a01435d8ff0e64",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics 1 §5.3 Newton’s Second Law",
+  "url": "https://openstax.org/books/university-physics-volume-1/pages/5-3-newtons-second-law",
+  "excerpt": "acceleration is directly proportional to net external force.",
+  "sourceHash": "0830bb53c77e1256249263bbb4004aaf6af77e71a1083451864892f7e29d1d8a",
+  "cacheSourceId": "157bf9091d6697c8a1fb",
+  "retrievedAt": "2026-11-06T19:14:20.259548+00:00",
+  "reviewedMappings": {
+    "2015-3-01:0": "Apply F=ma separately along B horizontal and C downward axes, then sum scalar equations to cancel equal tension. Before cut zero acceleration gives mg=2mu mg; after cut mg-mu mg=2ma. This is not a literal vector sum of perpendicular displacements. Exact result a/g=1/4, T/(mg)=3/4; other offered coefficients fail these simultaneous equations.",
+    "2015-3-01:1": "Apply F=ma separately along B horizontal and C downward axes, then sum scalar equations to cancel equal tension. Before cut zero acceleration gives mg=2mu mg; after cut mg-mu mg=2ma. This is not a literal vector sum of perpendicular displacements. Exact result a/g=1/4, T/(mg)=3/4; other offered coefficients fail these simultaneous equations.",
+    "2015-3-01:2": "Apply F=ma separately along B horizontal and C downward axes, then sum scalar equations to cancel equal tension. Before cut zero acceleration gives mg=2mu mg; after cut mg-mu mg=2ma. This is not a literal vector sum of perpendicular displacements. Exact result a/g=1/4, T/(mg)=3/4; other offered coefficients fail these simultaneous equations.",
+    "2015-3-01:3": "Apply F=ma separately along B horizontal and C downward axes, then sum scalar equations to cancel equal tension. Before cut zero acceleration gives mg=2mu mg; after cut mg-mu mg=2ma. This is not a literal vector sum of perpendicular displacements. Exact result a/g=1/4, T/(mg)=3/4; other offered coefficients fail these simultaneous equations.",
+    "2015-3-01:4": "Apply F=ma separately along B horizontal and C downward axes, then sum scalar equations to cancel equal tension. Before cut zero acceleration gives mg=2mu mg; after cut mg-mu mg=2ma. This is not a literal vector sum of perpendicular displacements. Exact result a/g=1/4, T/(mg)=3/4; other offered coefficients fail these simultaneous equations.",
+    "2015-3-01:5": "Apply F=ma separately along B horizontal and C downward axes, then sum scalar equations to cancel equal tension. Before cut zero acceleration gives mg=2mu mg; after cut mg-mu mg=2ma. This is not a literal vector sum of perpendicular displacements. Exact result a/g=1/4, T/(mg)=3/4; other offered coefficients fail these simultaneous equations."
+  },
+  "retrievalMethod": "Direct web open; friction equation and Newton-law discussion reviewed; original image inspected and exact rational calculation checked.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

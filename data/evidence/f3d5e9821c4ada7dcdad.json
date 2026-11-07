@@ -1,0 +1,21 @@
+{
+  "id": "f3d5e9821c4ada7dcdad",
+  "kind": "science",
+  "source": "Texas A&M University — Chemistry",
+  "ref": "CHEM 362, Lecture 1, Fall 2020",
+  "url": "https://www.chem.tamu.edu/rgroup/marcetta/chem362/lectures/Lecture%201%20Fall%202020.pdf",
+  "excerpt": "# Angular Nodes = l",
+  "sourceHash": "b9ae79eb7af74126a2e7c1cec9feea3b41da15c3069583073b25da04d499793a",
+  "cacheSourceId": "a31377f783a5b0544dc7",
+  "retrievedAt": "2026-11-07T00:07:52.148969+00:00",
+  "reviewedMappings": {
+    "2021-3-17:0": "각마디 수=ℓ이므로 B의 ℓ=2. 방사 마디 식으로 A의 ℓ=1을 얻으므로 x=1. ㄱ만 참이며 ㄴ n=3, ㄷ ℓ_A=0은 거짓. 선지 조합 0을 이 참거짓 결과와 대조.",
+    "2021-3-17:1": "각마디 수=ℓ이므로 B의 ℓ=2. 방사 마디 식으로 A의 ℓ=1을 얻으므로 x=1. ㄱ만 참이며 ㄴ n=3, ㄷ ℓ_A=0은 거짓. 선지 조합 1을 이 참거짓 결과와 대조.",
+    "2021-3-17:2": "각마디 수=ℓ이므로 B의 ℓ=2. 방사 마디 식으로 A의 ℓ=1을 얻으므로 x=1. ㄱ만 참이며 ㄴ n=3, ㄷ ℓ_A=0은 거짓. 선지 조합 2을 이 참거짓 결과와 대조.",
+    "2021-3-17:3": "각마디 수=ℓ이므로 B의 ℓ=2. 방사 마디 식으로 A의 ℓ=1을 얻으므로 x=1. ㄱ만 참이며 ㄴ n=3, ㄷ ℓ_A=0은 거짓. 선지 조합 3을 이 참거짓 결과와 대조.",
+    "2021-3-17:4": "각마디 수=ℓ이므로 B의 ℓ=2. 방사 마디 식으로 A의 ℓ=1을 얻으므로 x=1. ㄱ만 참이며 ㄴ n=3, ㄷ ℓ_A=0은 거짓. 선지 조합 4을 이 참거짓 결과와 대조.",
+    "2021-3-17:5": "각마디 수=ℓ이므로 B의 ℓ=2. 방사 마디 식으로 A의 ℓ=1을 얻으므로 x=1. ㄱ만 참이며 ㄴ n=3, ㄷ ℓ_A=0은 거짓. 선지 조합 5을 이 참거짓 결과와 대조."
+  },
+  "retrievalMethod": "Official university PDF search-result excerpt reviewed (turn1137search12); direct PDF fetch timed out. No claim of full PDF inspection.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

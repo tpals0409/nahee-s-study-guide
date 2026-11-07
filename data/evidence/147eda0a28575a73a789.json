@@ -1,0 +1,20 @@
+{
+  "id": "147eda0a28575a73a789",
+  "kind": "science",
+  "source": "U.S. Geological Survey",
+  "ref": "Powell Expedition—Geologic Time. Then and Now.",
+  "url": "https://www.usgs.gov/news/powell-expedition-geologic-time-then-and-now",
+  "excerpt": "The law of superposition says that older rocks are on the bottom and younger rocks are on the top.",
+  "sourceHash": "8c1ff3e6146d2f5347eb5de3a1b18ecec68f8a800737cf04cf0dd02155e30f25",
+  "cacheSourceId": "b2fa94b133c5580864eb",
+  "retrievedAt": "2026-11-06T20:43:30.500970+00:00",
+  "reviewedMappings": {
+    "2016-3-35:0": "원본 그림에서 B를 A가 관입하고 그 위에 D가 놓이며 C가 D를 관입한다. 중첩 및 관입 관계로 B→A→D→C를 독립 판독.",
+    "2016-3-35:1": "ㄴ도 참: B를 A가 관입하므로 B가 먼저, D와 C는 이후이다. ㄱ만 고르면 불완전.",
+    "2016-3-35:3": "ㄴ 참: B→A→D→C 순서로 가장 오래된 단위는 B.",
+    "2016-3-35:4": "ㄴ은 참이나 ㄷ은 거짓이며 옳은 ㄱ을 빠뜨린 조합.",
+    "2016-3-35:5": "ㄱ·ㄴ 외에 거짓인 ㄷ을 포함하므로 오답."
+  },
+  "retrievalMethod": "Direct web open; superposition and cross-cutting principles reviewed. Half-life definition also visible in indexed excerpt.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

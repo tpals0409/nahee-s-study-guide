@@ -1,0 +1,21 @@
+{
+  "id": "2aacf173298389da4a31",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 2e, 13.2 Equilibrium Constants",
+  "url": "https://openstax.org/books/chemistry-2e/pages/13-2-equilibrium-constants",
+  "excerpt": "the relationship between K",
+  "sourceHash": "c08dbe11a2ffd297e0a83c12babe1046df5b6adae74b4e2e86a3f0cdbb439d99",
+  "cacheSourceId": "b46a0e038b5543a5027a",
+  "retrievedAt": "2026-11-07T01:40:04.298168+00:00",
+  "reviewedMappings": {
+    "2023-3-12:0": "같은 T₂에서 Kp/Kc=0.0016/4=50⁻²이므로 Δn=c−a−1=−2. a=c+1을 (가)에 대입하면 25·2^c=100, c=2,a=3. Kc식으로 (나)[C]=0.2, Kp비100을 독립 검산.",
+    "2023-3-12:1": "ㄱ은 (나)[C]²=4·1³·0.01=0.04에서 [C]=0.2M로 (다)와 같아 거짓. ㄴ·ㄷ은 참이므로 ㄱ만 고른 ①은 틀리다.",
+    "2023-3-12:2": "Kp(가)=100/25²=0.16, Kp(다)=4/50²=0.0016이라 ㄷ은 참. T₂>T₁에서 Kp감소에 의한 ㄴ도 참이므로 ②는 누락.",
+    "2023-3-12:3": "ㄴ은 참이나 (나)와 (다)의 C농도는 모두0.2M이므로 ㄱ은 거짓. ㄷ도 참이어서 ③은 틀리다.",
+    "2023-3-12:4": "온도가2배일 때 Kp가0.16에서0.0016으로 줄어 정반응 발열이라는 ㄴ을 지지. 두 Kp비는100이므로 ㄷ 참. ㄱ거짓으로 ④만 성립.",
+    "2023-3-12:5": "ㄴ·ㄷ은 참이나 (나)와 (다)의 C농도가 같으므로 ㄱ은 거짓. 따라서 세 진술 모두를 고른 ⑤는 틀리다."
+  },
+  "retrievalMethod": "Direct web open/find: 13.2 equilibrium expressions and Kp=Kc(RT)^Δn; 13.3 temperature effects and exothermic reaction paragraphs reviewed. Independent application to question.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

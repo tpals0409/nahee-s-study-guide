@@ -1,0 +1,14 @@
+{
+  "id": "5e618f017408eaca586f",
+  "kind": "science",
+  "source": "OpenStax · Biology 2e",
+  "ref": "3.4 Proteins",
+  "url": "https://openstax.org/books/biology-2e/pages/3-4-proteins",
+  "excerpt": "Peptide bond formation is a dehydration synthesis reaction.",
+  "sourceHash": "097d22f87443e58ad47be6dfac8ea80e7bb1562f6ef110792450f34b888a8225",
+  "cacheSourceId": "a7fd432febb8a6d112e4",
+  "retrievedAt": "2026-11-06T15:37:56.802686+00:00",
+  "reviewedMappings": {
+    "2010-3-20:0": "원본에서 NH-CH₂-CO 및 NH-CH(CH₂Ph)-CO 반복 구조 확인. 본문 펩타이드 탈수축합 및 Figure 3.28의 carbonyl oxygen/amino hydrogen 수소결합 설명 대조."
+  }
+}

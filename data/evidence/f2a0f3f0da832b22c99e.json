@@ -1,0 +1,20 @@
+{
+  "id": "f2a0f3f0da832b22c99e",
+  "kind": "science",
+  "source": "NASA",
+  "ref": "Eclipses and the Moon",
+  "url": "https://science.nasa.gov/moon/eclipses/",
+  "excerpt": "Lunar eclipses occur at the full Moon phase.",
+  "sourceHash": "266c1a87983b4cd2562a1f90dd798d367b534674099c1297fe89be68bd58d296",
+  "cacheSourceId": "b955da1a49ad535ab2ff",
+  "retrievedAt": "2026-11-06T23:43:31.528213+00:00",
+  "reviewedMappings": {
+    "2014-3-40:0": "Source distinguishes lunar eclipse at full Moon with Earth between Sun and Moon; total lunar section describes entry into umbra. Original (나) has lunar markings and fully darkened disk.",
+    "2014-3-40:2": "Source distinguishes lunar eclipse at full Moon with Earth between Sun and Moon; total lunar section describes entry into umbra. Original (나) has lunar markings and fully darkened disk.",
+    "2014-3-40:4": "Source distinguishes lunar eclipse at full Moon with Earth between Sun and Moon; total lunar section describes entry into umbra. Original (나) has lunar markings and fully darkened disk.",
+    "2014-3-40:5": "Source distinguishes lunar eclipse at full Moon with Earth between Sun and Moon; total lunar section describes entry into umbra. Original (나) has lunar markings and fully darkened disk.",
+    "2020-3-39:3": "C망에서는 월식만 가능하고 일식은 A삭에서 가능. 위상만으로 식이 반드시 발생하지 않음."
+  },
+  "retrievalMethod": "Direct web open/find; reviewed lines 298–303, 340–341, 360–362: solar eclipse at new, lunar at full, orbital tilt prevents monthly eclipses.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

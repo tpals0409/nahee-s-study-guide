@@ -1,0 +1,17 @@
+{
+  "id": "161ee1137b0a6e9e77ec",
+  "kind": "science",
+  "source": "University of California Statewide IPM Program",
+  "ref": "Aphids — Ant Management",
+  "url": "https://ipm.ucanr.edu/home-and-landscape/aphids/",
+  "excerpt": "ants tend aphids and feed on the honeydew aphids excrete.",
+  "sourceHash": "a1aac4eef53dd84f91aebfd7985374d3ff51ec971b6c8e9d1e0c02cfc94d016f",
+  "cacheSourceId": "2643a754c15795c8368f",
+  "retrievedAt": "2026-11-06T20:38:09.311805+00:00",
+  "reviewedMappings": {
+    "2016-3-30:0": "Ant Management 본문에서 개미가 감로를 먹고 진딧물을 천적으로부터 보호한다고 명시한다. 이 관계는 두 생물 사이의 상호작용이므로 정답 ④.",
+    "2016-3-30:4": "감로를 얻는 개미와 보호를 받는 진딧물의 관계를 직접 뒷받침한다. 모든 종 조합이 반드시 공생한다고 일반화하지 않는다."
+  },
+  "retrievalMethod": "Direct web open; relevant ecology definitions or Ant Management section reviewed.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

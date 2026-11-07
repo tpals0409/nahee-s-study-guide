@@ -1,0 +1,21 @@
+{
+  "id": "ca48a1d79270d055bf48",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume2 §6.2 Explaining Gauss’s Law",
+  "url": "https://openstax.org/books/university-physics-volume-2/pages/6-2-explaining-gausss-law",
+  "excerpt": "If the charges are discrete point charges, then we just add them.",
+  "sourceHash": "7c9e772e66e61f44eebada43f1272e4eff83e2306d8534e4aaebcbf9e9d42005",
+  "cacheSourceId": "90844d74bf2e9dfad726",
+  "retrievedAt": "2026-11-07T04:34:50.557961+00:00",
+  "reviewedMappings": {
+    "2018-3-02:0": "가우스법칙에 내부전하3Q를조건부적용. 원문방향미정 반례와 공식정답을구분한다.",
+    "2018-3-02:1": "축정렬에서내부3Q로−5Q값배제.",
+    "2018-3-02:2": "양의내부전하에는바깥방향양의선속이므로부호반대값배제.",
+    "2018-3-02:3": "축정렬외부−3Q는알짜선속에기여없음. 회전반례에서는내부총전하0으로③가능함을명시.",
+    "2018-3-02:4": "축정렬경계±1.5a와원본위치로세전하합3Q를법칙에적용.",
+    "2018-3-02:5": "거리a두전하는내접구반지름1.5a안이므로항상포함.원점전하만합산할수없음."
+  },
+  "retrievalMethod": "Direct web open",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

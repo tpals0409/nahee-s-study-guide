@@ -1,0 +1,21 @@
+{
+  "id": "2b0c50b5d6b3157cc859",
+  "kind": "science",
+  "source": "NASA/MSFC",
+  "ref": "What is UTC?",
+  "url": "https://weather.ndc.nasa.gov/utc.html",
+  "excerpt": "Subtract time in west longitudes (negative values), add time in east longitudes (positive values).",
+  "sourceHash": "77777977c219e4402518acee4a9477ad969c26dd306a300b1052baa98f87ca10",
+  "cacheSourceId": "d1dcd2fd8899ea6acf0a",
+  "retrievedAt": "2026-11-06T22:49:59.292385+00:00",
+  "reviewedMappings": {
+    "2019-3-32:0": "15°당 1시간과 동경 양수·서경 음수를 적용하면 +9와 −8, 차이는 −17시간이다.",
+    "2019-3-32:1": "24시간 전이 아니라 17시간 전이므로 ①은 틀리다.",
+    "2019-3-32:2": "UTC로 변환 후 −8시간을 적용하는 독립 날짜 계산으로 ②를 확인했다.",
+    "2019-3-32:3": "24시간 표기에서 07:20 PM은 19:20으로 정답보다 12시간 늦다.",
+    "2019-3-32:4": "17시간을 빼면 날짜가 25일로 바뀌므로 ④는 틀리다.",
+    "2019-3-32:5": "독립 계산 결과 25일 오전이며 26일 오후는 아니다."
+  },
+  "retrievalMethod": "Direct web open of NASA/MSFC What is UTC?, lines 4–6: reviewed 24-hour notation, 15-degree hourly bands, east/west signs and national time-region caveat; independently applied signed offsets and calendar arithmetic.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "3c28db2a6bb91ec02c71",
+  "kind": "science",
+  "source": "British Antarctic Survey",
+  "ref": "Earth’s Crust",
+  "url": "https://legacy.bas.ac.uk/about_antarctica/geography/rock/earths_crust.php",
+  "excerpt": "Continental crust is more silica-rich and thicker than oceanic crust",
+  "sourceHash": "ecea3ceeb39521afe5bae8df4366e494e2b24edcf434dd424a893a6b7a9db8d6",
+  "cacheSourceId": "f5aff8f57fda126526f3",
+  "retrievedAt": "2026-11-07T00:31:24.631799+00:00",
+  "reviewedMappings": {
+    "2021-3-35:0": "Official indexed page excerpt reviewed. Direct page returned 500. Supports relative silica content of crust types, not narrow numeric ranges.",
+    "2021-3-35:1": "Official indexed page excerpt reviewed. Direct page returned 500. Supports relative silica content of crust types, not narrow numeric ranges.",
+    "2021-3-35:3": "Official indexed page excerpt reviewed. Direct page returned 500. Supports relative silica content of crust types, not narrow numeric ranges.",
+    "2021-3-35:5": "Official indexed page excerpt reviewed. Direct page returned 500. Supports relative silica content of crust types, not narrow numeric ranges."
+  },
+  "retrievalMethod": "Official indexed page excerpt reviewed. Direct page returned 500. Supports relative silica content of crust types, not narrow numeric ranges.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

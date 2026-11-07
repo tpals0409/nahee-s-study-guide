@@ -1,0 +1,17 @@
+{
+  "id": "fc927d54ede5ec75af4f",
+  "kind": "science",
+  "source": "The Geological Society",
+  "ref": "Mid-Atlantic Ridge",
+  "url": "https://www.geolsoc.org.uk/Plate-Tectonics/Chap3-Plate-Margins/Divergent/Mid-Atlantic-Ridge.html",
+  "excerpt": "new ocean lithosphere is formed at the ridge and the ocean basin gets wider",
+  "sourceHash": "357317299d40fb4470eab820a008690f34e284fffa9e4d645f5e01a60b00b661",
+  "cacheSourceId": "05de2c5d041f0eed4200",
+  "retrievedAt": "2026-11-07T04:17:30.732551+00:00",
+  "reviewedMappings": {
+    "2026-3-32:0": "32-34 directly identify divergent motion and seafloor spreading at Mid-Atlantic ridge.",
+    "2026-3-32:2": "32-34 directly identify divergent motion and seafloor spreading at Mid-Atlantic ridge."
+  },
+  "retrievalMethod": "Direct web open/find",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

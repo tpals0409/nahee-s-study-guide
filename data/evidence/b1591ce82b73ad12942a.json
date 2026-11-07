@@ -1,0 +1,21 @@
+{
+  "id": "b1591ce82b73ad12942a",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "15.1 Simple Harmonic Motion — University Physics Volume 1",
+  "url": "https://openstax.org/books/university-physics-volume-1/pages/15-1-simple-harmonic-motion",
+  "excerpt": "The maximum displacement from equilibrium is called the amplitude (A).",
+  "sourceHash": "4411155307e265d6ca5a87a03bd2c3e8e28d7b9e497de624f8339dfc592b3b26",
+  "cacheSourceId": "e661f64238c6d6cf6e26",
+  "retrievedAt": "2026-11-06T22:22:10.938134+00:00",
+  "reviewedMappings": {
+    "2019-3-03:0": "Reviewed amplitude, period, angular frequency and maximum speed formulas. Same release displacement gives amplitude d; mass doubling gives period ratio sqrt2; Kmax=(mass/2)(d sqrt(k/mass))²=kd²/2 for either mass. Only ㄴ and ㄷ.",
+    "2019-3-03:1": "Period T=2pi sqrt(m/k) gives TB=sqrt2 TA; ㄱ false.",
+    "2019-3-03:2": "Release from rest at d sets equal amplitude; independently Kmax=kd²/2 also equal, so ㄷ omitted.",
+    "2019-3-03:3": "ㄱ false from mass-dependent period; ㄷ true from Kmax=kd²/2; ㄴ also true and omitted.",
+    "2019-3-03:4": "Equal amplitude d and Kmax=kd²/2, but unequal periods, yields ㄴ ㄷ. Energy result derived from reviewed vmax and omega formulas, not amplitude excerpt alone.",
+    "2019-3-03:5": "Cannot include ㄱ because TB/TA=sqrt2 rather than 1."
+  },
+  "retrievalMethod": "Direct web open and find: amplitude and release from rest lines 75–90; vmax=A omega line 165; omega=sqrt(k/m) and T=2pi sqrt(m/k) lines 171–190. Independently substituted into K=mv²/2 to derive equal maximum kinetic energy. Section 15.2 retrieval failed and was not used.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

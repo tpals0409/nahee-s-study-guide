@@ -1,0 +1,20 @@
+{
+  "id": "5f242ec7d4a3509b05a3",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "14.4 DNA Replication in Prokaryotes",
+  "url": "https://openstax.org/books/biology-2e/pages/14-4-dna-replication-in-prokaryotes",
+  "excerpt": "The addition of nucleotides requires energy;",
+  "sourceHash": "6278dea11529fceb58a0be2852697c4ec7485302e64c827784345a752550078a",
+  "cacheSourceId": "e176e048b7260e16229b",
+  "retrievedAt": "2026-11-06T20:32:41.689272+00:00",
+  "reviewedMappings": {
+    "2016-3-27:0": "본문31–35 DNA중합의 dNTP에너지와헬리케이스ATP가수분해 확인. 원본DNA→DNA(가)=복제, ㄱ참. 해당 선지의 포함/누락 진술을 대조.",
+    "2016-3-27:1": "본문31–35 DNA중합의 dNTP에너지와헬리케이스ATP가수분해 확인. 원본DNA→DNA(가)=복제, ㄱ참. 해당 선지의 포함/누락 진술을 대조.",
+    "2016-3-27:2": "본문31–35 DNA중합의 dNTP에너지와헬리케이스ATP가수분해 확인. 원본DNA→DNA(가)=복제, ㄱ참. 해당 선지의 포함/누락 진술을 대조.",
+    "2016-3-27:4": "본문31–35 DNA중합의 dNTP에너지와헬리케이스ATP가수분해 확인. 원본DNA→DNA(가)=복제, ㄱ참. 해당 선지의 포함/누락 진술을 대조.",
+    "2016-3-27:5": "본문31–35 DNA중합의 dNTP에너지와헬리케이스ATP가수분해 확인. 원본DNA→DNA(가)=복제, ㄱ참. 해당 선지의 포함/누락 진술을 대조."
+  },
+  "retrievalMethod": "Direct web open; relevant polymerization, transcription and ribosome sections reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

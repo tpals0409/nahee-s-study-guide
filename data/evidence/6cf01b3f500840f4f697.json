@@ -1,0 +1,16 @@
+{
+  "id": "6cf01b3f500840f4f697",
+  "kind": "science",
+  "source": "OpenStax · Biology 2e",
+  "ref": "14.1 Historical Basis of Modern Understanding",
+  "url": "https://openstax.org/books/biology-2e/pages/14-1-historical-basis-of-modern-understanding",
+  "excerpt": "DNA was the genetic material and not proteins",
+  "sourceHash": "6cd799a5cb19da46020cd59516a1a2c3e3ae66f75be3c91b3eb970c78ad7a035",
+  "cacheSourceId": "f49d64f4776db8c02bb8",
+  "retrievedAt": "2026-11-06T15:51:00.012530+00:00",
+  "reviewedMappings": {
+    "2010-3-28:3": "Hershey/Chase 파지 방사성 표지 실험과 결론 대조. 연구 질문은 유전물질 식별."
+  },
+  "retrievalMethod": "web source text reviewed; selected excerpts retained",
+  "sourceHashScope": "Excerpt text only, not full page"
+}

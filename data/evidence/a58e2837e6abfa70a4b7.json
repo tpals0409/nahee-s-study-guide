@@ -1,0 +1,16 @@
+{
+  "id": "a58e2837e6abfa70a4b7",
+  "kind": "science",
+  "source": "Washington State University",
+  "ref": "Growing Sweetpotatoes in Western Washington: Production Practices",
+  "url": "https://vegetables.wsu.edu/sweetpotato-production-practices/",
+  "excerpt": "Sweetpotatoes are tuberous roots (modified roots, commonly called storage roots), while potatoes and yams are both tubers (modified stems).",
+  "sourceHash": "a8fc0ff321b06d0e5252208052d490cbb892af410f789ca42f09d0dbc8233cd6",
+  "cacheSourceId": "208e2314fe0af585286f",
+  "retrievedAt": "2026-11-06T21:22:26.969267+00:00",
+  "reviewedMappings": {
+    "2017-3-26:2": "대학 자료의 Introduction에 명시된 저장뿌리와 변형줄기를 대조. 동일한 저장 기능과 다른 기관 기원이라는 상사기관 기준을 적용하며 식물 전체를 기관으로 부르지 않음."
+  },
+  "retrievalMethod": "Search-indexed primary page text reviewed; direct open returned 403",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

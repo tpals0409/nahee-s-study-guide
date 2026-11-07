@@ -1,0 +1,96 @@
+{
+  "id": "2021-3-29",
+  "summary": "RT-PCR은 바이러스 RNA를 역전사하여 cDNA로 바꾼 뒤 표적 DNA를 증폭하는 검사입니다. 역전사효소, 열안정성 DNA 중합효소, DNA 합성 재료인 dNTP, 표적 유전자 특이적 프라이머가 필요합니다. 바이러스 특이적 IgM은 이 핵산 증폭에 필요한 성분이 아니므로 정답입니다.",
+  "choices": [
+    "역전사효소는 바이러스 RNA를 주형으로 상보적 DNA(cDNA)를 합성하는 데 필요합니다. 이렇게 만들어진 DNA를 이후 PCR에서 증폭합니다.",
+    "열안정성 DNA 중합효소는 PCR의 반복적인 가열·냉각 과정에서 표적 DNA를 증폭하는 데 필요합니다. 정확한 반응 온도와 시간은 사용하는 효소와 검사법에 따라 달라집니다.",
+    "디옥시뉴클레오티드(dNTP): 필요한 시료입니다. dATP, dGTP, dCTP, dTTP는 역전사 단계의 cDNA 합성과 PCR 단계의 DNA 신장에 모두 쓰이는 기질(단량체)입니다.",
+    "바이러스 특이적 IgM은 항체로, 바이러스 RNA를 DNA로 바꾸거나 DNA를 증폭하는 데 필요한 효소·기질·프라이머가 아닙니다. RT-PCR의 핵산 검출과 혈청검사의 항체 검출은 구별해야 하므로, 제시된 항목 중 필요하지 않은 것은 바이러스 특이적 IgM입니다.",
+    "유전자 특이적 프라이머는 표적 서열에 상보적으로 결합하여 DNA 합성이 시작될 위치와 증폭할 영역을 정합니다. 표적에 맞는 프라이머 설계는 검출 특이성을 확보하는 데 중요합니다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "U.S. Food and Drug Administration",
+      "ref": "COVID-19 Test Basics",
+      "quote": "Antibody (or serology) tests look for antibodies in your blood",
+      "url": "https://www.fda.gov/consumers/consumer-updates/covid-19-test-basics",
+      "evidenceId": "d7d48ee8355c595d4eb7",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "New England Biolabs",
+      "ref": "OneTaq One-Step RT-PCR Kit E5315 Instruction Manual, Version 5.0 (10/2020)",
+      "quote": "cDNA synthesis and PCR amplification steps are performed in a single reaction using gene-specific primers",
+      "url": "https://prd-sccd01.neb.com/-/media/nebus/files/manuals/manuale5315.pdf?hash=F433EDD0986510AE7AFB0182EC638F1D&rev=d891c3dd27ac40269fe730e42789a95e",
+      "evidenceId": "7a10c398a9b9bce5594b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "New England Biolabs",
+      "ref": "OneTaq One-Step RT-PCR Kit E5315 Instruction Manual, Version 5.0 (10/2020)",
+      "quote": "cDNA synthesis and PCR amplification steps are performed in a single reaction using gene-specific primers",
+      "url": "https://prd-sccd01.neb.com/-/media/nebus/files/manuals/manuale5315.pdf?hash=F433EDD0986510AE7AFB0182EC638F1D&rev=d891c3dd27ac40269fe730e42789a95e",
+      "evidenceId": "7a10c398a9b9bce5594b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "New England Biolabs",
+      "ref": "OneTaq One-Step RT-PCR Kit E5315 Instruction Manual, Version 5.0 (10/2020)",
+      "quote": "cDNA synthesis and PCR amplification steps are performed in a single reaction using gene-specific primers",
+      "url": "https://prd-sccd01.neb.com/-/media/nebus/files/manuals/manuale5315.pdf?hash=F433EDD0986510AE7AFB0182EC638F1D&rev=d891c3dd27ac40269fe730e42789a95e",
+      "evidenceId": "7a10c398a9b9bce5594b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "New England Biolabs",
+      "ref": "OneTaq One-Step RT-PCR Kit E5315 Instruction Manual, Version 5.0 (10/2020)",
+      "quote": "cDNA synthesis and PCR amplification steps are performed in a single reaction using gene-specific primers",
+      "url": "https://prd-sccd01.neb.com/-/media/nebus/files/manuals/manuale5315.pdf?hash=F433EDD0986510AE7AFB0182EC638F1D&rev=d891c3dd27ac40269fe730e42789a95e",
+      "evidenceId": "7a10c398a9b9bce5594b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "New England Biolabs",
+      "ref": "OneTaq One-Step RT-PCR Kit E5315 Instruction Manual, Version 5.0 (10/2020)",
+      "quote": "cDNA synthesis and PCR amplification steps are performed in a single reaction using gene-specific primers",
+      "url": "https://prd-sccd01.neb.com/-/media/nebus/files/manuals/manuale5315.pdf?hash=F433EDD0986510AE7AFB0182EC638F1D&rev=d891c3dd27ac40269fe730e42789a95e",
+      "evidenceId": "7a10c398a9b9bce5594b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "New England Biolabs",
+      "ref": "OneTaq One-Step RT-PCR Kit E5315 Instruction Manual, Version 5.0 (10/2020)",
+      "quote": "cDNA synthesis and PCR amplification steps are performed in a single reaction using gene-specific primers",
+      "url": "https://prd-sccd01.neb.com/-/media/nebus/files/manuals/manuale5315.pdf?hash=F433EDD0986510AE7AFB0182EC638F1D&rev=d891c3dd27ac40269fe730e42789a95e",
+      "evidenceId": "7a10c398a9b9bce5594b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Manual reagent-role review against manufacturer RT-PCR manual and FDA assay-type distinction",
+    "contentHash": "b1c98301167e64e00e59cd287e6b30bc4f735421e956215f37639a43e07d575a"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "6eac5fdcd1fad2bca348",
+  "kind": "science",
+  "source": "Australian Museum",
+  "ref": "Looking inside the Earth",
+  "url": "https://australian.museum/learn/minerals/shaping-earth/looking-inside-the-earth/",
+  "excerpt": "the continental crust is much thicker",
+  "sourceHash": "791d29c735fb998d8cfdd3118f3f264da1d70acfa9458f49b7a03fc1943ee75e",
+  "cacheSourceId": "2513a0cfaff751c133d6",
+  "retrievedAt": "2026-11-06T19:01:36.618788+00:00",
+  "reviewedMappings": {
+    "2014-3-31:2": "34행 대륙/해양 지각 두께 비교 확인. 과거 모델의 구체적 경계 깊이 수치는 불필요하여 사용하지 않음."
+  },
+  "retrievalMethod": "web.open",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

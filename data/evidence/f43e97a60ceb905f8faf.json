@@ -1,0 +1,16 @@
+{
+  "id": "f43e97a60ceb905f8faf",
+  "kind": "science",
+  "source": "British Geological Survey",
+  "ref": "West Lothian Geodiversity, Volume 1",
+  "url": "https://www.westlothian.gov.uk/media/13502/West-Lothian-Geodiversity-Volume-1-Report/pdf/BGS_West_Lothian_Geodiversity_Report6.pdf?m=1470840427403",
+  "excerpt": "Raised beaches comprise material, originally deposited in a coastal environment, which has since been elevated due to falling sea-level or uplifting land.",
+  "sourceHash": "536adc975384056c94005d9e8ed3ce6f77ed2480885f328d2419f9b0b3931846",
+  "cacheSourceId": "85691d81fd269222cafd",
+  "retrievedAt": "2026-11-06T18:22:23.729930+00:00",
+  "reviewedMappings": {
+    "2013-3-34:1": "융기해빈의 과거 해안 퇴적물과 현재 높이 및 육지 상승·해수면 하강 구별."
+  },
+  "retrievalMethod": "web.search_query: indexed BGS report hosted by West Lothian Council",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "0a490b679cb535a71260",
+  "kind": "science",
+  "source": "대한지질학회",
+  "ref": "백인성 외 (2023), 지질학회지 59(1):131–157, 서언; DOI 10.14770/jgsk.2023.003",
+  "url": "https://jgsk.or.kr/_common/do.php?a=full&aidx=35902&b=&bidx=3217",
+  "excerpt": "하성평야와 호수 등의 환경이 복합된 것으로 해석되었다",
+  "sourceHash": "7fc87e6990897c4654f8e6e23d8c6edde12e851267e5d22cb0e5df0883be759c",
+  "cacheSourceId": "a87b8da4c9c6fb74ddbd",
+  "retrievedAt": "2026-11-07T06:21:56.146872+00:00",
+  "reviewedMappings": {
+    "2024-3-36:3": "서언은 백악기 경상분지를 산지로 둘러싸인 충적분지로 설명하고 하성평야·호수의 복합 환경을 명시한다. 초록의 밀양소분지 실제 퇴적상 분석도 호성 환경을 뒷받침한다. 석탄 함량 순위나 석회암 최상급의 근거로는 사용하지 않는다."
+  },
+  "retrievalMethod": "web.open direct article body",
+  "sourceHashScope": "reviewed short excerpt only"
+}

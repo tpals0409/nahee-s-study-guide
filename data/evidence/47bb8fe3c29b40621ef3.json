@@ -1,0 +1,19 @@
+{
+  "id": "47bb8fe3c29b40621ef3",
+  "kind": "science",
+  "source": "Korea Polar Research Institute / Acta Geologica Sinica",
+  "ref": "Reefs in the Early Paleozoic Taebaek Group, Korea: A Review",
+  "url": "https://repository.kopri.re.kr/handle/201206/6400",
+  "excerpt": "patch reefs formed in shallow subtidal environments.",
+  "sourceHash": "5fffa500d9e7711879bfdb279ee81fc3529f8caba5029304e11c7359a04e4b74",
+  "cacheSourceId": "54e1d2a023cfec6bb0c4",
+  "retrievedAt": "2026-11-06T19:54:19.335625+00:00",
+  "reviewedMappings": {
+    "2015-3-33:0": "연구소 저장소 초록 64–68행에서 캄브리아기–오르도비스기 태백층군의 대기층·두무골층 천해 생물초, 막골층 조간대~조상대, 두위봉층 얕은 여울 환경을 대조했다. 일부 화절층의 상대적으로 깊은 조하대 예도 있어 모든 층의 수심을 동일시하지 않는다. 그래도 제시된 대규모 석회암층을 4~5km 이상의 심해 퇴적물로 설명할 수 없다.",
+    "2015-3-33:3": "연구소 저장소 초록 64–68행에서 캄브리아기–오르도비스기 태백층군의 대기층·두무골층 천해 생물초, 막골층 조간대~조상대, 두위봉층 얕은 여울 환경을 대조했다. 일부 화절층의 상대적으로 깊은 조하대 예도 있어 모든 층의 수심을 동일시하지 않는다. 그래도 제시된 대규모 석회암층을 4~5km 이상의 심해 퇴적물로 설명할 수 없다.",
+    "2015-3-33:4": "연구소 저장소 초록 64–68행에서 캄브리아기–오르도비스기 태백층군의 대기층·두무골층 천해 생물초, 막골층 조간대~조상대, 두위봉층 얕은 여울 환경을 대조했다. 일부 화절층의 상대적으로 깊은 조하대 예도 있어 모든 층의 수심을 동일시하지 않는다. 그래도 제시된 대규모 석회암층을 4~5km 이상의 심해 퇴적물로 설명할 수 없다.",
+    "2015-3-33:5": "연구소 저장소 초록 64–68행에서 캄브리아기–오르도비스기 태백층군의 대기층·두무골층 천해 생물초, 막골층 조간대~조상대, 두위봉층 얕은 여울 환경을 대조했다. 일부 화절층의 상대적으로 깊은 조하대 예도 있어 모든 층의 수심을 동일시하지 않는다. 그래도 제시된 대규모 석회암층을 4~5km 이상의 심해 퇴적물로 설명할 수 없다."
+  },
+  "retrievalMethod": "Direct web open; repository abstract lines 64–68 reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

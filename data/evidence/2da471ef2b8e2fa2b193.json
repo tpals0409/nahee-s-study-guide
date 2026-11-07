@@ -1,0 +1,16 @@
+{
+  "id": "2da471ef2b8e2fa2b193",
+  "kind": "science",
+  "source": "USGS",
+  "ref": "Eolian Processes",
+  "url": "https://pubs.usgs.gov/gip/deserts/eolian/",
+  "excerpt": "Ventifacts are rocks which have been cut, and sometimes polished, by the abrasive action of wind.",
+  "sourceHash": "6f54e94e5f0aeaaa4c44b628d20ae4f98bd551454140a42b4d2824c1f3b227c3",
+  "cacheSourceId": "51e3245a67d0c04d3349",
+  "retrievedAt": "2026-11-06T18:18:03.511564+00:00",
+  "reviewedMappings": {
+    "2013-3-32:0": "ㄷ: 풍식력에 의한 암석마식 정의 확인. 삼릉석을 물의용해산물로 분류하지 않음."
+  },
+  "retrievalMethod": "web.search_query indexed official source excerpt",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

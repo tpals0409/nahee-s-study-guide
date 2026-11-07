@@ -1,0 +1,140 @@
+{
+  "id": "2019-3-14",
+  "summary": "제시된 구조에서 질소 5개는 각각 비공유 전자쌍 1개를 갖습니다. σ 결합은 16개이고 탄소 5개는 모두 sp² 혼성입니다. 따라서 ㄱ과 ㄷ이 옳으며 정답은 ③입니다.",
+  "choices": [
+    "ㄱ은 옳지만 ㄷ도 옳습니다. 비공유 전자쌍은 총 5개이고, 탄소 5개 모두 sp² 혼성입니다.",
+    "ㄴ은 틀립니다. 고리의 연결 6+5−1=10개, 고리와 NH₂ 사이 1개, 수소와의 결합 5개를 더하면 σ 결합은 16개입니다.",
+    "정답입니다. 각 질소의 옥텟을 완성하는 비공유 전자쌍은 1개씩입니다. 탄소 5개는 각각 세 결합 영역을 가지며 sp² 혼성으로 σ 결합에 참여합니다.",
+    "ㄷ은 옳지만 ㄴ은 틀립니다. σ 결합은 12개가 아니라 16개이며, 옳은 ㄱ도 빠져 있습니다.",
+    "ㄴ이 틀리므로 세 진술을 모두 고를 수 없습니다. 이중결합도 σ 결합은 하나씩 세어 총 16개입니다."
+  ],
+  "lawNote": "비공유 전자쌍은 제시된 루이스 구조를 기준으로 셉니다. 두 고리가 공유하는 결합은 한 번만 세고, NH₂ 안의 N–H 결합 두 개도 포함합니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "7.3 Lewis Symbols and Structures",
+      "quote": "Group 15 elements such as nitrogen have five valence electrons",
+      "url": "https://openstax.org/books/chemistry-2e/pages/7-3-lewis-symbols-and-structures",
+      "evidenceId": "3bd80be6999758191450",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "7.3 Lewis Symbols and Structures",
+      "quote": "Group 15 elements such as nitrogen have five valence electrons",
+      "url": "https://openstax.org/books/chemistry-2e/pages/7-3-lewis-symbols-and-structures",
+      "evidenceId": "3bd80be6999758191450",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "7.3 Lewis Symbols and Structures",
+      "quote": "Group 15 elements such as nitrogen have five valence electrons",
+      "url": "https://openstax.org/books/chemistry-2e/pages/7-3-lewis-symbols-and-structures",
+      "evidenceId": "3bd80be6999758191450",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "7.3 Lewis Symbols and Structures",
+      "quote": "Group 15 elements such as nitrogen have five valence electrons",
+      "url": "https://openstax.org/books/chemistry-2e/pages/7-3-lewis-symbols-and-structures",
+      "evidenceId": "3bd80be6999758191450",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "7.3 Lewis Symbols and Structures",
+      "quote": "Group 15 elements such as nitrogen have five valence electrons",
+      "url": "https://openstax.org/books/chemistry-2e/pages/7-3-lewis-symbols-and-structures",
+      "evidenceId": "3bd80be6999758191450",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "8.3 Multiple Bonds",
+      "quote": "The three bonding regions form a trigonal planar electron-pair geometry.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/8-3-multiple-bonds",
+      "evidenceId": "f8189b37560b45c7b0ce",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "8.3 Multiple Bonds",
+      "quote": "The three bonding regions form a trigonal planar electron-pair geometry.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/8-3-multiple-bonds",
+      "evidenceId": "f8189b37560b45c7b0ce",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "8.3 Multiple Bonds",
+      "quote": "The three bonding regions form a trigonal planar electron-pair geometry.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/8-3-multiple-bonds",
+      "evidenceId": "f8189b37560b45c7b0ce",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "8.3 Multiple Bonds",
+      "quote": "The three bonding regions form a trigonal planar electron-pair geometry.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/8-3-multiple-bonds",
+      "evidenceId": "f8189b37560b45c7b0ce",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "8.3 Multiple Bonds",
+      "quote": "The three bonding regions form a trigonal planar electron-pair geometry.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/8-3-multiple-bonds",
+      "evidenceId": "f8189b37560b45c7b0ce",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "8.3 Multiple Bonds",
+      "quote": "The three bonding regions form a trigonal planar electron-pair geometry.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/8-3-multiple-bonds",
+      "evidenceId": "f8189b37560b45c7b0ce",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Original adenine structure inspection; direct OpenStax Lewis and multiple-bond review; independent edge and valence-electron counts",
+    "contentHash": "7899dbb6136b74f07a4c457ee8975e73d837c2d5bfc5dbd030e099ade9e71bca"
+  }
+}

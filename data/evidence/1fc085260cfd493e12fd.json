@@ -1,0 +1,19 @@
+{
+  "id": "1fc085260cfd493e12fd",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Anatomy and Physiology 2e 25.8",
+  "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/25-8-endocrine-regulation-of-kidney-function",
+  "excerpt": "It promotes the recovery of water, decreases urine volume",
+  "sourceHash": "12b4760ceff2942f602a9887af1b8fbf2a3172a298dd1e66feb38abbc11a2d3a",
+  "cacheSourceId": "b576c5e2d4eff8adcd70",
+  "retrievedAt": "2026-11-07T05:47:16.999295+00:00",
+  "reviewedMappings": {
+    "2012-3-21:0": "본문39–41의 ADH 작용 직접 확인. 알도스테론 인용만으로 ADH까지 설명하던 매핑 보완; 집합관 아쿠아포린 삽입과 물 재흡수 구별.",
+    "2012-3-21:1": "본문39–41의 ADH 작용 직접 확인. 알도스테론 인용만으로 ADH까지 설명하던 매핑 보완; 집합관 아쿠아포린 삽입과 물 재흡수 구별.",
+    "2012-3-21:3": "본문39–41의 ADH 작용 직접 확인. 알도스테론 인용만으로 ADH까지 설명하던 매핑 보완; 집합관 아쿠아포린 삽입과 물 재흡수 구별.",
+    "2012-3-21:4": "본문39–41의 ADH 작용 직접 확인. 알도스테론 인용만으로 ADH까지 설명하던 매핑 보완; 집합관 아쿠아포린 삽입과 물 재흡수 구별."
+  },
+  "retrievalMethod": "Direct author institution abstract or publisher textbook HTML",
+  "sourceHashScope": "Selected short excerpt only; not full source"
+}

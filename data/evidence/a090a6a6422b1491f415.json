@@ -1,0 +1,17 @@
+{
+  "id": "a090a6a6422b1491f415",
+  "kind": "science",
+  "source": "Nucleic Acids Research (2004)",
+  "ref": "RNA silencing in plants by the expression of siRNA duplexes",
+  "url": "https://academic.oup.com/nar/article/32/21/e171/1101869?login=false",
+  "excerpt": "GUS gene was silenced in 80% of siRNA transgenics",
+  "sourceHash": "b9ebea13cb0f551be054cd33dbf1ac656dbac21ded2b877d49dc203ecdd0632d",
+  "cacheSourceId": "daa2f50987401120b12e",
+  "retrievedAt": "2026-11-06T18:56:06.432259+00:00",
+  "reviewedMappings": {
+    "2014-3-25:3": "동일 논문의 출판사 PDF 색인 초록에서 tobacco 실험 및 siRNA 매개 GUS 침묵 확인. 식물의 직접 실험이므로 동물에만 존재한다는 ㄴ의 반례. 수치80%를 일반적인 효과로 해설에 전용하지 않음.",
+    "2014-3-25:4": "동일 논문의 출판사 PDF 색인 초록에서 tobacco 실험 및 siRNA 매개 GUS 침묵 확인. 식물의 직접 실험이므로 동물에만 존재한다는 ㄴ의 반례. 수치80%를 일반적인 효과로 해설에 전용하지 않음."
+  },
+  "retrievalMethod": "web.search_query publisher article/PDF indexed abstract; direct HTML open returned cache miss",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

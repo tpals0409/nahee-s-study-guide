@@ -1,0 +1,16 @@
+{
+  "id": "fb38676bbb2c3a14301c",
+  "kind": "science",
+  "source": "BBA Clinical / PMC",
+  "ref": "Glycogen metabolism in humans, Introduction",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4802397",
+  "excerpt": "α-1,6-glycosidic bonds create the branch points",
+  "sourceHash": "d1efe59e86d53d1fcd544485ade9a9735c236ce402c148d1e53afcd61ada4786",
+  "cacheSourceId": "a532985f884081624e2d",
+  "retrievedAt": "2026-11-07T04:12:40.474409+00:00",
+  "reviewedMappings": {
+    "2026-3-27:5": "Author article Introduction in search-indexed record explicitly identifies glycogen branch bonds as alpha1-6. Direct full-page access returned reCAPTCHA; not represented as full-text review."
+  },
+  "retrievalMethod": "Search-indexed author article introduction",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,85 @@
+{
+  "id": "2022-3-15",
+  "summary": "정답은 ③입니다. NH₃는 삼각뿔형이어서 모든 원자가 한 평면에 놓이지 않습니다. 주어진 분자 중 이 조건을 만족하는 것은 직선형 CS₂와 평면형 CH₂O입니다.",
+  "choices": [
+    "옳습니다. NH₃의 공유·비공유 전자쌍은 각각 3개와 1개입니다. S=C=S의 공유 전자쌍은 4개, 두 S의 비공유 전자쌍은 총 4개입니다. 따라서 비율은 3과 1로, (가)가 (나)의 3배입니다.",
+    "옳습니다. NH₃는 삼각뿔형의 극성 분자입니다. CS₂는 대칭인 직선형이므로 분자 쌍극자 모멘트가 0입니다. 따라서 (가)가 더 큽니다.",
+    "옳지 않습니다. NH₃의 N은 세 H가 만드는 평면 밖에 있습니다. CS₂는 직선형이고 CH₂O는 C 주위가 평면 삼각형이므로 모든 원자가 한 평면에 놓입니다. 해당 분자는 (나)와 (다)입니다.",
+    "옳습니다. CS₂에는 C=S 이중결합 두 개, CH₂O에는 C=O 이중결합 한 개가 있습니다. NH₃와 SiH₄에는 단일결합만 있습니다.",
+    "옳습니다. CS₂의 S–C–S 결합각은 180°이고, 정사면체형 SiH₄의 H–Si–H 결합각은 약 109.5°입니다."
+  ],
+  "lawNote": "공유 전자쌍을 셀 때 이중결합은 두 쌍으로 셉니다. VSEPR의 전자 영역을 셀 때는 이중결합도 하나의 영역으로 취급합니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 7.3 Lewis Symbols and Structures",
+      "quote": "A single shared pair of electrons is called a single bond.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/7-3-lewis-symbols-and-structures",
+      "evidenceId": "1a3fa45b8ca0d5eb4955",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 7.3 Lewis Symbols and Structures",
+      "quote": "A single shared pair of electrons is called a single bond.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/7-3-lewis-symbols-and-structures",
+      "evidenceId": "1a3fa45b8ca0d5eb4955",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 7.6 Molecular Structure and Polarity",
+      "quote": "The trigonal pyramidal molecular structure is determined from the electron-pair geometry.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/7-6-molecular-structure-and-polarity",
+      "evidenceId": "daf33e2212b0ed27b0c0",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 7.6 Molecular Structure and Polarity",
+      "quote": "The trigonal pyramidal molecular structure is determined from the electron-pair geometry.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/7-6-molecular-structure-and-polarity",
+      "evidenceId": "daf33e2212b0ed27b0c0",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 7.6 Molecular Structure and Polarity",
+      "quote": "The trigonal pyramidal molecular structure is determined from the electron-pair geometry.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/7-6-molecular-structure-and-polarity",
+      "evidenceId": "daf33e2212b0ed27b0c0",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 7.6 Molecular Structure and Polarity",
+      "quote": "The trigonal pyramidal molecular structure is determined from the electron-pair geometry.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/7-6-molecular-structure-and-polarity",
+      "evidenceId": "daf33e2212b0ed27b0c0",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Original molecule labels and statements checked; independent valence-electron counts and VSEPR classification; direct Lewis-structure and polarity sources reviewed",
+    "contentHash": "0ae0195995c57fbcd8055c2bb1d9168f79c90b23eb187c737e93729e90665d59"
+  }
+}

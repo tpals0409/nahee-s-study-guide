@@ -1,0 +1,21 @@
+{
+  "id": "d1209367619e2db4ada7",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 2e §10.3 — Heating and Cooling Curves",
+  "url": "https://openstax.org/books/chemistry-2e/pages/10-3-phase-transitions",
+  "excerpt": "While a substance is undergoing a change in state, its temperature remains constant.",
+  "sourceHash": "72b026a5454566b02087153b61a91a974d6950ca8cdc0a29d6427d439b2fbfed",
+  "cacheSourceId": "90b93ca0991f1f309e1e",
+  "retrievedAt": "2026-11-06T21:41:20.581794+00:00",
+  "reviewedMappings": {
+    "2018-3-05:0": "평형 상전이 때 온도 일정, 단일상 가열 때 온도 상승의 설명을 원본 경로에 적용. P에만 수평구간이 있는④ 판정. 원본 다섯 그래프의 수평구간 위치를 직접 대조.",
+    "2018-3-05:1": "평형 상전이 때 온도 일정, 단일상 가열 때 온도 상승의 설명을 원본 경로에 적용. P에만 수평구간이 있는④ 판정. 원본 다섯 그래프의 수평구간 위치를 직접 대조.",
+    "2018-3-05:2": "평형 상전이 때 온도 일정, 단일상 가열 때 온도 상승의 설명을 원본 경로에 적용. P에만 수평구간이 있는④ 판정. 원본 다섯 그래프의 수평구간 위치를 직접 대조.",
+    "2018-3-05:3": "평형 상전이 때 온도 일정, 단일상 가열 때 온도 상승의 설명을 원본 경로에 적용. P에만 수평구간이 있는④ 판정. 원본 다섯 그래프의 수평구간 위치를 직접 대조.",
+    "2018-3-05:4": "평형 상전이 때 온도 일정, 단일상 가열 때 온도 상승의 설명을 원본 경로에 적용. P에만 수평구간이 있는④ 판정. 원본 다섯 그래프의 수평구간 위치를 직접 대조.",
+    "2018-3-05:5": "평형 상전이 때 온도 일정, 단일상 가열 때 온도 상승의 설명을 원본 경로에 적용. P에만 수평구간이 있는④ 판정. 원본 다섯 그래프의 수평구간 위치를 직접 대조."
+  },
+  "retrievalMethod": "Direct source page opened; relevant phase diagram or heating curve section reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

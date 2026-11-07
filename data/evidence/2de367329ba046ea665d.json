@@ -1,0 +1,20 @@
+{
+  "id": "2de367329ba046ea665d",
+  "kind": "science",
+  "source": "Applied Biosystems / Thermo Fisher Scientific",
+  "ref": "Primer Express software manual — sequencing primer design",
+  "url": "https://tools.thermofisher.com/content/sfs/manuals/cms_040955.pdf",
+  "excerpt": "this process of denaturation, primer annealing, and extension",
+  "sourceHash": "b6026719b574e05132bf434096eef401fdecef3fd43f1be99547c5db58d2f761",
+  "cacheSourceId": "418b3bdc707f40cc8312",
+  "retrievedAt": "2026-11-06T20:33:51.079451+00:00",
+  "reviewedMappings": {
+    "2016-3-28:0": "제조사매뉴얼 검색추출문은 Sanger사슬종결법이 단일가닥주형을요구하고AmpliTaq DNA중합효소를이용한변성/프라이머결합/신장사이클을명시. 이중가닥DNA를사용한다는원본조건에서수소결합해체필요. 모든Sanger법이반드시사이클시퀀싱이라는뜻으로확장하지않음. 선지의포함·누락진술과대조.",
+    "2016-3-28:1": "제조사매뉴얼 검색추출문은 Sanger사슬종결법이 단일가닥주형을요구하고AmpliTaq DNA중합효소를이용한변성/프라이머결합/신장사이클을명시. 이중가닥DNA를사용한다는원본조건에서수소결합해체필요. 모든Sanger법이반드시사이클시퀀싱이라는뜻으로확장하지않음. 선지의포함·누락진술과대조.",
+    "2016-3-28:2": "제조사매뉴얼 검색추출문은 Sanger사슬종결법이 단일가닥주형을요구하고AmpliTaq DNA중합효소를이용한변성/프라이머결합/신장사이클을명시. 이중가닥DNA를사용한다는원본조건에서수소결합해체필요. 모든Sanger법이반드시사이클시퀀싱이라는뜻으로확장하지않음. 선지의포함·누락진술과대조.",
+    "2016-3-28:4": "제조사매뉴얼 검색추출문은 Sanger사슬종결법이 단일가닥주형을요구하고AmpliTaq DNA중합효소를이용한변성/프라이머결합/신장사이클을명시. 이중가닥DNA를사용한다는원본조건에서수소결합해체필요. 모든Sanger법이반드시사이클시퀀싱이라는뜻으로확장하지않음. 선지의포함·누락진술과대조.",
+    "2016-3-28:5": "제조사매뉴얼 검색추출문은 Sanger사슬종결법이 단일가닥주형을요구하고AmpliTaq DNA중합효소를이용한변성/프라이머결합/신장사이클을명시. 이중가닥DNA를사용한다는원본조건에서수소결합해체필요. 모든Sanger법이반드시사이클시퀀싱이라는뜻으로확장하지않음. 선지의포함·누락진술과대조."
+  },
+  "retrievalMethod": "Web search indexed manufacturer manual excerpt retrieved and reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

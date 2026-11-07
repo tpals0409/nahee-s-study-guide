@@ -1,0 +1,20 @@
+{
+  "id": "300d1125d714d0b1e8b7",
+  "kind": "science",
+  "source": "Ocean Drilling Program",
+  "ref": "Yamano & Uyeda (1990), Heat-flow studies in the Peru Trench subduction zone",
+  "url": "https://www-odp.tamu.edu/publications/112_SR/VOLUME/CHAPTERS/sr112_44.pdf",
+  "excerpt": "Heat flow is lower than 40 mW/m2 at the bottom of the trench",
+  "sourceHash": "0a1bd4dffea653450cc6e028df7f604a3ddd6a409446a9fb55192e14d27e3115",
+  "cacheSourceId": "d6d25c12876adde7e22b",
+  "retrievedAt": "2026-11-07T05:42:53.076459+00:00",
+  "reviewedMappings": {
+    "2016-3-36:0": "ㄱ 관련: 페루 해구의 낮은 열류량을 뒷받침하는 지역 관측. 해령 대비의 전 지구 보편 명제나 저탁류 빈도의 증거로 사용하지 않음.",
+    "2016-3-36:1": "ㄱ 관련: 페루 해구의 낮은 열류량을 뒷받침하는 지역 관측. 해령 대비의 전 지구 보편 명제나 저탁류 빈도의 증거로 사용하지 않음.",
+    "2016-3-36:2": "ㄱ 관련: 페루 해구의 낮은 열류량을 뒷받침하는 지역 관측. 해령 대비의 전 지구 보편 명제나 저탁류 빈도의 증거로 사용하지 않음.",
+    "2016-3-36:4": "ㄱ 관련: 페루 해구의 낮은 열류량을 뒷받침하는 지역 관측. 해령 대비의 전 지구 보편 명제나 저탁류 빈도의 증거로 사용하지 않음.",
+    "2016-3-36:5": "ㄱ 관련: 페루 해구의 낮은 열류량을 뒷받침하는 지역 관측. 해령 대비의 전 지구 보편 명제나 저탁류 빈도의 증거로 사용하지 않음."
+  },
+  "retrievalMethod": "Direct PDF text via web open",
+  "sourceHashScope": "Selected short excerpt only; not full source"
+}

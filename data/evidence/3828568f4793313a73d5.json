@@ -1,0 +1,17 @@
+{
+  "id": "3828568f4793313a73d5",
+  "kind": "science",
+  "source": "NASA",
+  "ref": "What are the primary forcings of the Earth system?",
+  "url": "https://science.nasa.gov/big-questions/what-are-the-primary-causes-of-the-earth-system-variability/",
+  "excerpt": "The Sun is the primary forcing of Earth's climate system.",
+  "sourceHash": "c380bf25a2f91ea5b82e89d9033f30ff44ab7f6b832f69e1b1e92d8fd001f7ef",
+  "cacheSourceId": "4b46c5e2f970270a6af2",
+  "retrievedAt": "2026-11-07T04:16:04.374696+00:00",
+  "reviewedMappings": {
+    "2026-3-31:0": "275-276 identifies external sunlight forcing; terrestrial vs solar origin yields external-to-Earth classification. Do not conflate geographic internal/external distinction with climate-system internal variability versus forcing.",
+    "2026-3-31:4": "275-276 identifies external sunlight forcing; terrestrial vs solar origin yields external-to-Earth classification. Do not conflate geographic internal/external distinction with climate-system internal variability versus forcing."
+  },
+  "retrievalMethod": "Direct web find/open",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

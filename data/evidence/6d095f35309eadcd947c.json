@@ -1,0 +1,21 @@
+{
+  "id": "6d095f35309eadcd947c",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume 1 §7.1 Work",
+  "url": "https://openstax.org/books/university-physics-volume-1/pages/7-1-work",
+  "excerpt": "The simplest work to evaluate is that done by a force that is constant in magnitude and direction.",
+  "sourceHash": "e64e9168cd53ef60c11c775696a73541723e8f7fb11c1ae53d3d6f6b67268721",
+  "cacheSourceId": "533b167ba507c58c5786",
+  "retrievedAt": "2026-11-06T22:59:22.927198+00:00",
+  "reviewedMappings": {
+    "2020-3-01:0": "W=Fs cosθ에 θ=180°를 적용하여 W=−0.8 J, 절댓값 0.8 J를 검증했다.",
+    "2020-3-01:1": "W=Fs cosθ에 θ=180°를 적용하여 W=−0.8 J, 절댓값 0.8 J를 검증했다.",
+    "2020-3-01:2": "W=Fs cosθ에 θ=180°를 적용하여 W=−0.8 J, 절댓값 0.8 J를 검증했다.",
+    "2020-3-01:3": "W=Fs cosθ에 θ=180°를 적용하여 W=−0.8 J, 절댓값 0.8 J를 검증했다.",
+    "2020-3-01:4": "W=Fs cosθ에 θ=180°를 적용하여 W=−0.8 J, 절댓값 0.8 J를 검증했다.",
+    "2020-3-01:5": "W=Fs cosθ에 θ=180°를 적용하여 W=−0.8 J, 절댓값 0.8 J를 검증했다."
+  },
+  "retrievalMethod": "Direct open lines 29–55 work as dot product, constant-force formula and sign convention. Applied antiparallel force/displacement.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

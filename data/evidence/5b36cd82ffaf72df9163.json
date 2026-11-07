@@ -1,0 +1,14 @@
+{
+  "id": "5b36cd82ffaf72df9163",
+  "kind": "science",
+  "source": "OpenStax · Biology 2e",
+  "ref": "45.6 Community Ecology",
+  "url": "https://openstax.org/books/biology-2e/pages/45-6-community-ecology",
+  "excerpt": "Populations of predators and prey in a community are not constant over time",
+  "sourceHash": "f05f78b82bb7eb9ae8d9e890c827e4694ac02ff6a5dd4f67e1cce12692a708eb",
+  "cacheSourceId": "80ac23240e761e607733",
+  "retrievedAt": "2026-11-06T15:02:23.456318+00:00",
+  "reviewedMappings": {
+    "2010-3-29:0": "군집의 종간 상호작용으로 포식·피식 및 lynx/hare 예시를 설명하는 문맥 대조. ㄷ의 일반적 분류 판단만 지지하며 동종 섭식의 불가능을 주장하지 않음."
+  }
+}

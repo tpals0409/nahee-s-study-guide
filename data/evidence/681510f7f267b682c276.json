@@ -1,0 +1,21 @@
+{
+  "id": "681510f7f267b682c276",
+  "kind": "science",
+  "source": "NASA",
+  "ref": "NASA — Mars (Houston We Have a Podcast)",
+  "url": "https://www.nasa.gov/podcasts/houston-we-have-a-podcast/mars/",
+  "excerpt": "Mars’ atmosphere is 95% carbon dioxide, 2% nitrogen, and 2% argon",
+  "sourceHash": "93615d458106a976383b286972ca60791fa36c32779e643e864941bc06250278",
+  "cacheSourceId": "3f0945b9718ed317a5e7",
+  "retrievedAt": "2026-11-06T17:32:37.168929+00:00",
+  "reviewedMappings": {
+    "2012-3-32:0": "대기의 이산화탄소 우세 및 소량 질소 확인. 본문에 세부 수치의 불필요한 고정값은 넣지 않음.",
+    "2012-3-32:1": "대기의 이산화탄소 우세 및 소량 질소 확인. 본문에 세부 수치의 불필요한 고정값은 넣지 않음.",
+    "2012-3-32:2": "대기의 이산화탄소 우세 및 소량 질소 확인. 본문에 세부 수치의 불필요한 고정값은 넣지 않음.",
+    "2012-3-32:3": "대기의 이산화탄소 우세 및 소량 질소 확인. 본문에 세부 수치의 불필요한 고정값은 넣지 않음.",
+    "2012-3-32:4": "대기의 이산화탄소 우세 및 소량 질소 확인. 본문에 세부 수치의 불필요한 고정값은 넣지 않음.",
+    "2012-3-32:5": "대기의 이산화탄소 우세 및 소량 질소 확인. 본문에 세부 수치의 불필요한 고정값은 넣지 않음."
+  },
+  "retrievalMethod": "web.search_query; relevant NASA transcript excerpt reviewed",
+  "sourceHashScope": "Selected excerpt only; not full page"
+}

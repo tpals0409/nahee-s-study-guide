@@ -1,0 +1,18 @@
+{
+  "id": "3a233026e39ada9f573e",
+  "kind": "science",
+  "source": "NIH NIGMS",
+  "ref": "What Are Stem Cells?",
+  "url": "https://nigms.nih.gov/biobeat/2024/11/what-are-stem-cells",
+  "excerpt": "they can only differentiate into a small subset of cell types",
+  "sourceHash": "1f2173e033671139dc2c21495e8ca4fb9ee57092bab9edd67853bf5454b3d0bc",
+  "cacheSourceId": "77ab27453545dc372164",
+  "retrievedAt": "2026-11-07T03:27:03.554474+00:00",
+  "reviewedMappings": {
+    "2025-3-28:0": "성체줄기세포의 분화 범위가 일부 세포 유형에 제한된다는 설명으로 ㄴ을 반박한다.",
+    "2025-3-28:2": "성체줄기세포의 분화 범위가 일부 세포 유형에 제한된다는 설명으로 ㄴ을 반박한다.",
+    "2025-3-28:5": "성체줄기세포의 분화 범위가 일부 세포 유형에 제한된다는 설명으로 ㄴ을 반박한다."
+  },
+  "retrievalMethod": "Search-indexed article body; direct www page exposed only site shell",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "865d1b194196674896d3",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e 7.2 Glycolysis",
+  "url": "https://openstax.org/books/biology-2e/pages/7-2-glycolysis",
+  "excerpt": "This is an example of substrate-level phosphorylation.",
+  "sourceHash": "f2bf8d3181aa9bfaa063e7db7d53102f9b004f97f6cb4e4e8077faea4b36d423",
+  "cacheSourceId": "b7793cbc728ecaad493c",
+  "retrievedAt": "2026-11-06T19:39:26.354606+00:00",
+  "reviewedMappings": {
+    "2015-3-22:0": "해당과정 7·10단계의 직접 인산기 전달과 기질수준 인산화, 산소 부재 시 발효에 의한 NAD+ 재생 가능성을 본문에서 확인하였다.",
+    "2015-3-22:2": "해당과정 7·10단계의 직접 인산기 전달과 기질수준 인산화, 산소 부재 시 발효에 의한 NAD+ 재생 가능성을 본문에서 확인하였다.",
+    "2015-3-22:4": "해당과정 7·10단계의 직접 인산기 전달과 기질수준 인산화, 산소 부재 시 발효에 의한 NAD+ 재생 가능성을 본문에서 확인하였다."
+  },
+  "retrievalMethod": "Direct web page and relevant paragraphs read; selected short excerpt transcribed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

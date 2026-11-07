@@ -1,0 +1,21 @@
+{
+  "id": "3cbd2c947863d4a0eae4",
+  "kind": "science",
+  "source": "National Park Service",
+  "ref": "Volcanic Eruptions",
+  "url": "https://www.nps.gov/subjects/volcanoes/volcanic-eruptions.htm",
+  "excerpt": "magmas with high silica content are highly viscous",
+  "sourceHash": "f96134ec4bcbf71f3532799d0dc276912b1ab0f8c171a5c61ced2eeedfcc40af",
+  "cacheSourceId": "f52fb92391c8b1df6156",
+  "retrievedAt": "2026-11-07T03:31:56.680503+00:00",
+  "reviewedMappings": {
+    "2025-3-33:0": "Composition & Viscosity 절: 높은 SiO2의 사슬·망상 구조와 높은 점성, 점성 큰 용암이 넓게 퍼지지 않고 급경사 돔을 만든다는 설명 확인. ㄱ 반박 및 ㄷ 지지. 용존수 등 다른 영향도 있으므로 일반적 유형 비교로 한정.",
+    "2025-3-33:1": "Composition & Viscosity 절: 높은 SiO2의 사슬·망상 구조와 높은 점성, 점성 큰 용암이 넓게 퍼지지 않고 급경사 돔을 만든다는 설명 확인. ㄱ 반박 및 ㄷ 지지. 용존수 등 다른 영향도 있으므로 일반적 유형 비교로 한정.",
+    "2025-3-33:2": "Composition & Viscosity 절: 높은 SiO2의 사슬·망상 구조와 높은 점성, 점성 큰 용암이 넓게 퍼지지 않고 급경사 돔을 만든다는 설명 확인. ㄱ 반박 및 ㄷ 지지. 용존수 등 다른 영향도 있으므로 일반적 유형 비교로 한정.",
+    "2025-3-33:3": "Composition & Viscosity 절: 높은 SiO2의 사슬·망상 구조와 높은 점성, 점성 큰 용암이 넓게 퍼지지 않고 급경사 돔을 만든다는 설명 확인. ㄱ 반박 및 ㄷ 지지. 용존수 등 다른 영향도 있으므로 일반적 유형 비교로 한정.",
+    "2025-3-33:4": "Composition & Viscosity 절: 높은 SiO2의 사슬·망상 구조와 높은 점성, 점성 큰 용암이 넓게 퍼지지 않고 급경사 돔을 만든다는 설명 확인. ㄱ 반박 및 ㄷ 지지. 용존수 등 다른 영향도 있으므로 일반적 유형 비교로 한정.",
+    "2025-3-33:5": "Composition & Viscosity 절: 높은 SiO2의 사슬·망상 구조와 높은 점성, 점성 큰 용암이 넓게 퍼지지 않고 급경사 돔을 만든다는 설명 확인. ㄱ 반박 및 ㄷ 지지. 용존수 등 다른 영향도 있으므로 일반적 유형 비교로 한정."
+  },
+  "retrievalMethod": "Direct article sections read",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

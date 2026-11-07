@@ -324,3 +324,18 @@ console.log('persona review priority and question isolation ok');
 run('notesFlagged([]);');
 assert.match(app.innerHTML, /개정 의심으로 표시한 문제가 없어요/);
 assert.match(app.innerHTML, /href="#notes"/);
+
+// New evidence reaches existing installations; cached explanations still work offline.
+const cachedExplanation = {summary:'old'};
+let cacheWrites = 0;
+ctx.caches = {open:async()=>({match:async()=>({json:async()=>cachedExplanation}),put:async()=>{cacheWrites++;}})};
+ctx.navigator = {onLine:true};
+run(`post = async () => Response.json({summary:'new',basis:[{kind:'science'}]});`);
+assert.equal((await run("fetchExplain({id:'science'})")).summary,'new');
+assert.equal(cacheWrites,1);
+ctx.navigator.onLine=false;
+assert.equal((await run("fetchExplain({id:'science'})")).summary,'old');
+ctx.navigator.onLine=true;
+run(`post = async () => {throw new Error('offline')};`);
+assert.equal((await run("fetchExplain({id:'science'})")).summary,'old');
+console.log('explanation refresh and offline fallback ok');

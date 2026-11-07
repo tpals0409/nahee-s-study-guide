@@ -1,0 +1,17 @@
+{
+  "id": "ed61b75f341aa12d6abe",
+  "kind": "science",
+  "source": "UCAR Center for Science Education",
+  "ref": "The Stratosphere",
+  "url": "https://scied.ucar.edu/learning-zone/atmosphere/stratosphere",
+  "excerpt": "Temperatures rise as one moves upward through the stratosphere.",
+  "sourceHash": "1585819f8494532828047164b276fcead96ba6abdd85e3956b74444ce316970c",
+  "cacheSourceId": "8c572fc1b3bac8150539",
+  "retrievedAt": "2026-11-07T00:39:12.960841+00:00",
+  "reviewedMappings": {
+    "2021-3-39:0": "10–12행 상단 약50km, 상부경계 성층권계면, 오존 자외선 흡수와 기온 상승. EPA 오존층 고도와 대조해 기온 최대와 오존 밀집 영역 구별.",
+    "2021-3-39:3": "10–12행 상단 약50km, 상부경계 성층권계면, 오존 자외선 흡수와 기온 상승. EPA 오존층 고도와 대조해 기온 최대와 오존 밀집 영역 구별."
+  },
+  "retrievalMethod": "Direct official educational page opened and relevant paragraphs reviewed.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

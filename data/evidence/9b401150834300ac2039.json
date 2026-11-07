@@ -1,0 +1,16 @@
+{
+  "id": "9b401150834300ac2039",
+  "kind": "science",
+  "source": "NASA Salinity",
+  "ref": "NASA Salinity — Salinity Explained, major constituents table",
+  "url": "https://salinity.oceansciences.org/science-salinity.htm",
+  "excerpt": "Sodium and chloride together are about 85% by weight of all the dissolved stuff in sea water.",
+  "sourceHash": "f5d3720f3900072d9b18bc0817b2ea9a55d7a7925655ecf616e387ddb9bc0de2",
+  "cacheSourceId": "435639fc07572e543579",
+  "retrievedAt": "2026-11-06T17:39:48.279837+00:00",
+  "reviewedMappings": {
+    "2012-3-36:0": "원문 표의 염류 질량비 Cl 55.04%, Na 30.61%, sulfate 7.68%, Mg 3.69%, K 1.10%를 비교하여 다섯 선지 순위 확인. 표의 Cl 19.980‰는 총량 34.482와 비율 55.04%에 불일치하므로 정확한 농도 수치로 사용하지 않음."
+  },
+  "retrievalMethod": "web.open; major constituent table and mass-fraction discussion reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

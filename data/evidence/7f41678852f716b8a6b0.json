@@ -1,0 +1,21 @@
+{
+  "id": "7f41678852f716b8a6b0",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume 1, 17.4 Normal Modes of a Standing Sound Wave",
+  "url": "https://openstax.org/books/university-physics-volume-1/pages/17-4-normal-modes-of-a-standing-sound-wave",
+  "excerpt": "The distance from a node to an antinode is one-fourth of a wavelength",
+  "sourceHash": "c88c55f08ef551b82d27f7751459b0a53c15364c1a28af67ec32a745625e0602",
+  "cacheSourceId": "4ae28eb7b436af174863",
+  "retrievedAt": "2026-11-06T23:53:31.221736+00:00",
+  "reviewedMappings": {
+    "2021-3-07:0": "Closed fundamental lambda=4L; open tube ell=n lambda/2=2nL; minimum 2L.",
+    "2021-3-07:1": "ell=L/2 implies mode index 1/4, not a positive integer.",
+    "2021-3-07:2": "ell=L implies mode index 1/2; closed and open boundary conditions differ.",
+    "2021-3-07:3": "ell=3L/2 implies mode index 3/4, invalid.",
+    "2021-3-07:4": "ell=2L gives n=1, smallest positive open-tube mode.",
+    "2021-3-07:5": "ell=3L gives n=3/2, invalid despite being longer than minimum."
+  },
+  "retrievalMethod": "Original examination image checked: closed-open tube length L and open-open tube unknown length; end effects explicitly neglected. Direct OpenStax 17.4 prose lines 99–103,105,118–124,137–148 reviewed for displacement boundary conditions, closed fundamental lambda=4L, open modes lambda=2ell/n, and v=f lambda. Ignore erroneous image alt text at line 102 that reverses displacement nodes. Independently equate frequencies with same air sound speed: v/(4L)=nv/(2ell), hence ell=2nL; minimum n=1 gives 2L.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

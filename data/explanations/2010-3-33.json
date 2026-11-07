@@ -1,0 +1,74 @@
+{
+  "summary": "해양의 발산경계인 해령에서는 주로 얕은 지진이 발생합니다. 따라서 심발지진이 주로 발생한다는 ③이 옳지 않습니다.",
+  "choices": [
+    "일반적인 경향으로 해령의 열류량은 해구보다 높습니다. 해령의 뜨거운 물질 상승과 해구로 들어가는 차가운 판을 비교한 설명입니다.",
+    "판이 벌어지는 환경에서는 정단층 운동이 흔하므로 옳습니다.",
+    "해령의 지진은 상대적으로 얕습니다. 깊은 지진은 섭입하는 판과 관련되므로 해양 발산경계의 주된 특징으로 볼 수 없습니다.",
+    "판이 벌어진 틈으로 올라온 마그마가 굳어 새 해양지각이 만들어지고 해양판이 성장하므로 옳습니다.",
+    "대서양 중앙해령은 판들이 서로 멀어지는 해양 발산경계의 대표적인 예이므로 옳습니다."
+  ],
+  "lawNote": "①은 해령과 해구의 일반적인 열류량 경향을 비교한 것입니다. 모든 관측 지점의 수치가 예외 없이 같은 순서라는 뜻은 아닙니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "Steven Earle · BCcampus",
+      "ref": "Physical Geology 2e, 10.3 Geological Renaissance of the Mid-20th Century",
+      "quote": "higher than average along the ridges, and lower than average in the trench areas.",
+      "url": "https://opentextbc.ca/physicalgeology2ed/chapter/10-3-geological-renaissance-of-the-mid-20th-century/",
+      "evidenceId": "730950e5378f0e019da2",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "Steven Earle · BCcampus",
+      "ref": "Physical Geology 2e, 10.3 Geological Renaissance of the Mid-20th Century",
+      "quote": "ocean-ridge earthquakes were all relatively shallow",
+      "url": "https://opentextbc.ca/physicalgeology2ed/chapter/10-3-geological-renaissance-of-the-mid-20th-century/",
+      "evidenceId": "49a18826bcf76c20f685",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "NOAA",
+      "ref": "JetStream Max: Plate Tectonics and Earthquakes",
+      "quote": "At divergent boundaries, plates are moving away from each other.",
+      "url": "https://www.noaa.gov/jetstream/tsunamis/tsunami-generation-earthquakes/jetstream-max-plate-tectonics-and-earthquakes",
+      "evidenceId": "1d72879b553fec27b9bc",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "NOAA",
+      "ref": "JetStream Max: Plate Tectonics and Earthquakes",
+      "quote": "At divergent boundaries, plates are moving away from each other.",
+      "url": "https://www.noaa.gov/jetstream/tsunamis/tsunami-generation-earthquakes/jetstream-max-plate-tectonics-and-earthquakes",
+      "evidenceId": "1d72879b553fec27b9bc",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "NOAA",
+      "ref": "JetStream Max: Plate Tectonics and Earthquakes",
+      "quote": "At divergent boundaries, plates are moving away from each other.",
+      "url": "https://www.noaa.gov/jetstream/tsunamis/tsunami-generation-earthquakes/jetstream-max-plate-tectonics-and-earthquakes",
+      "evidenceId": "1d72879b553fec27b9bc",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "실제 다섯 선지를 BCcampus 해저 열류량·지진 관측 및 NOAA 판경계·단층 설명과 독립 대조. 초안의 불필요한 지진 깊이 수치, 고지자기 및 판 이름 나열을 제거.",
+    "contentHash": "e91e420ecae3f06ec44693f533b4524589e5b59f585e9797d94711f1fd7c4208"
+  }
+}

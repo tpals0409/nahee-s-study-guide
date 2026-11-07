@@ -1,0 +1,21 @@
+{
+  "id": "7f6b39a6ff1ca9033dc1",
+  "kind": "science",
+  "source": "Michael Arthur and Demian Saffer / The Pennsylvania State University",
+  "ref": "The Orographic Effect — EARTH 111",
+  "url": "https://courses.ems.psu.edu/earth111/node/751",
+  "excerpt": "the air descends and warms.",
+  "sourceHash": "53faf63e5044cc5def9ab64968c81575ae095bd95d36dfb50844ce461ce698dc",
+  "cacheSourceId": "c0b754c5c60272eeda8b",
+  "retrievedAt": "2026-11-06T20:46:20.641163+00:00",
+  "reviewedMappings": {
+    "2016-3-37:0": "원본에서 A·B 같은 높이, 구름 시작 800m, 정상 2000m. 자료의 불포화/포화 상승 및 하강 원리를 적용하고 문제의 감률로 30−8−6+20=36°C를 계산.",
+    "2016-3-37:1": "30°C는 800~2000m의 포화 상승에서 냉각이 줄어드는 효과를 반영하지 못한다. 모든 구간을 건조 감률로 계산하면 이 값이지만 문제 그림과 다르다.",
+    "2016-3-37:2": "정상 16°C에 2000m 하강의 20°C 승온을 더하면 36°C이므로 32°C는 불일치.",
+    "2016-3-37:3": "A 대비 순승온은 1200/100×(1−0.5)=6°C로 34°C가 아니다.",
+    "2016-3-37:4": "불포화 상승 30→22°C, 포화 상승 22→16°C, 구름 없는 풍하측 건조 하강 16→36°C. ④만 일치.",
+    "2016-3-37:5": "실제 계산은 36°C로 38°C는 2°C 높다. 초안의 습윤 감률 0 적용 예시는 42°C를 만들므로 잘못된 오답 경로 설명을 제거."
+  },
+  "retrievalMethod": "Direct web open; dry ascent, moist ascent after condensation, and leeward descent paragraphs reviewed.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

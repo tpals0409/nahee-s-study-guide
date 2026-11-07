@@ -1,0 +1,21 @@
+{
+  "id": "7aaee04df7b27623a180",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 2e 12.6 Reaction Mechanisms",
+  "url": "https://openstax.org/books/chemistry-2e/pages/12-6-reaction-mechanisms",
+  "excerpt": "the rate law is second order in A",
+  "sourceHash": "d1e90f062b646eb5426f16e3058fa64f4256683cd03760742cdfda9d3cdbb74f",
+  "cacheSourceId": "1d7a97e4b86fd9038394",
+  "retrievedAt": "2026-11-06T17:12:31.842675+00:00",
+  "reviewedMappings": {
+    "2012-3-13:0": "단일단계 2A 반응이므로 A에 대해2차. 원문 그래프 반감기100,200,400초와 일치.",
+    "2012-3-13:1": "단일단계 2A 반응이므로 A에 대해2차. 원문 그래프 반감기100,200,400초와 일치.",
+    "2012-3-13:2": "단일단계 2A 반응이므로 A에 대해2차. 원문 그래프 반감기100,200,400초와 일치.",
+    "2012-3-13:3": "단일단계 2A 반응이므로 A에 대해2차. 원문 그래프 반감기100,200,400초와 일치.",
+    "2012-3-13:4": "단일단계 2A 반응이므로 A에 대해2차. 원문 그래프 반감기100,200,400초와 일치.",
+    "2012-3-13:5": "단일단계 2A 반응이므로 A에 대해2차. 원문 그래프 반감기100,200,400초와 일치."
+  },
+  "retrievalMethod": "web.open relevant section and equations reviewed; selected excerpt retained",
+  "sourceHashScope": "Selected excerpt only; not full page"
+}

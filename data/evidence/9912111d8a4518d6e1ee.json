@@ -1,0 +1,21 @@
+{
+  "id": "9912111d8a4518d6e1ee",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume 3, 11.6 The Big Bang",
+  "url": "https://openstax.org/books/university-physics-volume-3/pages/11-6-the-big-bang",
+  "excerpt": "Hubble’s constant corresponds to the slope of the line",
+  "sourceHash": "76faa45c388fc401b3c49965aecb7ec6a01020b4d7c0d8706a02a0288f057a34",
+  "cacheSourceId": "358bdd0539383fa8ca8a",
+  "retrievedAt": "2026-11-07T00:37:19.534500+00:00",
+  "reviewedMappings": {
+    "2021-3-38:0": "34–47행 v=H₀d, 직선 기울기, 먼 은하의 평균적 후퇴 경향. 수치60은 출처70이 아니라 원본 점선 (1000,60000)으로 독립 계산. 개별 관측점과 추세선을 구별.",
+    "2021-3-38:1": "34–47행 v=H₀d, 직선 기울기, 먼 은하의 평균적 후퇴 경향. 수치60은 출처70이 아니라 원본 점선 (1000,60000)으로 독립 계산. 개별 관측점과 추세선을 구별.",
+    "2021-3-38:2": "34–47행 v=H₀d, 직선 기울기, 먼 은하의 평균적 후퇴 경향. 수치60은 출처70이 아니라 원본 점선 (1000,60000)으로 독립 계산. 개별 관측점과 추세선을 구별.",
+    "2021-3-38:3": "34–47행 v=H₀d, 직선 기울기, 먼 은하의 평균적 후퇴 경향. 수치60은 출처70이 아니라 원본 점선 (1000,60000)으로 독립 계산. 개별 관측점과 추세선을 구별.",
+    "2021-3-38:4": "34–47행 v=H₀d, 직선 기울기, 먼 은하의 평균적 후퇴 경향. 수치60은 출처70이 아니라 원본 점선 (1000,60000)으로 독립 계산. 개별 관측점과 추세선을 구별.",
+    "2021-3-38:5": "34–47행 v=H₀d, 직선 기울기, 먼 은하의 평균적 후퇴 경향. 수치60은 출처70이 아니라 원본 점선 (1000,60000)으로 독립 계산. 개별 관측점과 추세선을 구별."
+  },
+  "retrievalMethod": "Direct official page opened and relevant sections reviewed alongside original exam graph.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

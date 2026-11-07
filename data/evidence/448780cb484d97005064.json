@@ -1,0 +1,21 @@
+{
+  "id": "448780cb484d97005064",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume 1, 10.8 Work and Power for Rotational Motion",
+  "url": "https://openstax.org/books/university-physics-volume-1/pages/10-8-work-and-power-for-rotational-motion",
+  "excerpt": "The work-energy theorem for a rigid body rotating around a fixed axis is",
+  "sourceHash": "027b0d56802207d9b6ad8b3a0bdf6f27c6927207ccbfc74819c444a637947806",
+  "cacheSourceId": "36339ae7881b91401521",
+  "retrievedAt": "2026-11-06T23:51:04.245764+00:00",
+  "reviewedMappings": {
+    "2021-3-04:0": "Equal torque work and zero initial energy require I_b/I_a=4; equations 10.29–10.30 and K=Iomega²/2. Solving gives M/m=5/6.",
+    "2021-3-04:1": "Equal torque work and zero initial energy require I_b/I_a=4; equations 10.29–10.30 and K=Iomega²/2. Option M/m=3/5 yields inertia ratio 31/6; compare with required 4.",
+    "2021-3-04:2": "Equal torque work and zero initial energy require I_b/I_a=4; equations 10.29–10.30 and K=Iomega²/2. Option M/m=5/6 yields inertia ratio 4; compare with required 4.",
+    "2021-3-04:3": "Equal torque work and zero initial energy require I_b/I_a=4; equations 10.29–10.30 and K=Iomega²/2. Option M/m=6/5 yields inertia ratio 37/12; compare with required 4.",
+    "2021-3-04:4": "Equal torque work and zero initial energy require I_b/I_a=4; equations 10.29–10.30 and K=Iomega²/2. Option M/m=5/4 yields inertia ratio 3; compare with required 4.",
+    "2021-3-04:5": "Equal torque work and zero initial energy require I_b/I_a=4; equations 10.29–10.30 and K=Iomega²/2. Option M/m=5/3 yields inertia ratio 5/2; compare with required 4."
+  },
+  "retrievalMethod": "Original exam figure reviewed: sphere and horizontal thin ring rotate about the same vertical central axis in place, not rolling. Direct OpenStax 10.8 lines 48–75 and 99–105 reviewed for torque work and rotational kinetic energy; 10.5 lines 32–49 for I=integral(r² dm). Ring elements all have radius R, giving mR²; integral additivity gives combined inertia. Sphere formula supplied in exam. Independently verified I_b/I_a=4 from equal work and angular speeds 2omega/omega, and all five mass-ratio substitutions with exact fractions.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

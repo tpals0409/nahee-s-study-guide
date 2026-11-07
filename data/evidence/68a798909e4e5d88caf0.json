@@ -1,0 +1,16 @@
+{
+  "id": "68a798909e4e5d88caf0",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Microbiology 20.2 Detecting Antigen-Antibody Complexes",
+  "url": "https://openstax.org/books/microbiology/pages/20-2-detecting-antigen-antibody-complexes",
+  "excerpt": "some serve as opsonins to increase the efficiency of phagocytosis",
+  "sourceHash": "c03d316c9524451147ea4b9f40992ad612c643a8bc2f53c4c0a8d5fbd341b5da",
+  "cacheSourceId": "ea0b23898b65dea0c951",
+  "retrievedAt": "2026-11-07T02:39:21.756214+00:00",
+  "reviewedMappings": {
+    "2024-3-24:4": "Complement proteins promote phagocytosis and membrane lysis; distinct from the apoptotic fate in central B-cell tolerance."
+  },
+  "retrievalMethod": "Publisher indexed complement paragraph reviewed.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

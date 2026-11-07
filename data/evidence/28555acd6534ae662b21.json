@@ -1,0 +1,21 @@
+{
+  "id": "28555acd6534ae662b21",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Organic Chemistry 13.6 — Spin–Spin Splitting",
+  "url": "https://openstax.org/books/organic-chemistry/pages/13-6-spin-spin-splitting-in-1h-nmr-spectra",
+  "excerpt": "the interaction, or coupling, of the spins of nearby nuclei",
+  "sourceHash": "c956d903a9eb3514be010887c9ea310c76c7c52e47dceed3c6d4d1c341f69d69",
+  "cacheSourceId": "1185b4f037b91b2ccd57",
+  "retrievedAt": "2026-11-06T17:18:09.909532+00:00",
+  "reviewedMappings": {
+    "2012-3-19:0": "c가 가운데CH2이고 a/d와 이웃하여 스핀결합. 단순육중선으로 단정하지 않음.",
+    "2012-3-19:1": "c가 가운데CH2이고 a/d와 이웃하여 스핀결합. 단순육중선으로 단정하지 않음.",
+    "2012-3-19:2": "c가 가운데CH2이고 a/d와 이웃하여 스핀결합. 단순육중선으로 단정하지 않음.",
+    "2012-3-19:3": "c가 가운데CH2이고 a/d와 이웃하여 스핀결합. 단순육중선으로 단정하지 않음.",
+    "2012-3-19:4": "c가 가운데CH2이고 a/d와 이웃하여 스핀결합. 단순육중선으로 단정하지 않음.",
+    "2012-3-19:5": "c가 가운데CH2이고 a/d와 이웃하여 스핀결합. 단순육중선으로 단정하지 않음."
+  },
+  "retrievalMethod": "web.open relevant paragraphs and spectrum caption reviewed; selected excerpt retained",
+  "sourceHashScope": "Selected excerpt only; not full page"
+}

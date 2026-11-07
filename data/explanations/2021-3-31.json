@@ -1,0 +1,85 @@
+{
+  "id": "2021-3-31",
+  "summary": "탄산염 광물은 탄산 이온(CO₃²⁻)을 포함하는 광물입니다. 보기 중 돌로마이트(백운석, CaMg(CO₃)₂)가 해당합니다. 암염은 할로젠화 광물, 황동석은 황화 광물, 각섬석은 규산염 광물, 금강석은 원소 광물입니다.",
+  "choices": [
+    "암염의 화학식은 NaCl이며 할로젠화 광물로 분류됩니다. 탄산 이온을 포함하는 탄산염 광물이 아닙니다.",
+    "황동석의 화학식은 CuFeS₂이며 황화 광물로 분류됩니다. 탄산염 광물이 아닙니다.",
+    "각섬석은 규산염 광물에 속합니다. 각섬석군에는 조성이 다양한 광물들이 포함되지만, 탄산염 광물로 분류하지 않습니다.",
+    "금강석은 탄소(C)로 이루어진 원소 광물입니다. 탄소 원자가 들어 있다는 것과 탄산 이온(CO₃²⁻)을 포함한다는 것은 다르므로 탄산염 광물이 아닙니다.",
+    "돌로마이트는 백운석이라고도 하며 화학식은 CaMg(CO₃)₂입니다. 탄산 이온을 포함하는 탄산염 광물이므로 정답입니다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "Australian Museum",
+      "ref": "Mineral groups",
+      "quote": "Dolomite* CaMg(CO3)2(hex)",
+      "url": "https://australian.museum/learn/minerals/what-are-minerals/mineral-groups/",
+      "evidenceId": "5c7e7c3aa681b7befc96",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "Australian Museum",
+      "ref": "Mineral groups",
+      "quote": "Dolomite* CaMg(CO3)2(hex)",
+      "url": "https://australian.museum/learn/minerals/what-are-minerals/mineral-groups/",
+      "evidenceId": "5c7e7c3aa681b7befc96",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "Australian Museum",
+      "ref": "Mineral groups",
+      "quote": "Dolomite* CaMg(CO3)2(hex)",
+      "url": "https://australian.museum/learn/minerals/what-are-minerals/mineral-groups/",
+      "evidenceId": "5c7e7c3aa681b7befc96",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "Australian Museum",
+      "ref": "Mineral groups",
+      "quote": "Dolomite* CaMg(CO3)2(hex)",
+      "url": "https://australian.museum/learn/minerals/what-are-minerals/mineral-groups/",
+      "evidenceId": "5c7e7c3aa681b7befc96",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "Australian Museum",
+      "ref": "Mineral groups",
+      "quote": "Dolomite* CaMg(CO3)2(hex)",
+      "url": "https://australian.museum/learn/minerals/what-are-minerals/mineral-groups/",
+      "evidenceId": "5c7e7c3aa681b7befc96",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "Australian Museum",
+      "ref": "Mineral groups",
+      "quote": "Dolomite* CaMg(CO3)2(hex)",
+      "url": "https://australian.museum/learn/minerals/what-are-minerals/mineral-groups/",
+      "evidenceId": "5c7e7c3aa681b7befc96",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Manual mineral-class and formula comparison against museum mineral reference",
+    "contentHash": "19326016ddf32371a8dd12f8ec6127ef339731162f247663fe03f5b39fda9ee4"
+  }
+}

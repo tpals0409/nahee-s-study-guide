@@ -1,0 +1,16 @@
+{
+  "id": "c9fa139c16fb8564981f",
+  "kind": "science",
+  "source": "BCcampus",
+  "ref": "Steven Earle, Physical Geology §8.2 Relative Dating Methods",
+  "url": "https://opentextbc.ca/geology/chapter/8-2-relative-dating-methods/",
+  "excerpt": "a clast in sedimentary rock must be older than the rock that includes it",
+  "sourceHash": "701dde8f877b991d2d80e40ef43b7dacd241b6323de0512bdc7c290ad2688bdf",
+  "cacheSourceId": "c18745f081dfaa1d3ded",
+  "retrievedAt": "2026-11-06T17:44:28.350565+00:00",
+  "reviewedMappings": {
+    "2012-3-40:0": "원본 그림을 직접 해석하고 상대연령 원리에 연결. A-B-C 누중, A/B/C를 절단한 단층이 침식면에서 잘림, 암맥 상부가 침식면 위로 퍼진 형태와 D층의 동일색 암편을 결합해 단층-침식면-암맥-D 순서 추론. 단순 비접촉만으로 사건 선후를 단정하지 않음."
+  },
+  "retrievalMethod": "web.open; superposition, inclusions, cross-cutting and unconformity sections directly reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

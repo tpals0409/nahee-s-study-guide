@@ -1,0 +1,86 @@
+{
+  "id": "2017-3-14",
+  "summary": "C₆H₁₄의 구조 이성질체는 헥세인, 2-메틸펜테인, 3-메틸펜테인, 2,2-다이메틸뷰테인, 2,3-다이메틸뷰테인의 5가지입니다. 가장 긴 탄소 사슬의 길이에 따라 1+2+2가지로 세면 정답은 ③입니다.",
+  "choices": [
+    "오답입니다. 최장 사슬이 탄소 6개인 구조 1가지와 5개인 구조 2가지 외에, 최장 사슬이 4개인 다이메틸뷰테인 구조도 2가지 더 있습니다.",
+    "오답입니다. 2-메틸펜테인과 3-메틸펜테인은 서로 다른 연결 구조이며, 2,2-다이메틸뷰테인과 2,3-다이메틸뷰테인도 서로 다릅니다. 헥세인을 포함하면 4개가 아니라 5개입니다.",
+    "정답입니다. 헥세인 1가지, 메틸펜테인 2가지, 다이메틸뷰테인 2가지로 모두 5가지입니다.",
+    "오답입니다. 예를 들어 4-메틸펜테인은 반대쪽에서 번호를 매긴 2-메틸펜테인과 같은 구조입니다. 이런 중복을 제외하면 5개입니다.",
+    "오답입니다. 고리나 다중결합은 C₆H₁₄의 수소 수에 맞지 않습니다. 탄소의 네 결합과 동일 구조의 중복을 고려하면 가능한 사슬 골격은 5개뿐입니다."
+  ],
+  "lawNote": "구조 이성질체는 원자의 연결 방식이 다른 경우입니다. 사슬을 뒤집어 그리거나 단일결합을 회전해 모양만 바꾼 경우는 새 구조로 세지 않습니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Organic Chemistry, 3.2 Alkanes and Alkane Isomers",
+      "quote": "whose atoms are connected differently, are called constitutional isomers.",
+      "url": "https://openstax.org/books/organic-chemistry/pages/3-2-alkanes-and-alkane-isomers",
+      "evidenceId": "08e988bf42ae19faa2ed",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Organic Chemistry, 3.2 Alkanes and Alkane Isomers",
+      "quote": "whose atoms are connected differently, are called constitutional isomers.",
+      "url": "https://openstax.org/books/organic-chemistry/pages/3-2-alkanes-and-alkane-isomers",
+      "evidenceId": "08e988bf42ae19faa2ed",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Organic Chemistry, 3.2 Alkanes and Alkane Isomers",
+      "quote": "whose atoms are connected differently, are called constitutional isomers.",
+      "url": "https://openstax.org/books/organic-chemistry/pages/3-2-alkanes-and-alkane-isomers",
+      "evidenceId": "08e988bf42ae19faa2ed",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Organic Chemistry, 3.2 Alkanes and Alkane Isomers",
+      "quote": "whose atoms are connected differently, are called constitutional isomers.",
+      "url": "https://openstax.org/books/organic-chemistry/pages/3-2-alkanes-and-alkane-isomers",
+      "evidenceId": "08e988bf42ae19faa2ed",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Organic Chemistry, 3.2 Alkanes and Alkane Isomers",
+      "quote": "whose atoms are connected differently, are called constitutional isomers.",
+      "url": "https://openstax.org/books/organic-chemistry/pages/3-2-alkanes-and-alkane-isomers",
+      "evidenceId": "08e988bf42ae19faa2ed",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Organic Chemistry, 3.2 Alkanes and Alkane Isomers",
+      "quote": "whose atoms are connected differently, are called constitutional isomers.",
+      "url": "https://openstax.org/books/organic-chemistry/pages/3-2-alkanes-and-alkane-isomers",
+      "evidenceId": "08e988bf42ae19faa2ed",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "Original question inspected; carbon skeletons independently enumerated by longest path and valence; OpenStax constitutional-isomer definition and explicit hexane count reviewed.",
+    "contentHash": "d403647cb14c17041ff4f2e48be568bc0df9211c3f78fd03e1bb8a687ba361ad"
+  }
+}

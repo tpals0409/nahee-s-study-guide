@@ -1,0 +1,17 @@
+{
+  "id": "d62fa08032190adb3f6b",
+  "kind": "science",
+  "source": "PNAS / PubMed",
+  "ref": "Cao and Sarkar (1992), Poly(A) RNA in Escherichia coli",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/1380161/",
+  "excerpt": "with poly(A) attached to either of two sites in the downstream untranslated region of the transcript.",
+  "sourceHash": "b93e85c11335d4aef14917e5fac0349030873de5fc5cddb1531b3160fabd1292",
+  "cacheSourceId": "86905a1de1df9ec2084a",
+  "retrievedAt": "2026-11-07T05:07:54.320815+00:00",
+  "reviewedMappings": {
+    "2020-3-27:0": "세균lpp전사체의3prime말단 poly(A)를 서열로 확인한 실험.⑤의첨가자체를불가능하다고반박할수없으며 모든mRNA의보편적처리라고확대하지않는다.",
+    "2020-3-27:5": "세균lpp전사체의3prime말단 poly(A)를 서열로 확인한 실험.⑤의첨가자체를불가능하다고반박할수없으며 모든mRNA의보편적처리라고확대하지않는다."
+  },
+  "retrievalMethod": "Direct web open/find",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

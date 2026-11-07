@@ -1,0 +1,21 @@
+{
+  "id": "b57cd02466f0029f0942",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume 3, Chapter 5 Summary",
+  "url": "https://openstax.org/books/university-physics-volume-3/pages/5-summary",
+  "excerpt": "the laws of physics are the same in all inertial frames of reference.",
+  "sourceHash": "2a71b1554cef8eb9323967064ca3e6f05e5f77d67495479cdd4db621ea95708a",
+  "cacheSourceId": "8d3ce513a1a32d56152f",
+  "retrievedAt": "2026-11-07T01:37:05.733359+00:00",
+  "reviewedMappings": {
+    "2023-3-09:0": "5.3의 시간 팽창 식에 주어진 γ=13/5를 대입하면 Δt=13τ/5로 ②만 틀리다. γ²(1−β²)=1을 유리수로 검산했다.",
+    "2023-3-09:1": "5.1 두 번째 가정은 관성계와 광원의 상대운동에 무관한 진공 광속 불변을 명시하여 ①을 지지한다.",
+    "2023-3-09:2": "5.3은 동일 장소의 두 사건 사이 고유시간과 Δt=γΔτ를 정의한다. B에서 동일 장소인 두 사건을 A에서 측정하면 13τ/5이지 5τ/13이 아니다.",
+    "2023-3-09:3": "5.4 고유길이·길이수축 및 5.5 로런츠 변환을 적용한다. B에서 양끝을 동시에 측정하면 A의 정지 길이 Lp=γL이므로 L=5Lp/13이다.",
+    "2023-3-09:4": "5.6 속도 합성의 광속 상한 및 5.8–5.9 질량 있는 물체의 광속 도달 불가능성이 ④를 지지한다.",
+    "2023-3-09:5": "5.1 첫 번째 가정은 모든 관성계의 물리법칙이 동일함을 명시한다. 이 문제의 A·B를 관성 관측자로 해석하여 ⑤를 판단한다."
+  },
+  "retrievalMethod": "Direct web open; reviewed sections 5.1, 5.3–5.6, 5.8–5.9 including time dilation and Lorentz transformations; original question image independently inspected.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

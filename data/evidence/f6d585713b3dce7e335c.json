@@ -1,0 +1,17 @@
+{
+  "id": "f6d585713b3dce7e335c",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e, 4.5 The Cytoskeleton",
+  "url": "https://openstax.org/books/biology-2e/pages/4-5-the-cytoskeleton",
+  "excerpt": "microtubules are cytoskeletons' widest components.",
+  "sourceHash": "a57a0694e50b26de38b70c7d2c5cfb98c16ce3dc692c03444b8d731e81443713",
+  "cacheSourceId": "5769291e19816fb3f626",
+  "retrievedAt": "2026-11-07T01:49:53.264217+00:00",
+  "reviewedMappings": {
+    "2023-3-21:0": "세포골격3종의 직경 비교로 미세소관 최대:25nm>중간8~10nm>미세7nm.",
+    "2023-3-21:1": "미세소관약25nm,중간섬유8~10nm,미세섬유약7nm를 직접 대조해①참."
+  },
+  "retrievalMethod": "Direct web open/find; relevant cytoskeleton dimensions, lysosomes/peroxisomes, SER and Golgi transport sections reviewed.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "79b214ee77f43b0e2697",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Organic Chemistry, 7.2 Calculating the Degree of Unsaturation",
+  "url": "https://openstax.org/books/organic-chemistry/pages/7-2-calculating-the-degree-of-unsaturation",
+  "excerpt": "Ignore the number of oxygens.",
+  "sourceHash": "c1b35e0a22bfa7ed48483376468d6ded40d07a4805426a4fdda35c8ffe59258d",
+  "cacheSourceId": "89ec7a13b81c512338b3",
+  "retrievedAt": "2026-11-07T03:49:57.063295+00:00",
+  "reviewedMappings": {
+    "2026-3-11:0": "DBE=(2*6+2−12)/2=1; ketone C=O uses the sole unit, excluding rings and additional multiple bonds. Remaining carbon groups must be saturated acyclic groups. Independent exhaustive split gives 4+2=6, only choice 3.",
+    "2026-3-11:1": "DBE=(2*6+2−12)/2=1; ketone C=O uses the sole unit, excluding rings and additional multiple bonds. Remaining carbon groups must be saturated acyclic groups. Independent exhaustive split gives 4+2=6, only choice 3.",
+    "2026-3-11:2": "DBE=(2*6+2−12)/2=1; ketone C=O uses the sole unit, excluding rings and additional multiple bonds. Remaining carbon groups must be saturated acyclic groups. Independent exhaustive split gives 4+2=6, only choice 3.",
+    "2026-3-11:3": "DBE=(2*6+2−12)/2=1; ketone C=O uses the sole unit, excluding rings and additional multiple bonds. Remaining carbon groups must be saturated acyclic groups. Independent exhaustive split gives 4+2=6, only choice 3.",
+    "2026-3-11:4": "DBE=(2*6+2−12)/2=1; ketone C=O uses the sole unit, excluding rings and additional multiple bonds. Remaining carbon groups must be saturated acyclic groups. Independent exhaustive split gives 4+2=6, only choice 3.",
+    "2026-3-11:5": "DBE=(2*6+2−12)/2=1; ketone C=O uses the sole unit, excluding rings and additional multiple bonds. Remaining carbon groups must be saturated acyclic groups. Independent exhaustive split gives 4+2=6, only choice 3."
+  },
+  "retrievalMethod": "Direct web open",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "e7371e79a78260396aaf",
+  "kind": "science",
+  "source": "NASA",
+  "ref": "Moon Phases",
+  "url": "https://science.nasa.gov/moon/moon-phases/",
+  "excerpt": "A last quarter Moon, also known as a third quarter Moon, rises around the middle of the night and sets around midday.",
+  "sourceHash": "5faea9d63859f4ec01ead97a142c0631f08adb523e326acc02b1a5313588eae3",
+  "cacheSourceId": "874af81681f2cfda88e5",
+  "retrievedAt": "2026-11-07T05:29:23.148152+00:00",
+  "reviewedMappings": {
+    "2025-3-37:0": "NASA의 삭→상현→망→하현 위상 순서를 원본 A→B→C→D와 대조했다. D는 하현 반달이며 B의 상현 또는 삭 주변의 가는 달과 구별된다. 공전 도식은 원본 이미지에서 직접 확인.",
+    "2025-3-37:1": "NASA의 삭→상현→망→하현 위상 순서를 원본 A→B→C→D와 대조했다. D는 하현 반달이며 B의 상현 또는 삭 주변의 가는 달과 구별된다. 공전 도식은 원본 이미지에서 직접 확인.",
+    "2025-3-37:3": "NASA의 삭→상현→망→하현 위상 순서를 원본 A→B→C→D와 대조했다. D는 하현 반달이며 B의 상현 또는 삭 주변의 가는 달과 구별된다. 공전 도식은 원본 이미지에서 직접 확인.",
+    "2025-3-37:5": "NASA의 삭→상현→망→하현 위상 순서를 원본 A→B→C→D와 대조했다. D는 하현 반달이며 B의 상현 또는 삭 주변의 가는 달과 구별된다. 공전 도식은 원본 이미지에서 직접 확인."
+  },
+  "retrievalMethod": "Direct web open, relevant article sections read",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

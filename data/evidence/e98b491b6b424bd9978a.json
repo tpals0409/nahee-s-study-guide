@@ -1,0 +1,27 @@
+{
+  "id": "e98b491b6b424bd9978a",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 2e, 8.4 Molecular Orbital Theory",
+  "url": "https://openstax.org/books/chemistry-2e/pages/8-4-molecular-orbital-theory",
+  "excerpt": "Electron Configuration and Bond Order for Molecular Orbitals in Homonuclear Diatomic Molecules of Period Two Elements",
+  "sourceHash": "1f4ee61c6f34aacb1790ea341ea7c7d67d6c359d1d0ec00a4f25afc2afddd590",
+  "cacheSourceId": "f936573e674df7ac8d8e",
+  "retrievedAt": "2026-11-07T03:56:53.430013+00:00",
+  "reviewedMappings": {
+    "2026-3-13:0": "F2 has filled pi2p* HOMO and zero unpaired electrons; C=F. With distinct labels and period2–4 halogens, remaining A=Cl.",
+    "2026-3-13:1": "F2 has filled pi2p* HOMO and zero unpaired electrons; C=F. With distinct labels and period2–4 halogens, remaining A=Cl.",
+    "2026-3-13:2": "F2 has filled pi2p* HOMO and zero unpaired electrons; C=F. With distinct labels and period2–4 halogens, remaining A=Cl.",
+    "2026-3-13:3": "F2 has filled pi2p* HOMO and zero unpaired electrons; C=F. With distinct labels and period2–4 halogens, remaining A=Cl.",
+    "2026-3-13:4": "F2 has filled pi2p* HOMO and zero unpaired electrons; C=F. With distinct labels and period2–4 halogens, remaining A=Cl.",
+    "2026-3-13:5": "F2 has filled pi2p* HOMO and zero unpaired electrons; C=F. With distinct labels and period2–4 halogens, remaining A=Cl.",
+    "2026-3-14:0": "X=B,Y=C; B2 has two singly occupied pi orbitals while C2 has both filled. This identifies species and proves ㄴ.",
+    "2026-3-14:1": "X=B,Y=C; B2 has two singly occupied pi orbitals while C2 has both filled. This identifies species and proves ㄴ.",
+    "2026-3-14:2": "X=B,Y=C; B2 has two singly occupied pi orbitals while C2 has both filled. This identifies species and proves ㄴ.",
+    "2026-3-14:3": "X=B,Y=C; B2 has two singly occupied pi orbitals while C2 has both filled. This identifies species and proves ㄴ.",
+    "2026-3-14:4": "X=B,Y=C; B2 has two singly occupied pi orbitals while C2 has both filled. This identifies species and proves ㄴ.",
+    "2026-3-14:5": "X=B,Y=C; B2 has two singly occupied pi orbitals while C2 has both filled. This identifies species and proves ㄴ."
+  },
+  "retrievalMethod": "Direct web open",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

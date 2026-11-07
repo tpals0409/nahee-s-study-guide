@@ -1,0 +1,20 @@
+{
+  "id": "ff37287c8ec67b435ee7",
+  "kind": "science",
+  "source": "USDA Forest Service",
+  "ref": "Classification and Description of World Formation Types, Part II, v2.0: Tropical humid forest",
+  "url": "https://data.fs.usda.gov/research/pubs/iitf/other_iitf_2012_Faberp2.pdf",
+  "excerpt": "high acidity and low nutrient and organic matter content",
+  "sourceHash": "be18c8bbf01fd8ba41c6f2342c225f7ae880f332f3ffdcf589dfb5ad1a6aa5c5",
+  "cacheSourceId": "cb15d91116dcde8a0976",
+  "retrievedAt": "2026-11-07T02:44:35.714474+00:00",
+  "reviewedMappings": {
+    "2024-3-30:0": "Supports acidic weathered soils as a typical characteristic, not universal; explicitly notes rich volcanic/limestone soils as exceptions.",
+    "2024-3-30:1": "Supports acidic weathered soils as a typical characteristic, not universal; explicitly notes rich volcanic/limestone soils as exceptions.",
+    "2024-3-30:3": "Supports acidic weathered soils as a typical characteristic, not universal; explicitly notes rich volcanic/limestone soils as exceptions.",
+    "2024-3-30:4": "Supports acidic weathered soils as a typical characteristic, not universal; explicitly notes rich volcanic/limestone soils as exceptions.",
+    "2024-3-30:5": "Supports acidic weathered soils as a typical characteristic, not universal; explicitly notes rich volcanic/limestone soils as exceptions."
+  },
+  "retrievalMethod": "Indexed USDA formation description reviewed, including daily variation and soil exceptions on volcanic/limestone substrates.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

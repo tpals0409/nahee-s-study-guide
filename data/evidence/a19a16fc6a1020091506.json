@@ -1,0 +1,20 @@
+{
+  "id": "a19a16fc6a1020091506",
+  "kind": "science",
+  "source": "NOAA",
+  "ref": "Tsunami Warning Center Guide — Earth Data Observations",
+  "url": "https://nctr.pmel.noaa.gov/education/IOTWS/program_reports/TsunamiWarningCenterGuide.pdf",
+  "excerpt": "but unlike the ridges they have low levels of heat flow.",
+  "sourceHash": "8a9da56566c54ba4c6d75bc3bbea5c4148c8e080ea8353ce29d90bc23fad2982",
+  "cacheSourceId": "04be06eabae7770c3c05",
+  "retrievedAt": "2026-11-06T20:44:47.073503+00:00",
+  "reviewedMappings": {
+    "2016-3-36:0": "ㄱ의 일반적 비교를 지지한다. 해구는 해령과 달리 낮은 열류량을 보인다는 교육자료 서술. 모든 지점의 개별 측정값이 예외 없이 그렇다는 의미로 확대하지 않는다.",
+    "2016-3-36:1": "ㄱ의 일반적 비교를 지지한다. 해구는 해령과 달리 낮은 열류량을 보인다는 교육자료 서술. 모든 지점의 개별 측정값이 예외 없이 그렇다는 의미로 확대하지 않는다.",
+    "2016-3-36:2": "ㄱ의 일반적 비교를 지지한다. 해구는 해령과 달리 낮은 열류량을 보인다는 교육자료 서술. 모든 지점의 개별 측정값이 예외 없이 그렇다는 의미로 확대하지 않는다.",
+    "2016-3-36:4": "ㄱ의 일반적 비교를 지지한다. 해구는 해령과 달리 낮은 열류량을 보인다는 교육자료 서술. 모든 지점의 개별 측정값이 예외 없이 그렇다는 의미로 확대하지 않는다.",
+    "2016-3-36:5": "ㄱ의 일반적 비교를 지지한다. 해구는 해령과 달리 낮은 열류량을 보인다는 교육자료 서술. 모든 지점의 개별 측정값이 예외 없이 그렇다는 의미로 확대하지 않는다."
+  },
+  "retrievalMethod": "Indexed PDF search excerpt; full PDF not opened.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

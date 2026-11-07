@@ -1,0 +1,74 @@
+{
+  "summary": "ㄱ은 경쟁배타 원리, ㄷ은 포식기생, ㄹ은 상리공생에 해당합니다. 겨우살이는 광합성을 하면서도 숙주의 물과 양분을 이용하는 반기생 식물이므로 ㄴ은 틀립니다. 정답은 ㄱ·ㄷ·ㄹ인 ③입니다.",
+  "choices": [
+    "ㄴ이 틀리고 ㄹ이 빠졌습니다. 겨우살이는 숙주에서 자원을 얻는 기생 관계이며, 단순히 피해 없이 붙어 사는 편리공생이 아닙니다.",
+    "ㄹ도 옳습니다. 근류균은 식물에 이용 가능한 질소를 공급하고 식물은 탄수화물을 제공하므로 서로 이익을 얻습니다.",
+    "ㄱ·ㄷ·ㄹ이 맞습니다. 동일 지위의 경쟁배타, 숙주에서 자라며 죽음에 이르게 하는 포식기생, 토끼풀과 근류균의 상리공생을 고른 조합입니다.",
+    "ㄴ은 틀립니다. 광합성 여부만으로 기생성을 부정할 수 없습니다. 또한 ㄱ·ㄷ이 빠졌습니다.",
+    "ㄱ이 빠졌습니다. 제한된 자원을 완전히 같은 방식으로 이용하는 두 종의 지속적 공존이 어렵다는 경쟁배타 원리를 적용합니다."
+  ],
+  "lawNote": "ㄱ은 생태적 지위가 완전히 겹칠 때의 지속적 공존에 대한 원리입니다. 일부 자원을 공유하거나 일시적으로 함께 존재하는 것까지 금지한다는 뜻은 아닙니다. ㄷ은 기생과 포식의 성격을 함께 갖는 포식기생을 가리킵니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax Biology 2e 45.6",
+      "ref": "OpenStax Biology 2e 45.6",
+      "quote": "two species cannot occupy the same niche in a habitat.",
+      "url": "https://openstax.org/books/biology-2e/pages/45-6-community-ecology",
+      "evidenceId": "4e885044e87a5ab1140c",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "Texas A&M Forest Service",
+      "ref": "Texas A&M Forest Service — What you need to know about mistletoe",
+      "quote": "This is why mistletoe is specifically considered a hemiparasite",
+      "url": "https://tfsweb.tamu.edu/what-you-need-to-know-about-mistletoe/",
+      "evidenceId": "cf07362083aa2c91c211",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "University of Minnesota Extension",
+      "ref": "University of Minnesota Extension — Soil biology",
+      "quote": "the host plant supplies the rhizobium with simple carbohydrates.",
+      "url": "https://extension.umn.edu/natural-resources/conservation/agricultural-soil-and-water/soil-biology",
+      "evidenceId": "fefc92909d91b99a7b61",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "UC IPM",
+      "ref": "UC IPM — Natural Enemies Gallery",
+      "quote": "Larval stages of insect parasitoids feed on or inside of other insects, killing their hosts.",
+      "url": "https://ipm.ucanr.edu/natural-enemies/natenemiesorderfam.html",
+      "evidenceId": "eb6bada5d7cae40e85b9",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "The Canadian Entomologist",
+      "ref": "Katsoyannos & Aliniazee (1998), The Canadian Entomologist 130:905–906",
+      "quote": "The parasitic tachinid fly Strongygaster triangulifera (Loew) is widely distributed",
+      "url": "https://www.zin.ru/Animalia/Coleoptera/addpages/Andrey_Ukrainsky_Library/References_files/Katsoyannos98.pdf",
+      "evidenceId": "f8ad161e7ae01286e69a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "원본 전체 확인 후 기관 원문 네 절과 1998년 기생파리·무당벌레 원저 숙주 기록 대조. ㄱ의 지속 공존 조건 및 ㄷ의 포식기생 의미 명시. 저장 정답③ 일치.",
+    "contentHash": "2d7df420bbcb178bc1a94bdbfffca95174a008dada5dbae0f1c4dad1990eb126"
+  }
+}

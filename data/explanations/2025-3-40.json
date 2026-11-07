@@ -1,0 +1,85 @@
+{
+  "id": "2025-3-40",
+  "summary": "정답은 ① 35.5°입니다. 보기의 위도는 모두 북회귀선보다 북쪽이므로 하짓날 남중고도는 h = 90° − 위도 + 23.5°입니다. 따라서 위도 = 90° + 23.5° − 78° = 35.5°입니다.",
+  "choices": [
+    "35.5°: 정답입니다. 하짓날 남중고도는 90° − 35.5° + 23.5° = 78°로, 문제의 78°와 일치합니다.",
+    "36.5°: 오답입니다. 하짓날 남중고도는 90° − 36.5° + 23.5° = 77°로, 문제의 78°와 다릅니다.",
+    "37.5°: 오답입니다. 하짓날 남중고도는 90° − 37.5° + 23.5° = 76°로, 문제의 78°와 다릅니다.",
+    "38.5°: 오답입니다. 하짓날 남중고도는 90° − 38.5° + 23.5° = 75°로, 문제의 78°와 다릅니다.",
+    "39.5°: 오답입니다. 하짓날 남중고도는 90° − 39.5° + 23.5° = 74°로, 문제의 78°와 다릅니다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "NASA Goddard Space Flight Center",
+      "ref": "Navigation — Lesson Plan #8",
+      "quote": "The noontime Sun's altitude above the horizon is (90°+ 23.5°)– λ.",
+      "url": "https://pwg.gsfc.nasa.gov/stargaze/Lnavigat.htm",
+      "evidenceId": "dbfb4dc7bb9b06886ec8",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "NASA Goddard Space Flight Center",
+      "ref": "Navigation — Lesson Plan #8",
+      "quote": "The noontime Sun's altitude above the horizon is (90°+ 23.5°)– λ.",
+      "url": "https://pwg.gsfc.nasa.gov/stargaze/Lnavigat.htm",
+      "evidenceId": "dbfb4dc7bb9b06886ec8",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "NASA Goddard Space Flight Center",
+      "ref": "Navigation — Lesson Plan #8",
+      "quote": "The noontime Sun's altitude above the horizon is (90°+ 23.5°)– λ.",
+      "url": "https://pwg.gsfc.nasa.gov/stargaze/Lnavigat.htm",
+      "evidenceId": "dbfb4dc7bb9b06886ec8",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "NASA Goddard Space Flight Center",
+      "ref": "Navigation — Lesson Plan #8",
+      "quote": "The noontime Sun's altitude above the horizon is (90°+ 23.5°)– λ.",
+      "url": "https://pwg.gsfc.nasa.gov/stargaze/Lnavigat.htm",
+      "evidenceId": "dbfb4dc7bb9b06886ec8",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "NASA Goddard Space Flight Center",
+      "ref": "Navigation — Lesson Plan #8",
+      "quote": "The noontime Sun's altitude above the horizon is (90°+ 23.5°)– λ.",
+      "url": "https://pwg.gsfc.nasa.gov/stargaze/Lnavigat.htm",
+      "evidenceId": "dbfb4dc7bb9b06886ec8",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "NASA Goddard Space Flight Center",
+      "ref": "Navigation — Lesson Plan #8",
+      "quote": "The noontime Sun's altitude above the horizon is (90°+ 23.5°)– λ.",
+      "url": "https://pwg.gsfc.nasa.gov/stargaze/Lnavigat.htm",
+      "evidenceId": "dbfb4dc7bb9b06886ec8",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Original question image inspected; canonical answer compared with independent calculation; NASA summer-solstice formula and its latitude limitation directly reviewed; all five substitutions checked.",
+    "contentHash": "7e6adaa724ffc5c456648aaa5dd6020a83fb46457b9290c9135213d97342ac72"
+  }
+}

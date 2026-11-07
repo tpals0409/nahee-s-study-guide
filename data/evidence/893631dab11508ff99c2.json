@@ -1,0 +1,16 @@
+{
+  "id": "893631dab11508ff99c2",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume 2 §10.3, Figure 10.23 and voltage graph",
+  "url": "https://openstax.org/books/university-physics-volume-2/pages/10-3-kirchhoffs-rules",
+  "excerpt": "from the positive terminal to the negative terminal, subtract the potential drop.",
+  "sourceHash": "ae626bbed350400a9fe77641abbb09b7660ae446be543402d6ff19939fc11eba",
+  "cacheSourceId": "facaa543953c2bac1cb4",
+  "retrievedAt": "2026-11-06T16:18:59.090950+00:00",
+  "reviewedMappings": {
+    "2011-3-03:0": "원문 저항 전압강하 IR 및 전원 부호 규칙 대조. A→B는 전류 방향이므로 저항 −0.5×10=−5V, 전지는 +→−이므로 −2V. 따라서 VB−VA=−7V; 다섯 수치 선지를 독립 계산과 대조."
+  },
+  "retrievalMethod": "web.run source text, manually reviewed",
+  "sourceHashScope": "Selected excerpts only; not full page"
+}

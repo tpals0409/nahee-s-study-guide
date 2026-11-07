@@ -1,0 +1,16 @@
+{
+  "id": "5b3d95cf465950807dc8",
+  "kind": "science",
+  "source": "NASA",
+  "ref": "Earth’s Atmosphere: A Multi-layered Cake — Troposphere / Stratosphere",
+  "url": "https://science.nasa.gov/earth/earth-atmosphere/earths-atmosphere-a-multi-layered-cake/",
+  "excerpt": "home to Earth’s ozone layer",
+  "sourceHash": "4683b709b40d1774f737a73c0552fc30f068565f8f13f8ee1e52b21271a2e6a3",
+  "cacheSourceId": "b73aeed92c997dfcab3d",
+  "retrievedAt": "2026-11-06T16:07:31.288901+00:00",
+  "reviewedMappings": {
+    "2010-3-37:0": "ㄱ: 대류권의 일반적인 기온 감소. ㄷ: 성층권의 오존층 위치. 해당 발췌의 문단 제목과 본문을 함께 검토."
+  },
+  "retrievalMethod": "web.open/web.find publisher body read; selected excerpts transcribed",
+  "sourceHashScope": "Selected excerpts only; not full page"
+}

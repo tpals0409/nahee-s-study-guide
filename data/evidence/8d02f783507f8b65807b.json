@@ -1,0 +1,21 @@
+{
+  "id": "8d02f783507f8b65807b",
+  "kind": "science",
+  "source": "NASA",
+  "ref": "Sun: Facts",
+  "url": "https://science.nasa.gov/sun/facts/",
+  "excerpt": "electrically charged gas called plasma",
+  "sourceHash": "9748b55c12381f8ffa97580b0194ae9afe5499f9a8c4b6fd4a6a0fd4d600276d",
+  "cacheSourceId": "7f33c6493b447e5e2a5a",
+  "retrievedAt": "2026-11-07T02:55:20.256500+00:00",
+  "reviewedMappings": {
+    "2024-3-39:0": "태양의 플라스마 존재와 Structure 절의 핵·복사층·대류층 및 수소 핵융합 설명을 대조. ㄱ·ㄴ·ㄷ 모두 참인 조합으로 각 선지를 판정.",
+    "2024-3-39:1": "태양의 플라스마 존재와 Structure 절의 핵·복사층·대류층 및 수소 핵융합 설명을 대조. ㄱ·ㄴ·ㄷ 모두 참인 조합으로 각 선지를 판정.",
+    "2024-3-39:2": "태양의 플라스마 존재와 Structure 절의 핵·복사층·대류층 및 수소 핵융합 설명을 대조. ㄱ·ㄴ·ㄷ 모두 참인 조합으로 각 선지를 판정.",
+    "2024-3-39:3": "태양의 플라스마 존재와 Structure 절의 핵·복사층·대류층 및 수소 핵융합 설명을 대조. ㄱ·ㄴ·ㄷ 모두 참인 조합으로 각 선지를 판정.",
+    "2024-3-39:4": "태양의 플라스마 존재와 Structure 절의 핵·복사층·대류층 및 수소 핵융합 설명을 대조. ㄱ·ㄴ·ㄷ 모두 참인 조합으로 각 선지를 판정.",
+    "2024-3-39:5": "태양의 플라스마 존재와 Structure 절의 핵·복사층·대류층 및 수소 핵융합 설명을 대조. ㄱ·ㄴ·ㄷ 모두 참인 조합으로 각 선지를 판정."
+  },
+  "retrievalMethod": "Direct NASA page opened; relevant plasma and solar interior sections reviewed.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -622,10 +622,15 @@ async function fetchExplain(q) {
 	const cache = await caches.open("explain-v1");
 	const key = `/explain/${q.id}`;
 	const saved = await cache.match(key);
-	if (saved) return saved.json();
-	const result = await api("/api/explain", { id: q.id });
-	await cache.put(key, Response.json(result));
-	return result;
+	if (!navigator.onLine && saved) return saved.json();
+	try {
+		const result = await api("/api/explain", { id: q.id });
+		await cache.put(key, Response.json(result));
+		return result;
+	} catch (error) {
+		if (saved && error.status !== 401) return saved.json();
+		throw error;
+	}
 }
 
 async function loadExplain() {

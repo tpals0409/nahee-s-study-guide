@@ -1,0 +1,17 @@
+{
+  "id": "ad180cdccbf1b771f0ac",
+  "kind": "science",
+  "source": "Rockefeller University Press",
+  "ref": "Alloway (1933), J Exp Med 57:265–278",
+  "url": "https://rupress.org/jem/article-abstract/57/2/265/10356/FURTHER-OBSERVATIONS-ON-THE-USE-OF-PNEUMOCOCCUS?redirectedFrom=fulltext",
+  "excerpt": "They have been completely inactivated by boiling.",
+  "sourceHash": "1481a43b6033a657ae7cf11e4396e1269b19a8ca40c35c67860ca2e2122f91b9",
+  "cacheSourceId": "c934c9cabdd7bc7af603",
+  "retrievedAt": "2026-11-07T05:22:19.680402+00:00",
+  "reviewedMappings": {
+    "2012-3-29:0": "정제·여과한 추출물의 가열 결과다. 모든 열처리 후 형질전환 보존이라는 주장을 배제하되 본 문항의 죽은 세균 전체와 동일시하지 않는다.",
+    "2012-3-29:5": "ㄷ: 끓인 추출물의 활성 소실 보고는 열 안정성만으로 결과를 보장할 수 없음을 보여 준다. 100°C30분 세포 전체 실험의 직접 판정 근거는 아니다."
+  },
+  "retrievalMethod": "Direct web open",
+  "sourceHashScope": "Selected short excerpt only; not full article"
+}

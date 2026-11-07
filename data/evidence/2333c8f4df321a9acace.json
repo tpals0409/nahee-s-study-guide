@@ -1,0 +1,17 @@
+{
+  "id": "2333c8f4df321a9acace",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Microbiology 20.4 EIAs and ELISAs",
+  "url": "https://openstax.org/books/microbiology/pages/20-4-eias-and-elisas",
+  "excerpt": "use antibodies to precisely quantify specific antigen present in a solution",
+  "sourceHash": "2fd9859398ab5fbf5560378b2c3ad968ae257d47bee048ae9498cf56481a70b3",
+  "cacheSourceId": "54408795ce6d02c2da01",
+  "retrievedAt": "2026-11-07T02:41:00.984105+00:00",
+  "reviewedMappings": {
+    "2024-3-26:0": "ELISA uses antibodies/enzyme reporters and can quantify a serum protein or other antigen; protein detection is possible, not its exclusive use.",
+    "2024-3-26:5": "ELISA uses antibodies/enzyme reporters and can quantify a serum protein or other antigen; protein detection is possible, not its exclusive use."
+  },
+  "retrievalMethod": "Publisher indexed sandwich-ELISA paragraph and enzyme-antibody caption reviewed.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "2a46799b22103bef8b62",
+  "kind": "science",
+  "source": "Met Office",
+  "ref": "Global circulation patterns",
+  "url": "https://weather.metoffice.gov.uk/learn-about/weather/atmosphere/global-circulation-patterns",
+  "excerpt": "The main driver of global circulation is the uneven heating of Earth’s surface.",
+  "sourceHash": "86fdd7ee69b7cc6fc0117b49983d77cac156dbf3ba3202642fe99732c13cf7ca",
+  "cacheSourceId": "94fca54e952fbbb882c9",
+  "retrievedAt": "2026-11-06T18:24:39.837758+00:00",
+  "reviewedMappings": {
+    "2013-3-36:0": "본문 3세포 및 기압대 설명 대조: 위도별 차등 가열, 적도 방향 무역풍, 아열대 하강 고압대, 극전선 상승 저압대. 원본 A=0~30 Hadley, B=30~60 Ferrel."
+  },
+  "retrievalMethod": "web.open: official educational page",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "5dad6b555c4721ca1ecb",
+  "kind": "science",
+  "source": "NOAA",
+  "ref": "Norwegian Cyclone Model",
+  "url": "https://www.noaa.gov/jetstream/synoptic/norwegian-cyclone-model",
+  "excerpt": "separating warm air to the south from cold air to the north",
+  "sourceHash": "199e069c2cd532d097307c0deb8b74ecf606ea20f26b4570e43ec3b0fc4ceb5f",
+  "cacheSourceId": "d1e43617a70e4445f395",
+  "retrievedAt": "2026-11-07T00:29:51.051629+00:00",
+  "reviewedMappings": {
+    "2021-3-33:0": "Initial Condition and Beginning Stage: contrasting air masses, frontal wave and development of extratropical cyclone. Applies to ㄱ under the typical frontal cyclone model.",
+    "2021-3-33:1": "Initial Condition and Beginning Stage: contrasting air masses, frontal wave and development of extratropical cyclone. Applies to ㄱ under the typical frontal cyclone model.",
+    "2021-3-33:2": "Initial Condition and Beginning Stage: contrasting air masses, frontal wave and development of extratropical cyclone. Applies to ㄱ under the typical frontal cyclone model.",
+    "2021-3-33:3": "Initial Condition and Beginning Stage: contrasting air masses, frontal wave and development of extratropical cyclone. Applies to ㄱ under the typical frontal cyclone model.",
+    "2021-3-33:4": "Initial Condition and Beginning Stage: contrasting air masses, frontal wave and development of extratropical cyclone. Applies to ㄱ under the typical frontal cyclone model."
+  },
+  "retrievalMethod": "Initial Condition and Beginning Stage: contrasting air masses, frontal wave and development of extratropical cyclone. Applies to ㄱ under the typical frontal cyclone model.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

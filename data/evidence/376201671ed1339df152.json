@@ -1,0 +1,17 @@
+{
+  "id": "376201671ed1339df152",
+  "kind": "science",
+  "source": "NASA",
+  "ref": "Uranus: Facts",
+  "url": "https://science.nasa.gov/uranus/facts/",
+  "excerpt": "Saturn is the least dense of all",
+  "sourceHash": "ac6510facdd93ab7deb80d7452d7a52932eaa37276fb9258279f34ce9851c466",
+  "cacheSourceId": "653a3c495fa5356d5f31",
+  "retrievedAt": "2026-11-07T02:56:28.401745+00:00",
+  "reviewedMappings": {
+    "2024-3-40:1": "천왕성의 수소 화합물 내부와 토성의 최소 평균 밀도를 확인.",
+    "2024-3-40:3": "천왕성의 수소 화합물 내부와 토성의 최소 평균 밀도를 확인."
+  },
+  "retrievalMethod": "Direct Structure section reviewed.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

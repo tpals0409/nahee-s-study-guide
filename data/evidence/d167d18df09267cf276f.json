@@ -1,0 +1,21 @@
+{
+  "id": "d167d18df09267cf276f",
+  "kind": "science",
+  "source": "National Park Service",
+  "ref": "NPS Volcanic Eruptions",
+  "url": "https://www.nps.gov/subjects/volcanoes/volcanic-eruptions.htm",
+  "excerpt": "Highly viscous lavas do not spread out to form wide lava flows, but instead form steep-sided domes",
+  "sourceHash": "bced825fa1187e2fe06c837aecbfb4e22f81dfeeb6058c679439e86424323a74",
+  "cacheSourceId": "383b1c82a071998deadd",
+  "retrievedAt": "2026-11-07T04:21:24.207247+00:00",
+  "reviewedMappings": {
+    "2026-3-36:0": "Original table explicitly supplies A fluid/effusive B less fluid/explosive. NPS54 viscosity definition establishes ㄱ;55-56 steep viscous versus spreading fluid lava supports typical ㄴ;90 explosive fragmentation supports ㄷ. Combined alltrue =>5; no universal silica-only morphology rule.",
+    "2026-3-36:1": "Original table explicitly supplies A fluid/effusive B less fluid/explosive. NPS54 viscosity definition establishes ㄱ;55-56 steep viscous versus spreading fluid lava supports typical ㄴ;90 explosive fragmentation supports ㄷ. Combined alltrue =>5; no universal silica-only morphology rule.",
+    "2026-3-36:2": "Original table explicitly supplies A fluid/effusive B less fluid/explosive. NPS54 viscosity definition establishes ㄱ;55-56 steep viscous versus spreading fluid lava supports typical ㄴ;90 explosive fragmentation supports ㄷ. Combined alltrue =>5; no universal silica-only morphology rule.",
+    "2026-3-36:3": "Original table explicitly supplies A fluid/effusive B less fluid/explosive. NPS54 viscosity definition establishes ㄱ;55-56 steep viscous versus spreading fluid lava supports typical ㄴ;90 explosive fragmentation supports ㄷ. Combined alltrue =>5; no universal silica-only morphology rule.",
+    "2026-3-36:4": "Original table explicitly supplies A fluid/effusive B less fluid/explosive. NPS54 viscosity definition establishes ㄱ;55-56 steep viscous versus spreading fluid lava supports typical ㄴ;90 explosive fragmentation supports ㄷ. Combined alltrue =>5; no universal silica-only morphology rule.",
+    "2026-3-36:5": "Original table explicitly supplies A fluid/effusive B less fluid/explosive. NPS54 viscosity definition establishes ㄱ;55-56 steep viscous versus spreading fluid lava supports typical ㄴ;90 explosive fragmentation supports ㄷ. Combined alltrue =>5; no universal silica-only morphology rule."
+  },
+  "retrievalMethod": "Direct web find",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "f0eaf484fddfb0ab45cd",
+  "kind": "science",
+  "source": "U.S. National Park Service",
+  "ref": "Pyroclasts and Pyroclastic Rocks",
+  "url": "https://www.nps.gov/subjects/volcanoes/pyroclasts.htm",
+  "excerpt": "A consolidated pyroclastic rock made primarily of ash.",
+  "sourceHash": "6a0c26bcb4376d95a9c3e61368324218c4f19d91db353b0d376cfb3c7ee9c64f",
+  "cacheSourceId": "59d49fc75adfb4f71015",
+  "retrievedAt": "2026-11-06T20:41:06.888606+00:00",
+  "reviewedMappings": {
+    "2016-3-33:0": "응회암은 주로 화산재로 구성된 고결 화산쇄설암이므로 용암 자체의 냉각으로 생성됐다는 ⑤가 틀리다.",
+    "2016-3-33:5": "본문 Tuff 정의와 lithification/welding 설명을 대조했다. 화산재 등 쇄설물의 고결·용결이 핵심이며 무조건 퇴적암이라고 단정할 수 없다."
+  },
+  "retrievalMethod": "Direct web open; rock classification table, mineral compositions, and pyroclastic deposit definitions reviewed.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

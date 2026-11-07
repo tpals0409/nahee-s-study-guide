@@ -1,0 +1,16 @@
+{
+  "id": "415a1b3c2a98143af0b8",
+  "kind": "science",
+  "source": "NOAA",
+  "ref": "Parcel Theory",
+  "url": "https://www.noaa.gov/jetstream/upperair/parcel-theory",
+  "excerpt": "The temperature of any saturated parcel (100% relative humidity) will cool at a slower rate.",
+  "sourceHash": "ba1d25e2cbe33ce2b39b7f435fd4da90dbe08b91bc83ea2ad864e7df35ba78ea",
+  "cacheSourceId": "d6a2df985d37e2fa3762",
+  "retrievedAt": "2026-11-06T16:47:05.861668+00:00",
+  "reviewedMappings": {
+    "2011-3-32:0": "불포화/포화 공기덩이의 단열냉각 구별 근거. 실제감률 수치를 가져오지 않고 문항의1,0.2,0.5°C/100m로 계산. H1000m,Ta10,Tb5를 독립산출."
+  },
+  "retrievalMethod": "web.run NOAA official page reviewed",
+  "sourceHashScope": "Selected excerpt only; not full page"
+}

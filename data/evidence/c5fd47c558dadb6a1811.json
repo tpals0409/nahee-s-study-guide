@@ -1,0 +1,19 @@
+{
+  "id": "c5fd47c558dadb6a1811",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Microbiology §8.6 Photosynthesis",
+  "url": "https://openstax.org/books/microbiology/pages/8-6-photosynthesis",
+  "excerpt": "In oxygenic photosynthesis, H₂O is split and supplies the electron to the reaction center.",
+  "sourceHash": "dbaa160a81b7d7f6482aecf29dc432d1429a08f62154deaaf36e671d67ce0243",
+  "cacheSourceId": "032a7ac95f5e1ee4c0ad",
+  "retrievedAt": "2026-11-06T21:25:15.293033+00:00",
+  "reviewedMappings": {
+    "2017-3-29:0": "본문 Photosynthetic Structures, Oxygenic and Anoxygenic Photosynthesis 절의 엽록체·남세균·물 분해·비순환 전자 흐름을 검토. ㄱ과 ㄷ은 참, ㄴ은 거짓으로 적용.",
+    "2017-3-29:1": "본문 Photosynthetic Structures, Oxygenic and Anoxygenic Photosynthesis 절의 엽록체·남세균·물 분해·비순환 전자 흐름을 검토. ㄱ과 ㄷ은 참, ㄴ은 거짓으로 적용.",
+    "2017-3-29:2": "본문 Photosynthetic Structures, Oxygenic and Anoxygenic Photosynthesis 절의 엽록체·남세균·물 분해·비순환 전자 흐름을 검토. ㄱ과 ㄷ은 참, ㄴ은 거짓으로 적용.",
+    "2017-3-29:3": "본문 Photosynthetic Structures, Oxygenic and Anoxygenic Photosynthesis 절의 엽록체·남세균·물 분해·비순환 전자 흐름을 검토. ㄱ과 ㄷ은 참, ㄴ은 거짓으로 적용."
+  },
+  "retrievalMethod": "Direct web page reviewed; chemical subscripts normalized",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

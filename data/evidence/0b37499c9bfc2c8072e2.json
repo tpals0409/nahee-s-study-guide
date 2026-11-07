@@ -1,0 +1,16 @@
+{
+  "id": "0b37499c9bfc2c8072e2",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume 2, 1.5 Phase Changes",
+  "url": "https://openstax.org/books/university-physics-volume-2/pages/1-5-phase-changes",
+  "excerpt": "ice is less dense than liquid water at the melting point",
+  "sourceHash": "90930a1c88b6a56a48764b3bfe285722eec6aa8c8d368400f9ba5eecbb48569e",
+  "cacheSourceId": "150401bd64ffb247fc00",
+  "retrievedAt": "2026-11-07T00:02:19.505780+00:00",
+  "reviewedMappings": {
+    "2021-3-13:2": "융해 구간의 검토: 녹는점에서 얼음보다 물의 밀도가 크므로 남은 얼음의 융해는 ΔV<0. 흡열 융해에서 ΔU=q_p−pΔV>0. 이 출처는 융해 부분을 뒷받침하며, 액체 가열 구간의 U 증가 검토는 별도로 남김."
+  },
+  "retrievalMethod": "Direct web page reviewed: lines 31-44, water phase equilibrium and melting density change.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

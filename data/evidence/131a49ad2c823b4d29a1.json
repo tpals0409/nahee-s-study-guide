@@ -1,0 +1,16 @@
+{
+  "id": "131a49ad2c823b4d29a1",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "OpenStax Organic Chemistry §3.5 Properties of Alkanes",
+  "url": "https://openstax.org/books/organic-chemistry/pages/3-5-properties-of-alkanes",
+  "excerpt": "Another effect seen in alkanes is that increased branching lowers an alkane’s boiling point.",
+  "sourceHash": "c0c2c57ef4a1189a1148b692e3c80f03f87b2a014e27f10f1b5feb355a11b99e",
+  "cacheSourceId": "f98260f7da2f1d184326",
+  "retrievedAt": "2026-11-06T17:56:35.085670+00:00",
+  "reviewedMappings": {
+    "2013-3-12:0": "§3.5 분자크기 증가에 따른 분산력, 가지 증가에 따른 접촉면적 감소와 끓는점 경향 확인. 동일 CHFCl말단을 가진①C3,③C6가지형,④C6직쇄형에 이 일반경향을 적용한 구조 기반 예측으로④선정. 이 출처는 해당 할로젠화합물의 실측 끓는점 자료가 아니므로 실측 순위로 주장하지 않음. 초안①C4H8FCl110.5 오류를 C3H6FCl로 수정."
+  },
+  "retrievalMethod": "web.open; relevant definitions and trend paragraphs directly reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

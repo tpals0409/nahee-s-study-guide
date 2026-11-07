@@ -1,0 +1,16 @@
+{
+  "id": "1d708d7a7ecb5c6c298a",
+  "kind": "science",
+  "source": "NOAA",
+  "ref": "Weather Glossary: Lapse Rate",
+  "url": "https://www.noaa.gov/jetstream/appendix/weather-glossary-l",
+  "excerpt": "a dry parcel of air that is moved up or down and cools or warms as the pressure changes",
+  "sourceHash": "eb07ef3f574da87996ab59ac8ba12357f6ed4b90864d0efaf8b62848bff6165a",
+  "cacheSourceId": "12078d28d98fab0a5a82",
+  "retrievedAt": "2026-11-06T16:47:05.862119+00:00",
+  "reviewedMappings": {
+    "2011-3-32:0": "하강 건조공기의 단열승온 근거. b2000→c300m 하강1700m에17°C 상승하여22°C. 액체물 증발이 개입하면 승온은 감소하므로 표준 단열모형에서30°C 주장은 성립하지 않음."
+  },
+  "retrievalMethod": "web.run NOAA official page reviewed",
+  "sourceHashScope": "Selected excerpt only; not full page"
+}

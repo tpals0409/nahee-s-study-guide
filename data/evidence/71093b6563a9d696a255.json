@@ -1,0 +1,17 @@
+{
+  "id": "71093b6563a9d696a255",
+  "kind": "science",
+  "source": "National Park Service",
+  "ref": "NPS Geologic Time Scale",
+  "url": "https://home.nps.gov/subjects/geology/time-scale.htm",
+  "excerpt": "supercontinent Pangaea and Tethys Ocean (Pennsylvanian-Permian)",
+  "sourceHash": "a4301e7a78439e0d9716731c0b3dafc335ee6854c27e24df4c98b9a332593fe6",
+  "cacheSourceId": "6635f5e0090808e65fff",
+  "retrievedAt": "2026-11-07T04:18:59.799723+00:00",
+  "reviewedMappings": {
+    "2026-3-34:1": "Paleozoic list29-30 includes Carboniferous/Pennsylvanian coal swamps and Pennsylvanian-Permian Pangaea.",
+    "2026-3-34:2": "Paleozoic list29-30 includes Carboniferous/Pennsylvanian coal swamps and Pennsylvanian-Permian Pangaea."
+  },
+  "retrievalMethod": "Direct web open/find",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

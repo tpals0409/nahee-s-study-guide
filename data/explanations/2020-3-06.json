@@ -1,0 +1,85 @@
+{
+  "id": "2020-3-06",
+  "summary": "위상 3x−4t에서 파수 k=3 rad/m, 각진동수 ω=4 rad/s입니다. 공간에서 위상이 2π 증가하는 거리인 파장은 λ=2π/3 m입니다. 같은 위상 3x−4t=일정을 따라가면 v=dx/dt=4/3 m/s이며, +x 방향으로 진행합니다. 따라서 정답은 ①입니다.",
+  "choices": [
+    "정답입니다. 3λ=2π에서 λ=2π/3 m이고, 일정한 위상을 따라 3v−4=0이므로 v=4/3 m/s입니다.",
+    "오답입니다. 속도는 맞지만 λ=1/3 m이면 위상 변화가 3λ=1 rad에 불과해 한 주기 2π rad가 아닙니다.",
+    "오답입니다. λ=3 m는 파장 2π/3 m와 다르며, v=12 m/s도 일정한 위상 조건 3v−4=0을 만족하지 않습니다.",
+    "오답입니다. 올바른 식은 λ=2π/k와 v=ω/k입니다. 제시된 3/(2π) m와 3/4 m/s는 둘 다 올바른 값과 다릅니다.",
+    "오답입니다. 파장은 3 m가 아니라 2π/3 m이고, 속도는 3π/2 m/s가 아니라 4/3 m/s입니다."
+  ],
+  "lawNote": "여기서 속도는 일정한 위상이나 마루가 이동하는 위상속도입니다. 수면 높이의 시간 변화율 ∂y/∂t와 구분합니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1 §16.2 Mathematics of Waves",
+      "quote": "The wavelength can be found using the wave number",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/16-2-mathematics-of-waves",
+      "evidenceId": "221251d6d1b6ef396a35",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1 §16.2 Mathematics of Waves",
+      "quote": "The wavelength can be found using the wave number",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/16-2-mathematics-of-waves",
+      "evidenceId": "221251d6d1b6ef396a35",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1 §16.2 Mathematics of Waves",
+      "quote": "The wavelength can be found using the wave number",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/16-2-mathematics-of-waves",
+      "evidenceId": "221251d6d1b6ef396a35",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1 §16.2 Mathematics of Waves",
+      "quote": "The wavelength can be found using the wave number",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/16-2-mathematics-of-waves",
+      "evidenceId": "221251d6d1b6ef396a35",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1 §16.2 Mathematics of Waves",
+      "quote": "The wavelength can be found using the wave number",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/16-2-mathematics-of-waves",
+      "evidenceId": "221251d6d1b6ef396a35",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1 §16.2 Mathematics of Waves",
+      "quote": "The wavelength can be found using the wave number",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/16-2-mathematics-of-waves",
+      "evidenceId": "221251d6d1b6ef396a35",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Independent phase-periodicity and constant-phase derivative calculation; all five wavelength/speed pairs checked; removed speculative distractor-error attribution; direct primary source review and mappings.",
+    "contentHash": "e1fd080ebeb71b48d19a3c326c17df9376d8dc1bef1fa28f8fa73499db6c4f88"
+  }
+}

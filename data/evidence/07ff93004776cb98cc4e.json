@@ -1,0 +1,14 @@
+{
+  "id": "07ff93004776cb98cc4e",
+  "kind": "science",
+  "source": "NASA",
+  "ref": "Uranus Facts",
+  "url": "https://science.nasa.gov/uranus/facts/",
+  "excerpt": "Uranus makes a complete orbit around the Sun (a year in Uranian time) in about 84 Earth years (30,687 Earth days).",
+  "sourceHash": "c048b24677bb1aa93f83a497d041ce08632054d86bc9ef71cef8fa18648efad2",
+  "cacheSourceId": "d11e5224f4040692aeb1",
+  "retrievedAt": "2026-11-06T15:15:02.026529+00:00",
+  "reviewedMappings": {
+    "2009-3-37:2": "각선지NASA원문대조. 금성>수성표면온도, 화성687일<천왕성30687일, 가니메데148.2e21kg>달73.5e21kg(지름아닌질량행). 대적반최소150년관측으로수일소멸반박;17세기동일폭풍단정삭제. 타이탄주성분질소. 날짜이후연구를시험당시정답변경근거로사용하지않음."
+  }
+}

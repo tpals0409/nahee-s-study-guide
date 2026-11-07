@@ -1,0 +1,19 @@
+{
+  "id": "2ffb19347e1678c6fd0e",
+  "kind": "science",
+  "source": "The Geological Society of London",
+  "ref": "East African Rift Valley, East Africa",
+  "url": "https://www.geolsoc.org.uk/science-and-policy/plate-tectonic-stories/east-african-rift-valley/",
+  "excerpt": "is a developing divergent plate boundary in East Africa.",
+  "sourceHash": "580d9c61f3e93e0223fa7794c647ee0391e4f1b3df8e0c6d39a9e519f297b818",
+  "cacheSourceId": "21713a87cb3b454a9d8a",
+  "retrievedAt": "2026-11-07T01:15:23.834508+00:00",
+  "reviewedMappings": {
+    "2022-3-31:0": "Opening paragraph identifies East African Rift as divergent and Nubian/Somalian separation; ㄱ false.",
+    "2022-3-31:1": "Opening paragraph identifies East African Rift as divergent and Nubian/Somalian separation; ㄱ false.",
+    "2022-3-31:3": "Opening paragraph identifies East African Rift as divergent and Nubian/Somalian separation; ㄱ false.",
+    "2022-3-31:5": "Opening paragraph identifies East African Rift as divergent and Nubian/Somalian separation; ㄱ false."
+  },
+  "retrievalMethod": "Direct source page read; original problem image inspected",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "32b01c23ab8ca49ca0a2",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "19.1 Population Evolution",
+  "url": "https://openstax.org/books/biology-2e/pages/19-1-population-evolution",
+  "excerpt": "the allelic frequency is stable from generation to generation",
+  "sourceHash": "868d521866dc17183853cdd7f3741491bacf9d4715b5d83fe84492a354c011a4",
+  "cacheSourceId": "0e50828dd1cf45db8b11",
+  "retrievedAt": "2026-11-06T22:38:38.632233+00:00",
+  "reviewedMappings": {
+    "2019-3-21:0": "이배체 유전자형별 대립유전자 수를 세어 1세대 R=0.4, r=0.6; 10세대 R=0.45, r=0.55. 빈도가 변해 평형 유지 아님.",
+    "2019-3-21:1": "1세대 R=(2×100+600)/2000=0.4로 ㄱ 거짓.",
+    "2019-3-21:2": "10세대 r=(100+2×500)/2000=0.55로 ㄴ 참; 다른 두 진술 거짓.",
+    "2019-3-21:3": "ㄱ은 계산상 거짓이고 r빈도 변화로 ㄷ도 거짓.",
+    "2019-3-21:4": "ㄴ은 참이나 세대 간 빈도 변화로 ㄷ 거짓.",
+    "2019-3-21:5": "ㄱ·ㄷ 거짓으로 모두 옳다는 선택은 배제."
+  },
+  "retrievalMethod": "Direct web open/find: allele copy counting at 40–43, equilibrium stability at 49–56 and Figure 19.2 at 59–63. Independently calculated both generations from question counts using exact fractions.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

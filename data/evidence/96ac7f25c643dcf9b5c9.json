@@ -1,0 +1,21 @@
+{
+  "id": "96ac7f25c643dcf9b5c9",
+  "kind": "science",
+  "source": "UC Berkeley Space Sciences Laboratory",
+  "ref": "Seasonal Motion — Space Weather Explorers",
+  "url": "https://spaceweather.ssl.berkeley.edu/monday/seasonal-motion/",
+  "excerpt": "the Sun rises in the southeast, spends the least amount of time in the sky, and sets in the southwest.",
+  "sourceHash": "d69369b3b6395bf5fa14062187df92b60e5f30e729938b7998eb58db781615e8",
+  "cacheSourceId": "e3144b015b9f2df445c3",
+  "retrievedAt": "2026-11-06T21:37:01.668778+00:00",
+  "reviewedMappings": {
+    "2017-3-39:0": "북반구 겨울 남동쪽 일출·남서쪽 일몰 설명과 원본 동지 경로 대조.",
+    "2017-3-39:1": "ㄷ이 참인데 누락.",
+    "2017-3-39:2": "ㄷ은 참이지만 ㄴ도 필요.",
+    "2017-3-39:3": "참인 ㄷ 누락.",
+    "2017-3-39:4": "겨울 출몰 방향으로 ㄷ 참. ㄴ과 함께 정답④.",
+    "2017-3-39:5": "ㄷ 참이지만 ㄱ 거짓."
+  },
+  "retrievalMethod": "Direct source page reviewed: northern hemisphere seasonal motion",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

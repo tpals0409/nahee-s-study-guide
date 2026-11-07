@@ -1,0 +1,30 @@
+{
+  "summary": "q를 전하량의 크기로 쓰면 정답은 ④(ㄴ·ㄹ)입니다. 그림의 입자는 음전하이며, 반지름은 mv/(qB), 각진동수는 qB/m, 반원을 도는 시간은 πm/(qB)입니다.",
+  "choices": [
+    "ㄱ이 틀립니다. a에서 양전하가 받는 자기력은 오른쪽인데 실제 궤도는 왼쪽으로 휘므로 입자는 음전하입니다.",
+    "ㄱ·ㄷ 모두 틀립니다. 입자는 음전하이고, 각진동수는 m/(qB)가 아니라 qB/m입니다.",
+    "ㄴ은 맞지만 ㄷ이 틀립니다. 구심력 관계 qvB=mv²/r에서 r=mv/(qB), ω=v/r=qB/m입니다.",
+    "ㄴ·ㄹ 모두 맞습니다. 반지름은 mv/(qB)이고 반원 이동시간은 πr/v=πm/(qB)입니다.",
+    "ㄹ은 맞지만 ㄷ이 틀립니다. m/(qB)는 시간의 차원이며 각진동수의 차원이 아닙니다."
+  ],
+  "lawNote": "반지름과 시간 식의 q는 양수인 전하량의 크기입니다. 부호를 포함한 전하를 q로 정의한다면 분모에는 |q|를 써야 합니다. 비상대론적 원운동을 적용합니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2 11.3 — Equations 11.4–11.6",
+      "quote": "because the charge is negative, the force is opposite in direction to the prediction of the right-hand rule.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/11-3-motion-of-a-charged-particle-in-a-magnetic-field",
+      "evidenceId": "9c454908f67508310d3f",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "원본 2012-3-05_1.webp의 입사방향·반원화살표·자기장방향·각 식 직접 확인. 교재 및 외적 방향·구심력·차원 검산. q의 부호/크기 혼용을 명시적으로 교정.",
+    "contentHash": "50e4ced2a270058896f95ebcbf1d30c3eb9d1e8d2b02f16e56f81dac61cc91e9"
+  }
+}

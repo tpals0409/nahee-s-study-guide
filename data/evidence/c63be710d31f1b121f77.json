@@ -1,0 +1,21 @@
+{
+  "id": "c63be710d31f1b121f77",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume 2 §3.5 — Heat Capacities of an Ideal Gas",
+  "url": "https://openstax.org/books/university-physics-volume-2/pages/3-5-heat-capacities-of-an-ideal-gas",
+  "excerpt": "Since the piston of vessel A is fixed, the volume of the enclosed gas does not change.",
+  "sourceHash": "3feed114affb49d0930cee11ead4a27db91c94fe3a2e7a376b127be7013c34bd",
+  "cacheSourceId": "ee7489a2ef1c3b4e8ff6",
+  "retrievedAt": "2026-11-06T21:54:40.619597+00:00",
+  "reviewedMappings": {
+    "2018-3-18:0": "본문 등적과정 W=0, dU=nCv dT 및 이상기체 관계 검토. 문항의 고정된 두 공간에 독립 적용: PB/P0=TB/T0=5/3, 각각ΔU=(3/2)R(2/3)T0=RT0, 총q=2RT0. 출처 그림 A/B는 이 시험 그림과 별개의 예제이며 동일 장치라고 주장하지 않음.",
+    "2018-3-18:1": "본문 등적과정 W=0, dU=nCv dT 및 이상기체 관계 검토. 문항의 고정된 두 공간에 독립 적용: PB/P0=TB/T0=5/3, 각각ΔU=(3/2)R(2/3)T0=RT0, 총q=2RT0. 출처 그림 A/B는 이 시험 그림과 별개의 예제이며 동일 장치라고 주장하지 않음.",
+    "2018-3-18:2": "본문 등적과정 W=0, dU=nCv dT 및 이상기체 관계 검토. 문항의 고정된 두 공간에 독립 적용: PB/P0=TB/T0=5/3, 각각ΔU=(3/2)R(2/3)T0=RT0, 총q=2RT0. 출처 그림 A/B는 이 시험 그림과 별개의 예제이며 동일 장치라고 주장하지 않음.",
+    "2018-3-18:3": "본문 등적과정 W=0, dU=nCv dT 및 이상기체 관계 검토. 문항의 고정된 두 공간에 독립 적용: PB/P0=TB/T0=5/3, 각각ΔU=(3/2)R(2/3)T0=RT0, 총q=2RT0. 출처 그림 A/B는 이 시험 그림과 별개의 예제이며 동일 장치라고 주장하지 않음.",
+    "2018-3-18:4": "본문 등적과정 W=0, dU=nCv dT 및 이상기체 관계 검토. 문항의 고정된 두 공간에 독립 적용: PB/P0=TB/T0=5/3, 각각ΔU=(3/2)R(2/3)T0=RT0, 총q=2RT0. 출처 그림 A/B는 이 시험 그림과 별개의 예제이며 동일 장치라고 주장하지 않음.",
+    "2018-3-18:5": "본문 등적과정 W=0, dU=nCv dT 및 이상기체 관계 검토. 문항의 고정된 두 공간에 독립 적용: PB/P0=TB/T0=5/3, 각각ΔU=(3/2)R(2/3)T0=RT0, 총q=2RT0. 출처 그림 A/B는 이 시험 그림과 별개의 예제이며 동일 장치라고 주장하지 않음."
+  },
+  "retrievalMethod": "Direct web open; relevant equations and paragraphs reviewed; selected verbatim excerpt retained",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

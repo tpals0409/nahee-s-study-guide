@@ -1,0 +1,16 @@
+{
+  "id": "5f532ff9a954cf1cc57c",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "OpenStax Biology 2e 8.2",
+  "url": "https://openstax.org/books/biology-2e/pages/8-2-the-light-dependent-reactions-of-photosynthesis",
+  "excerpt": "The reaction center of PSII (called P680)",
+  "sourceHash": "701b4567ea3d416f713ffbb929c6a99def9ae28cf019291a436aeec16ce585f9",
+  "cacheSourceId": "f883625812e584bc266c",
+  "retrievedAt": "2026-11-07T05:44:40.636621+00:00",
+  "reviewedMappings": {
+    "2020-3-26:2": "P680/P700 반응중심 구분 직접 대조; 파장 수치 자체의 직접 인용은 아님."
+  },
+  "retrievalMethod": "Direct textbook HTML open",
+  "sourceHashScope": "Selected short excerpt only; not full source"
+}

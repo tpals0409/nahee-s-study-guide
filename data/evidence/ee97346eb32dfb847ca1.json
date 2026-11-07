@@ -1,0 +1,21 @@
+{
+  "id": "ee97346eb32dfb847ca1",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "OpenStax Biology 2e 14.1 Historical Basis of Modern Understanding",
+  "url": "https://openstax.org/books/biology-2e/pages/14-1-historical-basis-of-modern-understanding",
+  "excerpt": "when DNA was degraded, the resulting mixture was no longer able to transform the bacteria",
+  "sourceHash": "1a0e4d94cba81932fa1ea92f900b3b0c051d613fc7e3dd1b5d47e390d22456a8",
+  "cacheSourceId": "ccfb58ad50cd523775b8",
+  "retrievedAt": "2026-11-07T05:21:13.882151+00:00",
+  "reviewedMappings": {
+    "2012-3-29:0": "35–43: 살아있는 R형과 사멸 S형 형질전환 및 DNA 분해에 따른 활성 소실. 100°C 30분, NaOH 조건을 직접 검증하지 않는다.",
+    "2012-3-29:1": "42–43: DNA 분해는 형질전환을 막지만 단백질 분해만으로는 막지 않는 표준 실험. ㄱ은 DNA 유입 전 충분한 분해라는 조건이 필요하다.",
+    "2012-3-29:2": "ㄱ의 DNA 분해 효과만 지지한다. ㄹ의 NaOH 후 형질전환·쥐 사망 판정은 이 자료로 뒷받침하지 않는다.",
+    "2012-3-29:3": "ㄱ은 DNA 분해가 먼저 충분히 이루어진 표준 모형에서 설명 가능하다. ㅁ의 특정 가열 조건 생존 결과는 별도 확인 필요.",
+    "2012-3-29:4": "ㄴ의 단백질 분해와 DNA 분해를 구별한다. 효소 처리의 모든 실제 조건에서 동일한 결과를 보장하지 않는다.",
+    "2012-3-29:5": "38–43은 일반적 사멸 S형 실험이므로 ㄷ의100°C30분과 ㄹ의NaOH 결과에 그대로 적용할 수 없다."
+  },
+  "retrievalMethod": "Direct web open",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

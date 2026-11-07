@@ -1,0 +1,32 @@
+{
+  "id": "5fc721772128aa67b2a0",
+  "kind": "science",
+  "source": "Las Cumbres Observatory",
+  "ref": "What is distance modulus?",
+  "url": "https://lco.global/spacebook/distance/what-is-distance-modulus/",
+  "excerpt": "m - M = 5 log d - 5",
+  "sourceHash": "913812ad3097c1cf54f90a3bc2ffa600ef57f872fe3e619f6c80bcfbe068dcf9",
+  "cacheSourceId": "1ed57d0af0f6b2e28e8a",
+  "retrievedAt": "2026-11-07T02:12:51.772946+00:00",
+  "reviewedMappings": {
+    "2018-3-39:0": "Distance modulus applied with equal absolute magnitudes: distance ratio 10, M=8 implies 10^(3/5) pc, and 100 pc implies M=1. Hence ㄱ and ㄷ.",
+    "2018-3-39:1": "ㄱ is true but ㄷ also true: at 100 pc modulus is 5, so shared M=6-5=1.",
+    "2018-3-39:2": "For ㄴ, m-M=6-8=-2, so log10(r/pc)=3/5, not 7/5.",
+    "2018-3-39:3": "Equal M gives 6-1=5 log10(rA/rB), so rA=10rB. At rA=100 pc shared M=1; ㄱ and ㄷ correct.",
+    "2018-3-39:4": "ㄷ true but ㄴ false by substitution into sourced distance modulus; ㄱ omitted.",
+    "2018-3-39:5": "ㄴ false: rA=10^(3/5) pc, so cannot select all three statements.",
+    "2021-3-40:0": "原本表M_A=M_B=0,m_A=5,m_B=7確認。消光を無視する標準距離指数式からA=100pc,B=10^2.4≈251pcを独立計算。距離指数0は10pc。",
+    "2021-3-40:2": "原本表M_A=M_B=0,m_A=5,m_B=7確認。消光を無視する標準距離指数式からA=100pc,B=10^2.4≈251pcを独立計算。距離指数0は10pc。",
+    "2021-3-40:3": "原本表M_A=M_B=0,m_A=5,m_B=7確認。消光を無視する標準距離指数式からA=100pc,B=10^2.4≈251pcを独立計算。距離指数0は10pc。",
+    "2021-3-40:1": "성간 소광 무시 조건으로 A의 거리100pc 산출; 연주시차 근거와 결합.",
+    "2021-3-40:5": "거리 지수는 거리의 척도이며 단독으로 화학조성 결정하지 않음.",
+    "2023-3-39:0": "거리 지수와 10 pc에서 m=M임을 확인했다. 원문 표의 m,d를 대입하여 A의 M=+5, C의 M=2로 독립 재계산했다. ㄱ·ㄷ만 참이므로 각 조합의 누락·오류를 판정했다.",
+    "2023-3-39:1": "거리 지수와 10 pc에서 m=M임을 확인했다. 원문 표의 m,d를 대입하여 A의 M=+5, C의 M=2로 독립 재계산했다. ㄱ·ㄷ만 참이므로 각 조합의 누락·오류를 판정했다.",
+    "2023-3-39:2": "거리 지수와 10 pc에서 m=M임을 확인했다. 원문 표의 m,d를 대입하여 A의 M=+5, C의 M=2로 독립 재계산했다. ㄱ·ㄷ만 참이므로 각 조합의 누락·오류를 판정했다.",
+    "2023-3-39:3": "거리 지수와 10 pc에서 m=M임을 확인했다. 원문 표의 m,d를 대입하여 A의 M=+5, C의 M=2로 독립 재계산했다. ㄱ·ㄷ만 참이므로 각 조합의 누락·오류를 판정했다.",
+    "2023-3-39:4": "거리 지수와 10 pc에서 m=M임을 확인했다. 원문 표의 m,d를 대입하여 A의 M=+5, C의 M=2로 독립 재계산했다. ㄱ·ㄷ만 참이므로 각 조합의 누락·오류를 판정했다.",
+    "2023-3-39:5": "거리 지수와 10 pc에서 m=M임을 확인했다. 원문 표의 m,d를 대입하여 A의 M=+5, C의 M=2로 독립 재계산했다. ㄱ·ㄷ만 참이므로 각 조합의 누락·오류를 판정했다."
+  },
+  "retrievalMethod": "Direct web open; reviewed equations, units and distance-modulus interpretation",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,85 @@
+{
+  "id": "2026-3-09",
+  "lawNote": "",
+  "summary": "정답은 ② 2.4광초입니다. X와 Y를 A의 기준계에 고정된 지점으로 보면 고유거리는 L₀=(4/5)c×5 s=4광초입니다. B의 기준계에서 같은 시각에 측정한 두 지점 사이 거리는 L=L₀√(1−v²/c²)=4×(3/5)=2.4광초입니다.",
+  "choices": [
+    "2.0광초: 오답입니다. 고유거리 4광초에 길이 수축 인자 √(1−(4/5)²)=3/5를 곱하면 2.4광초입니다. 2.0광초는 이 계산 결과와 다릅니다.",
+    "2.4광초: 정답입니다. 고유거리 4광초에 길이 수축 인자 √(1−(4/5)²)=3/5를 곱하면 2.4광초입니다. B의 기준계에서 동시에 측정한 X와 Y 사이의 거리입니다.",
+    "2.5광초: 오답입니다. 고유거리 4광초에 길이 수축 인자 √(1−(4/5)²)=3/5를 곱하면 2.4광초입니다. 2.5광초는 이 계산 결과와 다릅니다.",
+    "3.2광초: 오답입니다. 고유거리 4광초에 길이 수축 인자 √(1−(4/5)²)=3/5를 곱하면 2.4광초입니다. 3.2광초는 이 계산 결과와 다릅니다.",
+    "3.6광초: 오답입니다. 고유거리 4광초에 길이 수축 인자 √(1−(4/5)²)=3/5를 곱하면 2.4광초입니다. 3.6광초는 이 계산 결과와 다릅니다."
+  ],
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 3, 5.4 Length Contraction",
+      "quote": "is the distance between two points measured by an observer who is at rest relative to both of the points.",
+      "url": "https://openstax.org/books/university-physics-volume-3/pages/5-4-length-contraction",
+      "evidenceId": "b4481f2a26d121c74df5",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 3, 5.4 Length Contraction",
+      "quote": "is the distance between two points measured by an observer who is at rest relative to both of the points.",
+      "url": "https://openstax.org/books/university-physics-volume-3/pages/5-4-length-contraction",
+      "evidenceId": "b4481f2a26d121c74df5",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 3, 5.4 Length Contraction",
+      "quote": "is the distance between two points measured by an observer who is at rest relative to both of the points.",
+      "url": "https://openstax.org/books/university-physics-volume-3/pages/5-4-length-contraction",
+      "evidenceId": "b4481f2a26d121c74df5",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 3, 5.4 Length Contraction",
+      "quote": "is the distance between two points measured by an observer who is at rest relative to both of the points.",
+      "url": "https://openstax.org/books/university-physics-volume-3/pages/5-4-length-contraction",
+      "evidenceId": "b4481f2a26d121c74df5",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 3, 5.4 Length Contraction",
+      "quote": "is the distance between two points measured by an observer who is at rest relative to both of the points.",
+      "url": "https://openstax.org/books/university-physics-volume-3/pages/5-4-length-contraction",
+      "evidenceId": "b4481f2a26d121c74df5",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 3, 5.4 Length Contraction",
+      "quote": "is the distance between two points measured by an observer who is at rest relative to both of the points.",
+      "url": "https://openstax.org/books/university-physics-volume-3/pages/5-4-length-contraction",
+      "evidenceId": "b4481f2a26d121c74df5",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Original question and options inspected; fixed-A endpoint interpretation stated; independent length contraction and proper-time cross-check; simultaneous-length versus travel-event distinction reviewed against OpenStax; stored answer [2] agrees.",
+    "contentHash": "ef9481f502f329fe7b3760955f28ea6c38ac80ebd7ff29503c58a5d0d89f5377"
+  }
+}

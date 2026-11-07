@@ -1,0 +1,41 @@
+{
+  "summary": "출생 시 제1난모세포는 감수분열Ⅰ 전기에 정지해 있습니다. 제1분열의 산물은 제2난모세포 하나와 제1극체 하나입니다. LH 급증으로 배란이 촉진되고 정자 침입 후 감수분열Ⅱ가 완료되므로, ㄷ·ㄹ을 고른 ⑤가 정답입니다.",
+  "choices": [
+    "ㄱ·ㄴ이 틀립니다. 출생 시 제1분열은 미완료이며, 이후에도 제2난모세포 두 개가 만들어지지는 않습니다.",
+    "ㄱ이 틀리고 ㄹ이 빠졌습니다. 출생 시에는 감수분열Ⅰ 전기에 정지한 상태입니다.",
+    "ㄴ이 틀리고 ㄹ이 빠졌습니다. 불균등 세포질분열로 제2난모세포와 작은 제1극체가 생깁니다.",
+    "ㄴ이 틀리고 ㄷ이 빠졌습니다. 제1극체를 또 하나의 제2난모세포로 세면 안 됩니다.",
+    "ㄷ·ㄹ이 맞습니다. LH 급증이 여포 파열과 제2난모세포 방출을 촉진하며, 정자가 침입하면 정지했던 감수분열Ⅱ가 완료됩니다."
+  ],
+  "lawNote": "배란과 감수분열Ⅱ 완료는 서로 다른 사건입니다. 배란되는 제2난모세포는 감수분열Ⅱ 중기에 정지해 있습니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Anatomy and Physiology 27.2 — Oogenesis; Hormonal Control of the Ovarian Cycle",
+      "quote": "the cytoplasm is divided unequally",
+      "url": "https://openstax.org/books/anatomy-and-physiology/pages/27-2-anatomy-and-physiology-of-the-female-reproductive-system",
+      "evidenceId": "c5322d0789ba62b42d5d",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e 43.3 — Human Reproductive Anatomy and Gametogenesis",
+      "quote": "The primary oocytes arrest in prophase I before birth.",
+      "url": "https://openstax.org/books/biology-2e/pages/43-3-human-reproductive-anatomy-and-gametogenesis",
+      "evidenceId": "97872b80315d22e0e6a3",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "원본 2012-3-26_1.webp 전체 보기와 선지 대조. OpenStax 난자형성·배란 호르몬 절 및 Biology 2e 정지 단계 설명 교차 확인. 불필요한 칼슘 신호 등 세부 단정 제거. 저장 정답⑤와 독립 판단 일치.",
+    "contentHash": "1826595e7387479833f2cfbe5d52a06e212a9158ddede438ccf97eb2280d0e5a"
+  }
+}

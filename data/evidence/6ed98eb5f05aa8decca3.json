@@ -1,0 +1,20 @@
+{
+  "id": "6ed98eb5f05aa8decca3",
+  "kind": "science",
+  "source": "U.S. National Park Service",
+  "ref": "Igneous Rocks",
+  "url": "https://www.nps.gov/subjects/geology/igneous.htm",
+  "excerpt": "Intrusive igneous rocks solidify within Earth.",
+  "sourceHash": "26cbd351722e37c1683e99824110cd499a00b110e3d078cff51eb03870e40884",
+  "cacheSourceId": "3261d8a385111f001cd2",
+  "retrievedAt": "2026-11-06T20:41:06.888123+00:00",
+  "reviewedMappings": {
+    "2016-3-33:0": "분류표와 광물 조성 설명을 대조하면 ①~④가 참. 반려암·현무암은 mafic, 화강암은 plutonic, 안산암·유문암은 volcanic.",
+    "2016-3-33:1": "분류표의 mafic 열에 gabbro와 basalt가 포함된다. 두 암석은 염기성 조성 범주에 속하지만 개별 표본의 화학 조성이 완전히 같다는 뜻은 아니다.",
+    "2016-3-33:2": "지하에서 고결하는 intrusive/plutonic 설명 및 granite 분류로 심성암임을 확인.",
+    "2016-3-33:3": "분류표 volcanic 행에 andesite와 rhyolite가 명시되어 옳다.",
+    "2016-3-33:4": "mafic의 철·마그네슘 풍부한 광물, basalt의 휘석·감람석과 silicic의 석영·장석 우세한 조성을 비교하면 일반적으로 현무암이 유색광물 함량이 높다."
+  },
+  "retrievalMethod": "Direct web open; rock classification table, mineral compositions, and pyroclastic deposit definitions reviewed.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "fc60ef264e96c24ae006",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Organic Chemistry, 18.8 Spectroscopy of Ethers",
+  "url": "https://openstax.org/books/organic-chemistry/pages/18-8-spectroscopy-of-ethers",
+  "excerpt": "Ethers are difficult to identify by IR spectroscopy.",
+  "sourceHash": "c7182f6275069742c4b47d6bc87afe2577f30b372f1f887852ab3b6d1b084859",
+  "cacheSourceId": "e8d4bcb9f19828171d80",
+  "retrievedAt": "2026-11-07T00:05:08.123677+00:00",
+  "reviewedMappings": {
+    "2021-3-15:0": "A의 1130은 에테르 C–O 신축 1050–1150 영역에 들지만 이것만으로 확정하지 않음. O–H 특성 흡수의 유무 및 탄소 환경 수를 조합하여 보기 구조를 판단.",
+    "2021-3-15:1": "A의 1130은 에테르 C–O 신축 1050–1150 영역에 들지만 이것만으로 확정하지 않음. O–H 특성 흡수의 유무 및 탄소 환경 수를 조합하여 보기 구조를 판단.",
+    "2021-3-15:2": "A의 1130은 에테르 C–O 신축 1050–1150 영역에 들지만 이것만으로 확정하지 않음. O–H 특성 흡수의 유무 및 탄소 환경 수를 조합하여 보기 구조를 판단.",
+    "2021-3-15:3": "A의 1130은 에테르 C–O 신축 1050–1150 영역에 들지만 이것만으로 확정하지 않음. O–H 특성 흡수의 유무 및 탄소 환경 수를 조합하여 보기 구조를 판단.",
+    "2021-3-15:4": "A의 1130은 에테르 C–O 신축 1050–1150 영역에 들지만 이것만으로 확정하지 않음. O–H 특성 흡수의 유무 및 탄소 환경 수를 조합하여 보기 구조를 판단.",
+    "2021-3-15:5": "A의 1130은 에테르 C–O 신축 1050–1150 영역에 들지만 이것만으로 확정하지 않음. O–H 특성 흡수의 유무 및 탄소 환경 수를 조합하여 보기 구조를 판단."
+  },
+  "retrievalMethod": "Direct page reviewed: IR sections §17.11 line26 / §18.8 line27; original question image independently checked.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

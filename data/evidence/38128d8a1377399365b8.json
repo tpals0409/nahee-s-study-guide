@@ -1,0 +1,21 @@
+{
+  "id": "38128d8a1377399365b8",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e §24.1 — Characteristics of Fungi",
+  "url": "https://openstax.org/books/biology-2e/pages/24-1-characteristics-of-fungi",
+  "excerpt": "Fungal cells also contain mitochondria",
+  "sourceHash": "fee58b0efe0ee52430bbde4b73847cf4410b7cdd01a7502bb1914bae45e4ac4b",
+  "cacheSourceId": "b838cefacf4c1cc0d35c",
+  "retrievedAt": "2026-11-06T22:07:24.601276+00:00",
+  "reviewedMappings": {
+    "2018-3-30:0": "미토콘드리아 있는 C=효모, 원핵생물 A/B 중 표의 감수성으로 A=대장균 B=메탄생성균. 세 종류 모두 리보솜 보유. 짧은 발췌만이 아니라 기록된 본문·표를 검토하고 두 출처를 함께 적용.",
+    "2018-3-30:1": "A 대장균 B 메탄생성균 C 효모 조합이 표와 일치. 짧은 발췌만이 아니라 기록된 본문·표를 검토하고 두 출처를 함께 적용.",
+    "2018-3-30:2": "B 효모와 C 메탄생성균 배치는 미토콘드리아 유무와 반대. 짧은 발췌만이 아니라 기록된 본문·표를 검토하고 두 출처를 함께 적용.",
+    "2018-3-30:3": "A 효모와 C 메탄생성균 배치가 미토콘드리아 유무와 반대. 짧은 발췌만이 아니라 기록된 본문·표를 검토하고 두 출처를 함께 적용.",
+    "2018-3-30:4": "C 효모는 맞으나 A/B가 표의 스트렙토마이신 감수성과 반대로 배치. 짧은 발췌만이 아니라 기록된 본문·표를 검토하고 두 출처를 함께 적용.",
+    "2018-3-30:5": "B 효모와 C 대장균 배치가 미토콘드리아 유무와 반대. 짧은 발췌만이 아니라 기록된 본문·표를 검토하고 두 출처를 함께 적용."
+  },
+  "retrievalMethod": "Direct open and find: reviewed lines 51–52 fungal cell structure and 59–60 yeast classification. No inference that all eukaryotes universally possess ordinary mitochondria.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

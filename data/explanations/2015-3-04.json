@@ -1,1 +1,86 @@
-{"summary": "막대가 움직이면 유도 전류가 생기고, 그 전류가 받는 힘이 막대를 늦춰요. 감속력이 속력에 비례해서 v = v0·exp(−B²l²t/(mR))가 돼요. 3에서 1로 줄어든 조건을 넣으면 ln3 = 3B²l²/(mR)이고, B = √(mR·ln3/(3l²))이에요.", "choices": ["틀린 보기예요. 분모의 4는 걸린 시간 3초와 맞지 않아요. ln3 = 3B²l²/(mR)에서 B²을 구하면 분모는 3l²이에요.", "틀린 보기예요. 분모는 맞지만 로그 값이 달라요. 속력이 3m/s에서 1m/s로 줄었으니 비율은 3이고, ln4가 아니라 ln3이 나와야 해요.", "틀린 보기예요. 분모는 맞지만 로그 값이 달라요. ln2는 속력이 절반으로 줄 때의 값이고, 여기서는 3분의 1로 줄었어요.", "틀린 보기예요. 로그 값은 맞지만 분모가 달라요. 시간은 3초이므로 분모는 2l²이 아니라 3l²이에요.", "맞는 보기예요. 유도 전류는 I = Blv/R이고 감속력은 F = B²l²v/R이에요. m·dv/dt = −B²l²v/R을 풀어 3초 뒤 속력이 3분의 1이 되는 조건을 넣으면 B² = mR·ln3/(3l²)이에요."], "lawNote": "", "basis": [], "dropped": 0}
+{
+  "id": "2015-3-04",
+  "summary": "정답은 ⑤ B=√(mR ln3/(3l²))입니다(SI 단위). 유도 기전력은 Blv, 전류는 Blv/R이므로 왼쪽으로 작용하는 자기력의 크기는 B²l²v/R입니다. 따라서 m dv/dt=−B²l²v/R이고, v(t)=v₀ exp[−B²l²t/(mR)]입니다. 3초 동안 속력이 3m/s에서 1m/s로 감소하므로 B²l²/(mR)=ln3/(3초)입니다.",
+  "choices": [
+    "오답입니다. 이 값을 대입하면 감쇠율은 ln3/4이고, 3초 뒤 속력은 3×3^(−3/4)=3^(1/4)≈1.316m/s입니다. 주어진 1m/s와 다릅니다.",
+    "오답입니다. 이 값이면 3초 동안 속력이 1/4로 줄어 0.75m/s가 됩니다. 실제 속력 비는 1/3이므로 ln4가 아니라 ln3이 필요합니다.",
+    "오답입니다. 이 값이면 3초 동안 속력이 1/2로 줄어 1.5m/s가 됩니다. 주어진 최종 속력은 1m/s입니다.",
+    "오답입니다. 이 값이면 3초 뒤 속력은 3×3^(−3/2)=1/√3≈0.577m/s로, 조건보다 작습니다.",
+    "정답입니다. ln(v₀/v)=B²l²t/(mR)에 v₀/v=3, t=3초를 넣으면 B²=mR ln3/(3l²)입니다. 자기력은 속력에 비례하므로 일정한 가속도를 가정해서는 안 됩니다."
+  ],
+  "lawNote": "회로의 저항을 R로 보고 금속 레일·막대의 자체 저항과 자체 유도 효과를 무시하는 이상적인 회로 모형으로 풉니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics 2 §13.3 Motional Emf",
+      "quote": "The current induced in the circuit is the emf divided by the resistance",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/13-3-motional-emf",
+      "evidenceId": "9a4207f5f9aec262ec45",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics 2 §13.3 Motional Emf",
+      "quote": "The current induced in the circuit is the emf divided by the resistance",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/13-3-motional-emf",
+      "evidenceId": "9a4207f5f9aec262ec45",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics 2 §13.3 Motional Emf",
+      "quote": "The current induced in the circuit is the emf divided by the resistance",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/13-3-motional-emf",
+      "evidenceId": "9a4207f5f9aec262ec45",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics 2 §13.3 Motional Emf",
+      "quote": "The current induced in the circuit is the emf divided by the resistance",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/13-3-motional-emf",
+      "evidenceId": "9a4207f5f9aec262ec45",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics 2 §13.3 Motional Emf",
+      "quote": "The current induced in the circuit is the emf divided by the resistance",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/13-3-motional-emf",
+      "evidenceId": "9a4207f5f9aec262ec45",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics 2 §13.3 Motional Emf",
+      "quote": "The current induced in the circuit is the emf divided by the resistance",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/13-3-motional-emf",
+      "evidenceId": "9a4207f5f9aec262ec45",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "Original image, all options and field direction inspected. Derived exponential damping independently; substituted all five candidate values and checked mechanical power loss equals Joule heating.",
+    "contentHash": "d98e50145a31b88d123011c9b7f30bf6e786fbe47fef44791d1d80a0e6f650a8"
+  }
+}

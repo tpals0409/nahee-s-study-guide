@@ -1,0 +1,14 @@
+{
+  "id": "5985b0eb1555769245c6",
+  "kind": "precedent",
+  "source": "대법원",
+  "ref": "92도3234",
+  "url": "https://www.law.go.kr/LSW/precInfoP.do?precSeq=603867",
+  "excerpt": "위 점포 건물의 상용에 공하기 위하여 신축한 수족관 건물은 위 점포 건물의 종물이라고 해석할 것이다.",
+  "sourceHash": "d2c444b430bdbdd37151d224c7d7c600dae48a3985d07442492095a86a0757c0",
+  "retrievedAt": "2026-11-06T14:20:00.115701+00:00",
+  "decisionDate": "19930212",
+  "reviewedMappings": {
+    "2008-2-01:5": "횟집에 부속한 수족관 건물의 종물성을 직접 인정한 사안이다."
+  }
+}

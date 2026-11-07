@@ -1,0 +1,20 @@
+{
+  "id": "9b44c82e89efd3192419",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "4.3 Connective Tissue Supports and Protects",
+  "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/4-3-connective-tissue-supports-and-protects",
+  "excerpt": "connective tissue cells are dispersed in a matrix.",
+  "sourceHash": "962529a1e218944bf2729b54d7b4a335a940567c8e6639a898d2f431dd328a4e",
+  "cacheSourceId": "de4ab6bd12a8dda27452",
+  "retrievedAt": "2026-11-06T20:31:47.649387+00:00",
+  "reviewedMappings": {
+    "2016-3-26:0": "본문67–75 섬유아세포·지방세포·대식세포,125–127연골세포를 결합조직으로 확인.",
+    "2016-3-26:1": "본문74,83–86 섬유아세포의 세포외기질 성분 생산과 고유결합조직 구성 확인.",
+    "2016-3-26:2": "본문75,90 지방저장세포 및 지방조직의 결합조직 분류 확인. 세부 분류명은 교재차이 있어 불필요한 특수/고유 분류 단정 생략.",
+    "2016-3-26:3": "본문125–127 연골은 지지결합조직이며 chondrocyte가 lacunae에 위치함.",
+    "2016-3-26:4": "본문67,78–79 대식세포가 결합조직에서 면역방어·포식 기능 수행. 모든 조직 대식세포의 단핵구 기원이라는 일반화는 채택하지 않음."
+  },
+  "retrievalMethod": "Direct web open and targeted find; tissue classifications and cell roles reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

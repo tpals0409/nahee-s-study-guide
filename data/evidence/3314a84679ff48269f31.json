@@ -1,0 +1,15 @@
+{
+  "id": "3314a84679ff48269f31",
+  "kind": "science",
+  "source": "OpenStax · Biology 2e",
+  "ref": "15.4 RNA Processing in Eukaryotes",
+  "url": "https://openstax.org/books/biology-2e/pages/15-4-rna-processing-in-eukaryotes",
+  "excerpt": "introns, which must be removed to make a translatable mRNA.",
+  "sourceHash": "241039ef846230c7c875fcdf3a17eedbc055153687a47f992e93dfe857ac83c1",
+  "cacheSourceId": "a81398c5bc725fffcd89",
+  "retrievedAt": "2026-11-06T15:04:44.200931+00:00",
+  "reviewedMappings": {
+    "2010-3-26:3": "성숙 mRNA는 인트론 제거 후 생성됨. 그 cDNA를 이용하는 설계에서 유전체 유전자 추가는 불필요하며 인트론 포함 서열의 세균 발현 문제를 설명. 모든 유전자에 인트론이 있다고 일반화하지 않음.",
+    "2010-3-26:5": "성숙 mRNA는 인트론 제거 후 생성됨. 그 cDNA를 이용하는 설계에서 유전체 유전자 추가는 불필요하며 인트론 포함 서열의 세균 발현 문제를 설명. 모든 유전자에 인트론이 있다고 일반화하지 않음."
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "dc2969d98b17713fffef",
+  "kind": "science",
+  "source": "OpenStax Biology 2e",
+  "ref": "15.5 Ribosomes and Protein Synthesis",
+  "url": "https://openstax.org/books/biology-2e/pages/15-5-ribosomes-and-protein-synthesis",
+  "excerpt": "Each tRNA anticodon can base pair with one or more of the mRNA codons for its amino acid.",
+  "sourceHash": "c1ef0954b199dc0e94536ba79bff766398f0e8559635c223465f188814b282be",
+  "cacheSourceId": "840123238b7e1eae6790",
+  "retrievedAt": "2026-11-07T03:23:25.618792+00:00",
+  "reviewedMappings": {
+    "2025-3-27:1": "61 sense codons와 tRNA 다중코돈 인식 문단 대조. 서로 다른 tRNA 분자/유전자/안티코돈 수를 섞은 초안의 40여종 단정 제거; 코돈과 tRNA 일대일 주장 배제."
+  },
+  "retrievalMethod": "Direct web reading of tRNA codon recognition, CCA amino acid attachment, E.coli initiation and elongation; 50S ribozyme location.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

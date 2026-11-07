@@ -1,0 +1,21 @@
+{
+  "id": "3ba3876c86f390e0936e",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume 1, 10.5 Calculating Moments of Inertia",
+  "url": "https://openstax.org/books/university-physics-volume-1/pages/10-5-calculating-moments-of-inertia",
+  "excerpt": "the distance from an axis through the object’s center of mass to a new axis",
+  "sourceHash": "1ca435196cf1cf04f5a76ba0dd0a349516279e498cf0d3f1788c8f76f308be8d",
+  "cacheSourceId": "00ffeaf4b67a049fe39a",
+  "retrievedAt": "2026-11-07T06:11:26.611035+00:00",
+  "reviewedMappings": {
+    "2008-3-08:0": "Parallel-axis theorem Eq10.20 with center at7.5cm from end; B at10cm, dB2.5cm. I_B=5000+20*(2.5²−7.5²)=4000 g cm². Radius term cancels; do not assume thin-rod inertia.",
+    "2008-3-08:1": "Parallel-axis theorem Eq10.20 with center at7.5cm from end; B at10cm, dB2.5cm. I_B=5000+20*(2.5²−7.5²)=4000 g cm². Radius term cancels; do not assume thin-rod inertia.",
+    "2008-3-08:2": "Parallel-axis theorem Eq10.20 with center at7.5cm from end; B at10cm, dB2.5cm. I_B=5000+20*(2.5²−7.5²)=4000 g cm². Radius term cancels; do not assume thin-rod inertia.",
+    "2008-3-08:3": "Parallel-axis theorem Eq10.20 with center at7.5cm from end; B at10cm, dB2.5cm. I_B=5000+20*(2.5²−7.5²)=4000 g cm². Radius term cancels; do not assume thin-rod inertia.",
+    "2008-3-08:4": "Parallel-axis theorem Eq10.20 with center at7.5cm from end; B at10cm, dB2.5cm. I_B=5000+20*(2.5²−7.5²)=4000 g cm². Radius term cancels; do not assume thin-rod inertia.",
+    "2008-3-08:5": "Parallel-axis theorem Eq10.20 with center at7.5cm from end; B at10cm, dB2.5cm. I_B=5000+20*(2.5²−7.5²)=4000 g cm². Radius term cancels; do not assume thin-rod inertia."
+  },
+  "retrievalMethod": "web direct text",
+  "sourceHashScope": "Short reviewed excerpt only"
+}

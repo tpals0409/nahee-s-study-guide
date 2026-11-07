@@ -1,0 +1,16 @@
+{
+  "id": "acddf4d05d52715eeec8",
+  "kind": "science",
+  "source": "OpenStax Anatomy and Physiology 2e",
+  "ref": "17.5 The Parathyroid Glands",
+  "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/17-5-the-parathyroid-glands",
+  "excerpt": "the major hormone involved in the regulation of blood calcium levels",
+  "sourceHash": "04c44cf010e43761b5f85b443fb4834e3dfb07803e24c29078d78d9ab85a3712",
+  "cacheSourceId": "d525003471bd23adb7fb",
+  "retrievedAt": "2026-11-06T18:58:01.913730+00:00",
+  "reviewedMappings": {
+    "2014-3-27:3": "PTH의 주된 조절 기능은 혈중칼슘. 심장 및 모든 혈관 기능과 무관하다는 초안의 과도한 표현 삭제."
+  },
+  "retrievalMethod": "web.open; manually reviewed excerpt",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

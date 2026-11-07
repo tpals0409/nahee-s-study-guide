@@ -1,0 +1,19 @@
+{
+  "id": "f8b8214954d3fcfe7253",
+  "kind": "science",
+  "source": "U.S. National Park Service",
+  "ref": "Transform Plate Boundaries",
+  "url": "https://home.nps.gov/subjects/geology/plate-tectonics-transform-plate-boundaries.htm",
+  "excerpt": "results in shallow earthquakes",
+  "sourceHash": "986103f9d63897fd1a25797774a446c62bb471683b972798f575fe576f4a356d",
+  "cacheSourceId": "efd6534c4300dfef7a46",
+  "retrievedAt": "2026-11-07T01:15:23.834972+00:00",
+  "reviewedMappings": {
+    "2022-3-31:0": "Introduction explicitly links transform boundaries to shallow earthquakes and identifies San Andreas as Pacific/North American transform; ㄴ true.",
+    "2022-3-31:2": "Introduction explicitly links transform boundaries to shallow earthquakes and identifies San Andreas as Pacific/North American transform; ㄴ true.",
+    "2022-3-31:4": "Introduction explicitly links transform boundaries to shallow earthquakes and identifies San Andreas as Pacific/North American transform; ㄴ true.",
+    "2022-3-31:5": "Introduction explicitly links transform boundaries to shallow earthquakes and identifies San Andreas as Pacific/North American transform; ㄴ true."
+  },
+  "retrievalMethod": "Direct source page read; original problem image inspected",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

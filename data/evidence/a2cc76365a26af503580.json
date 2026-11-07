@@ -1,0 +1,19 @@
+{
+  "id": "a2cc76365a26af503580",
+  "kind": "science",
+  "source": "US EPA",
+  "ref": "Basic Ozone Layer Science — I. The Ozone Layer",
+  "url": "https://www.epa.gov/ozone-layer-protection/basic-ozone-layer-science",
+  "excerpt": "The stratosphere extends from about 10km to about 50km in altitude.",
+  "sourceHash": "6835537f45bd301ba750cfac9d03a16a7f30173b27414cd227c68ec0eeeea388",
+  "cacheSourceId": "1af2128d3b0435f79cba",
+  "retrievedAt": "2026-11-06T19:06:46.523052+00:00",
+  "reviewedMappings": {
+    "2014-3-34:0": "EPA lines 11–13 give troposphere surface to roughly 10 km and stratosphere 10–50 km. Thicknesses about 10 and 40 km, respectively, refute ㄷ. Values are illustrative and vary with latitude, not exact universal boundaries.",
+    "2014-3-34:2": "EPA lines 11–13 give troposphere surface to roughly 10 km and stratosphere 10–50 km. Thicknesses about 10 and 40 km, respectively, refute ㄷ. Values are illustrative and vary with latitude, not exact universal boundaries.",
+    "2014-3-34:4": "EPA lines 11–13 give troposphere surface to roughly 10 km and stratosphere 10–50 km. Thicknesses about 10 and 40 km, respectively, refute ㄷ. Values are illustrative and vary with latitude, not exact universal boundaries.",
+    "2014-3-34:5": "EPA lines 11–13 give troposphere surface to roughly 10 km and stratosphere 10–50 km. Thicknesses about 10 and 40 km, respectively, refute ㄷ. Values are illustrative and vary with latitude, not exact universal boundaries."
+  },
+  "retrievalMethod": "Direct web open; relevant atmospheric science paragraphs reviewed against original question.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

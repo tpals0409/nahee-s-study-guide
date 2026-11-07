@@ -1,0 +1,85 @@
+{
+  "id": "2026-3-20",
+  "summary": "비휘발성 산의 총량은 각 용기에서 3 mmol로 보존됩니다. 용기 2의 총농도는 15 mM이고 [A⁻]/[HA]=1/5이므로 [A⁻]=2.5 mM, [HA]=12.5 mM입니다. 물의 자동 이온화 기여를 무시하는 통상적 산 해리 계산에서 m=Ka=5×10⁻⁴입니다. 용기 1에서는 총농도 10 mM에 같은 Ka를 적용하면 [A⁻]=2 mM, [HA]=8 mM이므로 n=1/4, n/m=500입니다.",
+  "choices": [
+    "250: 오답입니다. 용기 2에서 m=(2.5×10⁻³)²/(12.5×10⁻³)=5×10⁻⁴입니다. 용기 1에서 [A⁻]=[H⁺]=h로 두면 h²/(0.010−h)=5×10⁻⁴이고, 양의 해는 h=0.002 M입니다. 따라서 n=0.002/0.008=1/4이고 n/m=500입니다.",
+    "500: 정답입니다. 용기 2에서 m=(2.5×10⁻³)²/(12.5×10⁻³)=5×10⁻⁴입니다. 용기 1에서 [A⁻]=[H⁺]=h로 두면 h²/(0.010−h)=5×10⁻⁴이고, 양의 해는 h=0.002 M입니다. 따라서 n=0.002/0.008=1/4이고 n/m=500입니다.",
+    "750: 오답입니다. 용기 2에서 m=(2.5×10⁻³)²/(12.5×10⁻³)=5×10⁻⁴입니다. 용기 1에서 [A⁻]=[H⁺]=h로 두면 h²/(0.010−h)=5×10⁻⁴이고, 양의 해는 h=0.002 M입니다. 따라서 n=0.002/0.008=1/4이고 n/m=500입니다.",
+    "1000: 오답입니다. 용기 2에서 m=(2.5×10⁻³)²/(12.5×10⁻³)=5×10⁻⁴입니다. 용기 1에서 [A⁻]=[H⁺]=h로 두면 h²/(0.010−h)=5×10⁻⁴이고, 양의 해는 h=0.002 M입니다. 따라서 n=0.002/0.008=1/4이고 n/m=500입니다.",
+    "1250: 오답입니다. 용기 2에서 m=(2.5×10⁻³)²/(12.5×10⁻³)=5×10⁻⁴입니다. 용기 1에서 [A⁻]=[H⁺]=h로 두면 h²/(0.010−h)=5×10⁻⁴이고, 양의 해는 h=0.002 M입니다. 따라서 n=0.002/0.008=1/4이고 n/m=500입니다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §14.3 — Acid Ionization Constants",
+      "quote": "The equilibrium constant for an acid is called the acid-ionization constant",
+      "url": "https://openstax.org/books/chemistry-2e/pages/14-3-relative-strengths-of-acids-and-bases",
+      "evidenceId": "0e5ebbfccb43061481ad",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §14.3 — Acid Ionization Constants",
+      "quote": "The equilibrium constant for an acid is called the acid-ionization constant",
+      "url": "https://openstax.org/books/chemistry-2e/pages/14-3-relative-strengths-of-acids-and-bases",
+      "evidenceId": "0e5ebbfccb43061481ad",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §14.3 — Acid Ionization Constants",
+      "quote": "The equilibrium constant for an acid is called the acid-ionization constant",
+      "url": "https://openstax.org/books/chemistry-2e/pages/14-3-relative-strengths-of-acids-and-bases",
+      "evidenceId": "0e5ebbfccb43061481ad",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §14.3 — Acid Ionization Constants",
+      "quote": "The equilibrium constant for an acid is called the acid-ionization constant",
+      "url": "https://openstax.org/books/chemistry-2e/pages/14-3-relative-strengths-of-acids-and-bases",
+      "evidenceId": "0e5ebbfccb43061481ad",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §14.3 — Acid Ionization Constants",
+      "quote": "The equilibrium constant for an acid is called the acid-ionization constant",
+      "url": "https://openstax.org/books/chemistry-2e/pages/14-3-relative-strengths-of-acids-and-bases",
+      "evidenceId": "0e5ebbfccb43061481ad",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §14.3 — Acid Ionization Constants",
+      "quote": "The equilibrium constant for an acid is called the acid-ionization constant",
+      "url": "https://openstax.org/books/chemistry-2e/pages/14-3-relative-strengths-of-acids-and-bases",
+      "evidenceId": "0e5ebbfccb43061481ad",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Full original and volumes inspected. Independent rational arithmetic verifies mass balances, both Ka values and ratio500. Direct textbook acid ionization and quadratic method reviewed. Water-autoionization omission disclosed; no assumed numerical Kw at unspecified temperature and no blanket Ka unit claim. Removed speculative distractor explanations and incorrect concentration-trend rationale. Canonical/local final key2 agrees.",
+    "contentHash": "f2210c978be0feb2b8ca962ce83eb544548ccf9df62748cba9d77778a02dad3c"
+  }
+}

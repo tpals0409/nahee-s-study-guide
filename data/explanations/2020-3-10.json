@@ -1,0 +1,85 @@
+{
+  "id": "2020-3-10",
+  "summary": "폭 d인 일차원 무한 퍼텐셜 우물의 에너지는 E_n=n²h²/(8md²)이고 정상파 파장은 λ=2d/n입니다. A는 폭 L에서 n=1이므로 E_A=h²/(8mL²)입니다. B는 폭 2L이므로 E_B=n²h²/(32mL²)이며, E_B=E_A에서 n=2입니다. 따라서 λ_B=4L/2=2L로 정답은 ④입니다.",
+  "choices": [
+    "오답입니다. 폭 2L에서 λ=L/4이면 n=4L/λ=16입니다. E_B/E_A=n²/4=64이므로 에너지가 같지 않습니다.",
+    "오답입니다. 폭 2L에서 λ=L/2이면 n=8입니다. E_B/E_A=n²/4=16이므로 조건에 맞지 않습니다.",
+    "오답입니다. 폭 2L에서 λ=L이면 n=4입니다. E_B/E_A=n²/4=4이므로 조건에 맞지 않습니다.",
+    "정답입니다. 폭 2L에서 λ=2L이면 n=2입니다. E_B/E_A=n²/4=1로 두 전자의 에너지가 같습니다.",
+    "오답입니다. 폭 2L에서 λ=4L이면 n=1인 바닥상태입니다. E_B/E_A=1/4이므로 A보다 에너지가 작습니다."
+  ],
+  "lawNote": "두 우물 내부의 퍼텐셜을 같은 0으로 두는 표준 무한 우물 모형을 적용합니다. 여기서 파장은 정상파의 공간 주기이며, 정상상태의 평균 운동량을 h/λ로 보는 것은 아닙니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 3 §7.4 The Quantum Particle in a Box",
+      "quote": "The energy of the particle is quantized as a consequence of a standing wave condition inside the box.",
+      "url": "https://openstax.org/books/university-physics-volume-3/pages/7-4-the-quantum-particle-in-a-box",
+      "evidenceId": "9b455c0172a59c7bdea4",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 3 §7.4 The Quantum Particle in a Box",
+      "quote": "The energy of the particle is quantized as a consequence of a standing wave condition inside the box.",
+      "url": "https://openstax.org/books/university-physics-volume-3/pages/7-4-the-quantum-particle-in-a-box",
+      "evidenceId": "9b455c0172a59c7bdea4",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 3 §7.4 The Quantum Particle in a Box",
+      "quote": "The energy of the particle is quantized as a consequence of a standing wave condition inside the box.",
+      "url": "https://openstax.org/books/university-physics-volume-3/pages/7-4-the-quantum-particle-in-a-box",
+      "evidenceId": "9b455c0172a59c7bdea4",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 3 §7.4 The Quantum Particle in a Box",
+      "quote": "The energy of the particle is quantized as a consequence of a standing wave condition inside the box.",
+      "url": "https://openstax.org/books/university-physics-volume-3/pages/7-4-the-quantum-particle-in-a-box",
+      "evidenceId": "9b455c0172a59c7bdea4",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 3 §7.4 The Quantum Particle in a Box",
+      "quote": "The energy of the particle is quantized as a consequence of a standing wave condition inside the box.",
+      "url": "https://openstax.org/books/university-physics-volume-3/pages/7-4-the-quantum-particle-in-a-box",
+      "evidenceId": "9b455c0172a59c7bdea4",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 3 §7.4 The Quantum Particle in a Box",
+      "quote": "The energy of the particle is quantized as a consequence of a standing wave condition inside the box.",
+      "url": "https://openstax.org/books/university-physics-volume-3/pages/7-4-the-quantum-particle-in-a-box",
+      "evidenceId": "9b455c0172a59c7bdea4",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Independent boundary-condition and energy-level derivation; exact rational quantum number and energy ratios for every option; corrected draft options1–2 and removed ambiguous definite-momentum wording; direct primary source mapping.",
+    "contentHash": "a75f6dc9fc86159e1ac1fe55aa7c2b33e79826863f25b0ecc65ce1ef91edfbbf"
+  }
+}

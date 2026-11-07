@@ -1,0 +1,18 @@
+{
+  "id": "ee8a5f841859161762f4",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e: Eukaryotic Transcription",
+  "url": "https://openstax.org/books/biology-2e/pages/15-3-eukaryotic-transcription",
+  "excerpt": "RNA polymerase II is located in the nucleus",
+  "sourceHash": "69cbc105d9b1f8d83467baeec64c96bef2b0919fcf0acea0726709a4992179b9",
+  "cacheSourceId": "d10c7398cbbe7cc9a337",
+  "retrievedAt": "2026-11-07T02:41:51.304089+00:00",
+  "reviewedMappings": {
+    "2024-3-27:0": "Direct introduction and Table 15.1 identify nuclear transcription of protein-coding pre-mRNA and export to cytoplasm; question explicitly concerns nuclear genes.",
+    "2024-3-27:1": "Direct introduction and Table 15.1 identify nuclear transcription of protein-coding pre-mRNA and export to cytoplasm; question explicitly concerns nuclear genes.",
+    "2024-3-27:3": "Direct introduction and Table 15.1 identify nuclear transcription of protein-coding pre-mRNA and export to cytoplasm; question explicitly concerns nuclear genes."
+  },
+  "retrievalMethod": "Direct introduction and Table 15.1 identify nuclear transcription of protein-coding pre-mRNA and export to cytoplasm; question explicitly concerns nuclear genes.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

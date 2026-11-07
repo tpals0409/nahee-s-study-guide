@@ -1,0 +1,21 @@
+{
+  "id": "fe62366c17b13b6db8aa",
+  "kind": "science",
+  "source": "NASA",
+  "ref": "The Solar Interior",
+  "url": "https://solarscience.msfc.nasa.gov/interior.shtml",
+  "excerpt": "Both the temperature and the density decrease as one moves outward from the center of the Sun.",
+  "sourceHash": "4218a73a4bbdfe7784ccde462de1276ecb7210db248582e620b3b279cbffad10",
+  "cacheSourceId": "345354954a03fad26cc0",
+  "retrievedAt": "2026-11-07T02:55:20.257042+00:00",
+  "reviewedMappings": {
+    "2024-3-39:0": "Core/Radiative Zone/Convection Zone 본문에서 온도·밀도 변화, 핵융합, 복사·대류 전달 및 불투명도 변화를 확인. ㄴ을 에너지 생성·전달 과정의 구분으로 보완하고 ㄷ을 확인.",
+    "2024-3-39:1": "Core/Radiative Zone/Convection Zone 본문에서 온도·밀도 변화, 핵융합, 복사·대류 전달 및 불투명도 변화를 확인. ㄴ을 에너지 생성·전달 과정의 구분으로 보완하고 ㄷ을 확인.",
+    "2024-3-39:2": "Core/Radiative Zone/Convection Zone 본문에서 온도·밀도 변화, 핵융합, 복사·대류 전달 및 불투명도 변화를 확인. ㄴ을 에너지 생성·전달 과정의 구분으로 보완하고 ㄷ을 확인.",
+    "2024-3-39:3": "Core/Radiative Zone/Convection Zone 본문에서 온도·밀도 변화, 핵융합, 복사·대류 전달 및 불투명도 변화를 확인. ㄴ을 에너지 생성·전달 과정의 구분으로 보완하고 ㄷ을 확인.",
+    "2024-3-39:4": "Core/Radiative Zone/Convection Zone 본문에서 온도·밀도 변화, 핵융합, 복사·대류 전달 및 불투명도 변화를 확인. ㄴ을 에너지 생성·전달 과정의 구분으로 보완하고 ㄷ을 확인.",
+    "2024-3-39:5": "Core/Radiative Zone/Convection Zone 본문에서 온도·밀도 변화, 핵융합, 복사·대류 전달 및 불투명도 변화를 확인. ㄴ을 에너지 생성·전달 과정의 구분으로 보완하고 ㄷ을 확인."
+  },
+  "retrievalMethod": "Direct NASA page opened; relevant plasma and solar interior sections reviewed.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

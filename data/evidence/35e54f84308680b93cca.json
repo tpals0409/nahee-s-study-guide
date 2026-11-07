@@ -1,0 +1,19 @@
+{
+  "id": "35e54f84308680b93cca",
+  "kind": "science",
+  "source": "Frontiers in Earth Science",
+  "ref": "Magmatic-Hydrothermal Processes of Vein-Type Haman-Gunbuk-Daejang Copper Deposits in the Gyeongnam Metallogenic Belt in South Korea",
+  "url": "https://www.frontiersin.org/journals/earth-science/articles/10.3389/feart.2021.752908/full",
+  "excerpt": "The Jindong granitoids intrude into both Haman and Jindong formations",
+  "sourceHash": "350f6a4ba3ce7d38928a38a6e7c82446194822c7ee422a085257b4a898cc848d",
+  "cacheSourceId": "8d8216dde300b13b36e8",
+  "retrievedAt": "2026-11-06T20:42:30.345497+00:00",
+  "reviewedMappings": {
+    "2016-3-34:0": "ㄷ 거짓. 연구 지질배경은 신동·하양 퇴적층을 후기 백악기 불국사 마그마 계열 진동 화강암류가 관입한다고 설명한다. 이미 존재하는 함안층·진동층을 관입하므로 퇴적이 관입보다 먼저다.",
+    "2016-3-34:2": "ㄷ 거짓. 연구 지질배경은 신동·하양 퇴적층을 후기 백악기 불국사 마그마 계열 진동 화강암류가 관입한다고 설명한다. 이미 존재하는 함안층·진동층을 관입하므로 퇴적이 관입보다 먼저다.",
+    "2016-3-34:3": "ㄷ 거짓. 연구 지질배경은 신동·하양 퇴적층을 후기 백악기 불국사 마그마 계열 진동 화강암류가 관입한다고 설명한다. 이미 존재하는 함안층·진동층을 관입하므로 퇴적이 관입보다 먼저다.",
+    "2016-3-34:5": "ㄷ 거짓. 연구 지질배경은 신동·하양 퇴적층을 후기 백악기 불국사 마그마 계열 진동 화강암류가 관입한다고 설명한다. 이미 존재하는 함안층·진동층을 관입하므로 퇴적이 관입보다 먼저다."
+  },
+  "retrievalMethod": "Indexed search excerpt reviewed; full source text not retrieved for this evidence record.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

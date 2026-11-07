@@ -1,0 +1,16 @@
+{
+  "id": "6da4dc89a41b2d2543fb",
+  "kind": "science",
+  "source": "NOAA",
+  "ref": "Ocean currents — Surface currents / Deep ocean currents",
+  "url": "https://www.noaa.gov/education/resource-collections/ocean-coasts/ocean-currents",
+  "excerpt": "Differences in water density",
+  "sourceHash": "47b551ff5ce44dfa5608faf50487cd0102b4ce2c0f08604d52e97eb78956a66d",
+  "cacheSourceId": "26dddfb0e29bbdd17bd8",
+  "retrievedAt": "2026-11-06T16:05:49.193936+00:00",
+  "reviewedMappings": {
+    "2010-3-36:0": "ㄱ: 바람에 의해 구동되는 흐름과 밀도 차이에 의한 흐름의 구분. 원문 두 절의 별도 발췌."
+  },
+  "retrievalMethod": "web.open and web.find: publisher page read and selected excerpts transcribed",
+  "sourceHashScope": "Selected excerpts only; not full page"
+}

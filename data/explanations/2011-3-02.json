@@ -1,0 +1,30 @@
+{
+  "summary": "원형 고리의 관성모멘트는 I=MR²입니다. 미끄러지지 않는 구름에서 마찰력의 일은 0이고, 에너지 보존으로 v=√(gh)를 얻습니다. 따라서 ㄴ·ㄷ이 옳아 정답은 ⑤입니다.",
+  "choices": [
+    "ㄱ은 틀립니다. 고리의 중심을 지나 면에 수직인 축에 대해 질량이 모두 반지름 R에 분포하므로 I=∫R²dm=MR²입니다.",
+    "ㄴ은 옳지만 ㄷ도 옳으므로 이 선지는 오답입니다. Mgh=½Mv²+½Iω²에 I=MR², ω=v/R을 대입하면 Mgh=Mv²이므로 v=√(gh)입니다.",
+    "ㄷ은 옳지만 ㄴ도 옳으므로 오답입니다. 정지한 지면 위에서 미끄러짐 없이 구르면 접촉점의 순간 속도가 0이어서 정지마찰력이 하는 일은 0입니다.",
+    "ㄴ은 옳지만 ㄱ의 관성모멘트가 틀렸고 옳은 보기 ㄷ이 빠져 있으므로 오답입니다.",
+    "ㄴ·ㄷ을 모두 고른 정답입니다. 정지마찰력이 일을 하지 않으므로 위치에너지 Mgh가 병진·회전 운동에너지의 합 Mv²로 전환되어 v=√(gh)가 됩니다."
+  ],
+  "lawNote": "고리는 두께를 무시한 강체로, 지면은 정지해 있고 미끄러짐 및 구름 저항에 따른 에너지 손실이 없는 문항의 이상적 조건을 적용합니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1 §11.1 Rolling Motion, conservation of energy and Example 11.3",
+      "quote": "the incremental work done by the static friction force is zero.",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/11-1-rolling-motion",
+      "evidenceId": "00ac7bb54ceb1dba112b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "원본 이미지 시각 대조 및 공식 정답 ⑤ 확인. I=∫R²dm와 Mgh=½Mv²+½MR²(v/R)²를 독립 검산. OpenStax의 구름 조건·정지마찰 일·에너지 보존 예제로 대조. 초안의 무마찰/무미끄럼 혼동 문장 삭제.",
+    "contentHash": "4b8591c382b84b319e4b4e766f7f459709c1c325bd2f7e3b9c2ef343f2e1f7db"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "f3fbade7ee3af9bd8a92",
+  "kind": "science",
+  "source": "University of Nebraska–Lincoln",
+  "ref": "Distance Modulus — Cosmic Distance Ladder",
+  "url": "https://astro.unl.edu/naap/distance/distance_modulus.html",
+  "excerpt": "m − M = −5 + 5 log",
+  "sourceHash": "d0355aa26ca041233e756c4ce3ae52ad797f46803ee06a3337e48cf16f470aec",
+  "cacheSourceId": "bd42c61617383438b7af",
+  "retrievedAt": "2026-11-06T20:48:27.778136+00:00",
+  "reviewedMappings": {
+    "2016-3-39:0": "거리지수 식에 원본 표를 대입하면 A=100pc, B=10pc, C=10^0.6≈3.98pc. ㄷ 거짓이며 A의 시차 계산에 필요한 거리 확보.",
+    "2016-3-39:1": "거리지수 식에 원본 표를 대입하면 A=100pc, B=10pc, C=10^0.6≈3.98pc. ㄷ 거짓이며 A의 시차 계산에 필요한 거리 확보.",
+    "2016-3-39:3": "거리지수 식에 원본 표를 대입하면 A=100pc, B=10pc, C=10^0.6≈3.98pc. ㄷ 거짓이며 A의 시차 계산에 필요한 거리 확보.",
+    "2016-3-39:4": "거리지수 식에 원본 표를 대입하면 A=100pc, B=10pc, C=10^0.6≈3.98pc. ㄷ 거짓이며 A의 시차 계산에 필요한 거리 확보.",
+    "2016-3-39:5": "거리지수 식에 원본 표를 대입하면 A=100pc, B=10pc, C=10^0.6≈3.98pc. ㄷ 거짓이며 A의 시차 계산에 필요한 거리 확보."
+  },
+  "retrievalMethod": "Indexed search excerpt with distance-modulus equation reviewed; direct open timed out.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

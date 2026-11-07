@@ -1,0 +1,20 @@
+{
+  "id": "857f058c86da9f10a0fc",
+  "kind": "science",
+  "source": "British Geological Survey",
+  "ref": "How are earthquakes detected, located and measured?",
+  "url": "https://www.bgs.ac.uk/discovering-geology/earth-hazards/earthquakes/how-are-earthquakes-detected/",
+  "excerpt": "S-waves do not travel through fluids",
+  "sourceHash": "74d04c0b667e9cff66f5e2dcaad02ca194409ade5f2e1efa6facc82b0308c165",
+  "cacheSourceId": "dd49d4ce5f47ed94949c",
+  "retrievedAt": "2026-11-07T01:16:17.829155+00:00",
+  "reviewedMappings": {
+    "2022-3-32:0": "P/S body waves; P longitudinal and faster in same solid; S transverse and absent in liquids/gases. Source explicitly lists air/water/molten rock and liquid outer core.",
+    "2022-3-32:1": "P/S body waves; P longitudinal and faster in same solid; S transverse and absent in liquids/gases. Source explicitly lists air/water/molten rock and liquid outer core.",
+    "2022-3-32:3": "P/S body waves; P longitudinal and faster in same solid; S transverse and absent in liquids/gases. Source explicitly lists air/water/molten rock and liquid outer core.",
+    "2022-3-32:4": "P/S body waves; P longitudinal and faster in same solid; S transverse and absent in liquids/gases. Source explicitly lists air/water/molten rock and liquid outer core.",
+    "2022-3-32:5": "P/S body waves; P longitudinal and faster in same solid; S transverse and absent in liquids/gases. Source explicitly lists air/water/molten rock and liquid outer core."
+  },
+  "retrievalMethod": "Direct web read: Seismic waves text and wave-property table",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

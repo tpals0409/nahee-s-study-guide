@@ -1,0 +1,16 @@
+{
+  "id": "a812da8e09219d8a1a15",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume 2 §9.1, Figure 9.5",
+  "url": "https://openstax.org/books/university-physics-volume-2/pages/9-1-electrical-current",
+  "excerpt": "The longer lines indicate the positive terminal.",
+  "sourceHash": "5a730a4d689bf220017cb54162f4338c47eb1ae042112a2583921cb6588c7128",
+  "cacheSourceId": "8c0ad178c79fc1a12329",
+  "retrievedAt": "2026-11-06T16:18:59.090494+00:00",
+  "reviewedMappings": {
+    "2011-3-03:0": "원본 그림의 긴 선이 A 쪽임을 시각 확인. A에서 B로 전지를 지나면 +에서 −로 이동한다."
+  },
+  "retrievalMethod": "web.run source text, manually reviewed",
+  "sourceHashScope": "Selected excerpts only; not full page"
+}

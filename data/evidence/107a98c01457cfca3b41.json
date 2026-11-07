@@ -1,0 +1,16 @@
+{
+  "id": "107a98c01457cfca3b41",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "OpenStax Biology 2e 16.4 Eukaryotic Transcription Gene Regulation",
+  "url": "https://openstax.org/books/biology-2e/pages/16-4-eukaryotic-transcription-gene-regulation",
+  "excerpt": "within the coding region of the gene",
+  "sourceHash": "948933f2643c2ef1645491bde601a383ca8f6a9624cb88985eeff4287d50d105",
+  "cacheSourceId": "0ad872416e80fd7a3e2e",
+  "retrievedAt": "2026-11-06T18:14:49.241111+00:00",
+  "reviewedMappings": {
+    "2013-3-28:0": "ㄷ: Enhancers and Transcription에서 유전자 내부 위치 가능 직접확인. 위치/방향 무조건독립 주장이나 특정Ig유전자 예시 없이 선지판단."
+  },
+  "retrievalMethod": "web.open; original question inspected",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

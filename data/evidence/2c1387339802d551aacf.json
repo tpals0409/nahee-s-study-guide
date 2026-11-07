@@ -1,0 +1,17 @@
+{
+  "id": "2c1387339802d551aacf",
+  "kind": "science",
+  "source": "OpenStax Anatomy and Physiology 2e",
+  "ref": "23.5 The Small and Large Intestines",
+  "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/23-5-the-small-and-large-intestines",
+  "excerpt": "Nutrient-rich blood from the small intestine is then carried to the liver via the hepatic portal vein.",
+  "sourceHash": "ff7101f48bce51a151b56a35464f7d55d1383c9fa381e6d964d573b957a19eb9",
+  "cacheSourceId": "08cec9d6e8d35ce94a11",
+  "retrievedAt": "2026-11-07T03:19:43.583632+00:00",
+  "reviewedMappings": {
+    "2025-3-23:1": "Histology와 Villi/Microvilli 절에서 두 구조의 표면적 확대·흡수 기능 직접 확인.",
+    "2025-3-23:3": "소장 영양분 풍부 혈액이 hepatic portal vein을 통해 간으로 운반된다는 본문 및 당/아미노산 모세혈관 경로 확인."
+  },
+  "retrievalMethod": "Direct web reading: villi/microvilli and portal drainage; carbohydrate, protein and lipid absorption including short-chain exception.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

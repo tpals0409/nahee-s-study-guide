@@ -1,0 +1,19 @@
+{
+  "id": "187627f227a2feef1fe0",
+  "kind": "science",
+  "source": "Penn State",
+  "ref": "Getting a Handle on the Wind — METEO 3",
+  "url": "https://courses.ems.psu.edu/meteo3/node/2226",
+  "excerpt": "the magnitude of the Coriolis force increases as speed increases.",
+  "sourceHash": "1f17c9346393e4146c7f3778b133a07d115641ad41df01a9490370c0f2d567ab",
+  "cacheSourceId": "5052dfaffe478f482584",
+  "retrievedAt": "2026-11-06T21:31:03.692587+00:00",
+  "reviewedMappings": {
+    "2017-3-35:0": "본문에서 풍속 증가에 따른 전향력 증가, 북반구 진행 방향 오른쪽 직각, 같은 조건에서 저위도보다 고위도에서 큰 전향력을 확인. ④ 참, ③⑤ 거짓으로 적용.",
+    "2017-3-35:3": "본문에서 풍속 증가에 따른 전향력 증가, 북반구 진행 방향 오른쪽 직각, 같은 조건에서 저위도보다 고위도에서 큰 전향력을 확인. ④ 참, ③⑤ 거짓으로 적용.",
+    "2017-3-35:4": "본문에서 풍속 증가에 따른 전향력 증가, 북반구 진행 방향 오른쪽 직각, 같은 조건에서 저위도보다 고위도에서 큰 전향력을 확인. ④ 참, ③⑤ 거짓으로 적용.",
+    "2017-3-35:5": "본문에서 풍속 증가에 따른 전향력 증가, 북반구 진행 방향 오른쪽 직각, 같은 조건에서 저위도보다 고위도에서 큰 전향력을 확인. ④ 참, ③⑤ 거짓으로 적용."
+  },
+  "retrievalMethod": "Direct web page reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

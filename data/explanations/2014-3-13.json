@@ -1,0 +1,41 @@
+{
+  "summary": "정답은 ⑤ 4, 2입니다. 탄소 골격은 곧은 사슬과 가지 친 사슬 두 종류이며, 각각 서로 다른 OH 위치가 두 가지입니다. 알코올 구조 이성질체는 총4개이고, OH가 붙은 탄소에 다른 탄소가 하나만 연결된 1차 알코올은2개입니다.",
+  "choices": [
+    "①은 틀렸습니다. 1차 알코올 수2는 맞지만, 전체 알코올 구조 이성질체는1차2개·2차1개·3차1개를 합한4개입니다.",
+    "3, 1: 구조 이성질체는 4가지인데 3으로 적었습니다. 또 1차 알코올이 1-부탄올과 2-메틸-1-프로판올 두 가지인데 1로 적었으므로 두 값 모두 틀린 오답입니다.",
+    "3, 2: 1차 알코올 수 2는 맞습니다. 그러나 2차 알코올(2-부탄올)과 3차 알코올(2-메틸-2-프로판올)까지 포함하면 알코올 구조 이성질체는 4가지이므로 오답입니다.",
+    "4, 1: 구조 이성질체 수 4는 맞습니다. 그러나 아이소뷰틸 알코올(2-메틸-1-프로판올)도 OH가 붙은 탄소가 다른 탄소 하나에만 결합한 1차 알코올이므로, 1차 알코올은 2가지입니다. 따라서 오답입니다.",
+    "4, 2: 정답입니다. 알코올 구조 이성질체는 1-부탄올(1차), 2-부탄올(2차), 2-메틸-1-프로판올(1차), 2-메틸-2-프로판올(3차)의 4가지이고, 이 중 1차 알코올은 2가지입니다."
+  ],
+  "lawNote": "구조 이성질체는 원자 연결이 다른 경우를 셉니다. 2-부탄올의 두 거울상 형태는 같은 연결 구조이므로 별도로 세지 않습니다. 같은 분자식이어도 에테르는 문제에서 요구한 알코올에 포함하지 않습니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Organic Chemistry, 17.1 Naming Alcohols and Phenols",
+      "quote": "depending on the number of organic groups bonded to the hydroxyl-bearing carbon.",
+      "url": "https://openstax.org/books/organic-chemistry/pages/17-1-naming-alcohols-and-phenols",
+      "evidenceId": "922f1defea83d501cad3",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Organic Chemistry, 3.2 Alkanes and Alkane Isomers",
+      "quote": "whose atoms are connected differently, are called constitutional isomers.",
+      "url": "https://openstax.org/books/organic-chemistry/pages/3-2-alkanes-and-alkane-isomers",
+      "evidenceId": "08e988bf42ae19faa2ed",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "원본2014-3-13.webp 분자식·알코올 제한·선지 확인. OpenStax 알코올 분류 및 C4골격/구조이성질체 정의 대조. 탄소 나무그래프·OH 부착점 전수열거 및 순열 중복제거로 전체4개/1차2개 독립 검산. 오답 원인 추측 제거.",
+    "contentHash": "62d247fc9f44e2dd2189a02490c4e2398865d15eb56ddd81defcf4c1d1f377bb"
+  }
+}

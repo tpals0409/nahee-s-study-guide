@@ -1,0 +1,21 @@
+{
+  "id": "409b5b07fd19c34f073c",
+  "kind": "science",
+  "source": "Kansas State University — Gary Wysin",
+  "ref": "Apparent and Absolute Magnitudes",
+  "url": "https://www.phys.ksu.edu/personal/wysin/astro/magnitudes.html",
+  "excerpt": "the apparent magnitude the star would have if it were placed at a distance of 10 parsecs from the Earth.",
+  "sourceHash": "9d04b4ebb39aada9595cfb3996e7b444dc18be357943740567236541c44a390e",
+  "cacheSourceId": "e18bf00b0deda1de1e29",
+  "retrievedAt": "2026-11-06T23:48:20.614860+00:00",
+  "reviewedMappings": {
+    "2020-3-40:0": "10 pc definition and modulus applied to table; only ㄱ true.",
+    "2020-3-40:1": "A at 10 pc has m=M=3.",
+    "2020-3-40:2": "Equal absolute magnitudes, dB=dA/2: fluxB/fluxA=4, mB<mA; ㄴ false.",
+    "2020-3-40:3": "C: m-M=5log10(2)>0, dimmer than at 10 pc; intrinsic luminosity unchanged.",
+    "2020-3-40:4": "ㄴ and ㄷ false by distance and magnitude comparisons; ㄱ omitted.",
+    "2020-3-40:5": "Only ㄱ valid; inclusion of ㄴ and ㄷ invalid."
+  },
+  "retrievalMethod": "Direct web review of Kansas State University Apparent and Absolute Magnitudes, lines 5–8 and 21–28: reversed magnitude scale, logarithmic brightness relation, absolute magnitude at 10 pc, inverse square law and distance modulus. Independently calculated A=3, B=1.4948500217, C=1.5051499783; original table and official answer checked. No extinction term supplied in this exercise.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

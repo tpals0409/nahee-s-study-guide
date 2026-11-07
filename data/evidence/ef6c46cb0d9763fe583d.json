@@ -1,0 +1,16 @@
+{
+  "id": "ef6c46cb0d9763fe583d",
+  "kind": "science",
+  "source": "Penn State",
+  "ref": "Penn State — Hurricane Formation and Evolution",
+  "url": "https://courses.ems.psu.edu/earth107/book/export/html/1602",
+  "excerpt": "the temperature of the upper 60 meters (~200 ft.) of the ocean water must be greater than 26°C",
+  "sourceHash": "16b19300c514f02414243d5f31eb61bd87c5d76f020fa624c64d7010ceb3f515",
+  "cacheSourceId": "69fde63be6345291a271",
+  "retrievedAt": "2026-11-06T17:38:59.753520+00:00",
+  "reviewedMappings": {
+    "2012-3-35:0": "네 진술의 공통 검토: 북서태평양 최다/북동태평양도 발생, 주요 저위도 분포와 적도 예외, 북반구 우세, 따뜻한 해양·습윤 하층 및 충분조건 아님을 각 출처의 해당 절로 대조."
+  },
+  "retrievalMethod": "web.open; relevant sections reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,107 @@
+{
+  "id": "2021-3-13",
+  "summary": "가열 곡선에서 A는 0 °C 미만의 얼음, B는 0 °C에서 융해 중인 얼음과 물의 혼합물, C는 0~100 °C 사이의 액체 물입니다. D와 E는 100 °C에서 기화 중인 물과 수증기의 혼합물이며, E가 열을 더 받았으므로 수증기의 비율이 더 큽니다. 1기압, 100 °C에서는 액체와 기체가 평형을 이루어 두 상의 몰당 깁스 자유 에너지가 같습니다. 따라서 상의 조성과 관계없이 D와 E의 깁스 자유 에너지는 같고, 정답은 '깁스 자유 에너지는 D = E이다'입니다.",
+  "choices": [
+    "열용량은 A > C이다: 틀립니다. 온도-열량 그래프에서 단일 상 구간의 기울기는 1/C_p입니다. 그림의 A 구간이 C 구간보다 가파르므로 열용량은 A < C입니다.",
+    "내부 에너지는 B > C이다: 틀립니다. B에는 아직 녹지 않은 얼음이 있고 C는 융해가 끝난 뒤 가열된 액체 물입니다. 남은 얼음이 녹을 때는 열을 흡수하면서 부피가 감소하므로 ΔU=q_p−pΔV>0입니다. 이후 액체 물의 가열에서도 내부 에너지가 증가하여 U_B<U_C입니다. 단순히 흡수열이 크다는 사실만으로 내부 에너지의 대소를 일반화해서는 안 됩니다.",
+    "엔트로피는 C > D이다: 틀립니다. C에서 액체를 가열한 뒤 일부를 기화시키면 엔트로피가 증가하므로 S_C<S_D입니다. 가역 경로로 비교하면 액체 가열의 dS=C_p dT/T와 기화의 ΔS=ΔH_vap/T가 모두 양수입니다.",
+    "깁스 자유 에너지는 D = E이다: 옳습니다. D와 E는 모두 1기압, 100 °C에서 액체와 기체가 공존하는 평형 상태입니다. 평형에서는 액체와 기체의 화학 퍼텐셜이 같으므로 1몰 계의 G는 기체 비율과 무관합니다. D에서 E로 가는 동안 ΔG = ΔH − TΔS = q − T(q/T) = 0이므로 D = E입니다.",
+    "엔탈피는 A가 가장 크다: 틀립니다. 일정 압력에서 흡수한 열은 엔탈피 증가량과 같습니다(q_p = ΔH). A는 열을 가장 적게 흡수한 상태이므로 엔탈피가 가장 작고, 크기 순서는 A < B < C < D < E입니다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 16.4 Free Energy",
+      "quote": "at constant temperature and pressure, the free energy change",
+      "url": "https://openstax.org/books/chemistry-2e/pages/16-4-free-energy",
+      "evidenceId": "3062c3ec83d4018a2aa1",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 16.4 Free Energy",
+      "quote": "at constant temperature and pressure, the free energy change",
+      "url": "https://openstax.org/books/chemistry-2e/pages/16-4-free-energy",
+      "evidenceId": "3062c3ec83d4018a2aa1",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 5.1 Energy Basics",
+      "quote": "The specific heat of a substance varies somewhat with temperature.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/5-1-energy-basics",
+      "evidenceId": "3950de5c3db3bf1e2255",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 16.2 Entropy",
+      "quote": "the processes of vaporization and sublimation likewise involve increases in entropy",
+      "url": "https://openstax.org/books/chemistry-2e/pages/16-2-entropy",
+      "evidenceId": "1b547da80ddc783af135",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 16.2 Entropy",
+      "quote": "the processes of vaporization and sublimation likewise involve increases in entropy",
+      "url": "https://openstax.org/books/chemistry-2e/pages/16-2-entropy",
+      "evidenceId": "1b547da80ddc783af135",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2, 1.5 Phase Changes",
+      "quote": "ice is less dense than liquid water at the melting point",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/1-5-phase-changes",
+      "evidenceId": "0b37499c9bfc2c8072e2",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "University of California, Santa Barbara — Physics Lecture Demonstrations",
+      "ref": "52.06 — Watching temperature change while heating water",
+      "quote": "the heat that you add to to the water increases its internal energy",
+      "url": "https://web.physics.ucsb.edu/~lecturedemonstrations/Composer/Pages/52.06.html",
+      "evidenceId": "2e8eca1657e1698a71b8",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 16.4 Free Energy",
+      "quote": "at constant temperature and pressure, the free energy change",
+      "url": "https://openstax.org/books/chemistry-2e/pages/16-4-free-energy",
+      "evidenceId": "3062c3ec83d4018a2aa1",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Original heating-curve inspection; independent thermodynamic comparison of all five choices; direct OpenStax and UCSB source review and per-choice mapping.",
+    "contentHash": "1f31f8132c688aa9d6223b169d816de90971d4f7adf66753c2044a4b00a35f58"
+  }
+}

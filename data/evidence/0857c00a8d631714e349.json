@@ -1,0 +1,20 @@
+{
+  "id": "0857c00a8d631714e349",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "12.3 Mass Spectrometry of Some Common Functional Groups",
+  "url": "https://openstax.org/books/organic-chemistry/pages/12-3-mass-spectrometry-of-some-common-functional-groups",
+  "excerpt": "a reflection of the isotopic abundances of chlorine.",
+  "sourceHash": "f39141ff3e59771011b19b09facb02351a0a128e5cc33ec09ea652cff95e0eba",
+  "cacheSourceId": "4e72dd9810aabf8d38f6",
+  "retrievedAt": "2026-11-06T20:23:35.172759+00:00",
+  "reviewedMappings": {
+    "2016-3-18:0": "본문45–50의 동위원소 치환에 따른 분자이온 질량·상대세기 해석을 적용. A2의 두 원자 조합을 독립적으로 열거하여 XX,XY,YY 질량2X,X+Y,2Y 및 확률p²,2pq,q² 도출.",
+    "2016-3-18:1": "q=1/4의 이원자 조합을 독립계산하면9:6:1로 그림과 불일치.",
+    "2016-3-18:2": "원본 양끝2X와2X+4, 세기0.5:1:0.5를 확인. 2Y=2X+4와 p²=q²로 Y=X+2,p=q=1/2 도출.",
+    "2016-3-18:3": "q=3/4의 조합확률1:6:9는 원본과 불일치.",
+    "2016-3-18:4": "q=1이면 분자이온군에서 YY만 남는데 원본에는 세 피크가 있음."
+  },
+  "retrievalMethod": "Direct web open and targeted find; isotope abundances and weighted mean reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

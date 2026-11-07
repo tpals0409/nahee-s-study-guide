@@ -1,0 +1,21 @@
+{
+  "id": "1fc931ac38dae78c9e3e",
+  "kind": "science",
+  "source": "NIST",
+  "ref": "NIST Chemistry WebBook: Toluene, phase change data",
+  "url": "https://webbook.nist.gov/cgi/cbook.cgi?ID=C108883&Mask=4",
+  "excerpt": "383.8 ± 0.2",
+  "sourceHash": "a617abeab4ba29104bf28345fd77b5c5dd6ea4c0ed1da03afb8c0096c4d5a281",
+  "cacheSourceId": "b694f273d0a95621e698",
+  "retrievedAt": "2026-11-07T03:59:47.232133+00:00",
+  "reviewedMappings": {
+    "2026-3-17:0": "C normal boiling point383.8K less than B484K; formula noCl.",
+    "2026-3-17:1": "C normal boiling point383.8K less than B484K; formula noCl.",
+    "2026-3-17:2": "C normal boiling point383.8K less than B484K; formula noCl.",
+    "2026-3-17:3": "C normal boiling point383.8K less than B484K; formula noCl.",
+    "2026-3-17:4": "C normal boiling point383.8K less than B484K; formula noCl.",
+    "2026-3-17:5": "C normal boiling point383.8K less than B484K; formula noCl."
+  },
+  "retrievalMethod": "Direct web open",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

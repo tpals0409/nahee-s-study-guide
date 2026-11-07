@@ -1,0 +1,20 @@
+{
+  "id": "7de8f9812fe86156d5e7",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e 44.3 Terrestrial Biomes",
+  "url": "https://openstax.org/books/biology-2e/pages/44-3-terrestrial-biomes",
+  "excerpt": "Tropical wet forests have more species of trees than any other biome",
+  "sourceHash": "96a417e27319e8c8232cb27a36669c801b89fb497c4a21a61f84bb8f87c745e5",
+  "cacheSourceId": "f68426b9326d01f68920",
+  "retrievedAt": "2026-11-07T02:44:35.715252+00:00",
+  "reviewedMappings": {
+    "2024-3-30:0": "Supports the conventional biome-level high plant-diversity characterization in ㄷ. Does not establish a universal ranking for every plot size or every individual sampling location.",
+    "2024-3-30:1": "Supports the conventional biome-level high plant-diversity characterization in ㄷ. Does not establish a universal ranking for every plot size or every individual sampling location.",
+    "2024-3-30:3": "Supports the conventional biome-level high plant-diversity characterization in ㄷ. Does not establish a universal ranking for every plot size or every individual sampling location.",
+    "2024-3-30:4": "Supports the conventional biome-level high plant-diversity characterization in ㄷ. Does not establish a universal ranking for every plot size or every individual sampling location.",
+    "2024-3-30:5": "Supports the conventional biome-level high plant-diversity characterization in ㄷ. Does not establish a universal ranking for every plot size or every individual sampling location."
+  },
+  "retrievalMethod": "Direct Tropical Wet Forest subsection reviewed, including very high plant-community species diversity and hectare-scale Amazonian tree richness.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

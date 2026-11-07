@@ -1,0 +1,21 @@
+{
+  "id": "8b9005a146fac2307038",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 2e, 13.2 Equilibrium Constants",
+  "url": "https://openstax.org/books/chemistry-2e/pages/13-2-equilibrium-constants",
+  "excerpt": "If the reactants and products are gaseous, a reaction quotient may be similarly derived using partial pressures:",
+  "sourceHash": "933cc56dc9ecce5c37f077774e55fa81658b010c2294c1159e059ba13918de70",
+  "cacheSourceId": "07842d94946ccad033f4",
+  "retrievedAt": "2026-11-07T00:54:47.800881+00:00",
+  "reviewedMappings": {
+    "2022-3-13:0": "Direct review lines 30–40: partial-pressure quotient with stoichiometric exponents. Apply equilibrium expression PC²/(PA PB²); initial equilibrium reduces to x=1/3 and final Kp=5. 처음에 C만 1 mol 있으므로 반응은 역방향(2C → A + 2B)으로 진행합니다. 압력이 1 atm으로 일정하므로 전체 몰수는 V/T에 비례합니다. 평형 I에서 K_P = 1을 만족하는 분해량을 구하고, 부피·온도 비로 평형 II의 전체 몰수를 구하면 a = 5입니다.",
+    "2022-3-13:1": "Direct review lines 30–40: partial-pressure quotient with stoichiometric exponents. Apply equilibrium expression PC²/(PA PB²); initial equilibrium reduces to x=1/3 and final Kp=5. 4은 맞지 않습니다. 평형 II의 부분압은 A=1/5 atm, B=2/5 atm, C=2/5 atm이므로 K_P=(2/5)²/[(1/5)(2/5)²]=5입니다.",
+    "2022-3-13:2": "Direct review lines 30–40: partial-pressure quotient with stoichiometric exponents. Apply equilibrium expression PC²/(PA PB²); initial equilibrium reduces to x=1/3 and final Kp=5. 5가 옳습니다. 평형 I의 전체 몰수는 4/3 mol이고, II에서는 (4/3)×[6/(4/5)]/8=5/4 mol입니다. II의 A, B, C는 각각 1/4, 1/2, 1/2 mol이므로 부분압을 대입하면 K_P=5입니다.",
+    "2022-3-13:3": "Direct review lines 30–40: partial-pressure quotient with stoichiometric exponents. Apply equilibrium expression PC²/(PA PB²); initial equilibrium reduces to x=1/3 and final Kp=5. 6은 맞지 않습니다. 평형 II의 부분압은 A=1/5 atm, B=2/5 atm, C=2/5 atm이므로 K_P=(2/5)²/[(1/5)(2/5)²]=5입니다.",
+    "2022-3-13:4": "Direct review lines 30–40: partial-pressure quotient with stoichiometric exponents. Apply equilibrium expression PC²/(PA PB²); initial equilibrium reduces to x=1/3 and final Kp=5. 8은 맞지 않습니다. 평형 II의 부분압은 A=1/5 atm, B=2/5 atm, C=2/5 atm이므로 K_P=(2/5)²/[(1/5)(2/5)²]=5입니다.",
+    "2022-3-13:5": "Direct review lines 30–40: partial-pressure quotient with stoichiometric exponents. Apply equilibrium expression PC²/(PA PB²); initial equilibrium reduces to x=1/3 and final Kp=5. 10은 맞지 않습니다. 평형 II의 부분압은 A=1/5 atm, B=2/5 atm, C=2/5 atm이므로 K_P=(2/5)²/[(1/5)(2/5)²]=5입니다."
+  },
+  "retrievalMethod": "Direct review lines 30–40: partial-pressure quotient with stoichiometric exponents. Apply equilibrium expression PC²/(PA PB²); initial equilibrium reduces to x=1/3 and final Kp=5.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

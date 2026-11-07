@@ -1,0 +1,21 @@
+{
+  "id": "afdfb570c100c44a83b3",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry, Chapter 13 Summary",
+  "url": "https://openstax.org/books/chemistry/pages/13-summary",
+  "excerpt": "the concentration of this component does not appear in the expression for the equilibrium constant.",
+  "sourceHash": "8e7923ea5bf358a81cb4a010551e41705a883631e9fe70b54455fa2836e8923e",
+  "cacheSourceId": "d48a14fa1c29f5080c14",
+  "retrievedAt": "2026-11-06T23:56:49.841091+00:00",
+  "reviewedMappings": {
+    "2021-3-11:0": "Pure solid A excluded; Kp is product of equilibrium B and C partial pressures. Option/summary 0: only 3/4 satisfies the derived pressures and product; initial B included.",
+    "2021-3-11:1": "Pure solid A excluded; Kp is product of equilibrium B and C partial pressures. Option/summary 1: only 3/4 satisfies the derived pressures and product; initial B included.",
+    "2021-3-11:2": "Pure solid A excluded; Kp is product of equilibrium B and C partial pressures. Option/summary 2: only 3/4 satisfies the derived pressures and product; initial B included.",
+    "2021-3-11:3": "Pure solid A excluded; Kp is product of equilibrium B and C partial pressures. Option/summary 3: only 3/4 satisfies the derived pressures and product; initial B included.",
+    "2021-3-11:4": "Pure solid A excluded; Kp is product of equilibrium B and C partial pressures. Option/summary 4: only 3/4 satisfies the derived pressures and product; initial B included.",
+    "2021-3-11:5": "Pure solid A excluded; Kp is product of equilibrium B and C partial pressures. Option/summary 5: only 3/4 satisfies the derived pressures and product; initial B included."
+  },
+  "retrievalMethod": "Official search excerpt, section 13.2; pure solid exclusion and Kp partial-pressure definition. Canonical problem and draft reviewed. Ideal-gas fixed gas-volume treatment (solid volume negligible), solid phase present at heterogeneous equilibrium, and pressures inserted in atm as in exam are stated conventions. Independently solve PB=1+x, PC=x, PB+PC=2: x=1/2, product=3/4. Corrected option 4 explanation: retaining initial PB=1 alone would not give K=1. OpenStax 13.2 lines 37–40 directly reviewed for pressure quotient and relative-pressure convention; official Chemistry chapter 13 summary search excerpt reviewed for pure-solid omission; Chemistry2e 9.3 lines 142–165 directly reviewed for Dalton law and partial ideal-gas law.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

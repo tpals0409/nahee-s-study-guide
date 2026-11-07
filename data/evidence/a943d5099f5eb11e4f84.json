@@ -1,0 +1,17 @@
+{
+  "id": "a943d5099f5eb11e4f84",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e: The Cell Cycle",
+  "url": "https://openstax.org/books/biology-2e/pages/10-2-the-cell-cycle",
+  "excerpt": "In the S phase, DNA replication can proceed",
+  "sourceHash": "a18b507836ba25b916c2077035d4c58afcd7664a6d1ee868055e1065e6696f64",
+  "cacheSourceId": "73b5f00789dbd517a412",
+  "retrievedAt": "2026-11-07T02:42:41.701789+00:00",
+  "reviewedMappings": {
+    "2024-3-28:2": "Direct S-phase and mitotic-phase descriptions reviewed; DNA replication precedes mitosis, prophase condenses replicated chromosomes and mitotic metaphase aligns individual chromosomes.",
+    "2024-3-28:3": "Direct S-phase and mitotic-phase descriptions reviewed; DNA replication precedes mitosis, prophase condenses replicated chromosomes and mitotic metaphase aligns individual chromosomes."
+  },
+  "retrievalMethod": "Direct S-phase and mitotic-phase descriptions reviewed; DNA replication precedes mitosis, prophase condenses replicated chromosomes and mitotic metaphase aligns individual chromosomes.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

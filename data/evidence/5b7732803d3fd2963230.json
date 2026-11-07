@@ -1,0 +1,20 @@
+{
+  "id": "5b7732803d3fd2963230",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "15.2 Prokaryotic Transcription",
+  "url": "https://openstax.org/books/biology-2e/pages/15-2-prokaryotic-transcription",
+  "excerpt": "using the enzyme RNA polymerase.",
+  "sourceHash": "78169489c097856b13aec5b2511cfffc8c3aae786860c9be52518683c9a3916e",
+  "cacheSourceId": "9ce6c0d80695e4a8f3f5",
+  "retrievedAt": "2026-11-06T20:32:41.689764+00:00",
+  "reviewedMappings": {
+    "2016-3-27:0": "본문32–35 DNA주형에서RNA합성시RNA중합효소작용 확인. 원본DNA→RNA(나)=전사, ㄴ참. 해당 선지의 포함/누락 진술을 대조.",
+    "2016-3-27:1": "본문32–35 DNA주형에서RNA합성시RNA중합효소작용 확인. 원본DNA→RNA(나)=전사, ㄴ참. 해당 선지의 포함/누락 진술을 대조.",
+    "2016-3-27:2": "본문32–35 DNA주형에서RNA합성시RNA중합효소작용 확인. 원본DNA→RNA(나)=전사, ㄴ참. 해당 선지의 포함/누락 진술을 대조.",
+    "2016-3-27:4": "본문32–35 DNA주형에서RNA합성시RNA중합효소작용 확인. 원본DNA→RNA(나)=전사, ㄴ참. 해당 선지의 포함/누락 진술을 대조.",
+    "2016-3-27:5": "본문32–35 DNA주형에서RNA합성시RNA중합효소작용 확인. 원본DNA→RNA(나)=전사, ㄴ참. 해당 선지의 포함/누락 진술을 대조."
+  },
+  "retrievalMethod": "Direct web open; relevant polymerization, transcription and ribosome sections reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

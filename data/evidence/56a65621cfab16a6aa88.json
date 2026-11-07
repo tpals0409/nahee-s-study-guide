@@ -1,0 +1,21 @@
+{
+  "id": "56a65621cfab16a6aa88",
+  "kind": "science",
+  "source": "Beloit College",
+  "ref": "VSEPR with lone pairs and pi bonds",
+  "url": "https://chem.beloit.edu/classes/structure/VSEPR_lps.html",
+  "excerpt": "Angular or bent",
+  "sourceHash": "b51f854a98a2682cd5a0a78f96ab3a01ef282d9a196ef56c1f0e5855641344a3",
+  "cacheSourceId": "c26f6fbd98ffa97eca4b",
+  "retrievedAt": "2026-11-06T21:49:46.210690+00:00",
+  "reviewedMappings": {
+    "2018-3-12:0": "표의 NO₂ 및 nitrite(NO₂⁻) 행 전체를 직접 검토: 두 화학종은 굽은형이고 결합각은 각각 134°, 115°. ㄴ의 비교 및 각 조합의 포함·누락 판단에 적용. 인용은 행의 구조 명칭이며 수치는 같은 표에서 확인.",
+    "2018-3-12:1": "표의 NO₂ 및 nitrite(NO₂⁻) 행 전체를 직접 검토: 두 화학종은 굽은형이고 결합각은 각각 134°, 115°. ㄴ의 비교 및 각 조합의 포함·누락 판단에 적용. 인용은 행의 구조 명칭이며 수치는 같은 표에서 확인.",
+    "2018-3-12:2": "표의 NO₂ 및 nitrite(NO₂⁻) 행 전체를 직접 검토: 두 화학종은 굽은형이고 결합각은 각각 134°, 115°. ㄴ의 비교 및 각 조합의 포함·누락 판단에 적용. 인용은 행의 구조 명칭이며 수치는 같은 표에서 확인.",
+    "2018-3-12:3": "표의 NO₂ 및 nitrite(NO₂⁻) 행 전체를 직접 검토: 두 화학종은 굽은형이고 결합각은 각각 134°, 115°. ㄴ의 비교 및 각 조합의 포함·누락 판단에 적용. 인용은 행의 구조 명칭이며 수치는 같은 표에서 확인.",
+    "2018-3-12:4": "표의 NO₂ 및 nitrite(NO₂⁻) 행 전체를 직접 검토: 두 화학종은 굽은형이고 결합각은 각각 134°, 115°. ㄴ의 비교 및 각 조합의 포함·누락 판단에 적용. 인용은 행의 구조 명칭이며 수치는 같은 표에서 확인.",
+    "2018-3-12:5": "표의 NO₂ 및 nitrite(NO₂⁻) 행 전체를 직접 검토: 두 화학종은 굽은형이고 결합각은 각각 134°, 115°. ㄴ의 비교 및 각 조합의 포함·누락 판단에 적용. 인용은 행의 구조 명칭이며 수치는 같은 표에서 확인."
+  },
+  "retrievalMethod": "Direct web open; relevant table rows or section reviewed; selected verbatim excerpt retained",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

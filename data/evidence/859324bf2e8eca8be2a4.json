@@ -1,0 +1,18 @@
+{
+  "id": "859324bf2e8eca8be2a4",
+  "kind": "science",
+  "source": "The Geological Society",
+  "ref": "Jigsaw Fit",
+  "url": "https://www.geolsoc.org.uk/Plate-Tectonics/Chap1-Pioneers-of-Plate-Tectonics/Alfred-Wegener/Jigsaw-Fit.html",
+  "excerpt": "coastlines of eastern South America and West Africa",
+  "sourceHash": "1c503865ddde963b6081e5b4574111d981f31c3cb556f62bef7882e4320938e9",
+  "cacheSourceId": "cbb8c26250e07cdd347f",
+  "retrievedAt": "2026-11-07T02:03:06.164162+00:00",
+  "reviewedMappings": {
+    "2023-3-32:0": "대륙 윤곽의 대응을 직접 확인. 현재 해안선이 완벽히 일치한다거나 당시 정밀 해저측량으로 입증했다는 주장은 하지 않음. ㄱ 참.",
+    "2023-3-32:1": "대륙 윤곽의 대응을 직접 확인. 현재 해안선이 완벽히 일치한다거나 당시 정밀 해저측량으로 입증했다는 주장은 하지 않음. ㄱ 참.",
+    "2023-3-32:4": "대륙 윤곽의 대응을 직접 확인. 현재 해안선이 완벽히 일치한다거나 당시 정밀 해저측량으로 입증했다는 주장은 하지 않음. ㄱ 참."
+  },
+  "retrievalMethod": "Geological Society Wegener 증거 페이지 및 해당 하위 페이지 직접 열람. 대륙 윤곽의 대응을 직접 확인. 현재 해안선이 완벽히 일치한다거나 당시 정밀 해저측량으로 입증했다는 주장은 하지 않음. ㄱ 참.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

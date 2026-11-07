@@ -1,0 +1,16 @@
+{
+  "id": "5f26fc1e1e337d83d9d0",
+  "kind": "science",
+  "source": "PubMed / original research authors",
+  "ref": "Szymanski et al. (1999), Mol Microbiol 32:1022–1030, DOI 10.1046/j.1365-2958.1999.01415.x",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/10361304/",
+  "excerpt": "Flagellin, which is known to be a glycoprotein",
+  "sourceHash": "65fc86ed5c19a02f2661c00d1c16a33ad08674ffc2607c327dd8deb02276924f",
+  "cacheSourceId": "8ea6edea3397d5f1f66c",
+  "retrievedAt": "2026-11-06T16:40:15.441875+00:00",
+  "reviewedMappings": {
+    "2011-3-26:5": "1999년 원저 초록: C. jejuni 단백질 당화 연구. 원핵세포에 당화가 없다는 배제 논리는 틀림. 당화 존재만으로 문항이 말하는 유전자발현 조절단계의 동일성까지 입증하지는 않으므로 정답 변경 근거로 단정하지 않음."
+  },
+  "retrievalMethod": "web.run PubMed original research abstract reviewed",
+  "sourceHashScope": "Selected abstract excerpt only; not full paper"
+}

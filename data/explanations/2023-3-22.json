@@ -1,0 +1,195 @@
+{
+  "id": "2023-3-22",
+  "summary": "ㄱ과 ㄴ이 옳으므로 정답은 ④이다. 두 인산화 과정은 H⁺의 전기화학적 기울기를 이용한다. C4 식물도 캘빈회로를 이용하며, 캘빈회로의 순산물은 포도당이 아니라 G3P이다.",
+  "choices": [
+    "ㄱ은 옳지만 ㄴ이 빠져 오답이다. 광인산화와 산화적 인산화 모두 화학삼투로 ATP를 합성한다.",
+    "ㄴ은 옳지만 ㄱ이 빠져 오답이다. C4 식물에는 초기 탄소 고정·CO₂ 농축 경로가 있으며, 이후 탄소 동화에는 C3 식물과 같은 캘빈회로가 쓰인다.",
+    "ㄷ은 틀리다. 캘빈회로에서 순생성되는 탄수화물은 3탄당인 G3P이며, 포도당은 이를 바탕으로 추가 반응을 거쳐 합성된다.",
+    "ㄱ·ㄴ만 포함하므로 정답이다. ATP 합성효소는 H⁺ 기울기를 이용하고, C3·C4 식물은 초기 탄소 고정 경로가 달라도 캘빈회로를 공유한다.",
+    "ㄴ은 옳지만 ㄷ이 틀리고 ㄱ이 빠져 오답이다. 캘빈회로의 직접 산물을 포도당으로 볼 수 없다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e, 7.4 Oxidative Phosphorylation",
+      "quote": "both concentration and electrical gradients",
+      "url": "https://openstax.org/books/biology-2e/pages/7-4-oxidative-phosphorylation",
+      "evidenceId": "3e940cb4459456431a00",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e, 7.4 Oxidative Phosphorylation",
+      "quote": "both concentration and electrical gradients",
+      "url": "https://openstax.org/books/biology-2e/pages/7-4-oxidative-phosphorylation",
+      "evidenceId": "3e940cb4459456431a00",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e, 7.4 Oxidative Phosphorylation",
+      "quote": "both concentration and electrical gradients",
+      "url": "https://openstax.org/books/biology-2e/pages/7-4-oxidative-phosphorylation",
+      "evidenceId": "3e940cb4459456431a00",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e, 7.4 Oxidative Phosphorylation",
+      "quote": "both concentration and electrical gradients",
+      "url": "https://openstax.org/books/biology-2e/pages/7-4-oxidative-phosphorylation",
+      "evidenceId": "3e940cb4459456431a00",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e, 7.4 Oxidative Phosphorylation",
+      "quote": "both concentration and electrical gradients",
+      "url": "https://openstax.org/books/biology-2e/pages/7-4-oxidative-phosphorylation",
+      "evidenceId": "3e940cb4459456431a00",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e, 7.4 Oxidative Phosphorylation",
+      "quote": "both concentration and electrical gradients",
+      "url": "https://openstax.org/books/biology-2e/pages/7-4-oxidative-phosphorylation",
+      "evidenceId": "3e940cb4459456431a00",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e, 8.3 Using Light Energy to Make Organic Molecules",
+      "quote": "only one of the G3P molecules leaves the Calvin cycle",
+      "url": "https://openstax.org/books/biology-2e/pages/8-3-using-light-energy-to-make-organic-molecules",
+      "evidenceId": "f74e7084b3223e217d34",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e, 8.3 Using Light Energy to Make Organic Molecules",
+      "quote": "only one of the G3P molecules leaves the Calvin cycle",
+      "url": "https://openstax.org/books/biology-2e/pages/8-3-using-light-energy-to-make-organic-molecules",
+      "evidenceId": "f74e7084b3223e217d34",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e, 8.3 Using Light Energy to Make Organic Molecules",
+      "quote": "only one of the G3P molecules leaves the Calvin cycle",
+      "url": "https://openstax.org/books/biology-2e/pages/8-3-using-light-energy-to-make-organic-molecules",
+      "evidenceId": "f74e7084b3223e217d34",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e, 8.3 Using Light Energy to Make Organic Molecules",
+      "quote": "only one of the G3P molecules leaves the Calvin cycle",
+      "url": "https://openstax.org/books/biology-2e/pages/8-3-using-light-energy-to-make-organic-molecules",
+      "evidenceId": "f74e7084b3223e217d34",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "Journal of Experimental Botany",
+      "ref": "Metabolite pools and carbon flow during C4 photosynthesis in maize: 13CO2 labeling kinetics and cell type fractionation",
+      "quote": "allows efficient operation of the Calvin–Benson cycle",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5853532/",
+      "evidenceId": "5d9e1c50af2ca1b0ff4b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "Journal of Experimental Botany",
+      "ref": "Metabolite pools and carbon flow during C4 photosynthesis in maize: 13CO2 labeling kinetics and cell type fractionation",
+      "quote": "allows efficient operation of the Calvin–Benson cycle",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5853532/",
+      "evidenceId": "5d9e1c50af2ca1b0ff4b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "Journal of Experimental Botany",
+      "ref": "Metabolite pools and carbon flow during C4 photosynthesis in maize: 13CO2 labeling kinetics and cell type fractionation",
+      "quote": "allows efficient operation of the Calvin–Benson cycle",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5853532/",
+      "evidenceId": "5d9e1c50af2ca1b0ff4b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "Journal of Experimental Botany",
+      "ref": "Metabolite pools and carbon flow during C4 photosynthesis in maize: 13CO2 labeling kinetics and cell type fractionation",
+      "quote": "allows efficient operation of the Calvin–Benson cycle",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5853532/",
+      "evidenceId": "5d9e1c50af2ca1b0ff4b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "Journal of Experimental Botany",
+      "ref": "Metabolite pools and carbon flow during C4 photosynthesis in maize: 13CO2 labeling kinetics and cell type fractionation",
+      "quote": "allows efficient operation of the Calvin–Benson cycle",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5853532/",
+      "evidenceId": "5d9e1c50af2ca1b0ff4b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "Journal of Experimental Botany",
+      "ref": "Metabolite pools and carbon flow during C4 photosynthesis in maize: 13CO2 labeling kinetics and cell type fractionation",
+      "quote": "allows efficient operation of the Calvin–Benson cycle",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5853532/",
+      "evidenceId": "5d9e1c50af2ca1b0ff4b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "원문 선지 및 정답 데이터 대조. 화학삼투·캘빈회로 순산물은 OpenStax 관련절 직접 확인, C4 경로는 원논문 색인 설명과 대조. C4의 회로 전체 위치 일반화와 불필요한 포도당 합성 위치 단정 삭제. ㄱ 참, ㄴ 참, ㄷ 거짓으로 ④.",
+    "contentHash": "096fbd530ea10f943fa161aa98b428474f9e130cbcdfde18f086d6825e7c28c4"
+  }
+}

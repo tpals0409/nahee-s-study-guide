@@ -1,0 +1,21 @@
+{
+  "id": "c33b33a3f89792bd1a29",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e §14.5 — DNA Replication in Eukaryotes",
+  "url": "https://openstax.org/books/biology-2e/pages/14-5-dna-replication-in-eukaryotes",
+  "excerpt": "These are resolved with the action of topoisomerases.",
+  "sourceHash": "70cea2ea1d27174d0d8ff097a541c6ba17fa73f0be196a9b5e2c7441ce8fab77",
+  "cacheSourceId": "114ff6b2f73298a0f2aa",
+  "retrievedAt": "2026-11-06T22:05:04.712420+00:00",
+  "reviewedMappings": {
+    "2018-3-28:0": "원본 그림의 A左5′右3′ 및 양쪽 분기점과 신생가닥 화살표를 확인. 양방향 헬리카제, 분기점 앞 꼬임 해소, A 주형 지연가닥을 종합하여 ㄱ·ㄷ=③. 발췌 한 문장만이 아니라 기록된 관련 본문과 원본 그림을 함께 검토함.",
+    "2018-3-28:1": "ㄱ 외에 ㄷ도 참: 오른쪽 분기점은 오른쪽으로 이동하지만 A 주형의 신생 DNA는 왼쪽으로 연장됨. 발췌 한 문장만이 아니라 기록된 관련 본문과 원본 그림을 함께 검토함.",
+    "2018-3-28:2": "ㄴ은 이 그림의 원점을 꼬임 해소 위치로 지정하므로 틀림. 해당 복제 모델에서 회전효소가 해소하는 과도한 꼬임은 분기점 앞에 있음. 발췌 한 문장만이 아니라 기록된 관련 본문과 원본 그림을 함께 검토함.",
+    "2018-3-28:3": "ㄱ 양쪽 분기점의 헬리카제와 ㄷ A 주형 신생가닥의 불연속 합성이 모두 참. A의 방향 판독 및 적용은 원본에 대한 독립 추론. 발췌 한 문장만이 아니라 기록된 관련 본문과 원본 그림을 함께 검토함.",
+    "2018-3-28:4": "ㄷ은 참이나 ㄴ은 틀리고 ㄱ이 누락됨. 발췌 한 문장만이 아니라 기록된 관련 본문과 원본 그림을 함께 검토함.",
+    "2018-3-28:5": "ㄱ·ㄷ은 참이나 ㄴ까지 포함하여 틀림. 발췌 한 문장만이 아니라 기록된 관련 본문과 원본 그림을 함께 검토함."
+  },
+  "retrievalMethod": "Direct web open; reviewed lines 32–33 and 47–51: helicase, fork-ahead supercoiling, topoisomerases, lagging-strand fragments and 5-prime to 3-prime synthesis.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

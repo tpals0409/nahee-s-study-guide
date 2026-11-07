@@ -1,0 +1,22 @@
+{
+  "id": "906ab7608e42d94b891e",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Organic Chemistry §13.5 Integration of 1H NMR Absorptions",
+  "url": "https://openstax.org/books/organic-chemistry/pages/13-5-integration-of-1h-nmr-absorptions-proton-counting",
+  "excerpt": "The area under each peak is proportional to the number of protons causing that peak.",
+  "sourceHash": "426cff68795582b442d52b2e0c99b9e77c35cf318a992a2cac9ed20092ae82f7",
+  "cacheSourceId": "bbeb776d1de1e35e1528",
+  "retrievedAt": "2026-11-06T17:18:09.909044+00:00",
+  "reviewedMappings": {
+    "2011-3-16:0": "원본에서 적분1:2 주신호 확인. 후보①3:2,②1:3,③동등수소 한환경,④1:2,⑤동등수소 한환경 비교. ④만 일치. 적분비만으로 분자전체 수소수를 일반적으로 확정하지 않음.",
+    "2012-3-19:0": "적분비2:1:2:3에서1-propanol의CH2/OH/CH2/CH3 귀속,2-propanol의6H 집단 배제.",
+    "2012-3-19:1": "적분비2:1:2:3에서1-propanol의CH2/OH/CH2/CH3 귀속,2-propanol의6H 집단 배제.",
+    "2012-3-19:2": "적분비2:1:2:3에서1-propanol의CH2/OH/CH2/CH3 귀속,2-propanol의6H 집단 배제.",
+    "2012-3-19:3": "적분비2:1:2:3에서1-propanol의CH2/OH/CH2/CH3 귀속,2-propanol의6H 집단 배제.",
+    "2012-3-19:4": "적분비2:1:2:3에서1-propanol의CH2/OH/CH2/CH3 귀속,2-propanol의6H 집단 배제.",
+    "2012-3-19:5": "적분비2:1:2:3에서1-propanol의CH2/OH/CH2/CH3 귀속,2-propanol의6H 집단 배제."
+  },
+  "retrievalMethod": "web.open relevant paragraphs and spectrum caption reviewed; selected excerpt retained",
+  "sourceHashScope": "Selected excerpt only; not full page"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "d77d2fc4f921459abe50",
+  "kind": "science",
+  "source": "Oregon State University — Volcano World",
+  "ref": "What is lava made of?",
+  "url": "https://volcano.oregonstate.edu/faq/what-lava-made",
+  "excerpt": "FeO  | 7.13  | 4.04  | 2.30  | 1.11  | 2.29",
+  "sourceHash": "eb6d62a18400e55e21deb5fb38deb9bf7f143dd169476fe9e25c808892511abb",
+  "cacheSourceId": "faf9c2e6a264044a6c29",
+  "retrievedAt": "2026-11-06T19:56:53.970729+00:00",
+  "reviewedMappings": {
+    "2015-3-35:0": "표의 현무암과 유문암 FeO는 각각 7.13, 1.11이다. 표의 대표 조성 비교에서 산성암 방향으로 철 성분이 증가한다는 ⑤는 틀리다.",
+    "2015-3-35:5": "표의 현무암과 유문암 FeO는 각각 7.13, 1.11이다. 표의 대표 조성 비교에서 산성암 방향으로 철 성분이 증가한다는 ⑤는 틀리다."
+  },
+  "retrievalMethod": "Direct web open; composition table header and rows reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

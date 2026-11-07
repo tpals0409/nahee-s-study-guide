@@ -1,0 +1,16 @@
+{
+  "id": "a63444bf4f1c9b0cdf14",
+  "kind": "science",
+  "source": "San Diego State University",
+  "ref": "San Diego State University — Controls on eruption style",
+  "url": "https://volcanoes.sdsu.edu/Controls.html",
+  "excerpt": "nonexplosive eruptions are typical of basaltic-to-andesitic magmas which have low viscosities and low gas contents",
+  "sourceHash": "9418f933ff10c94f8e127cad7454c31b5b1a5359f11792dab0ea400673574294",
+  "cacheSourceId": "fec5fb4ec6c70119eb5c",
+  "retrievedAt": "2026-11-06T17:33:25.910905+00:00",
+  "reviewedMappings": {
+    "2012-3-33:2": "낮은 점성·적은 기체 함량의 일반적 비폭발성 경향. 원문 예외 절도 확인."
+  },
+  "retrievalMethod": "web.open; relevant section reviewed; subscript/degree markup normalized where applicable",
+  "sourceHashScope": "Selected excerpt only; not full page"
+}

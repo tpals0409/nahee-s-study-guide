@@ -1,0 +1,16 @@
+{
+  "id": "32f99623fd293abf72b7",
+  "kind": "science",
+  "source": "NCBI Bookshelf — Genomes",
+  "ref": "Genome Replication",
+  "url": "https://www.ncbi.nlm.nih.gov/books/NBK21113/",
+  "excerpt": "the major eukaryotic SSB, called replication protein A (RPA)",
+  "sourceHash": "f044223748cde54c32f310875bcab8a271b479f46adccf039ed1c033382d9759",
+  "cacheSourceId": "98f264eb92b302dc2674",
+  "retrievedAt": "2026-11-06T18:51:38.533316+00:00",
+  "reviewedMappings": {
+    "2014-3-21:2": "검색에 색인된 교재 원문 발췌로 진핵 SSB의 RPA 명칭을 확인. 직접 페이지 열람은 CAPTCHA로 제한되어 전체 원문을 읽었다고 기록하지 않음."
+  },
+  "retrievalMethod": "web.search_query indexed excerpt; direct open returned browser challenge",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,85 @@
+{
+  "id": "2025-3-05",
+  "summary": "진공 평행판 축전기에서 가장자리 효과를 무시하면 C=ε₀A/d입니다. 판의 넓이가 2A, 간격이 d/2로 바뀌면 C′=ε₀(2A)/(d/2)=4C₀이므로 정답은 ⑤입니다.",
+  "choices": [
+    "C₀/4: 오답입니다. 전기용량을 넓이에 반비례하고 간격에 비례하는 것으로 반대로 적용하면 (1/2)×(1/2) = 1/4이 나옵니다. 실제로 C는 넓이 A에 비례하고 간격 d에 반비례합니다.",
+    "C₀/2는 오답입니다. 넓이 증가와 간격 감소는 모두 전기용량을 증가시키므로 전기용량이 절반으로 감소할 수 없습니다. 두 조건을 모두 적용한 값은 4C₀입니다.",
+    "C₀: 오답입니다. 넓이 2배와 간격 1/2배의 효과가 서로 상쇄된다고 오해하면 나오는 값입니다. C ∝ A/d이므로 두 효과는 상쇄되지 않고 곱해져 4배가 됩니다.",
+    "2C₀: 오답입니다. 넓이 증가나 간격 감소 가운데 한 가지 효과만 반영한 값입니다. 두 효과를 모두 반영하면 2×2 = 4배입니다.",
+    "4C₀: 정답입니다. C = ε₀(2A)/(d/2) = 4ε₀A/d = 4C₀입니다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2, 8.1: Capacitors and Capacitance",
+      "quote": "The capacitance is independent of Q or V.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/8-1-capacitors-and-capacitance",
+      "evidenceId": "05c9b410c69f855a5681",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2, 8.1: Capacitors and Capacitance",
+      "quote": "The capacitance is independent of Q or V.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/8-1-capacitors-and-capacitance",
+      "evidenceId": "05c9b410c69f855a5681",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2, 8.1: Capacitors and Capacitance",
+      "quote": "The capacitance is independent of Q or V.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/8-1-capacitors-and-capacitance",
+      "evidenceId": "05c9b410c69f855a5681",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2, 8.1: Capacitors and Capacitance",
+      "quote": "The capacitance is independent of Q or V.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/8-1-capacitors-and-capacitance",
+      "evidenceId": "05c9b410c69f855a5681",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2, 8.1: Capacitors and Capacitance",
+      "quote": "The capacitance is independent of Q or V.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/8-1-capacitors-and-capacitance",
+      "evidenceId": "05c9b410c69f855a5681",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2, 8.1: Capacitors and Capacitance",
+      "quote": "The capacitance is independent of Q or V.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/8-1-capacitors-and-capacitance",
+      "evidenceId": "05c9b410c69f855a5681",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Original image inspected; vacuum and no-fringing conditions confirmed; equation 8.3 and derivation independently checked; corrected unsupported distractor explanation for choice 2.",
+    "contentHash": "b8bf41d413de8230aee603917d1761ca464db4717a24ddf8e235b9abdd5ab550"
+  }
+}

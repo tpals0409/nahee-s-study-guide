@@ -1,0 +1,41 @@
+{
+  "summary": "원본의 반복 단위는 -[NH-CH₂-CO-NH-CH(CH₂C₆H₅)-CO]ₙ-입니다. 펩타이드 결합을 가진 고분자로, N-H와 C=O 사이의 수소결합이 가능합니다. 아미노산의 탈수축합으로 형성되는 구조이며 펩타이드 결합의 가수분해도 가능하므로 ㄱ, ㄴ, ㄷ 모두 옳습니다.",
+  "choices": [
+    "ㄱ만 고른 보기: ㄱ은 옳습니다. 아마이드의 N-H가 수소결합 주개, C=O의 산소가 받개 역할을 합니다. 그러나 ㄴ(축합중합)과 ㄷ(가수분해)도 옳으므로 정답이 아닙니다.",
+    "ㄴ만 고른 보기: ㄴ은 옳습니다. 아미노산이 물 분자를 잃으며 펩타이드 결합을 형성하므로 축합중합입니다. 그러나 ㄱ과 ㄷ이 빠졌으므로 정답이 아닙니다.",
+    "ㄱ, ㄷ을 고른 보기: 수소결합과 가수분해는 모두 맞습니다. 그러나 이 고분자는 첨가중합처럼 단량체의 C=C가 열려 생긴 것이 아닙니다. 탈수축합으로 생긴 폴리아마이드이므로 ㄴ도 옳고, 이 보기는 불완전합니다.",
+    "④ ㄴ, ㄷ은 오답입니다. 축합중합과 가수분해는 모두 맞지만, 주사슬의 N-H와 C=O 사이에 수소결합도 가능하므로 ㄱ이 빠져 있습니다.",
+    "⑤ ㄱ, ㄴ, ㄷ이 정답입니다. N-H의 수소와 카르보닐 산소 사이에 수소결합이 가능합니다. 글리신과 페닐알라닌에 해당하는 잔기가 탈수축합으로 연결된 구조이고, 펩타이드 결합은 적절한 가수분해 조건에서 끊어질 수 있습니다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax · Biology 2e",
+      "ref": "3.4 Proteins",
+      "quote": "Peptide bond formation is a dehydration synthesis reaction.",
+      "url": "https://openstax.org/books/biology-2e/pages/3-4-proteins",
+      "evidenceId": "5e618f017408eaca586f",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax · Biology 2e",
+      "ref": "3.1 Synthesis of Biological Macromolecules",
+      "quote": "Polymers break down into monomers during hydrolysis.",
+      "url": "https://openstax.org/books/biology-2e/pages/3-1-synthesis-of-biological-macromolecules",
+      "evidenceId": "8b91393eaa9c4c2de842",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "원본 구조의 두 아미노산 잔기와 아마이드 결합 직접 판독. 수소결합 주개·받개, 탈수축합, 가수분해 가능성 각각 교재와 대조. 불필요한 특정 2차구조·효소 단정 제거.",
+    "contentHash": "d819c367f93b9341801fa1c014bc085a70ea4e6169d68e88c1a38d73ab2e858d"
+  }
+}

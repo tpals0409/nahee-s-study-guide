@@ -1,0 +1,21 @@
+{
+  "id": "bd99eed8246f9dcab9aa",
+  "kind": "science",
+  "source": "UCLA Department of Chemistry and Biochemistry",
+  "ref": "Illustrated Glossary of Organic Chemistry — Ketone",
+  "url": "https://www.chem.ucla.edu/~harding/IGOC/K/ketone.html",
+  "excerpt": "A functional group characterized by a carbonyl group flanked by two carbons of any hybridization.",
+  "sourceHash": "44ff990372dfd8e6aa29dcf8b8fff8d4c6833b124cad9ac34acc299a27e7be9c",
+  "cacheSourceId": "1836d0a7c52a248927ee",
+  "retrievedAt": "2026-11-07T03:49:57.062804+00:00",
+  "reviewedMappings": {
+    "2026-3-11:0": "Carbonyl must have carbon on both sides. With five noncarbonyl carbons only unordered positive splits 1+4 and 2+3 are possible. Independently enumerate C4 rooted alkyl groups n/sec/iso/tert (4) and C3 n/iso (2), total 6. Explicit condensed formulas supplied in choice 3.",
+    "2026-3-11:1": "Carbonyl must have carbon on both sides. With five noncarbonyl carbons only unordered positive splits 1+4 and 2+3 are possible. Independently enumerate C4 rooted alkyl groups n/sec/iso/tert (4) and C3 n/iso (2), total 6. Explicit condensed formulas supplied in choice 3.",
+    "2026-3-11:2": "Carbonyl must have carbon on both sides. With five noncarbonyl carbons only unordered positive splits 1+4 and 2+3 are possible. Independently enumerate C4 rooted alkyl groups n/sec/iso/tert (4) and C3 n/iso (2), total 6. Explicit condensed formulas supplied in choice 3.",
+    "2026-3-11:3": "Carbonyl must have carbon on both sides. With five noncarbonyl carbons only unordered positive splits 1+4 and 2+3 are possible. Independently enumerate C4 rooted alkyl groups n/sec/iso/tert (4) and C3 n/iso (2), total 6. Explicit condensed formulas supplied in choice 3.",
+    "2026-3-11:4": "Carbonyl must have carbon on both sides. With five noncarbonyl carbons only unordered positive splits 1+4 and 2+3 are possible. Independently enumerate C4 rooted alkyl groups n/sec/iso/tert (4) and C3 n/iso (2), total 6. Explicit condensed formulas supplied in choice 3.",
+    "2026-3-11:5": "Carbonyl must have carbon on both sides. With five noncarbonyl carbons only unordered positive splits 1+4 and 2+3 are possible. Independently enumerate C4 rooted alkyl groups n/sec/iso/tert (4) and C3 n/iso (2), total 6. Explicit condensed formulas supplied in choice 3."
+  },
+  "retrievalMethod": "Direct web open",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

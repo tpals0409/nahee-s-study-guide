@@ -1,0 +1,16 @@
+{
+  "id": "034f98352291671f73ec",
+  "kind": "science",
+  "source": "NOAA",
+  "ref": "The Sea Breeze",
+  "url": "https://www.noaa.gov/jetstream/ocean/sea-breeze",
+  "excerpt": "Land breezes can occur when the land's nighttime temperature is less than the sea surface temperature.",
+  "sourceHash": "8ab2c28727666e21729459c5f49539c5c9a788ddf6eecf6e8628641bb5b7770f",
+  "cacheSourceId": "95ff8c0f9705c55863b5",
+  "retrievedAt": "2026-11-06T18:20:59.578420+00:00",
+  "reviewedMappings": {
+    "2013-3-33:0": "낮 해풍·밤 육풍은 차등 가열과 냉각에 따른 순환. 밤 지표 증발 우세가 원인이라는 설명을 배제."
+  },
+  "retrievalMethod": "web.open: official page",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

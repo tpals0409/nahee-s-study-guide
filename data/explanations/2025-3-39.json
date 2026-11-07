@@ -1,0 +1,85 @@
+{
+  "id": "2025-3-39",
+  "summary": "정답은 ③(ㄱ·ㄴ)입니다. 그림에서 A의 태양은 천정에 있고, 두 지점의 태양 고도 차이 θ가 중심각 ∠AOB와 같습니다. 지표를 따른 호 AB의 길이 ℓ을 알면 지구 둘레는 360°×ℓ/θ로 계산됩니다. 경도 차이는 별도로 필요하지 않습니다.",
+  "choices": [
+    "ㄱ만으로는 중심각 θ만 알 수 있습니다. 지구의 실제 크기를 길이 단위로 구하려면 두 지점 사이의 지표 거리 ℓ도 필요합니다.",
+    "ㄷ만으로는 구할 수 없습니다. 경도 차이만으로 두 지점 사이의 일반적인 중심각이나 지구의 길이 규모가 정해지지 않습니다. 이 그림에서는 태양 고도 차이로 중심각을 구합니다.",
+    "ㄱ과 ㄴ이 필요하므로 정답입니다. A의 태양 고도는 90°, B는 90°−θ이므로 고도 차이는 θ입니다. 평행한 태양빛과 두 반지름의 기하 관계에 의해 이 θ가 지구 중심각입니다. 따라서 ℓ/(2πR)=θ/360°로 반지름 또는 둘레를 구할 수 있습니다.",
+    "ㄴ의 거리는 필요하지만, 그 거리가 지구 둘레의 어느 비율인지 알려면 중심각이 필요합니다. 이 문제에서는 ㄱ의 태양 고도 차이를 사용하며, ㄷ의 경도 차이로 대신할 수 없습니다.",
+    "ㄱ·ㄴ으로 계산이 완결되므로 ㄷ까지 포함하면 오답입니다. 제시된 평행 광선·구형 지구·A의 천정 태양 조건에서는 경도 차이를 별도 입력값으로 요구하지 않습니다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Astronomy 2e §2.2 Ancient Astronomy",
+      "quote": "Thus, the distance between the two cities must be 1/50 the circumference of Earth.",
+      "url": "https://openstax.org/books/astronomy-2e/pages/2-2-ancient-astronomy",
+      "evidenceId": "5e972c600453911f5d32",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Astronomy 2e §2.2 Ancient Astronomy",
+      "quote": "Thus, the distance between the two cities must be 1/50 the circumference of Earth.",
+      "url": "https://openstax.org/books/astronomy-2e/pages/2-2-ancient-astronomy",
+      "evidenceId": "5e972c600453911f5d32",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Astronomy 2e §2.2 Ancient Astronomy",
+      "quote": "Thus, the distance between the two cities must be 1/50 the circumference of Earth.",
+      "url": "https://openstax.org/books/astronomy-2e/pages/2-2-ancient-astronomy",
+      "evidenceId": "5e972c600453911f5d32",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Astronomy 2e §2.2 Ancient Astronomy",
+      "quote": "Thus, the distance between the two cities must be 1/50 the circumference of Earth.",
+      "url": "https://openstax.org/books/astronomy-2e/pages/2-2-ancient-astronomy",
+      "evidenceId": "5e972c600453911f5d32",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Astronomy 2e §2.2 Ancient Astronomy",
+      "quote": "Thus, the distance between the two cities must be 1/50 the circumference of Earth.",
+      "url": "https://openstax.org/books/astronomy-2e/pages/2-2-ancient-astronomy",
+      "evidenceId": "5e972c600453911f5d32",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Astronomy 2e §2.2 Ancient Astronomy",
+      "quote": "Thus, the distance between the two cities must be 1/50 the circumference of Earth.",
+      "url": "https://openstax.org/books/astronomy-2e/pages/2-2-ancient-astronomy",
+      "evidenceId": "5e972c600453911f5d32",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Original diagram geometry independently derived; Eratosthenes textbook section matched; unnecessary same-longitude assumption removed",
+    "contentHash": "648658cdc95f265842d8c3a0c556ed51e544b0afecda61e979a60692ee30fcf2"
+  }
+}

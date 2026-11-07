@@ -1,0 +1,19 @@
+{
+  "id": "4336b4ba3415a01bf5de",
+  "kind": "science",
+  "source": "NASA",
+  "ref": "Eclipses and the Moon",
+  "url": "https://science.nasa.gov/moon/eclipses/",
+  "excerpt": "visible from half of Earth.",
+  "sourceHash": "7010161a67c15836f3d640b1a1557448be555b301430d2b03fbc8bd6962e5a46",
+  "cacheSourceId": "f3f397fdb733dcf83bac",
+  "retrievedAt": "2026-11-06T19:13:26.144164+00:00",
+  "reviewedMappings": {
+    "2014-3-40:0": "Lunar-eclipse visibility covers Moon-facing hemisphere at a given stage, unlike narrow solar totality path. Interpret original 달이 보이는 as Moon above horizon with unobstructed viewing, not every region observing entire event.",
+    "2014-3-40:1": "Lunar-eclipse visibility covers Moon-facing hemisphere at a given stage, unlike narrow solar totality path. Interpret original 달이 보이는 as Moon above horizon with unobstructed viewing, not every region observing entire event.",
+    "2014-3-40:3": "Lunar-eclipse visibility covers Moon-facing hemisphere at a given stage, unlike narrow solar totality path. Interpret original 달이 보이는 as Moon above horizon with unobstructed viewing, not every region observing entire event.",
+    "2014-3-40:5": "Lunar-eclipse visibility covers Moon-facing hemisphere at a given stage, unlike narrow solar totality path. Interpret original 달이 보이는 as Moon above horizon with unobstructed viewing, not every region observing entire event."
+  },
+  "retrievalMethod": "Direct web open; relevant NASA eclipse-type, geometry and visibility sections reviewed against original image.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ca8e27a4057a4c7686ca",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics 1 §6.2 Friction",
+  "url": "https://openstax.org/books/university-physics-volume-1/pages/6-2-friction",
+  "excerpt": "If two systems are in contact and moving relative to one another, then the friction between them is called kinetic friction.",
+  "sourceHash": "8d2241f656d768c3644bf0ec1f6b7441f135d58e38a0e5b2e1abac3030e3dab6",
+  "cacheSourceId": "cb772ff3d0811a1991d5",
+  "retrievedAt": "2026-11-06T19:14:20.259095+00:00",
+  "reviewedMappings": {
+    "2015-3-01:0": "Sliding A/B have N=mg and kinetic f=mu mg per source equation 6.2. Original identical blocks and common constant kinetic coefficient permit equal friction. Motion continues immediately after cutting; no switch to static friction. Exact result a/g=1/4, T/(mg)=3/4; other offered coefficients fail these simultaneous equations.",
+    "2015-3-01:1": "Sliding A/B have N=mg and kinetic f=mu mg per source equation 6.2. Original identical blocks and common constant kinetic coefficient permit equal friction. Motion continues immediately after cutting; no switch to static friction. Exact result a/g=1/4, T/(mg)=3/4; other offered coefficients fail these simultaneous equations.",
+    "2015-3-01:2": "Sliding A/B have N=mg and kinetic f=mu mg per source equation 6.2. Original identical blocks and common constant kinetic coefficient permit equal friction. Motion continues immediately after cutting; no switch to static friction. Exact result a/g=1/4, T/(mg)=3/4; other offered coefficients fail these simultaneous equations.",
+    "2015-3-01:3": "Sliding A/B have N=mg and kinetic f=mu mg per source equation 6.2. Original identical blocks and common constant kinetic coefficient permit equal friction. Motion continues immediately after cutting; no switch to static friction. Exact result a/g=1/4, T/(mg)=3/4; other offered coefficients fail these simultaneous equations.",
+    "2015-3-01:4": "Sliding A/B have N=mg and kinetic f=mu mg per source equation 6.2. Original identical blocks and common constant kinetic coefficient permit equal friction. Motion continues immediately after cutting; no switch to static friction. Exact result a/g=1/4, T/(mg)=3/4; other offered coefficients fail these simultaneous equations.",
+    "2015-3-01:5": "Sliding A/B have N=mg and kinetic f=mu mg per source equation 6.2. Original identical blocks and common constant kinetic coefficient permit equal friction. Motion continues immediately after cutting; no switch to static friction. Exact result a/g=1/4, T/(mg)=3/4; other offered coefficients fail these simultaneous equations."
+  },
+  "retrievalMethod": "Direct web open; friction equation and Newton-law discussion reviewed; original image inspected and exact rational calculation checked.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

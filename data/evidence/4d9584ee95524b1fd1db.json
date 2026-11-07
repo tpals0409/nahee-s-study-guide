@@ -1,0 +1,21 @@
+{
+  "id": "4d9584ee95524b1fd1db",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "13.2 Equilibrium Constants",
+  "url": "https://openstax.org/books/chemistry-2e/pages/13-2-equilibrium-constants",
+  "excerpt": "The constant value of Q exhibited by a system at equilibrium is called the equilibrium constant, K:",
+  "sourceHash": "f4bac2e2daa62f9e1dc6e33184729a8e459df5c5f298a814f8addb5441540e18",
+  "cacheSourceId": "8e3f4c591e3c8120f673",
+  "retrievedAt": "2026-11-06T20:25:52.482415+00:00",
+  "reviewedMappings": {
+    "2016-3-20:0": "본문37–40 부분압력 지수는 화학양론계수,89–91 평형K=Q. Kp=PB²PC/PA²에 atm수치를 대입하여1/5, x2/5로 나누어1/2. 본문40의 무차원 활동도 정의와 간략식 구별.",
+    "2016-3-20:1": "평형상수식에0.4,0.4,0.2 대입후 x0.4로 나누어0.5.",
+    "2016-3-20:2": "올바른 C부분압력0.2로 상수0.2, 비0.5.",
+    "2016-3-20:3": "평형상수0.2/몰분율0.4=0.5이므로0.75배제.",
+    "2016-3-20:4": "동일한 PA와PB가 약분되어도 PC항은 남아 Kp수치0.2이며x0.4와 다름.",
+    "2016-3-20:5": "화학양론적 부분압력식에 따라Kp/x0.5이므로 단순부피비1.25배제."
+  },
+  "retrievalMethod": "Direct web open and targeted find; ideal gas, partial pressure and equilibrium equations reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

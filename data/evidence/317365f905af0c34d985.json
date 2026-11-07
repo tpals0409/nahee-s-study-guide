@@ -1,0 +1,14 @@
+{
+  "id": "317365f905af0c34d985",
+  "kind": "science",
+  "source": "OpenStax · University Physics Volume 3",
+  "ref": "7.4 The Quantum Particle in a Box",
+  "url": "https://openstax.org/books/university-physics-volume-3/pages/7-4-the-quantum-particle-in-a-box",
+  "excerpt": "En=n2π2ℏ22mL2,n=1,2,3,...",
+  "sourceHash": "633960cc9c31aeb638070030e26b5854615bcd44411cacf4320fcd6c0d594ae9",
+  "cacheSourceId": "c4f8820df80143376a51",
+  "retrievedAt": "2026-11-06T15:29:59.103036+00:00",
+  "reviewedMappings": {
+    "2010-3-10:0": "교재 식 7.41 n²π²ℏ²/(2mL²), n=1,2,...와 우물 내부 U=0 확인. ℏ=h/(2π)로 h²/(8mL²) 도출. 주어진 h,m,L 대입 후 1 eV≈1.6×10⁻¹⁹ J 환산하여 37.39698 eV 독립 계산. 다섯 선지와 비교하여 ③."
+  }
+}

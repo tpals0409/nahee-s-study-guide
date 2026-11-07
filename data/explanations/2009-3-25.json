@@ -1,0 +1,30 @@
+{
+  "summary": "흰털(bb) 빈도 q² = 90/1000 = 0.09이므로 q = 0.3, p = 0.7입니다. 이형접합 빈도는 2pq = 2 × 0.7 × 0.3 = 0.42이고, 1000마리 중 420마리입니다.",
+  "choices": [
+    "210 마리: pq × 1000 = 0.21 × 1000으로, 이형접합 빈도 2pq에서 계수 2를 빠뜨렸을 때 나오는 값입니다. 오답입니다.",
+    "420 마리: q² = 0.09에서 q = 0.3, p = 0.7을 얻습니다. 2pq = 0.42에 1000마리를 곱하면 420마리가 됩니다. 정답입니다.",
+    "490 마리: p² × 1000 = 0.49 × 1000으로, 동형접합 우성(BB) 검은털 쥐의 수입니다. 이형접합이 아니므로 오답입니다.",
+    "710 마리: 하디-와인버그 계산으로 나오는 유전자형 빈도(0.49, 0.42, 0.09) 중 어느 것에도 해당하지 않는 값입니다. 오답입니다.",
+    "910 마리: 1000 - 90 = 910으로, BB와 Bb를 합한 검은털 쥐 전체의 수입니다. 이형접합만의 수가 아니므로 오답입니다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax · Biology 2e",
+      "ref": "19.1",
+      "quote": "the frequency of pq individuals is 2pq",
+      "url": "https://openstax.org/books/biology-2e/pages/19-1-population-evolution",
+      "evidenceId": "62ec085b9dec8108ba43",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "열성 표현형 bb=90/1000=q². q=.3,p=.7,2pq=.42; BB490+Bb420+bb90=1000, 검은털910. 다섯 선택지의 수치를 독립 계산.",
+    "contentHash": "fe4949579387c0642a4a04ce136c9d0ca49367e4faadc0cff95cb8472c77c55f"
+  }
+}

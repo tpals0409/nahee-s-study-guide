@@ -1,0 +1,97 @@
+{
+  "id": "2016-3-33",
+  "summary": "옳지 않은 것은 ⑤입니다. 응회암은 주로 화산재가 쌓여 굳은 화산쇄설암으로, 용암 덩어리나 용암류가 그대로 식어 생긴 암석과 구별됩니다.",
+  "choices": [
+    "옳습니다. 반려암과 현무암은 모두 염기성 조성 범주에 속합니다. 반려암은 심성암이고 현무암은 화산암입니다.",
+    "옳습니다. 화강암은 마그마가 지하에서 냉각·고결한 심성암입니다. 일반적으로 서서히 식어 비교적 큰 결정이 발달합니다.",
+    "옳습니다. 안산암과 유문암은 모두 화산암이며, 각각 중성 및 산성 조성을 대표합니다.",
+    "옳습니다. 일반적인 현무암은 화강암보다 철·마그네슘을 함유한 유색광물의 비중이 높습니다. 화강암은 석영과 장석이 우세합니다.",
+    "옳지 않습니다. 응회암은 주로 화산재 등 분출 쇄설물이 쌓인 뒤 고결되어 만들어집니다. 고온의 쇄설물이 용결될 수도 있지만, 용암류 자체가 식어 만들어진 암석이라는 설명은 맞지 않습니다."
+  ],
+  "lawNote": "응회암의 오답 근거는 생성 과정입니다. 화산쇄설암은 화성 기원과 쇄설성 퇴적 조직의 특징을 함께 가지므로, 응회암은 무조건 퇴적암이며 화산암에 포함될 수 없다고 설명하지 않습니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "U.S. National Park Service",
+      "ref": "Igneous Rocks",
+      "quote": "Intrusive igneous rocks solidify within Earth.",
+      "url": "https://www.nps.gov/subjects/geology/igneous.htm",
+      "evidenceId": "6ed98eb5f05aa8decca3",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "U.S. National Park Service",
+      "ref": "Igneous Rocks",
+      "quote": "Intrusive igneous rocks solidify within Earth.",
+      "url": "https://www.nps.gov/subjects/geology/igneous.htm",
+      "evidenceId": "6ed98eb5f05aa8decca3",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "U.S. National Park Service",
+      "ref": "Igneous Rocks",
+      "quote": "Intrusive igneous rocks solidify within Earth.",
+      "url": "https://www.nps.gov/subjects/geology/igneous.htm",
+      "evidenceId": "6ed98eb5f05aa8decca3",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "U.S. National Park Service",
+      "ref": "Igneous Rocks",
+      "quote": "Intrusive igneous rocks solidify within Earth.",
+      "url": "https://www.nps.gov/subjects/geology/igneous.htm",
+      "evidenceId": "6ed98eb5f05aa8decca3",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "U.S. National Park Service",
+      "ref": "Igneous Rocks",
+      "quote": "Intrusive igneous rocks solidify within Earth.",
+      "url": "https://www.nps.gov/subjects/geology/igneous.htm",
+      "evidenceId": "6ed98eb5f05aa8decca3",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "U.S. National Park Service",
+      "ref": "Pyroclasts and Pyroclastic Rocks",
+      "quote": "A consolidated pyroclastic rock made primarily of ash.",
+      "url": "https://www.nps.gov/subjects/volcanoes/pyroclasts.htm",
+      "evidenceId": "f0eaf484fddfb0ab45cd",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "U.S. National Park Service",
+      "ref": "Pyroclasts and Pyroclastic Rocks",
+      "quote": "A consolidated pyroclastic rock made primarily of ash.",
+      "url": "https://www.nps.gov/subjects/volcanoes/pyroclasts.htm",
+      "evidenceId": "f0eaf484fddfb0ab45cd",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "Original image checked; all five choices independently compared with NPS classification and pyroclastic sources. Corrected draft categorical sedimentary-rock claim and identical-composition claim; answer 5 agrees.",
+    "contentHash": "15d595c8fcfbb0bd16f4d30c59b8dfd9ead7853783907d99769609a61f8b5aad"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "d66c7f756dc0c4163201",
+  "kind": "science",
+  "source": "OpenStax · University Physics Volume 3",
+  "ref": "6.4",
+  "url": "https://openstax.org/books/university-physics-volume-3/pages/6-4-bohrs-model-of-the-hydrogen-atom",
+  "excerpt": "We see from Equation 6.38 that the size of the orbit grows as the square of n.",
+  "sourceHash": "a9fdcbae7f43394fbead4a1ac67759cdea50b5a8290620bb168175574f32248b",
+  "cacheSourceId": "46b27289e473530b48f5",
+  "retrievedAt": "2026-11-06T14:44:36.642597+00:00",
+  "reviewedMappings": {
+    "2009-3-08:0": "쿨롱 힘과 구심력 및 mvr=nh/(2π)를 직접 연립해 r=ε₀h²n²/(πme²)를 유도했다. 원문 식 6.38의 ℏ=h/(2π) 변환과 일치하며 다섯 선지의 π 계수와 n 지수를 모두 대조했다."
+  }
+}

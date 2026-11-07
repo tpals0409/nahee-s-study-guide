@@ -1,0 +1,173 @@
+{
+  "id": "2025-3-26",
+  "summary": "정답은 ② ㄷ입니다. 속씨식물 세포는 세포판 형성으로 세포질을 나눕니다. 일반적인 배낭의 중복수정에서는 정자 하나가 극핵 둘에 해당하는 핵과 융합하여 배젖을 형성합니다. 곁뿌리는 내초에서 발생하므로 ㄷ만 옳습니다.",
+  "choices": [
+    "오답입니다. ㄱ의 액틴·미오신 수축환에 의한 분열고랑 형성은 동물세포에서 볼 수 있는 방식입니다. 속씨식물 세포에서는 소낭들이 중앙에 모여 융합하고 세포판을 형성하므로 ㄱ은 틀립니다.",
+    "정답입니다. ㄷ의 곁뿌리는 뿌리 내피 바로 안쪽의 내초에서 발생합니다. ㄱ은 세포판 형성을, ㄴ은 일반적인 배낭의 극핵 둘을 고려하지 않았으므로 틀립니다.",
+    "오답입니다. ㄱ은 수축환 대신 세포판 형성이 옳습니다. ㄴ도 일반적인 중복수정에서는 정자 하나(n)가 극핵 둘(n+n)과 융합하여 3n 배젖을 만들므로 틀립니다.",
+    "오답입니다. ㄷ은 옳지만 ㄴ은 틀립니다. 일반적인 배낭에서는 정자 하나가 두 극핵 또는 이들이 미리 융합한 2n의 이차핵과 융합합니다. 미리 융합한 핵 하나를 반수체 극핵 하나와 혼동하면 안 됩니다.",
+    "오답입니다. ㄱ과 ㄴ이 틀렸으므로 모두 고를 수 없습니다. 세포질 분열은 세포판 형성으로 일어나고, 일반적인 배젖 형성에는 정자 하나와 극핵 둘에 해당하는 핵이 참여합니다. 내초에서 곁뿌리가 발생한다는 ㄷ만 옳습니다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax Biology 2e",
+      "ref": "10.2 The Cell Cycle",
+      "quote": "In plants, a cell plate separates the two cells.",
+      "url": "https://openstax.org/books/biology-2e/pages/10-2-the-cell-cycle",
+      "evidenceId": "4a9da5a0b389137c95f4",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax Biology 2e",
+      "ref": "10.2 The Cell Cycle",
+      "quote": "In plants, a cell plate separates the two cells.",
+      "url": "https://openstax.org/books/biology-2e/pages/10-2-the-cell-cycle",
+      "evidenceId": "4a9da5a0b389137c95f4",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax Biology 2e",
+      "ref": "10.2 The Cell Cycle",
+      "quote": "In plants, a cell plate separates the two cells.",
+      "url": "https://openstax.org/books/biology-2e/pages/10-2-the-cell-cycle",
+      "evidenceId": "4a9da5a0b389137c95f4",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax Biology 2e",
+      "ref": "10.2 The Cell Cycle",
+      "quote": "In plants, a cell plate separates the two cells.",
+      "url": "https://openstax.org/books/biology-2e/pages/10-2-the-cell-cycle",
+      "evidenceId": "4a9da5a0b389137c95f4",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax Biology 2e",
+      "ref": "10.2 The Cell Cycle",
+      "quote": "In plants, a cell plate separates the two cells.",
+      "url": "https://openstax.org/books/biology-2e/pages/10-2-the-cell-cycle",
+      "evidenceId": "4a9da5a0b389137c95f4",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax Biology 2e",
+      "ref": "32.2 Pollination and Fertilization",
+      "quote": "the other sperm fuses with the two polar nuclei",
+      "url": "https://openstax.org/books/biology-2e/pages/32-2-pollination-and-fertilization",
+      "evidenceId": "9473864725f2e20c2cca",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax Biology 2e",
+      "ref": "32.2 Pollination and Fertilization",
+      "quote": "the other sperm fuses with the two polar nuclei",
+      "url": "https://openstax.org/books/biology-2e/pages/32-2-pollination-and-fertilization",
+      "evidenceId": "9473864725f2e20c2cca",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax Biology 2e",
+      "ref": "32.2 Pollination and Fertilization",
+      "quote": "the other sperm fuses with the two polar nuclei",
+      "url": "https://openstax.org/books/biology-2e/pages/32-2-pollination-and-fertilization",
+      "evidenceId": "9473864725f2e20c2cca",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax Biology 2e",
+      "ref": "32.2 Pollination and Fertilization",
+      "quote": "the other sperm fuses with the two polar nuclei",
+      "url": "https://openstax.org/books/biology-2e/pages/32-2-pollination-and-fertilization",
+      "evidenceId": "9473864725f2e20c2cca",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax Biology 2e",
+      "ref": "32.2 Pollination and Fertilization",
+      "quote": "the other sperm fuses with the two polar nuclei",
+      "url": "https://openstax.org/books/biology-2e/pages/32-2-pollination-and-fertilization",
+      "evidenceId": "9473864725f2e20c2cca",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax Biology 2e",
+      "ref": "30.3 Roots",
+      "quote": "The outermost cell layer of the root’s vascular tissue is the pericycle, an area that can give rise to lateral roots.",
+      "url": "https://openstax.org/books/biology-2e/pages/30-3-roots",
+      "evidenceId": "8bf777960375be9e4d4e",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax Biology 2e",
+      "ref": "30.3 Roots",
+      "quote": "The outermost cell layer of the root’s vascular tissue is the pericycle, an area that can give rise to lateral roots.",
+      "url": "https://openstax.org/books/biology-2e/pages/30-3-roots",
+      "evidenceId": "8bf777960375be9e4d4e",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax Biology 2e",
+      "ref": "30.3 Roots",
+      "quote": "The outermost cell layer of the root’s vascular tissue is the pericycle, an area that can give rise to lateral roots.",
+      "url": "https://openstax.org/books/biology-2e/pages/30-3-roots",
+      "evidenceId": "8bf777960375be9e4d4e",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax Biology 2e",
+      "ref": "30.3 Roots",
+      "quote": "The outermost cell layer of the root’s vascular tissue is the pericycle, an area that can give rise to lateral roots.",
+      "url": "https://openstax.org/books/biology-2e/pages/30-3-roots",
+      "evidenceId": "8bf777960375be9e4d4e",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Original image and canonical choices compared; cytokinesis, typical double fertilization and lateral-root origin matched to primary textbook. Removed universal triploid-endosperm assertion and clarified fused polar nuclei versus one haploid polar nucleus.",
+    "contentHash": "bd136af5b776f09349ac31b6bec71141db54e7f952c8f7005e57cc130c6eb6b4"
+  }
+}

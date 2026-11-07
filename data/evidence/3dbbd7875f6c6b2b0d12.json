@@ -1,0 +1,21 @@
+{
+  "id": "3dbbd7875f6c6b2b0d12",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology2e3.4 Proteins",
+  "url": "https://openstax.org/books/biology-2e/pages/3-4-proteins",
+  "excerpt": "Amino acids' unique sequence in a polypeptide chain is its primary structure.",
+  "sourceHash": "fb6e1d113db58d379ce6635570a087cd99069dab3e97f1210075c7c85226a5f2",
+  "cacheSourceId": "ad40fc9f42f71dee35fe",
+  "retrievedAt": "2026-11-07T04:15:01.343746+00:00",
+  "reviewedMappings": {
+    "2026-3-30:0": "All five claims contrasted using reviewed subsections: only primary sequence statement true.",
+    "2026-3-30:1": "63 peptide bond and83 primary amino acid sequence.",
+    "2026-3-30:2": "98-103 alpha helix and beta pleated sheet reverse proposed assignments.",
+    "2026-3-30:3": "118-119 temperature can denature structures; no claim every protein denatures at any raised temperature.",
+    "2026-3-30:4": "111 says some proteins comprise multiple subunits;115 defines quaternary structure, not universal prerequisite.",
+    "2026-3-30:5": "63-64 formal free-amino-acid condensation releases water, not water addition; no ribosomal elementary-mechanism claim."
+  },
+  "retrievalMethod": "Direct web open",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

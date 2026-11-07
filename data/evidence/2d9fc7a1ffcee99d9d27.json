@@ -1,0 +1,16 @@
+{
+  "id": "2d9fc7a1ffcee99d9d27",
+  "kind": "science",
+  "source": "Gust, Moore & Moore (1998) — Arizona Board of Regents",
+  "ref": "An Artificial Photosynthetic Membrane",
+  "url": "https://experts.azregents.edu/en/publications/an-artificial-photosynthetic-membrane/",
+  "excerpt": "Artificial reaction centers can be prepared from porphyrins and other chromophores, electron donors, and electron acceptors linked by covalent bonds.",
+  "sourceHash": "0b200b7af530d19e0e23a70b10bb69518ae34d5495dc47cdc2469b03ab245381",
+  "cacheSourceId": "d34cb1880814388af7da",
+  "retrievedAt": "2026-11-06T18:58:50.777031+00:00",
+  "reviewedMappings": {
+    "2014-3-28:0": "연구자 기관 초록16–17행에서 안테나의 들뜸에너지 전달과 반응중심의 전하분리를 구분하고 공유결합 색소/전자공여체/전자수용체를 인공 반응중심으로 설명. ㄴ 안테나 모방을 단순히 빛흡수라는 이유로 참이라고 확정할 근거는 아님."
+  },
+  "retrievalMethod": "web.open; authors institution research abstract reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "f96f0653d59ced9865c2",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "12.5 Collision Theory",
+  "url": "https://openstax.org/books/chemistry-2e/pages/12-5-collision-theory",
+  "excerpt": "The Arrhenius equation relates the activation energy and the rate constant",
+  "sourceHash": "c3a5ad5a1707d8c073dc9be90e6dee0fa0cda6a73951d9d4a527685b5dff09ed",
+  "cacheSourceId": "add1820641cdb69134ed",
+  "retrievedAt": "2026-11-06T21:03:33.764582+00:00",
+  "reviewedMappings": {
+    "2017-3-13:0": "본문 63–75행 활성화 장벽 및 k=A exp(−Ea/RT) 확인. 원본 E_TS>E_X>E_Y이므로 Ea,r>Ea,f>0. 같은 A 조건에서 kf/kr=exp[(Ea,r−Ea,f)/RT]>1, 온도 상승 시 kr 증가, 양의 상수 C=Ea,r−Ea,f에 대해 lnK=C/RT 감소. ㄱ 거짓·ㄴㄷ 참.",
+    "2017-3-13:1": "본문 63–75행 활성화 장벽 및 k=A exp(−Ea/RT) 확인. 원본 E_TS>E_X>E_Y이므로 Ea,r>Ea,f>0. 같은 A 조건에서 kf/kr=exp[(Ea,r−Ea,f)/RT]>1, 온도 상승 시 kr 증가, 양의 상수 C=Ea,r−Ea,f에 대해 lnK=C/RT 감소. ㄱ 거짓·ㄴㄷ 참.",
+    "2017-3-13:2": "본문 63–75행 활성화 장벽 및 k=A exp(−Ea/RT) 확인. 원본 E_TS>E_X>E_Y이므로 Ea,r>Ea,f>0. 같은 A 조건에서 kf/kr=exp[(Ea,r−Ea,f)/RT]>1, 온도 상승 시 kr 증가, 양의 상수 C=Ea,r−Ea,f에 대해 lnK=C/RT 감소. ㄱ 거짓·ㄴㄷ 참.",
+    "2017-3-13:3": "본문 63–75행 활성화 장벽 및 k=A exp(−Ea/RT) 확인. 원본 E_TS>E_X>E_Y이므로 Ea,r>Ea,f>0. 같은 A 조건에서 kf/kr=exp[(Ea,r−Ea,f)/RT]>1, 온도 상승 시 kr 증가, 양의 상수 C=Ea,r−Ea,f에 대해 lnK=C/RT 감소. ㄱ 거짓·ㄴㄷ 참.",
+    "2017-3-13:4": "본문 63–75행 활성화 장벽 및 k=A exp(−Ea/RT) 확인. 원본 E_TS>E_X>E_Y이므로 Ea,r>Ea,f>0. 같은 A 조건에서 kf/kr=exp[(Ea,r−Ea,f)/RT]>1, 온도 상승 시 kr 증가, 양의 상수 C=Ea,r−Ea,f에 대해 lnK=C/RT 감소. ㄱ 거짓·ㄴㄷ 참.",
+    "2017-3-13:5": "본문 63–75행 활성화 장벽 및 k=A exp(−Ea/RT) 확인. 원본 E_TS>E_X>E_Y이므로 Ea,r>Ea,f>0. 같은 A 조건에서 kf/kr=exp[(Ea,r−Ea,f)/RT]>1, 온도 상승 시 kr 증가, 양의 상수 C=Ea,r−Ea,f에 대해 lnK=C/RT 감소. ㄱ 거짓·ㄴㄷ 참."
+  },
+  "retrievalMethod": "Direct source opened; Arrhenius and equilibrium-rate relations reviewed.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

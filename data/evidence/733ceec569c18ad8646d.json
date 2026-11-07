@@ -1,0 +1,21 @@
+{
+  "id": "733ceec569c18ad8646d",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 2e §15.1, solubility product and dissolution stoichiometry",
+  "url": "https://openstax.org/books/chemistry-2e/pages/15-1-precipitation-and-dissolution",
+  "excerpt": "The Solubility Product",
+  "sourceHash": "e856f4eff8c66983e3595a16bf6746d432f3fe8bfda07f7afd39abe8b2eab9ca",
+  "cacheSourceId": "24e77305d93b863ee1fd",
+  "retrievedAt": "2026-11-07T02:33:24.989017+00:00",
+  "reviewedMappings": {
+    "2024-3-20:0": "Ksp=[X][F]²; model stoichiometry gives total fluoride=2[X]. Equilibrium I gives 4y³, II gives z³/16. Combined equilibrium/mass balance gives result 28.",
+    "2024-3-20:1": "Ksp=[X][F]²; model stoichiometry gives total fluoride=2[X]. Equilibrium I gives 4y³, II gives z³/16. 28 agrees with x7 times z/y4.",
+    "2024-3-20:2": "Ksp=[X][F]²; model stoichiometry gives total fluoride=2[X]. Equilibrium I gives 4y³, II gives z³/16. 35 would need z/y5, contradicting cubic ratio64.",
+    "2024-3-20:3": "Ksp=[X][F]²; model stoichiometry gives total fluoride=2[X]. Equilibrium I gives 4y³, II gives z³/16. 42 would need z/y6, contradicting cubic ratio64.",
+    "2024-3-20:4": "Ksp=[X][F]²; model stoichiometry gives total fluoride=2[X]. Equilibrium I gives 4y³, II gives z³/16. 49 would need z/y7, contradicting cubic ratio64.",
+    "2024-3-20:5": "Ksp=[X][F]²; model stoichiometry gives total fluoride=2[X]. Equilibrium I gives 4y³, II gives z³/16. 56 would need z/y8, contradicting cubic ratio64."
+  },
+  "retrievalMethod": "Direct OpenStax text and equations reviewed. Ksp=[X][F]²; model stoichiometry gives total fluoride=2[X]. Equilibrium I gives 4y³, II gives z³/16.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

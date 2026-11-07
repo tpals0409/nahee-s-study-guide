@@ -1,0 +1,20 @@
+{
+  "id": "f3f7d7004a5ca02280db",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Astronomy 2e — 17.1 The Brightness of Stars",
+  "url": "https://openstax.org/books/astronomy-2e/pages/17-1-the-brightness-of-stars",
+  "excerpt": "we receive about 2.5 times as much light from a magnitude 2.0 star as from a magnitude 3.0 star.",
+  "sourceHash": "cbc5b98d02302aee74a7bb3d9ebbad29b5b8d6c3afbb506ba7fad726d70f9106",
+  "cacheSourceId": "ed979586c42eea6e1cff",
+  "retrievedAt": "2026-11-06T20:48:27.778811+00:00",
+  "reviewedMappings": {
+    "2016-3-39:0": "작은 겉보기 등급이 더 밝다. 표에서 C의 m=2가 최소이므로 C가 가장 밝고 ㄴ은 거짓. 1등급 차의 밝기 비는 약2.5.",
+    "2016-3-39:1": "작은 겉보기 등급이 더 밝다. 표에서 C의 m=2가 최소이므로 C가 가장 밝고 ㄴ은 거짓. 1등급 차의 밝기 비는 약2.5.",
+    "2016-3-39:2": "작은 겉보기 등급이 더 밝다. 표에서 C의 m=2가 최소이므로 C가 가장 밝고 ㄴ은 거짓. 1등급 차의 밝기 비는 약2.5.",
+    "2016-3-39:4": "작은 겉보기 등급이 더 밝다. 표에서 C의 m=2가 최소이므로 C가 가장 밝고 ㄴ은 거짓. 1등급 차의 밝기 비는 약2.5.",
+    "2016-3-39:5": "작은 겉보기 등급이 더 밝다. 표에서 C의 m=2가 최소이므로 C가 가장 밝고 ㄴ은 거짓. 1등급 차의 밝기 비는 약2.5."
+  },
+  "retrievalMethod": "Direct web open; magnitude scale and 2nd versus 3rd magnitude comparison reviewed.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

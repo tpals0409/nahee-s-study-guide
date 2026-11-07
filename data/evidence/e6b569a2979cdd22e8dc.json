@@ -1,0 +1,16 @@
+{
+  "id": "e6b569a2979cdd22e8dc",
+  "kind": "science",
+  "source": "OpenStax · Biology 2e",
+  "ref": "7.4 Oxidative Phosphorylation",
+  "url": "https://openstax.org/books/biology-2e/pages/7-4-oxidative-phosphorylation",
+  "excerpt": "in the inner mitochondrial membrane of eukaryotes",
+  "sourceHash": "458e1a6114a09f9d5f27a0b70f3e0f45c639429a280802ed5188b1922a07f584",
+  "cacheSourceId": "5d67410541b20136e4ae",
+  "retrievedAt": "2026-11-06T15:53:07.303336+00:00",
+  "reviewedMappings": {
+    "2010-3-30:0": "전자전달계 위치와 막간공간에서 기질 방향 ATP synthase 통과에 따른 ATP 합성 문맥 확인. ㄴ은 핵 과정 아님."
+  },
+  "retrievalMethod": "web.open relevant source text and context read",
+  "sourceHashScope": "Selected excerpt only"
+}

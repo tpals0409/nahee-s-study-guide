@@ -1,0 +1,18 @@
+{
+  "id": "086ba432a6f2c8061a3c",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e: Ribosomes and Protein Synthesis",
+  "url": "https://openstax.org/books/biology-2e/pages/15-5-ribosomes-and-protein-synthesis",
+  "excerpt": "Translation requires the input of an mRNA template, ribosomes, tRNAs, and various enzymatic factors.",
+  "sourceHash": "ecf891c499d4c82fda9ed183dee2a38ebfbcf3ef49f1440db634db44ad49ba57",
+  "cacheSourceId": "accf05c856ab26d6558a",
+  "retrievedAt": "2026-11-07T02:41:51.304564+00:00",
+  "reviewedMappings": {
+    "2024-3-27:0": "Direct protein-synthesis machinery, ribosome-location and tRNA paragraphs reviewed; supports required components, amino-acid delivery and cytoplasmic/rough-ER translation.",
+    "2024-3-27:1": "Direct protein-synthesis machinery, ribosome-location and tRNA paragraphs reviewed; supports required components, amino-acid delivery and cytoplasmic/rough-ER translation.",
+    "2024-3-27:2": "Direct protein-synthesis machinery, ribosome-location and tRNA paragraphs reviewed; supports required components, amino-acid delivery and cytoplasmic/rough-ER translation."
+  },
+  "retrievalMethod": "Direct protein-synthesis machinery, ribosome-location and tRNA paragraphs reviewed; supports required components, amino-acid delivery and cytoplasmic/rough-ER translation.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "82e5a4aaaa7dbbfd1b35",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e, 15.3 Eukaryotic Transcription",
+  "url": "https://openstax.org/books/biology-2e/pages/15-3-eukaryotic-transcription",
+  "excerpt": "RNA polymerase III is also located in the nucleus.",
+  "sourceHash": "66ead7598108016103dc2af539495d5183b123664c197ff4636670d29686354e",
+  "cacheSourceId": "57b650df94152cd1061b",
+  "retrievedAt": "2026-11-07T01:09:44.368361+00:00",
+  "reviewedMappings": {
+    "2022-3-25:0": "Table 15.1 identifies nuclear polymerases I/II/III and rRNA, pre-mRNA, tRNA/5S products.",
+    "2022-3-25:1": "Table 15.1 identifies nuclear polymerases I/II/III and rRNA, pre-mRNA, tRNA/5S products."
+  },
+  "retrievalMethod": "Direct web read of relevant text and table; original problem image inspected",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

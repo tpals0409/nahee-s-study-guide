@@ -1,0 +1,52 @@
+{
+  "summary": "정답은 ① 화성입니다. 데이모스는 화성의 위성이며, 올림푸스 화산과 매리너스 협곡도 화성에 있습니다. 이산화탄소가 주성분인 희박한 대기와 큰 낮밤 온도 변화 역시 조건에 맞습니다.",
+  "choices": [
+    "화성은 네 조건에 맞습니다. 데이모스라는 위성 이름이 결정적 단서이며, 거대 화산·협곡과 대기 특성도 일치합니다.",
+    "데이모스는 수성의 위성이 아니라 화성의 위성입니다. 따라서 모든 조건을 충족하지 못합니다.",
+    "데이모스는 금성의 위성이 아닙니다. 대기 조성만 보고 답을 고르면 마지막 조건을 놓치게 됩니다.",
+    "데이모스는 목성의 위성이 아닙니다. 제시된 지형과 위성의 조합은 화성을 가리킵니다.",
+    "데이모스는 토성의 위성이 아닙니다. 모든 조건을 함께 만족하는 행성은 화성입니다."
+  ],
+  "lawNote": "태양계 전체의 최고·최저 온도 범위를 한 장소의 일교차와 혼동하지 마세요. 이 문제에서는 위성으로 행성을 특정한 뒤 지형·대기 조건을 대조하면 됩니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "NASA",
+      "ref": "NASA Mars Facts",
+      "quote": "Mars has two small moons, Phobos and Deimos",
+      "url": "https://science.nasa.gov/mars/facts/",
+      "evidenceId": "155542796cd38f1f726b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "NASA",
+      "ref": "NASA — Mars (Houston We Have a Podcast)",
+      "quote": "Mars’ atmosphere is 95% carbon dioxide, 2% nitrogen, and 2% argon",
+      "url": "https://www.nasa.gov/podcasts/houston-we-have-a-podcast/mars/",
+      "evidenceId": "681510f7f267b682c276",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "Journal of Geophysical Research: Planets",
+      "ref": "Rafkin et al. (2014), Diurnal variations of energetic particle radiation at the surface of Mars",
+      "quote": "Mars has a large diurnal temperature variation",
+      "url": "https://doi.org/10.1002/2013je004525",
+      "evidenceId": "25f006ffc82fee21d3ed",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "원본 2012-3-32.webp 조건·선지 확인. NASA 화성 설명 직접 열람 및 NASA 대기 조성·관측 원저의 일변화 발췌 대조. 초안의 수성 화산 부재 단정과 불필요한 온도·압력 수치 제거. 저장 정답① 일치.",
+    "contentHash": "b083d35011cbc29d5941097ce1277544f852760cae943d8a6a45382c02169772"
+  }
+}

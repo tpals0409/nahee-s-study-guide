@@ -1,0 +1,21 @@
+{
+  "id": "422d9b978d460d4f12ea",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "12.4 Integrated Rate Laws",
+  "url": "https://openstax.org/books/chemistry-2e/pages/12-4-integrated-rate-laws",
+  "excerpt": "a straight line with a slope of −k",
+  "sourceHash": "fce63c2daa1cb5117690ccb83f509122170ee4bf9aac78ba8b23b90a5d0123af",
+  "cacheSourceId": "830ef4ea580658d8d6cd",
+  "retrievedAt": "2026-11-06T22:38:01.200289+00:00",
+  "reviewedMappings": {
+    "2019-3-20:0": "직선 기울기로 k가=1/t₁, k나=1/(2t₁). 비교 시점의 농도가 같고 Y계수2를 반영하면 생성 속도도 같음.",
+    "2019-3-20:1": "ㄱ뿐 아니라 기울기비로 ㄴ도 참.",
+    "2019-3-20:2": "동일 농도 c에서 vX=k가c, vY=2k나c로 같으므로 ㄷ 거짓.",
+    "2019-3-20:3": "ln농도-시간 직선은 1차 반응이며 기울기 절댓값 비 2로 ㄱ·ㄴ 참.",
+    "2019-3-20:4": "ㄴ은 참이나 계수2를 반영한 생성 속도는 같아 ㄷ은 거짓이며 ㄱ 누락.",
+    "2019-3-20:5": "ㄱ·ㄴ은 참이나 생성 속도비가 1이므로 ㄷ 거짓."
+  },
+  "retrievalMethod": "Direct web open: first-order integrated equations at 36–47 and graph slope at 75–78. Original question graph inspected; independently compared slopes and product formation rates at the two specified times.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

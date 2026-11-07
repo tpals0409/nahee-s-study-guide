@@ -1,0 +1,18 @@
+{
+  "id": "83d13c6d91bb66224d6e",
+  "kind": "science",
+  "source": "New England Biolabs",
+  "ref": "Supercoiled DNA Ladder",
+  "url": "https://www.neb.com/en-us/products/n0472-supercoiled-dna-ladder",
+  "excerpt": "can be used for approximating the mass of DNA in comparably intense samples of similar size",
+  "sourceHash": "1ee2d99ee184224357a8190238dbe60c55ed0c2f7c18bb9365723c3a8ef0d4a8",
+  "cacheSourceId": "51c584bc37703fa655bf",
+  "retrievedAt": "2026-11-06T23:29:04.554449+00:00",
+  "reviewedMappings": {
+    "2020-3-28:0": "제조사 공식 검색결과의 밴드 세기·비슷한 크기 표준을 통한 대략적 질량 추정과 정확한 정량용이 아니라는 제한 확인. 이 출처는 질량 추정에만 적용하며 선형 절편의 이동 속도에는 적용하지 않음. 직접 전체 페이지 열람 아님. ㄱㄴ거짓 ㄷ참으로③.",
+    "2020-3-28:3": "제조사 공식 검색결과의 밴드 세기·비슷한 크기 표준을 통한 대략적 질량 추정과 정확한 정량용이 아니라는 제한 확인. 이 출처는 질량 추정에만 적용하며 선형 절편의 이동 속도에는 적용하지 않음. 직접 전체 페이지 열람 아님. ③ ㄷ: 정답입니다. 염색한 밴드의 세기를 DNA 양이 알려진 비슷한 크기의 표준 밴드와 비교하면 DNA 질량을 대략 추정할 수 있습니다. ㄱ과 ㄴ은 틀리므로 ㄷ만 고릅니다.",
+    "2020-3-28:5": "제조사 공식 검색결과의 밴드 세기·비슷한 크기 표준을 통한 대략적 질량 추정과 정확한 정량용이 아니라는 제한 확인. 이 출처는 질량 추정에만 적용하며 선형 절편의 이동 속도에는 적용하지 않음. 직접 전체 페이지 열람 아님. ⑤ ㄱ, ㄷ: ㄷ은 옳지만 ㄱ이 틀립니다. DNA 양을 추정할 수 있어도 음극으로 이동한다는 설명은 맞지 않습니다."
+  },
+  "retrievalMethod": "제조사 공식 검색결과의 밴드 세기·비슷한 크기 표준을 통한 대략적 질량 추정과 정확한 정량용이 아니라는 제한 확인. 이 출처는 질량 추정에만 적용하며 선형 절편의 이동 속도에는 적용하지 않음. 직접 전체 페이지 열람 아님.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "0ca6132e301deeccc99b",
+  "kind": "science",
+  "source": "OpenStax · Astronomy 2e",
+  "ref": "15.1",
+  "url": "https://openstax.org/books/astronomy-2e/pages/15-1-the-structure-and-composition-of-the-sun",
+  "excerpt": "This means that the chromosphere is hotter than the photosphere",
+  "sourceHash": "ba245b9fb98a075282bf409f353b545284a843f7839790257fc9b7664341f334",
+  "cacheSourceId": "68aa5f828cb3f7a755f9",
+  "retrievedAt": "2026-11-06T15:13:17.371376+00:00",
+  "reviewedMappings": {
+    "2009-3-36:0": "NASA Marshall의 보통수일/매우큰흑점수주 지속 설명으로 ㄱ반증. OpenStax15.2 적도25일/위도80도36일로 ㄴ확인.15.1채층약10000K·광구보다뜨거움 및상층온도상승으로 ㄷ확인. 수명면적비례법칙·불필요세부수치 삭제, 일반적경향으로한정."
+  }
+}

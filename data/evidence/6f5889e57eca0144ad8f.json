@@ -1,0 +1,19 @@
+{
+  "id": "6f5889e57eca0144ad8f",
+  "kind": "science",
+  "source": "European Southern Observatory",
+  "ref": "Finding your Latitude during Daytime",
+  "url": "https://www.eso.org/public/outreach/eduoff/seaspace/navigation/navastro/navastro-10.html",
+  "excerpt": "H = 90 - GL + SD",
+  "sourceHash": "aec16ab3a25a9ffc45aec42c2f07c24e3f6d58c7929044531d0c9f1a700c0202",
+  "cacheSourceId": "ef57bbd64f9a6df700db",
+  "retrievedAt": "2026-11-06T21:37:01.668116+00:00",
+  "reviewedMappings": {
+    "2017-3-39:0": "검색에 표시된 남중고도식을 위도37°, 춘분적위0°에 적용해53° 산출.",
+    "2017-3-39:1": "남중고도90−37+0=53°이므로 ㄱ 거짓.",
+    "2017-3-39:3": "춘분53°로 ㄱ 거짓.",
+    "2017-3-39:5": "춘분53°로 ㄱ 거짓."
+  },
+  "retrievalMethod": "Search-indexed official educational page; direct open returned HTTP 500",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

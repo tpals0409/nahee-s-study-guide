@@ -1,0 +1,21 @@
+{
+  "id": "1d751c1c27e9e4046e77",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 2e §19.3, crystal-field splitting, Example 19.8 and magnetic properties",
+  "url": "https://openstax.org/books/chemistry-2e/pages/19-3-spectroscopic-and-magnetic-properties-of-coordination-compounds",
+  "excerpt": "those on the right cause larger splittings and are strong-field ligands",
+  "sourceHash": "574d11ba4843c855197c2ee18ee5685706f3bb9b5fb34a037df55ee4fff0f422",
+  "cacheSourceId": "ae0fe65762a6c1dd7c1e",
+  "retrievedAt": "2026-11-07T02:31:40.062208+00:00",
+  "reviewedMappings": {
+    "2024-3-18:0": "Charge balance gives divalent X,Y and trivalent Z. High-spin tetrahedral d8/d7 have 2/3 unpaired; high-spin d5 has 5; weak-field d6 CFSE −0.4Δ and low-spin ferrocyanide no unpaired.",
+    "2024-3-18:1": "ㄱ true with NiII d8, but weak-field CoIII d6 and low-spin ferrocyanide also make ㄴ and ㄷ true.",
+    "2024-3-18:2": "ㄴ true in exam weak-field model; ㄱ and ㄷ also true.",
+    "2024-3-18:3": "Octahedral splitting barycenter: 3E_t+2E_e=0 and E_e−E_t=Δ give −0.4Δ,+0.6Δ. Four lower and two upper electrons sum −0.4Δ, so omitted ㄴ true.",
+    "2024-3-18:4": "Among the given metals tetrahedral NiII d8 has two unpaired; omitted ㄱ true.",
+    "2024-3-18:5": "All true in stated CFT treatment; explicit ferrocyanide low-spin d6 supports ㄷ."
+  },
+  "retrievalMethod": "Direct OpenStax review: iodide weak-field versus cyanide strong-field, octahedral d6 filling, tetrahedral splitting and high spin, explicitly diamagnetic ferrocyanide. CFSE coefficient derived from three/two orbital degeneracies and zero barycenter.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "8d09d10b0380700585c8",
+  "kind": "science",
+  "source": "Columbia University",
+  "ref": "Driving Forces",
+  "url": "https://www.columbia.edu/~vjd1/driving_forces_basic.htm",
+  "excerpt": "The lithosphere thickens with distance (and time) away from the midocean ridge.",
+  "sourceHash": "55fe3eea633f1c2b7496eed9ca1d948474637c86006c8d376d35330f5bf2487e",
+  "cacheSourceId": "ecbb7bb8ca57e7bac640",
+  "retrievedAt": "2026-11-06T16:56:18.757895+00:00",
+  "reviewedMappings": {
+    "2011-3-39:2": "냉각으로 암석권 경계가 깊어지는 설명 확인. 지각과 판 전체 두께를 구분."
+  },
+  "retrievalMethod": "web.search 반환 본문/초록 확인. USGS·ScienceDirect 직접 open은403. 전체 페이지 취득 아님.",
+  "sourceHashScope": "Selected excerpt only; not full page"
+}

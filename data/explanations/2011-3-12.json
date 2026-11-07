@@ -1,0 +1,305 @@
+{
+  "id": "2011-3-12",
+  "summary": "공식 정답은 ③(ㄱ·ㄹ·ㅁ)입니다. 구조에는 알데하이드 –CHO, 에테르 Ar–O–CH₃, 페놀성 OH가 있습니다. ③은 페놀까지 알코올 범주에 포함하는 넓은 교육적 용어 사용으로 설명할 수 있습니다. 다만 OH가 포화 탄소에 결합한 경우만 알코올로 부르는 좁은 정의에서는 페놀을 구별하므로 ①(ㄱ·ㄹ)이 됩니다. 두 분류의 차이를 유의해야 합니다.",
+  "choices": [
+    "①은 알데하이드와 에테르를 고른 조합입니다. –CHO와 Ar–O–CH₃가 있으므로 두 작용기는 모두 존재합니다. 페놀을 알코올과 구별하는 좁은 정의에서는 이 조합이 맞습니다. 공식③과의 차이는 페놀성 OH를 ㅁ에 포함하는지에 있습니다.",
+    "ㄴ, ㄷ: 케톤은 카보닐 탄소 양쪽에 탄소가 붙은 R–CO–R' 구조입니다. 바닐린의 카보닐 탄소에는 H가 붙어 있어 알데하이드이므로 케톤이 아닙니다. 에스터는 –COO– 구조가 있어야 하는데, 바닐린에는 카보닐 산소와 에테르 산소가 같은 탄소에 연결된 부분이 없습니다. 따라서 둘 다 틀렸습니다.",
+    "③은 공식 정답입니다. –CHO는 알데하이드, Ar–O–CH₃는 에테르이며, 페놀성 OH까지 알코올 범주에 넣는 넓은 용어 사용에서는 ㄱ·ㄹ·ㅁ이 됩니다. 실제로 Purdue 대학 교육 자료에도 페놀을 알코올의 한 종류로 부르는 표현이 있습니다. 다만 이 문항이 그 자료나 정의를 채택했다는 출제기관 설명은 확인되지 않았습니다.",
+    "④는 케톤·에스터·알코올을 고른 조합입니다. 구조에 케톤과 카복실산 에스터가 없고, 실제 존재하는 알데하이드와 에테르가 빠져 있습니다. 따라서 페놀성 OH의 분류 범위를 어느 쪽으로 잡더라도 이 조합은 맞지 않습니다.",
+    "⑤는 에스터·에테르·알코올을 고른 조합입니다. 에테르는 있지만 메톡시기의 산소가 카보닐 탄소에 연결되어 있지 않아 카복실산 에스터는 아닙니다. 실제 존재하는 알데하이드도 빠져 있으므로 이 조합은 맞지 않습니다."
+  ],
+  "lawNote": "공식 정답③과 좁은 정의에 따른①을 구분한 해설입니다. 출제기관의 용어 적용 이유나 정정 여부를 확인했다는 뜻은 아닙니다. OH의 존재와 알코올 분류를 구별하고, 작용기는 산소 개수가 아니라 원자의 결합 연결로 판단하세요.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Organic Chemistry 3.1 Functional Groups",
+      "quote": "at least one hydrogen",
+      "url": "https://openstax.org/books/organic-chemistry/pages/3-1-functional-groups",
+      "evidenceId": "94f1675aeaa782bbde63",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Organic Chemistry 3.1 Functional Groups",
+      "quote": "at least one hydrogen",
+      "url": "https://openstax.org/books/organic-chemistry/pages/3-1-functional-groups",
+      "evidenceId": "94f1675aeaa782bbde63",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Organic Chemistry 3.1 Functional Groups",
+      "quote": "at least one hydrogen",
+      "url": "https://openstax.org/books/organic-chemistry/pages/3-1-functional-groups",
+      "evidenceId": "94f1675aeaa782bbde63",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Organic Chemistry 3.1 Functional Groups",
+      "quote": "at least one hydrogen",
+      "url": "https://openstax.org/books/organic-chemistry/pages/3-1-functional-groups",
+      "evidenceId": "94f1675aeaa782bbde63",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Organic Chemistry 3.1 Functional Groups",
+      "quote": "at least one hydrogen",
+      "url": "https://openstax.org/books/organic-chemistry/pages/3-1-functional-groups",
+      "evidenceId": "94f1675aeaa782bbde63",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Organic Chemistry 3.1 Functional Groups",
+      "quote": "at least one hydrogen",
+      "url": "https://openstax.org/books/organic-chemistry/pages/3-1-functional-groups",
+      "evidenceId": "94f1675aeaa782bbde63",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Organic Chemistry 3.1 Functional Groups",
+      "quote": "ketones have two carbons bonded",
+      "url": "https://openstax.org/books/organic-chemistry/pages/3-1-functional-groups",
+      "evidenceId": "453003f8b976423d9fcd",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Organic Chemistry 3.1 Functional Groups",
+      "quote": "ketones have two carbons bonded",
+      "url": "https://openstax.org/books/organic-chemistry/pages/3-1-functional-groups",
+      "evidenceId": "453003f8b976423d9fcd",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Organic Chemistry 3.1 Functional Groups",
+      "quote": "ketones have two carbons bonded",
+      "url": "https://openstax.org/books/organic-chemistry/pages/3-1-functional-groups",
+      "evidenceId": "453003f8b976423d9fcd",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Organic Chemistry 3.1 Functional Groups",
+      "quote": "esters have an ether-like oxygen bonded",
+      "url": "https://openstax.org/books/organic-chemistry/pages/3-1-functional-groups",
+      "evidenceId": "f7840109306ab6ab0e14",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Organic Chemistry 3.1 Functional Groups",
+      "quote": "esters have an ether-like oxygen bonded",
+      "url": "https://openstax.org/books/organic-chemistry/pages/3-1-functional-groups",
+      "evidenceId": "f7840109306ab6ab0e14",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Organic Chemistry 3.1 Functional Groups",
+      "quote": "esters have an ether-like oxygen bonded",
+      "url": "https://openstax.org/books/organic-chemistry/pages/3-1-functional-groups",
+      "evidenceId": "f7840109306ab6ab0e14",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Organic Chemistry 3.1 Functional Groups",
+      "quote": "esters have an ether-like oxygen bonded",
+      "url": "https://openstax.org/books/organic-chemistry/pages/3-1-functional-groups",
+      "evidenceId": "f7840109306ab6ab0e14",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Organic Chemistry 3.1 Functional Groups",
+      "quote": "two carbon atoms bonded",
+      "url": "https://openstax.org/books/organic-chemistry/pages/3-1-functional-groups",
+      "evidenceId": "eaeb80280a7adb0525c8",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Organic Chemistry 3.1 Functional Groups",
+      "quote": "two carbon atoms bonded",
+      "url": "https://openstax.org/books/organic-chemistry/pages/3-1-functional-groups",
+      "evidenceId": "eaeb80280a7adb0525c8",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Organic Chemistry 3.1 Functional Groups",
+      "quote": "two carbon atoms bonded",
+      "url": "https://openstax.org/books/organic-chemistry/pages/3-1-functional-groups",
+      "evidenceId": "eaeb80280a7adb0525c8",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Organic Chemistry 3.1 Functional Groups",
+      "quote": "two carbon atoms bonded",
+      "url": "https://openstax.org/books/organic-chemistry/pages/3-1-functional-groups",
+      "evidenceId": "eaeb80280a7adb0525c8",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "Purdue University",
+      "ref": "Purdue University Chemistry, Alcohols and Ethers: Phenols",
+      "quote": "Another class of alcohols are the phenols",
+      "url": "https://chemed.chem.purdue.edu/genchem/topicreview/bp/2organic/alcohols.html",
+      "evidenceId": "5d8ff526902f9aada142",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "Purdue University",
+      "ref": "Purdue University Chemistry, Alcohols and Ethers: Phenols",
+      "quote": "Another class of alcohols are the phenols",
+      "url": "https://chemed.chem.purdue.edu/genchem/topicreview/bp/2organic/alcohols.html",
+      "evidenceId": "5d8ff526902f9aada142",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "Purdue University",
+      "ref": "Purdue University Chemistry, Alcohols and Ethers: Phenols",
+      "quote": "Another class of alcohols are the phenols",
+      "url": "https://chemed.chem.purdue.edu/genchem/topicreview/bp/2organic/alcohols.html",
+      "evidenceId": "5d8ff526902f9aada142",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "Purdue University",
+      "ref": "Purdue University Chemistry, Alcohols and Ethers: Phenols",
+      "quote": "Another class of alcohols are the phenols",
+      "url": "https://chemed.chem.purdue.edu/genchem/topicreview/bp/2organic/alcohols.html",
+      "evidenceId": "5d8ff526902f9aada142",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "Purdue University",
+      "ref": "Purdue University Chemistry, Alcohols and Ethers: Naming Alcohols",
+      "quote": "OH group attached to a saturated carbon.",
+      "url": "https://chemed.chem.purdue.edu/genchem/topicreview/bp/2organic/alcohols.html",
+      "evidenceId": "32a32859ec268a2ff341",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "Purdue University",
+      "ref": "Purdue University Chemistry, Alcohols and Ethers: Naming Alcohols",
+      "quote": "OH group attached to a saturated carbon.",
+      "url": "https://chemed.chem.purdue.edu/genchem/topicreview/bp/2organic/alcohols.html",
+      "evidenceId": "32a32859ec268a2ff341",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "Purdue University",
+      "ref": "Purdue University Chemistry, Alcohols and Ethers: Naming Alcohols",
+      "quote": "OH group attached to a saturated carbon.",
+      "url": "https://chemed.chem.purdue.edu/genchem/topicreview/bp/2organic/alcohols.html",
+      "evidenceId": "32a32859ec268a2ff341",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "Purdue University",
+      "ref": "Purdue University Chemistry, Alcohols and Ethers: Naming Alcohols",
+      "quote": "OH group attached to a saturated carbon.",
+      "url": "https://chemed.chem.purdue.edu/genchem/topicreview/bp/2organic/alcohols.html",
+      "evidenceId": "32a32859ec268a2ff341",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "Purdue University",
+      "ref": "Purdue University Chemistry, Alcohols and Ethers: Naming Alcohols",
+      "quote": "OH group attached to a saturated carbon.",
+      "url": "https://chemed.chem.purdue.edu/genchem/topicreview/bp/2organic/alcohols.html",
+      "evidenceId": "32a32859ec268a2ff341",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Original vanillin image visually rechecked; official key page/hash retained from prior visual verification. All functional-group connectivity claims mapped to directly read definitions. Published explanation explicitly separates official③ under broad terminology from narrow-definition①; examiner-intent/erratum question is NOT resolved or claimed verified.",
+    "contentHash": "b2836d7a385404349a2bbc2c36c763f9eb86abfd736553b6ae3ac4f108ccc5a5"
+  }
+}

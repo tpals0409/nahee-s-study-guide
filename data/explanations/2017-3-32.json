@@ -1,0 +1,184 @@
+{
+  "id": "2017-3-32",
+  "summary": "공식 최종 정답은 ⑤(ㄱ·ㄴ·ㄷ)입니다. 대표적인 점토광물의 층상 구조와 가소성·건조 경화를 묻는 문제입니다. 다만 ㄴ의 고령토는 엄밀히는 카올리나이트 등을 포함한 점토 원료이므로, 하나의 순수한 광물종과 같은 뜻으로 외우지 않아야 합니다.",
+  "choices": [
+    "①은 공식 채점 기준에서 불완전한 조합입니다. ㄱ은 대표적인 점토광물의 미세한 층상규산염 구조를 설명하지만, ㄷ의 적절한 수분에서 나타나는 가소성과 건조 경화도 함께 고려해야 합니다.",
+    "②는 공식 채점 기준에서 불완전한 조합입니다. ㄴ 외에 ㄱ·ㄷ도 대표적인 구조와 성질에 해당합니다. 고령토를 구성하는 주요 광물은 카올리나이트이며, 원료 전체를 단일 광물종과 동일시하지 않습니다.",
+    "③은 공식 정답에서 ㄴ이 빠진 조합입니다. ㄱ·ㄷ은 대표적인 점토광물의 구조와 성질로 설명됩니다. 다만 ㄴ을 엄밀한 광물종의 명칭으로 읽으면 문제가 있으므로, 고령토 원료와 그 주성분 카올리나이트를 구별해야 합니다.",
+    "④는 공식 정답에서 ㄱ이 빠진 조합입니다. 대표적인 점토광물은 층상규산염 구조를 가지며, 적절한 수분에서 가소성을 보이고 건조하면 단단해지는 성질이 있습니다. 모든 광물 시료가 동일한 가소성을 보인다는 뜻은 아닙니다.",
+    "⑤가 공식 정답입니다. ㄱ·ㄷ은 대표적인 구조와 성질이며, ㄴ은 고령토를 점토광물 원료 또는 그 주요 구성광물을 가리키는 표현으로 읽을 때 이해할 수 있습니다. 이는 용어를 보완한 해석이며, 고령토가 순수한 단일 광물이라는 의미는 아닙니다."
+  ],
+  "lawNote": "용어 주의: 공식 정답과 광물학적 명명을 구별한 해설입니다. 고령토는 광물 혼합물이고 카올리나이트는 광물명입니다. 위의 ㄴ 해석이 출제기관의 공식 해설로 확인된 것은 아닙니다. 점토광물을 특정 입도 상한으로 정의하거나 모든 점토의 가소성을 예외 없이 단정하지 않습니다. 건조 경화와 고온 소성도 같은 과정으로 설명하지 않습니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "WHO / IPCS",
+      "ref": "Bentonite, Kaolin and Selected Clay Minerals — EHC 231 (2005), §1.1",
+      "quote": "Kaolin or china clay is a mixture of different minerals. Its main component is kaolinite;",
+      "url": "https://www.inchem.org/documents/ehc/ehc/ehc231.htm",
+      "evidenceId": "da688a41ba5f15355e71",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "AIPEA/CMS Nomenclature Committees / Clay Minerals",
+      "ref": "Guggenheim & Martin (1995), Definition of clay and clay mineral: joint report of the AIPEA and CMS Nomenclature Committees",
+      "quote": "which is generally plastic at appropriate water contents and will harden when dried or fired.",
+      "url": "https://www.uhu.es/jc.caliani/pdf/Definicion_arcilla.pdf",
+      "evidenceId": "e013113b50999abdb8ae",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "AIPEA/CMS Nomenclature Committees / Clay Minerals",
+      "ref": "Guggenheim & Martin (1995), Definition of clay and clay mineral: joint report of the AIPEA and CMS Nomenclature Committees",
+      "quote": "which is generally plastic at appropriate water contents and will harden when dried or fired.",
+      "url": "https://www.uhu.es/jc.caliani/pdf/Definicion_arcilla.pdf",
+      "evidenceId": "e013113b50999abdb8ae",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "AIPEA/CMS Nomenclature Committees / Clay Minerals",
+      "ref": "Guggenheim & Martin (1995), Definition of clay and clay mineral: joint report of the AIPEA and CMS Nomenclature Committees",
+      "quote": "which is generally plastic at appropriate water contents and will harden when dried or fired.",
+      "url": "https://www.uhu.es/jc.caliani/pdf/Definicion_arcilla.pdf",
+      "evidenceId": "e013113b50999abdb8ae",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "AIPEA/CMS Nomenclature Committees / Clay Minerals",
+      "ref": "Guggenheim & Martin (1995), Definition of clay and clay mineral: joint report of the AIPEA and CMS Nomenclature Committees",
+      "quote": "which is generally plastic at appropriate water contents and will harden when dried or fired.",
+      "url": "https://www.uhu.es/jc.caliani/pdf/Definicion_arcilla.pdf",
+      "evidenceId": "e013113b50999abdb8ae",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "AIPEA/CMS Nomenclature Committees / Clay Minerals",
+      "ref": "Guggenheim & Martin (1995), Definition of clay and clay mineral: joint report of the AIPEA and CMS Nomenclature Committees",
+      "quote": "which is generally plastic at appropriate water contents and will harden when dried or fired.",
+      "url": "https://www.uhu.es/jc.caliani/pdf/Definicion_arcilla.pdf",
+      "evidenceId": "e013113b50999abdb8ae",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "WHO / IPCS",
+      "ref": "Bentonite, Kaolin and Selected Clay Minerals — EHC 231 (2005), §1.1",
+      "quote": "Kaolin or china clay is a mixture of different minerals. Its main component is kaolinite;",
+      "url": "https://www.inchem.org/documents/ehc/ehc/ehc231.htm",
+      "evidenceId": "da688a41ba5f15355e71",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "WHO / IPCS",
+      "ref": "Bentonite, Kaolin and Selected Clay Minerals — EHC 231 (2005), §1.1",
+      "quote": "Kaolin or china clay is a mixture of different minerals. Its main component is kaolinite;",
+      "url": "https://www.inchem.org/documents/ehc/ehc/ehc231.htm",
+      "evidenceId": "da688a41ba5f15355e71",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "WHO / IPCS",
+      "ref": "Bentonite, Kaolin and Selected Clay Minerals — EHC 231 (2005), §1.1",
+      "quote": "Kaolin or china clay is a mixture of different minerals. Its main component is kaolinite;",
+      "url": "https://www.inchem.org/documents/ehc/ehc/ehc231.htm",
+      "evidenceId": "da688a41ba5f15355e71",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "WHO / IPCS",
+      "ref": "Bentonite, Kaolin and Selected Clay Minerals — EHC 231 (2005), §1.1",
+      "quote": "Kaolin or china clay is a mixture of different minerals. Its main component is kaolinite;",
+      "url": "https://www.inchem.org/documents/ehc/ehc/ehc231.htm",
+      "evidenceId": "da688a41ba5f15355e71",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "WHO / IPCS",
+      "ref": "Bentonite, Kaolin and Selected Clay Minerals — EHC 231 (2005), §1.1",
+      "quote": "Kaolin or china clay is a mixture of different minerals. Its main component is kaolinite;",
+      "url": "https://www.inchem.org/documents/ehc/ehc/ehc231.htm",
+      "evidenceId": "da688a41ba5f15355e71",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "한국지질자원연구원",
+      "ref": "장영남(1998), 국내 점토원료광물의 자원화 연구",
+      "quote": "고령토 광물인 카오린 및 불순광물인 석영, 장석, 운모로 구성됨",
+      "url": "https://data.kigam.re.kr/data/RP-29601?lang=ko",
+      "evidenceId": "5ec93321c32e3e03a87a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "한국지질자원연구원",
+      "ref": "장영남(1998), 국내 점토원료광물의 자원화 연구",
+      "quote": "고령토 광물인 카오린 및 불순광물인 석영, 장석, 운모로 구성됨",
+      "url": "https://data.kigam.re.kr/data/RP-29601?lang=ko",
+      "evidenceId": "5ec93321c32e3e03a87a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "한국지질자원연구원",
+      "ref": "장영남(1998), 국내 점토원료광물의 자원화 연구",
+      "quote": "고령토 광물인 카오린 및 불순광물인 석영, 장석, 운모로 구성됨",
+      "url": "https://data.kigam.re.kr/data/RP-29601?lang=ko",
+      "evidenceId": "5ec93321c32e3e03a87a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "AIPEA/CMS Nomenclature Committees / Clay Minerals",
+      "ref": "Guggenheim & Martin (1995), Definition of clay and clay mineral: joint report of the AIPEA and CMS Nomenclature Committees",
+      "quote": "which is generally plastic at appropriate water contents and will harden when dried or fired.",
+      "url": "https://www.uhu.es/jc.caliani/pdf/Definicion_arcilla.pdf",
+      "evidenceId": "e013113b50999abdb8ae",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "원본 및 공식 정답⑤ 이미지 대조. AIPEA/CMS1995 정의·토의, WHO/IPCS2005 광물명, KIGAM1998 연구 초록과 문장별 대조. 대표적 특징 및 조건부 원료명 해석만 검증; 엄밀한 동일시나 출제기관 의도 확인을 주장하지 않음.",
+    "contentHash": "45664e60f9c176677d8c7b5ac7f6220aff42da0d23bef84edce2c3ea12dc21fe"
+  }
+}

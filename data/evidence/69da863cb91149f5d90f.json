@@ -1,0 +1,16 @@
+{
+  "id": "69da863cb91149f5d90f",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "OpenStax University Physics Volume 2 §9.2 Model of Conduction in Metals",
+  "url": "https://openstax.org/books/university-physics-volume-2/pages/9-2-model-of-conduction-in-metals",
+  "excerpt": "the magnitude of the current density, which is the current divided by the area",
+  "sourceHash": "76077ae657c9a3652c429dba4b36be0ab30c599423f153b9337b2587911ed9b0",
+  "cacheSourceId": "d73e6618f1182eaf6c29",
+  "retrievedAt": "2026-11-06T17:46:40.346647+00:00",
+  "reviewedMappings": {
+    "2013-3-02:0": "원본에서 가까운 변 위쪽 전류 확인. I1=JA I2=JA/2, B=mu0I1/(2pi r), 양쪽 긴 변의 힘 차와 상하 변의 대칭 상쇄로 식 유도. a/(d(d+a)) 양수이므로 인력."
+  },
+  "retrievalMethod": "web.open; field/force equations and current-density equations directly reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

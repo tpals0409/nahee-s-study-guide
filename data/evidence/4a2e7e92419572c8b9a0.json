@@ -1,0 +1,16 @@
+{
+  "id": "4a2e7e92419572c8b9a0",
+  "kind": "science",
+  "source": "NIST",
+  "ref": "NIST CCCBDB CO vibrational frequency comparison",
+  "url": "https://cccbdb.nist.gov/compvibs3x.asp?basis=20&casno=630080&charge=0&method=44",
+  "excerpt": "1 Σ 1457 1457 -713 -686 Σ 2170 2143",
+  "sourceHash": "891bc26653c73a717660e9ccf24aeb7307316e0777b58b2d1ff814033316b93c",
+  "cacheSourceId": "01504969d57054871ca9",
+  "retrievedAt": "2026-11-06T17:57:41.863906+00:00",
+  "reviewedMappings": {
+    "2013-3-13:0": "표의 Experimental Fundamental2143cm⁻¹을 확인. 계산값1457 및 실험조화값2170과 구별. CO를 가장 높은파수A에 연결. 이 배정과 모든 선지 순열을 비교하여④만일치."
+  },
+  "retrievalMethod": "web.open and web.find; source table or relevant text directly reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "e46402be1597d4feed36",
+  "kind": "science",
+  "source": "British Geological Survey",
+  "ref": "What causes earthquakes?",
+  "url": "https://www.bgs.ac.uk/discovering-geology/earth-hazards/earthquakes/what-causes-earthquakes/",
+  "excerpt": "Where two plates slide past each other, earthquakes originate at shallow depths.",
+  "sourceHash": "fe47cadd43408b79e014d425c2f2ae6ed059d528577cc0254706197ee560f215",
+  "cacheSourceId": "f226fb608ee9e6812fc2",
+  "retrievedAt": "2026-11-06T22:51:05.574084+00:00",
+  "reviewedMappings": {
+    "2019-3-33:0": "대륙 충돌의 산맥 형성과 습곡 작용을 확인했다.",
+    "2019-3-33:4": "대륙 충돌로 지각이 압축되어 산맥이 만들어지는 설명을 대조했다.",
+    "2019-3-33:5": "보존경계와 수평 이동·천발지진의 대응을 직접 확인했다."
+  },
+  "retrievalMethod": "Direct web open; reviewed continental collision and mountains lines 77–83 and conservative boundary shallow earthquakes lines 85–92.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

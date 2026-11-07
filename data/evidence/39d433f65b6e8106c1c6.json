@@ -1,0 +1,19 @@
+{
+  "id": "39d433f65b6e8106c1c6",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "39.4 Transport of Gases in Human Bodily Fluids",
+  "url": "https://openstax.org/books/biology-2e/pages/39-4-transport-of-gases-in-human-bodily-fluids",
+  "excerpt": "only a small amount of oxygen is transported this way.",
+  "sourceHash": "42035356327f7988bb5e9112786feeedb70fb50b4aa4b14eaed4d43393ac2d78",
+  "cacheSourceId": "93bf21d5ec6336fc162f",
+  "retrievedAt": "2026-11-06T22:42:59.407720+00:00",
+  "reviewedMappings": {
+    "2019-3-26:0": "ㄱ의 헤모글로빈 산소 운반 역할.",
+    "2019-3-26:1": "옳은 ㄱ에 더해 ㄴ도 필요하며, 이 출처는 ㄱ을 뒷받침.",
+    "2019-3-26:2": "누락된 ㄱ의 산소 운반 역할.",
+    "2019-3-26:4": "정답 조합의 ㄱ을 뒷받침."
+  },
+  "retrievalMethod": "Direct web find: 30–37 distinguish dissolved oxygen from hemoglobin-bound oxygen.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "38c75e0d7fac9477da29",
+  "kind": "science",
+  "source": "OpenStax · University Physics Volume 3",
+  "ref": "6.4",
+  "url": "https://openstax.org/books/university-physics-volume-3/pages/6-4-bohrs-model-of-the-hydrogen-atom",
+  "excerpt": "mevnrn=nℏ.",
+  "sourceHash": "a9fdcbae7f43394fbead4a1ac67759cdea50b5a8290620bb168175574f32248b",
+  "cacheSourceId": "46b27289e473530b48f5",
+  "retrievedAt": "2026-11-06T14:44:36.642597+00:00",
+  "reviewedMappings": {
+    "2009-3-03:0": "ㄱ: 원문 식6.34에서 각운동량 mvr=nℏ. ℏ=h/(2π), n과2π는 무차원. 직접 단위분석으로 둘다 kg m²/s=J s."
+  }
+}

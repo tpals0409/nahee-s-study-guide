@@ -1,0 +1,19 @@
+{
+  "id": "d757fa0a4f3f9b64a6fb",
+  "kind": "science",
+  "source": "U.S. Geological Survey (USGS)",
+  "ref": "The Interior of the Earth",
+  "url": "https://pubs.usgs.gov/gip/interior/",
+  "excerpt": "The outer core is presumed to be liquid because it does not transmit shear (S) waves",
+  "sourceHash": "688ab46ac4bde54cc5d3a9a88066f4e034b2523db9f02f0fd181266af830656d",
+  "cacheSourceId": "1b025ad24f484deb7f80",
+  "retrievedAt": "2026-11-06T22:08:32.894531+00:00",
+  "reviewedMappings": {
+    "2018-3-31:0": "원본 C의 PS 간격 최장, B에 직접 S 표시, 동일 지진 규모 구별을 종합하여 ㄷ만=③. 관련 본문과 원본 그림의 독립 판독을 함께 적용.",
+    "2018-3-31:2": "B에 표시된 직접 S파는 액체 외핵을 S파로 통과하지 못함. SKS 등 변환파를 모두 배제하는 일반명제는 아님. 관련 본문과 원본 그림의 독립 판독을 함께 적용.",
+    "2018-3-31:4": "ㄱ 규모 오해 및 ㄴ 직접 S파 외핵 통과 주장이 모두 거짓. 관련 본문과 원본 그림의 독립 판독을 함께 적용.",
+    "2018-3-31:5": "ㄷ은 참이나 ㄴ은 거짓이므로 오답. 관련 본문과 원본 그림의 독립 판독을 함께 적용."
+  },
+  "retrievalMethod": "USGS search-indexed core section and Figure 2 caption reviewed, including S-to-P conversion through the core; direct open also attempted. Applied to the original diagram explicitly labelled direct P and S, not every converted phase.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

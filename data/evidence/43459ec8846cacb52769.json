@@ -1,0 +1,22 @@
+{
+  "id": "43459ec8846cacb52769",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume 1, 6.3 Centripetal Force",
+  "url": "https://openstax.org/books/university-physics-volume-1/pages/6-3-centripetal-force",
+  "excerpt": "Any net force causing uniform circular motion is called a centripetal force.",
+  "sourceHash": "c8f5780eacbd4b6c3b0384f260867a6add1527c46cafbadcc78f5e5a20376760",
+  "cacheSourceId": "749ec5a101fd14404289",
+  "retrievedAt": "2026-11-06T23:51:47.115916+00:00",
+  "reviewedMappings": {
+    "2014-3-07:0": "원문 식6.3 Fc=mrω² 및 수평 원운동의 연직 힘 평형 원리 대조. 원본 그림의 전체 꼭지각을 반각으로 해석하고, 지지력 대신 줄 장력을 성분 분해하여 Tcosα=mg,Tsinα=mω²r 독립 유도. 출처의 도로 예제를 이 문항의 원뿔진자 그림이라고 오인하지 않음. Fraction 검산으로③⑤ 확인.",
+    "2021-3-05:0": "Resolve tension using angle from vertical; Tcos30=mg and Tsin30=ma yield a/g=1/sqrt3.",
+    "2021-3-05:1": "T is mg/cos30, not mg; sin30 alone underestimates a/g.",
+    "2021-3-05:2": "Correct component division yields tan30=1/sqrt3.",
+    "2021-3-05:3": "cos30=sqrt3/2 differs from required tan30.",
+    "2021-3-05:4": "tan60=sqrt3 uses complementary angle incorrectly.",
+    "2021-3-05:5": "2 differs from required horizontal/vertical force ratio tan30."
+  },
+  "retrievalMethod": "Original examination diagram checked: string angle 30 degrees measured from vertical, horizontal circular path. Direct OpenStax 6.3 lines 30–44 reviewed for centripetal acceleration and Newton second law, lines 94–105 for resolving an inclined supporting force with zero vertical acceleration. Source example is a banked car, not a conical pendulum; independently apply component equations to string tension T: Tcos30=mg, Tsin30=ma. Divide to obtain a/g=tan30=1/sqrt3; check all options. No separate extra centripetal force added.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

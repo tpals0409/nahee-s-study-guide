@@ -1,0 +1,151 @@
+{
+  "id": "2021-3-17",
+  "summary": "각마디 수는 ℓ이고 방사 방향 마디 수는 n−ℓ−1입니다. B는 각마디 수가 2이므로 ℓ=2이고, 방사 마디가 0이므로 n+1=3, 즉 n=2입니다. A는 n=2이고 방사 마디가 0이므로 ℓ=1이며, 따라서 x=1입니다(2p 오비탈). 옳은 것은 ㄱ뿐입니다.",
+  "choices": [
+    "ㄱ만 고른 선지: 정답입니다. A는 2p 오비탈이므로 각마디 수 x=ℓ=1이어서 ㄱ은 옳습니다. B가 3d이므로 n=2가 되어 ㄴ은 틀리고, A의 ℓ=1이므로 ㄷ도 틀립니다.",
+    "ㄷ만 고른 선지: 오답입니다. A의 방사 마디 수 0=n−ℓ−1에 n=2를 대입하면 ℓ=1이므로 ℓ=0이라는 ㄷ은 틀립니다. 또한 옳은 진술인 ㄱ이 빠져 있습니다.",
+    "ㄱ, ㄴ을 고른 선지: 오답입니다. x=1이므로 ㄱ은 옳습니다. 그러나 B의 주양자수는 n+1이고, 0=(n+1)−2−1에서 n=2입니다. 3은 n 자체가 아니라 B의 주양자수 n+1의 값이므로 ㄴ은 틀립니다.",
+    "ㄴ, ㄷ을 고른 선지: 오답입니다. n=2이므로 ㄴ이 틀리고, A의 ℓ=1이므로 ㄷ도 틀립니다. 또한 옳은 ㄱ이 빠져 있습니다.",
+    "ㄱ, ㄴ, ㄷ을 고른 선지: 오답입니다. x=1인 ㄱ만 옳습니다. n의 실제 값은 2이므로 ㄴ의 n=3은 틀리고, A의 ℓ은 1이므로 ㄷ의 ℓ=0도 틀립니다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "University of Calgary",
+      "ref": "The Pauli Exclusion Principle — Working with Quantum Numbers",
+      "quote": "The number of radial nodes is equal to n – l – 1.",
+      "url": "https://chem-textbook.ucalgary.ca/version2/chapter-6-main/development-of-quantum-theory/the-pauli-exclusion-principle/",
+      "evidenceId": "c5c0e3c944b8401da945",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "University of Calgary",
+      "ref": "The Pauli Exclusion Principle — Working with Quantum Numbers",
+      "quote": "The number of radial nodes is equal to n – l – 1.",
+      "url": "https://chem-textbook.ucalgary.ca/version2/chapter-6-main/development-of-quantum-theory/the-pauli-exclusion-principle/",
+      "evidenceId": "c5c0e3c944b8401da945",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "University of Calgary",
+      "ref": "The Pauli Exclusion Principle — Working with Quantum Numbers",
+      "quote": "The number of radial nodes is equal to n – l – 1.",
+      "url": "https://chem-textbook.ucalgary.ca/version2/chapter-6-main/development-of-quantum-theory/the-pauli-exclusion-principle/",
+      "evidenceId": "c5c0e3c944b8401da945",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "University of Calgary",
+      "ref": "The Pauli Exclusion Principle — Working with Quantum Numbers",
+      "quote": "The number of radial nodes is equal to n – l – 1.",
+      "url": "https://chem-textbook.ucalgary.ca/version2/chapter-6-main/development-of-quantum-theory/the-pauli-exclusion-principle/",
+      "evidenceId": "c5c0e3c944b8401da945",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "University of Calgary",
+      "ref": "The Pauli Exclusion Principle — Working with Quantum Numbers",
+      "quote": "The number of radial nodes is equal to n – l – 1.",
+      "url": "https://chem-textbook.ucalgary.ca/version2/chapter-6-main/development-of-quantum-theory/the-pauli-exclusion-principle/",
+      "evidenceId": "c5c0e3c944b8401da945",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "University of Calgary",
+      "ref": "The Pauli Exclusion Principle — Working with Quantum Numbers",
+      "quote": "The number of radial nodes is equal to n – l – 1.",
+      "url": "https://chem-textbook.ucalgary.ca/version2/chapter-6-main/development-of-quantum-theory/the-pauli-exclusion-principle/",
+      "evidenceId": "c5c0e3c944b8401da945",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "Texas A&M University — Chemistry",
+      "ref": "CHEM 362, Lecture 1, Fall 2020",
+      "quote": "# Angular Nodes = l",
+      "url": "https://www.chem.tamu.edu/rgroup/marcetta/chem362/lectures/Lecture%201%20Fall%202020.pdf",
+      "evidenceId": "f3d5e9821c4ada7dcdad",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "Texas A&M University — Chemistry",
+      "ref": "CHEM 362, Lecture 1, Fall 2020",
+      "quote": "# Angular Nodes = l",
+      "url": "https://www.chem.tamu.edu/rgroup/marcetta/chem362/lectures/Lecture%201%20Fall%202020.pdf",
+      "evidenceId": "f3d5e9821c4ada7dcdad",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "Texas A&M University — Chemistry",
+      "ref": "CHEM 362, Lecture 1, Fall 2020",
+      "quote": "# Angular Nodes = l",
+      "url": "https://www.chem.tamu.edu/rgroup/marcetta/chem362/lectures/Lecture%201%20Fall%202020.pdf",
+      "evidenceId": "f3d5e9821c4ada7dcdad",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "Texas A&M University — Chemistry",
+      "ref": "CHEM 362, Lecture 1, Fall 2020",
+      "quote": "# Angular Nodes = l",
+      "url": "https://www.chem.tamu.edu/rgroup/marcetta/chem362/lectures/Lecture%201%20Fall%202020.pdf",
+      "evidenceId": "f3d5e9821c4ada7dcdad",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "Texas A&M University — Chemistry",
+      "ref": "CHEM 362, Lecture 1, Fall 2020",
+      "quote": "# Angular Nodes = l",
+      "url": "https://www.chem.tamu.edu/rgroup/marcetta/chem362/lectures/Lecture%201%20Fall%202020.pdf",
+      "evidenceId": "f3d5e9821c4ada7dcdad",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "Texas A&M University — Chemistry",
+      "ref": "CHEM 362, Lecture 1, Fall 2020",
+      "quote": "# Angular Nodes = l",
+      "url": "https://www.chem.tamu.edu/rgroup/marcetta/chem362/lectures/Lecture%201%20Fall%202020.pdf",
+      "evidenceId": "f3d5e9821c4ada7dcdad",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Original table visually checked; independently substituted angular/radial node equations; university teaching sources mapped to every option; source retrieval scope recorded.",
+    "contentHash": "093a6309e51669e921dcf8380514dd4cd04b5b009fa8a31e9233643439cd48bb"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "85e4da92cced7853b23b",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e, 16.5 Eukaryotic Post-transcriptional Gene Regulation",
+  "url": "https://openstax.org/books/biology-2e/pages/16-5-eukaryotic-post-transcriptional-gene-regulation",
+  "excerpt": "either impede translation of the message or lead to the degradation of the mRNA.",
+  "sourceHash": "45f9ae3948a115b716a0ebdc33dc60b9e9519c028cfec726e871550ca4dec3b9",
+  "cacheSourceId": "1134e49235d392eb029d",
+  "retrievedAt": "2026-11-07T00:20:07.405030+00:00",
+  "reviewedMappings": {
+    "2021-3-27:2": "RNA Splicing and Control of RNA Stability sections locate intron removal, capping and poly-A addition before nuclear export; review concerns ordinary nuclear pre-mRNA maturation.",
+    "2021-3-27:5": "RNA Stability and microRNAs describes miRNA/RISC base pairing to target mRNA and inhibition of translation or mRNA degradation; regulatory RNA rather than polypeptide template."
+  },
+  "retrievalMethod": "Direct page review: RNA Splicing and Control of RNA Stability, lines 31–32, 51–52, 60–61. Quote selected from miRNA paragraph.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

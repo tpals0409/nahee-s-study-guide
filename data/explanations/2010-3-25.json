@@ -1,0 +1,30 @@
+{
+  "summary": "ㄱ(B 세포는 림프구로서 항체를 만들어 체액성 면역을 담당함)과 ㄴ(호중구는 가장 흔한 백혈구이자 식세포임)은 옳습니다. ㄷ은 무과립 백혈구인 단핵구에 호산구의 특징(뚜렷한 과립, 기생충 방어)을 붙인 설명이므로 틀립니다. 따라서 정답은 'ㄱ, ㄴ'입니다.",
+  "choices": [
+    "① ㄱ만 고르면 오답입니다. B 세포는 림프구이며 형질세포로 분화해 항체를 분비하는 체액성 면역에 관여합니다. 그러나 ㄴ도 옳으므로 빠진 진술이 있습니다.",
+    "'ㄴ'만 고른 보기는 오답입니다. ㄴ은 옳습니다. 호중구는 사람 혈액 백혈구의 약 50~70%를 차지하는 가장 흔한 백혈구이고, 세균 등을 식세포작용으로 처리합니다. 그러나 ㄱ도 옳으므로 ㄴ만 고르는 것은 불완전합니다.",
+    "'ㄱ, ㄴ'을 고른 보기가 정답입니다. ㄱ(B 세포는 림프구이며 체액성 면역에 관여)과 ㄴ(호중구는 가장 흔한 백혈구이며 식세포작용을 함)은 모두 옳고, ㄷ은 틀리기 때문입니다.",
+    "④ ㄴ, ㄷ은 오답입니다. 단핵구는 무과립 백혈구로 분류되며 조직에서 대식세포로 분화해 식세포작용을 합니다. 뚜렷한 과립을 가지고 기생충 방어에 관여하는 대표적인 백혈구는 호산구이므로 ㄷ은 틀렸습니다. ㄱ도 빠져 있습니다.",
+    "'ㄱ, ㄴ, ㄷ'을 고른 보기는 오답입니다. 앞에서 설명했듯이 ㄷ은 호산구의 특징을 단핵구에 잘못 붙인 진술이므로 포함하면 안 됩니다."
+  ],
+  "lawNote": "호중구가 가장 흔하다는 설명은 사람의 일반적인 말초혈액 백혈구 분포 기준입니다. 무과립구는 특징적인 과립이 뚜렷하지 않다는 분류이며, 세포 안에 모든 종류의 과립이 전혀 없다는 뜻은 아닙니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax · Anatomy and Physiology 2e",
+      "ref": "18.4 Leukocytes and Platelets",
+      "quote": "Neutrophils are rapid responders to the site of infection and are efficient phagocytes with a preference for bacteria.",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/18-4-leukocytes-and-platelets",
+      "evidenceId": "cf85261c6e3512b99599",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "교재 neutrophil 50–70%·식세포, B lymphocyte/plasma cell·humoral immunity, eosinophil의 parasitic worms 독성 과립 및 monocyte/macrophage 설명 대조. 인간 혈액 기준임을 명시하고 모든 척추동물의 동일 비율로 일반화하지 않음.",
+    "contentHash": "24cadfe7928b3e872396f6065a7cb05240ee12e71dea26ad60eda801e5ee5f05"
+  }
+}

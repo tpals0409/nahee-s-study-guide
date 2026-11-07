@@ -1,0 +1,85 @@
+{
+  "id": "2021-3-25",
+  "summary": "감수분열 I 전기에는 상동염색체의 비자매염색분체 사이에서 교차가 일어납니다. 감수분열 II 후기에는 자매염색분체가 분리됩니다. DNA 복제는 감수분열 I에 앞선 간기의 S기에 한 번 일어나며, I과 II 사이에는 다시 복제하지 않습니다. 따라서 ㄱ과 ㄴ은 옳고 ㄷ은 틀립니다.",
+  "choices": [
+    "ㄱ만 고른 선지는 오답입니다. ㄱ은 옳지만, 감수분열 II에서 자매염색분체가 분리된다는 ㄴ도 옳은데 이를 빠뜨렸습니다.",
+    "ㄴ만 고른 선지는 오답입니다. ㄴ은 옳지만, 감수분열 I 전기에 상동염색체의 비자매염색분체 사이에서 교차가 일어난다는 ㄱ도 옳은데 이를 빠뜨렸습니다.",
+    "ㄷ만 고른 선지는 오답입니다. DNA 복제는 감수분열이 시작되기 전 간기(S기)에 한 번만 일어납니다. 감수분열 I과 II 사이의 중간기(interkinesis)에는 복제가 없으므로 ㄷ은 틀린 진술입니다.",
+    "ㄱ, ㄴ: 정답입니다. 교차는 감수분열 I 전기에 상동염색체의 비자매염색분체 사이에서 일어납니다. 감수분열 II 후기에는 자매염색분체가 분리되어 양극으로 이동합니다. 따라서 두 진술은 옳으며, DNA 복제가 두 번이라는 ㄷ은 틀립니다.",
+    "ㄱ, ㄷ: 오답입니다. 교차에 관한 ㄱ은 옳지만 DNA 복제가 두 번이라는 ㄷ은 틀립니다. 감수분열 전에 한 번 복제한 뒤, I에서 상동염색체가 분리되고 II에서 자매염색분체가 분리됩니다. 옳은 ㄴ도 빠져 있습니다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax Biology 2e",
+      "ref": "11.1 The Process of Meiosis",
+      "quote": "one round of chromosome replication followed by two rounds of nuclear division",
+      "url": "https://openstax.org/books/biology-2e/pages/11-1-the-process-of-meiosis",
+      "evidenceId": "1da804400d24c98a7f58",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax Biology 2e",
+      "ref": "11.1 The Process of Meiosis",
+      "quote": "one round of chromosome replication followed by two rounds of nuclear division",
+      "url": "https://openstax.org/books/biology-2e/pages/11-1-the-process-of-meiosis",
+      "evidenceId": "1da804400d24c98a7f58",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax Biology 2e",
+      "ref": "11.1 The Process of Meiosis",
+      "quote": "one round of chromosome replication followed by two rounds of nuclear division",
+      "url": "https://openstax.org/books/biology-2e/pages/11-1-the-process-of-meiosis",
+      "evidenceId": "1da804400d24c98a7f58",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax Biology 2e",
+      "ref": "11.1 The Process of Meiosis",
+      "quote": "one round of chromosome replication followed by two rounds of nuclear division",
+      "url": "https://openstax.org/books/biology-2e/pages/11-1-the-process-of-meiosis",
+      "evidenceId": "1da804400d24c98a7f58",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax Biology 2e",
+      "ref": "11.1 The Process of Meiosis",
+      "quote": "one round of chromosome replication followed by two rounds of nuclear division",
+      "url": "https://openstax.org/books/biology-2e/pages/11-1-the-process-of-meiosis",
+      "evidenceId": "1da804400d24c98a7f58",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax Biology 2e",
+      "ref": "11.1 The Process of Meiosis",
+      "quote": "one round of chromosome replication followed by two rounds of nuclear division",
+      "url": "https://openstax.org/books/biology-2e/pages/11-1-the-process-of-meiosis",
+      "evidenceId": "1da804400d24c98a7f58",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Reviewed meiotic crossing over, sister-chromatid separation and premeiotic replication against textbook; independently tracked ploidy and DNA content; checked every combination.",
+    "contentHash": "ff08780fb87faa3eadaeb41cf16e830efe791b608c71874c185facc6c6e468e6"
+  }
+}

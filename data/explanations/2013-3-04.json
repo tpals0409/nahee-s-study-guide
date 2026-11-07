@@ -1,0 +1,41 @@
+{
+  "summary": "정답은 ④ 3g/2입니다. 끝점축에 대한 관성모멘트는 I=ML²/3이고, 놓는 순간 중력의 토크는 τ=MgL/2입니다. 따라서 α=τ/I=3g/(2L), 자유단의 접선가속도는 aₜ=Lα=3g/2입니다.",
+  "choices": [
+    "aₜ=2g/3이면 α=2g/(3L), 필요한 토크는 Iα=2MgL/9입니다. 실제 중력 토크 MgL/2와 다릅니다.",
+    "aₜ=5g/4이면 필요한 토크는 I(aₜ/L)=5MgL/12로, 실제 MgL/2보다 작습니다.",
+    "aₜ=4g/3이면 필요한 토크는 4MgL/9로, 실제 MgL/2와 일치하지 않습니다.",
+    "aₜ=3g/2이면 I(aₜ/L)=(ML²/3)×3g/(2L)=MgL/2입니다. 중력 토크와 일치하므로 정답입니다.",
+    "aₜ=5g/2이면 필요한 토크는 5MgL/6으로, 실제 MgL/2보다 큽니다."
+  ],
+  "lawNote": "중력은 질량중심에 작용하므로 토크의 팔 길이는 L/2이지만, 구하는 점은 자유단이므로 aₜ=αL을 사용합니다. 회전축의 힘은 그 축에 대한 토크를 만들지 않습니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "OpenStax University Physics Volume 1 §10.7 Newton’s Second Law for Rotation",
+      "quote": "the sum of the torques equals the moment of inertia times the angular acceleration",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/10-7-newtons-second-law-for-rotation",
+      "evidenceId": "cca8bd2f1c82b0bc4657",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "OpenStax University Physics Volume 1 §10.5 Calculating Moments of Inertia",
+      "quote": "A uniform thin rod with axis at the end",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/10-5-calculating-moments-of-inertia",
+      "evidenceId": "694f0aba335153db5622",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "원본 2013-3-04_1.webp 조건과 선지 확인. OpenStax 끝점축 막대 적분 및 회전 운동방정식 직접 대조. α=3g/(2L), a=3g/2 검산. 오답의 추측성 원인을 제거하고 요구 토크를 역산. 저장 정답④ 일치.",
+    "contentHash": "875c172799c0f935892b820f8a0d18dc1cf10d5c3c08ce242c74914f26beaebd"
+  }
+}

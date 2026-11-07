@@ -1,0 +1,16 @@
+{
+  "id": "ec936259fefe7c532cbc",
+  "kind": "science",
+  "source": "Columbia University · Biological Sciences",
+  "ref": "Lecture 14 · I.A.2",
+  "url": "https://www.columbia.edu/cu/biology/courses/c200506/lectures/lec14_06.html",
+  "excerpt": "tRNA/mRNA pairing is antiparallel",
+  "sourceHash": "7e6d0eeacc3157938f8293523d5c27ff50ea844a6c8652554b2fb95f63f313b2",
+  "cacheSourceId": "222e37c5dc9065802ded",
+  "retrievedAt": "2026-11-06T15:17:52.705998+00:00",
+  "reviewedMappings": {
+    "2009-3-28:0": "원본2009-3-28_1.webp 표와5to3표기 직접대조. codonsGCC/CGU/GCA의 역상보GGC/ACG/UGC 계산. 표의Ala/Arg/Ala와대조해1번. Columbia생물학강의I.A.2 역평행 및5to3읽기 확인. 완전한번역개시서열이아닌 제시된readingframe의부분서열 문제로해석."
+  },
+  "retrievalMethod": "web tool open/find; I.A.2 and II.B directions inspected",
+  "sourceHashScope": "reviewed excerpt only; hash is excerpt hash"
+}

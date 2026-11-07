@@ -1,0 +1,151 @@
+{
+  "id": "2026-3-11",
+  "lawNote": "",
+  "summary": "정답은 ③ 6개입니다. 불포화도는 (2×6+2−12)/2=1이며, 케톤의 C=O가 이를 모두 차지합니다. 따라서 고리나 다른 다중결합 없이 R–CO–R′을 구성합니다. 카보닐 탄소를 제외한 5개의 탄소를 1+4 또는 2+3으로 나누면 각각 4개와 2개, 합계 6개의 구조가 나옵니다.",
+  "choices": [
+    "4: 오답입니다. 1+4 탄소 조합에서 4개가 나오지만, 2+3 조합의 2개도 포함해야 합니다.",
+    "5: 오답입니다. 메틸기와 부틸기의 조합 4개, 에틸기와 프로필기의 조합 2개로 총 6개입니다.",
+    "6: 정답입니다. CH₃COCH₂CH₂CH₂CH₃, CH₃COCH(CH₃)CH₂CH₃, CH₃COCH₂CH(CH₃)₂, CH₃COC(CH₃)₃, CH₃CH₂COCH₂CH₂CH₃, CH₃CH₂COCH(CH₃)₂의 여섯 연결 구조입니다.",
+    "7: 오답입니다. 가능한 연결 구조는 6개입니다. 같은 연결 구조의 입체 배치를 따로 세지 않으며, R과 R′의 좌우 교환도 새 구조를 만들지 않습니다.",
+    "8: 오답입니다. 탄소 수를 1+4와 2+3으로 분류하면 중복 없이 6개입니다. 알데하이드는 케톤이 아니며, 고리형 케톤은 C=O 외에 불포화도가 하나 더 필요합니다."
+  ],
+  "basis": [
+    {
+      "kind": "science",
+      "source": "UCLA Department of Chemistry and Biochemistry",
+      "ref": "Illustrated Glossary of Organic Chemistry — Ketone",
+      "quote": "A functional group characterized by a carbonyl group flanked by two carbons of any hybridization.",
+      "url": "https://www.chem.ucla.edu/~harding/IGOC/K/ketone.html",
+      "evidenceId": "bd99eed8246f9dcab9aa",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "UCLA Department of Chemistry and Biochemistry",
+      "ref": "Illustrated Glossary of Organic Chemistry — Ketone",
+      "quote": "A functional group characterized by a carbonyl group flanked by two carbons of any hybridization.",
+      "url": "https://www.chem.ucla.edu/~harding/IGOC/K/ketone.html",
+      "evidenceId": "bd99eed8246f9dcab9aa",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "UCLA Department of Chemistry and Biochemistry",
+      "ref": "Illustrated Glossary of Organic Chemistry — Ketone",
+      "quote": "A functional group characterized by a carbonyl group flanked by two carbons of any hybridization.",
+      "url": "https://www.chem.ucla.edu/~harding/IGOC/K/ketone.html",
+      "evidenceId": "bd99eed8246f9dcab9aa",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "UCLA Department of Chemistry and Biochemistry",
+      "ref": "Illustrated Glossary of Organic Chemistry — Ketone",
+      "quote": "A functional group characterized by a carbonyl group flanked by two carbons of any hybridization.",
+      "url": "https://www.chem.ucla.edu/~harding/IGOC/K/ketone.html",
+      "evidenceId": "bd99eed8246f9dcab9aa",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "UCLA Department of Chemistry and Biochemistry",
+      "ref": "Illustrated Glossary of Organic Chemistry — Ketone",
+      "quote": "A functional group characterized by a carbonyl group flanked by two carbons of any hybridization.",
+      "url": "https://www.chem.ucla.edu/~harding/IGOC/K/ketone.html",
+      "evidenceId": "bd99eed8246f9dcab9aa",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "UCLA Department of Chemistry and Biochemistry",
+      "ref": "Illustrated Glossary of Organic Chemistry — Ketone",
+      "quote": "A functional group characterized by a carbonyl group flanked by two carbons of any hybridization.",
+      "url": "https://www.chem.ucla.edu/~harding/IGOC/K/ketone.html",
+      "evidenceId": "bd99eed8246f9dcab9aa",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Organic Chemistry, 7.2 Calculating the Degree of Unsaturation",
+      "quote": "Ignore the number of oxygens.",
+      "url": "https://openstax.org/books/organic-chemistry/pages/7-2-calculating-the-degree-of-unsaturation",
+      "evidenceId": "79b214ee77f43b0e2697",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Organic Chemistry, 7.2 Calculating the Degree of Unsaturation",
+      "quote": "Ignore the number of oxygens.",
+      "url": "https://openstax.org/books/organic-chemistry/pages/7-2-calculating-the-degree-of-unsaturation",
+      "evidenceId": "79b214ee77f43b0e2697",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Organic Chemistry, 7.2 Calculating the Degree of Unsaturation",
+      "quote": "Ignore the number of oxygens.",
+      "url": "https://openstax.org/books/organic-chemistry/pages/7-2-calculating-the-degree-of-unsaturation",
+      "evidenceId": "79b214ee77f43b0e2697",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Organic Chemistry, 7.2 Calculating the Degree of Unsaturation",
+      "quote": "Ignore the number of oxygens.",
+      "url": "https://openstax.org/books/organic-chemistry/pages/7-2-calculating-the-degree-of-unsaturation",
+      "evidenceId": "79b214ee77f43b0e2697",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Organic Chemistry, 7.2 Calculating the Degree of Unsaturation",
+      "quote": "Ignore the number of oxygens.",
+      "url": "https://openstax.org/books/organic-chemistry/pages/7-2-calculating-the-degree-of-unsaturation",
+      "evidenceId": "79b214ee77f43b0e2697",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Organic Chemistry, 7.2 Calculating the Degree of Unsaturation",
+      "quote": "Ignore the number of oxygens.",
+      "url": "https://openstax.org/books/organic-chemistry/pages/7-2-calculating-the-degree-of-unsaturation",
+      "evidenceId": "79b214ee77f43b0e2697",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Original formula and options inspected; independently enumerated all six condensed connectivity structures by unordered carbon partitions; checked carbon/hydrogen totals; directly reviewed ketone and unsaturation definitions; canonical answer [3] agrees.",
+    "contentHash": "679641aa17591a40ff5f342b7e726602a670a62397d50c80b1c09a04c544cc1c"
+  }
+}

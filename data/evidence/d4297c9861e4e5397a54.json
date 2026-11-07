@@ -1,0 +1,21 @@
+{
+  "id": "d4297c9861e4e5397a54",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 2e §3.3 — Molarity",
+  "url": "https://openstax.org/books/chemistry-2e/pages/3-3-molarity",
+  "excerpt": "Molarity is defined as the number of moles of solute in exactly 1 liter (1 L) of the solution:",
+  "sourceHash": "1a54b2dbe6d4cf4b5b7f68d2e5952dae655c6c5daa15304c9920296aa9e2a1ec",
+  "cacheSourceId": "333d4678cf488c222d79",
+  "retrievedAt": "2026-11-06T21:51:30.996659+00:00",
+  "reviewedMappings": {
+    "2018-3-14:0": "몰농도 정의와 몰수=농도×L 단위 부피 식 직접 검토. 문제 수치에 독립 적용: 0.050×0.0400=0.0020 mol K₂Cr₂O₇, 에탄올 0.0010 mol. 모든 선지 수치 비교에 적용.",
+    "2018-3-14:1": "몰농도 정의와 몰수=농도×L 단위 부피 식 직접 검토. 문제 수치에 독립 적용: 0.050×0.0400=0.0020 mol K₂Cr₂O₇, 에탄올 0.0010 mol. 모든 선지 수치 비교에 적용.",
+    "2018-3-14:2": "몰농도 정의와 몰수=농도×L 단위 부피 식 직접 검토. 문제 수치에 독립 적용: 0.050×0.0400=0.0020 mol K₂Cr₂O₇, 에탄올 0.0010 mol. 모든 선지 수치 비교에 적용.",
+    "2018-3-14:3": "몰농도 정의와 몰수=농도×L 단위 부피 식 직접 검토. 문제 수치에 독립 적용: 0.050×0.0400=0.0020 mol K₂Cr₂O₇, 에탄올 0.0010 mol. 모든 선지 수치 비교에 적용.",
+    "2018-3-14:4": "몰농도 정의와 몰수=농도×L 단위 부피 식 직접 검토. 문제 수치에 독립 적용: 0.050×0.0400=0.0020 mol K₂Cr₂O₇, 에탄올 0.0010 mol. 모든 선지 수치 비교에 적용.",
+    "2018-3-14:5": "몰농도 정의와 몰수=농도×L 단위 부피 식 직접 검토. 문제 수치에 독립 적용: 0.050×0.0400=0.0020 mol K₂Cr₂O₇, 에탄올 0.0010 mol. 모든 선지 수치 비교에 적용."
+  },
+  "retrievalMethod": "Direct web open; relevant definition and equations reviewed; selected verbatim excerpt retained",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

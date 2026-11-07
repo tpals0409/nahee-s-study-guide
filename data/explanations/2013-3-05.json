@@ -1,0 +1,41 @@
+{
+  "summary": "정답은 ③, 전위차 6 V와 에너지 60 J입니다. a를 0 V, b를 V로 두면 접점법칙은 (12−V)/2−V/3+(5−V)/1=0입니다. 따라서 V=6 V이고, 3Ω 저항에서 5초 동안 소모되는 에너지는 E=(V²/R)t=(36/3)×5=60 J입니다.",
+  "choices": [
+    "|ΔV_ab| = 3 V, E = 15 J: 오답입니다. 3Ω에 3 V가 걸린다면 P = 3²/3 = 3 W, E = 15 J로 두 값끼리는 서로 맞습니다. 그러나 실제 a-b 전위차는 6 V이므로 틀립니다.",
+    "|ΔV_ab| = 3 V, E = 30 J: 오답입니다. 전위차 3 V부터 틀렸습니다. 또 3 V라면 E는 15 J가 되어야 하므로 두 값끼리도 서로 맞지 않습니다.",
+    "|ΔV_ab| = 6 V, E = 60 J: 정답입니다. 마디방정식에서 V = 6 V가 나옵니다. 3Ω의 전류는 I = 6/3 = 2 A, 전력은 P = I²R = 12 W이고, E = 12 W × 5 s = 60 J입니다.",
+    "|ΔV_ab| = 9 V, E = 135 J: 오답입니다. 9 V라면 9²/3 × 5 = 135 J로 두 값끼리는 맞습니다. 하지만 세 가지에서 b로 들어가는 전류의 합이 0이 되는 조건을 만족하지 않습니다. 예를 들어 9 V를 넣으면 (12−9)/2 − 9/3 + (5−9)/1 = −5.5 A ≠ 0입니다.",
+    "|ΔV_ab| = 12 V, E = 240 J: 오답입니다. 12 V는 12 V 전지의 기전력을 그대로 a-b 전압으로 본 값입니다. 2Ω에서의 전압강하와 다른 가지의 영향을 무시했습니다. 마디방정식을 만족하지 않습니다."
+  ],
+  "lawNote": "두 전지의 긴 극판(+)은 그림에서 오른쪽입니다. 세 가지의 저항을 모두 단순 병렬로 합치면 전지의 영향을 놓치므로, 각 가지의 전지와 저항을 함께 고려해야 합니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax · University Physics Volume 2",
+      "ref": "10.3",
+      "quote": "The sum of all currents entering a junction must equal the sum of all currents leaving the junction:",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/10-3-kirchhoffs-rules",
+      "evidenceId": "264806709b69da0411ca",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "OpenStax University Physics Volume 2 §9.5 Electrical Energy and Power",
+      "quote": "The power dissipated by a resistor has the form",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/9-5-electrical-energy-and-power",
+      "evidenceId": "2df238248735577b3518",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "원본 2013-3-05.webp의 연결, 극판 길이, 저항, 시간 및 선지 직접 확인. OpenStax 접점·폐회로 법칙 및 저항 전력식 직접 대조. 유리수 계산으로 V=6, E=60 및 가지전류 보존 검산; 저장 정답③ 일치.",
+    "contentHash": "b4253bcf764f66fffbc7ded6f803d6d593fa8e6aee3badeafdc5060bab14033c"
+  }
+}

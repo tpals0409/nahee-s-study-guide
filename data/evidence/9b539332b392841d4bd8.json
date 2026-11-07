@@ -1,0 +1,21 @@
+{
+  "id": "9b539332b392841d4bd8",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 2e, 12.4 Integrated Rate Laws",
+  "url": "https://openstax.org/books/chemistry-2e/pages/12-4-integrated-rate-laws",
+  "excerpt": "The integrated rate law for a zero-order reaction is a linear function",
+  "sourceHash": "61b3e2dae97cb22b54f5a62a40481523d666b09824524955994fabadbaf64f37",
+  "cacheSourceId": "684848cc67bfece87299",
+  "retrievedAt": "2026-11-06T23:57:37.350131+00:00",
+  "reviewedMappings": {
+    "2021-3-12:0": "Integrated disappearance laws and supplied stoichiometry yield C=.3160603,E=.5,I=.4 M; correct order C<I<E.",
+    "2021-3-12:1": "E=.5>I=.4 contradicts proposed E<I.",
+    "2021-3-12:2": "Computed C=.3160603<I=.4<E=.5 agrees.",
+    "2021-3-12:3": "E is largest, not smaller than C.",
+    "2021-3-12:4": "Proposed reverse order contradicts all computed magnitudes.",
+    "2021-3-12:5": "C<I, not I<C."
+  },
+  "retrievalMethod": "Original exam table and coefficient/units checked. Rates are explicitly disappearance derivatives, not stoichiometrically normalized reaction rates, so no extra factor 2 in integration. Direct OpenStax Chemistry2e12.4 lines 36–43,120–125,203–210,231–242 and Table12.2 reviewed. Independently integrate the three given ODEs then apply original stoichiometry at constant volume, with initially absent products as decomposition setup. A=e^-1, D=1/2, G=1/5; C=(1-e^-1)/2, E=1/2, I=2/5. Also ln2 supplied gives 0.69<1<1.38 hours, so 1/4<A<1/2 and 1/4<C<3/8<2/5. Verified all option orders.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

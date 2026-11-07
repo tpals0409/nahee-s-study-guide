@@ -1,0 +1,21 @@
+{
+  "id": "b70fa785a2ca7da07046",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e §13.1 Chromosomal Theory and Genetic Linkage",
+  "url": "https://openstax.org/books/biology-2e/pages/13-1-chromosomal-theory-and-genetic-linkage",
+  "excerpt": "50 percent of offspring are recombinants and the other 50 percent are parental types.",
+  "sourceHash": "a51906eb47e64b8d9fcc3e77cbe6ca8a30a4fe700696579c45ba3f0581c7c03c",
+  "cacheSourceId": "27b300e32efd997fa1da",
+  "retrievedAt": "2026-11-06T21:14:32.045301+00:00",
+  "reviewedMappings": {
+    "2017-3-21:0": "검정교배의 부모형/재조합형 구별 및 AaBb×aabb 재조합빈도 분수 예시를 적용. 원본 AB/ab에서 재조합은Ab와aB이며40/400=10%.",
+    "2017-3-21:1": "전체400에서0.1%는0.4에 대응하므로 관측40과 불일치.",
+    "2017-3-21:2": "전체400에서1%는4이므로 관측40과 불일치.",
+    "2017-3-21:3": "5%는20/400. 두 재조합 부류18과22를 모두 합해야 함.",
+    "2017-3-21:4": "Ab18+aB22=40; 전체400의10%로 일치.",
+    "2017-3-21:5": "20%는80/400으로 관측 재조합40과 불일치."
+  },
+  "retrievalMethod": "Direct browser review of Figure 13.3 and Genetic Maps testcross calculation",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

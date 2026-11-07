@@ -1,0 +1,16 @@
+{
+  "id": "2135b27a88e20a550dd6",
+  "kind": "science",
+  "source": "NASA",
+  "ref": "Asteroid Facts — Introduction",
+  "url": "https://science.nasa.gov/solar-system/asteroids/facts/",
+  "excerpt": "between Mars and Jupiter",
+  "sourceHash": "07b5b02552e3e30656c0e833f5eb1d7548a7a5befed844743490f3f16a36b5a5",
+  "cacheSourceId": "23423aa6752a5c9385de",
+  "retrievedAt": "2026-11-06T16:09:20.692823+00:00",
+  "reviewedMappings": {
+    "2010-3-40:0": "ㄱ: 대부분의 소행성이 위치한 주 소행성대 문맥. ㄴ: 주 소행성대만이 아닌 전체 소행성 질량을 달과 비교하는 명시적 문장."
+  },
+  "retrievalMethod": "web.open/web.find NASA body read; selected excerpts transcribed (table uses web-rendered cell separators)",
+  "sourceHashScope": "Selected excerpts only; not full page"
+}

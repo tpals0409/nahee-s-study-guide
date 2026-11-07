@@ -1,0 +1,14 @@
+{
+  "id": "1708c4c15b24f12b995e",
+  "kind": "science",
+  "source": "OpenStax · Biology 2e",
+  "ref": "15.4 RNA Processing in Eukaryotes",
+  "url": "https://openstax.org/books/biology-2e/pages/15-4-rna-processing-in-eukaryotes",
+  "excerpt": "while it is processed and exported out of the nucleus.",
+  "sourceHash": "241039ef846230c7c875fcdf3a17eedbc055153687a47f992e93dfe857ac83c1",
+  "cacheSourceId": "a81398c5bc725fffcd89",
+  "retrievedAt": "2026-11-06T15:04:44.200931+00:00",
+  "reviewedMappings": {
+    "2010-3-30:0": "pre-mRNA가 핵에서 가공되고 핵 밖으로 수송된다는 문맥 확인. ㄹ 판정 및 조합 선택지 대조."
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "fc268cc7ee8d04616b5c",
+  "kind": "science",
+  "source": "Sedimentary Geology / Elsevier",
+  "ref": "Detrital modes of the Pyeongan Supergroup sandstones in the Samcheog coalfield",
+  "url": "https://www.sciencedirect.com/science/article/pii/S0037073898000530",
+  "excerpt": "is disconformably underlain by the lower Palaeozoic Joseon Supergroup",
+  "sourceHash": "f97518b19d58682bb74dc19814d7c876fca249e7254cfd9f281d385cfe0e6e6a",
+  "cacheSourceId": "a6d03f99e06c5f23dcf5",
+  "retrievedAt": "2026-11-07T02:50:38.169429+00:00",
+  "reviewedMappings": {
+    "2024-3-36:5": "Explicit disconformable contact supports option 5 in studied regional stratigraphic framework."
+  },
+  "retrievalMethod": "Indexed original research abstract reviewed.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

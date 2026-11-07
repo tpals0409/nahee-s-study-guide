@@ -1,0 +1,16 @@
+{
+  "id": "a80e0cb2e7b6429d562b",
+  "kind": "science",
+  "source": "Texas A&M University — M. Darensbourg",
+  "ref": "M. Darensbourg, Texas A&M Chemistry 362, Lecture 14 (2017), PDF pages 20 and 26",
+  "url": "https://www.chem.tamu.edu/rgroup/marcetta/chem362/lectures/Lecture%2014%20MO%20theory.pdf",
+  "excerpt": "Carbon Monoxide",
+  "sourceHash": "6a73eb76b30e3e5e3aa20f13cd1d5860345ed37866a7cf9bf0322799b4cdc7bd",
+  "cacheSourceId": "b9a1ac76007f814d58d7",
+  "retrievedAt": "2026-11-06T16:13:39.070796+00:00",
+  "reviewedMappings": {
+    "2010-3-13:5": "⑤ CO 부분: PDF p20 제목 아래 실제 MO 그림에서 원자가전자 10개가 점유 궤도 다섯 개에 각각 짝을 이룸을 시각 확인. 제목 인용만이 아닌 그림 검토에 근거."
+  },
+  "retrievalMethod": "PDF downloaded; pdftoppm rendered pages 20 and 26; diagrams visually inspected and short text excerpts transcribed",
+  "sourceHashScope": "Selected visual text excerpts only; not full PDF"
+}

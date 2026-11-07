@@ -1,0 +1,21 @@
+{
+  "id": "8103ea0b95bbb732dfb8",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e, 8.2 The Light-Dependent Reactions of Photosynthesis",
+  "url": "https://openstax.org/books/biology-2e/pages/8-2-the-light-dependent-reactions-of-photosynthesis",
+  "excerpt": "which reduces NADP⁺ to NADPH",
+  "sourceHash": "870ab95f416237e282d500074f5776b84107cfafddcbab76f6193cf90131afd5",
+  "cacheSourceId": "599848edc28356006ea2",
+  "retrievedAt": "2026-11-07T01:07:41.336368+00:00",
+  "reviewedMappings": {
+    "2022-3-23:0": "Figure 8.17 and light-reaction electron path distinguish NADP+ acceptor from NADPH product; independently balanced NADP+ +2e+H -> NADPH. Scope to noncyclic flow. Applied to summary",
+    "2022-3-23:1": "Figure 8.17 and light-reaction electron path distinguish NADP+ acceptor from NADPH product; independently balanced NADP+ +2e+H -> NADPH. Scope to noncyclic flow. Applied to O2/NADPH: second incorrect",
+    "2022-3-23:2": "Figure 8.17 and light-reaction electron path distinguish NADP+ acceptor from NADPH product; independently balanced NADP+ +2e+H -> NADPH. Scope to noncyclic flow. Applied to O2/NADP+: both correct",
+    "2022-3-23:3": "Figure 8.17 and light-reaction electron path distinguish NADP+ acceptor from NADPH product; independently balanced NADP+ +2e+H -> NADPH. Scope to noncyclic flow. Applied to water/NADPH: both incorrect",
+    "2022-3-23:4": "Figure 8.17 and light-reaction electron path distinguish NADP+ acceptor from NADPH product; independently balanced NADP+ +2e+H -> NADPH. Scope to noncyclic flow. Applied to water/NADP+: first incorrect",
+    "2022-3-23:5": "Figure 8.17 and light-reaction electron path distinguish NADP+ acceptor from NADPH product; independently balanced NADP+ +2e+H -> NADPH. Scope to noncyclic flow. Applied to water/NADH: both incorrect"
+  },
+  "retrievalMethod": "Direct web read of electron transport text and figure captions; superscript plus normalized in selected excerpt",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

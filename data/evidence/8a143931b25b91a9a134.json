@@ -1,0 +1,16 @@
+{
+  "id": "8a143931b25b91a9a134",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Microbiology 11.5 Mutations",
+  "url": "https://openstax.org/books/microbiology/pages/11-5-mutations",
+  "excerpt": "the same amino acid being incorporated",
+  "sourceHash": "9a67a07c4fdb841f5b4e04c930e3b4ff91215ad7d4e2dce0109da56e353b0497",
+  "cacheSourceId": "db5fdc1031aa0d63d194",
+  "retrievedAt": "2026-11-07T05:55:45.847761+00:00",
+  "reviewedMappings": {
+    "2019-3-27:3": "③의 동의 치환과 아미노산 서열 유지에 직접 해당. 기존 위치 중요성 인용을 대체."
+  },
+  "retrievalMethod": "Direct textbook HTML",
+  "sourceHashScope": "Selected short excerpt only; not full source"
+}

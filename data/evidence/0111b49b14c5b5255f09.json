@@ -1,0 +1,19 @@
+{
+  "id": "0111b49b14c5b5255f09",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 2e 6.3 Development of Quantum Theory",
+  "url": "https://openstax.org/books/chemistry-2e/pages/6-3-development-of-quantum-theory",
+  "excerpt": "no more than two electrons can occupy the same orbital",
+  "sourceHash": "e69379e8a9825aa103b7e53fc034ca24c8fbc237733b22d1496e7460fdac4628",
+  "cacheSourceId": "d814ede88bb241857c09",
+  "retrievedAt": "2026-11-06T20:16:49.092774+00:00",
+  "reviewedMappings": {
+    "2016-3-14:0": "본문 116~125행 양자수 범위 l=0,...,n−1 및 ml=−l,...,l, 146~147행 오비탈당 2전자 한계 확인. n+l=3은 2p·3s, n+l=2는 2s만 가능. Na의 닫힌 2p에는 ml=0 전자 2개, s 전자 5개와 합하여 7. 홀전자 1개.",
+    "2016-3-14:2": "본문 116~125행 양자수 범위 l=0,...,n−1 및 ml=−l,...,l, 146~147행 오비탈당 2전자 한계 확인. n+l=3은 2p·3s, n+l=2는 2s만 가능. Na의 닫힌 2p에는 ml=0 전자 2개, s 전자 5개와 합하여 7. 홀전자 1개.",
+    "2016-3-14:3": "본문 116~125행 양자수 범위 l=0,...,n−1 및 ml=−l,...,l, 146~147행 오비탈당 2전자 한계 확인. n+l=3은 2p·3s, n+l=2는 2s만 가능. Na의 닫힌 2p에는 ml=0 전자 2개, s 전자 5개와 합하여 7. 홀전자 1개.",
+    "2016-3-14:4": "본문 116~125행 양자수 범위 l=0,...,n−1 및 ml=−l,...,l, 146~147행 오비탈당 2전자 한계 확인. n+l=3은 2p·3s, n+l=2는 2s만 가능. Na의 닫힌 2p에는 ml=0 전자 2개, s 전자 5개와 합하여 7. 홀전자 1개."
+  },
+  "retrievalMethod": "web open: directly reviewed quantum-number rules and sodium configuration",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

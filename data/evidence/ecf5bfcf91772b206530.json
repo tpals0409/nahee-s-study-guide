@@ -1,0 +1,17 @@
+{
+  "id": "ecf5bfcf91772b206530",
+  "kind": "science",
+  "source": "Norkus et al., Talanta (1996); PubMed",
+  "ref": "Influence of ionic strength and OH(-) ion concentration on the Cu(II) complex formation with EDTA in alkaline solutions",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/18966509/",
+  "excerpt": "the complex formation of copper ions with EDTA",
+  "sourceHash": "b24d1a6bedd117318abe2186146cf83996fefa5399f4821b972701b5658953ff",
+  "cacheSourceId": "15afc3b2db1b23d8e0b4",
+  "retrievedAt": "2026-11-06T19:35:15.864915+00:00",
+  "reviewedMappings": {
+    "2015-3-18:0": "실험 논문 초록에서 Cu-EDTA 착물 형성을 확인한다. 특정 pH의 수치 상수를 문항에 전용하지 않는다.",
+    "2015-3-18:3": "Cu-EDTA 착물 형성 근거와 네른스트 식을 결합해 자유 Cu²⁺ 감소 효과를 설명한다. 원문에 pH·첨가량이 없어 정량 전압은 주장하지 않는다."
+  },
+  "retrievalMethod": "Direct web page opened and relevant section read; short excerpt transcribed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

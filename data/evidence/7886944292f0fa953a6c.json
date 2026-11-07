@@ -1,0 +1,16 @@
+{
+  "id": "7886944292f0fa953a6c",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 2e §7.3 — CO Lewis structure",
+  "url": "https://openstax.org/books/chemistry-2e/pages/7-3-lewis-symbols-and-structures",
+  "excerpt": "The left shows a carbon triple bonded to an oxygen, each with a lone electron pair.",
+  "sourceHash": "80ced1bc771e1f0150d7a3012565ed24972b7af273595fd22eee5025eb7c6e56",
+  "cacheSourceId": "47aa7644c4e141a1b884",
+  "retrievedAt": "2026-11-06T16:10:59.325256+00:00",
+  "reviewedMappings": {
+    "2010-3-13:1": "CO 루이스 구조의 삼중결합과 탄소 비공유 전자쌍 확인. 탄소 주위 전자 영역은 결합 영역 1개와 비공유 쌍 1개, 총 2개."
+  },
+  "retrievalMethod": "web.open/web.find publisher text and accessible Lewis-structure description reviewed",
+  "sourceHashScope": "Selected excerpt only; not full page"
+}

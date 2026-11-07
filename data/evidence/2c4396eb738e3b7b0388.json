@@ -1,0 +1,16 @@
+{
+  "id": "2c4396eb738e3b7b0388",
+  "kind": "science",
+  "source": "MedlinePlus Genetics",
+  "ref": "MedlinePlus Genetics: INSR gene",
+  "url": "https://medlineplus.gov/genetics/gene/insr/",
+  "excerpt": "These mutations lead to the production of a faulty insulin receptor that cannot transmit signals properly.",
+  "sourceHash": "4c8231cb9a6fbbd477339d3a595732d3752c5d6dabb0cc49c784a97a9f4b38fb",
+  "cacheSourceId": "ce0e2b44f3b431b98f9d",
+  "retrievedAt": "2026-11-06T18:08:19.233880+00:00",
+  "reviewedMappings": {
+    "2013-3-21:0": "수용체 기능결손에 따른 신호전달장애·인슐린저항성·혈당조절장애 확인. 고혈당과 당뇨가 나타나는 조건에서 삼투성 이뇨로 연결;모든 돌연변이 즉시 다뇨라고 일반화하지 않음."
+  },
+  "retrievalMethod": "web.open",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

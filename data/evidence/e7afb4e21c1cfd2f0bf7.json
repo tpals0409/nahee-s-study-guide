@@ -1,0 +1,16 @@
+{
+  "id": "e7afb4e21c1cfd2f0bf7",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 2e 17.2 — Galvanic Cells",
+  "url": "https://openstax.org/books/chemistry-2e/pages/17-2-galvanic-cells",
+  "excerpt": "which impart a blue color to the solution",
+  "sourceHash": "15b588824017ca8fa5d03f1617e815e3fa2019594df47bb96580c53843c2fab8",
+  "cacheSourceId": "2ffc2d1f4b2d410b7a11",
+  "retrievedAt": "2026-11-06T19:35:15.864751+00:00",
+  "reviewedMappings": {
+    "2015-3-18:4": "본문은 Cu²⁺ 수용액의 청색을 설명한다. 원문 Cu²⁺ 환원에 따른 소모로 색이 옅어짐을 적용한다."
+  },
+  "retrievalMethod": "Direct web page opened and relevant section read; short excerpt transcribed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

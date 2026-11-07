@@ -1,0 +1,16 @@
+{
+  "id": "37bb745e141608fbdbc1",
+  "kind": "science",
+  "source": "NOAA",
+  "ref": "Ten Basic Clouds",
+  "url": "https://www.noaa.gov/jetstream/clouds/ten-basic-clouds",
+  "excerpt": "rising mounds, domes, or towers",
+  "sourceHash": "d07fc1d6e7f637f9776077ac017923f207515ee41b77d91c8f504c0784788617",
+  "cacheSourceId": "a63d854726aa9219100b",
+  "retrievedAt": "2026-11-06T19:09:00.269126+00:00",
+  "reviewedMappings": {
+    "2014-3-36:3": "Cumulus definition includes vertical mounds, domes or towers; following paragraph describes diurnal convection. Does not say every cumulus is a tower."
+  },
+  "retrievalMethod": "Direct web open; relevant classification and genus paragraphs reviewed against original image.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

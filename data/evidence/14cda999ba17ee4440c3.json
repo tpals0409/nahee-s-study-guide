@@ -1,0 +1,21 @@
+{
+  "id": "14cda999ba17ee4440c3",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume 3 7.4 — Equations 7.34–7.45",
+  "url": "https://openstax.org/books/university-physics-volume-3/pages/7-4-the-quantum-particle-in-a-box",
+  "excerpt": "We discard the n=0 solution because",
+  "sourceHash": "f023248015e86b23b6e2a5036c24b9adf2633a6c02753bcbf04a7941179a299f",
+  "cacheSourceId": "0abbf0d8b0e4f5e805ce",
+  "retrievedAt": "2026-11-06T16:58:59.971728+00:00",
+  "reviewedMappings": {
+    "2012-3-01:0": "벽에서 파동함수0, kL=nπ, n≥1, E=n²π²ħ²/(2mL²), ħ=h/(2π)를 대입하여 h²/(8mL²) 독립 도출. 원본 선지와 저장정답② 일치.",
+    "2012-3-01:1": "E1/2는 최소허용에너지보다 작음. 초안의 λ=4L이면 해당값이라는 오류 삭제: 실제 그 파장이면 E1/4.",
+    "2012-3-01:2": "n=1의 바닥상태 에너지와 일치.",
+    "2012-3-01:3": "2E1은 n²=2이므로 정상상태 준위가 아님.",
+    "2012-3-01:4": "4E1은 n=2 첫 들뜬상태로 최소 아님.",
+    "2012-3-01:5": "8E1은 n²=8이므로 정상상태 준위가 아님."
+  },
+  "retrievalMethod": "web.open 본문 식7.34–7.45 직접 확인; n=0 주위 수식 마크업을 평문으로 정규화",
+  "sourceHashScope": "Selected excerpt only; not full page"
+}

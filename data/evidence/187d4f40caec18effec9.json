@@ -1,0 +1,21 @@
+{
+  "id": "187d4f40caec18effec9",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 2e §8.2, sp3d and sp3d2 hybridization",
+  "url": "https://openstax.org/books/chemistry-2e/pages/8-2-hybrid-atomic-orbitals",
+  "excerpt": "The molecular structure of water is consistent with a tetrahedral arrangement of two lone pairs and two bonding pairs of electrons.",
+  "sourceHash": "f7cb3003cfd9bc6b4c20709ebe3721d46a6670b8c3bfebdeb8ac964cc7b571fd",
+  "cacheSourceId": "5be958064a41df578976",
+  "retrievedAt": "2026-11-07T02:30:46.991358+00:00",
+  "reviewedMappings": {
+    "2024-3-17:0": "Reviewed two bonding plus two lone pairs tetrahedral/bent discussion and five/six hybrid sets formed with one s orbital; sp3d and sp3d2 fractions 1/5 and 1/6 are the exam textbook model, not a measured orbital composition. Three statements true under specified Lewis/VSEPR/hybrid model.",
+    "2024-3-17:1": "Reviewed two bonding plus two lone pairs tetrahedral/bent discussion and five/six hybrid sets formed with one s orbital; sp3d and sp3d2 fractions 1/5 and 1/6 are the exam textbook model, not a measured orbital composition. ㄱ true but ㄴ and ㄷ also true.",
+    "2024-3-17:2": "Reviewed two bonding plus two lone pairs tetrahedral/bent discussion and five/six hybrid sets formed with one s orbital; sp3d and sp3d2 fractions 1/5 and 1/6 are the exam textbook model, not a measured orbital composition. ㄷ true but ㄱ and ㄴ also true.",
+    "2024-3-17:3": "Reviewed two bonding plus two lone pairs tetrahedral/bent discussion and five/six hybrid sets formed with one s orbital; sp3d and sp3d2 fractions 1/5 and 1/6 are the exam textbook model, not a measured orbital composition. ㄱ and ㄴ true but ㄷ also true.",
+    "2024-3-17:4": "Reviewed two bonding plus two lone pairs tetrahedral/bent discussion and five/six hybrid sets formed with one s orbital; sp3d and sp3d2 fractions 1/5 and 1/6 are the exam textbook model, not a measured orbital composition. ㄴ and ㄷ true but ㄱ also true.",
+    "2024-3-17:5": "Reviewed two bonding plus two lone pairs tetrahedral/bent discussion and five/six hybrid sets formed with one s orbital; sp3d and sp3d2 fractions 1/5 and 1/6 are the exam textbook model, not a measured orbital composition. All three agree: AX2E2 bent; formal charge +1>0; model s fraction 1/5>1/6."
+  },
+  "retrievalMethod": "Direct OpenStax page reviewed. Reviewed two bonding plus two lone pairs tetrahedral/bent discussion and five/six hybrid sets formed with one s orbital; sp3d and sp3d2 fractions 1/5 and 1/6 are the exam textbook model, not a measured orbital composition.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

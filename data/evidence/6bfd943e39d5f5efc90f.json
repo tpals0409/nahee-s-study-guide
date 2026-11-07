@@ -1,0 +1,20 @@
+{
+  "id": "6bfd943e39d5f5efc90f",
+  "kind": "science",
+  "source": "NASA",
+  "ref": "Earth’s Atmosphere: A Multi-layered Cake",
+  "url": "https://science.nasa.gov/earth/earth-atmosphere/earths-atmosphere-a-multi-layered-cake/",
+  "excerpt": "the higher up you go into the stratosphere, the warmer temperatures become.",
+  "sourceHash": "8ac1f9450f3b343a912d0e9d9a83cae79edde29cabb4355b5e689aa19467026b",
+  "cacheSourceId": "897f3f4f8de46eec3957",
+  "retrievedAt": "2026-11-06T19:58:58.806812+00:00",
+  "reviewedMappings": {
+    "2015-3-37:0": "NASA 본문 252–258행의 층 순서와 기온 변화, 성층권 오존층의 자외선 관련 가열을 대조했다. 원문 (가)는 약 20~30km 사이의 성층권 부분을 표시하며 중간권의 시작이 아니다. ㄱ 거짓, ㄴ 참이다. 점선의 세부 고도는 눈금 사이의 추정이므로 정확한 값으로 쓰지 않는다.",
+    "2015-3-37:1": "NASA 본문 252–258행의 층 순서와 기온 변화, 성층권 오존층의 자외선 관련 가열을 대조했다. 원문 (가)는 약 20~30km 사이의 성층권 부분을 표시하며 중간권의 시작이 아니다. ㄱ 거짓, ㄴ 참이다. 점선의 세부 고도는 눈금 사이의 추정이므로 정확한 값으로 쓰지 않는다.",
+    "2015-3-37:2": "NASA 본문 252–258행의 층 순서와 기온 변화, 성층권 오존층의 자외선 관련 가열을 대조했다. 원문 (가)는 약 20~30km 사이의 성층권 부분을 표시하며 중간권의 시작이 아니다. ㄱ 거짓, ㄴ 참이다. 점선의 세부 고도는 눈금 사이의 추정이므로 정확한 값으로 쓰지 않는다.",
+    "2015-3-37:3": "NASA 본문 252–258행의 층 순서와 기온 변화, 성층권 오존층의 자외선 관련 가열을 대조했다. 원문 (가)는 약 20~30km 사이의 성층권 부분을 표시하며 중간권의 시작이 아니다. ㄱ 거짓, ㄴ 참이다. 점선의 세부 고도는 눈금 사이의 추정이므로 정확한 값으로 쓰지 않는다.",
+    "2015-3-37:4": "NASA 본문 252–258행의 층 순서와 기온 변화, 성층권 오존층의 자외선 관련 가열을 대조했다. 원문 (가)는 약 20~30km 사이의 성층권 부분을 표시하며 중간권의 시작이 아니다. ㄱ 거짓, ㄴ 참이다. 점선의 세부 고도는 눈금 사이의 추정이므로 정확한 값으로 쓰지 않는다."
+  },
+  "retrievalMethod": "Direct web open; relevant paragraphs reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

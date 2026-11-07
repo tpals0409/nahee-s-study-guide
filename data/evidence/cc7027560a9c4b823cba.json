@@ -1,0 +1,16 @@
+{
+  "id": "cc7027560a9c4b823cba",
+  "kind": "science",
+  "source": "NASA",
+  "ref": "StarChild: The Asteroid Belt",
+  "url": "https://starchild.gsfc.nasa.gov/docs/StarChild/solar_system_level2/asteroids.html",
+  "excerpt": "it orbits the Sun in the same direction as the planets",
+  "sourceHash": "ca88b3bc070d1caf69a25662a86c7eabe5551ab782131abbce252425dc0f7fc7",
+  "cacheSourceId": "c654cc4fbe66a8354b18",
+  "retrievedAt": "2026-11-06T16:09:20.693545+00:00",
+  "reviewedMappings": {
+    "2010-3-40:0": "ㄷ: 소행성대가 행성과 같은 방향으로 공전한다는 본문 확인."
+  },
+  "retrievalMethod": "web.open/web.find NASA body read; selected excerpts transcribed (table uses web-rendered cell separators)",
+  "sourceHashScope": "Selected excerpts only; not full page"
+}

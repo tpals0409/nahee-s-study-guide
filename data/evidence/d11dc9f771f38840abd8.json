@@ -1,0 +1,16 @@
+{
+  "id": "d11dc9f771f38840abd8",
+  "kind": "science",
+  "source": "MedlinePlus Genetics",
+  "ref": "What kinds of gene variants are possible?",
+  "url": "https://medlineplus.gov/genetics/understanding/mutationsanddisorders/possiblemutations/",
+  "excerpt": "replacement of one protein building block (amino acid)",
+  "sourceHash": "d90b31ecf7bb403de4a0a313cf1554061a7031be60cfee53103cf242f072080e",
+  "cacheSourceId": "303ce00c542ebd1c49de",
+  "retrievedAt": "2026-11-07T05:57:26.393963+00:00",
+  "reviewedMappings": {
+    "2019-3-27:2": "Missense 항목54에서 한 아미노산 치환 직접 대조."
+  },
+  "retrievalMethod": "Direct NLM MedlinePlus HTML",
+  "sourceHashScope": "Selected short excerpt only; not full source"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "d0324ef62f70a5eeac65",
+  "kind": "science",
+  "source": "Geobios",
+  "ref": "Trilobite faunal successions across the base of the Furongian Series in the Taebaek Group, Taebaeksan Basin, Korea",
+  "url": "https://www.sciencedirect.com/science/article/pii/S0016699511000490",
+  "excerpt": "The Taebaeksan Basin was a shallow marine, mixed siliciclastic-carbonate system",
+  "sourceHash": "4cce9ca4ad6ece26437d39d8be06c71009f0bbaf2a41ca9be8900ddcba43b957",
+  "cacheSourceId": "84a99940b9112d9f973f",
+  "retrievedAt": "2026-11-06T19:54:19.335130+00:00",
+  "reviewedMappings": {
+    "2015-3-33:0": "논문 검색 색인 본문은 조선누층군을 고생대 전기 지층으로 설명하고 태백산분지를 천해 혼합 쇄설성–탄산염 퇴적계로 해석한다. ㄱ은 참이고 ㄷ의 수심 4~5km 이상 심해 설명은 맞지 않는다. 서쪽으로 수심이 증가했다는 상대적 차이를 절대 수심 4~5km로 오해하지 않는다.",
+    "2015-3-33:1": "논문 검색 색인 본문은 조선누층군을 고생대 전기 지층으로 설명하고 태백산분지를 천해 혼합 쇄설성–탄산염 퇴적계로 해석한다. ㄱ은 참이고 ㄷ의 수심 4~5km 이상 심해 설명은 맞지 않는다. 서쪽으로 수심이 증가했다는 상대적 차이를 절대 수심 4~5km로 오해하지 않는다.",
+    "2015-3-33:2": "논문 검색 색인 본문은 조선누층군을 고생대 전기 지층으로 설명하고 태백산분지를 천해 혼합 쇄설성–탄산염 퇴적계로 해석한다. ㄱ은 참이고 ㄷ의 수심 4~5km 이상 심해 설명은 맞지 않는다. 서쪽으로 수심이 증가했다는 상대적 차이를 절대 수심 4~5km로 오해하지 않는다.",
+    "2015-3-33:3": "논문 검색 색인 본문은 조선누층군을 고생대 전기 지층으로 설명하고 태백산분지를 천해 혼합 쇄설성–탄산염 퇴적계로 해석한다. ㄱ은 참이고 ㄷ의 수심 4~5km 이상 심해 설명은 맞지 않는다. 서쪽으로 수심이 증가했다는 상대적 차이를 절대 수심 4~5km로 오해하지 않는다.",
+    "2015-3-33:4": "논문 검색 색인 본문은 조선누층군을 고생대 전기 지층으로 설명하고 태백산분지를 천해 혼합 쇄설성–탄산염 퇴적계로 해석한다. ㄱ은 참이고 ㄷ의 수심 4~5km 이상 심해 설명은 맞지 않는다. 서쪽으로 수심이 증가했다는 상대적 차이를 절대 수심 4~5km로 오해하지 않는다.",
+    "2015-3-33:5": "논문 검색 색인 본문은 조선누층군을 고생대 전기 지층으로 설명하고 태백산분지를 천해 혼합 쇄설성–탄산염 퇴적계로 해석한다. ㄱ은 참이고 ㄷ의 수심 4~5km 이상 심해 설명은 맞지 않는다. 서쪽으로 수심이 증가했다는 상대적 차이를 절대 수심 4~5km로 오해하지 않는다."
+  },
+  "retrievalMethod": "Search-indexed article text reviewed; direct open returned 403",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

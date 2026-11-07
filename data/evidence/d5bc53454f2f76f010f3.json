@@ -1,0 +1,21 @@
+{
+  "id": "d5bc53454f2f76f010f3",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume 1 11.3 — Example 11.9",
+  "url": "https://openstax.org/books/university-physics-volume-1/pages/11-3-conservation-of-angular-momentum",
+  "excerpt": "Thus, the angular momentum along this axis is conserved.",
+  "sourceHash": "da8280dcd8dc554ea4cc307415d0650d46b4bb36418724c7783f3e8c0244c7ca",
+  "cacheSourceId": "17743ec1781a989627c4",
+  "retrievedAt": "2026-11-06T17:08:59.271664+00:00",
+  "reviewedMappings": {
+    "2012-3-10:0": "수직 고정축에 대한 외부 토크가 없어 충돌 직전 mvr와 직후 Iω를 같게 둔다. 예제의 점질량 기여 mr²를 각 구슬과 진흙에 적용하여 I=0.75 계산. 선지 각속도를 Iω에 대입해 3.5와 비교.",
+    "2012-3-10:1": "수직 고정축에 대한 외부 토크가 없어 충돌 직전 mvr와 직후 Iω를 같게 둔다. 예제의 점질량 기여 mr²를 각 구슬과 진흙에 적용하여 I=0.75 계산. 선지 각속도를 Iω에 대입해 3.5와 비교.",
+    "2012-3-10:2": "수직 고정축에 대한 외부 토크가 없어 충돌 직전 mvr와 직후 Iω를 같게 둔다. 예제의 점질량 기여 mr²를 각 구슬과 진흙에 적용하여 I=0.75 계산. 선지 각속도를 Iω에 대입해 3.5와 비교.",
+    "2012-3-10:3": "수직 고정축에 대한 외부 토크가 없어 충돌 직전 mvr와 직후 Iω를 같게 둔다. 예제의 점질량 기여 mr²를 각 구슬과 진흙에 적용하여 I=0.75 계산. 선지 각속도를 Iω에 대입해 3.5와 비교.",
+    "2012-3-10:4": "수직 고정축에 대한 외부 토크가 없어 충돌 직전 mvr와 직후 Iω를 같게 둔다. 예제의 점질량 기여 mr²를 각 구슬과 진흙에 적용하여 I=0.75 계산. 선지 각속도를 Iω에 대입해 3.5와 비교.",
+    "2012-3-10:5": "수직 고정축에 대한 외부 토크가 없어 충돌 직전 mvr와 직후 Iω를 같게 둔다. 예제의 점질량 기여 mr²를 각 구슬과 진흙에 적용하여 I=0.75 계산. 선지 각속도를 Iω에 대입해 3.5와 비교."
+  },
+  "retrievalMethod": "web.open relevant section reviewed; selected excerpt retained",
+  "sourceHashScope": "Selected excerpt only; not full page"
+}

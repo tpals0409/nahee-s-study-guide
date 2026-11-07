@@ -1,0 +1,14 @@
+{
+  "id": "b43f541947dc9d573047",
+  "kind": "science",
+  "source": "OpenStax · Biology 2e",
+  "ref": "8.3",
+  "url": "https://openstax.org/books/biology-2e/pages/8-3-using-light-energy-to-make-organic-molecules",
+  "excerpt": "RuBisCO catalyzes a reaction between CO2 and RuBP.",
+  "sourceHash": "0d2b7e7734fc67f5e776eab221c7552aa69e118c2a3209308bdd3761583defb5",
+  "cacheSourceId": "7b39f6186cc6dcfaf67b",
+  "retrievedAt": "2026-11-06T15:05:58.661566+00:00",
+  "reviewedMappings": {
+    "2009-3-22:0": "ㄱ은 식물 외 조류·남세균의 광합성으로 반증(8.1). ㄴ은 PSII 물분해의 산소, ㄹ은 ATP/NADPH 생성으로 판정(8.2). ㄷ은 CO2와RuBP의 Rubisco 촉매반응(8.3). 미검증Km수치·동위원소실험 역사 삭제."
+  }
+}

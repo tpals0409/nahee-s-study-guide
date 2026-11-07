@@ -1,0 +1,19 @@
+{
+  "id": "8bf777960375be9e4d4e",
+  "kind": "science",
+  "source": "OpenStax Biology 2e",
+  "ref": "30.3 Roots",
+  "url": "https://openstax.org/books/biology-2e/pages/30-3-roots",
+  "excerpt": "The outermost cell layer of the root’s vascular tissue is the pericycle, an area that can give rise to lateral roots.",
+  "sourceHash": "877a5b8fa13ac14d7787327530bff020720c94c918a17fbaa3126250ec398feb",
+  "cacheSourceId": "2372db63902b0736d3a4",
+  "retrievedAt": "2026-11-07T03:22:24.899762+00:00",
+  "reviewedMappings": {
+    "2025-3-26:0": "뿌리 내초에서 lateral roots 발생 직접 명시.",
+    "2025-3-26:2": "내피 안쪽 내초와 lateral-root 발생 관계 확인; ㄷ 참.",
+    "2025-3-26:4": "ㄷ 참이나 ㄴ 거짓이라 조합 배제.",
+    "2025-3-26:5": "ㄷ만 참."
+  },
+  "retrievalMethod": "Direct web section reading: plant/animal cytokinesis; double fertilization and central cell; root pericycle and lateral roots.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

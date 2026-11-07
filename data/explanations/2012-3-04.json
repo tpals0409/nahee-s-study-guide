@@ -1,0 +1,30 @@
+{
+  "summary": "정답은 ①(ㄱ·ㄴ)입니다. 단열된 고정 용기에서 진공으로 자유팽창하므로 Q=0, W=0이고 ΔU=0입니다. 이상기체의 최종 평형온도는 처음과 같지만, 엔트로피는 증가합니다.",
+  "choices": [
+    "ㄱ·ㄴ 모두 옳습니다. 부피가 3배로 늘어 ΔS=nR ln3>0이고, 내부에너지와 평형온도는 변하지 않습니다.",
+    "ㄱ은 옳지만 ㄷ·ㄹ이 틀립니다. 외부에 하는 일은 0이며 내부에너지도 증가하지 않습니다.",
+    "ㄹ이 틀립니다. 열과 일이 모두 0이므로 ΔU=0입니다.",
+    "ㄴ은 옳지만 ㄷ이 틀립니다. 팽창해도 진공을 밀어내는 데 필요한 일은 0입니다.",
+    "ㄷ·ㄹ 모두 틀립니다. 외부에 하는 일도, 내부에너지 변화도 0입니다."
+  ],
+  "lawNote": "엔트로피는 상태함수이므로 같은 두 평형상태를 연결하는 가역 등온 경로로 계산합니다. 실제 비가역 자유팽창의 Q=0을 곧바로 ΔS=Q/T에 넣으면 안 됩니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2 4.7 — Example 4.8",
+      "quote": "There is no change in the internal energy (and hence temperature)",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/4-7-entropy-on-a-microscopic-scale",
+      "evidenceId": "2152855aaa279d22fa20",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "원본 2012-3-04_1.webp 도형·부피비·선지 직접 확인. 교재 자유팽창 예제와 열역학 제1법칙 대조, 모든 조합 및 저장정답① 확인. 온도는 초기·최종 평형상태 비교로 명료화.",
+    "contentHash": "836513c454f6ecfcb13e00a956f6d1843b758f20891fb31919a79dc0ec786f47"
+  }
+}

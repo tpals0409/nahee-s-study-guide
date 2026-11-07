@@ -1,0 +1,162 @@
+{
+  "id": "2019-3-40",
+  "summary": "ㄱ·ㄴ이 옳으므로 정답은 ③입니다. 거리지수 m−M이 가장 작은 시리우스가 가장 가깝고, M형 베텔기우스가 가장 차갑습니다. 그림에서 반지름이 가장 큰 별도 베텔기우스로 판단하므로 ㄷ은 틀립니다.",
+  "choices": [
+    "① ㄱ은 옳지만 ㄴ도 옳습니다. B형 스피카, A형 시리우스, M형 베텔기우스 중 M형이 가장 낮은 표면 온도에 해당합니다.",
+    "② ㄷ은 틀립니다. 베텔기우스는 낮은 표면 온도에도 밝은 초거성 영역에 있어 큰 표면적을 갖습니다. 스피카가 가장 큰 별은 아닙니다.",
+    "③ 거리지수는 스피카 4.0, 베텔기우스 6.4, 시리우스 −2.8입니다. 거리지수가 작을수록 가까우므로 ㄱ은 참입니다. 분광형 B→A→M 순으로 온도가 낮아져 ㄴ도 참입니다.",
+    "④ ㄴ은 옳지만 ㄷ은 틀리고 ㄱ도 빠져 있습니다. 가장 가까운 별은 시리우스, 가장 차갑고 반지름이 가장 큰 별은 베텔기우스입니다.",
+    "⑤ ㄱ·ㄴ은 옳지만 ㄷ은 틀립니다. 낮은 온도에도 밝은 베텔기우스가 큰 표면적을 갖는다는 H–R도 해석에 따라, 반지름이 가장 큰 별은 스피카가 아닙니다."
+  ],
+  "lawNote": "문제에 주어진 등급을 사용하고 성간 소광은 무시합니다. 계산된 거리는 문제 자료에 따른 값입니다. 반지름은 H–R도의 정성적 관계로 비교하며, 특정 관측 대역의 등급 차이를 전 파장 광도비로 단정하지 않습니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "Southern Methodist University",
+      "ref": "Measuring the Stars Continued",
+      "quote": "m-M=5log(d/10)",
+      "url": "https://www.physics.smu.edu/jcotton/ph1311/ch10b.htm",
+      "evidenceId": "70a1c02977f6fdd50269",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "Southern Methodist University",
+      "ref": "Measuring the Stars Continued",
+      "quote": "m-M=5log(d/10)",
+      "url": "https://www.physics.smu.edu/jcotton/ph1311/ch10b.htm",
+      "evidenceId": "70a1c02977f6fdd50269",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "Southern Methodist University",
+      "ref": "Measuring the Stars Continued",
+      "quote": "m-M=5log(d/10)",
+      "url": "https://www.physics.smu.edu/jcotton/ph1311/ch10b.htm",
+      "evidenceId": "70a1c02977f6fdd50269",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "Southern Methodist University",
+      "ref": "Measuring the Stars Continued",
+      "quote": "m-M=5log(d/10)",
+      "url": "https://www.physics.smu.edu/jcotton/ph1311/ch10b.htm",
+      "evidenceId": "70a1c02977f6fdd50269",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Astronomy 2e §17.3 The Spectra of Stars",
+      "quote": "From hottest to coldest, these seven spectral classes are designated O, B, A, F, G, K, and M.",
+      "url": "https://openstax.org/books/astronomy-2e/pages/17-3-the-spectra-of-stars-and-brown-dwarfs",
+      "evidenceId": "013cfbe113e189c077a7",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Astronomy 2e §17.3 The Spectra of Stars",
+      "quote": "From hottest to coldest, these seven spectral classes are designated O, B, A, F, G, K, and M.",
+      "url": "https://openstax.org/books/astronomy-2e/pages/17-3-the-spectra-of-stars-and-brown-dwarfs",
+      "evidenceId": "013cfbe113e189c077a7",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Astronomy 2e §17.3 The Spectra of Stars",
+      "quote": "From hottest to coldest, these seven spectral classes are designated O, B, A, F, G, K, and M.",
+      "url": "https://openstax.org/books/astronomy-2e/pages/17-3-the-spectra-of-stars-and-brown-dwarfs",
+      "evidenceId": "013cfbe113e189c077a7",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Astronomy 2e §17.3 The Spectra of Stars",
+      "quote": "From hottest to coldest, these seven spectral classes are designated O, B, A, F, G, K, and M.",
+      "url": "https://openstax.org/books/astronomy-2e/pages/17-3-the-spectra-of-stars-and-brown-dwarfs",
+      "evidenceId": "013cfbe113e189c077a7",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Astronomy 2e §18.4 The H–R Diagram",
+      "quote": "The only way is for the star to be enormous",
+      "url": "https://openstax.org/books/astronomy-2e/pages/18-4-the-h-r-diagram",
+      "evidenceId": "a3a9cd3563a4bc83f445",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Astronomy 2e §18.4 The H–R Diagram",
+      "quote": "The only way is for the star to be enormous",
+      "url": "https://openstax.org/books/astronomy-2e/pages/18-4-the-h-r-diagram",
+      "evidenceId": "a3a9cd3563a4bc83f445",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Astronomy 2e §18.4 The H–R Diagram",
+      "quote": "The only way is for the star to be enormous",
+      "url": "https://openstax.org/books/astronomy-2e/pages/18-4-the-h-r-diagram",
+      "evidenceId": "a3a9cd3563a4bc83f445",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Astronomy 2e §18.4 The H–R Diagram",
+      "quote": "The only way is for the star to be enormous",
+      "url": "https://openstax.org/books/astronomy-2e/pages/18-4-the-h-r-diagram",
+      "evidenceId": "a3a9cd3563a4bc83f445",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Astronomy 2e §18.4 The H–R Diagram",
+      "quote": "The only way is for the star to be enormous",
+      "url": "https://openstax.org/books/astronomy-2e/pages/18-4-the-h-r-diagram",
+      "evidenceId": "a3a9cd3563a4bc83f445",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "원본 H–R도 판독, 거리지수 독립 계산 및 분광형·초거성 반지름 해석 대조",
+    "contentHash": "ceb03d7c8796363c8778e8a88d93538a22779da69bbafd93d0e73697adc17116"
+  }
+}

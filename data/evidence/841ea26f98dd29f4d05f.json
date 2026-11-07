@@ -1,0 +1,17 @@
+{
+  "id": "841ea26f98dd29f4d05f",
+  "kind": "science",
+  "source": "NOAA",
+  "ref": "How Clouds Form",
+  "url": "https://www.noaa.gov/jetstream/clouds/how-clouds-form",
+  "excerpt": "water vapor will condense onto the cloud condensation nuclei",
+  "sourceHash": "64a3cc55c615beba3dcfaf491cb6ea5c11249cee5578e83febd754f0b3fa67eb",
+  "cacheSourceId": "eda14e0d726882b516aa",
+  "retrievedAt": "2026-11-07T02:10:49.755710+00:00",
+  "reviewedMappings": {
+    "2023-3-37:0": "응결핵 위 응결 및 포화 조건을 확인했다. D의 수증기량은 해당 온도 포화량을 초과하며 일반 대기에서 응결한다. 부피·온도 변화 조건 없이 응결 질량을 7.8 g/m³로 확정하지 않는다.",
+    "2023-3-37:5": "응결핵 위 응결 및 포화 조건을 확인했다. D의 수증기량은 해당 온도 포화량을 초과하며 일반 대기에서 응결한다. 부피·온도 변화 조건 없이 응결 질량을 7.8 g/m³로 확정하지 않는다."
+  },
+  "retrievalMethod": "Direct web open; reviewed dew-point and condensation sections",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

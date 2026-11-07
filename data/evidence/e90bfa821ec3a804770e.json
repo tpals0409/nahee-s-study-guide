@@ -1,0 +1,21 @@
+{
+  "id": "e90bfa821ec3a804770e",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics 1 §10.2 Rotation with Constant Angular Acceleration",
+  "url": "https://openstax.org/books/university-physics-volume-1/pages/10-2-rotation-with-constant-angular-acceleration",
+  "excerpt": "If the angular acceleration is constant, the equations of rotational kinematics simplify",
+  "sourceHash": "4c16fb6b32ad20f4b99f9d179a7028dfb324f4362b5a646e4c1bb2b1770fda8f",
+  "cacheSourceId": "8ed8f97d1aab30165fc3",
+  "retrievedAt": "2026-11-07T04:48:24.465821+00:00",
+  "reviewedMappings": {
+    "2015-3-02:0": "정지출발 θ=αt²/2에 θ=20π를 대입. α=25/4이면t=√(32π/5)이며 선택지와 다름. 선지 시간에 필요한 각가속도를 역산하는 근거.",
+    "2015-3-02:1": "정지출발 θ=αt²/2에 θ=20π를 대입. α=25/4이면t=√(32π/5)이며 선택지와 다름. 선지 시간에 필요한 각가속도를 역산하는 근거.",
+    "2015-3-02:2": "정지출발 θ=αt²/2에 θ=20π를 대입. α=25/4이면t=√(32π/5)이며 선택지와 다름. 선지 시간에 필요한 각가속도를 역산하는 근거.",
+    "2015-3-02:3": "정지출발 θ=αt²/2에 θ=20π를 대입. α=25/4이면t=√(32π/5)이며 선택지와 다름. 선지 시간에 필요한 각가속도를 역산하는 근거.",
+    "2015-3-02:4": "정지출발 θ=αt²/2에 θ=20π를 대입. α=25/4이면t=√(32π/5)이며 선택지와 다름. 선지 시간에 필요한 각가속도를 역산하는 근거.",
+    "2015-3-02:5": "정지출발 θ=αt²/2에 θ=20π를 대입. α=25/4이면t=√(32π/5)이며 선택지와 다름. 선지 시간에 필요한 각가속도를 역산하는 근거."
+  },
+  "retrievalMethod": "Direct web open",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

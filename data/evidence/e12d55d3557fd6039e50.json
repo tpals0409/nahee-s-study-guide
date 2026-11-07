@@ -1,0 +1,18 @@
+{
+  "id": "e12d55d3557fd6039e50",
+  "kind": "science",
+  "source": "NOAA",
+  "ref": "JetStream Max: Plate Tectonics and Earthquakes",
+  "url": "https://www.noaa.gov/jetstream/tsunamis/tsunami-generation-earthquakes/jetstream-max-plate-tectonics-and-earthquakes",
+  "excerpt": "chains of volcanic mountain ranges or island arcs that form parallel to the plate boundaries.",
+  "sourceHash": "d63e44a641897b22f58fc1a3acda86af0ae18c3441972151eff2b86527111ed0",
+  "cacheSourceId": "793d1cdd784d7aadfac8",
+  "retrievedAt": "2026-11-06T22:51:05.573412+00:00",
+  "reviewedMappings": {
+    "2019-3-33:1": "해양판 섭입과 대륙 쪽 화산호의 대응을 확인했다.",
+    "2019-3-33:2": "해양 발산경계에서 마그마 상승·고결에 따른 새 지각 형성을 확인했다.",
+    "2019-3-33:3": "해양판 섭입에 동반하는 화산섬 열인 island arc를 해당 해양-해양 수렴에 적용했다."
+  },
+  "retrievalMethod": "Direct web open; reviewed lines 128–140 on subduction volcanic arcs, mid-ocean ridge magma solidification and transform motion.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

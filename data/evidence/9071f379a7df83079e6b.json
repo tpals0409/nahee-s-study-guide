@@ -1,0 +1,21 @@
+{
+  "id": "9071f379a7df83079e6b",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e §14.4 DNA Replication in Prokaryotes",
+  "url": "https://openstax.org/books/biology-2e/pages/14-4-dna-replication-in-prokaryotes",
+  "excerpt": "The strand with the Okazaki fragments is known as the lagging strand.",
+  "sourceHash": "d0ffe1c7b0a5d0528a1412161fac91cb1d3118249c7983962683319834252866",
+  "cacheSourceId": "522f52f3d0529419af4f",
+  "retrievedAt": "2026-11-07T02:40:01.717729+00:00",
+  "reviewedMappings": {
+    "2024-3-25:0": "Primase/3′-OH paragraphs, leading/lagging strand explanation and enzyme table reviewed directly. Supports ㄴ and rejects ㄷ; both strands elongate chemically 5′→3′, despite different directions relative to fork movement.",
+    "2024-3-25:1": "Primase/3′-OH paragraphs, leading/lagging strand explanation and enzyme table reviewed directly. Supports ㄴ and rejects ㄷ; both strands elongate chemically 5′→3′, despite different directions relative to fork movement.",
+    "2024-3-25:2": "Primase/3′-OH paragraphs, leading/lagging strand explanation and enzyme table reviewed directly. Supports ㄴ and rejects ㄷ; both strands elongate chemically 5′→3′, despite different directions relative to fork movement.",
+    "2024-3-25:3": "Primase/3′-OH paragraphs, leading/lagging strand explanation and enzyme table reviewed directly. Supports ㄴ and rejects ㄷ; both strands elongate chemically 5′→3′, despite different directions relative to fork movement.",
+    "2024-3-25:4": "Primase/3′-OH paragraphs, leading/lagging strand explanation and enzyme table reviewed directly. Supports ㄴ and rejects ㄷ; both strands elongate chemically 5′→3′, despite different directions relative to fork movement.",
+    "2024-3-25:5": "Primase/3′-OH paragraphs, leading/lagging strand explanation and enzyme table reviewed directly. Supports ㄴ and rejects ㄷ; both strands elongate chemically 5′→3′, despite different directions relative to fork movement."
+  },
+  "retrievalMethod": "Primase/3′-OH paragraphs, leading/lagging strand explanation and enzyme table reviewed directly. Supports ㄴ and rejects ㄷ; both strands elongate chemically 5′→3′, despite different directions relative to fork movement.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

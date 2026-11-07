@@ -1,0 +1,17 @@
+{
+  "id": "abb68f36936675e35600",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 2e 16.4 Free Energy",
+  "url": "https://openstax.org/books/chemistry-2e/pages/16-4-free-energy",
+  "excerpt": "For a system at equilibrium, Q = K and ΔG = 0",
+  "sourceHash": "97f3209f95425aacee66f7cec83091bf6077b53cc75bad9133ddda02d0ee707c",
+  "cacheSourceId": "0793bf89c6e03771ab25",
+  "retrievedAt": "2026-11-06T19:37:33.762893+00:00",
+  "reviewedMappings": {
+    "2015-3-20:0": "본문 ΔG°=−RT ln K 식에 원문 T2>T1 및 0<K2<K1<1을 적용해 표준 자유 에너지 증가를 판정한다.",
+    "2015-3-20:5": "본문 ΔG°=−RT ln K 식에 원문 T2>T1 및 0<K2<K1<1을 적용해 표준 자유 에너지 증가를 판정한다."
+  },
+  "retrievalMethod": "Direct web page opened; relevant equations and paragraphs read; selected short excerpt transcribed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

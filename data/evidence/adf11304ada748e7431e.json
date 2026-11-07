@@ -1,0 +1,23 @@
+{
+  "id": "adf11304ada748e7431e",
+  "kind": "science",
+  "source": "OpenStax · Chemistry 2e",
+  "ref": "13.3 Shifting Equilibria: Le Châtelier’s Principle",
+  "url": "https://openstax.org/books/chemistry-2e/pages/13-3-shifting-equilibria-le-chateliers-principle",
+  "excerpt": "For exothermic processes, heat is viewed as a product of the reaction",
+  "sourceHash": "735f56ba4896b0e2e87b358e4046f904cd7fc366f4e9fdd6978bf37083d9dcb2",
+  "cacheSourceId": "3020aa3f7593c564b90a",
+  "retrievedAt": "2026-11-07T01:40:04.298645+00:00",
+  "reviewedMappings": {
+    "2010-3-19:0": "발열 반응의 가열은 역반응을 유리하게 함. 고정 부피 1 L에서 A가 생성되어 2 M 초과. Qc와 Kc 비교로도 이동 방향 검산.",
+    "2013-3-15:0": "온도상승시 역방향 이동이므로 정방향발열. 반응물첨가시 정방향이동 설명 직접 확인.",
+    "2014-3-16:3": "원문117행 발열과정에서 온도 상승시 역방향 평형이동 원리 및133행 저온의 암모니아생성 유리성만 대조.130행의25℃ Kp10^-5 수치는 채택하지 않음: 주어진ΔG°와 독립계산 결과에 반함. 발열성이 유지되는 온도범위로 설명 제한.",
+    "2023-3-12:0": "같은 T₂에서 Kp/Kc=0.0016/4=50⁻²이므로 Δn=c−a−1=−2. a=c+1을 (가)에 대입하면 25·2^c=100, c=2,a=3. Kc식으로 (나)[C]=0.2, Kp비100을 독립 검산.",
+    "2023-3-12:2": "Kp(가)=100/25²=0.16, Kp(다)=4/50²=0.0016이라 ㄷ은 참. T₂>T₁에서 Kp감소에 의한 ㄴ도 참이므로 ②는 누락.",
+    "2023-3-12:3": "ㄴ은 참이나 (나)와 (다)의 C농도는 모두0.2M이므로 ㄱ은 거짓. ㄷ도 참이어서 ③은 틀리다.",
+    "2023-3-12:4": "온도가2배일 때 Kp가0.16에서0.0016으로 줄어 정반응 발열이라는 ㄴ을 지지. 두 Kp비는100이므로 ㄷ 참. ㄱ거짓으로 ④만 성립.",
+    "2023-3-12:5": "ㄴ·ㄷ은 참이나 (나)와 (다)의 C농도가 같으므로 ㄱ은 거짓. 따라서 세 진술 모두를 고른 ⑤는 틀리다."
+  },
+  "retrievalMethod": "Direct web open/find: 13.2 equilibrium expressions and Kp=Kc(RT)^Δn; 13.3 temperature effects and exothermic reaction paragraphs reviewed. Independent application to question.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

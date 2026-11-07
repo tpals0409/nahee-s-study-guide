@@ -1,0 +1,19 @@
+{
+  "id": "41c088e12806e93af53f",
+  "kind": "science",
+  "source": "OpenStax Microbiology",
+  "ref": "8.6 Photosynthesis",
+  "url": "https://openstax.org/books/microbiology/pages/8-6-photosynthesis",
+  "excerpt": "Only PSI is used during cyclic photophosphorylation",
+  "sourceHash": "631784999e71c54c1d2a9da91920c9df863e2b7231bbcd95b1577c525da8438b",
+  "cacheSourceId": "be66e059a6b6109d2a35",
+  "retrievedAt": "2026-11-07T03:18:48.831521+00:00",
+  "reviewedMappings": {
+    "2025-3-22:0": "두 광계와 순환/비순환 흐름 비교 본문 확인.",
+    "2025-3-22:1": "Figure8.23의 P680 680nm 및 P700 700nm 표기 비교하여 PSI 파장이 더 김.",
+    "2025-3-22:3": "남세균과 식물 엽록체에 두 광계 존재 명시.",
+    "2025-3-22:5": "순환 흐름에서 PSI→ETS→oxidized PSI로 귀환하는 본문과 ATP 형성/환원력 우회 설명 확인. 그림 대체텍스트의 PSI→PSII 오기는 사용하지 않음."
+  },
+  "retrievalMethod": "Direct web section reading: reaction-center electron transfer and PSII water splitting; cyclic PSI return; cyanobacterial chlorophyll a paragraph.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "5dea8d9791a7fe5281c0",
+  "kind": "science",
+  "source": "Freshwater Biology",
+  "ref": "The effects of vertical mixing on a phytoplankton community: a modelling approach to the intermediate disturbance hypothesis",
+  "url": "https://onlinelibrary.wiley.com/doi/10.1046/j.1365-2427.2001.00754.x",
+  "excerpt": "diversity is often highest at intermediate levels of disturbance",
+  "sourceHash": "723b7691964a4ec9bffc74fa06cdbf3b50326fa0feef04a37c7bf9c942ae9d03",
+  "cacheSourceId": "36a7b709f7427411400b",
+  "retrievedAt": "2026-11-07T03:28:19.470379+00:00",
+  "reviewedMappings": {
+    "2025-3-29:0": "논문 초록에서 중간 교란 가설의 예측을 확인. ㄱ은 그 가설의 틀에서 해석하며 보편 법칙으로 일반화하지 않는다.",
+    "2025-3-29:1": "논문 초록에서 중간 교란 가설의 예측을 확인. ㄱ은 그 가설의 틀에서 해석하며 보편 법칙으로 일반화하지 않는다.",
+    "2025-3-29:3": "논문 초록에서 중간 교란 가설의 예측을 확인. ㄱ은 그 가설의 틀에서 해석하며 보편 법칙으로 일반화하지 않는다.",
+    "2025-3-29:4": "논문 초록에서 중간 교란 가설의 예측을 확인. ㄱ은 그 가설의 틀에서 해석하며 보편 법칙으로 일반화하지 않는다."
+  },
+  "retrievalMethod": "Search-indexed publisher abstract; direct open returned 403",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

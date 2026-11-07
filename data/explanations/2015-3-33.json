@@ -1,0 +1,196 @@
+{
+  "id": "2015-3-33",
+  "summary": "강원도에 대규모로 분포하는 대표적인 석회암층은 고생대 전기의 조선누층군과 관련되며, 석회암은 시멘트 원료로 널리 사용됩니다. 이 지층을 수심 4~5km 이상의 심해에서 형성된 것으로 설명하는 ㄷ은 틀리므로, ㄱ·ㄴ을 고른 ③이 정답입니다.",
+  "choices": [
+    "ㄱ은 옳지만 ㄴ도 옳으므로 충분하지 않습니다. 대표적인 석회암층은 고생대 전기의 조선누층군에 속하고, 석회암은 시멘트 제조 원료로 사용됩니다.",
+    "ㄴ은 옳지만 ㄱ도 옳으므로 충분하지 않습니다. 시멘트 원료로 이용되는 석회암의 용도뿐 아니라, 해당 지층의 고생대 전기 연대도 옳은 설명입니다.",
+    "ㄱ·ㄴ이 모두 옳습니다. 조선누층군은 고생대 전기 캄브리아기~오르도비스기 지층이며 석회암을 포함합니다. 석회암은 시멘트 제조에 필요한 석회 성분을 공급하는 주요 원료입니다. ㄷ의 심해 환경 설명은 해당 지층의 퇴적환경과 맞지 않습니다.",
+    "ㄴ은 옳지만 ㄷ은 틀리고, 옳은 ㄱ도 빠졌습니다. 이 지역의 대표적인 탄산염 지층은 얕은 바다의 퇴적계에서 형성되었으며, 조하대·조간대 등 다양한 환경이 확인됩니다. 이를 수심 4~5km 이상의 심해 환경으로 설명할 수 없습니다.",
+    "ㄱ·ㄴ은 옳지만 ㄷ을 포함했으므로 틀립니다. 지층별로 퇴적 수심 차이는 있지만, 대표적인 석회암층의 형성 환경을 수심 4~5km 이상의 심해로 해석하는 것은 맞지 않습니다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "Geobios",
+      "ref": "Trilobite faunal successions across the base of the Furongian Series in the Taebaek Group, Taebaeksan Basin, Korea",
+      "quote": "The Taebaeksan Basin was a shallow marine, mixed siliciclastic-carbonate system",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0016699511000490",
+      "evidenceId": "d0324ef62f70a5eeac65",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "Geobios",
+      "ref": "Trilobite faunal successions across the base of the Furongian Series in the Taebaek Group, Taebaeksan Basin, Korea",
+      "quote": "The Taebaeksan Basin was a shallow marine, mixed siliciclastic-carbonate system",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0016699511000490",
+      "evidenceId": "d0324ef62f70a5eeac65",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "Geobios",
+      "ref": "Trilobite faunal successions across the base of the Furongian Series in the Taebaek Group, Taebaeksan Basin, Korea",
+      "quote": "The Taebaeksan Basin was a shallow marine, mixed siliciclastic-carbonate system",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0016699511000490",
+      "evidenceId": "d0324ef62f70a5eeac65",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "Geobios",
+      "ref": "Trilobite faunal successions across the base of the Furongian Series in the Taebaek Group, Taebaeksan Basin, Korea",
+      "quote": "The Taebaeksan Basin was a shallow marine, mixed siliciclastic-carbonate system",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0016699511000490",
+      "evidenceId": "d0324ef62f70a5eeac65",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "Geobios",
+      "ref": "Trilobite faunal successions across the base of the Furongian Series in the Taebaek Group, Taebaeksan Basin, Korea",
+      "quote": "The Taebaeksan Basin was a shallow marine, mixed siliciclastic-carbonate system",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0016699511000490",
+      "evidenceId": "d0324ef62f70a5eeac65",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "Geobios",
+      "ref": "Trilobite faunal successions across the base of the Furongian Series in the Taebaek Group, Taebaeksan Basin, Korea",
+      "quote": "The Taebaeksan Basin was a shallow marine, mixed siliciclastic-carbonate system",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0016699511000490",
+      "evidenceId": "d0324ef62f70a5eeac65",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "Korea Polar Research Institute / Acta Geologica Sinica",
+      "ref": "Reefs in the Early Paleozoic Taebaek Group, Korea: A Review",
+      "quote": "patch reefs formed in shallow subtidal environments.",
+      "url": "https://repository.kopri.re.kr/handle/201206/6400",
+      "evidenceId": "47bb8fe3c29b40621ef3",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "Korea Polar Research Institute / Acta Geologica Sinica",
+      "ref": "Reefs in the Early Paleozoic Taebaek Group, Korea: A Review",
+      "quote": "patch reefs formed in shallow subtidal environments.",
+      "url": "https://repository.kopri.re.kr/handle/201206/6400",
+      "evidenceId": "47bb8fe3c29b40621ef3",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "Korea Polar Research Institute / Acta Geologica Sinica",
+      "ref": "Reefs in the Early Paleozoic Taebaek Group, Korea: A Review",
+      "quote": "patch reefs formed in shallow subtidal environments.",
+      "url": "https://repository.kopri.re.kr/handle/201206/6400",
+      "evidenceId": "47bb8fe3c29b40621ef3",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "Korea Polar Research Institute / Acta Geologica Sinica",
+      "ref": "Reefs in the Early Paleozoic Taebaek Group, Korea: A Review",
+      "quote": "patch reefs formed in shallow subtidal environments.",
+      "url": "https://repository.kopri.re.kr/handle/201206/6400",
+      "evidenceId": "47bb8fe3c29b40621ef3",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "American Concrete Institute",
+      "ref": "Materials used to produce portland cement",
+      "quote": "a material of high lime content, such as limestone, chalk, shells, or marl",
+      "url": "https://www.concrete.org/frequentlyaskedquestions/faqid/674.aspx",
+      "evidenceId": "0cf4846d9726e765b1f9",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "American Concrete Institute",
+      "ref": "Materials used to produce portland cement",
+      "quote": "a material of high lime content, such as limestone, chalk, shells, or marl",
+      "url": "https://www.concrete.org/frequentlyaskedquestions/faqid/674.aspx",
+      "evidenceId": "0cf4846d9726e765b1f9",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "American Concrete Institute",
+      "ref": "Materials used to produce portland cement",
+      "quote": "a material of high lime content, such as limestone, chalk, shells, or marl",
+      "url": "https://www.concrete.org/frequentlyaskedquestions/faqid/674.aspx",
+      "evidenceId": "0cf4846d9726e765b1f9",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "American Concrete Institute",
+      "ref": "Materials used to produce portland cement",
+      "quote": "a material of high lime content, such as limestone, chalk, shells, or marl",
+      "url": "https://www.concrete.org/frequentlyaskedquestions/faqid/674.aspx",
+      "evidenceId": "0cf4846d9726e765b1f9",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "American Concrete Institute",
+      "ref": "Materials used to produce portland cement",
+      "quote": "a material of high lime content, such as limestone, chalk, shells, or marl",
+      "url": "https://www.concrete.org/frequentlyaskedquestions/faqid/674.aspx",
+      "evidenceId": "0cf4846d9726e765b1f9",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "American Concrete Institute",
+      "ref": "Materials used to produce portland cement",
+      "quote": "a material of high lime content, such as limestone, chalk, shells, or marl",
+      "url": "https://www.concrete.org/frequentlyaskedquestions/faqid/674.aspx",
+      "evidenceId": "0cf4846d9726e765b1f9",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "원문 이미지 대조; 지역 퇴적환경 연구와 ACI 시멘트 원료 자료를 보기별 검증",
+    "contentHash": "ad47dc16a65502199ca655f59280f29653202567904455a1739b4df9cefea788"
+  }
+}

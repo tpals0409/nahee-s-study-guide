@@ -1,0 +1,151 @@
+{
+  "id": "2022-3-01",
+  "summary": "마찰이 없으므로 mgh=mgy+mv²/2입니다. 원본 그림에서 A의 높이는 R, B는 2R입니다. A에서 중심 방향 힘은 수직항력뿐이므로 n_A=2mg(h−R)/R입니다. 꼭대기 B에서는 중력도 중심 방향이므로 n_B+mg=mv_B²/R, 즉 n_B=mg(2h−5R)/R입니다. 따라서 n_A/n_B=2를 풀면 h=4R입니다.",
+  "choices": [
+    "h=5R/2를 대입하면 n_A=3mg, n_B=0입니다. 따라서 n_A/n_B는 정의되지 않아 주어진 비 2를 만족하지 않습니다.",
+    "3R: n_A = 2mg(3R-R)/R = 4mg, n_B = mg(6R-5R)/R = mg입니다. 비가 4이므로 오답입니다.",
+    "(7/2)R: n_A = 2mg(2.5R)/R = 5mg, n_B = mg(7R-5R)/R = 2mg입니다. 비가 2.5이므로 오답입니다.",
+    "4R: n_A = 2mg(3R)/R = 6mg, n_B = mg(8R-5R)/R = 3mg입니다. 비가 정확히 2이므로 정답입니다.",
+    "(9/2)R: n_A = 2mg(3.5R)/R = 7mg, n_B = mg(9R-5R)/R = 4mg입니다. 비가 1.75이므로 오답입니다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1, 8.3 Conservation of Energy",
+      "quote": "no work is done by the string tension",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/8-3-conservation-of-energy",
+      "evidenceId": "bc1caba16f97322a2d19",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1, 8.3 Conservation of Energy",
+      "quote": "no work is done by the string tension",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/8-3-conservation-of-energy",
+      "evidenceId": "bc1caba16f97322a2d19",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1, 8.3 Conservation of Energy",
+      "quote": "no work is done by the string tension",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/8-3-conservation-of-energy",
+      "evidenceId": "bc1caba16f97322a2d19",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1, 8.3 Conservation of Energy",
+      "quote": "no work is done by the string tension",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/8-3-conservation-of-energy",
+      "evidenceId": "bc1caba16f97322a2d19",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1, 8.3 Conservation of Energy",
+      "quote": "no work is done by the string tension",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/8-3-conservation-of-energy",
+      "evidenceId": "bc1caba16f97322a2d19",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1, 8.3 Conservation of Energy",
+      "quote": "no work is done by the string tension",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/8-3-conservation-of-energy",
+      "evidenceId": "bc1caba16f97322a2d19",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1, 6.3 Centripetal Force",
+      "quote": "The direction of a centripetal force is toward the center of curvature",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/6-3-centripetal-force",
+      "evidenceId": "daef1790d5d6fa775c89",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1, 6.3 Centripetal Force",
+      "quote": "The direction of a centripetal force is toward the center of curvature",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/6-3-centripetal-force",
+      "evidenceId": "daef1790d5d6fa775c89",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1, 6.3 Centripetal Force",
+      "quote": "The direction of a centripetal force is toward the center of curvature",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/6-3-centripetal-force",
+      "evidenceId": "daef1790d5d6fa775c89",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1, 6.3 Centripetal Force",
+      "quote": "The direction of a centripetal force is toward the center of curvature",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/6-3-centripetal-force",
+      "evidenceId": "daef1790d5d6fa775c89",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1, 6.3 Centripetal Force",
+      "quote": "The direction of a centripetal force is toward the center of curvature",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/6-3-centripetal-force",
+      "evidenceId": "daef1790d5d6fa775c89",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1, 6.3 Centripetal Force",
+      "quote": "The direction of a centripetal force is toward the center of curvature",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/6-3-centripetal-force",
+      "evidenceId": "daef1790d5d6fa775c89",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Original diagram and force-direction review, exact rational substitution, and OpenStax energy/radial-force references",
+    "contentHash": "3fe9f2612e76126959d416129981423676904a04b1392bf78184b17734139907"
+  }
+}

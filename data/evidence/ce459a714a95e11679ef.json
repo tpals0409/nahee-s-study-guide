@@ -1,0 +1,19 @@
+{
+  "id": "ce459a714a95e11679ef",
+  "kind": "science",
+  "source": "Hong Kong Civil Engineering and Development Department",
+  "ref": "Minerals and Rocks — Geological Building Blocks",
+  "url": "https://hkss.cedd.gov.hk/hkss/en/publications-and-resources/educational-materials/hong-kong-geology/chapter-1/index.html",
+  "excerpt": "Silicate minerals are the most abundant components of rocks on the Earth's surface",
+  "sourceHash": "2368ec6ba5cdd1232198ac7cc8a60a82d32f5a559e355d46c744d09e04e563ef",
+  "cacheSourceId": "a90aef7a73547b73f680",
+  "retrievedAt": "2026-11-06T20:40:08.837860+00:00",
+  "reviewedMappings": {
+    "2016-3-32:0": "ㄱ은 거짓: 지각에서 우세한 광물군은 산화광물이 아닌 규산염광물. 해당 조합에서 ㄱ 포함 여부를 판정한다.",
+    "2016-3-32:1": "ㄱ은 거짓: 지각에서 우세한 광물군은 산화광물이 아닌 규산염광물. 해당 조합에서 ㄱ 포함 여부를 판정한다.",
+    "2016-3-32:3": "ㄱ은 거짓: 지각에서 우세한 광물군은 산화광물이 아닌 규산염광물. 해당 조합에서 ㄱ 포함 여부를 판정한다.",
+    "2016-3-32:5": "ㄱ은 거짓: 지각에서 우세한 광물군은 산화광물이 아닌 규산염광물. 해당 조합에서 ㄱ 포함 여부를 판정한다."
+  },
+  "retrievalMethod": "Direct web open; relevant mineral abundance, carbonate structural-type table, or silicate structure text reviewed.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

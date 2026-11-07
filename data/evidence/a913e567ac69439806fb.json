@@ -1,0 +1,16 @@
+{
+  "id": "a913e567ac69439806fb",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 2e §9.2 The Ideal Gas Law",
+  "url": "https://openstax.org/books/chemistry-2e/pages/9-2-relating-pressure-volume-amount-and-temperature-the-ideal-gas-law",
+  "excerpt": "temperature must be in kelvin",
+  "sourceHash": "2109bf12a021c4f8517c6147aec6efcfc1fc2c6d42de953dae637d00354e8c67",
+  "cacheSourceId": "21652d0c839367deaa10",
+  "retrievedAt": "2026-11-06T16:26:55.620910+00:00",
+  "reviewedMappings": {
+    "2011-3-13:0": "PV=nRT, 절대온도와 정압 V/T 일정 확인. 문항 RT0=22.4 사용, V=1×22.4×546.15/273.15≈44.7877L→44.8L. 단순273환산은 근사임을 명시. 각 선지의 몰수 역산 .25,.5,.75,1,1.25mol로 최소필요량 비교."
+  },
+  "retrievalMethod": "web.run; balanced propane equation and ideal-gas equations reviewed",
+  "sourceHashScope": "Selected excerpt only; not full page"
+}

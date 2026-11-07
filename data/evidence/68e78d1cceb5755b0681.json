@@ -1,0 +1,17 @@
+{
+  "id": "68e78d1cceb5755b0681",
+  "kind": "science",
+  "source": "OpenStax · University Physics Volume 2",
+  "ref": "12.3",
+  "url": "https://openstax.org/books/university-physics-volume-2/pages/12-3-magnetic-force-between-two-parallel-currents",
+  "excerpt": "The force is attractive if the currents are in the same direction and repulsive if they are in opposite directions.",
+  "sourceHash": "1f03560eea87b77be9808de40583477196190a5865aadf5fa800b38a91ff995d",
+  "cacheSourceId": "6f55cac97216252c32bc",
+  "retrievedAt": "2026-11-06T17:46:40.346140+00:00",
+  "reviewedMappings": {
+    "2009-3-05:0": "식 12.11 F/l=μ₀I₁I₂/(2πr)와 같은 방향 전류의 인력을 확인했다. I₁=I₂=I를 대입하고 오른손 법칙으로 방향을 독립 검산했으며 모든 선지의 크기·방향을 비교했다.",
+    "2013-3-02:0": "원본에서 가까운 변 위쪽 전류 확인. I1=JA I2=JA/2, B=mu0I1/(2pi r), 양쪽 긴 변의 힘 차와 상하 변의 대칭 상쇄로 식 유도. a/(d(d+a)) 양수이므로 인력."
+  },
+  "retrievalMethod": "web.open; field/force equations and current-density equations directly reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

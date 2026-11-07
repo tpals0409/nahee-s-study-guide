@@ -1,0 +1,17 @@
+{
+  "id": "1ad4f199aab2b4d41d20",
+  "kind": "science",
+  "source": "USDA Agricultural Research Service",
+  "ref": "Ibekwe et al. (2006), Quantification of survival of Escherichia coli O157:H7 on plants affected by contaminated irrigation water",
+  "url": "https://www.ars.usda.gov/research/publications/publication/?seqNo115=202470",
+  "excerpt": "Survival was greater and longer in clay soil than in sandy soil.",
+  "sourceHash": "c6d3cd9ae7a08a383cc4c0aeba23fd46f7ed4407cdb5d69011bc2ce64a7b1dab",
+  "cacheSourceId": "821457649d974bf651a3",
+  "retrievedAt": "2026-11-07T05:23:14.963830+00:00",
+  "reviewedMappings": {
+    "2014-3-26:3": "ㄷ의 토양에서 발견되지 않는다는 부정을 반박한다. 인공 오염 관개수 조건에서 토양의 O157:H7을 배양·PCR로 평가했다. 모든 장내세균의 자연 토양 상주를 주장하지 않는다.",
+    "2014-3-26:5": "토양에서 생존 가능한 대장균 연구가 있어 ㄷ만 고르는 것은 타당하지 않다."
+  },
+  "retrievalMethod": "Direct web open",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

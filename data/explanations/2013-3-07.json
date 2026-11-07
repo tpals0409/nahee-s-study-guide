@@ -1,0 +1,41 @@
+{
+  "summary": "정답은 ② 2.5초입니다. 문제의 온도 환산 조건에 따라 고온·저온 열원은 각각 400 K, 300 K입니다. 카르노 열기관에서 Qc/Qh=Tc/Th이므로 Qh=15×400/300=20 kJ입니다. 한 순환의 일은 20−15=5 kJ이고, 소요 시간은 5 kJ÷2.0 kW=2.5초입니다.",
+  "choices": [
+    "2.0초 동안 출력 2.0 kW로 하는 일은 4 kJ입니다. 주어진 열원 온도와 배출열로 구한 순환일 5 kJ와 다릅니다.",
+    "흡수열 20 kJ에서 배출열 15 kJ를 빼면 순환일 5 kJ입니다. 이를 출력 2.0 kJ/s로 나누면 2.5초입니다.",
+    "3.0초라면 순환일은 6 kJ여야 합니다. 실제 순환일 5 kJ보다 큽니다.",
+    "3.5초라면 순환일은 7 kJ여야 하므로, 실제 5 kJ와 일치하지 않습니다.",
+    "4.0초라면 순환일은 8 kJ여야 하므로, 실제 5 kJ와 일치하지 않습니다."
+  ],
+  "lawNote": "15 kJ는 흡수열이 아니라 저온 열원으로 배출한 열입니다. 효율 25%는 흡수열에 대한 일의 비율이므로 15 kJ에 곧바로 곱하면 안 됩니다. 온도비에는 섭씨가 아닌 절대온도를 사용합니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "OpenStax University Physics Volume 2 §4.5 The Carnot Cycle",
+      "quote": "Because the initial and final states of the system are the same,",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/4-5-the-carnot-cycle",
+      "evidenceId": "12fdac23c42eb86399f5",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "OpenStax University Physics Volume 1 §7.4 Power",
+      "quote": "average power as the work done during a time interval, divided by the interval",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/7-4-power",
+      "evidenceId": "9cf58e266779edbbb03b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "원본 2013-3-07.webp 온도, 0℃=273K 조건, 출력, 배출열, 선지 확인. OpenStax 카르노 열비·순환 에너지 보존 및 평균일률 직접 대조. 유리수 계산으로 Qh20,W5,t2.5 검산. 저장 정답② 일치.",
+    "contentHash": "766261d5e261aa1921e671d013c77468225af4c7fd33fc63f309a1547128941c"
+  }
+}

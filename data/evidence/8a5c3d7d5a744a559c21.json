@@ -1,0 +1,21 @@
+{
+  "id": "8a5c3d7d5a744a559c21",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Organic Chemistry, 16.3 Friedel–Crafts Reaction",
+  "url": "https://openstax.org/books/organic-chemistry/pages/16-3-alkylation-and-acylation-of-aromatic-rings-the-friedel-crafts-reaction",
+  "excerpt": "alkylation—the introduction of an alkyl group onto the benzene ring",
+  "sourceHash": "04ad42ec01144ef5f52eb49a50d4787e956f6f36b78490cfce99fc8ecdf8daa0",
+  "cacheSourceId": "0d2b9981fc16db79f83b",
+  "retrievedAt": "2026-11-07T03:59:47.231672+00:00",
+  "reviewedMappings": {
+    "2026-3-17:0": "RCl with AlCl3 introduces R: R=CH3 gives toluene, no covalent Cl in C. Removes inaccurate chloride permanently captured as AlCl3 claim.",
+    "2026-3-17:1": "RCl with AlCl3 introduces R: R=CH3 gives toluene, no covalent Cl in C. Removes inaccurate chloride permanently captured as AlCl3 claim.",
+    "2026-3-17:2": "RCl with AlCl3 introduces R: R=CH3 gives toluene, no covalent Cl in C. Removes inaccurate chloride permanently captured as AlCl3 claim.",
+    "2026-3-17:3": "RCl with AlCl3 introduces R: R=CH3 gives toluene, no covalent Cl in C. Removes inaccurate chloride permanently captured as AlCl3 claim.",
+    "2026-3-17:4": "RCl with AlCl3 introduces R: R=CH3 gives toluene, no covalent Cl in C. Removes inaccurate chloride permanently captured as AlCl3 claim.",
+    "2026-3-17:5": "RCl with AlCl3 introduces R: R=CH3 gives toluene, no covalent Cl in C. Removes inaccurate chloride permanently captured as AlCl3 claim."
+  },
+  "retrievalMethod": "Direct web open",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

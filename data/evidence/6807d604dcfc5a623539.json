@@ -1,0 +1,16 @@
+{
+  "id": "6807d604dcfc5a623539",
+  "kind": "science",
+  "source": "National Park Service",
+  "ref": "Fossil Arthropods",
+  "url": "https://www.nps.gov/articles/000/fossil-arthropods.htm",
+  "excerpt": "Trilobites lived exclusively in the Paleozoic",
+  "sourceHash": "6840106dad833dce0a5da104b793df39a9cf4a5d18e258357f204e57861df43c",
+  "cacheSourceId": "0143a3606f0130a44a89",
+  "retrievedAt": "2026-11-06T19:07:48.793636+00:00",
+  "reviewedMappings": {
+    "2014-3-35:0": "Supports Paleozoic age of original trilobite fossil; marine identity separately stated in source. Supports ㄱ under ordinary unreworked-fossil reading; does not settle exposure history of A."
+  },
+  "retrievalMethod": "Direct web open; lines 29–30 and 65–67 reviewed.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

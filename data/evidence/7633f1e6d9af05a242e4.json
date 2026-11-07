@@ -1,0 +1,16 @@
+{
+  "id": "7633f1e6d9af05a242e4",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 2e §4.3 Reaction Stoichiometry, Example 4.9",
+  "url": "https://openstax.org/books/chemistry-2e/pages/4-3-reaction-stoichiometry",
+  "excerpt": "Coefficients provide the relative numbers of these chemical species",
+  "sourceHash": "558b1da5389bf201af9187539fa1296ce4a13b238ce747ee0f07e7edf2dfc7ef",
+  "cacheSourceId": "7ecf784b531335804dee",
+  "retrievedAt": "2026-11-06T16:26:55.620450+00:00",
+  "reviewedMappings": {
+    "2011-3-13:0": "원문 프로페인 반응식 C3H8+5O2→3CO2+4H2O 대조. C3,H8,O10 원자수 독립 확인. 산소 최소몰수=.2×5=1mol."
+  },
+  "retrievalMethod": "web.run; balanced propane equation and ideal-gas equations reviewed",
+  "sourceHashScope": "Selected excerpt only; not full page"
+}

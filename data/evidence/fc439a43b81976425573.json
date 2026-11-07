@@ -1,0 +1,18 @@
+{
+  "id": "fc439a43b81976425573",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 2e 12.6 Reaction Mechanisms",
+  "url": "https://openstax.org/books/chemistry-2e/pages/12-6-reaction-mechanisms",
+  "excerpt": "the rates of the forward and reverse processes are equal.",
+  "sourceHash": "97e1bca5fd429946f226bf80322715ec1114a3db21501b0f3848a293fd76ab3d",
+  "cacheSourceId": "ad3edce9dd43d21708e2",
+  "retrievedAt": "2026-11-06T19:37:33.762243+00:00",
+  "reviewedMappings": {
+    "2015-3-20:0": "본문의 기초 반응 속도식과 평형 시 정역 속도 동일 조건을 적용해 K=kf/kr를 유도한다. 단일 반응 모형이라는 적용 범위를 명시한다.",
+    "2015-3-20:1": "본문의 기초 반응 속도식과 평형 시 정역 속도 동일 조건을 적용해 K=kf/kr를 유도한다. 단일 반응 모형이라는 적용 범위를 명시한다.",
+    "2015-3-20:2": "본문의 기초 반응 속도식과 평형 시 정역 속도 동일 조건을 적용해 K=kf/kr를 유도한다. 단일 반응 모형이라는 적용 범위를 명시한다."
+  },
+  "retrievalMethod": "Direct web page opened; relevant equations and paragraphs read; selected short excerpt transcribed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "dae67dc92780ae6008de",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "9.5 Electrical Energy and Power",
+  "url": "https://openstax.org/books/university-physics-volume-2/pages/9-5-electrical-energy-and-power",
+  "excerpt": "Power can also be defined as the rate at which energy is transferred.",
+  "sourceHash": "c5753def847b555fb7cacb4e7eefc93f0aef38962d7afff9ffb32c4b67dd33df",
+  "cacheSourceId": "bdd6cfe2025f94467066",
+  "retrievedAt": "2026-11-06T20:54:17.731314+00:00",
+  "reviewedMappings": {
+    "2017-3-02:0": "본문 31,52–68행의 에너지 전달률 및 P=V²/R 확인. 일정한 전압·저항에서 E=V²t/R. 각 선지 저항을 대입한 공급 에너지를 물의 필요 열량과 비교하였다.",
+    "2017-3-02:1": "본문 31,52–68행의 에너지 전달률 및 P=V²/R 확인. 일정한 전압·저항에서 E=V²t/R. 각 선지 저항을 대입한 공급 에너지를 물의 필요 열량과 비교하였다.",
+    "2017-3-02:2": "본문 31,52–68행의 에너지 전달률 및 P=V²/R 확인. 일정한 전압·저항에서 E=V²t/R. 각 선지 저항을 대입한 공급 에너지를 물의 필요 열량과 비교하였다.",
+    "2017-3-02:3": "본문 31,52–68행의 에너지 전달률 및 P=V²/R 확인. 일정한 전압·저항에서 E=V²t/R. 각 선지 저항을 대입한 공급 에너지를 물의 필요 열량과 비교하였다.",
+    "2017-3-02:4": "본문 31,52–68행의 에너지 전달률 및 P=V²/R 확인. 일정한 전압·저항에서 E=V²t/R. 각 선지 저항을 대입한 공급 에너지를 물의 필요 열량과 비교하였다.",
+    "2017-3-02:5": "본문 31,52–68행의 에너지 전달률 및 P=V²/R 확인. 일정한 전압·저항에서 E=V²t/R. 각 선지 저항을 대입한 공급 에너지를 물의 필요 열량과 비교하였다."
+  },
+  "retrievalMethod": "Direct web page opened; relevant formulas and assumptions reviewed.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

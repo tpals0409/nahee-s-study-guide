@@ -1,0 +1,16 @@
+{
+  "id": "6494c8c5d87631652ed6",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 2e §8.2 Hybrid Atomic Orbitals",
+  "url": "https://openstax.org/books/chemistry-2e/pages/8-2-hybrid-atomic-orbitals",
+  "excerpt": "The hybridization of an atom is determined based on the number of regions of electron density that surround it.",
+  "sourceHash": "d410d04b48d4f07a3847be8f5f354faf092b3f292cfa32998b82ce93d872bc2b",
+  "cacheSourceId": "97c9ddd59e68751e90da",
+  "retrievedAt": "2026-11-06T21:09:13.842841+00:00",
+  "reviewedMappings": {
+    "2017-3-16:5": "§8.2 Figure 8.21의 4영역 sp3/5영역 sp3d 교과서 대응을 적용. §sp3d는 SF4 및 ClF3를 직접 예시. 큰 원자의 혼성 설명 한계도 본문에 명시되어 모형으로 한정."
+  },
+  "retrievalMethod": "Direct browser review of textbook section and figure descriptions",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "0563cbd8a800a51688ee",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 2e §21.3 — Types of Radioactive Decay",
+  "url": "https://openstax.org/books/chemistry-2e/pages/21-3-radioactive-decay",
+  "excerpt": "Emission of an electron does not change the mass number of the nuclide but does increase the number of its protons",
+  "sourceHash": "253c2d66c0473a083f741e712d2ba323f87c42eb05aab15fcf5eb4c1da6f54d8",
+  "cacheSourceId": "cf51d54c4d9e3d7f0178",
+  "retrievedAt": "2026-11-06T21:40:30.001907+00:00",
+  "reviewedMappings": {
+    "2018-3-04:0": "α 붕괴 A−4,Z−2 및 β− 붕괴 A불변,Z+1을 해당 절 식·본문에서 확인. 원본 수치에 적용해 x6,y4.",
+    "2018-3-04:1": "질량수식232−4x=208에서 x6. 보기 합 6이면 y=0, 따라서 Z=78. 최종82와 일치 여부 독립 검산. 근거는 해당 절 α·β− 식과 본문 전체.",
+    "2018-3-04:2": "질량수식232−4x=208에서 x6. 보기 합 8이면 y=2, 따라서 Z=80. 최종82와 일치 여부 독립 검산. 근거는 해당 절 α·β− 식과 본문 전체.",
+    "2018-3-04:3": "질량수식232−4x=208에서 x6. 보기 합 10이면 y=4, 따라서 Z=82. 최종82와 일치 여부 독립 검산. 근거는 해당 절 α·β− 식과 본문 전체.",
+    "2018-3-04:4": "질량수식232−4x=208에서 x6. 보기 합 12이면 y=6, 따라서 Z=84. 최종82와 일치 여부 독립 검산. 근거는 해당 절 α·β− 식과 본문 전체.",
+    "2018-3-04:5": "질량수식232−4x=208에서 x6. 보기 합 14이면 y=8, 따라서 Z=86. 최종82와 일치 여부 독립 검산. 근거는 해당 절 α·β− 식과 본문 전체."
+  },
+  "retrievalMethod": "Direct source reviewed: alpha decay paragraph and equation; beta-minus decay paragraph and equation",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

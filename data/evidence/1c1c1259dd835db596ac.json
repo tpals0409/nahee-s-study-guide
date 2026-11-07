@@ -1,0 +1,21 @@
+{
+  "id": "1c1c1259dd835db596ac",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume2 §7.2 Electric Potential and Potential Difference",
+  "url": "https://openstax.org/books/university-physics-volume-2/pages/7-2-electric-potential-and-potential-difference",
+  "excerpt": "A loss of U for a charged particle becomes an increase in its K.",
+  "sourceHash": "dfa19bb5a1fb65b244c9f1d5190e5081cd509d0fc95cb30c389035768d3f6217",
+  "cacheSourceId": "7f790bdd4e7c2c8c2b3e",
+  "retrievedAt": "2026-11-07T04:36:24.903530+00:00",
+  "reviewedMappings": {
+    "2019-3-09:0": "F=qE와에너지보존으로질량/전하비에따른가속도및정지출발K비를계산. 보기조합의판정은이조건하에서만적용.",
+    "2019-3-09:1": "F=qE와에너지보존으로질량/전하비에따른가속도및정지출발K비를계산. 보기조합의판정은이조건하에서만적용.",
+    "2019-3-09:2": "F=qE와에너지보존으로질량/전하비에따른가속도및정지출발K비를계산. 보기조합의판정은이조건하에서만적용.",
+    "2019-3-09:3": "F=qE와에너지보존으로질량/전하비에따른가속도및정지출발K비를계산. 보기조합의판정은이조건하에서만적용.",
+    "2019-3-09:4": "F=qE와에너지보존으로질량/전하비에따른가속도및정지출발K비를계산. 보기조합의판정은이조건하에서만적용.",
+    "2019-3-09:5": "F=qE와에너지보존으로질량/전하비에따른가속도및정지출발K비를계산. 보기조합의판정은이조건하에서만적용."
+  },
+  "retrievalMethod": "Direct web open/find",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "6abb02a19dea9ec2712a",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 2e §9.2 — The Ideal Gas Law",
+  "url": "https://openstax.org/books/chemistry-2e/pages/9-2-relating-pressure-volume-amount-and-temperature-the-ideal-gas-law",
+  "excerpt": "Combining these four laws yields the ideal gas law",
+  "sourceHash": "a1cfa78f91c9b6a7655847fdeaaa8af7021f25a037c45b603d788224916fb41c",
+  "cacheSourceId": "669de3223a98223f99f5",
+  "retrievedAt": "2026-11-06T21:56:14.845268+00:00",
+  "reviewedMappings": {
+    "2018-3-20:0": "본문 PV=nRT 및 V=nRT/P를 직접 검토. 질량·마찰 없는 피스톤은 같은 외부압력과 평형이므로 두 상태의 총압력 동일. 각 성분 농도=몰분율*P/(RT)를 위 평형식에 적용: K2/K1=(27/2)*(T1/T2)=12,온도비9/8. 원문 수치를 출처가 직접 제공하는 것은 아님.",
+    "2018-3-20:1": "본문 PV=nRT 및 V=nRT/P를 직접 검토. 질량·마찰 없는 피스톤은 같은 외부압력과 평형이므로 두 상태의 총압력 동일. 각 성분 농도=몰분율*P/(RT)를 위 평형식에 적용: K2/K1=(27/2)*(T1/T2)=12,온도비9/8. 원문 수치를 출처가 직접 제공하는 것은 아님.",
+    "2018-3-20:2": "본문 PV=nRT 및 V=nRT/P를 직접 검토. 질량·마찰 없는 피스톤은 같은 외부압력과 평형이므로 두 상태의 총압력 동일. 각 성분 농도=몰분율*P/(RT)를 위 평형식에 적용: K2/K1=(27/2)*(T1/T2)=12,온도비9/8. 원문 수치를 출처가 직접 제공하는 것은 아님.",
+    "2018-3-20:3": "본문 PV=nRT 및 V=nRT/P를 직접 검토. 질량·마찰 없는 피스톤은 같은 외부압력과 평형이므로 두 상태의 총압력 동일. 각 성분 농도=몰분율*P/(RT)를 위 평형식에 적용: K2/K1=(27/2)*(T1/T2)=12,온도비9/8. 원문 수치를 출처가 직접 제공하는 것은 아님.",
+    "2018-3-20:4": "본문 PV=nRT 및 V=nRT/P를 직접 검토. 질량·마찰 없는 피스톤은 같은 외부압력과 평형이므로 두 상태의 총압력 동일. 각 성분 농도=몰분율*P/(RT)를 위 평형식에 적용: K2/K1=(27/2)*(T1/T2)=12,온도비9/8. 원문 수치를 출처가 직접 제공하는 것은 아님.",
+    "2018-3-20:5": "본문 PV=nRT 및 V=nRT/P를 직접 검토. 질량·마찰 없는 피스톤은 같은 외부압력과 평형이므로 두 상태의 총압력 동일. 각 성분 농도=몰분율*P/(RT)를 위 평형식에 적용: K2/K1=(27/2)*(T1/T2)=12,온도비9/8. 원문 수치를 출처가 직접 제공하는 것은 아님."
+  },
+  "retrievalMethod": "Direct web open; relevant equations reviewed; selected verbatim excerpt retained",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

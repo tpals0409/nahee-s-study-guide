@@ -1,0 +1,21 @@
+{
+  "id": "39dc07609c12ed083898",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics 1 §10.7 Newton’s Second Law for Rotation",
+  "url": "https://openstax.org/books/university-physics-volume-1/pages/10-7-newtons-second-law-for-rotation",
+  "excerpt": "the sum of the torques equals the moment of inertia times the angular acceleration:",
+  "sourceHash": "173a3c5d62eb0e6c372632ed235bb616235585edc914567581bfe9c4bada2e7e",
+  "cacheSourceId": "315c97956af456c7f653",
+  "retrievedAt": "2026-11-07T04:48:24.465299+00:00",
+  "reviewedMappings": {
+    "2015-3-02:0": "무미끄럼 연결모형에서 α=mgR/(I+mR²)=25/4 rad/s². 장력을mg로 치환하면 물체의 가속도 방정식과 모순됨. 이 계산은 공식 답④를 뒷받침하지 않음.",
+    "2015-3-02:1": "무미끄럼 연결모형에서 α=mgR/(I+mR²)=25/4 rad/s². 장력을mg로 치환하면 물체의 가속도 방정식과 모순됨. 이 계산은 공식 답④를 뒷받침하지 않음.",
+    "2015-3-02:2": "무미끄럼 연결모형에서 α=mgR/(I+mR²)=25/4 rad/s². 장력을mg로 치환하면 물체의 가속도 방정식과 모순됨. 이 계산은 공식 답④를 뒷받침하지 않음.",
+    "2015-3-02:3": "무미끄럼 연결모형에서 α=mgR/(I+mR²)=25/4 rad/s². 장력을mg로 치환하면 물체의 가속도 방정식과 모순됨. 이 계산은 공식 답④를 뒷받침하지 않음.",
+    "2015-3-02:4": "무미끄럼 연결모형에서 α=mgR/(I+mR²)=25/4 rad/s². 장력을mg로 치환하면 물체의 가속도 방정식과 모순됨. 이 계산은 공식 답④를 뒷받침하지 않음.",
+    "2015-3-02:5": "무미끄럼 연결모형에서 α=mgR/(I+mR²)=25/4 rad/s². 장력을mg로 치환하면 물체의 가속도 방정식과 모순됨. 이 계산은 공식 답④를 뒷받침하지 않음."
+  },
+  "retrievalMethod": "Direct web open",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

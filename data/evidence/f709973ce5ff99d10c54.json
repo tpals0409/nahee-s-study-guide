@@ -1,0 +1,14 @@
+{
+  "id": "f709973ce5ff99d10c54",
+  "kind": "science",
+  "source": "OpenStax · University Physics Volume 2",
+  "ref": "6.4 Conductors in Electrostatic Equilibrium",
+  "url": "https://openstax.org/books/university-physics-volume-2/pages/6-4-conductors-in-electrostatic-equilibrium",
+  "excerpt": "the electric field is always perpendicular to the surface of a conductor.",
+  "sourceHash": "6864ac59476e82a15548866807439573319e8883d47d119ddf47358a761c6489",
+  "cacheSourceId": "6d11a58d59a6cd23291d",
+  "retrievedAt": "2026-11-06T15:27:05.451089+00:00",
+  "reviewedMappings": {
+    "2010-3-04:0": "본문 식 6.14 및 가우스 원통 증명 확인. 접선 성분 0, 내부 0, EₙA=σA/ε₀ 독립 도출. 다섯 선지의 방향과 계수 비교하여 ⑤. 음의 σ에서 크기는 절댓값이라는 점 보완."
+  }
+}

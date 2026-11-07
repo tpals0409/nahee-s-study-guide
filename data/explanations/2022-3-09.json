@@ -1,0 +1,85 @@
+{
+  "id": "2022-3-09",
+  "summary": "광전 효과에서 광전자의 최대 운동 에너지는 Ek = h(f - f문턱)입니다. A는 Ek,A = h(3f₀ - f₀) = 2hf₀이고, X는 Ek,X = h(3f₀ - f_X)입니다. 조건 Ek,A = 1.5 Ek,X를 풀면 f_X = (5/3)f₀가 되어 (5/3)f₀가 정답입니다.",
+  "choices": [
+    "(5/3)f₀: 정답입니다. 이 값이면 Ek,X = h(3f₀ - 5f₀/3) = (4/3)hf₀입니다. Ek,A/Ek,X = 2hf₀ ÷ (4/3)hf₀ = 1.5가 되어 조건과 정확히 일치합니다.",
+    "2f₀: 오답입니다. 이 값이면 Ek,X = h(3f₀ - 2f₀) = hf₀입니다. 비율이 2hf₀ ÷ hf₀ = 2가 되어 1.5배 조건과 맞지 않습니다.",
+    "(7/3)f₀: 오답입니다. 이 값이면 Ek,X = (2/3)hf₀입니다. 비율이 2 ÷ (2/3) = 3이 되어 조건과 맞지 않습니다.",
+    "(8/3)f₀: 오답입니다. 이 값이면 Ek,X = (1/3)hf₀입니다. 비율이 2 ÷ (1/3) = 6이 되어 조건과 맞지 않습니다.",
+    "3f₀라면 X의 광전자 최대 운동 에너지는 0입니다. A에서는 2hf₀>0이므로 K_A=1.5K_X라는 조건을 만족하지 못합니다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 3, 6.2 Photoelectric Effect",
+      "quote": "Each metal has its characteristic work function",
+      "url": "https://openstax.org/books/university-physics-volume-3/pages/6-2-photoelectric-effect",
+      "evidenceId": "43f36ebb5c96aa599a30",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 3, 6.2 Photoelectric Effect",
+      "quote": "Each metal has its characteristic work function",
+      "url": "https://openstax.org/books/university-physics-volume-3/pages/6-2-photoelectric-effect",
+      "evidenceId": "43f36ebb5c96aa599a30",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 3, 6.2 Photoelectric Effect",
+      "quote": "Each metal has its characteristic work function",
+      "url": "https://openstax.org/books/university-physics-volume-3/pages/6-2-photoelectric-effect",
+      "evidenceId": "43f36ebb5c96aa599a30",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 3, 6.2 Photoelectric Effect",
+      "quote": "Each metal has its characteristic work function",
+      "url": "https://openstax.org/books/university-physics-volume-3/pages/6-2-photoelectric-effect",
+      "evidenceId": "43f36ebb5c96aa599a30",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 3, 6.2 Photoelectric Effect",
+      "quote": "Each metal has its characteristic work function",
+      "url": "https://openstax.org/books/university-physics-volume-3/pages/6-2-photoelectric-effect",
+      "evidenceId": "43f36ebb5c96aa599a30",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 3, 6.2 Photoelectric Effect",
+      "quote": "Each metal has its characteristic work function",
+      "url": "https://openstax.org/books/university-physics-volume-3/pages/6-2-photoelectric-effect",
+      "evidenceId": "43f36ebb5c96aa599a30",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Original image reviewed; independent photoelectric energy balance; exact rational substitution for all five candidates; direct OpenStax equations review",
+    "contentHash": "3c9859cf3fded85d24909419128810976c5213483b07c44a59db31656c9c2b8e"
+  }
+}

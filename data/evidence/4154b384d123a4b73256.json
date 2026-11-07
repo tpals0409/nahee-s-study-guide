@@ -1,0 +1,21 @@
+{
+  "id": "4154b384d123a4b73256",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 2e, 14.4: Hydrolysis of Salts",
+  "url": "https://openstax.org/books/chemistry-2e/pages/14-4-hydrolysis-of-salts",
+  "excerpt": "The ammonium ion is the conjugate acid of the base ammonia",
+  "sourceHash": "7a91da5c7de726cf624ce3cd931f4493a42effbace74a97cd6952b33dbdb9c21",
+  "cacheSourceId": "8a3e4e41e991f125343e",
+  "retrievedAt": "2026-11-07T03:05:11.773398+00:00",
+  "reviewedMappings": {
+    "2025-3-11:0": "HCl 강산, NH4+ 약산, Ka=Kw/Kb, pH 정의 및 약산 계산을 확인. 원문 부피에서 NH4+ 형식농도 0.20M, ㄷ pH≈5.00; ㄱ pH≈4.70. 각 선지 순서와 대조.",
+    "2025-3-11:1": "HCl 강산, NH4+ 약산, Ka=Kw/Kb, pH 정의 및 약산 계산을 확인. 원문 부피에서 NH4+ 형식농도 0.20M, ㄷ pH≈5.00; ㄱ pH≈4.70. 각 선지 순서와 대조.",
+    "2025-3-11:2": "HCl 강산, NH4+ 약산, Ka=Kw/Kb, pH 정의 및 약산 계산을 확인. 원문 부피에서 NH4+ 형식농도 0.20M, ㄷ pH≈5.00; ㄱ pH≈4.70. 각 선지 순서와 대조.",
+    "2025-3-11:3": "HCl 강산, NH4+ 약산, Ka=Kw/Kb, pH 정의 및 약산 계산을 확인. 원문 부피에서 NH4+ 형식농도 0.20M, ㄷ pH≈5.00; ㄱ pH≈4.70. 각 선지 순서와 대조.",
+    "2025-3-11:4": "HCl 강산, NH4+ 약산, Ka=Kw/Kb, pH 정의 및 약산 계산을 확인. 원문 부피에서 NH4+ 형식농도 0.20M, ㄷ pH≈5.00; ㄱ pH≈4.70. 각 선지 순서와 대조.",
+    "2025-3-11:5": "HCl 강산, NH4+ 약산, Ka=Kw/Kb, pH 정의 및 약산 계산을 확인. 원문 부피에서 NH4+ 형식농도 0.20M, ㄷ pH≈5.00; ㄱ pH≈4.70. 각 선지 순서와 대조."
+  },
+  "retrievalMethod": "Direct relevant equilibrium definitions, equations and calculation examples reviewed; numerical constants taken from question.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

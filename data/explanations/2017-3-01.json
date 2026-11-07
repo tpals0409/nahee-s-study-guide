@@ -1,0 +1,152 @@
+{
+  "id": "2017-3-01",
+  "summary": "진동수, 줄의 길이, 선밀도가 같으므로 배의 개수 n은 장력 T의 제곱근에 반비례합니다. 추가 물에 잠기면 부력만큼 장력이 줄어듭니다. 이를 이용하면 추의 부피는 V = (m/ρ)[1 − (n₁/n₂)²]입니다.",
+  "choices": [
+    "오답입니다. 정상파의 배 개수 비는 제곱으로 들어가야 하며, 부력이 장력을 감소시키므로 1에서 그 비를 빼야 합니다.",
+    "정답입니다. T₂/T₁=(n₁/n₂)²이고 T₁=mg, T₂=mg−ρVg입니다. 따라서 V=(m/ρ)[1−(n₁/n₂)²]입니다.",
+    "오답입니다. 부피 식의 부호는 더하기가 아니라 빼기입니다. 제시된 식은 ρV>m이 되어 이 장치의 양의 장력 조건에도 맞지 않습니다.",
+    "오답입니다. 배 개수 비가 뒤집혔고, 더하기 부호와 계수 2도 유도식과 다릅니다. V>2m/ρ는 추의 평형에 필요한 양의 장력과 양립하지 않습니다.",
+    "오답입니다. (n₁/n₂)²를 사용하는 점은 맞지만, 부호와 계수 2가 틀립니다. 이 식 역시 V>2m/ρ가 되어 장력 조건에 맞지 않습니다."
+  ],
+  "lawNote": "진동자의 진동수와 수평 구간의 길이, 줄의 선밀도는 두 경우 같다고 해석합니다. 줄의 무게를 무시한다는 것은 추의 힘 평형에서 줄 무게를 생략한다는 뜻이며, 파동의 선밀도를 0으로 놓는 것은 아닙니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "16.6 Standing Waves and Resonance",
+      "quote": "The string has a node on each end and a constant linear density.",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/16-6-standing-waves-and-resonance",
+      "evidenceId": "9b7a5b3b4d6fff709d07",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "16.6 Standing Waves and Resonance",
+      "quote": "The string has a node on each end and a constant linear density.",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/16-6-standing-waves-and-resonance",
+      "evidenceId": "9b7a5b3b4d6fff709d07",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "16.6 Standing Waves and Resonance",
+      "quote": "The string has a node on each end and a constant linear density.",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/16-6-standing-waves-and-resonance",
+      "evidenceId": "9b7a5b3b4d6fff709d07",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "16.6 Standing Waves and Resonance",
+      "quote": "The string has a node on each end and a constant linear density.",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/16-6-standing-waves-and-resonance",
+      "evidenceId": "9b7a5b3b4d6fff709d07",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "16.6 Standing Waves and Resonance",
+      "quote": "The string has a node on each end and a constant linear density.",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/16-6-standing-waves-and-resonance",
+      "evidenceId": "9b7a5b3b4d6fff709d07",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "16.6 Standing Waves and Resonance",
+      "quote": "The string has a node on each end and a constant linear density.",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/16-6-standing-waves-and-resonance",
+      "evidenceId": "9b7a5b3b4d6fff709d07",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1 14.4 — Archimedes’ Principle",
+      "quote": "The buoyant force on an object equals the weight of the fluid it displaces.",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/14-4-archimedes-principle-and-buoyancy",
+      "evidenceId": "3c351de88016f9fdb60c",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1 14.4 — Archimedes’ Principle",
+      "quote": "The buoyant force on an object equals the weight of the fluid it displaces.",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/14-4-archimedes-principle-and-buoyancy",
+      "evidenceId": "3c351de88016f9fdb60c",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1 14.4 — Archimedes’ Principle",
+      "quote": "The buoyant force on an object equals the weight of the fluid it displaces.",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/14-4-archimedes-principle-and-buoyancy",
+      "evidenceId": "3c351de88016f9fdb60c",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1 14.4 — Archimedes’ Principle",
+      "quote": "The buoyant force on an object equals the weight of the fluid it displaces.",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/14-4-archimedes-principle-and-buoyancy",
+      "evidenceId": "3c351de88016f9fdb60c",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1 14.4 — Archimedes’ Principle",
+      "quote": "The buoyant force on an object equals the weight of the fluid it displaces.",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/14-4-archimedes-principle-and-buoyancy",
+      "evidenceId": "3c351de88016f9fdb60c",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1 14.4 — Archimedes’ Principle",
+      "quote": "The buoyant force on an object equals the weight of the fluid it displaces.",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/14-4-archimedes-principle-and-buoyancy",
+      "evidenceId": "3c351de88016f9fdb60c",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "Original question image inspected; standing-wave and buoyancy equations independently derived; two OpenStax sections directly reviewed and mapped to all choices.",
+    "contentHash": "67ea455dabf6985021a15394bbeaaa45fb8d1d2e4272e03238d508633291c3f5"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "c3222aa6f19c212c1770",
+  "kind": "science",
+  "source": "US EPA",
+  "ref": "Visible Emission Evaluation Procedures — Fumigating",
+  "url": "https://www.epa.gov/sites/default/files/2020-08/documents/vecourse.pdf",
+  "excerpt": "Isothermal or inverted lapse rate above—lower layer unstable or neutral, upper layer stable",
+  "sourceHash": "0c05d178ca28e10fa31fda4baceb88dd6e5387a73e5c9481eff93d0e4c022a45",
+  "cacheSourceId": "8188e4046769969612a9",
+  "retrievedAt": "2026-11-07T03:36:31.695814+00:00",
+  "reviewedMappings": {
+    "2025-3-38:0": "훈증형 설명의 상층 안정·하층 불안정 또는 중립 및 명확한 윗면·퍼지는 아랫면을 문제 그림과 대조. 다섯 보기 중 ②만 해당 층서.",
+    "2025-3-38:2": "훈증형 설명의 상층 안정·하층 불안정 또는 중립 및 명확한 윗면·퍼지는 아랫면을 문제 그림과 대조. 다섯 보기 중 ②만 해당 층서."
+  },
+  "retrievalMethod": "Search-indexed EPA manual excerpt read",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

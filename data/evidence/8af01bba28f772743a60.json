@@ -1,0 +1,20 @@
+{
+  "id": "8af01bba28f772743a60",
+  "kind": "science",
+  "source": "NIST",
+  "ref": "Atomic Data for Fluorine (F)",
+  "url": "https://physics.nist.gov/PhysRefData/Handbook/Tables/fluorinetable1_a.htm",
+  "excerpt": "34.9708 eV",
+  "sourceHash": "82bd6fe464081bcae8211261a63c42406aa107fca265e527c6af9df32dd9520e",
+  "cacheSourceId": "f7003fd80a520b899217",
+  "retrievedAt": "2026-11-07T00:57:28.705746+00:00",
+  "reviewedMappings": {
+    "2022-3-16:0": "NIST indexed search excerpt reviewed: F II ground state 1s2 2s2 2p4 and ionization energy 34.9708 eV. This is removal from F+, i.e. second ionization of F. 정답은 ③, ㄱ·ㄷ입니다. 제1 이온화 에너지 순서로 W=Na, X=C, Y=N, Z=F입니다. 원자 반지름은 Na>C이고, 2p 전자의 유효 핵전하는 N<F입니다. 제2 이온화 에너지는 Na>F입니다.",
+    "2022-3-16:1": "NIST indexed search excerpt reviewed: F II ground state 1s2 2s2 2p4 and ionization energy 34.9708 eV. This is removal from F+, i.e. second ionization of F. ㄱ은 옳지만 ㄷ도 옳으므로 불완전합니다. Na는 C보다 주기율표에서 왼쪽·아래쪽에 있어 원자 반지름이 큽니다. 제2 이온화 에너지도 Na가 F보다 큽니다.",
+    "2022-3-16:3": "NIST indexed search excerpt reviewed: F II ground state 1s2 2s2 2p4 and ionization energy 34.9708 eV. This is removal from F+, i.e. second ionization of F. ㄱ·ㄷ이 옳습니다. 원자 반지름은 Na>C입니다. Na⁺는 [Ne] 전자 배치여서 두 번째 이온화에서 안쪽 2p 전자를 제거합니다. NIST 값은 Na의 제2 이온화 에너지가 약 47.29 eV, F는 약 34.97 eV로 Na가 더 큽니다.",
+    "2022-3-16:4": "NIST indexed search excerpt reviewed: F II ground state 1s2 2s2 2p4 and ionization energy 34.9708 eV. This is removal from F+, i.e. second ionization of F. ㄷ은 옳지만 ㄴ은 틀리고 ㄱ이 빠져 있습니다. 제2 이온화 에너지는 Na>F이며, 2p 전자의 유효 핵전하는 N<F입니다.",
+    "2022-3-16:5": "NIST indexed search excerpt reviewed: F II ground state 1s2 2s2 2p4 and ionization energy 34.9708 eV. This is removal from F+, i.e. second ionization of F. ㄴ이 틀리므로 모두 고를 수 없습니다. 옳은 진술은 원자 반지름 Na>C인 ㄱ과 제2 이온화 에너지 Na>F인 ㄷ입니다."
+  },
+  "retrievalMethod": "NIST indexed search excerpt reviewed: F II ground state 1s2 2s2 2p4 and ionization energy 34.9708 eV. This is removal from F+, i.e. second ionization of F.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

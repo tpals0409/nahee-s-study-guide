@@ -1,0 +1,17 @@
+{
+  "id": "3f2d59df7bcb75214b21",
+  "kind": "science",
+  "source": "PubMed / original research abstract",
+  "ref": "Micro quantitative Edman manual sequencing",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/7451804/",
+  "excerpt": "sequential quantitative determination of from 3 to 10 amino terminal residues",
+  "sourceHash": "9fc870dc4f5bcf59181368ec8d7c72dfae32b7daad438f27c1351449ab11afd4",
+  "cacheSourceId": "d853336bff90c4ae8fef",
+  "retrievedAt": "2026-11-07T02:41:00.983621+00:00",
+  "reviewedMappings": {
+    "2024-3-26:0": "Edman sequencing determines successive amino-terminal residues of peptides or proteins; no claim that every blocked protein can be sequenced.",
+    "2024-3-26:2": "Edman sequencing determines successive amino-terminal residues of peptides or proteins; no claim that every blocked protein can be sequenced."
+  },
+  "retrievalMethod": "Indexed original research abstract reviewed.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

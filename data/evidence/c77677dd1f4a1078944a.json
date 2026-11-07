@@ -1,0 +1,18 @@
+{
+  "id": "c77677dd1f4a1078944a",
+  "kind": "science",
+  "source": "National Park Service",
+  "ref": "Lava — Hawaiʻi Volcanoes National Park",
+  "url": "https://www.nps.gov/havo/learn/nature/lava.htm",
+  "excerpt": "The easy flowing, fluid nature of lava from Hawaiian volcanoes contributes to their shape",
+  "sourceHash": "fad902b606e4d99b49260a9ec8948fa35ce22df43afd1fce4a200adc8db8059a",
+  "cacheSourceId": "7e43a7311e51015263a6",
+  "retrievedAt": "2026-11-07T03:31:56.680715+00:00",
+  "reviewedMappings": {
+    "2025-3-33:0": "낮은 SiO2·높은 유동성의 하와이 용암과 순상 화산 형태 관계 확인. ㄷ에서 현무암질 A와 비교하는 근거.",
+    "2025-3-33:2": "낮은 SiO2·높은 유동성의 하와이 용암과 순상 화산 형태 관계 확인. ㄷ에서 현무암질 A와 비교하는 근거.",
+    "2025-3-33:4": "낮은 SiO2·높은 유동성의 하와이 용암과 순상 화산 형태 관계 확인. ㄷ에서 현무암질 A와 비교하는 근거."
+  },
+  "retrievalMethod": "Search-indexed NPS article body read",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

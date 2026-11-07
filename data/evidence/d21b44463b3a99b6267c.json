@@ -1,0 +1,16 @@
+{
+  "id": "d21b44463b3a99b6267c",
+  "kind": "science",
+  "source": "NCBI Bookshelf / Sinauer Associates",
+  "ref": "The Cell: A Molecular Approach, Cell Walls and the Extracellular Matrix",
+  "url": "https://www.ncbi.nlm.nih.gov/books/NBK9874/",
+  "excerpt": "lignin, a complex polymer of phenolic residues",
+  "sourceHash": "d9d3b9c76f0f1f300f4d675c78ddbeda79e4dc12714e1a412baf7c160da7abd9",
+  "cacheSourceId": "a801f524431128b6df05",
+  "retrievedAt": "2026-11-07T02:34:18.274829+00:00",
+  "reviewedMappings": {
+    "2024-3-21:4": "Phenolic lignin strengthens plant secondary walls; it is not a polysaccharide."
+  },
+  "retrievalMethod": "Official search-index excerpt reviewed; direct page returned browser challenge.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

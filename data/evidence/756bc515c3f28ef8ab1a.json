@@ -1,0 +1,21 @@
+{
+  "id": "756bc515c3f28ef8ab1a",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e, 20.1 Organizing Life on Earth",
+  "url": "https://openstax.org/books/biology-2e/pages/20-1-organizing-life-on-earth",
+  "excerpt": "rotation at branch points does not change the information",
+  "sourceHash": "9d858d43d8f32410eaa337c0c32b846827a27c32f0dfdf4dc6815cbc3177164f",
+  "cacheSourceId": "543042ff15f74a495683",
+  "retrievedAt": "2026-11-07T00:21:27.082482+00:00",
+  "reviewedMappings": {
+    "2021-3-28:0": "분기점 회전은 계통 관계를 바꾸지 않는다는 원리를 원본 그림에 적용: 가·나만 동일한 중첩 군집.",
+    "2021-3-28:1": "가·나 모두 DE, CDE, BCDE 군집을 공유한다는 독립 그림 판독.",
+    "2021-3-28:2": "가의 CDE와 다의 BDE 군집 차이를 원본에서 확인.",
+    "2021-3-28:3": "나의 CDE와 다의 BDE 군집 차이를 원본에서 확인.",
+    "2021-3-28:4": "라의 BC 자매군은 나에 없음을 원본에서 확인.",
+    "2021-3-28:5": "다의 BDE 군집과 라의 BC 자매군 구조가 다름을 원본에서 확인."
+  },
+  "retrievalMethod": "Direct page review, Phylogenetic Trees paragraphs on branch points, sister taxa, and rotation; original question figure independently inspected.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,129 @@
+{
+  "id": "2022-3-33",
+  "summary": "정답은 ②, ㄷ입니다. 그래프에서 반감기는 1억 년입니다. A의 잔존량 50%는 1억 년, B의 25%는 2억 년에 해당합니다. 관입과 부정합 관계를 보면 생성 순서는 C→B→D→A이고, D는 2억 년 전 이후부터 1억 년 전 이전 사이에 형성되었으므로 제4기 지층이 아닙니다.",
+  "choices": [
+    "① 오답입니다. ㄱ은 틀립니다. A에 X가 처음 양의 50% 남았으므로 반감기 한 번이 지났습니다. 그래프의 반감기는 1억 년이므로 A의 절대연령은 1억 년입니다.",
+    "② 정답입니다. B가 C를 관입하므로 C가 먼저입니다. B와 C의 침식면 위에 D가 퇴적되었으므로 D는 B보다 나중입니다. A는 B와 D를 자르므로 가장 나중에 생성되었습니다. 따라서 ㄷ의 C→B→D→A가 맞습니다.",
+    "③ 오답입니다. ㄱ의 A는 2억 년이 아니라 1억 년입니다. ㄴ의 D는 B보다 젊고 A보다 오래되어 1억~2억 년 전의 중생대에 해당합니다. 신생대 제4기 지층이라는 전제부터 맞지 않으므로 ㄴ도 틀립니다.",
+    "④ 오답입니다. ㄷ의 생성 순서는 맞지만 ㄴ은 틀립니다. D의 형성 시기는 두 화성암체의 연대와 관입·퇴적 관계로 1억~2억 년 전 사이로 제한되므로, 제4기 지층으로 설명할 수 없습니다.",
+    "⑤ 오답입니다. ㄷ만 옳습니다. ㄱ은 A의 잔존량에 대응하는 연령이 틀리고, ㄴ은 D의 형성 시기를 제4기로 판단한 것이 틀립니다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "Utah Geological Survey / Mark Milligan",
+      "ref": "How Do Geologists Know How Old a Rock Is?",
+      "quote": "igneous intrusions or faults are younger than the units they cut across",
+      "url": "https://geology.utah.gov/map-pub/survey-notes/glad-you-asked/glad-you-asked-how-do-geologists-know-how-old-a-rock-is/",
+      "evidenceId": "e376c1d2ea78dffcc4fc",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "Utah Geological Survey / Mark Milligan",
+      "ref": "How Do Geologists Know How Old a Rock Is?",
+      "quote": "igneous intrusions or faults are younger than the units they cut across",
+      "url": "https://geology.utah.gov/map-pub/survey-notes/glad-you-asked/glad-you-asked-how-do-geologists-know-how-old-a-rock-is/",
+      "evidenceId": "e376c1d2ea78dffcc4fc",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "Utah Geological Survey / Mark Milligan",
+      "ref": "How Do Geologists Know How Old a Rock Is?",
+      "quote": "igneous intrusions or faults are younger than the units they cut across",
+      "url": "https://geology.utah.gov/map-pub/survey-notes/glad-you-asked/glad-you-asked-how-do-geologists-know-how-old-a-rock-is/",
+      "evidenceId": "e376c1d2ea78dffcc4fc",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "Utah Geological Survey / Mark Milligan",
+      "ref": "How Do Geologists Know How Old a Rock Is?",
+      "quote": "igneous intrusions or faults are younger than the units they cut across",
+      "url": "https://geology.utah.gov/map-pub/survey-notes/glad-you-asked/glad-you-asked-how-do-geologists-know-how-old-a-rock-is/",
+      "evidenceId": "e376c1d2ea78dffcc4fc",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "Utah Geological Survey / Mark Milligan",
+      "ref": "How Do Geologists Know How Old a Rock Is?",
+      "quote": "igneous intrusions or faults are younger than the units they cut across",
+      "url": "https://geology.utah.gov/map-pub/survey-notes/glad-you-asked/glad-you-asked-how-do-geologists-know-how-old-a-rock-is/",
+      "evidenceId": "e376c1d2ea78dffcc4fc",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "Utah Geological Survey / Mark Milligan",
+      "ref": "How Do Geologists Know How Old a Rock Is?",
+      "quote": "igneous intrusions or faults are younger than the units they cut across",
+      "url": "https://geology.utah.gov/map-pub/survey-notes/glad-you-asked/glad-you-asked-how-do-geologists-know-how-old-a-rock-is/",
+      "evidenceId": "e376c1d2ea78dffcc4fc",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "U.S. National Park Service",
+      "ref": "Geologic Time Scale",
+      "quote": "Quaternary (2.6 MYA-present; Q)",
+      "url": "https://www.nps.gov/subjects/geology/time-scale.htm",
+      "evidenceId": "296d1c4ae36e70d64474",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "U.S. National Park Service",
+      "ref": "Geologic Time Scale",
+      "quote": "Quaternary (2.6 MYA-present; Q)",
+      "url": "https://www.nps.gov/subjects/geology/time-scale.htm",
+      "evidenceId": "296d1c4ae36e70d64474",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "U.S. National Park Service",
+      "ref": "Geologic Time Scale",
+      "quote": "Quaternary (2.6 MYA-present; Q)",
+      "url": "https://www.nps.gov/subjects/geology/time-scale.htm",
+      "evidenceId": "296d1c4ae36e70d64474",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "U.S. National Park Service",
+      "ref": "Geologic Time Scale",
+      "quote": "Quaternary (2.6 MYA-present; Q)",
+      "url": "https://www.nps.gov/subjects/geology/time-scale.htm",
+      "evidenceId": "296d1c4ae36e70d64474",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Original crosscutting/unconformity geometry and graph verified; independent half-life calculation and direct UGS/NPS dating evidence; ㄴ rejected by demonstrably false Quaternary age",
+    "contentHash": "86cb83ebc5896c43335fdad511f2edf69958da467ea21420d8cbeeb3111f9079"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "id": "2023-3-20",
+  "summary": "해리도 α에 대해 [A⁻]/[HA]=α/(1−α)이다. K_a=[H⁺][A⁻]/[HA]이므로 pH=5+log(α/(1−α))이다. pH=6에 대응하는 해리도는10/11≈90.9%이므로 정답은④, 91% 해리된 용액이다.",
+  "choices": [
+    "오답. α=0.01이면 pH=5+log(1/99)≈3.004로6에 가깝지 않다.",
+    "오답. α=0.09이면 pH=5+log(9/91)≈3.995다.",
+    "오답. 50% 해리되면 [A⁻]=[HA]이므로 pH=pK_a=5다.",
+    "정답. α=0.91이면 pH=5+log(91/9)≈6.005로 제시된 용액 중6에 가장 가깝다.",
+    "오답. α=0.99이면 pH=5+log99≈6.996이다. 6과의 차이가91%인 경우보다 크다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 14.3 Relative Strengths of Acids and Bases",
+      "quote": "where the concentrations are those at equilibrium.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/14-3-relative-strengths-of-acids-and-bases",
+      "evidenceId": "8c19b4b5de2e6b96a0b0",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 14.3 Relative Strengths of Acids and Bases",
+      "quote": "where the concentrations are those at equilibrium.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/14-3-relative-strengths-of-acids-and-bases",
+      "evidenceId": "8c19b4b5de2e6b96a0b0",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 14.3 Relative Strengths of Acids and Bases",
+      "quote": "where the concentrations are those at equilibrium.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/14-3-relative-strengths-of-acids-and-bases",
+      "evidenceId": "8c19b4b5de2e6b96a0b0",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 14.3 Relative Strengths of Acids and Bases",
+      "quote": "where the concentrations are those at equilibrium.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/14-3-relative-strengths-of-acids-and-bases",
+      "evidenceId": "8c19b4b5de2e6b96a0b0",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 14.3 Relative Strengths of Acids and Bases",
+      "quote": "where the concentrations are those at equilibrium.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/14-3-relative-strengths-of-acids-and-bases",
+      "evidenceId": "8c19b4b5de2e6b96a0b0",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 14.3 Relative Strengths of Acids and Bases",
+      "quote": "where the concentrations are those at equilibrium.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/14-3-relative-strengths-of-acids-and-bases",
+      "evidenceId": "8c19b4b5de2e6b96a0b0",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "원문Ka10⁻⁵·25℃·해리율1/9/50/91/99%대조. 평형식에서pH직접유도,전선지수치검산. 물자동이온화를 포함한 전하수지[H+]=αC+Kw/[H+]로 양의C가존재함 및Ka회복확인(work/2023-3-20-check.json). 낮은해리도근사 및[H+]=[A−]를 사용하지않음. 초안의 불필요한 자동이온화우려·완충용액일반화 제거.",
+    "contentHash": "d8e273434522040db2846eec2eab79dda4aa4cee69362a82d8efd2a1eb40fd95"
+  }
+}

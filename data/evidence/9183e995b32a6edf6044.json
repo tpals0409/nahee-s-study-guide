@@ -1,0 +1,21 @@
+{
+  "id": "9183e995b32a6edf6044",
+  "kind": "science",
+  "source": "OpenStax Biology 2e",
+  "ref": "7.5 Metabolism without Oxygen",
+  "url": "https://openstax.org/books/biology-2e/pages/7-5-metabolism-without-oxygen",
+  "excerpt": "The regeneration of NAD+ allows glycolysis to continue to make ATP by substrate level phosphorylation.",
+  "sourceHash": "9923ace80a9eda9eeb5a90276af0292e4bfda825da660424401d28bc2db192cd",
+  "cacheSourceId": "e0abfdd419e18437cff3",
+  "retrievedAt": "2026-11-07T03:20:43.269627+00:00",
+  "reviewedMappings": {
+    "2025-3-24:0": "발효 NAD 재생 및 glycolysis ATP 유지 확인.",
+    "2025-3-24:1": "pyruvate+NADH→lactate+NAD+와 LDH 설명 대조하여 피루브산 전자수용 확인.",
+    "2025-3-24:2": "알코올 탈수소효소가 NADH 산화와 아세트알데하이드 환원을 결합하는 본문 확인.",
+    "2025-3-24:3": "pyruvate decarboxylase가 CO2를 떼어 C3→C2 acetaldehyde 생성 명시.",
+    "2025-3-24:4": "Figure7.16 설명에 NAD 재생/해당 기질수준 인산화 명시.",
+    "2025-3-24:5": "발효는 해당과정을 지속시키는 NAD 재생; ATP수율 낮음을 산화적 인산화 출처와 함께 비교."
+  },
+  "retrievalMethod": "Direct web reading of fermentation reactions, glycolysis ATP investment/payoff and oxidative ATP yield discussion.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

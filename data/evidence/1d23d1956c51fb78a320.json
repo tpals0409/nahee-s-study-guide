@@ -1,0 +1,17 @@
+{
+  "id": "1d23d1956c51fb78a320",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "OpenStax Anatomy and Physiology 2e §19.2 Cardiac Muscle and Electrical Activity",
+  "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/19-2-cardiac-muscle-and-electrical-activity",
+  "excerpt": "The septum prevents the impulse from spreading directly to the ventricles without passing through the AV node.",
+  "sourceHash": "5dcacc80ab477d2397bda6f966a2f85077a9466fc29d67f1489af3a176d2cd3d",
+  "cacheSourceId": "482c41302dd98e573605",
+  "retrievedAt": "2026-11-06T18:09:14.193290+00:00",
+  "reviewedMappings": {
+    "2013-3-22:1": "§19.2 심장전도계·AV결절·SA결절 역할 및 전도차단 대조. 심방리듬은 유지되지만 심실로 전달이 불규칙한 조건에 대한 선택지내 최선은 AV결절. 특정차단유형이나 SA정상을 확진하는 표현은 제거.",
+    "2013-3-22:4": "§19.2 심장전도계·AV결절·SA결절 역할 및 전도차단 대조. 심방리듬은 유지되지만 심실로 전달이 불규칙한 조건에 대한 선택지내 최선은 AV결절. 특정차단유형이나 SA정상을 확진하는 표현은 제거."
+  },
+  "retrievalMethod": "web.open and web.find; original question image inspected",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

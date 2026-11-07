@@ -1,0 +1,196 @@
+{
+  "id": "2015-3-30",
+  "summary": "정답은 ⑤ ㄱ, ㄴ, ㄷ입니다. 제시된 계통수에서 (가)는 촉수담륜동물·탈피동물·후구동물을 포함하는 좌우대칭동물입니다. 해면동물은 교과 분류상 진정한 조직이 없으며, 그림에서 자포동물과 탈피동물은 해면동물과 자포동물보다 더 최근의 공통조상을 공유합니다.",
+  "choices": [
+    "오답입니다. ㄱ은 옳지만 ㄴ과 ㄷ도 옳으므로 모두 포함해야 합니다.",
+    "오답입니다. ㄷ은 옳지만 (가)가 좌우대칭동물이라는 ㄱ과 해면동물의 조직에 관한 ㄴ도 옳습니다.",
+    "오답입니다. ㄱ과 ㄴ 외에 ㄷ도 옳습니다. 그림에서 자포동물과 탈피동물의 공통조상은 해면동물이 갈라진 뒤의 계통에 있습니다. 따라서 해면동물과 자포동물의 공통조상보다 더 최근입니다.",
+    "오답입니다. ㄴ과 ㄷ은 옳지만 ㄱ도 포함해야 합니다. (가)에서 이어지는 촉수담륜동물·탈피동물·후구동물은 좌우대칭동물 분기군에 속합니다.",
+    "정답입니다. (가)는 좌우대칭동물이고(ㄱ), 해면동물은 진정한 조직이 없는 동물로 분류합니다(ㄴ). 제시된 분기 순서에서 자포동물과 탈피동물이 더 최근의 공통조상을 공유하므로 ㄷ도 옳습니다."
+  ],
+  "lawNote": "계통수는 가지 끝의 거리나 배열 순서가 아니라 분기 관계로 읽습니다. 여기서는 제시된 나무를 기준으로 판단하며, 가로선 길이에서 정확한 분기 연대를 추정하지 않습니다. 해면동물에 진정한 조직이 없다는 것은 특수화된 세포나 조직과 비슷한 기능의 세포층까지 없다는 뜻은 아닙니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e 27.3 Animal Phylogeny",
+      "quote": "two distinct clades of protostomes",
+      "url": "https://openstax.org/books/biology-2e/pages/27-3-animal-phylogeny",
+      "evidenceId": "dc60505ae9455e5c98bc",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e 27.3 Animal Phylogeny",
+      "quote": "two distinct clades of protostomes",
+      "url": "https://openstax.org/books/biology-2e/pages/27-3-animal-phylogeny",
+      "evidenceId": "dc60505ae9455e5c98bc",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e 27.3 Animal Phylogeny",
+      "quote": "two distinct clades of protostomes",
+      "url": "https://openstax.org/books/biology-2e/pages/27-3-animal-phylogeny",
+      "evidenceId": "dc60505ae9455e5c98bc",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e 27.3 Animal Phylogeny",
+      "quote": "two distinct clades of protostomes",
+      "url": "https://openstax.org/books/biology-2e/pages/27-3-animal-phylogeny",
+      "evidenceId": "dc60505ae9455e5c98bc",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e 27.3 Animal Phylogeny",
+      "quote": "two distinct clades of protostomes",
+      "url": "https://openstax.org/books/biology-2e/pages/27-3-animal-phylogeny",
+      "evidenceId": "dc60505ae9455e5c98bc",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e 28.1 Phylum Porifera",
+      "quote": "they do have specialized cells that perform specific functions like tissues",
+      "url": "https://openstax.org/books/biology-2e/pages/28-1-phylum-porifera",
+      "evidenceId": "6d1378e3d293f0ec50fc",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e 28.1 Phylum Porifera",
+      "quote": "they do have specialized cells that perform specific functions like tissues",
+      "url": "https://openstax.org/books/biology-2e/pages/28-1-phylum-porifera",
+      "evidenceId": "6d1378e3d293f0ec50fc",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e 28.1 Phylum Porifera",
+      "quote": "they do have specialized cells that perform specific functions like tissues",
+      "url": "https://openstax.org/books/biology-2e/pages/28-1-phylum-porifera",
+      "evidenceId": "6d1378e3d293f0ec50fc",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e 28.1 Phylum Porifera",
+      "quote": "they do have specialized cells that perform specific functions like tissues",
+      "url": "https://openstax.org/books/biology-2e/pages/28-1-phylum-porifera",
+      "evidenceId": "6d1378e3d293f0ec50fc",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e 28.1 Phylum Porifera",
+      "quote": "they do have specialized cells that perform specific functions like tissues",
+      "url": "https://openstax.org/books/biology-2e/pages/28-1-phylum-porifera",
+      "evidenceId": "6d1378e3d293f0ec50fc",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e 20.1 Organizing Life on Earth",
+      "quote": "In a rooted tree, the branching indicates evolutionary relationships",
+      "url": "https://openstax.org/books/biology-2e/pages/20-1-organizing-life-on-earth",
+      "evidenceId": "a5a5a207906a01c5fbb3",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e 20.1 Organizing Life on Earth",
+      "quote": "In a rooted tree, the branching indicates evolutionary relationships",
+      "url": "https://openstax.org/books/biology-2e/pages/20-1-organizing-life-on-earth",
+      "evidenceId": "a5a5a207906a01c5fbb3",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e 20.1 Organizing Life on Earth",
+      "quote": "In a rooted tree, the branching indicates evolutionary relationships",
+      "url": "https://openstax.org/books/biology-2e/pages/20-1-organizing-life-on-earth",
+      "evidenceId": "a5a5a207906a01c5fbb3",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e 20.1 Organizing Life on Earth",
+      "quote": "In a rooted tree, the branching indicates evolutionary relationships",
+      "url": "https://openstax.org/books/biology-2e/pages/20-1-organizing-life-on-earth",
+      "evidenceId": "a5a5a207906a01c5fbb3",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e 20.1 Organizing Life on Earth",
+      "quote": "In a rooted tree, the branching indicates evolutionary relationships",
+      "url": "https://openstax.org/books/biology-2e/pages/20-1-organizing-life-on-earth",
+      "evidenceId": "a5a5a207906a01c5fbb3",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e 20.1 Organizing Life on Earth",
+      "quote": "In a rooted tree, the branching indicates evolutionary relationships",
+      "url": "https://openstax.org/books/biology-2e/pages/20-1-organizing-life-on-earth",
+      "evidenceId": "a5a5a207906a01c5fbb3",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "Original tree inspected; Bilateria membership and Porifera tissue convention matched to textbook. Rooted paths independently checked for relative MRCA position. Scoped claims to provided tree, removed blanket absence-of-epithelium claim and unsupported official-answer wording.",
+    "contentHash": "f8b0dbcee5d0893df8ab436f4ea125975cb72dba5c0102871a5a7c3e7de01834"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "c45dccd5cffe87fd411b",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "OpenStax Biology 2e 8.2",
+  "url": "https://openstax.org/books/biology-2e/pages/8-2-the-light-dependent-reactions-of-photosynthesis",
+  "excerpt": "two types of which are found embedded in the thylakoid membrane",
+  "sourceHash": "fcd5d5e0b2935c549e8cab4ed51d2f01f52e254358eb387f11a2345d8b5ef9e0",
+  "cacheSourceId": "6db54c707592ea27e89b",
+  "retrievedAt": "2026-11-07T05:12:50.567473+00:00",
+  "reviewedMappings": {
+    "2020-3-26:1": "광계 I은 틸라코이드 막 복합체이다(69).",
+    "2020-3-26:2": "광계 II P680과 광계 I P700을 구별한다(87,90).",
+    "2020-3-26:3": "그림 설명은 NADP 환원과 스트로마 양성자 소비를 연결하지만 틸라코이드라는 표현 전체를 내강으로 한정하지 않는다(73–76)."
+  },
+  "retrievalMethod": "Direct web open",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,239 @@
+{
+  "id": "2012-3-25",
+  "summary": "공식 정답은 ②(ㄱ·ㄷ)입니다. 마이크로어레이는 여러 유전자의 발현을 동시에 분석할 수 있고, 적은 시료도 적절한 증폭과 형광 표지를 거쳐 사용할 수 있습니다. 미생물 종 동정에도 사용되므로 ㄴ은 틀립니다. 다만 ㄹ의 이중가닥 DNA 고정은 실제 제작법에 보고되어 있어, 공식 정답과 기술적 예외를 구분해야 합니다.",
+  "choices": [
+    "ㄴ이 틀립니다. 마이크로어레이는 유전자 발현 분석뿐 아니라 미생물 종 동정에도 사용됩니다. 실제 연구에서 PCR 증폭과 마이크로어레이 신호 패턴을 결합해 세균·진균을 동정했습니다. 다만 모든 종을 제한 없이 식별한다는 뜻은 아닙니다.",
+    "공식 정답입니다. ㄱ은 여러 유전자 발현의 동시 검출이며, ㄷ은 적은 시료를 증폭하고 형광 표지하여 사용하는 절차에 해당합니다. mRNA는 보통 역전사로 cDNA를 만든 뒤 증폭·표지하는 등 플랫폼에 맞는 처리가 필요합니다. ㄹ을 배제한 공식 채점이 이중가닥 DNA 고정 자체의 불가능함을 뜻하지는 않습니다.",
+    "공식 정답에는 ㄹ이 포함되지 않습니다. 그러나 2001년 원저의 제작 방법에는 PCR 증폭 이중가닥 DNA를 유리 슬라이드에 고정하는 과정이 명시되어 있습니다. ㄱ·ㄷ이 옳다는 점과 별개로, ㄹ을 단일가닥만 고정 가능하다는 이유로 오답 처리하는 설명은 부정확합니다.",
+    "ㄷ도 옳으므로 ㄱ·ㄹ만 선택한 조합은 불완전합니다. 표지 시료와 칩 표면 DNA가 상호작용하는 혼성화 원리, 칩을 제작할 때 사용하는 DNA의 형태는 구별해야 합니다. 이중가닥 DNA를 붙이는 제작법 자체는 실제 보고되어 있습니다.",
+    "ㄱ도 옳으므로 ㄷ·ㄹ만 선택한 조합은 불완전합니다. 마이크로어레이의 특징은 많은 유전자에 대한 병렬 분석입니다. ㄹ의 이중가닥 DNA 고정이 불가능하다는 설명은 사용하지 않습니다."
+  ],
+  "lawNote": "공식 정답②는 원본 최종정답표에서 확인했습니다. Shi 등(2001)은 이중가닥 DNA 고정과 변성시키지 않은 배열 요소의 혼성화를 보고했습니다. 원문 ㄹ은 특정 플랫폼이나 혼성화 시점을 한정하지 않으므로 이를 배제하는 과학적 설명에는 한계가 있습니다. 출제기관의 별도 해설은 확인되지 않았습니다. 미생물 동정 성능과 증폭·표지 절차 역시 설계한 탐침과 시료·플랫폼의 범위에 의존하며 모든 종을 제한 없이 동정한다는 뜻은 아닙니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "Nucleic Acids Research / PMC",
+      "ref": "Shi et al. (2001), DNA exhibits multi-stranded binding recognition on glass microarrays",
+      "quote": "Non-denatured double-stranded DNA array elements were shown to hybridize to single-stranded (ss)DNA probes.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC60223/",
+      "evidenceId": "0b7c9c9a00d413bcda5b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "Nucleic Acids Research / PMC",
+      "ref": "Shi et al. (2001), DNA exhibits multi-stranded binding recognition on glass microarrays",
+      "quote": "Non-denatured double-stranded DNA array elements were shown to hybridize to single-stranded (ss)DNA probes.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC60223/",
+      "evidenceId": "0b7c9c9a00d413bcda5b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "Nucleic Acids Research / PMC",
+      "ref": "Shi et al. (2001), DNA exhibits multi-stranded binding recognition on glass microarrays",
+      "quote": "Non-denatured double-stranded DNA array elements were shown to hybridize to single-stranded (ss)DNA probes.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC60223/",
+      "evidenceId": "0b7c9c9a00d413bcda5b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "Nucleic Acids Research / PMC",
+      "ref": "Shi et al. (2001), DNA exhibits multi-stranded binding recognition on glass microarrays",
+      "quote": "Non-denatured double-stranded DNA array elements were shown to hybridize to single-stranded (ss)DNA probes.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC60223/",
+      "evidenceId": "0b7c9c9a00d413bcda5b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "Nucleic Acids Research / PMC",
+      "ref": "Shi et al. (2001), DNA exhibits multi-stranded binding recognition on glass microarrays",
+      "quote": "Non-denatured double-stranded DNA array elements were shown to hybridize to single-stranded (ss)DNA probes.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC60223/",
+      "evidenceId": "0b7c9c9a00d413bcda5b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "Nucleic Acids Research / PMC",
+      "ref": "Shi et al. (2001), DNA exhibits multi-stranded binding recognition on glass microarrays",
+      "quote": "Non-denatured double-stranded DNA array elements were shown to hybridize to single-stranded (ss)DNA probes.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC60223/",
+      "evidenceId": "0b7c9c9a00d413bcda5b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "BMC Microbiology / PMC",
+      "ref": "Wiesinger-Mayr et al. (2007), BMC Microbiology 7:78",
+      "quote": "DNA microarrays can be a useful tool for rapid identification of closely related pathogens",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1994958/",
+      "evidenceId": "52cfdf4886f391d1d4ba",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "BMC Microbiology / PMC",
+      "ref": "Wiesinger-Mayr et al. (2007), BMC Microbiology 7:78",
+      "quote": "DNA microarrays can be a useful tool for rapid identification of closely related pathogens",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1994958/",
+      "evidenceId": "52cfdf4886f391d1d4ba",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "BMC Microbiology / PMC",
+      "ref": "Wiesinger-Mayr et al. (2007), BMC Microbiology 7:78",
+      "quote": "DNA microarrays can be a useful tool for rapid identification of closely related pathogens",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1994958/",
+      "evidenceId": "52cfdf4886f391d1d4ba",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "Nucleic Acids Research / Edinburgh Research Explorer",
+      "ref": "Smith et al. (2003), Single primer amplification (SPA) of cDNA for microarray expression analysis",
+      "quote": "Preparation of labelled target cDNA for hybridisation to microarray slides was carried out using one of three methods.",
+      "url": "https://www.pure.ed.ac.uk/ws/portalfiles/portal/9113434/Single_primer_amplification_SPA_of_cDNA_for_microarray_expression_analysis.pdf",
+      "evidenceId": "34e18f21214b52fa5516",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "Nucleic Acids Research / Edinburgh Research Explorer",
+      "ref": "Smith et al. (2003), Single primer amplification (SPA) of cDNA for microarray expression analysis",
+      "quote": "Preparation of labelled target cDNA for hybridisation to microarray slides was carried out using one of three methods.",
+      "url": "https://www.pure.ed.ac.uk/ws/portalfiles/portal/9113434/Single_primer_amplification_SPA_of_cDNA_for_microarray_expression_analysis.pdf",
+      "evidenceId": "34e18f21214b52fa5516",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "Nucleic Acids Research / Edinburgh Research Explorer",
+      "ref": "Smith et al. (2003), Single primer amplification (SPA) of cDNA for microarray expression analysis",
+      "quote": "Preparation of labelled target cDNA for hybridisation to microarray slides was carried out using one of three methods.",
+      "url": "https://www.pure.ed.ac.uk/ws/portalfiles/portal/9113434/Single_primer_amplification_SPA_of_cDNA_for_microarray_expression_analysis.pdf",
+      "evidenceId": "34e18f21214b52fa5516",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "Nucleic Acids Research / Edinburgh Research Explorer",
+      "ref": "Smith et al. (2003), Single primer amplification (SPA) of cDNA for microarray expression analysis",
+      "quote": "Preparation of labelled target cDNA for hybridisation to microarray slides was carried out using one of three methods.",
+      "url": "https://www.pure.ed.ac.uk/ws/portalfiles/portal/9113434/Single_primer_amplification_SPA_of_cDNA_for_microarray_expression_analysis.pdf",
+      "evidenceId": "34e18f21214b52fa5516",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "Nucleic Acids Research / Edinburgh Research Explorer",
+      "ref": "Smith et al. (2003), Single primer amplification (SPA) of cDNA for microarray expression analysis",
+      "quote": "Preparation of labelled target cDNA for hybridisation to microarray slides was carried out using one of three methods.",
+      "url": "https://www.pure.ed.ac.uk/ws/portalfiles/portal/9113434/Single_primer_amplification_SPA_of_cDNA_for_microarray_expression_analysis.pdf",
+      "evidenceId": "34e18f21214b52fa5516",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "Nucleic Acids Research / PMC",
+      "ref": "Shi et al. (2001), DNA exhibits multi-stranded binding recognition on glass microarrays",
+      "quote": "thousands of expressed gene sequences simultaneously",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC60223/",
+      "evidenceId": "c82351bb637c19c8981b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "Nucleic Acids Research / PMC",
+      "ref": "Shi et al. (2001), DNA exhibits multi-stranded binding recognition on glass microarrays",
+      "quote": "thousands of expressed gene sequences simultaneously",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC60223/",
+      "evidenceId": "c82351bb637c19c8981b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "Nucleic Acids Research / PMC",
+      "ref": "Shi et al. (2001), DNA exhibits multi-stranded binding recognition on glass microarrays",
+      "quote": "thousands of expressed gene sequences simultaneously",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC60223/",
+      "evidenceId": "c82351bb637c19c8981b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "Nucleic Acids Research / PMC",
+      "ref": "Shi et al. (2001), DNA exhibits multi-stranded binding recognition on glass microarrays",
+      "quote": "thousands of expressed gene sequences simultaneously",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC60223/",
+      "evidenceId": "c82351bb637c19c8981b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "Nucleic Acids Research / PMC",
+      "ref": "Shi et al. (2001), DNA exhibits multi-stranded binding recognition on glass microarrays",
+      "quote": "thousands of expressed gene sequences simultaneously",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC60223/",
+      "evidenceId": "c82351bb637c19c8981b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "Nucleic Acids Research / PMC",
+      "ref": "Shi et al. (2001), DNA exhibits multi-stranded binding recognition on glass microarrays",
+      "quote": "thousands of expressed gene sequences simultaneously",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC60223/",
+      "evidenceId": "c82351bb637c19c8981b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "문제 이미지와 공식키 확인, 원저 제작 방법 재대조. 동시 발현 검출 직접 인용 보강; 미생물 동정·증폭 표지·dsDNA 고정을 구별하여 표현상 한계를 명시한 조건부 내용 검토.",
+    "contentHash": "07080e44cda7ccf071d9ca1ab6d10514d030563f98a23bf50ba78a619f4791f6"
+  }
+}

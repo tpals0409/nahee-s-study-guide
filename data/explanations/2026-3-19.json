@@ -1,0 +1,151 @@
+{
+  "id": "2026-3-19",
+  "summary": "질량과 마찰을 무시한 피스톤이므로 평형에서 전체 압력은 1 atm입니다. C가 z mol 분해되면 A와 B는 각각 z mol, C는 2−z mol이고, 압력을 atm 단위로 대입하여 Kp=(4−z²)/z²를 얻습니다. 평형 1과 2에서 z는 각각 0.5와 1입니다. 따라서 a=1.5/75=0.02 M이고, Vb는 평형 2의 C 몰수 1에 해당하므로 Vb/a=50입니다.",
+  "choices": [
+    "45: 오답입니다. Kp=15일 때 C는 1.5 mol이므로 a=0.02 M입니다. Kp=3일 때 C는 1 mol이므로 b=1/V입니다. 따라서 V×b/a=1/0.02=50입니다. 부피를 직접 구해도 V=75×(3/2.5)×(10/9)=100 L, b=0.01 M로 같은 값입니다.",
+    "50: 정답입니다. Kp=15일 때 C는 1.5 mol이므로 a=0.02 M입니다. Kp=3일 때 C는 1 mol이므로 b=1/V입니다. 따라서 V×b/a=1/0.02=50입니다. 부피를 직접 구해도 V=75×(3/2.5)×(10/9)=100 L, b=0.01 M로 같은 값입니다.",
+    "56: 오답입니다. Kp=15일 때 C는 1.5 mol이므로 a=0.02 M입니다. Kp=3일 때 C는 1 mol이므로 b=1/V입니다. 따라서 V×b/a=1/0.02=50입니다. 부피를 직접 구해도 V=75×(3/2.5)×(10/9)=100 L, b=0.01 M로 같은 값입니다.",
+    "60: 오답입니다. Kp=15일 때 C는 1.5 mol이므로 a=0.02 M입니다. Kp=3일 때 C는 1 mol이므로 b=1/V입니다. 따라서 V×b/a=1/0.02=50입니다. 부피를 직접 구해도 V=75×(3/2.5)×(10/9)=100 L, b=0.01 M로 같은 값입니다.",
+    "64: 오답입니다. Kp=15일 때 C는 1.5 mol이므로 a=0.02 M입니다. Kp=3일 때 C는 1 mol이므로 b=1/V입니다. 따라서 V×b/a=1/0.02=50입니다. 부피를 직접 구해도 V=75×(3/2.5)×(10/9)=100 L, b=0.01 M로 같은 값입니다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §13.2, gaseous reaction quotient and equilibrium constant",
+      "quote": "a reaction quotient may be similarly derived using partial pressures",
+      "url": "https://openstax.org/books/chemistry-2e/pages/13-2-equilibrium-constants",
+      "evidenceId": "890399cc636104c8883c",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §13.2, gaseous reaction quotient and equilibrium constant",
+      "quote": "a reaction quotient may be similarly derived using partial pressures",
+      "url": "https://openstax.org/books/chemistry-2e/pages/13-2-equilibrium-constants",
+      "evidenceId": "890399cc636104c8883c",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §13.2, gaseous reaction quotient and equilibrium constant",
+      "quote": "a reaction quotient may be similarly derived using partial pressures",
+      "url": "https://openstax.org/books/chemistry-2e/pages/13-2-equilibrium-constants",
+      "evidenceId": "890399cc636104c8883c",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §13.2, gaseous reaction quotient and equilibrium constant",
+      "quote": "a reaction quotient may be similarly derived using partial pressures",
+      "url": "https://openstax.org/books/chemistry-2e/pages/13-2-equilibrium-constants",
+      "evidenceId": "890399cc636104c8883c",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §13.2, gaseous reaction quotient and equilibrium constant",
+      "quote": "a reaction quotient may be similarly derived using partial pressures",
+      "url": "https://openstax.org/books/chemistry-2e/pages/13-2-equilibrium-constants",
+      "evidenceId": "890399cc636104c8883c",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §13.2, gaseous reaction quotient and equilibrium constant",
+      "quote": "a reaction quotient may be similarly derived using partial pressures",
+      "url": "https://openstax.org/books/chemistry-2e/pages/13-2-equilibrium-constants",
+      "evidenceId": "890399cc636104c8883c",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "9.3 Stoichiometry of Gaseous Substances, Mixtures, and Reactions",
+      "quote": "The partial pressure of gas A is related to the total pressure of the gas mixture via its mole fraction",
+      "url": "https://openstax.org/books/chemistry-2e/pages/9-3-stoichiometry-of-gaseous-substances-mixtures-and-reactions",
+      "evidenceId": "12967a796d5540e692ea",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "9.3 Stoichiometry of Gaseous Substances, Mixtures, and Reactions",
+      "quote": "The partial pressure of gas A is related to the total pressure of the gas mixture via its mole fraction",
+      "url": "https://openstax.org/books/chemistry-2e/pages/9-3-stoichiometry-of-gaseous-substances-mixtures-and-reactions",
+      "evidenceId": "12967a796d5540e692ea",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "9.3 Stoichiometry of Gaseous Substances, Mixtures, and Reactions",
+      "quote": "The partial pressure of gas A is related to the total pressure of the gas mixture via its mole fraction",
+      "url": "https://openstax.org/books/chemistry-2e/pages/9-3-stoichiometry-of-gaseous-substances-mixtures-and-reactions",
+      "evidenceId": "12967a796d5540e692ea",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "9.3 Stoichiometry of Gaseous Substances, Mixtures, and Reactions",
+      "quote": "The partial pressure of gas A is related to the total pressure of the gas mixture via its mole fraction",
+      "url": "https://openstax.org/books/chemistry-2e/pages/9-3-stoichiometry-of-gaseous-substances-mixtures-and-reactions",
+      "evidenceId": "12967a796d5540e692ea",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "9.3 Stoichiometry of Gaseous Substances, Mixtures, and Reactions",
+      "quote": "The partial pressure of gas A is related to the total pressure of the gas mixture via its mole fraction",
+      "url": "https://openstax.org/books/chemistry-2e/pages/9-3-stoichiometry-of-gaseous-substances-mixtures-and-reactions",
+      "evidenceId": "12967a796d5540e692ea",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "9.3 Stoichiometry of Gaseous Substances, Mixtures, and Reactions",
+      "quote": "The partial pressure of gas A is related to the total pressure of the gas mixture via its mole fraction",
+      "url": "https://openstax.org/books/chemistry-2e/pages/9-3-stoichiometry-of-gaseous-substances-mixtures-and-reactions",
+      "evidenceId": "12967a796d5540e692ea",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Full original image and piston assumptions inspected; independent exact-fraction check of two Kp values, ideal-gas volume and direct V cancellation. Primary textbook pressure quotient and mole fractions reviewed. Removed speculative distractor mechanisms and unnecessary enthalpy inference. Canonical/local archived final key2 agrees.",
+    "contentHash": "cad4e8ebdf58678fb83643e5a238f8713054aa6637b0201f66281dca54b394da"
+  }
+}

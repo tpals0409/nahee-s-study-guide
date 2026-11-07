@@ -1,0 +1,18 @@
+{
+  "id": "e3ca31b9746ed31fff61",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "40.4 Blood Flow and Blood Pressure Regulation",
+  "url": "https://openstax.org/books/biology-2e/pages/40-4-blood-flow-and-blood-pressure-regulation",
+  "excerpt": "In the capillaries and veins, the blood pressure continues to decrease",
+  "sourceHash": "691caf8d9c7a819cf62092206696e183073818b600a97d0015416be82d94de5d",
+  "cacheSourceId": "17c4030825fac95ba66f",
+  "retrievedAt": "2026-11-06T22:42:59.408382+00:00",
+  "reviewedMappings": {
+    "2019-3-26:0": "ㄷ은 모세혈관 이후 정맥에서 더 낮아지는 혈압 추세와 불일치.",
+    "2019-3-26:3": "모세혈관이 최저 혈압이라는 ㄷ 배제.",
+    "2019-3-26:5": "ㄷ 거짓; 모세혈관의 낮은 속도와 정맥의 낮은 압력을 구분."
+  },
+  "retrievalMethod": "Direct web find: 60–65 and figure 40.19 pressure decreases through capillaries to veins while velocity rises on the venous side.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

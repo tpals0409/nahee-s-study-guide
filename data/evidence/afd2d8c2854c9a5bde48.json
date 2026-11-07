@@ -1,0 +1,16 @@
+{
+  "id": "afd2d8c2854c9a5bde48",
+  "kind": "science",
+  "source": "Smithsonian Institution",
+  "ref": "Smithsonian Human Origins: Australopithecus afarensis",
+  "url": "https://humanorigins.si.edu/evidence/human-fossils/species/australopithecus-afarensis",
+  "excerpt": "When Lived: Between about 3.85 and 2.95 million years ago",
+  "sourceHash": "74f1b3c39f1c5c7744bec8d4f51e3da69285e61891b562c3cbcbff3ceed54add",
+  "cacheSourceId": "8dbc31fb7ddcfd689e2b",
+  "retrievedAt": "2026-11-06T18:16:26.169682+00:00",
+  "reviewedMappings": {
+    "2013-3-30:0": "Australopithecus afarensis 공식종소개 When Lived 시작연대 3.85백만년전 직접확인. 첫출현순서3.85>2.4>1.89 비교. 존속기간중첩과 직계계보를 혼동하지 않음."
+  },
+  "retrievalMethod": "web.open",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

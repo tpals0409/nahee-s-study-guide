@@ -1,0 +1,16 @@
+{
+  "id": "e4cd24da4e150f51e7bb",
+  "kind": "science",
+  "source": "OpenStax Microbiology",
+  "ref": "8.6 Photosynthesis",
+  "url": "https://openstax.org/books/microbiology/pages/8-6-photosynthesis",
+  "excerpt": "In oxygenic photosynthesis, H2O is split and supplies the electron to the reaction center.",
+  "sourceHash": "1492bb9a102cc4972583c124a85d46b659ce2688236e1c17ab1f3818cf7aa9f5",
+  "cacheSourceId": "041810dbb1ce5bc3948f",
+  "retrievedAt": "2026-11-06T18:52:53.757522+00:00",
+  "reviewedMappings": {
+    "2014-3-22:2": "56–61행 물 분해, 산소 부산물, 남조류 PSII 확인. 반응식은 H4,O2,전하0 보존을 독립 검산."
+  },
+  "retrievalMethod": "web.open",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

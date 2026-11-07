@@ -1,0 +1,21 @@
+{
+  "id": "36c2f4b509b946fcc74a",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume 1, 8.3 Conservation of Energy",
+  "url": "https://openstax.org/books/university-physics-volume-1/pages/8-3-conservation-of-energy",
+  "excerpt": "like the normal force, they do zero work when the motion is parallel to the surface.",
+  "sourceHash": "ab5b6eeb558ffd2ed4b0b0c062d25643600549c0fd802340dd5b30e0942a0f44",
+  "cacheSourceId": "71d9babad12c33dc507e",
+  "retrievedAt": "2026-11-06T23:48:56.627829+00:00",
+  "reviewedMappings": {
+    "2021-3-01:0": "Initial K=0; drop h/2 gives K=mgh/2, so v=sqrt(gh), answer 4.",
+    "2021-3-01:1": "v=sqrt(gh)/4 implies K=mgh/32, not mgh/2.",
+    "2021-3-01:2": "v=sqrt(gh)/2 implies K=mgh/8, not mgh/2.",
+    "2021-3-01:3": "v=sqrt(gh/2) implies K=mgh/4, corresponding to drop h/4.",
+    "2021-3-01:4": "v=sqrt(gh) implies K=mgh/2, equal to potential-energy decrease.",
+    "2021-3-01:5": "v=sqrt(2gh) requires drop h, not h/2."
+  },
+  "retrievalMethod": "Direct review of OpenStax University Physics Volume 1 section 8.3 lines 35–56 and 69–74: energy conservation, zero normal-force work, K=mv²/2 and gravitational energy mgh. Original examination image checked: fixed straight incline, block sliding without friction, release from rest at h, target h/2. Independently substituted all five speeds into K; only option 4 yields mgh/2.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

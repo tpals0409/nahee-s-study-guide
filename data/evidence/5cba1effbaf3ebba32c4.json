@@ -1,0 +1,21 @@
+{
+  "id": "5cba1effbaf3ebba32c4",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e 26.3 Angiosperms",
+  "url": "https://openstax.org/books/biology-2e/pages/26-3-angiosperms",
+  "excerpt": "the two major groups of angiosperms: the monocots and the eudicots",
+  "sourceHash": "4b246927af7da3c1fbb2a02187b52ce076b7c74f2aa269c3f8e9e912c6048e6a",
+  "cacheSourceId": "f9763db6eb9f6d663cf0",
+  "retrievedAt": "2026-11-07T02:43:36.295399+00:00",
+  "reviewedMappings": {
+    "2024-3-29:0": "59·72행: 외떡잎식물은 속씨식물에 포함됨. 공식키는 별도 원본 확인.",
+    "2024-3-29:1": "33·38–41행: 꽃의 생식기관과 씨방 내부 밑씨·종자.",
+    "2024-3-29:2": "31행: 속씨식물의 높은 종다양성과 대부분 육상생태계 우점. 모든 서식지 우점은 아님.",
+    "2024-3-29:3": "62행: 타가수분이 종내 유전적 다양성에 기여. 모든 개체가 타가수분만 한다는 의미는 아님.",
+    "2024-3-29:4": "58행: 한 정자는 난자, 다른 정자는 극핵과 결합하여 배와 배젖 형성. 겉씨식물의 다른 중복수정까지 부정하는 근거는 아님.",
+    "2024-3-29:5": "59·72행: 외떡잎식물이 속씨식물이라는 직접 분류 근거."
+  },
+  "retrievalMethod": "Direct section reviewed: flowers/ovaries, diversity, cross-pollination and monocot membership. Textbook describes embryo-plus-endosperm double fertilization as unique; this narrowed teaching usage does not prove literal exclusion of all gymnosperm double fertilization.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

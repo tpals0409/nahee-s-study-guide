@@ -1,0 +1,14 @@
+{
+  "id": "717f7bfe97d002d7bf58",
+  "kind": "science",
+  "source": "OpenStax · Biology 2e",
+  "ref": "15.3",
+  "url": "https://openstax.org/books/biology-2e/pages/15-3-eukaryotic-transcription",
+  "excerpt": "All rRNAs except 5S rRNA",
+  "sourceHash": "a6c0608b4c4db48ecdf4eebdcc22e6c525ac597c478b5d28687d5a2c54817ef8",
+  "cacheSourceId": "4c148b83bc248789425e",
+  "retrievedAt": "2026-11-06T15:18:29.040457+00:00",
+  "reviewedMappings": {
+    "2009-3-27:0": "OpenStax15.3표15.1의 I:5S제외rRNA,III:5SrRNA 대조.3.5의 이중가닥DNA상보염기쌍과단일가닥RNA구조로 mRNA에서A=U/G=C필연성없음 판단. RCSBPDB101 tRNA표준4염기및변형염기확인.45S전구체크기를모든진핵생물에일반화한초안삭제."
+  }
+}

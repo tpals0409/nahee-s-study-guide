@@ -1,0 +1,14 @@
+{
+  "id": "d69bc9de6efc29b1130e",
+  "kind": "science",
+  "source": "OpenStax · Biology 2e",
+  "ref": "13.1",
+  "url": "https://openstax.org/books/biology-2e/pages/13-1-chromosomal-theory-and-genetic-linkage",
+  "excerpt": "the genotypes Ab and aB are nonparental types that result from homologous recombination during meiosis.",
+  "sourceHash": "34ea708547d96f1f820fe54ccf1c288bf20a0a5d161c2a32452e53cb5f42231d",
+  "cacheSourceId": "7e651173ea7d42c5caf5",
+  "retrievedAt": "2026-11-06T15:04:22.443275+00:00",
+  "reviewedMappings": {
+    "2009-3-26:0": "원본2009-3-26_1.webp에서 A/a별도쌍, BC/bc연관상인 확인. 교차율을 재조합률r=.10으로 해석. BC=bc=.45,Bc=bC=.05; A각.5로 AbC=.025. 네전체조합합1 검산. 교차발생 감수분열의 비율과 구별하여 전제 명시."
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "5d13c946b2219e2ed0cb",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e §4.3 Eukaryotic Cells",
+  "url": "https://openstax.org/books/biology-2e/pages/4-3-eukaryotic-cells",
+  "excerpt": "Ribosomes are the cellular structures responsible for protein synthesis.",
+  "sourceHash": "6e0db71ae096b410685fc299bd4f87761f50342aabd2f90318693d6f987fe68a",
+  "cacheSourceId": "6fd24a704397fa6e3e01",
+  "retrievedAt": "2026-11-06T23:23:16.539054+00:00",
+  "reviewedMappings": {
+    "2020-3-22:0": "OpenStax 본문 직접 열람: 72–76행 rRNA·단백질 구성, 두 소단위와 mRNA 번역; 100–102행 리소좀 효소의 단백질·다당류·지질·핵산 분해. 각 ㄱㄴㄷ을 독립 판정하여 ㄱㄴ만 참 확인. ㄱㄴ 참 ㄷ 거짓,③ 정답.",
+    "2020-3-22:1": "OpenStax 본문 직접 열람: 72–76행 rRNA·단백질 구성, 두 소단위와 mRNA 번역; 100–102행 리소좀 효소의 단백질·다당류·지질·핵산 분해. 각 ㄱㄴㄷ을 독립 판정하여 ㄱㄴ만 참 확인. ①은 참인ㄴ 누락.",
+    "2020-3-22:2": "OpenStax 본문 직접 열람: 72–76행 rRNA·단백질 구성, 두 소단위와 mRNA 번역; 100–102행 리소좀 효소의 단백질·다당류·지질·핵산 분해. 각 ㄱㄴㄷ을 독립 판정하여 ㄱㄴ만 참 확인. ②는 참인ㄱ 누락.",
+    "2020-3-22:3": "OpenStax 본문 직접 열람: 72–76행 rRNA·단백질 구성, 두 소단위와 mRNA 번역; 100–102행 리소좀 효소의 단백질·다당류·지질·핵산 분해. 각 ㄱㄴㄷ을 독립 판정하여 ㄱㄴ만 참 확인. ③은 참인ㄱㄴ 모두 포함하고 거짓ㄷ 제외.",
+    "2020-3-22:4": "OpenStax 본문 직접 열람: 72–76행 rRNA·단백질 구성, 두 소단위와 mRNA 번역; 100–102행 리소좀 효소의 단백질·다당류·지질·핵산 분해. 각 ㄱㄴㄷ을 독립 판정하여 ㄱㄴ만 참 확인. ④는 거짓ㄷ 포함 및 참인ㄴ 누락.",
+    "2020-3-22:5": "OpenStax 본문 직접 열람: 72–76행 rRNA·단백질 구성, 두 소단위와 mRNA 번역; 100–102행 리소좀 효소의 단백질·다당류·지질·핵산 분해. 각 ㄱㄴㄷ을 독립 판정하여 ㄱㄴ만 참 확인. ⑤는 거짓ㄷ 포함 및 참인ㄱ 누락."
+  },
+  "retrievalMethod": "OpenStax 본문 직접 열람: 72–76행 rRNA·단백질 구성, 두 소단위와 mRNA 번역; 100–102행 리소좀 효소의 단백질·다당류·지질·핵산 분해. 각 ㄱㄴㄷ을 독립 판정하여 ㄱㄴ만 참 확인.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

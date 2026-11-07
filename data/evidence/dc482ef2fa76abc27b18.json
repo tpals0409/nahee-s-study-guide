@@ -1,0 +1,19 @@
+{
+  "id": "dc482ef2fa76abc27b18",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Astronomy 2e 4.5 Phases and Motions of the Moon",
+  "url": "https://openstax.org/books/astronomy-2e/pages/4-5-phases-and-motions-of-the-moon",
+  "excerpt": "rising around noon and setting around midnight.",
+  "sourceHash": "6730c21f8ffb97379f2145b229f63a77614fa7d8d9ba401970b468095a3bc69b",
+  "cacheSourceId": "0a8651458d834a0d7371",
+  "retrievedAt": "2026-11-06T20:04:43.793496+00:00",
+  "reviewedMappings": {
+    "2015-3-40:0": "상현달의 출몰 시각을 설명하는 본문 46행. 자정에 남쪽 하늘 높이 그려진 달은 상현달이 아니라는 ㄱ 판단을 지지한다. 정확한 이각은 그림에서 산출하지 않는다.",
+    "2015-3-40:1": "상현달의 출몰 시각을 설명하는 본문 46행. 자정에 남쪽 하늘 높이 그려진 달은 상현달이 아니라는 ㄱ 판단을 지지한다. 정확한 이각은 그림에서 산출하지 않는다.",
+    "2015-3-40:3": "상현달의 출몰 시각을 설명하는 본문 46행. 자정에 남쪽 하늘 높이 그려진 달은 상현달이 아니라는 ㄱ 판단을 지지한다. 정확한 이각은 그림에서 산출하지 않는다.",
+    "2015-3-40:5": "상현달의 출몰 시각을 설명하는 본문 46행. 자정에 남쪽 하늘 높이 그려진 달은 상현달이 아니라는 ㄱ 판단을 지지한다. 정확한 이각은 그림에서 산출하지 않는다."
+  },
+  "retrievalMethod": "web open: directly reviewed page text",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

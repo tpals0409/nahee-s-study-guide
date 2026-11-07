@@ -1,0 +1,16 @@
+{
+  "id": "ddb5ee37f19128169b53",
+  "kind": "science",
+  "source": "OpenStax Microbiology",
+  "ref": "4.3 Phototrophic Bacteria",
+  "url": "https://openstax.org/books/microbiology/pages/4-3-nonproteobacteria-gram-negative-bacteria-and-phototrophic-bacteria",
+  "excerpt": "Purple nonsulfur bacteria",
+  "sourceHash": "52d2a41036371dac0a165a46d0738d6af2474d6177101a4ef74d822e6e40ed9f",
+  "cacheSourceId": "94ce142dcce2c5e7f550",
+  "retrievedAt": "2026-11-06T18:52:53.757075+00:00",
+  "reviewedMappings": {
+    "2014-3-22:1": "표4.8의 Rhodospirillum,Rhodocyclus,Chromatium 모두 Anoxygenic 확인. 88–94행의 sulfite/sulfide 혼용과 전자공여체 과도한 일반화는 사용하지 않음."
+  },
+  "retrievalMethod": "web.open",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "daf33e2212b0ed27b0c0",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 2e, 7.6 Molecular Structure and Polarity",
+  "url": "https://openstax.org/books/chemistry-2e/pages/7-6-molecular-structure-and-polarity",
+  "excerpt": "The trigonal pyramidal molecular structure is determined from the electron-pair geometry.",
+  "sourceHash": "5ea10038989347c2cf22a062b4694cb746d794dedd0a4b4bd5ae9039a343571a",
+  "cacheSourceId": "7765744d44561ef5cf1c",
+  "retrievedAt": "2026-11-07T00:56:29.560446+00:00",
+  "reviewedMappings": {
+    "2022-3-15:0": "Direct review lines 35–67 and 267–279: VSEPR geometries, ammonia nonplanarity/polarity, formaldehyde planar geometry, linear dipole cancellation and tetrahedral angle. Apply AX2 to CS2 and AX4 to SiH4. 정답은 ③입니다. NH₃는 삼각뿔형이어서 모든 원자가 한 평면에 놓이지 않습니다. 주어진 분자 중 이 조건을 만족하는 것은 직선형 CS₂와 평면형 CH₂O입니다.",
+    "2022-3-15:2": "Direct review lines 35–67 and 267–279: VSEPR geometries, ammonia nonplanarity/polarity, formaldehyde planar geometry, linear dipole cancellation and tetrahedral angle. Apply AX2 to CS2 and AX4 to SiH4. 옳습니다. NH₃는 삼각뿔형의 극성 분자입니다. CS₂는 대칭인 직선형이므로 분자 쌍극자 모멘트가 0입니다. 따라서 (가)가 더 큽니다.",
+    "2022-3-15:3": "Direct review lines 35–67 and 267–279: VSEPR geometries, ammonia nonplanarity/polarity, formaldehyde planar geometry, linear dipole cancellation and tetrahedral angle. Apply AX2 to CS2 and AX4 to SiH4. 옳지 않습니다. NH₃의 N은 세 H가 만드는 평면 밖에 있습니다. CS₂는 직선형이고 CH₂O는 C 주위가 평면 삼각형이므로 모든 원자가 한 평면에 놓입니다. 해당 분자는 (나)와 (다)입니다.",
+    "2022-3-15:5": "Direct review lines 35–67 and 267–279: VSEPR geometries, ammonia nonplanarity/polarity, formaldehyde planar geometry, linear dipole cancellation and tetrahedral angle. Apply AX2 to CS2 and AX4 to SiH4. 옳습니다. CS₂의 S–C–S 결합각은 180°이고, 정사면체형 SiH₄의 H–Si–H 결합각은 약 109.5°입니다."
+  },
+  "retrievalMethod": "Direct review lines 35–67 and 267–279: VSEPR geometries, ammonia nonplanarity/polarity, formaldehyde planar geometry, linear dipole cancellation and tetrahedral angle. Apply AX2 to CS2 and AX4 to SiH4.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

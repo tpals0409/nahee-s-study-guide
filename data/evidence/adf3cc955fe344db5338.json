@@ -1,0 +1,16 @@
+{
+  "id": "adf3cc955fe344db5338",
+  "kind": "science",
+  "source": "U.S. Geological Survey",
+  "ref": "Earthquake Hazards Program glossary",
+  "url": "https://www.usgs.gov/glossary/earthquake-hazards-program",
+  "excerpt": "point in the crust where a seismic rupture begins",
+  "sourceHash": "ebd2dae99b465378e4e604778469fab543124b28a047f1fb3fe2f4d97506ea7c",
+  "cacheSourceId": "b196d7b001201cb78a6a",
+  "retrievedAt": "2026-11-07T01:16:17.829629+00:00",
+  "reviewedMappings": {
+    "2022-3-32:2": "Epicenter entry distinguishes surface point vertically above hypocenter/focus from rupture-initiation point; supports original option 2."
+  },
+  "retrievalMethod": "Official glossary indexed web search excerpt; direct retrieval timed out",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

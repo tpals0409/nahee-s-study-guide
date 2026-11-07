@@ -1,0 +1,16 @@
+{
+  "id": "566afef970a65d844616",
+  "kind": "science",
+  "source": "Journal of Chemical Physics / PubMed",
+  "ref": "D’Angelo et al. (2011), Structural characterization of zinc(II) chloride",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/22029326/",
+  "excerpt": "significantly related to the chloride/zinc ratio",
+  "sourceHash": "c655080e147f58cd8905f8658e121b6bc361dd0cb3d7fb43dc93593ac48b5217",
+  "cacheSourceId": "366d36dea73ba3df66b0",
+  "retrievedAt": "2026-11-07T06:05:47.948289+00:00",
+  "reviewedMappings": {
+    "2010-3-18:0": "EXAFS original abstract supports composition-dependent aqueous zinc/chloride coordination; post-exam scientific support only. Does not measure AgNO3 precipitation or the question concentration."
+  },
+  "retrievalMethod": "web direct PubMed original abstract",
+  "sourceHashScope": "Short reviewed excerpt only"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "3cfb7887460a17c0a528",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "20.2 Alcohols and Ethers",
+  "url": "https://openstax.org/books/chemistry-2e/pages/20-2-alcohols-and-ethers",
+  "excerpt": "the molecule is either an alcohol or ether",
+  "sourceHash": "69c8e2104824c5c3b94dbdce1f6d422e0d6f1ed81b3fdfc1c67ab3597e62bd62",
+  "cacheSourceId": "5cc73b81e6553ce907ae",
+  "retrievedAt": "2026-11-07T01:43:18.187991+00:00",
+  "reviewedMappings": {
+    "2023-3-15:0": "불포화도1이고 고리1개가 있으므로 다중결합 없음. 알코올 제외로 O는 두 C와 결합. 고리내O의5원1·4원2·3원3, 고리밖O1로7개. 원자 연결 그래프 전수열거도7개.",
+    "2023-3-15:1": "고리내O만으로1+2+3=6개이고 고리밖O1개를 더하므로4개는 전체 개수와 다르다.",
+    "2023-3-15:2": "동일 분자식·원자가의 서로 다른 연결구조를 빠짐없이 세면7개이므로5개가 아니다.",
+    "2023-3-15:3": "고리내O6개에 고리밖O의 메톡시사이클로프로페인1개도 조건을 만족하므로6개로 끝나지 않는다.",
+    "2023-3-15:4": "5원고리 THF1,4원고리 2-/3-메틸옥세테인2,3원고리 에틸/2,2-다이메틸/2,3-다이메틸옥시레인3,고리밖 메톡시사이클로프로페인1의합7. 연결 그래프24개 탄소순열 대칭제거 전수검산.",
+    "2023-3-15:5": "입체배치만 다른 것은 연결구조가 같아 따로 세지 않는다. 구조7개로8개는 틀리며 특정 오답 생성 원인을 단정하지 않는다."
+  },
+  "retrievalMethod": "Primary-source indexed search excerpt reviewed; single-bond oxygen alcohol/ether distinction.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

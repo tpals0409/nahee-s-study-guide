@@ -1,0 +1,20 @@
+{
+  "id": "391048944196e5360111",
+  "kind": "science",
+  "source": "Ocean Drilling Program",
+  "ref": "Pickering, Underwood & Taira (1993), Open-ocean to trench turbidity-current flow in the Nankai Trough",
+  "url": "https://www-odp.tamu.edu/publications/131_SR/VOLUME/CHAPTERS/sr131_03.pdf",
+  "excerpt": "The trench outer slope facies contains a distinct suite of fine sand and silty turbidites with current ripples.",
+  "sourceHash": "0b3f3c8f5ec2214605b3f673c01a05653320c290be926d804b3d9f9aad92a8a7",
+  "cacheSourceId": "717d10a5d44bf0aba159",
+  "retrievedAt": "2026-11-07T05:31:15.136849+00:00",
+  "reviewedMappings": {
+    "2025-3-32:0": "난카이 해구 외측 사면 저탁암에서 유수 연흔을 실제로 기술한다. 직접 읽은 퇴적상 서술은 저탁류 퇴적층에 연흔이 불가능하다는 주장에 반대 근거다. 그림이나 고유속 수치 분석은 검증하지 않았다.",
+    "2025-3-32:1": "난카이 해구 외측 사면 저탁암에서 유수 연흔을 실제로 기술한다. 직접 읽은 퇴적상 서술은 저탁류 퇴적층에 연흔이 불가능하다는 주장에 반대 근거다. 그림이나 고유속 수치 분석은 검증하지 않았다.",
+    "2025-3-32:3": "난카이 해구 외측 사면 저탁암에서 유수 연흔을 실제로 기술한다. 직접 읽은 퇴적상 서술은 저탁류 퇴적층에 연흔이 불가능하다는 주장에 반대 근거다. 그림이나 고유속 수치 분석은 검증하지 않았다.",
+    "2025-3-32:4": "난카이 해구 외측 사면 저탁암에서 유수 연흔을 실제로 기술한다. 직접 읽은 퇴적상 서술은 저탁류 퇴적층에 연흔이 불가능하다는 주장에 반대 근거다. 그림이나 고유속 수치 분석은 검증하지 않았다.",
+    "2025-3-32:5": "난카이 해구 외측 사면 저탁암에서 유수 연흔을 실제로 기술한다. 직접 읽은 퇴적상 서술은 저탁류 퇴적층에 연흔이 불가능하다는 주장에 반대 근거다. 그림이나 고유속 수치 분석은 검증하지 않았다."
+  },
+  "retrievalMethod": "Direct web open",
+  "sourceHashScope": "Selected short excerpt only; not full source"
+}

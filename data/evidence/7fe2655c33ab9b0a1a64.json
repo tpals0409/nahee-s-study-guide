@@ -1,0 +1,14 @@
+{
+  "id": "7fe2655c33ab9b0a1a64",
+  "kind": "science",
+  "source": "OpenStax · Anatomy and Physiology 2e",
+  "ref": "23.6",
+  "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/23-6-accessory-organs-in-digestion-the-liver-pancreas-and-gallbladder",
+  "excerpt": "Bile is a mixture secreted by the liver to accomplish the emulsification of lipids in the small intestine.",
+  "sourceHash": "491489fa52849b12a4dca9f7b974e5144990e3d06439fcce91be1e0e82a9db79",
+  "cacheSourceId": "59409f251068b3d0fd7b",
+  "retrievedAt": "2026-11-06T15:04:44.263021+00:00",
+  "reviewedMappings": {
+    "2009-3-24:0": "담즙 생산(간세포)·저장농축(담낭)·구성 및 비효소적 유화 기능을23.6에서 확인.23.7의 췌장리페이스 표와 미셀·지용성비타민 흡수 설명 대조. ㄱㄴ참/ㄷ거짓; 유화만 한다는 초안의 과도한 한정 삭제."
+  }
+}

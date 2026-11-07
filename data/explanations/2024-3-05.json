@@ -1,0 +1,85 @@
+{
+  "id": "2024-3-05",
+  "summary": "정답은 ②, B=μ₀ir/(2πR²)입니다. 발문의 평행판 사이를 판이 서로 마주 보는 영역(0≤r≤R)으로 해석합니다. 균일한 전기장에서는 반지름 r인 원을 지나는 변위전류가 전체 전류의 r²/R²이므로, 앙페르–맥스웰 법칙 B·2πr=μ₀i r²/R²에서 이 식을 얻습니다. 판 반경 바깥 r>R까지 포함하면 별도로 B=μ₀i/(2πr)를 적용해야 합니다.",
+  "choices": [
+    "μ₀i/(2πR)는 판 가장자리 r=R에서의 값입니다. 판 내부의 임의 위치에 적용되는 일반식은 r에 비례하는 μ₀ir/(2πR²)이므로 이 선택지는 정답이 아닙니다.",
+    "μ₀ir/(2πR²): 정답입니다. 변위전류는 판 면적에 균일하게 분포하므로 반지름 r인 원이 감싸는 변위전류는 i_d,enc = i·(πr²/πR²)입니다. 앙페르-맥스웰 법칙에서 B·2πr = μ₀i r²/R²이므로 B = μ₀ir/(2πR²)가 됩니다.",
+    "μ₀ir/(πR²): 오답입니다. r 의존성은 맞지만, 폐곡선 둘레 2πr에서 나오는 인수 2가 빠져 정답의 2배가 됩니다.",
+    "μ₀ir²/(2πR³)은 옳지 않습니다. 감싼 변위전류는 r²에 비례하지만 원형 경로의 둘레 2πr로 나누어야 하므로 자기장은 r에 비례합니다.",
+    "μ₀ir²/(πR³)은 옳지 않습니다. 판 내부의 자기장은 r²이 아니라 r에 비례하며, 원형 경로의 둘레에서 나오는 계수 2도 포함해야 합니다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2, 16.1 Maxwell’s Equations and Electromagnetic Waves",
+      "quote": "the displacement current can produce a magnetic field even where no real current is present",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/16-1-maxwells-equations-and-electromagnetic-waves",
+      "evidenceId": "78738957c3fc18cf2553",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2, 16.1 Maxwell’s Equations and Electromagnetic Waves",
+      "quote": "the displacement current can produce a magnetic field even where no real current is present",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/16-1-maxwells-equations-and-electromagnetic-waves",
+      "evidenceId": "78738957c3fc18cf2553",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2, 16.1 Maxwell’s Equations and Electromagnetic Waves",
+      "quote": "the displacement current can produce a magnetic field even where no real current is present",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/16-1-maxwells-equations-and-electromagnetic-waves",
+      "evidenceId": "78738957c3fc18cf2553",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2, 16.1 Maxwell’s Equations and Electromagnetic Waves",
+      "quote": "the displacement current can produce a magnetic field even where no real current is present",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/16-1-maxwells-equations-and-electromagnetic-waves",
+      "evidenceId": "78738957c3fc18cf2553",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2, 16.1 Maxwell’s Equations and Electromagnetic Waves",
+      "quote": "the displacement current can produce a magnetic field even where no real current is present",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/16-1-maxwells-equations-and-electromagnetic-waves",
+      "evidenceId": "78738957c3fc18cf2553",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2, 16.1 Maxwell’s Equations and Electromagnetic Waves",
+      "quote": "the displacement current can produce a magnetic field even where no real current is present",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/16-1-maxwells-equations-and-electromagnetic-waves",
+      "evidenceId": "78738957c3fc18cf2553",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Original statement inspected; explicit interior-region interpretation; Ampere-Maxwell derivation and boundary checks; direct OpenStax review",
+    "contentHash": "f3066d3ef27ccba013f2c4a51b73633be0cbd2efe62a4427c568bb301c80c354"
+  }
+}

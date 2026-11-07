@@ -1,0 +1,151 @@
+{
+  "id": "2021-3-04",
+  "summary": "같은 토크로 같은 각도만큼 회전시켰으므로 두 강체가 받은 일은 같습니다. 정지 상태에서 출발했으므로 I(가)(2ω)²=I(나)ω², 즉 I(나)=4I(가)입니다. I(가)=(2/5)MR², I(나)=(2/5)MR²+mR²를 대입하면 M/m=5/6이므로 정답은 ②입니다.",
+  "choices": [
+    "3/5: 오답입니다. M/m = 3/5이면 m = (5/3)M이 됩니다. 이때 (나)의 관성모멘트는 (2/5)MR² + (5/3)MR² = (31/15)MR²이고, (가)의 (2/5)MR²에 대한 비는 31/6으로 4가 아닙니다. 따라서 에너지 조건 I(가)·(2ω)² = I(나)·ω²를 만족하지 못합니다.",
+    "5/6: 정답입니다. 에너지 조건 (1/2)(2/5)MR²(2ω)² = (1/2)[(2/5)MR² + mR²]ω²를 정리하면 (8/5)M = (2/5)M + m입니다. 따라서 m = (6/5)M이고 M/m = 5/6입니다.",
+    "6/5: 오답입니다. 이 값은 정답의 역수인 m/M에 해당합니다. M/m = 6/5이면 m = (5/6)M이고, (나)의 관성모멘트는 (2/5 + 5/6)MR² = (37/30)MR²입니다. (가)에 대한 비가 37/12로 4가 되지 않습니다.",
+    "5/4: 오답입니다. m = (4/5)M이면 (나)의 관성모멘트는 (2/5 + 4/5)MR² = (6/5)MR²이고, (가)에 대한 비는 3입니다. 각속도 비 2를 만족하려면 관성모멘트 비가 4여야 하므로 맞지 않습니다.",
+    "5/3: 오답입니다. m = (3/5)M이면 (나)의 관성모멘트는 (2/5 + 3/5)MR² = MR²이고, (가)에 대한 비는 5/2입니다. 관성모멘트 비가 4가 아니므로 조건을 만족하지 못합니다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1, 10.8 Work and Power for Rotational Motion",
+      "quote": "The work-energy theorem for a rigid body rotating around a fixed axis is",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/10-8-work-and-power-for-rotational-motion",
+      "evidenceId": "448780cb484d97005064",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1, 10.8 Work and Power for Rotational Motion",
+      "quote": "The work-energy theorem for a rigid body rotating around a fixed axis is",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/10-8-work-and-power-for-rotational-motion",
+      "evidenceId": "448780cb484d97005064",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1, 10.8 Work and Power for Rotational Motion",
+      "quote": "The work-energy theorem for a rigid body rotating around a fixed axis is",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/10-8-work-and-power-for-rotational-motion",
+      "evidenceId": "448780cb484d97005064",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1, 10.8 Work and Power for Rotational Motion",
+      "quote": "The work-energy theorem for a rigid body rotating around a fixed axis is",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/10-8-work-and-power-for-rotational-motion",
+      "evidenceId": "448780cb484d97005064",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1, 10.8 Work and Power for Rotational Motion",
+      "quote": "The work-energy theorem for a rigid body rotating around a fixed axis is",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/10-8-work-and-power-for-rotational-motion",
+      "evidenceId": "448780cb484d97005064",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1, 10.8 Work and Power for Rotational Motion",
+      "quote": "The work-energy theorem for a rigid body rotating around a fixed axis is",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/10-8-work-and-power-for-rotational-motion",
+      "evidenceId": "448780cb484d97005064",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1, 10.5 Calculating Moments of Inertia",
+      "quote": "the moment of inertia for any object depends on the chosen axis",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/10-5-calculating-moments-of-inertia",
+      "evidenceId": "e76c53c85c966498fe51",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1, 10.5 Calculating Moments of Inertia",
+      "quote": "the moment of inertia for any object depends on the chosen axis",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/10-5-calculating-moments-of-inertia",
+      "evidenceId": "e76c53c85c966498fe51",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1, 10.5 Calculating Moments of Inertia",
+      "quote": "the moment of inertia for any object depends on the chosen axis",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/10-5-calculating-moments-of-inertia",
+      "evidenceId": "e76c53c85c966498fe51",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1, 10.5 Calculating Moments of Inertia",
+      "quote": "the moment of inertia for any object depends on the chosen axis",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/10-5-calculating-moments-of-inertia",
+      "evidenceId": "e76c53c85c966498fe51",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1, 10.5 Calculating Moments of Inertia",
+      "quote": "the moment of inertia for any object depends on the chosen axis",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/10-5-calculating-moments-of-inertia",
+      "evidenceId": "e76c53c85c966498fe51",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1, 10.5 Calculating Moments of Inertia",
+      "quote": "the moment of inertia for any object depends on the chosen axis",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/10-5-calculating-moments-of-inertia",
+      "evidenceId": "e76c53c85c966498fe51",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Original exam figure reviewed: sphere and horizontal thin ring rotate about the same vertical central axis in place, not rolling. Direct OpenStax 10.8 lines 48–75 and 99–105 reviewed for torque work and rotational kinetic energy; 10.5 lines 32–49 for I=integral(r² dm). Ring elements all have radius R, giving mR²; integral additivity gives combined inertia. Sphere formula supplied in exam. Independently verified I_b/I_a=4 from equal work and angular speeds 2omega/omega, and all five mass-ratio substitutions with exact fractions.",
+    "contentHash": "7a3dfc34a71380050434057e2f67fb3da3f527a3bbeaa76a1360cc8b34010d12"
+  }
+}

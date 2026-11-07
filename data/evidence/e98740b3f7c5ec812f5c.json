@@ -1,0 +1,16 @@
+{
+  "id": "e98740b3f7c5ec812f5c",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e, 14.4 DNA Replication in Prokaryotes",
+  "url": "https://openstax.org/books/biology-2e/pages/14-4-dna-replication-in-prokaryotes",
+  "excerpt": "ATP hydrolysis is required for this process.",
+  "sourceHash": "3d6c14bb0548ff71b321b9c19d7be7635b7c863f024f7d86a0d5dacd173a432c",
+  "cacheSourceId": "f168de02bb760c1e887b",
+  "retrievedAt": "2026-11-07T01:09:44.368806+00:00",
+  "reviewedMappings": {
+    "2022-3-25:3": "Opening paragraphs give dNTP energy for polymerization and ATP hydrolysis for helicase; energy consumption makes option 3 correct."
+  },
+  "retrievalMethod": "Direct web read of relevant text and table; original problem image inspected",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

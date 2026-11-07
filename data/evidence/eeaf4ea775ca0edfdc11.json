@@ -1,0 +1,17 @@
+{
+  "id": "eeaf4ea775ca0edfdc11",
+  "kind": "science",
+  "source": "PubMed / Nucleic Acids Research",
+  "ref": "Translation activates the paused transcription complex and restores transcription of the trp operon leader region",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/2991886/",
+  "excerpt": "coupling of transcription and translation essential to attenuation control",
+  "sourceHash": "a4841513bb0b6c6ad3148ab9be36f9430328e60da80da2a849a7dd021e1277c0",
+  "cacheSourceId": "237bf84703a52c30db9e",
+  "retrievedAt": "2026-11-07T01:58:26.163851+00:00",
+  "reviewedMappings": {
+    "2023-3-27:0": "③ trp 선도서열 번역의 진행이 전사 정지 복합체의 재개와 연결된다. 이 공역형 감쇠를 Trp가 억제단백질에 결합하는 전사 개시 억제와 구별.",
+    "2023-3-27:3": "③ trp 선도서열 번역의 진행이 전사 정지 복합체의 재개와 연결된다. 이 공역형 감쇠를 Trp가 억제단백질에 결합하는 전사 개시 억제와 구별."
+  },
+  "retrievalMethod": "PubMed 논문 초록 직접 열람. 번역 억제·변이와 RNA중합효소 일시정지 실험 및 결론.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

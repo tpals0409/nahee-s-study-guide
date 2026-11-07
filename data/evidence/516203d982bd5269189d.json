@@ -1,0 +1,16 @@
+{
+  "id": "516203d982bd5269189d",
+  "kind": "science",
+  "source": "NASA",
+  "ref": "Space Station View of Noctilucent Clouds",
+  "url": "https://www.nasa.gov/image-article/space-station-view-of-noctilucent-clouds/",
+  "excerpt": "water vapor can freeze into clouds of ice crystals",
+  "sourceHash": "e2772cff1f0ed9a3e3577d62fe2b82d7170b123cdf542a8a9739a63ac1b5989b",
+  "cacheSourceId": "496e0fb0df7c995108ca",
+  "retrievedAt": "2026-11-06T23:39:03.487834+00:00",
+  "reviewedMappings": {
+    "2020-3-35:2": "중간권 상부 야광운의 존재를 명시하여 구름이 전혀 없다는 잘못된 단정을 방지."
+  },
+  "retrievalMethod": "Direct web open/find; reviewed article dated June 6, 2016, lines 254–257, polar mesospheric ice clouds near mesopause.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

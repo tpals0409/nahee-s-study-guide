@@ -1,0 +1,16 @@
+{
+  "id": "0df327bec6174d2cfea9",
+  "kind": "science",
+  "source": "NAV CANADA",
+  "ref": "Pressure Gradient",
+  "url": "https://avmet.navcanada.ca/en/pressure-gradient.aspx",
+  "excerpt": "The pressure gradient is the rate of change of atmospheric pressure over a horizontal distance.",
+  "sourceHash": "9b0a4887946ed438c4c9f4c8dabdfeeb007b8bcba29647d7309ee32cd4dd7d1d",
+  "cacheSourceId": "9fb4e149164ab8859175",
+  "retrievedAt": "2026-11-06T18:25:42.141057+00:00",
+  "reviewedMappings": {
+    "2013-3-37:0": "같은 기압차·밀도에서 간격 10km 대8km는 기압경도력 비1:1.25. 본문은 지상풍의 세 힘 평형과 저압측 횡단을 설명."
+  },
+  "retrievalMethod": "web.open",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

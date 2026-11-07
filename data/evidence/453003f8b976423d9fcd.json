@@ -1,0 +1,18 @@
+{
+  "id": "453003f8b976423d9fcd",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Organic Chemistry 3.1 Functional Groups",
+  "url": "https://openstax.org/books/organic-chemistry/pages/3-1-functional-groups",
+  "excerpt": "ketones have two carbons bonded",
+  "sourceHash": "2a190875c486f43f1fdb8563d4b44cd867190411f95087f8fa6f330061a81015",
+  "cacheSourceId": "994269318dd1293bd98c",
+  "retrievedAt": "2026-11-07T06:15:25.805960+00:00",
+  "reviewedMappings": {
+    "2011-3-12:0": "Carbonyl carbon bonded to two carbons defines ketone, unlike vanillin CHO. This does not resolve phenol/alcohol official-answer conflict.",
+    "2011-3-12:2": "Carbonyl carbon bonded to two carbons defines ketone, unlike vanillin CHO. This does not resolve phenol/alcohol official-answer conflict.",
+    "2011-3-12:4": "Carbonyl carbon bonded to two carbons defines ketone, unlike vanillin CHO. This does not resolve phenol/alcohol official-answer conflict."
+  },
+  "retrievalMethod": "web direct text",
+  "sourceHashScope": "Short reviewed excerpt only"
+}

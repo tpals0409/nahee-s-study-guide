@@ -1,0 +1,16 @@
+{
+  "id": "fbbe3a69cea8c571a788",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e, 3.3 Lipids",
+  "url": "https://openstax.org/books/biology-2e/pages/3-3-lipids",
+  "excerpt": "with an ester bond",
+  "sourceHash": "3ebabe91aedb490b1b5bed888d46b275319936785cb27232d8500cdec4987444",
+  "cacheSourceId": "665d5966814f84fe1a5e",
+  "retrievedAt": "2026-11-07T01:06:01.093721+00:00",
+  "reviewedMappings": {
+    "2022-3-21:5": "Fats and Oils and Figure 3.13 identify ester linkage between fatty acids and glycerol, not peptide linkage."
+  },
+  "retrievalMethod": "Direct web read of Fats and Oils, Trans Fats and Figure 3.16; original problem image inspected",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

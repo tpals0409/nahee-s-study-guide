@@ -1,0 +1,19 @@
+{
+  "id": "849f1fa2f3a7f940f027",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 2e §19.2 Coordination Chemistry of Transition Metals",
+  "url": "https://openstax.org/books/chemistry-2e/pages/19-2-coordination-chemistry-of-transition-metals",
+  "excerpt": "The coordination number of the central metal ion or atom is the number of donor atoms bonded to it.",
+  "sourceHash": "971a826c753faa5a305758f8b64584c115d9f3d4fa8154782a305caf6e4e31fa",
+  "cacheSourceId": "bc4c3064559bf08425dd",
+  "retrievedAt": "2026-11-06T16:14:20.463766+00:00",
+  "reviewedMappings": {
+    "2010-3-18:0": "보기 ㄱ만 검증: 대괄호 안 H2O 3개와 Cl 1개는 단일배위 리간드이므로 직접 배위 원자 수 4. 이 출처가 ㄹ의 침전량이나 용액 중 착이온 보존까지 증명하지는 않음.",
+    "2010-3-18:1": "Original formula has three monodentate water ligands and one chloride donor inside brackets, giving coordination number four. Does not establish precipitation stoichiometry.",
+    "2010-3-18:3": "Original formula has three monodentate water ligands and one chloride donor inside brackets, giving coordination number four. Does not establish precipitation stoichiometry.",
+    "2010-3-18:4": "Original formula has three monodentate water ligands and one chloride donor inside brackets, giving coordination number four. Does not establish precipitation stoichiometry."
+  },
+  "retrievalMethod": "web.open publisher body: coordination-sphere and monodentate ligand paragraphs reviewed",
+  "sourceHashScope": "Selected excerpt only; not full page"
+}

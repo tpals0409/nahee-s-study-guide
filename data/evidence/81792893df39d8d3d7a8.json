@@ -1,0 +1,17 @@
+{
+  "id": "81792893df39d8d3d7a8",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Anatomy and Physiology 2e 22.4 Gas Exchange",
+  "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/22-4-gas-exchange",
+  "excerpt": "External respiration occurs as a function of partial pressure differences",
+  "sourceHash": "e0bcfaed81a520002c6e10c389b7ed984d698fa07c9e0c15faa9c703b5e37c3d",
+  "cacheSourceId": "e170da41d1fc76e55661",
+  "retrievedAt": "2026-11-06T16:58:15.016640+00:00",
+  "reviewedMappings": {
+    "2011-3-22:2": "ㄴ의 분압차에 의한 확산 지지.",
+    "2011-3-22:0": "공통 해설 근거: ㄴ의 분압차에 의한 확산 지지."
+  },
+  "retrievalMethod": "web.search 반환 본문 직접 대조; 전체 페이지 취득 아님",
+  "sourceHashScope": "Selected excerpt only; not full page"
+}

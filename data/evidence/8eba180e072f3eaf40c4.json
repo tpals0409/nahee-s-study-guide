@@ -1,0 +1,16 @@
+{
+  "id": "8eba180e072f3eaf40c4",
+  "kind": "science",
+  "source": "NWCG",
+  "ref": "Fire Weather: 5. General Circulation",
+  "url": "https://www-nwcg.fs2c.usda.gov/publications/pms425-1/5-general-circulation",
+  "excerpt": "This force acts in a direction perpendicular to the airflow, and its magnitude depends upon both the speed of the airflow and upon the latitude.",
+  "sourceHash": "69847d94ca1cbf37faae135023cea873cb45767c4a1bc65b0740663fd69f2c82",
+  "cacheSourceId": "bd7ff3756ddac538d8c4",
+  "retrievedAt": "2026-11-06T18:25:42.141540+00:00",
+  "reviewedMappings": {
+    "2013-3-37:0": "전향력은 바람에 수직, 마찰은 운동 반대. 정상 직선 지상풍에서 전향력 크기 C=G cosα 도출. 같은 지역의 두 풍속 비교."
+  },
+  "retrievalMethod": "web.search_query: indexed official source excerpt",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "3aa6731725f9709e3f15",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 2e 17.2 — Galvanic Cells",
+  "url": "https://openstax.org/books/chemistry-2e/pages/17-2-galvanic-cells",
+  "excerpt": "a compensatory flow of inert ions from the salt bridge that maintains charge balance.",
+  "sourceHash": "23154e1cb89db8eeea47d4d5c98da8dfe1890a3f5162b5948b9f2a832686a235",
+  "cacheSourceId": "0c2ef63ecc5a45f05d19",
+  "retrievedAt": "2026-11-06T19:35:15.864559+00:00",
+  "reviewedMappings": {
+    "2015-3-18:2": "외부 회로의 전자 이동과 염다리의 이온 이동을 본문에서 구분한다.",
+    "2015-3-18:5": "산화·환원 전극 원리를 원문의 Zn/Cu 반쪽 반응에 적용한다. 각각 2전자이므로 몰비 1:1; 원문 원자량 65,64로 질량합 감소를 독립 계산한다."
+  },
+  "retrievalMethod": "Direct web page opened and relevant section read; short excerpt transcribed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

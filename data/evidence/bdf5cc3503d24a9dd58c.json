@@ -1,0 +1,16 @@
+{
+  "id": "bdf5cc3503d24a9dd58c",
+  "kind": "science",
+  "source": "NASA",
+  "ref": "Saturn Facts",
+  "url": "https://science.nasa.gov/saturn/facts/",
+  "excerpt": "One day on Saturn takes only 10.7 hours",
+  "sourceHash": "5d37df86540c87935b1bdf3816c3684129a9b3d30c0ef3311924c226eda475e9",
+  "cacheSourceId": "e1c8ab3275f5bcf8716c",
+  "retrievedAt": "2026-11-06T22:55:06.099966+00:00",
+  "reviewedMappings": {
+    "2019-3-37:5": "해당 행성의 자전 주기를 NASA 본문과 대조하여 243일 조건을 충족하지 않음을 확인했다."
+  },
+  "retrievalMethod": "Direct open/find; Orbit and Rotation line 290 explicitly defines rotation.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

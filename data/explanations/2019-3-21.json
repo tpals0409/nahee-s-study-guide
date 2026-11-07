@@ -1,0 +1,85 @@
+{
+  "id": "2019-3-21",
+  "summary": "유전자형 개체수로 대립유전자 빈도를 구하면 1세대의 R 빈도는 0.4, r 빈도는 0.6이고, 10세대의 R 빈도는 0.45, r 빈도는 0.55입니다. 세대가 지나며 대립유전자 빈도가 달라졌으므로 하디-바인베르크 평형이 유지되었다고 볼 수 없습니다. 옳은 것은 ㄴ뿐이며 정답은 ㄴ입니다.",
+  "choices": [
+    "ㄱ만 고른 선지: 오답입니다. 1세대의 총 개체수는 1000, 대립유전자 수는 2000입니다. R의 수는 RR 100개체에서 200개, Rr 600개체에서 600개로 모두 800개이므로 R 빈도는 800/2000 = 0.4입니다. 0.35가 아니므로 ㄱ은 틀립니다.",
+    "ㄴ만 고른 선지: 정답입니다. 10세대의 총 개체수는 1000입니다. r의 수는 Rr 100개체에서 100개, rr 500개체에서 1000개로 모두 1100개이므로 r 빈도는 1100/2000 = 0.55이며 ㄴ은 옳습니다. ㄱ과 ㄷ은 틀리므로 ㄴ만 고르는 이 선지가 맞습니다.",
+    "ㄱ, ㄷ을 고른 선지: 오답입니다. ㄱ의 R 빈도는 0.35가 아니라 0.4입니다. ㄷ도 대립유전자 빈도가 1세대 r 0.6에서 10세대 r 0.55로 변했으므로 틀립니다.",
+    "ㄴ은 옳지만 ㄷ은 틀립니다. 하디-바인베르크 평형이 유지되면 세대 간 대립유전자 빈도가 일정해야 하는데, r의 빈도가 0.6에서 0.55로 변했습니다.",
+    "ㄱ, ㄴ, ㄷ을 모두 고른 선지: 오답입니다. ㄱ(실제 R 빈도 0.4)과 ㄷ(대립유전자 빈도 변화로 평형 불성립)이 틀리므로 세 개를 모두 고를 수 없습니다."
+  ],
+  "lawNote": "이형접합자 Rr은 R과 r을 각각 1개씩 가집니다. 대립유전자 빈도의 분모는 개체 수가 아니라 해당 유전자 자리의 전체 대립유전자 수인 2N입니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "19.1 Population Evolution",
+      "quote": "the allelic frequency is stable from generation to generation",
+      "url": "https://openstax.org/books/biology-2e/pages/19-1-population-evolution",
+      "evidenceId": "32b01c23ab8ca49ca0a2",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "19.1 Population Evolution",
+      "quote": "the allelic frequency is stable from generation to generation",
+      "url": "https://openstax.org/books/biology-2e/pages/19-1-population-evolution",
+      "evidenceId": "32b01c23ab8ca49ca0a2",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "19.1 Population Evolution",
+      "quote": "the allelic frequency is stable from generation to generation",
+      "url": "https://openstax.org/books/biology-2e/pages/19-1-population-evolution",
+      "evidenceId": "32b01c23ab8ca49ca0a2",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "19.1 Population Evolution",
+      "quote": "the allelic frequency is stable from generation to generation",
+      "url": "https://openstax.org/books/biology-2e/pages/19-1-population-evolution",
+      "evidenceId": "32b01c23ab8ca49ca0a2",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "19.1 Population Evolution",
+      "quote": "the allelic frequency is stable from generation to generation",
+      "url": "https://openstax.org/books/biology-2e/pages/19-1-population-evolution",
+      "evidenceId": "32b01c23ab8ca49ca0a2",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "19.1 Population Evolution",
+      "quote": "the allelic frequency is stable from generation to generation",
+      "url": "https://openstax.org/books/biology-2e/pages/19-1-population-evolution",
+      "evidenceId": "32b01c23ab8ca49ca0a2",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Direct OpenStax allele-count and Hardy–Weinberg review; independent exact-fraction calculation for both generations",
+    "contentHash": "f7ca95eb71e0c7c18dfb689c9cd4fed5ca88b6b8fb24c482f30b2f40efd04f81"
+  }
+}

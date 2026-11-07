@@ -1,0 +1,85 @@
+{
+  "id": "2025-3-27",
+  "summary": "정답은 ②입니다. 아미노산은 tRNA의 3′ 말단에 연결되어 리보솜으로 운반됩니다. mRNA 결합에는 작은 소단위체가, 펩타이드 결합 형성에는 큰 소단위체의 리보자임 활성이 관여합니다.",
+  "choices": [
+    "틀렸습니다. 61은 표준 유전암호에서 아미노산을 지정하는 코돈의 수입니다. 하나의 tRNA가 여러 코돈을 인식할 수 있으므로 코돈마다 별도의 tRNA 한 종류가 필요한 것은 아닙니다. 대장균의 tRNA 종류를 61개 코돈과 일대일로 대응시킨 설명은 옳지 않습니다.",
+    "옳습니다. 아미노아실-tRNA 합성효소는 아미노산을 tRNA의 3′ 말단 CCA에 연결하여 아미노아실-tRNA를 만듭니다. tRNA는 아미노산을 운반하고 안티코돈으로 mRNA의 코돈을 인식합니다.",
+    "틀렸습니다. 대장균 번역 개시에서 mRNA는 작은 소단위체인 30S와 결합합니다. 이후 큰 소단위체인 50S가 합류하여 70S 개시 복합체를 형성합니다.",
+    "틀렸습니다. 펩타이드 결합을 촉매하는 펩티딜 전이효소의 리보자임 활성은 큰 소단위체인 50S에 있습니다. 작은 소단위체에 있다는 설명은 반대입니다.",
+    "틀렸습니다. 개시 단계에서는 mRNA와 개시 tRNA를 포함한 리보솜 복합체가 조립됩니다. 첫 펩타이드 결합은 다음 아미노아실-tRNA가 A 자리에 들어온 뒤 신장 단계에서 형성됩니다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax Biology 2e",
+      "ref": "15.5 Ribosomes and Protein Synthesis",
+      "quote": "Each tRNA anticodon can base pair with one or more of the mRNA codons for its amino acid.",
+      "url": "https://openstax.org/books/biology-2e/pages/15-5-ribosomes-and-protein-synthesis",
+      "evidenceId": "dc2969d98b17713fffef",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax Microbiology",
+      "ref": "11.4 Protein Synthesis (Translation)",
+      "quote": "an RNA-based ribozyme that is integrated into the 50S ribosomal subunit",
+      "url": "https://openstax.org/books/microbiology/pages/11-4-protein-synthesis-translation",
+      "evidenceId": "5b03c9164c6c24f3623b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax Microbiology",
+      "ref": "11.4 Protein Synthesis (Translation)",
+      "quote": "an RNA-based ribozyme that is integrated into the 50S ribosomal subunit",
+      "url": "https://openstax.org/books/microbiology/pages/11-4-protein-synthesis-translation",
+      "evidenceId": "5b03c9164c6c24f3623b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax Microbiology",
+      "ref": "11.4 Protein Synthesis (Translation)",
+      "quote": "an RNA-based ribozyme that is integrated into the 50S ribosomal subunit",
+      "url": "https://openstax.org/books/microbiology/pages/11-4-protein-synthesis-translation",
+      "evidenceId": "5b03c9164c6c24f3623b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax Microbiology",
+      "ref": "11.4 Protein Synthesis (Translation)",
+      "quote": "an RNA-based ribozyme that is integrated into the 50S ribosomal subunit",
+      "url": "https://openstax.org/books/microbiology/pages/11-4-protein-synthesis-translation",
+      "evidenceId": "5b03c9164c6c24f3623b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax Microbiology",
+      "ref": "11.4 Protein Synthesis (Translation)",
+      "quote": "an RNA-based ribozyme that is integrated into the 50S ribosomal subunit",
+      "url": "https://openstax.org/books/microbiology/pages/11-4-protein-synthesis-translation",
+      "evidenceId": "5b03c9164c6c24f3623b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Original image and canonical choices compared with primary translation textbook sections; retained supported 3′-end/30S/50S/initiation-elongation distinctions. Removed hydroxyl-position conflation, unnecessary exact tRNA count and universal EF-Tu delivery claim.",
+    "contentHash": "8fc31dc956bc8e97551f15b4f15df7c182e86cdb4ab87b6d223868d44ef04e19"
+  }
+}

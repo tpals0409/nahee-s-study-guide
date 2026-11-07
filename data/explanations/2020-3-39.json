@@ -1,0 +1,85 @@
+{
+  "id": "2020-3-39",
+  "summary": "그림에서 태양빛은 왼쪽에서 오고 달은 A→B→C→D 순서로 공전합니다. 따라서 A는 삭, B는 상현, C는 망, D는 하현입니다. 정답은 ②입니다.",
+  "choices": [
+    "B는 상현달로, 대표적인 출몰 시각은 정오 무렵에 떠서 자정 무렵에 지는 것입니다. 자정에 뜬다는 설명은 하현달에 해당합니다.",
+    "삭인 A에서 공전 방향으로 궤도의 4분의 1을 지난 B는 상현입니다. 지구에서는 밝은 면의 절반이 보입니다.",
+    "C는 망의 위치이므로 일식이 일어나지 않습니다. 월식이 가능한 위치이지만 매번 월식이 생기는 것은 아닙니다. 일식은 달이 태양과 지구 사이에 있는 삭에서 정렬 조건이 맞을 때 가능합니다.",
+    "D는 하현달로, 대략 자정에 떠서 정오 무렵 집니다. 따라서 이 모식도의 일반적인 출몰 관계에서는 초저녁에 관측하는 달이 아닙니다.",
+    "A는 삭으로 밝은 면이 지구 반대쪽을 향하며 태양과 비슷한 방향에 있습니다. 일반적인 야간 관측에 적합하지 않으므로 가장 오래 관측된다는 설명은 틀립니다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Astronomy 2e: 4.5 Phases and Motions of the Moon",
+      "quote": "rising around noon and setting around midnight",
+      "url": "https://openstax.org/books/astronomy-2e/pages/4-5-phases-and-motions-of-the-moon",
+      "evidenceId": "be66d913394633225445",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Astronomy 2e: 4.5 Phases and Motions of the Moon",
+      "quote": "rising around noon and setting around midnight",
+      "url": "https://openstax.org/books/astronomy-2e/pages/4-5-phases-and-motions-of-the-moon",
+      "evidenceId": "be66d913394633225445",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Astronomy 2e: 4.5 Phases and Motions of the Moon",
+      "quote": "rising around noon and setting around midnight",
+      "url": "https://openstax.org/books/astronomy-2e/pages/4-5-phases-and-motions-of-the-moon",
+      "evidenceId": "be66d913394633225445",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Astronomy 2e: 4.5 Phases and Motions of the Moon",
+      "quote": "rising around noon and setting around midnight",
+      "url": "https://openstax.org/books/astronomy-2e/pages/4-5-phases-and-motions-of-the-moon",
+      "evidenceId": "be66d913394633225445",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Astronomy 2e: 4.5 Phases and Motions of the Moon",
+      "quote": "rising around noon and setting around midnight",
+      "url": "https://openstax.org/books/astronomy-2e/pages/4-5-phases-and-motions-of-the-moon",
+      "evidenceId": "be66d913394633225445",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "NASA",
+      "ref": "Eclipses and the Moon",
+      "quote": "Lunar eclipses occur at the full Moon phase.",
+      "url": "https://science.nasa.gov/moon/eclipses/",
+      "evidenceId": "f2a0f3f0da832b22c99e",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Original image visually verified: leftward Sun source and A→B→C→D counterclockwise motion. Derived phases independently and matched approximate rise/set and eclipse conditions to reviewed sources; removed universal longest-observation claim.",
+    "contentHash": "386965be5a80a5d917ffac34aaa8fd49acd53d6146624f6ace09e4a288bde6d9"
+  }
+}

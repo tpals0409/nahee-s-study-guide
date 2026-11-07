@@ -1,0 +1,30 @@
+{
+  "summary": "물에 잠긴 높이의 비율을 x라 하면, 기름에 잠긴 비율은 1−x입니다. 부력과 무게의 평형에서 1.00x+0.80(1−x)=0.98이므로 x=0.90입니다. 정답은 ③, 90%입니다.",
+  "choices": [
+    "75%이면 밀어낸 유체의 무게에 해당하는 비중 계수는 0.95입니다. 나무의0.98보다 작아 부력이 부족합니다.",
+    "80%이면 계수는0.96으로, 나무의0.98보다 작아 평형이 아닙니다.",
+    "90%이면0.90×1.00+0.10×0.80=0.98로 부력과 무게가 같습니다.",
+    "95%이면 계수는0.99로 나무의0.98보다 커서 부력이 무게보다 큽니다.",
+    "98%이면 계수는0.996입니다. 기름에서도 부력을 받으므로 나무 비중0.98을 그대로 물속 높이비로 사용할 수 없습니다."
+  ],
+  "lawNote": "원통의 단면적이 일정하므로 높이비와 부피비가 같습니다. 그림은 개략도이므로 길이를 재는 대신 주어진 비중으로 계산합니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1 14.4 — Archimedes’ Principle",
+      "quote": "The buoyant force on an object equals the weight of the fluid it displaces.",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/14-4-archimedes-principle-and-buoyancy",
+      "evidenceId": "3c351de88016f9fdb60c",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "원본 2012-3-08.webp의 두 유체층·기둥 위치·비중 확인. 아르키메데스 원리로 두 유체가 대체하는 무게 합 직접 유도, 다섯 선지 대입 검산 및 저장정답③ 일치.",
+    "contentHash": "9d97f82ef9294da4fa89c07f0eec9680579b2f5f840852b0557e6192ab780858"
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "id": "2026-3-29",
+  "summary": "공식 최종정답은 ②입니다. 핵막은 내막과 외막으로 이루어져 있습니다. ③을 세포질액(cytosol)에서만 ATP를 만든다는 뜻으로 해석하면, 효모는 미토콘드리아에서도 ATP를 생성하므로 틀립니다. 다만 원문은 세포질(cytoplasm)이라고 적혀 있어 용어상의 주의가 필요합니다.",
+  "choices": [
+    "①은 틀렸습니다. 대장균은 원핵생물로, 미토콘드리아와 같은 막성 세포소기관이 없습니다.",
+    "②는 옳습니다. 핵막은 내막과 외막이라는 두 막으로 구성되고, 각각은 인지질 이중층입니다. 막 하나의 두 층과 핵막을 이루는 두 막을 구별해야 합니다.",
+    "③은 용어 검토가 필요합니다. 효모는 미토콘드리아에서 호흡을 통해 ATP를 생산할 수 있으므로, 세포질액(cytosol)에서만 생산한다는 뜻이라면 틀립니다. 그러나 원문의 cytoplasm은 엄밀하게 미토콘드리아를 포함하므로 cytosol로 바꾸어 읽는 것은 해석상의 가정입니다.",
+    "④는 틀렸습니다. 효모 세포벽은 글루칸, 당화 단백질 및 소량의 키틴으로 이루어집니다. 펩티도글리칸을 효모 세포벽의 핵심 성분으로 설명할 수 없습니다.",
+    "대장균이 핵을 가진다는 보기: 틀렸습니다. 원핵생물인 대장균에는 핵막으로 둘러싸인 핵이 없습니다. DNA는 세포질의 핵양체(nucleoid) 부위에 있습니다."
+  ],
+  "lawNote": "용어 주의: 엄밀한 세포질(cytoplasm)은 세포질액(cytosol)과 미토콘드리아 등 소기관을 포함합니다. 따라서 “미토콘드리아에서도 ATP를 만든다”는 사실만으로 원문 ③을 반박할 수는 없습니다. 위 해설은 세포질액만을 뜻한다고 해석했을 때 공식 정답 ②에 대응하는 풀이이며, 공식 출제 의도를 확인했다거나 원문에 아무런 모호함이 없다는 뜻은 아닙니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e 4.2 Prokaryotic Cells",
+      "quote": "lacks a nucleus, or any other membrane-bound organelle.",
+      "url": "https://openstax.org/books/biology-2e/pages/4-2-prokaryotic-cells",
+      "evidenceId": "8010c9b7a617eaf93de8",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e 4.2 Prokaryotic Cells",
+      "quote": "lacks a nucleus, or any other membrane-bound organelle.",
+      "url": "https://openstax.org/books/biology-2e/pages/4-2-prokaryotic-cells",
+      "evidenceId": "8010c9b7a617eaf93de8",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e 4.3 Eukaryotic Cells",
+      "quote": "It consists of two phospholipid bilayers: an outer and an inner membrane.",
+      "url": "https://openstax.org/books/biology-2e/pages/4-3-eukaryotic-cells",
+      "evidenceId": "cbaaa065812dc59c1986",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e 4.3 Eukaryotic Cells",
+      "quote": "It is comprised of organelles suspended in the gel-like cytosol",
+      "url": "https://openstax.org/books/biology-2e/pages/4-3-eukaryotic-cells",
+      "evidenceId": "ced0d4c30a663450d5d2",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e 4.3 Eukaryotic Cells",
+      "quote": "It is comprised of organelles suspended in the gel-like cytosol",
+      "url": "https://openstax.org/books/biology-2e/pages/4-3-eukaryotic-cells",
+      "evidenceId": "ced0d4c30a663450d5d2",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "Genetics / PubMed",
+      "ref": "Orlean (2012), Architecture and biosynthesis of the Saccharomyces cerevisiae cell wall",
+      "quote": "The wall consists of β1,3- and β1,6-glucans, a small amount of chitin,",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23135325/",
+      "evidenceId": "5f759eee621e6659128a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "Saccharomyces Genome Database",
+      "ref": "Saccharomyces cerevisiae aerobic respiration, electron transport chain",
+      "quote": "ATP synthesis by the mitochondrial inner membrane F1F0 ATP synthase",
+      "url": "https://pathway.yeastgenome.org/YEAST/NEW-IMAGE?object=PWY3O-188&type=PATHWAY",
+      "evidenceId": "03e9aa604c4c81016f6a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "Saccharomyces Genome Database",
+      "ref": "Saccharomyces cerevisiae aerobic respiration, electron transport chain",
+      "quote": "ATP synthesis by the mitochondrial inner membrane F1F0 ATP synthase",
+      "url": "https://pathway.yeastgenome.org/YEAST/NEW-IMAGE?object=PWY3O-188&type=PATHWAY",
+      "evidenceId": "03e9aa604c4c81016f6a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e 4.3 Eukaryotic Cells",
+      "quote": "It consists of two phospholipid bilayers: an outer and an inner membrane.",
+      "url": "https://openstax.org/books/biology-2e/pages/4-3-eukaryotic-cells",
+      "evidenceId": "cbaaa065812dc59c1986",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Original image and official final-key PDF inspected. Direct cell-structure, species-specific wall and SGD respiratory-pathway sources mapped. Verified conditional explanation only: cytoplasm/cytosol ambiguity explicitly preserved, not an unconditional uniqueness proof.",
+    "contentHash": "4312fec399f9d944a136874c8e20f7ea0c216ee7c111601a0085a3287d5e4780"
+  }
+}

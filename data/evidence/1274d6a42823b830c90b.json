@@ -1,0 +1,16 @@
+{
+  "id": "1274d6a42823b830c90b",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Microbiology, 5.3 Fungi",
+  "url": "https://openstax.org/books/microbiology/pages/5-3-fungi",
+  "excerpt": "Fungal cell walls contain chitin",
+  "sourceHash": "b4c06cab1d6220bc6c36035c39f406b26c5dbfda3b3fe420ab295949854e4f5d",
+  "cacheSourceId": "1465decfe3aaedc48750",
+  "retrievedAt": "2026-11-07T01:10:43.540300+00:00",
+  "reviewedMappings": {
+    "2022-3-26:3": "Fungal chitin-containing wall differs from bacterial peptidoglycan."
+  },
+  "retrievalMethod": "Direct web read: Characteristics of Fungi",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

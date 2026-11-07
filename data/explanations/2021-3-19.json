@@ -1,0 +1,85 @@
+{
+  "id": "2021-3-19",
+  "summary": "Cl의 산화수는 +7에서 +3으로 감소하고, H₂O₂의 O는 -1에서 0으로 증가합니다. 전자 수를 맞춘 뒤 염기성 조건으로 바꾸면 Cl₂O₇ + 4H₂O₂ + 2OH⁻ → 2ClO₂⁻ + 4O₂ + 5H₂O가 됩니다. 따라서 a=2, b=5이고 b/a=5/2입니다.",
+  "choices": [
+    "3/2: 오답입니다. Cl₂O₇의 계수를 1로 두면 a=2입니다. 산성 중간식에서는 물이 3이지만, 양변에 OH⁻ 2개를 더해 생성물의 H⁺를 중화하면 물 2개가 추가됩니다. 따라서 b=5이며 3/2가 아닙니다.",
+    "2: 오답입니다. Cl₂O₇ 계수 1, H₂O₂ 계수 4, OH⁻ 계수 2로 맞췄을 때 물을 4로 두면 우변 수소는 8개로 좌변 10개와 다릅니다. 물의 계수는 5여야 합니다.",
+    "5/2: 정답입니다. 염기성 균형식 Cl₂O₇ + 4H₂O₂ + 2OH⁻ → 2ClO₂⁻ + 4O₂ + 5H₂O에서 a=2, b=5이므로 b/a=5/2입니다.",
+    "3: 오답입니다. Cl₂O₇ 계수를 1로 두면 OH⁻는 2이고 물은 5입니다. 물을 6으로 두면 우변 수소가 12개가 되어 좌변 10개와 맞지 않습니다.",
+    "7/2: 오답입니다. Cl₂O₇ 계수를 1로 두고 OH⁻ 계수 2에 대해 물을 7로 두면 우변 수소는 14개가 되어 좌변 10개와 맞지 않습니다. 올바른 물 계수는 5입니다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 17.1 Review of Redox Chemistry",
+      "quote": "Balance each half-reaction for charge by adding electrons.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/17-1-review-of-redox-chemistry",
+      "evidenceId": "17ce2f45a16b82108cd2",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 17.1 Review of Redox Chemistry",
+      "quote": "Balance each half-reaction for charge by adding electrons.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/17-1-review-of-redox-chemistry",
+      "evidenceId": "17ce2f45a16b82108cd2",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 17.1 Review of Redox Chemistry",
+      "quote": "Balance each half-reaction for charge by adding electrons.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/17-1-review-of-redox-chemistry",
+      "evidenceId": "17ce2f45a16b82108cd2",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 17.1 Review of Redox Chemistry",
+      "quote": "Balance each half-reaction for charge by adding electrons.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/17-1-review-of-redox-chemistry",
+      "evidenceId": "17ce2f45a16b82108cd2",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 17.1 Review of Redox Chemistry",
+      "quote": "Balance each half-reaction for charge by adding electrons.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/17-1-review-of-redox-chemistry",
+      "evidenceId": "17ce2f45a16b82108cd2",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 17.1 Review of Redox Chemistry",
+      "quote": "Balance each half-reaction for charge by adding electrons.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/17-1-review-of-redox-chemistry",
+      "evidenceId": "17ce2f45a16b82108cd2",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Independent half-reaction derivation and atom/charge conservation check; reviewed basic-medium neutralization method; all ratio choices checked under common coefficient normalization.",
+    "contentHash": "6258c37a15b15d9b6a3114bc7c6d1357af8638e0609f13fedabfe2f8f7b73821"
+  }
+}

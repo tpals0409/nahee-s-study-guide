@@ -1,0 +1,21 @@
+{
+  "id": "c7202b0f5b6f65e7fed2",
+  "kind": "science",
+  "source": "NASA Goddard Space Flight Center",
+  "ref": "Redshift and Hubble's Law",
+  "url": "https://starchild.gsfc.nasa.gov/docs/StarChild/questions/redshift.html",
+  "excerpt": "v = H x d",
+  "sourceHash": "6601f5cda64a3611ce74a4f1045e1eee077c5b1a371321eafec3ab13bd77ea3d",
+  "cacheSourceId": "6e1630d33ea6b8349d92",
+  "retrievedAt": "2026-11-06T22:19:41.037484+00:00",
+  "reviewedMappings": {
+    "2018-3-40:0": "Original graph independently read at 800 Mpc and 40000 km/s; sourced v=Hd yields H=50, making option 4 incorrect.",
+    "2018-3-40:1": "Reviewed expansion interpretation in source line 8; applied to recession-distance trend in question, not every individual galaxy.",
+    "2018-3-40:2": "Source lines 9–12 define v=Hd and variables; question line is this proportional relation.",
+    "2018-3-40:3": "Source v=Hd supports increasing recession speed with distance for fixed positive H; graph has positive slope.",
+    "2018-3-40:4": "Original graph guides give d=800 Mpc and v=40000 km/s. Algebra H=v/d gives 50 km/s/Mpc, not 40. Source supplies law, original graph supplies values.",
+    "2018-3-40:5": "Source line 8 links greater distance with larger redshift. Applied to question idealized Hubble trend without treating z=v/c as exact at all distances."
+  },
+  "retrievalMethod": "Direct web open: lines 8–12 expansion, redshift trend, Hubble relation and definitions; line 16 scope caveat reviewed. Did not use dated numerical H estimate in line 13 or universal all-galaxies wording. Independently inspected original question graph app/public/images/2018-3-40.webp: dashed guides mark 800 Mpc and 40000 km/s.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

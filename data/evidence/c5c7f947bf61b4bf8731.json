@@ -1,0 +1,19 @@
+{
+  "id": "c5c7f947bf61b4bf8731",
+  "kind": "science",
+  "source": "NASA",
+  "ref": "Hubble Cosmological Redshift",
+  "url": "https://science.nasa.gov/mission/hubble/science/science-behind-the-discoveries/hubble-cosmological-redshift/",
+  "excerpt": "The universe is expanding, and that expansion stretches light traveling through space",
+  "sourceHash": "1224eb8accf09c368597b9c1d71aebb089f6102b4747fcd4d5c023199b2e38c8",
+  "cacheSourceId": "3875bd39b1747ef1999b",
+  "retrievedAt": "2026-11-07T00:37:19.534964+00:00",
+  "reviewedMappings": {
+    "2021-3-38:0": "299–302,321행 우주팽창에 의한 장파장 이동과 거리-적색편이 경향. ㄷ 청색편이 배제. 청색편이가 국부은하군에서만 관측된다는 초안의 제한은 삭제.",
+    "2021-3-38:3": "299–302,321행 우주팽창에 의한 장파장 이동과 거리-적색편이 경향. ㄷ 청색편이 배제. 청색편이가 국부은하군에서만 관측된다는 초안의 제한은 삭제.",
+    "2021-3-38:4": "299–302,321행 우주팽창에 의한 장파장 이동과 거리-적색편이 경향. ㄷ 청색편이 배제. 청색편이가 국부은하군에서만 관측된다는 초안의 제한은 삭제.",
+    "2021-3-38:5": "299–302,321행 우주팽창에 의한 장파장 이동과 거리-적색편이 경향. ㄷ 청색편이 배제. 청색편이가 국부은하군에서만 관측된다는 초안의 제한은 삭제."
+  },
+  "retrievalMethod": "Direct official page opened and relevant sections reviewed alongside original exam graph.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

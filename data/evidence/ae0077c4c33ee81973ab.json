@@ -1,0 +1,18 @@
+{
+  "id": "ae0077c4c33ee81973ab",
+  "kind": "science",
+  "source": "한국고생물학회 KOFHIN",
+  "ref": "Dinosaur Beds of the Gyeongsang Supergroup: Taphonomy and Paleoenvironments (1998)",
+  "url": "https://kofhin.psok.or.kr/kprdb/reference_detail/3385/",
+  "excerpt": "경상누층군 공룡 화석층의 발달유형은 크게 세 가지",
+  "sourceHash": "c650a2e7a3c4b442386e098134eed67f145d3697fd87eb1dc3c0a0978c387bc2",
+  "cacheSourceId": "9f6d034cbcca7e8289de",
+  "retrievedAt": "2026-11-06T22:52:21.125013+00:00",
+  "reviewedMappings": {
+    "2019-3-34:0": "경상누층군 공룡화석층을 연구한 원논문 초록으로 ㄴ을 검증했다.",
+    "2019-3-34:2": "초록의 하산동층 공룡화석층 보고가 ㄴ을 직접 뒷받침한다.",
+    "2019-3-34:4": "ㄴ은 옳다는 부분 판단을 확인했다."
+  },
+  "retrievalMethod": "Reviewed web-search-returned abstract of Paik, Lee and Kim (1998), Journal of the Geological Society of Korea 34(3):243–265, on existing and newly found Hasandong dinosaur beds. Direct open returned 403; full article was not accessed.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,41 @@
+{
+  "summary": "정답은 ④입니다. 카이랄 중심을 가진 후보는 ①·③·④입니다. 세 후보의 CHFCl 탄소에는 H, F, Cl, 알킬기가 서로 다르게 붙어 있습니다. 같은 말단기를 가진 후보를 분자 크기와 가지 구조로 비교하면, 탄소가 6개이고 가지가 없는 ④의 끓는점이 가장 높을 것으로 예상됩니다.",
+  "choices": [
+    "CH₃CH₂CHFCl은 CHFCl 탄소가 카이랄 중심입니다. 탄소 수는 3개이며 분자식은 C₃H₆FCl입니다. 같은 말단기를 가진 탄소 6개 후보보다 분자가 작아 분산력에 의한 끓는점 상승 효과가 작을 것으로 예상됩니다.",
+    "CH₃CH=CFCl의 이중결합 탄소는 사면체 탄소가 아니며, 남은 탄소는 CH₃입니다. 따라서 요구하는 카이랄 중심이 없습니다.",
+    "(CH₃)₃CCH₂CHFCl의 말단 CHFCl 탄소는 카이랄 중심입니다. ④와 분자식 C₆H₁₂FCl이 같지만 가지가 많습니다. 비슷한 분자에서 가지가 많을수록 접촉 면적과 분산력이 작아지는 경향으로 보아 ④보다 끓는점이 낮을 것으로 예상됩니다.",
+    "말단 CHFCl 탄소에 H, F, Cl, n-펜틸기가 결합하므로 카이랄 중심이 있습니다. ①보다 크고, 같은 분자식인 ③보다 가지가 적어 분산력에 따른 끓는점 비교에서 가장 높은 후보입니다.",
+    "F가 붙은 탄소에는 동일한 CH₃기가 두 개 있으므로 카이랄 중심이 아닙니다. 나머지 탄소도 CH₂ 또는 CH₃이므로 카이랄 중심이 없습니다."
+  ],
+  "lawNote": "먼저 카이랄 중심 유무로 후보를 고르고, 그 안에서 끓는점을 비교합니다. 끓는점 설명은 유사한 구조의 분자에 적용하는 일반 경향에 따른 예측이며, 각 물질의 실측 끓는점을 제시한 것은 아닙니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "OpenStax Organic Chemistry §5.2 The Reason for Handedness in Molecules: Chirality",
+      "quote": "a tetrahedral carbon atom bonded to four different groups",
+      "url": "https://openstax.org/books/organic-chemistry/pages/5-2-the-reason-for-handedness-in-molecules-chirality",
+      "evidenceId": "df51c2c38642f2c4c932",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "OpenStax Organic Chemistry §3.5 Properties of Alkanes",
+      "quote": "Another effect seen in alkanes is that increased branching lowers an alkane’s boiling point.",
+      "url": "https://openstax.org/books/organic-chemistry/pages/3-5-properties-of-alkanes",
+      "evidenceId": "131a49ad2c823b4d29a1",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "원본2013-3-12_1.webp 구조 직접 판독.①탄소수3개로 초안 오류 수정;③④C6H12FCl 확인. OpenStax 카이랄 중심 정의와 크기·가지에 따른 분산력 경향 대조. 끓는점은 일반경향 적용 추론으로 명시; 저장정답④일치.",
+    "contentHash": "c141be1fdd699f5002548326f9e4aec300e9a7bf16ec32563456b8ab2bae404f"
+  }
+}

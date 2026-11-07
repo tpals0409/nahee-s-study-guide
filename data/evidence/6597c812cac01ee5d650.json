@@ -1,0 +1,16 @@
+{
+  "id": "6597c812cac01ee5d650",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e §45.6 Community Ecology",
+  "url": "https://openstax.org/books/biology-2e/pages/45-6-community-ecology",
+  "excerpt": "All populations occupying the same habitat form a community",
+  "sourceHash": "fbaa19309b8d5375037649d397c3d566950847d40b0f96a012848f7470d53c57",
+  "cacheSourceId": "3c4ff02b06e9e3be5e5f",
+  "retrievedAt": "2026-11-06T16:42:27.378122+00:00",
+  "reviewedMappings": {
+    "2011-3-28:0": "ㄱ 군집 정의 및 Primary/Secondary succession 절에서 새로 노출된 암반의 1차천이와 교란 후 남은 군집에서의 2차천이 대조(ㄴ 거짓)."
+  },
+  "retrievalMethod": "web.run publisher/agency page reviewed",
+  "sourceHashScope": "Selected excerpt only; not full page"
+}

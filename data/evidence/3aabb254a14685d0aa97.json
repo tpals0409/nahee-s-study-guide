@@ -1,0 +1,20 @@
+{
+  "id": "3aabb254a14685d0aa97",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 2e, 8.3 Multiple Bonds",
+  "url": "https://openstax.org/books/chemistry-2e/pages/8-3-multiple-bonds",
+  "excerpt": "In molecules with sp hybrid orbitals, two unhybridized p orbitals remain on the atom",
+  "sourceHash": "eed6def92a3af9262fc1bfccb0fc98b76c9fafb79ecb7d40a5ed72411f3e0f72",
+  "cacheSourceId": "96aaa00198b9de11b786",
+  "retrievedAt": "2026-11-07T00:04:04.980237+00:00",
+  "reviewedMappings": {
+    "2021-3-14:0": "ㄱ: 에틸렌은 sp2, 아세틸렌은 sp. 알렌에 대한 별도 근거와 결합하여 sp 포함 분자가 두 종류임을 판정.",
+    "2021-3-14:1": "ㄱ: 에틸렌은 sp2, 아세틸렌은 sp. 알렌에 대한 별도 근거와 결합하여 sp 포함 분자가 두 종류임을 판정.",
+    "2021-3-14:2": "ㄱ: 에틸렌은 sp2, 아세틸렌은 sp. 알렌에 대한 별도 근거와 결합하여 sp 포함 분자가 두 종류임을 판정.",
+    "2021-3-14:3": "ㄱ: 에틸렌은 sp2, 아세틸렌은 sp. 알렌에 대한 별도 근거와 결합하여 sp 포함 분자가 두 종류임을 판정.",
+    "2021-3-14:4": "ㄱ: 에틸렌은 sp2, 아세틸렌은 sp. 알렌에 대한 별도 근거와 결합하여 sp 포함 분자가 두 종류임을 판정."
+  },
+  "retrievalMethod": "Direct lines 29-46: ethene sp2 and acetylene sp; original figure independently checked.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

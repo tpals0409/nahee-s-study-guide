@@ -1,0 +1,21 @@
+{
+  "id": "6c4004b57b7b340e22b3",
+  "kind": "science",
+  "source": "Thomas Jefferson University Computational Medicine Center",
+  "ref": "DNA and RNA — RNA interference; miRNA biogenesis and function",
+  "url": "https://cm.jefferson.edu/learn/dna-and-rna/",
+  "excerpt": "into the cytoplasm, where it is further processed by Dicer",
+  "sourceHash": "8e2c07431479aae2e0cc7c91d8c4497400b060704c5b6080627f981786d162c6",
+  "cacheSourceId": "f20004c1a9708ce719a7",
+  "retrievedAt": "2026-11-06T17:23:37.728081+00:00",
+  "reviewedMappings": {
+    "2012-3-22:0": "원문 canonical pathway에서 핵 밖 전구체 이동과 Dicer 절단을 확인. ㄱ 참, ㄷ 거짓 및 조합 판단을 뒷받침.",
+    "2012-3-22:1": "원문 canonical pathway에서 핵 밖 전구체 이동과 Dicer 절단을 확인. ㄱ 참, ㄷ 거짓 및 조합 판단을 뒷받침.",
+    "2012-3-22:2": "원문 canonical pathway에서 핵 밖 전구체 이동과 Dicer 절단을 확인. ㄱ 참, ㄷ 거짓 및 조합 판단을 뒷받침.",
+    "2012-3-22:3": "원문 canonical pathway에서 핵 밖 전구체 이동과 Dicer 절단을 확인. ㄱ 참, ㄷ 거짓 및 조합 판단을 뒷받침.",
+    "2012-3-22:4": "원문 canonical pathway에서 핵 밖 전구체 이동과 Dicer 절단을 확인. ㄱ 참, ㄷ 거짓 및 조합 판단을 뒷받침.",
+    "2012-3-22:5": "원문 canonical pathway에서 핵 밖 전구체 이동과 Dicer 절단을 확인. ㄱ 참, ㄷ 거짓 및 조합 판단을 뒷받침."
+  },
+  "retrievalMethod": "web.open and web.find; reviewed RNA interference and canonical/alternative miRNA pathway sections",
+  "sourceHashScope": "Selected excerpts only; not full page"
+}

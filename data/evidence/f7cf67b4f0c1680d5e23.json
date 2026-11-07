@@ -1,0 +1,21 @@
+{
+  "id": "f7cf67b4f0c1680d5e23",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume 2, 10.3 Kirchhoff’s Rules",
+  "url": "https://openstax.org/books/university-physics-volume-2/pages/10-3-kirchhoffs-rules",
+  "excerpt": "The sum of all currents entering a junction must equal the sum of all currents leaving the junction",
+  "sourceHash": "190fad685f08936829052c58cdca8f10567d0d2af7b3321554f3039f971b0d9e",
+  "cacheSourceId": "3bf9af80ac00793f4871",
+  "retrievedAt": "2026-11-07T02:18:39.819811+00:00",
+  "reviewedMappings": {
+    "2024-3-06:0": "원문 전지 긴 판이 위쪽이고 중앙 Y접점이 하단에 연결됨을 직접 확인했다. KCL/KVL 및 저항 전압강하 IR을 적용하여 4VA−VB=2,−VA+4VB=4. 모든 선택지의 두 접점 잔차와 정답의 전력수지 6.8W를 독립 검산했다. 전류 화살표는 기준 방향이므로 반대 방향만으로 오답을 판정하지 않는다.",
+    "2024-3-06:1": "원문 전지 긴 판이 위쪽이고 중앙 Y접점이 하단에 연결됨을 직접 확인했다. KCL/KVL 및 저항 전압강하 IR을 적용하여 4VA−VB=2,−VA+4VB=4. 모든 선택지의 두 접점 잔차와 정답의 전력수지 6.8W를 독립 검산했다. 전류 화살표는 기준 방향이므로 반대 방향만으로 오답을 판정하지 않는다.",
+    "2024-3-06:2": "원문 전지 긴 판이 위쪽이고 중앙 Y접점이 하단에 연결됨을 직접 확인했다. KCL/KVL 및 저항 전압강하 IR을 적용하여 4VA−VB=2,−VA+4VB=4. 모든 선택지의 두 접점 잔차와 정답의 전력수지 6.8W를 독립 검산했다. 전류 화살표는 기준 방향이므로 반대 방향만으로 오답을 판정하지 않는다.",
+    "2024-3-06:3": "원문 전지 긴 판이 위쪽이고 중앙 Y접점이 하단에 연결됨을 직접 확인했다. KCL/KVL 및 저항 전압강하 IR을 적용하여 4VA−VB=2,−VA+4VB=4. 모든 선택지의 두 접점 잔차와 정답의 전력수지 6.8W를 독립 검산했다. 전류 화살표는 기준 방향이므로 반대 방향만으로 오답을 판정하지 않는다.",
+    "2024-3-06:4": "원문 전지 긴 판이 위쪽이고 중앙 Y접점이 하단에 연결됨을 직접 확인했다. KCL/KVL 및 저항 전압강하 IR을 적용하여 4VA−VB=2,−VA+4VB=4. 모든 선택지의 두 접점 잔차와 정답의 전력수지 6.8W를 독립 검산했다. 전류 화살표는 기준 방향이므로 반대 방향만으로 오답을 판정하지 않는다.",
+    "2024-3-06:5": "원문 전지 긴 판이 위쪽이고 중앙 Y접점이 하단에 연결됨을 직접 확인했다. KCL/KVL 및 저항 전압강하 IR을 적용하여 4VA−VB=2,−VA+4VB=4. 모든 선택지의 두 접점 잔차와 정답의 전력수지 6.8W를 독립 검산했다. 전류 화살표는 기준 방향이므로 반대 방향만으로 오답을 판정하지 않는다."
+  },
+  "retrievalMethod": "Direct web open; reviewed junction/loop rules, resistor voltage drops and reference-current sign convention",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "25fccfed9988b1ae7401",
+  "kind": "science",
+  "source": "Royal Society of Chemistry",
+  "ref": "Sodium — Atomic data",
+  "url": "https://periodic-table.rsc.org/element/11/sodium",
+  "excerpt": "52.867",
+  "sourceHash": "17597154cd1d3188cd36ebc01e3a54314ccf019d72a523d90cb0b6a5c925a55a",
+  "cacheSourceId": "9d440964104ba13c1ef2",
+  "retrievedAt": "2026-11-07T01:44:32.590371+00:00",
+  "reviewedMappings": {
+    "2023-3-16:0": "Na 전자친화도52.867kJ/mol. Cl348.575와 비교하면 ㄷ C<B는 거짓. 이 근거는 과학적 부분 판단만 지지하며 전항정답의 공식 행정사유를 증명하지 않는다.",
+    "2023-3-16:2": "Na 전자친화도52.867kJ/mol. Cl348.575와 비교하면 ㄷ C<B는 거짓. 이 근거는 과학적 부분 판단만 지지하며 전항정답의 공식 행정사유를 증명하지 않는다.",
+    "2023-3-16:4": "Na 전자친화도52.867kJ/mol. Cl348.575와 비교하면 ㄷ C<B는 거짓. 이 근거는 과학적 부분 판단만 지지하며 전항정답의 공식 행정사유를 증명하지 않는다.",
+    "2023-3-16:5": "Na 전자친화도52.867kJ/mol. Cl348.575와 비교하면 ㄷ C<B는 거짓. 이 근거는 과학적 부분 판단만 지지하며 전항정답의 공식 행정사유를 증명하지 않는다."
+  },
+  "retrievalMethod": "Direct open/find; electron affinity table and definition reviewed.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

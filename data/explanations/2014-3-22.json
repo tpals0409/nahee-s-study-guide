@@ -1,0 +1,74 @@
+{
+  "summary": "남조류는 물을 전자 공급원으로 사용하는 산소 발생형 광합성을 한다. 물이 분해되면서 산소가 방출되므로 옳은 설명은 ②이다.",
+  "choices": [
+    "① 틀림. 자색세균은 비산소 발생형 광합성을 하므로, 물을 분해하여 산소를 생성한다는 설명은 맞지 않는다. 자색황세균과 자색비황세균 모두 이 분류에 속한다.",
+    "② 옳음. 남조류(시아노박테리아)는 광계 II에서 물로부터 전자를 얻고 산소를 방출한다. 물의 산화는 2H₂O → O₂ + 4H⁺ + 4e⁻로 나타낼 수 있다.",
+    "③ 틀림. 명반응에서 ATP와 NADPH가 공급되며, 암반응인 캘빈회로는 이를 소비하여 이산화탄소를 고정·환원한다. 암반응이라는 이름이 반드시 어두울 때만 진행된다는 뜻은 아니다.",
+    "④ 틀림. 일반적인 식물 Rubisco의 기질친화력은 O₂보다 CO₂에 대해 더 크다. O₂도 반응할 수 있으므로 광호흡이 일어나지만, 이것이 O₂ 친화력이 더 크다는 뜻은 아니다. 친화력과 촉매 효율을 함께 반영하는 CO₂/O₂ 특이성 인자를 같은 지표로 혼동하지 않아야 한다.",
+    "⑤ 틀림. 광합성에서 빛에너지를 이용한 ATP 합성은 광인산화라고 한다. 호흡의 산화적 인산화와 양성자 기울기·ATP 합성효소를 이용한다는 공통점은 있지만, 이 문항에서는 에너지원에 따라 두 과정을 구분한다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax Microbiology",
+      "ref": "4.3 Phototrophic Bacteria",
+      "quote": "Purple nonsulfur bacteria",
+      "url": "https://openstax.org/books/microbiology/pages/4-3-nonproteobacteria-gram-negative-bacteria-and-phototrophic-bacteria",
+      "evidenceId": "ddb5ee37f19128169b53",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax Microbiology",
+      "ref": "8.6 Photosynthesis",
+      "quote": "In oxygenic photosynthesis, H2O is split and supplies the electron to the reaction center.",
+      "url": "https://openstax.org/books/microbiology/pages/8-6-photosynthesis",
+      "evidenceId": "e4cd24da4e150f51e7bb",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax Microbiology",
+      "ref": "8.6 Photosynthesis",
+      "quote": "The light-dependent reactions produce ATP and either NADPH or NADH",
+      "url": "https://openstax.org/books/microbiology/pages/8-6-photosynthesis",
+      "evidenceId": "b3bedb848115323e4ac6",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "Australian Society of Plant Scientists — Plants in Action",
+      "ref": "Chapter 2 Carbon dioxide assimilation and respiration",
+      "quote": "Although Rubisco’s affinity for CO2 is an order of magnitude higher than that for O2",
+      "url": "https://www.asps.org.au/wp-content/uploads/Chapter-2-Carbon-dioxide-assimilation-and-respiration-for-PDF.pdf",
+      "evidenceId": "bfa2450c62682d6e3380",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "US National Library of Medicine — MeSH",
+      "ref": "Photophosphorylation",
+      "quote": "The use of light to convert ADP to ATP without the concomitant reduction of dioxygen to water",
+      "url": "https://meshb-prev.nlm.nih.gov/record/ui?ui=D010785",
+      "evidenceId": "82094dd983d5357aee2e",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "original-image-and-cross-source-concept-review",
+    "contentHash": "9717da9beb6c7da7ed792f2ceeaaa8567f9b22d7ebd8483de6dc712064afaf11"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "08caffb54ef820fea8d0",
+  "kind": "science",
+  "source": "OpenStax · Biology 2e",
+  "ref": "45.5 Human Population Growth",
+  "url": "https://openstax.org/books/biology-2e/pages/45-5-human-population-growth",
+  "excerpt": "Age structure allows better prediction of population growth",
+  "sourceHash": "977f53383d584c327680520dd5e55977301aed49750dc474ab6c75ff0b8fcec4",
+  "cacheSourceId": "f7a8b79f64aa33980eac",
+  "retrievedAt": "2026-11-06T15:52:06.973404+00:00",
+  "reviewedMappings": {
+    "2010-3-29:0": "연령구조와 생장 경향 설명 확인. 인간 예시를 개체군 예측 개념으로 적용하며 확정적 예언 표현 제거."
+  },
+  "retrievalMethod": "web.open source section and surrounding context reviewed",
+  "sourceHashScope": "Selected excerpt only"
+}

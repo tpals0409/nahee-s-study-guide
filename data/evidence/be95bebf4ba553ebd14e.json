@@ -1,0 +1,17 @@
+{
+  "id": "be95bebf4ba553ebd14e",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume 2, 4.2 Heat Engines",
+  "url": "https://openstax.org/books/university-physics-volume-2/pages/4-2-heat-engines",
+  "excerpt": "represent only the amounts of heat transferred and work delivered",
+  "sourceHash": "12361ac7d9e7742606f5ae1706bbc5c330c00703eb87badb2828e0c48570796b",
+  "cacheSourceId": "2e26f3649a507679c599",
+  "retrievedAt": "2026-11-06T18:34:32.317705+00:00",
+  "reviewedMappings": {
+    "2014-3-04:4": "원문 열기관 열량의 크기 관례 및 식4.1 W=Qh−Qc, 식4.2 효율=W/Qh 대조. 원본 시계 방향 사이클과 선지 절댓값 확인. 부호 있는 방출열과 양의 방출량 혼동 방지.",
+    "2014-3-04:5": "원문 열기관 열량의 크기 관례 및 식4.1 W=Qh−Qc, 식4.2 효율=W/Qh 대조. 원본 시계 방향 사이클과 선지 절댓값 확인. 부호 있는 방출열과 양의 방출량 혼동 방지."
+  },
+  "retrievalMethod": "web.open; direct primary-source page reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,85 @@
+{
+  "id": "2011-3-01",
+  "summary": "옳은 것은 ㄱ뿐이므로 정답은 ①입니다. 연속 공명 길이의 차30.0cm는 반파장이므로 파장은0.600m, 진동수는 약566.7Hz입니다. 세 번째 공명 길이는74.2cm이며, 같은 소리굽쇠의 소리 크기만 키워도 공명 길이가 절반이 되지는 않습니다.",
+  "choices": [
+    "ㄱ만 고른 선지: 정답입니다. 이웃한 공명 길이의 차 30 cm가 반파장이므로 파장은 0.60 m입니다. 진동수는 340/0.60 ≈ 567 Hz로 600 Hz보다 작아 ㄱ은 옳습니다. ㄴ과 ㄷ은 틀렸으므로 ㄱ만 고르는 것이 맞습니다.",
+    "ㄴ만 고른 선지: 오답입니다. 세 번째 공명 길이는 두 번째 공명 길이에 반파장을 더한 44.2 + 30 = 74.2 cm입니다. 70 cm보다 크므로 ㄴ은 틀렸습니다. 또한 옳은 보기인 ㄱ이 빠져 있습니다.",
+    "ㄱ, ㄴ을 고른 선지: 오답입니다. ㄱ은 옳지만, ㄴ은 세 번째 공명 길이가 74.2 cm이므로 틀린 진술입니다.",
+    "ㄱ·ㄷ을 고른 선지는 오답입니다. ㄱ은 옳지만 ㄷ은 틀립니다. 문제에서 사용하는 선형 음파 모형에서는 소리의 크기만 바꾸어도 소리굽쇠의 진동수와 주어진 음속은 변하지 않습니다. 따라서 파장과 공명 길이도 유지되어 첫 공명이7.1cm로 줄지 않습니다.",
+    "ㄴ·ㄷ을 고른 선지는 오답입니다. 세 번째 공명은74.2cm이므로 ㄴ이 틀립니다. 같은 진동수와 매질에서 소리 크기만 키워도 첫 공명 길이를 절반으로 바꾸지 않으므로 ㄷ도 틀립니다. 옳은 ㄱ이 빠져 있습니다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OCR / University of Cambridge Local Examinations Syndicate",
+      "ref": "G492/01 June 2016 Insert, Measuring the speed of sound, p.4",
+      "quote": "which removes the need to measure or know the value for the end correction c.",
+      "url": "https://www.ocr.org.uk/Images/409061-question-paper-unit-g492-01-understanding-processes-experimentation-and-data-handling-insert.pdf",
+      "evidenceId": "005c0b9cdca2d01ca9f2",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OCR / University of Cambridge Local Examinations Syndicate",
+      "ref": "G492/01 June 2016 Insert, Measuring the speed of sound, p.4",
+      "quote": "which removes the need to measure or know the value for the end correction c.",
+      "url": "https://www.ocr.org.uk/Images/409061-question-paper-unit-g492-01-understanding-processes-experimentation-and-data-handling-insert.pdf",
+      "evidenceId": "005c0b9cdca2d01ca9f2",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OCR / University of Cambridge Local Examinations Syndicate",
+      "ref": "G492/01 June 2016 Insert, Measuring the speed of sound, p.4",
+      "quote": "which removes the need to measure or know the value for the end correction c.",
+      "url": "https://www.ocr.org.uk/Images/409061-question-paper-unit-g492-01-understanding-processes-experimentation-and-data-handling-insert.pdf",
+      "evidenceId": "005c0b9cdca2d01ca9f2",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OCR / University of Cambridge Local Examinations Syndicate",
+      "ref": "G492/01 June 2016 Insert, Measuring the speed of sound, p.4",
+      "quote": "which removes the need to measure or know the value for the end correction c.",
+      "url": "https://www.ocr.org.uk/Images/409061-question-paper-unit-g492-01-understanding-processes-experimentation-and-data-handling-insert.pdf",
+      "evidenceId": "005c0b9cdca2d01ca9f2",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1 §17.4 Normal Modes of a Standing Sound Wave",
+      "quote": "the frequencies of the sound waves that resonate depend on the boundary conditions.",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/17-4-normal-modes-of-a-standing-sound-wave",
+      "evidenceId": "ffe5205fe2ccab4ba618",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1 §17.4 Normal Modes of a Standing Sound Wave",
+      "quote": "the frequencies of the sound waves that resonate depend on the boundary conditions.",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/17-4-normal-modes-of-a-standing-sound-wave",
+      "evidenceId": "ffe5205fe2ccab4ba618",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Original full image and archived A-type answer key page5 inspected; exact Fraction calculation; end correction and linear standing-wave evidence checked.",
+    "contentHash": "0edebcd7a448cf1dc5ae044b3caec4d7799f72608d9e52d5a4f338b7492c8f9c"
+  }
+}

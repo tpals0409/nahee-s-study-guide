@@ -1,0 +1,15 @@
+{
+  "id": "175ff3679628a080bd1d",
+  "kind": "science",
+  "source": "OpenStax · Organic Chemistry",
+  "ref": "7.4 Cis–Trans Isomerism in Alkenes",
+  "url": "https://openstax.org/books/organic-chemistry/pages/7-4-cis-trans-isomerism-in-alkenes",
+  "excerpt": "It can occur whenever both double-bond carbons are attached to two different groups.",
+  "sourceHash": "8c4970959e57c0a9479c6580a24f67901d20ea0978d23d7e44ab15d2dbaff0bc",
+  "cacheSourceId": "f1419ca73256ce0aad83",
+  "retrievedAt": "2026-11-06T15:31:32.863993+00:00",
+  "reviewedMappings": {
+    "2010-3-11:2": "본문 단일결합 회전과 이중결합 회전 제한 확인. ethane은 회전 형태, ethene은 각 탄소의 H/Cl이 서로 달라 cis/trans 가능.",
+    "2010-3-11:1": "본문 단일결합 회전과 이중결합 회전 제한 확인. ethane은 회전 형태, ethene은 각 탄소의 H/Cl이 서로 달라 cis/trans 가능."
+  }
+}

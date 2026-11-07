@@ -1,0 +1,140 @@
+{
+  "id": "2020-3-32",
+  "summary": "모호면은 지각과 맨틀의 경계이고, 맨틀의 대표적인 조성은 감람암질입니다. 외핵은 액체이며, 지각에서 퇴적암이 절반을 차지한다는 비율도 맞지 않습니다. 따라서 ㄱ·ㄷ을 고른 ③이 정답입니다.",
+  "choices": [
+    "ㄱ은 옳지만 ㄷ도 옳으므로, ㄱ만 고른 ①은 불완전합니다. 모호면 아래에는 맨틀이 있으며 상부 맨틀의 대표 암석은 감람암입니다.",
+    "ㄴ은 틀립니다. 외핵은 액체 상태이고 내핵은 고체 상태입니다.",
+    "ㄱ·ㄷ이 옳습니다. 모호면은 지각과 맨틀을 나누는 경계입니다. 감람암은 상부 맨틀의 대표 암석으로, 맨틀의 전반적인 초염기성 조성을 설명합니다. 다만 깊이에 따라 압력이 달라지므로 구성 광물이 모두 동일한 것은 아닙니다.",
+    "ㄱ·ㄷ 외에 틀린 ㄴ을 포함했습니다. 외핵을 고체라고 한 부분을 액체로 고쳐야 합니다.",
+    "ㄴ·ㄹ이 틀리고 ㄱ이 빠졌습니다. 외핵은 액체입니다. 지각은 화성암과 변성암이 대부분을 이루며, 퇴적암은 작은 비중이므로 제시된 50%·40%·10% 비율은 적절하지 않습니다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "The Geological Society",
+      "ref": "Chemical composition - crust and mantle",
+      "quote": "This rock is characteristic of the upper parts of the Earth's mantle.",
+      "url": "https://www.geolsoc.org.uk/Plate-Tectonics/Chap2-What-is-a-Plate/Chemical-composition-crust-and-mantle.html",
+      "evidenceId": "fcd02dc834a2eed67b61",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "The Geological Society",
+      "ref": "Chemical composition - crust and mantle",
+      "quote": "This rock is characteristic of the upper parts of the Earth's mantle.",
+      "url": "https://www.geolsoc.org.uk/Plate-Tectonics/Chap2-What-is-a-Plate/Chemical-composition-crust-and-mantle.html",
+      "evidenceId": "fcd02dc834a2eed67b61",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "The Geological Society",
+      "ref": "Chemical composition - crust and mantle",
+      "quote": "This rock is characteristic of the upper parts of the Earth's mantle.",
+      "url": "https://www.geolsoc.org.uk/Plate-Tectonics/Chap2-What-is-a-Plate/Chemical-composition-crust-and-mantle.html",
+      "evidenceId": "fcd02dc834a2eed67b61",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "The Geological Society",
+      "ref": "Chemical composition - crust and mantle",
+      "quote": "This rock is characteristic of the upper parts of the Earth's mantle.",
+      "url": "https://www.geolsoc.org.uk/Plate-Tectonics/Chap2-What-is-a-Plate/Chemical-composition-crust-and-mantle.html",
+      "evidenceId": "fcd02dc834a2eed67b61",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "The Geological Society",
+      "ref": "Chemical composition - crust and mantle",
+      "quote": "This rock is characteristic of the upper parts of the Earth's mantle.",
+      "url": "https://www.geolsoc.org.uk/Plate-Tectonics/Chap2-What-is-a-Plate/Chemical-composition-crust-and-mantle.html",
+      "evidenceId": "fcd02dc834a2eed67b61",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "Steven Earle / BCcampus",
+      "ref": "Physical Geology – 2nd Edition, Chapter 9 Earth’s Interior",
+      "quote": "The outer core is liquid while the inner core is solid",
+      "url": "https://opentextbc.ca/physicalgeology2ed/part/chapter-9-earths-interior/",
+      "evidenceId": "54a75974de818cba461b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "Steven Earle / BCcampus",
+      "ref": "Physical Geology – 2nd Edition, Chapter 9 Earth’s Interior",
+      "quote": "The outer core is liquid while the inner core is solid",
+      "url": "https://opentextbc.ca/physicalgeology2ed/part/chapter-9-earths-interior/",
+      "evidenceId": "54a75974de818cba461b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "Steven Earle / BCcampus",
+      "ref": "Physical Geology – 2nd Edition, Chapter 9 Earth’s Interior",
+      "quote": "The outer core is liquid while the inner core is solid",
+      "url": "https://opentextbc.ca/physicalgeology2ed/part/chapter-9-earths-interior/",
+      "evidenceId": "54a75974de818cba461b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "Steven Earle / BCcampus",
+      "ref": "Physical Geology – 2nd Edition, Chapter 9 Earth’s Interior",
+      "quote": "The outer core is liquid while the inner core is solid",
+      "url": "https://opentextbc.ca/physicalgeology2ed/part/chapter-9-earths-interior/",
+      "evidenceId": "54a75974de818cba461b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "Steven Earle / BCcampus",
+      "ref": "Physical Geology – 2nd Edition, Chapter 9 Earth’s Interior",
+      "quote": "The outer core is liquid while the inner core is solid",
+      "url": "https://opentextbc.ca/physicalgeology2ed/part/chapter-9-earths-interior/",
+      "evidenceId": "54a75974de818cba461b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "Steven Earle / BCcampus",
+      "ref": "Physical Geology – 2nd Edition, Chapter 9 Earth’s Interior",
+      "quote": "The outer core is liquid while the inner core is solid",
+      "url": "https://opentextbc.ca/physicalgeology2ed/part/chapter-9-earths-interior/",
+      "evidenceId": "54a75974de818cba461b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Canonical question and all combinations checked against directly reviewed geology educational sources; removed unnecessary percentages and qualified mantle mineralogy.",
+    "contentHash": "34ce766c5eda5bb5cf35bd3e33d229c0ef13797bd56bc77a8e9fafe1dd1d96bd"
+  }
+}

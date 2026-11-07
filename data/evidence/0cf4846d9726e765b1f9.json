@@ -1,0 +1,21 @@
+{
+  "id": "0cf4846d9726e765b1f9",
+  "kind": "science",
+  "source": "American Concrete Institute",
+  "ref": "Materials used to produce portland cement",
+  "url": "https://www.concrete.org/frequentlyaskedquestions/faqid/674.aspx",
+  "excerpt": "a material of high lime content, such as limestone, chalk, shells, or marl",
+  "sourceHash": "1adac8d02639572b7a702c3fcc1aebc95239028860e94c56d40b13ccc3bd7889",
+  "cacheSourceId": "e091ca6c020ca4f62df8",
+  "retrievedAt": "2026-11-06T19:54:19.335825+00:00",
+  "reviewedMappings": {
+    "2015-3-33:0": "ACI 답변 203행은 포틀랜드 시멘트 제조의 주원료로 석회암 등 석회 성분이 높은 재료를 명시한다. ㄴ은 참이다. 시멘트 자체가 순수 CaO라는 초안의 오해 소지는 제거했다.",
+    "2015-3-33:1": "ACI 답변 203행은 포틀랜드 시멘트 제조의 주원료로 석회암 등 석회 성분이 높은 재료를 명시한다. ㄴ은 참이다. 시멘트 자체가 순수 CaO라는 초안의 오해 소지는 제거했다.",
+    "2015-3-33:2": "ACI 답변 203행은 포틀랜드 시멘트 제조의 주원료로 석회암 등 석회 성분이 높은 재료를 명시한다. ㄴ은 참이다. 시멘트 자체가 순수 CaO라는 초안의 오해 소지는 제거했다.",
+    "2015-3-33:3": "ACI 답변 203행은 포틀랜드 시멘트 제조의 주원료로 석회암 등 석회 성분이 높은 재료를 명시한다. ㄴ은 참이다. 시멘트 자체가 순수 CaO라는 초안의 오해 소지는 제거했다.",
+    "2015-3-33:4": "ACI 답변 203행은 포틀랜드 시멘트 제조의 주원료로 석회암 등 석회 성분이 높은 재료를 명시한다. ㄴ은 참이다. 시멘트 자체가 순수 CaO라는 초안의 오해 소지는 제거했다.",
+    "2015-3-33:5": "ACI 답변 203행은 포틀랜드 시멘트 제조의 주원료로 석회암 등 석회 성분이 높은 재료를 명시한다. ㄴ은 참이다. 시멘트 자체가 순수 CaO라는 초안의 오해 소지는 제거했다."
+  },
+  "retrievalMethod": "Direct web open; technical answer line 203 reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

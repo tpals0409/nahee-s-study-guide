@@ -1,0 +1,16 @@
+{
+  "id": "4a4d1f421626a0393595",
+  "kind": "science",
+  "source": "NASA Space Place",
+  "ref": "NASA Space Place — How Do Hurricanes Form?",
+  "url": "https://spaceplace.nasa.gov/hurricanes/en/",
+  "excerpt": "The warm, moist air over the ocean rises upward from near the surface.",
+  "sourceHash": "276d7c9aaca59a759a5689b18a856c13e7700057cfb07ed04fb67cf8cd4cacb8",
+  "cacheSourceId": "ff2bd23366f4f3032fd7",
+  "retrievedAt": "2026-11-06T17:38:59.753615+00:00",
+  "reviewedMappings": {
+    "2012-3-35:0": "네 진술의 공통 검토: 북서태평양 최다/북동태평양도 발생, 주요 저위도 분포와 적도 예외, 북반구 우세, 따뜻한 해양·습윤 하층 및 충분조건 아님을 각 출처의 해당 절로 대조."
+  },
+  "retrievalMethod": "web.open; relevant sections reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

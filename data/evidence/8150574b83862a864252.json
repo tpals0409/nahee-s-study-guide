@@ -1,0 +1,21 @@
+{
+  "id": "8150574b83862a864252",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Organic Chemistry 26.1 — Structures of Amino Acids",
+  "url": "https://openstax.org/books/organic-chemistry/pages/26-1-structures-of-amino-acids",
+  "excerpt": "the α carbons of amino acids are chirality centers.",
+  "sourceHash": "71db0a832f51f27a8b26b752c78b36420af9ed04bba74065578cb2b5c0acd067",
+  "cacheSourceId": "2ccb172321fb1e176acf",
+  "retrievedAt": "2026-11-06T17:10:06.699148+00:00",
+  "reviewedMappings": {
+    "2012-3-11:0": "ㄱ: 원본의 세 α-CH는 각각 서로 다른 네 치환기를 가짐. 곁사슬 CH2 및 sp2 탄소에는 추가 중심 없음. 표26.1의 Lys/Asn 구조와 대조.",
+    "2012-3-11:1": "ㄱ: 원본의 세 α-CH는 각각 서로 다른 네 치환기를 가짐. 곁사슬 CH2 및 sp2 탄소에는 추가 중심 없음. 표26.1의 Lys/Asn 구조와 대조.",
+    "2012-3-11:2": "ㄱ: 원본의 세 α-CH는 각각 서로 다른 네 치환기를 가짐. 곁사슬 CH2 및 sp2 탄소에는 추가 중심 없음. 표26.1의 Lys/Asn 구조와 대조.",
+    "2012-3-11:3": "ㄱ: 원본의 세 α-CH는 각각 서로 다른 네 치환기를 가짐. 곁사슬 CH2 및 sp2 탄소에는 추가 중심 없음. 표26.1의 Lys/Asn 구조와 대조.",
+    "2012-3-11:4": "ㄱ: 원본의 세 α-CH는 각각 서로 다른 네 치환기를 가짐. 곁사슬 CH2 및 sp2 탄소에는 추가 중심 없음. 표26.1의 Lys/Asn 구조와 대조.",
+    "2012-3-11:5": "ㄱ: 원본의 세 α-CH는 각각 서로 다른 네 치환기를 가짐. 곁사슬 CH2 및 sp2 탄소에는 추가 중심 없음. 표26.1의 Lys/Asn 구조와 대조."
+  },
+  "retrievalMethod": "web.open relevant section reviewed; selected excerpt retained",
+  "sourceHashScope": "Selected excerpt only; not full page"
+}

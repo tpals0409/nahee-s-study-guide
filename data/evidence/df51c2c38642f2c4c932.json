@@ -1,0 +1,16 @@
+{
+  "id": "df51c2c38642f2c4c932",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "OpenStax Organic Chemistry §5.2 The Reason for Handedness in Molecules: Chirality",
+  "url": "https://openstax.org/books/organic-chemistry/pages/5-2-the-reason-for-handedness-in-molecules-chirality",
+  "excerpt": "a tetrahedral carbon atom bonded to four different groups",
+  "sourceHash": "144f0c162216c4ec0b4c278c8e5f121f4695051a01eba409043a32bbbf486702",
+  "cacheSourceId": "6e42e98b84a07b8769aa",
+  "retrievedAt": "2026-11-06T17:56:35.085216+00:00",
+  "reviewedMappings": {
+    "2013-3-12:0": "원본 구조 직접 확인:①③④의 CHFCl탄소는 H,F,Cl,알킬기 네 치환기가 달라 카이랄 중심.②이중결합탄소 제외,⑤동일메틸두개로 제외. §5.2 사면체 탄소 네 다른기 및 CH2,CH3,C=C 제외 설명 대조."
+  },
+  "retrievalMethod": "web.open; relevant definitions and trend paragraphs directly reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

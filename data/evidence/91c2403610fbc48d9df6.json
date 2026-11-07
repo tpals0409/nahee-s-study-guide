@@ -1,0 +1,16 @@
+{
+  "id": "91c2403610fbc48d9df6",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 2e §19.3 Crystal Field Theory, Figure 19.35 and Example 19.9",
+  "url": "https://openstax.org/books/chemistry-2e/pages/19-3-spectroscopic-and-magnetic-properties-of-coordination-compounds",
+  "excerpt": "there will be one pair of electrons and four unpaired electrons",
+  "sourceHash": "d2b7e19bffad2e420937b905846d86b22937053bc5f60b2a6be4a29d1086d530",
+  "cacheSourceId": "4c59310505cbca34e397",
+  "retrievedAt": "2026-11-06T16:27:47.977546+00:00",
+  "reviewedMappings": {
+    "2011-3-14:0": "원본 낮은3궤도에6전자 그림 및220nm 확인. 같은 Co3+이므로 두착물d6. 고스핀d6 예제의 t2g4eg2에서 홀전자4 확인. 분광화학계열F−<NH3와 E=hν=hc/λ를 문항의 단순 결정장 전이 모형에 적용하면 더 작은 갈라짐→더 긴 파장. 220nm는 문항제시값으로만 사용, 실제측정값으로 인증하지 않음."
+  },
+  "retrievalMethod": "web.run; d6 filling, spectrochemical series and photon energy reviewed",
+  "sourceHashScope": "Selected excerpt only; not full page"
+}

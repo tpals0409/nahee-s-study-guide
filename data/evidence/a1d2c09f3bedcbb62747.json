@@ -1,0 +1,16 @@
+{
+  "id": "a1d2c09f3bedcbb62747",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume 1, 16.2 Mathematics of Waves",
+  "url": "https://openstax.org/books/university-physics-volume-1/pages/16-2-mathematics-of-waves",
+  "excerpt": "The velocity of the wave is equal to",
+  "sourceHash": "4c81207174a52b4ad484489137dc56685be2c3ae5467a4def56094e1dbc7a373",
+  "cacheSourceId": "0215e69399dc4cd63767",
+  "retrievedAt": "2026-11-06T18:37:56.020451+00:00",
+  "reviewedMappings": {
+    "2014-3-08:0": "식16.2 파수=2π/λ, 식16.3 v=ω/k 및 동일위상 이동 설명 직접 대조. 교재의 파수기호k를 문항b로 대응. bx−ωt=상수에서 b=ω/v 독립 유도. 선지①④⑤의 파수 차원 불일치 확인."
+  },
+  "retrievalMethod": "web.open and web.find; direct primary-source equations reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "f302a184c02397dff3b9",
+  "kind": "science",
+  "source": "제주관광공사 Visit Jeju",
+  "ref": "만장굴",
+  "url": "https://m.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500182&menuId=DOM_000001718000000000",
+  "excerpt": "만장굴은 총길이가 약 7.4km에 이르며, 구간에 따라 2층 또는 3층 구조가 발달한 용암동굴이다.",
+  "sourceHash": "c660193830ce9a941fc3b7671dc443ac9844c9f7fcc1595c52d12ab5c7510931",
+  "cacheSourceId": "e32e82a3856d84c41417",
+  "retrievedAt": "2026-11-06T18:18:03.511725+00:00",
+  "reviewedMappings": {
+    "2013-3-32:0": "ㄹ: 공식관광자료 용암동굴분류 확인. 용해동굴과 구분하며 불필요한 연대·크기 설명은 사용하지 않음."
+  },
+  "retrievalMethod": "web.search_query indexed official source excerpt",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

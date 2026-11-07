@@ -1,0 +1,21 @@
+{
+  "id": "9a1cd8f56123f1465a79",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e §10.2 — The Cell Cycle",
+  "url": "https://openstax.org/books/biology-2e/pages/10-2-the-cell-cycle",
+  "excerpt": "A contractile ring composed of actin filaments forms just inside the plasma membrane",
+  "sourceHash": "ffd97a749ddf37c95ac6f980baa3a7daa2d740a15f7aa967216a6235ec5f83de",
+  "cacheSourceId": "5ea82214dfd08c279fa0",
+  "retrievedAt": "2026-11-06T22:01:33.306743+00:00",
+  "reviewedMappings": {
+    "2018-3-26:0": "수축환 actin 문단·myosin 그림설명, 방추사 microtubule 문단 직접 검토. ㄱㄴ참과 조합 누락 판단. 모든 진핵세포의 방추사가 중심체에서만 생긴다는 일반화 제외.",
+    "2018-3-26:1": "수축환 actin 문단·myosin 그림설명, 방추사 microtubule 문단 직접 검토. ㄱㄴ참과 조합 누락 판단. 모든 진핵세포의 방추사가 중심체에서만 생긴다는 일반화 제외.",
+    "2018-3-26:2": "수축환 actin 문단·myosin 그림설명, 방추사 microtubule 문단 직접 검토. ㄱㄴ참과 조합 누락 판단. 모든 진핵세포의 방추사가 중심체에서만 생긴다는 일반화 제외.",
+    "2018-3-26:3": "수축환 actin 문단·myosin 그림설명, 방추사 microtubule 문단 직접 검토. ㄱㄴ참과 조합 누락 판단. 모든 진핵세포의 방추사가 중심체에서만 생긴다는 일반화 제외.",
+    "2018-3-26:4": "수축환 actin 문단·myosin 그림설명, 방추사 microtubule 문단 직접 검토. ㄱㄴ참과 조합 누락 판단. 모든 진핵세포의 방추사가 중심체에서만 생긴다는 일반화 제외.",
+    "2018-3-26:5": "수축환 actin 문단·myosin 그림설명, 방추사 microtubule 문단 직접 검토. ㄱㄴ참과 조합 누락 판단. 모든 진핵세포의 방추사가 중심체에서만 생긴다는 일반화 제외."
+  },
+  "retrievalMethod": "Direct web open; cytokinesis and spindle sections reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "f7fc58c292bab855e88a",
+  "kind": "science",
+  "source": "US Environmental Protection Agency (2021)",
+  "ref": "Factsheet on Water Quality Parameters: Dissolved Oxygen",
+  "url": "https://www.epa.gov/system/files/documents/2021-07/parameter-factsheet_do.pdf",
+  "excerpt": "During a bloom, DO can increase due to photosynthesis by the algae.",
+  "sourceHash": "f38bef80e7facbabfcd85e80732f5f9265be6840a5eadc071c56e3e07b2aaa95",
+  "cacheSourceId": "bde25fb2388794e7aa70",
+  "retrievedAt": "2026-11-06T18:59:45.772399+00:00",
+  "reviewedMappings": {
+    "2014-3-29:5": "PDF p3 138–143행: bloom 중 광합성으로 DO 증가 가능, 이후 죽은 조류 소비로 감소 가능. p2 56–78행 부영양화와 낮/밤 주기 병행 설명. 따라서 후기 산소 고갈만을 근거로 원문⑤ 조류의 산소 공급을 거짓으로 확정할 수 없음."
+  },
+  "retrievalMethod": "web.open; EPA PDF text pages 1–3 reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

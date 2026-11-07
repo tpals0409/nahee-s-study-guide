@@ -1,0 +1,21 @@
+{
+  "id": "cf07362083aa2c91c211",
+  "kind": "science",
+  "source": "Texas A&M Forest Service",
+  "ref": "Texas A&M Forest Service — What you need to know about mistletoe",
+  "url": "https://tfsweb.tamu.edu/what-you-need-to-know-about-mistletoe/",
+  "excerpt": "This is why mistletoe is specifically considered a hemiparasite",
+  "sourceHash": "b65cf521854f6e38484dd93cb6c894b450b5bf09248a441d505e9964aca06219",
+  "cacheSourceId": "6f7a170fa86e32593565",
+  "retrievedAt": "2026-11-06T17:30:04.326034+00:00",
+  "reviewedMappings": {
+    "2012-3-30:0": "ㄴ: 광합성과 숙주 물·양분 흡수 및 피해를 함께 설명하는 원문 대조. 반기생이므로 편리공생 배제.",
+    "2012-3-30:1": "ㄴ: 광합성과 숙주 물·양분 흡수 및 피해를 함께 설명하는 원문 대조. 반기생이므로 편리공생 배제.",
+    "2012-3-30:2": "ㄴ: 광합성과 숙주 물·양분 흡수 및 피해를 함께 설명하는 원문 대조. 반기생이므로 편리공생 배제.",
+    "2012-3-30:3": "ㄴ: 광합성과 숙주 물·양분 흡수 및 피해를 함께 설명하는 원문 대조. 반기생이므로 편리공생 배제.",
+    "2012-3-30:4": "ㄴ: 광합성과 숙주 물·양분 흡수 및 피해를 함께 설명하는 원문 대조. 반기생이므로 편리공생 배제.",
+    "2012-3-30:5": "ㄴ: 광합성과 숙주 물·양분 흡수 및 피해를 함께 설명하는 원문 대조. 반기생이므로 편리공생 배제."
+  },
+  "retrievalMethod": "web.open/web.find; relevant institutional section directly reviewed",
+  "sourceHashScope": "Selected search excerpt only; not full page"
+}

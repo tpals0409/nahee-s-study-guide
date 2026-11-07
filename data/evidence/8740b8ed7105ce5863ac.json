@@ -1,0 +1,16 @@
+{
+  "id": "8740b8ed7105ce5863ac",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Microbiology, 3.4 Unique Characteristics of Eukaryotic Cells",
+  "url": "https://openstax.org/books/microbiology/pages/3-4-unique-characteristics-of-eukaryotic-cells",
+  "excerpt": "Unique to eukaryotes, cilia are shorter than flagella",
+  "sourceHash": "666fe80f6bba22af3da30ec70c9dbd38c7b6091cd2b1e9433a6c3c472cfee107",
+  "cacheSourceId": "2924c90ceca588c3627c",
+  "retrievedAt": "2026-11-07T00:25:27.830386+00:00",
+  "reviewedMappings": {
+    "2021-3-30:3": "Cilia are microtubule-based eukaryotic appendages; distinguish from bacterial protein pili/fimbriae. The question is interpreted using cilia terminology, not an asserted Korean translation synonym."
+  },
+  "retrievalMethod": "Direct page review: Flagella and Cilia section, lines 260–269; comparison with prokaryotic pili in section 3.3.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

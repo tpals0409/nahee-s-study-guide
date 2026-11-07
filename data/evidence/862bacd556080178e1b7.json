@@ -1,0 +1,21 @@
+{
+  "id": "862bacd556080178e1b7",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume 1 §9.6 — Center of Mass, Eq. 9.29",
+  "url": "https://openstax.org/books/university-physics-volume-1/pages/9-6-center-of-mass",
+  "excerpt": "the weighted average position of the mass of the extended object.",
+  "sourceHash": "47522e10d5bbee2e91d348d4a346d841d96937f34052671b05eceb15252a7f54",
+  "cacheSourceId": "afece14157d32be741f0",
+  "retrievedAt": "2026-11-06T21:38:28.873536+00:00",
+  "reviewedMappings": {
+    "2018-3-01:0": "원본 A는[0,4]×[0,4]. 균일 판의 질량 가중 평균식으로 전체에서 A의 1차 모멘트를 빼면 (64×4−16×2)/48=14/3. 직사각형 분할로 독립 검산.",
+    "2018-3-01:1": "교재 질량 가중 평균식을 원본 균일 면밀도 판에 적용. 후보 좌표 4를 대입한 총 x 모멘트는 16×2+48×(4)=224; 전체의 64×4=256과 일치 여부로 판정. y도 대칭.",
+    "2018-3-01:2": "교재 질량 가중 평균식을 원본 균일 면밀도 판에 적용. 후보 좌표 13/3를 대입한 총 x 모멘트는 16×2+48×(13/3)=240; 전체의 64×4=256과 일치 여부로 판정. y도 대칭.",
+    "2018-3-01:3": "교재 질량 가중 평균식을 원본 균일 면밀도 판에 적용. 후보 좌표 9/2를 대입한 총 x 모멘트는 16×2+48×(9/2)=248; 전체의 64×4=256과 일치 여부로 판정. y도 대칭.",
+    "2018-3-01:4": "교재 질량 가중 평균식을 원본 균일 면밀도 판에 적용. 후보 좌표 14/3를 대입한 총 x 모멘트는 16×2+48×(14/3)=256; 전체의 64×4=256과 일치 여부로 판정. y도 대칭.",
+    "2018-3-01:5": "교재 질량 가중 평균식을 원본 균일 면밀도 판에 적용. 후보 좌표 5를 대입한 총 x 모멘트는 16×2+48×(5)=272; 전체의 64×4=256과 일치 여부로 판정. y도 대칭."
+  },
+  "retrievalMethod": "Direct source reviewed: center of mass weighted average and Eq. 9.29",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

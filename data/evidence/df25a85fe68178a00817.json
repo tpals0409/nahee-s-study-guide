@@ -1,0 +1,17 @@
+{
+  "id": "df25a85fe68178a00817",
+  "kind": "science",
+  "source": "The Geological Society",
+  "ref": "Oceanic/Continental: The Andes",
+  "url": "https://www.geolsoc.org.uk/Plate-Tectonics/Chap3-Plate-Margins/Convergent/Oceanic-continental.html",
+  "excerpt": "This results in frequent shallow focus earthquakes",
+  "sourceHash": "ffc4c202485854ded828b4d3f638263316b0401c49f79151ffc97dd57924b57d",
+  "cacheSourceId": "38c64396e8e608b2da89",
+  "retrievedAt": "2026-11-06T19:51:11.592685+00:00",
+  "reviewedMappings": {
+    "2015-3-31:0": "원문 35–36행에서 나스카판의 대륙판 아래 섭입과 천발지진을 직접 설명한다. 따라서 천발지진이 발생하지 않는다는 ①은 거짓이다. 빈도가 가장 높다는 비교 주장은 사용하지 않는다.",
+    "2015-3-31:1": "원문 35–36행에서 나스카판의 대륙판 아래 섭입과 천발지진을 직접 설명한다. 따라서 천발지진이 발생하지 않는다는 ①은 거짓이다. 빈도가 가장 높다는 비교 주장은 사용하지 않는다."
+  },
+  "retrievalMethod": "Direct web open; source lines 35–36 reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

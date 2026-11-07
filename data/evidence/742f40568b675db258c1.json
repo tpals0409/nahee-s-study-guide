@@ -1,0 +1,19 @@
+{
+  "id": "742f40568b675db258c1",
+  "kind": "science",
+  "source": "OpenStax Biology 2e",
+  "ref": "8.2 The Light-Dependent Reactions of Photosynthesis",
+  "url": "https://openstax.org/books/biology-2e/pages/8-2-the-light-dependent-reactions-of-photosynthesis",
+  "excerpt": "The light excites an electron from the chlorophyll a pair, which passes to the primary electron acceptor.",
+  "sourceHash": "1c8e662191e16c1b06761e1a6d6cccf4ad58b19854c66024fe89dafeb8fc0830",
+  "cacheSourceId": "69d2a5e96eb8c58705c7",
+  "retrievedAt": "2026-11-07T03:18:48.830999+00:00",
+  "reviewedMappings": {
+    "2025-3-22:0": "반응중심 chlorophyll a, 전자수용체 전달, PSII 물 분해 본문 확인.",
+    "2025-3-22:2": "전자를 얻은 수용체는 환원; 반응중심은 전자를 주어 산화됨.",
+    "2025-3-22:3": "식물 반응중심 특수 chlorophyll a 쌍 확인; 남세균 존재는 별도 출처.",
+    "2025-3-22:4": "Figure8.17과 본문에 PSII 물에서 전자 추출 명시."
+  },
+  "retrievalMethod": "Direct web section reading: reaction-center electron transfer and PSII water splitting; cyclic PSI return; cyanobacterial chlorophyll a paragraph.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

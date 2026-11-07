@@ -1,0 +1,23 @@
+{
+  "id": "5507b4765716038d4441",
+  "kind": "science",
+  "source": "Met Office",
+  "ref": "Foehn effect",
+  "url": "https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/wind/foehn-effect",
+  "excerpt": "the subsequent removal of moisture as precipitation renders this heat gain irreversible",
+  "sourceHash": "3328c3d21d09541f4df770a891489b859246aff6b4a76ed5ce16f4daec156ebd",
+  "cacheSourceId": "6c2232ec52349501d456",
+  "retrievedAt": "2026-11-07T00:35:31.877959+00:00",
+  "reviewedMappings": {
+    "2020-3-36:0": "그림의 강수에 의한 수분 제거와 잠열 효과가 따뜻하고 건조한 풍하측 공기를 만드는 모형.",
+    "2020-3-36:4": "강수로 수분을 잃은 산넘이 공기의 풍하측 승온 근거.",
+    "2020-3-36:5": "강수로 수분이 감소하므로 같은 높이·압력으로 복귀시 수증기 분압 및 이슬점이 초기보다 낮다는 추론.",
+    "2021-3-36:0": "원본의 풍상측 구름·강수와 풍하측 맑은 하강 경로를 강수에 의한 응결물 제거 모형으로 해석. 응결열 및 수분 제거로 상승 냉각보다 하강 가열이 커서 ㄷ 참. 모든 푄이 강수를 필요로 한다고 일반화하지 않음.",
+    "2021-3-36:1": "원본의 풍상측 구름·강수와 풍하측 맑은 하강 경로를 강수에 의한 응결물 제거 모형으로 해석. 응결열 및 수분 제거로 상승 냉각보다 하강 가열이 커서 ㄷ 참. 모든 푄이 강수를 필요로 한다고 일반화하지 않음.",
+    "2021-3-36:3": "원본의 풍상측 구름·강수와 풍하측 맑은 하강 경로를 강수에 의한 응결물 제거 모형으로 해석. 응결열 및 수분 제거로 상승 냉각보다 하강 가열이 커서 ㄷ 참. 모든 푄이 강수를 필요로 한다고 일반화하지 않음.",
+    "2021-3-36:4": "원본의 풍상측 구름·강수와 풍하측 맑은 하강 경로를 강수에 의한 응결물 제거 모형으로 해석. 응결열 및 수분 제거로 상승 냉각보다 하강 가열이 커서 ㄷ 참. 모든 푄이 강수를 필요로 한다고 일반화하지 않음.",
+    "2021-3-36:5": "원본의 풍상측 구름·강수와 풍하측 맑은 하강 경로를 강수에 의한 응결물 제거 모형으로 해석. 응결열 및 수분 제거로 상승 냉각보다 하강 가열이 커서 ㄷ 참. 모든 푄이 강수를 필요로 한다고 일반화하지 않음."
+  },
+  "retrievalMethod": "Direct official page opened; Condensation and precipitation section and original exam diagram reviewed.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

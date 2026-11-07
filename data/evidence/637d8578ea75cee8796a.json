@@ -1,0 +1,19 @@
+{
+  "id": "637d8578ea75cee8796a",
+  "kind": "science",
+  "source": "BCcampus / Laboratory Manual for Earth Science",
+  "ref": "Laboratory Manual for Earth Science — Relative Age",
+  "url": "https://pressbooks.bccampus.ca/geolmanual/chapter/overview-of-strike-dip-and-structural-cross-sections/",
+  "excerpt": "Assuming the layers have not been completely overturned",
+  "sourceHash": "e7228ac619fe7cb19b999bd36f9655faefa05586046ee6685443463022746d65",
+  "cacheSourceId": "db6acae6cafc43c43fda",
+  "retrievedAt": "2026-11-06T19:10:01.154900+00:00",
+  "reviewedMappings": {
+    "2014-3-37:0": "Source explains superposition of tilted but non-overturned strata. Under the standard schematic-map assumption of no overturned beds, restore southeast-dipping B,C,D to horizontal: B below C below D. D is not oldest, so ㄹ false. No universal assertion that map position alone determines age.",
+    "2014-3-37:1": "Source explains superposition of tilted but non-overturned strata. Under the standard schematic-map assumption of no overturned beds, restore southeast-dipping B,C,D to horizontal: B below C below D. D is not oldest, so ㄹ false. No universal assertion that map position alone determines age.",
+    "2014-3-37:3": "Source explains superposition of tilted but non-overturned strata. Under the standard schematic-map assumption of no overturned beds, restore southeast-dipping B,C,D to horizontal: B below C below D. D is not oldest, so ㄹ false. No universal assertion that map position alone determines age.",
+    "2014-3-37:5": "Source explains superposition of tilted but non-overturned strata. Under the standard schematic-map assumption of no overturned beds, restore southeast-dipping B,C,D to horizontal: B below C below D. D is not oldest, so ㄹ false. No universal assertion that map position alone determines age."
+  },
+  "retrievalMethod": "Direct web open; original geological map visually inspected and source principle applied independently.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

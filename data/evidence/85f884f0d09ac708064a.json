@@ -1,0 +1,21 @@
+{
+  "id": "85f884f0d09ac708064a",
+  "kind": "science",
+  "source": "OpenStax University Physics Volume 2",
+  "ref": "7.2 Electric Potential and Potential Difference",
+  "url": "https://openstax.org/books/university-physics-volume-2/pages/7-2-electric-potential-and-potential-difference",
+  "excerpt": "Voltage is the energy per unit charge.",
+  "sourceHash": "2d8e17d3bd73623d678ed5e0492681b8c8470589802e2c75059804eb0ebeb216",
+  "cacheSourceId": "ff013d2c258639dd48cc",
+  "retrievedAt": "2026-11-07T01:32:20.145571+00:00",
+  "reviewedMappings": {
+    "2023-3-06:0": "원문 ΔV는 출발판 전위이며 도착판은0 V. ΔU=q(0−ΔV), ΔK=−ΔU=qΔV=96 J로 부호 구별. 96 J/2 C=48 V.",
+    "2023-3-06:1": "원문 ΔV는 출발판 전위이며 도착판은0 V. ΔU=q(0−ΔV), ΔK=−ΔU=qΔV=96 J로 부호 구별. 96 J/2 C=48 V.",
+    "2023-3-06:2": "원문 ΔV는 출발판 전위이며 도착판은0 V. ΔU=q(0−ΔV), ΔK=−ΔU=qΔV=96 J로 부호 구별. 96 J/2 C=48 V.",
+    "2023-3-06:3": "원문 ΔV는 출발판 전위이며 도착판은0 V. ΔU=q(0−ΔV), ΔK=−ΔU=qΔV=96 J로 부호 구별. 96 J/2 C=48 V.",
+    "2023-3-06:4": "원문 ΔV는 출발판 전위이며 도착판은0 V. ΔU=q(0−ΔV), ΔK=−ΔU=qΔV=96 J로 부호 구별. 96 J/2 C=48 V.",
+    "2023-3-06:5": "원문 ΔV는 출발판 전위이며 도착판은0 V. ΔU=q(0−ΔV), ΔK=−ΔU=qΔV=96 J로 부호 구별. 96 J/2 C=48 V."
+  },
+  "retrievalMethod": "Direct chapter open; potential energy difference equation 7.5 and voltage units.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

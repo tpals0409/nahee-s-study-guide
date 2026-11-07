@@ -1,0 +1,30 @@
+{
+  "summary": "그림에서 (나)는 P파, (라)는 QRS 복합파입니다. 각각 심방과 심실의 탈분극을 나타내고, 그에 이어 수축이 일어납니다. 수축을 유발하는 전기파를 대응시키면 (나)·(라), 즉 ③입니다.",
+  "choices": [
+    "(가)는 P파 이전 구간이고 (다)는 P파와 QRS 사이입니다. 심방·심실의 탈분극파를 순서대로 고른 조합이 아닙니다.",
+    "(라)는 심실 탈분극파이지만 (가)는 심방 탈분극파가 아닙니다. 심방에 대응하는 파형은 (나)입니다.",
+    "(나)의 작은 둥근 파형은 P파, (라)의 큰 급격한 파형은 QRS입니다. 심방·심실 수축을 유발하는 전기적 사건의 순서와 맞습니다.",
+    "(나)는 맞지만 (바)는 T파로 심실 재분극을 나타냅니다. 심실 수축을 유발하는 탈분극파는 (라)입니다.",
+    "(라)와 (바)는 각각 심실 탈분극과 재분극입니다. 첫 항목에 심방 P파가 빠져 있습니다."
+  ],
+  "lawNote": "심전도는 전기 활동을 기록합니다. 수축은 탈분극에 뒤따르며, 수축 전체 기간이 P파나 QRS 구간과 정확히 같지는 않습니다. 이 문항은 수축과 연결되는 전기파를 고르는 것으로 해석합니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Anatomy and Physiology 2e 19.3 — Cardiac Cycle",
+      "quote": "The QRS complex represents depolarization of the ventricles and is followed by ventricular contraction.",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/19-3-cardiac-cycle",
+      "evidenceId": "ae00bee8669e09a4facc",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "원본 2012-3-28_1.webp 전체 그래프·선지 시각 확인. OpenStax 19.3 본문과 Figure 19.28 설명 대조. 초안의 평탄 기준선=전기활동 없음 단정 삭제, 기계적 수축과 탈분극 구간 차이를 명시. 전기파 대응 해석에서 저장 정답③ 일치.",
+    "contentHash": "83a6504e413329be38ca569e718e2ba3eb0a818a8d3c217044337e062fc330f8"
+  }
+}

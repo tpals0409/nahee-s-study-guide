@@ -1,0 +1,20 @@
+{
+  "id": "acc5369e31fad3e91433",
+  "kind": "science",
+  "source": "Purdue University / Dan Chavas",
+  "ref": "Coriolis acceleration",
+  "url": "https://web.ics.purdue.edu/~dchavas/teaching/interactive/coriolis.html",
+  "excerpt": "a_{Coriolis} = f V",
+  "sourceHash": "85588994baf30d341d27d598f0a7dbc9833600219fd3e214690cedce4511b2ba",
+  "cacheSourceId": "7a815110ca91f81875a9",
+  "retrievedAt": "2026-11-07T02:09:56.737966+00:00",
+  "reviewedMappings": {
+    "2023-3-36:0": "본문 f=2Ωsinφ, 북반구 진행 방향 오른쪽의 수평 가속도, 적도에서 f=0을 확인했다. 고정 위도 풍속 비례와 마찰 감속 시 전향력 감소를 적용했다. 전향력 전체 벡터가 적도에서 무조건 0이라는 표현은 피했다.",
+    "2023-3-36:1": "본문 f=2Ωsinφ, 북반구 진행 방향 오른쪽의 수평 가속도, 적도에서 f=0을 확인했다. 고정 위도 풍속 비례와 마찰 감속 시 전향력 감소를 적용했다. 전향력 전체 벡터가 적도에서 무조건 0이라는 표현은 피했다.",
+    "2023-3-36:3": "본문 f=2Ωsinφ, 북반구 진행 방향 오른쪽의 수평 가속도, 적도에서 f=0을 확인했다. 고정 위도 풍속 비례와 마찰 감속 시 전향력 감소를 적용했다. 전향력 전체 벡터가 적도에서 무조건 0이라는 표현은 피했다.",
+    "2023-3-36:4": "본문 f=2Ωsinφ, 북반구 진행 방향 오른쪽의 수평 가속도, 적도에서 f=0을 확인했다. 고정 위도 풍속 비례와 마찰 감속 시 전향력 감소를 적용했다. 전향력 전체 벡터가 적도에서 무조건 0이라는 표현은 피했다.",
+    "2023-3-36:5": "본문 f=2Ωsinφ, 북반구 진행 방향 오른쪽의 수평 가속도, 적도에서 f=0을 확인했다. 고정 위도 풍속 비례와 마찰 감속 시 전향력 감소를 적용했다. 전향력 전체 벡터가 적도에서 무조건 0이라는 표현은 피했다."
+  },
+  "retrievalMethod": "Direct web open; reviewed pressure-gradient, friction and horizontal Coriolis sections",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

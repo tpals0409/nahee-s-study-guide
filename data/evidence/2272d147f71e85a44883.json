@@ -1,0 +1,21 @@
+{
+  "id": "2272d147f71e85a44883",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics 3 §7.4 The Quantum Particle in a Box",
+  "url": "https://openstax.org/books/university-physics-volume-3/pages/7-4-the-quantum-particle-in-a-box",
+  "excerpt": "Energy quantization is a consequence of the boundary conditions.",
+  "sourceHash": "84e633c65609d064746181f8f1fed2decb9cc44107a8509fb0bd0f6462edcb32",
+  "cacheSourceId": "74166005dacebfe926e9",
+  "retrievedAt": "2026-11-06T19:23:38.680720+00:00",
+  "reviewedMappings": {
+    "2015-3-09:0": "Source derives k=nπ/L and En=n²π²hbar²/(2mL²) for zero interior potential and infinite walls, with n=1 ground state. Original explicitly doubles mass and width and retains nonrelativistic model. Independent substitution yields 1/(2*2²)=1/8. Each option assessed against this ratio; no definite signed momentum assigned to stationary standing-wave state.",
+    "2015-3-09:1": "Source derives k=nπ/L and En=n²π²hbar²/(2mL²) for zero interior potential and infinite walls, with n=1 ground state. Original explicitly doubles mass and width and retains nonrelativistic model. Independent substitution yields 1/(2*2²)=1/8. Each option assessed against this ratio; no definite signed momentum assigned to stationary standing-wave state.",
+    "2015-3-09:2": "Source derives k=nπ/L and En=n²π²hbar²/(2mL²) for zero interior potential and infinite walls, with n=1 ground state. Original explicitly doubles mass and width and retains nonrelativistic model. Independent substitution yields 1/(2*2²)=1/8. Each option assessed against this ratio; no definite signed momentum assigned to stationary standing-wave state.",
+    "2015-3-09:3": "Source derives k=nπ/L and En=n²π²hbar²/(2mL²) for zero interior potential and infinite walls, with n=1 ground state. Original explicitly doubles mass and width and retains nonrelativistic model. Independent substitution yields 1/(2*2²)=1/8. Each option assessed against this ratio; no definite signed momentum assigned to stationary standing-wave state.",
+    "2015-3-09:4": "Source derives k=nπ/L and En=n²π²hbar²/(2mL²) for zero interior potential and infinite walls, with n=1 ground state. Original explicitly doubles mass and width and retains nonrelativistic model. Independent substitution yields 1/(2*2²)=1/8. Each option assessed against this ratio; no definite signed momentum assigned to stationary standing-wave state.",
+    "2015-3-09:5": "Source derives k=nπ/L and En=n²π²hbar²/(2mL²) for zero interior potential and infinite walls, with n=1 ground state. Original explicitly doubles mass and width and retains nonrelativistic model. Independent substitution yields 1/(2*2²)=1/8. Each option assessed against this ratio; no definite signed momentum assigned to stationary standing-wave state."
+  },
+  "retrievalMethod": "Direct web.open; equations 7.32, 7.38, 7.41 and 7.44 inspected",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

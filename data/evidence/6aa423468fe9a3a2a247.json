@@ -1,0 +1,21 @@
+{
+  "id": "6aa423468fe9a3a2a247",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "12.1 Mendel’s Experiments and the Laws of Probability",
+  "url": "https://openstax.org/books/biology-2e/pages/12-1-mendels-experiments-and-the-laws-of-probability",
+  "excerpt": "multiplying the individual probabilities of each event occurring alone.",
+  "sourceHash": "fd50ada07233738d30eac3d66510e89dc9d89137cee7e6a193bb2e500001896f",
+  "cacheSourceId": "813547ad9d34490b5012",
+  "retrievedAt": "2026-11-06T22:40:30.671274+00:00",
+  "reviewedMappings": {
+    "2019-3-23:0": "O형 자녀로 양친 AO 추론; OO확률1/4와 여자확률1/2의 곱1/8.",
+    "2019-3-23:1": "전체8개 동등 가능 조합 중 OO 여자1개.",
+    "2019-3-23:2": "1/4는 O형 확률만 반영하고 여자 조건이 빠짐.",
+    "2019-3-23:3": "3/8은 A형 여자 확률로 질문과 다름.",
+    "2019-3-23:4": "1/2는 여자 확률만 반영하고 O형 조건이 빠짐.",
+    "2019-3-23:5": "3/4는 A형 확률로 질문과 다름."
+  },
+  "retrievalMethod": "Direct web open: 108–112 product rule for independent events. Applied to O phenotype probability and the standard 1/2 female probability; enumerated eight equiprobable outcomes.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

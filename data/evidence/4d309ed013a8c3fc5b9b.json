@@ -1,0 +1,21 @@
+{
+  "id": "4d309ed013a8c3fc5b9b",
+  "kind": "science",
+  "source": "USGS",
+  "ref": "The Laws of Superposition and Cross-Cutting Relations",
+  "url": "https://pubs.usgs.gov/gip/fossils/laws.html",
+  "excerpt": "The dike is younger than all the rocks that it cuts across",
+  "sourceHash": "0c9ba8fc9f2546b34fe04318472f7fb86caed31f365157d85e7fb06ac40d3401",
+  "cacheSourceId": "407665beb0b04a56e090",
+  "retrievedAt": "2026-11-07T03:33:49.872261+00:00",
+  "reviewedMappings": {
+    "2025-3-35:0": "관입 및 누중 법칙을 직접 단면에 적용. A가 C를 관입, D가 A/C 침식면을 덮으며 B의 V무늬 암체가 A와 D를 관입. C→A→D→B와 D의 1억~2억 년 연령 범위 도출.",
+    "2025-3-35:1": "관입 및 누중 법칙을 직접 단면에 적용. A가 C를 관입, D가 A/C 침식면을 덮으며 B의 V무늬 암체가 A와 D를 관입. C→A→D→B와 D의 1억~2억 년 연령 범위 도출.",
+    "2025-3-35:2": "관입 및 누중 법칙을 직접 단면에 적용. A가 C를 관입, D가 A/C 침식면을 덮으며 B의 V무늬 암체가 A와 D를 관입. C→A→D→B와 D의 1억~2억 년 연령 범위 도출.",
+    "2025-3-35:3": "관입 및 누중 법칙을 직접 단면에 적용. A가 C를 관입, D가 A/C 침식면을 덮으며 B의 V무늬 암체가 A와 D를 관입. C→A→D→B와 D의 1억~2억 년 연령 범위 도출.",
+    "2025-3-35:4": "관입 및 누중 법칙을 직접 단면에 적용. A가 C를 관입, D가 A/C 침식면을 덮으며 B의 V무늬 암체가 A와 D를 관입. C→A→D→B와 D의 1억~2억 년 연령 범위 도출.",
+    "2025-3-35:5": "관입 및 누중 법칙을 직접 단면에 적용. A가 C를 관입, D가 A/C 침식면을 덮으며 B의 V무늬 암체가 A와 D를 관입. C→A→D→B와 D의 1억~2억 년 연령 범위 도출."
+  },
+  "retrievalMethod": "Search-indexed source text read; USGS direct pages returned 403",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "a0170b67eb6137792b86",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "16.2 Mathematics of Waves — University Physics Volume 1",
+  "url": "https://openstax.org/books/university-physics-volume-1/pages/16-2-mathematics-of-waves",
+  "excerpt": "The wave therefore moves with a constant wave speed",
+  "sourceHash": "ee9fe33a154853617f7a94184c2673e371f0b0a9fb4ebdd29289d9ac0c62135b",
+  "cacheSourceId": "137c62e1d56f6d482c58",
+  "retrievedAt": "2026-11-06T22:25:56.470901+00:00",
+  "reviewedMappings": {
+    "2019-3-08:0": "Original graph lambda=4 m and depicted rightward displacement 1 m in 1/8 s; v=8 m/s and f=v/lambda=2 Hz. Phase shift is 1/4 cycle, uniquely option 2 among listed frequencies.",
+    "2019-3-08:1": "Candidate 1 Hz gives translation lambda*f*dt=0.5 m in 1/8 s at lambda=4 m; compare depicted shift 1 m (modulo 4 m). Does not match.",
+    "2019-3-08:2": "Candidate 2 Hz gives translation lambda*f*dt=1.0 m in 1/8 s at lambda=4 m; compare depicted shift 1 m (modulo 4 m). Matches.",
+    "2019-3-08:3": "Candidate 3 Hz gives translation lambda*f*dt=1.5 m in 1/8 s at lambda=4 m; compare depicted shift 1 m (modulo 4 m). Does not match.",
+    "2019-3-08:4": "Candidate 4 Hz gives translation lambda*f*dt=2.0 m in 1/8 s at lambda=4 m; compare depicted shift 1 m (modulo 4 m). Does not match.",
+    "2019-3-08:5": "Candidate 5 Hz gives translation lambda*f*dt=2.5 m in 1/8 s at lambda=4 m; compare depicted shift 1 m (modulo 4 m). Does not match."
+  },
+  "retrievalMethod": "Direct web open: translation distance lines 33–35 and 53–55, v=lambda/T line 43 and equation 16.3, f=1/T line 96. Original app/public/images/2019-3-08.webp inspected: wavelength 4 m, trough 1 to 2 m and crest 3 to 4 m, drawn right end 4 to 5 m. Independently checked candidate frequencies; even if infinite periodic snapshots admit extra cycles, only 2 Hz among options 1–5 matches phase.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,86 @@
+{
+  "id": "2017-3-22",
+  "summary": "(가)는 헨레고리 하행지, (나)·(다)는 각각 가는·굵은 상행지, (라)·(마)는 집합관입니다. 하행지에서는 아쿠아포린을 통해 물이 재흡수되므로 정답은 ①입니다.",
+  "choices": [
+    "정답입니다. 하행지인 (가)는 아쿠아포린을 통해 물을 통과시킵니다. 물은 삼투에 의해 관강에서 속질 간질로 이동합니다.",
+    "오답입니다. (나)에서 (다)로 올라가는 상행지에서는 물의 이동이 제한된 상태에서 NaCl이 재흡수됩니다. 따라서 여과액은 묽어져 (다)의 농도가 더 낮습니다.",
+    "오답입니다. (라)는 집합관입니다. 여기의 Na⁺ 재흡수는 Na⁺/K⁺ 펌프가 유지하는 전기화학적 기울기에 의존하므로 NaCl 전체가 단순 확산으로 재흡수된다고 설명하지 않습니다. 관강 쪽 채널을 통한 수동 유입과 전체 재흡수 과정은 구별해야 합니다.",
+    "오답입니다. ADH가 집합관의 물 재흡수를 촉진한다는 부분은 맞지만, 혈액으로 방출되는 곳은 뇌하수체 전엽이 아니라 후엽입니다. ADH는 집합관 세포막의 아쿠아포린 삽입을 촉진합니다.",
+    "오답입니다. 가는 상행지인 (나)에서도 NaCl이 간질로 확산하여 재흡수됩니다. 따라서 (나)를 NaCl 재흡수가 없는 구간으로 분류한 것이 틀립니다."
+  ],
+  "lawNote": "상행지 여과액이 묽어지는 이유는 염의 재흡수와 낮은 물 투과성입니다. 주변 속질의 농도와 세뇨관 속 여과액의 농도를 동일시하지 않습니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e §41.2 The Kidneys and Osmoregulatory Organs",
+      "quote": "Because salt but not water is lost, the filtrate becomes more dilute as it travels up the limb.",
+      "url": "https://openstax.org/books/biology-2e/pages/41-2-the-kidneys-and-osmoregulatory-organs",
+      "evidenceId": "efda90a32e1c6378e6e3",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e §41.2 The Kidneys and Osmoregulatory Organs",
+      "quote": "Because salt but not water is lost, the filtrate becomes more dilute as it travels up the limb.",
+      "url": "https://openstax.org/books/biology-2e/pages/41-2-the-kidneys-and-osmoregulatory-organs",
+      "evidenceId": "efda90a32e1c6378e6e3",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e §41.2 The Kidneys and Osmoregulatory Organs",
+      "quote": "Because salt but not water is lost, the filtrate becomes more dilute as it travels up the limb.",
+      "url": "https://openstax.org/books/biology-2e/pages/41-2-the-kidneys-and-osmoregulatory-organs",
+      "evidenceId": "efda90a32e1c6378e6e3",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e §41.2 The Kidneys and Osmoregulatory Organs",
+      "quote": "Because salt but not water is lost, the filtrate becomes more dilute as it travels up the limb.",
+      "url": "https://openstax.org/books/biology-2e/pages/41-2-the-kidneys-and-osmoregulatory-organs",
+      "evidenceId": "efda90a32e1c6378e6e3",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Anatomy and Physiology 2e §25.6 Tubular Reabsorption",
+      "quote": "This function is regulated by the posterior pituitary hormone ADH (vasopressin).",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/25-6-tubular-reabsorption",
+      "evidenceId": "058d8e1cd7199a408274",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Anatomy and Physiology 2e §25.6 Tubular Reabsorption",
+      "quote": "This function is regulated by the posterior pituitary hormone ADH (vasopressin).",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/25-6-tubular-reabsorption",
+      "evidenceId": "058d8e1cd7199a408274",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "Original diagram labels and flow arrows inspected; nephron figure and collecting-duct physiology directly reviewed; whole epithelial salt transport distinguished from passive channel entry; removed unnecessary numerical and aquaporin-subtype claims.",
+    "contentHash": "b5b7d89a733efe115341dd8f1fd5d352168fb52f53c245c77827aece19a5eca5"
+  }
+}

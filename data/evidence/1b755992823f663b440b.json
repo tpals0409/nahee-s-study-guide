@@ -1,0 +1,16 @@
+{
+  "id": "1b755992823f663b440b",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume 3 §6.4, equations 6.33, 6.35 and 6.45–6.46",
+  "url": "https://openstax.org/books/university-physics-volume-3/pages/6-4-bohrs-model-of-the-hydrogen-atom",
+  "excerpt": "When an atom absorbs a photon, the electron makes a transition to a higher-energy orbit.",
+  "sourceHash": "290be20e10b3b189c11e4409d7421db140fbb754b7943c455ab0328d3dafce26",
+  "cacheSourceId": "e0f99f91a556ee169107",
+  "retrievedAt": "2026-11-06T16:24:11.452520+00:00",
+  "reviewedMappings": {
+    "2011-3-10:0": "보어 모형 조건 L=nℏ(6.33), 흡수에너지 준위차(6.35), En=−13.6/n² 및 바닥 n=1 대조. −13.6+12.75=−.85, n²=13.6/.85=16, n=4, L=4ℏ. 선지 n=2,3,9,16의 흡수 에너지 각각10.2,12.09,13.43,13.55eV로 불일치. 현대 궤도각운동량 식을 적용하지 않음."
+  },
+  "retrievalMethod": "web.run; Bohr postulates and energy formulas reviewed",
+  "sourceHashScope": "Selected excerpt only; not full page"
+}

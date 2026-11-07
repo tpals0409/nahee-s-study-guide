@@ -1,0 +1,19 @@
+{
+  "id": "e8fd719c5d7d3c227451",
+  "kind": "science",
+  "source": "Ecology",
+  "ref": "Brown & Kodric-Brown (1977), Turnover Rates in Insular Biogeography: Effect of Immigration on Extinction",
+  "url": "https://esajournals.onlinelibrary.wiley.com/doi/10.2307/1935620",
+  "excerpt": "Demographic and genetic contributions from conspecific immigrants tend to reduce extinction rates of insular populations.",
+  "sourceHash": "7dce1d9925babe8a2cbfe83b6b4205e599fec8b52d8e38c9ceea4d53d848cca4",
+  "cacheSourceId": "fede5ad75c9efe7466ab",
+  "retrievedAt": "2026-11-07T03:28:19.471299+00:00",
+  "reviewedMappings": {
+    "2025-3-29:0": "원저 초록: 같은 종 이입이 멸종률을 낮추는 구조 효과 및 거리 관련 수정 모형을 확인. ㄷ을 다른 조건이 비슷하고 구조 효과를 포함한 비교로 설명한다. 기본 모형의 거리-이입률 관계와 혼동하지 않는다.",
+    "2025-3-29:1": "원저 초록: 같은 종 이입이 멸종률을 낮추는 구조 효과 및 거리 관련 수정 모형을 확인. ㄷ을 다른 조건이 비슷하고 구조 효과를 포함한 비교로 설명한다. 기본 모형의 거리-이입률 관계와 혼동하지 않는다.",
+    "2025-3-29:3": "원저 초록: 같은 종 이입이 멸종률을 낮추는 구조 효과 및 거리 관련 수정 모형을 확인. ㄷ을 다른 조건이 비슷하고 구조 효과를 포함한 비교로 설명한다. 기본 모형의 거리-이입률 관계와 혼동하지 않는다.",
+    "2025-3-29:4": "원저 초록: 같은 종 이입이 멸종률을 낮추는 구조 효과 및 거리 관련 수정 모형을 확인. ㄷ을 다른 조건이 비슷하고 구조 효과를 포함한 비교로 설명한다. 기본 모형의 거리-이입률 관계와 혼동하지 않는다."
+  },
+  "retrievalMethod": "Direct publisher abstract read",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

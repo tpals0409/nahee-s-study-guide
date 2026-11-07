@@ -1,0 +1,52 @@
+{
+  "summary": "옳은 보기는 ㄴ뿐이므로 정답은 ②입니다. 대류권에서는 일반적으로 고도가 높아질수록 기온이 낮아지며, 오존층은 성층권에 있습니다.",
+  "choices": [
+    "ㄱ은 틀립니다. 대류권의 일반적인 기온 분포는 고도가 높아질수록 기온이 낮아지는 형태입니다.",
+    "ㄴ은 옳습니다. 성층권의 오존은 태양 자외선을 흡수하여 대기를 가열하며, 이는 고도에 따라 기온이 상승하는 분포를 설명합니다. ㄱ·ㄷ은 틀리므로 이 선지가 정답입니다.",
+    "ㄷ은 틀립니다. 태양 자외선을 흡수하는 오존층은 열권이 아니라 성층권에 있습니다.",
+    "ㄴ은 옳지만 ㄱ은 대류권의 일반적인 기온 변화 방향을 반대로 설명했으므로 오답입니다.",
+    "ㄱ은 기온 변화 방향을, ㄷ은 오존층의 위치를 잘못 설명합니다. 옳은 것은 ㄴ뿐이므로 모두 고른 이 선지는 오답입니다."
+  ],
+  "lawNote": "대류권의 기온 변화는 일반적인 연직 분포를 기준으로 판단합니다. 모든 장소와 시간에서 예외 없이 성립한다는 뜻은 아닙니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "NASA",
+      "ref": "Earth’s Atmosphere: A Multi-layered Cake — Troposphere / Stratosphere",
+      "quote": "temperatures typically go down the higher you go",
+      "url": "https://science.nasa.gov/earth/earth-atmosphere/earths-atmosphere-a-multi-layered-cake/",
+      "evidenceId": "6abdba2eae3b2ab7fdd2",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "NASA",
+      "ref": "Earth’s Atmosphere: A Multi-layered Cake — Troposphere / Stratosphere",
+      "quote": "home to Earth’s ozone layer",
+      "url": "https://science.nasa.gov/earth/earth-atmosphere/earths-atmosphere-a-multi-layered-cake/",
+      "evidenceId": "5b3d95cf465950807dc8",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "UCAR Center for Science Education",
+      "ref": "Layers of Earth’s Atmosphere — Stratosphere",
+      "quote": "Ozone molecules in this layer absorb high-energy ultraviolet (UV) light from the Sun, converting the UV energy into heat.",
+      "url": "https://scied.ucar.edu/learning-zone/atmosphere/layers-earths-atmosphere",
+      "evidenceId": "6766381cfe4233313f24",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "원문 보기·정답 ② 대조. NASA의 대류권 및 성층권 설명과 UCAR의 오존 자외선 흡수·가열 설명을 확인. 초안의 미검증 고도·파장·감률 수치와 열권 가열 부연을 제거하고 일반적 기온 분포로 한정.",
+    "contentHash": "b44b6112eb6028bcf4f09c3cd8ebef68cb7c12347a1bd58b30774cc8acb6202a"
+  }
+}

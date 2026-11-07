@@ -1,0 +1,30 @@
+{
+  "summary": "정답은 ⑤ √2A입니다. 폭 L인 무한 퍼텐셜우물의 고유상태는 ψₙ(x)=A sin(nπx/L)이고, 규격화 조건 A²L/2=1에서 A=√(2/L)입니다. 폭이 L/2인 우물에서는 A′=√[2/(L/2)]=√2A가 됩니다.",
+  "choices": [
+    "새 진폭을 A로 두면 총확률은 A²L/4=1/2이므로 규격화되지 않습니다.",
+    "새 진폭을 2A로 두면 총확률은 (2A)²L/4=2가 되어 1을 초과합니다.",
+    "새 진폭을 A/2로 두면 총확률은 (A/2)²L/4=1/8이므로 규격화되지 않습니다.",
+    "새 진폭을 A/√2로 두면 총확률은 (A/√2)²L/4=1/4입니다. 이 진폭은 오히려 폭이 2L인 우물의 규격화 진폭입니다.",
+    "새 진폭을 √2A로 두면 총확률은 (√2A)²L/4=A²L/2=1이므로 규격화 조건을 만족합니다."
+  ],
+  "lawNote": "규격화는 파동함수 자체가 아니라 |ψ|²의 적분을 1로 맞춥니다. 폭을 바꾸면 사인 함수의 공간적 형태도 달라지므로, 여기서는 고유상태의 규격화 진폭을 비교합니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "OpenStax University Physics Volume 3 §7.4 The Quantum Particle in a Box",
+      "quote": "We impose the normalization condition",
+      "url": "https://openstax.org/books/university-physics-volume-3/pages/7-4-the-quantum-particle-in-a-box",
+      "evidenceId": "0019fc415b05f2aedc2d",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "원본 2013-3-09.webp 확인. OpenStax 규격화 적분과 고유함수 직접 대조. 모든 선지를 새 폭에서 적분한 확률로 검산해⑤만1임을 확인. 확률밀도가 모든 위치에서2배라는 초안의 과도한 표현 제거.",
+    "contentHash": "f28ad5e6c28df2490b1b8530715b411d0aa5acfebee170c6e8bf7314ad3423bc"
+  }
+}

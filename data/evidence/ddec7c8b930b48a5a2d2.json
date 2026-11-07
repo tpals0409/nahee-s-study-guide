@@ -1,0 +1,20 @@
+{
+  "id": "ddec7c8b930b48a5a2d2",
+  "kind": "science",
+  "source": "NASA",
+  "ref": "Earth’s Atmosphere: A Multi-layered Cake",
+  "url": "https://science.nasa.gov/earth/earth-atmosphere/earths-atmosphere-a-multi-layered-cake/",
+  "excerpt": "with its height lower at Earth’s poles and higher at the equator",
+  "sourceHash": "01aa6e1a5022407e976bb7e368b326a6ef9bc133aa672264a7748f96602746bf",
+  "cacheSourceId": "c1050a64b1ba108e5dda",
+  "retrievedAt": "2026-11-07T02:51:24.766013+00:00",
+  "reviewedMappings": {
+    "2024-3-37:0": "Tropospheric height higher at equator than poles supports ㄴ; exact heights vary, so numerical ranges and ratio omitted.",
+    "2024-3-37:1": "Tropospheric height higher at equator than poles supports ㄴ; exact heights vary, so numerical ranges and ratio omitted.",
+    "2024-3-37:2": "Tropospheric height higher at equator than poles supports ㄴ; exact heights vary, so numerical ranges and ratio omitted.",
+    "2024-3-37:4": "Tropospheric height higher at equator than poles supports ㄴ; exact heights vary, so numerical ranges and ratio omitted.",
+    "2024-3-37:5": "Tropospheric height higher at equator than poles supports ㄴ; exact heights vary, so numerical ranges and ratio omitted."
+  },
+  "retrievalMethod": "NASA indexed troposphere paragraph reviewed and source page opened.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "37305d3719d8f9f15232",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "17.4 Potential, Free Energy, and Equilibrium",
+  "url": "https://openstax.org/books/chemistry-2e/pages/17-4-potential-free-energy-and-equilibrium",
+  "excerpt": "where n is the number of moles of electrons transferred,",
+  "sourceHash": "9fc8263b2833c3d7f65b877213a2a80d21a605005d81e6a0fed1790d0d41f023",
+  "cacheSourceId": "42a483bb0d47a66c1ec2",
+  "retrievedAt": "2026-11-06T20:24:41.399377+00:00",
+  "reviewedMappings": {
+    "2016-3-19:0": "본문39–44 ΔG°=−nFE°=−RTlnK를 적용. 원본으로 n=5×2=2×5=10, RT/F=a. lnK=−19.5/a.",
+    "2016-3-19:1": "반응식 배수화 시 ΔG°와 n이 함께 배수화되므로 E°=−ΔG°/(nF)는 불변. 잘못된 계수 전위 조합−5.22와 지수−52.2를 정확분수로 검산.",
+    "2016-3-19:2": "n10과 전위−1.95로 lnK=−19.5/a 도출.",
+    "2016-3-19:3": "전체 반응 절반이면 ΔG° 및 lnK도 절반이지만 주어진 K1은 원래 반응에 대응하므로 n10 사용.",
+    "2016-3-19:4": "ΔG°>0↔E°<0↔K<1은 표준 상태 기준. 역반응 상수는 역수.",
+    "2016-3-19:5": "nE°=-19.5이므로 +52.2를 배제. 표준상태 비자발성을 모든 농도조건으로 일반화하지 않음."
+  },
+  "retrievalMethod": "Direct web open; potential difference and Gibbs energy/equilibrium equations reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

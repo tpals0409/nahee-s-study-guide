@@ -1,0 +1,16 @@
+{
+  "id": "3078858ca56332480a7f",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Anatomy and Physiology 2e §15.2 Autonomic Reflexes and Homeostasis",
+  "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/15-2-autonomic-reflexes-and-homeostasis",
+  "excerpt": "When those fibers contract, the pupil dilates",
+  "sourceHash": "663c3709f917e42c5888f7931480530b4df1857d96b43404d97726d8d1ebb6d5",
+  "cacheSourceId": "eeb5f35a449029d18eca",
+  "retrievedAt": "2026-11-06T23:25:19.293630+00:00",
+  "reviewedMappings": {
+    "2020-3-24:5": "직접 본문83–88행 홍채 방사상 근육 수축에 의한 산동 및 원형근 수축에 의한 축동 확인. ⑤ 옳습니다. 교감신경 자극으로 홍채의 방사상 근육이 수축하면 동공이 확대됩니다. 부교감신경은 원형 근육을 수축시켜 동공을 작게 합니다."
+  },
+  "retrievalMethod": "직접 본문83–88행 홍채 방사상 근육 수축에 의한 산동 및 원형근 수축에 의한 축동 확인.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

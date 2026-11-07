@@ -1,0 +1,16 @@
+{
+  "id": "5cb373b1284be0f02e42",
+  "kind": "science",
+  "source": "U.S. National Park Service",
+  "ref": "Inner Earth Model",
+  "url": "https://www.nps.gov/subjects/geology/plate-tectonics-inner-earth-model.htm",
+  "excerpt": "a solid inner core because of the pressure",
+  "sourceHash": "ab4d911146bbbf124fe94b244f2f9eb482efb379eb81702b9172512e483111d9",
+  "cacheSourceId": "3843accf7da1d283fa79",
+  "retrievedAt": "2026-11-06T16:48:24.683703+00:00",
+  "reviewedMappings": {
+    "2011-3-33:0": "Physical States 및 Convection Currents 본문에서 내핵 고체/외핵 액체와 연약권의 매우 느린 대류 확인. ㄷ 거짓 ㄹ 참. 액체처럼 흐름과 전부 용융을 혼동하지 않도록 함."
+  },
+  "retrievalMethod": "web.run official page opened and read",
+  "sourceHashScope": "Selected excerpt only; not full page"
+}

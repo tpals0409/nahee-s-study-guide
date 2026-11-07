@@ -1,0 +1,41 @@
+{
+  "summary": "첫째와 둘째 반응식을 더하면 NH₃(g) 2 mol 생성에 −92 kJ이므로 생성열은 −46 kJ/mol입니다. 둘째 반응식의 2배와 셋째 식을 더하면 H₂O(g) 2 mol 생성에 −484 kJ, 즉 −242 kJ/mol입니다. 액체 N₂H₄의 생성열은 기체의 95 kJ/mol보다 작으므로 ㄴ·ㄷ이 옳고 정답은 ⑤입니다.",
+  "choices": [
+    "ㄱ은 틀립니다. 95−187=−92 kJ는 NH₃ 2 mol에 대한 값이며, 1 mol당 생성열은 −46 kJ/mol입니다.",
+    "ㄴ·ㄷ은 옳지만 ㄱ이 틀려 전체 조합은 오답입니다. 생성열은 생성물 1 mol을 기준으로 계산합니다.",
+    "ㄷ은 옳지만 ㄱ은 틀리고 ㄴ이 빠졌습니다. NH₃(g)의 생성열은 −46 kJ/mol입니다.",
+    "ㄴ만으로는 부족합니다. N₂H₄(g)가 액체로 응축할 때 열을 내놓으므로 액체의 생성열은 95 kJ/mol보다 작아 ㄷ도 옳습니다.",
+    "ㄴ·ㄷ이 옳습니다. 2ΔH₂+ΔH₃=−484 kJ는 물 기체 2 mol 생성에 해당하므로 −242 kJ/mol입니다. N₂H₄(l)의 생성열은 95−ΔH_vap이고 ΔH_vap>0이므로 95보다 작습니다."
+  ],
+  "lawNote": "반응식의 계수와 물질의 상태를 함께 확인해야 합니다. 기체와 액체의 생성열 비교는 같은 온도 조건에서 하며, 생성열 계산에는 문제에 주어진 값을 사용합니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e 5.3 Enthalpy — Hess’s law",
+      "quote": "the enthalpy change of the total process equals the sum of the enthalpy changes of the various steps.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/5-3-enthalpy",
+      "evidenceId": "9df10f32f99e94afb18f",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e 10.3 Phase Transitions — Enthalpy of Vaporization",
+      "quote": "Vaporization is an endothermic process.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/10-3-phase-transitions",
+      "evidenceId": "ee145bf8fe86911f48a5",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "원본 2012-3-14.webp의 반응식·상태·엔탈피 부호 확인. NH3 생성식 합산 및 H2O 생성식 2×둘째+셋째로 독립 소거 검산. 응축 엔탈피와 생성엔탈피 차이 확인. 다섯 조합 및 저장 정답⑤ 일치. 초안의 안정성으로 엔탈피를 단정하는 표현 삭제.",
+    "contentHash": "03feccc502f134229c4c2dc450eb28f933a7d900e70e13b5bb708e3062c3f97b"
+  }
+}

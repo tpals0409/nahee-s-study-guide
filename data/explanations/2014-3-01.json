@@ -1,0 +1,30 @@
+{
+  "summary": "정답은 ① 0.5 A입니다. 시상수는 τ=L/R=3/10=0.3초이고, 10분=600초는 시상수의 2,000배입니다. 따라서 전류는 정상상태 값 E/R=5/10=0.5 A에 사실상 도달합니다.",
+  "choices": [
+    "0.5 A가 가장 가깝습니다. I(t)=(E/R)(1−e^(−t/τ))에 대입하면 I(600)=0.5(1−e^(−2000)) A이므로 약 0.5 A입니다.",
+    "1.5 A는 틀렸습니다. 처음 전류가 0인 이 RL 회로의 전류는 정상상태 값 0.5 A를 향해 증가하므로 1.5 A가 될 수 없습니다.",
+    "2.0 A는 틀렸습니다. 전류의 정상상태 값은 기전력 5 V를 저항 10 Ω으로 나눈 0.5 A입니다. 2.0 A는 이를 초과합니다.",
+    "3.0 A는 틀렸습니다. 인덕턴스 3 H는 전류가 변하는 시간 척도에 영향을 주지만, 주어진 이상적 회로의 정상 전류는 E/R=0.5 A입니다.",
+    "6.0 A는 틀렸습니다. 충분한 시간이 지나도 전류가 계속 커지는 것이 아니라 0.5 A에 수렴합니다. 따라서 6.0 A에 이르지 않습니다."
+  ],
+  "lawNote": "문제의 회로 소자를 이상적으로 보고, 별도로 주어지지 않은 전지 내부저항과 코일의 저항은 무시합니다. 유한한 시간의 전류는 정확히 0.5 A보다 조금 작지만, 주어진 보기에서는 0.5 A가 가장 가깝습니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2, 14.4 RL Circuits",
+      "quote": "As a result, I(t) starts at zero and increases asymptotically to its final value.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/14-4-rl-circuits",
+      "evidenceId": "b864d8cb798994781941",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "원본2014-3-01.webp 회로·단위·선지확인. OpenStax RL 회로 방정식 대조 및 Decimal 시상수·잔차 계산. 정답①. 오답숫자의발생원인을추측한설명제거, 유한시간근사명시.",
+    "contentHash": "7ce50eb46ac5207c8f7c88f8d7b4c3945219d79859c66cbb389e1e2f34b46c4a"
+  }
+}

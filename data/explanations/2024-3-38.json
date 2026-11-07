@@ -1,0 +1,195 @@
+{
+  "id": "2024-3-38",
+  "summary": "ㄱ·ㄴ이 옳으므로 정답은 ③입니다. 바람이 해수면에 가하는 마찰 응력이 표층 해류를 일으킵니다. 수온·염분에 따른 밀도 차이로 형성되는 열염순환은 심층수를 이동시키고 해수의 교환에 기여합니다. 아열대 환류는 북반구에서 시계 방향, 남반구에서 반시계 방향이므로 ㄷ은 반대로 서술했습니다.",
+  "choices": [
+    "ㄱ만 고른 선지: ㄱ은 옳습니다. 그러나 ㄴ도 옳은 서술이므로 ㄴ이 빠진 이 선지는 오답입니다.",
+    "ㄷ만 고른 선지: 아열대 환류는 무역풍과 편서풍, 그리고 전향력(코리올리 효과)의 영향으로 북반구에서는 시계 방향, 남반구에서는 반시계 방향으로 회전합니다. ㄷ은 방향을 반대로 서술했으므로 틀렸고, 옳은 ㄱ과 ㄴ도 빠져 있어 오답입니다.",
+    "ㄱ·ㄴ을 고른 정답입니다. ㄱ은 바람이 해수면을 끌어 표층 해류를 만드는 과정을 설명합니다. ㄴ은 밀도 차이에 따른 심층 순환과 해수 교환을 가리키는 교과서적 설명입니다. 열염순환에는 표층의 귀환 흐름도 포함되므로 심해에만 한정된 순환이라는 뜻은 아닙니다. ㄷ의 회전 방향은 반대입니다.",
+    "ㄴ, ㄷ을 고른 선지: ㄴ은 옳지만 ㄷ은 환류의 회전 방향이 반대로 되어 있어 틀립니다. 또한 옳은 ㄱ이 빠져 있으므로 오답입니다.",
+    "ㄱ, ㄴ, ㄷ을 모두 고른 선지: ㄷ이 틀린 서술이므로 오답입니다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "NOAA National Ocean Service",
+      "ref": "Boundary Currents",
+      "quote": "Global winds drag on the water’s surface",
+      "url": "https://oceanservice.noaa.gov/education/tutorial_currents/04currents3.html",
+      "evidenceId": "b5a02a47d5e07d5bcd1a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "NOAA National Ocean Service",
+      "ref": "Boundary Currents",
+      "quote": "Global winds drag on the water’s surface",
+      "url": "https://oceanservice.noaa.gov/education/tutorial_currents/04currents3.html",
+      "evidenceId": "b5a02a47d5e07d5bcd1a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "NOAA National Ocean Service",
+      "ref": "Boundary Currents",
+      "quote": "Global winds drag on the water’s surface",
+      "url": "https://oceanservice.noaa.gov/education/tutorial_currents/04currents3.html",
+      "evidenceId": "b5a02a47d5e07d5bcd1a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "NOAA National Ocean Service",
+      "ref": "Boundary Currents",
+      "quote": "Global winds drag on the water’s surface",
+      "url": "https://oceanservice.noaa.gov/education/tutorial_currents/04currents3.html",
+      "evidenceId": "b5a02a47d5e07d5bcd1a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "NOAA National Ocean Service",
+      "ref": "Boundary Currents",
+      "quote": "Global winds drag on the water’s surface",
+      "url": "https://oceanservice.noaa.gov/education/tutorial_currents/04currents3.html",
+      "evidenceId": "b5a02a47d5e07d5bcd1a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "NOAA National Ocean Service",
+      "ref": "Boundary Currents",
+      "quote": "Global winds drag on the water’s surface",
+      "url": "https://oceanservice.noaa.gov/education/tutorial_currents/04currents3.html",
+      "evidenceId": "b5a02a47d5e07d5bcd1a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "NOAA National Ocean Service",
+      "ref": "Thermohaline Circulation",
+      "quote": "controlled by temperature (thermo) and salinity (haline)",
+      "url": "https://oceanservice.noaa.gov/education/tutorial_currents/05conveyor1.html",
+      "evidenceId": "885a16108b514e14cbf5",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "NOAA National Ocean Service",
+      "ref": "Thermohaline Circulation",
+      "quote": "controlled by temperature (thermo) and salinity (haline)",
+      "url": "https://oceanservice.noaa.gov/education/tutorial_currents/05conveyor1.html",
+      "evidenceId": "885a16108b514e14cbf5",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "NOAA National Ocean Service",
+      "ref": "Thermohaline Circulation",
+      "quote": "controlled by temperature (thermo) and salinity (haline)",
+      "url": "https://oceanservice.noaa.gov/education/tutorial_currents/05conveyor1.html",
+      "evidenceId": "885a16108b514e14cbf5",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "NOAA National Ocean Service",
+      "ref": "Thermohaline Circulation",
+      "quote": "controlled by temperature (thermo) and salinity (haline)",
+      "url": "https://oceanservice.noaa.gov/education/tutorial_currents/05conveyor1.html",
+      "evidenceId": "885a16108b514e14cbf5",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "NOAA National Ocean Service",
+      "ref": "Thermohaline Circulation",
+      "quote": "controlled by temperature (thermo) and salinity (haline)",
+      "url": "https://oceanservice.noaa.gov/education/tutorial_currents/05conveyor1.html",
+      "evidenceId": "885a16108b514e14cbf5",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "NOAA National Ocean Service",
+      "ref": "The Global Conveyor Belt",
+      "quote": "Thermohaline circulation drives a global-scale system of currents",
+      "url": "https://oceanservice.noaa.gov/education/tutorial_currents/05conveyor2.html",
+      "evidenceId": "afa4e6569498b9f52e1c",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "NOAA National Ocean Service",
+      "ref": "The Global Conveyor Belt",
+      "quote": "Thermohaline circulation drives a global-scale system of currents",
+      "url": "https://oceanservice.noaa.gov/education/tutorial_currents/05conveyor2.html",
+      "evidenceId": "afa4e6569498b9f52e1c",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "NOAA National Ocean Service",
+      "ref": "The Global Conveyor Belt",
+      "quote": "Thermohaline circulation drives a global-scale system of currents",
+      "url": "https://oceanservice.noaa.gov/education/tutorial_currents/05conveyor2.html",
+      "evidenceId": "afa4e6569498b9f52e1c",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "NOAA National Ocean Service",
+      "ref": "The Global Conveyor Belt",
+      "quote": "Thermohaline circulation drives a global-scale system of currents",
+      "url": "https://oceanservice.noaa.gov/education/tutorial_currents/05conveyor2.html",
+      "evidenceId": "afa4e6569498b9f52e1c",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "NOAA National Ocean Service",
+      "ref": "The Global Conveyor Belt",
+      "quote": "Thermohaline circulation drives a global-scale system of currents",
+      "url": "https://oceanservice.noaa.gov/education/tutorial_currents/05conveyor2.html",
+      "evidenceId": "afa4e6569498b9f52e1c",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Original image inspected; NOAA tutorials independently support wind stress, thermohaline exchange and subtropical gyre direction; answer compared to canonical data.",
+    "contentHash": "6efb4dcf75ae8e72ec7ee0f7e50bc971fd57d3d809e425aec154dcc6403f7e00"
+  }
+}

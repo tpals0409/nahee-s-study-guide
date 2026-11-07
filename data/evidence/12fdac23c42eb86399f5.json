@@ -1,0 +1,16 @@
+{
+  "id": "12fdac23c42eb86399f5",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "OpenStax University Physics Volume 2 §4.5 The Carnot Cycle",
+  "url": "https://openstax.org/books/university-physics-volume-2/pages/4-5-the-carnot-cycle",
+  "excerpt": "Because the initial and final states of the system are the same,",
+  "sourceHash": "d44a61c124307c542e7f2264890f47d72109b087489d46b32f6e8cd3cda80618",
+  "cacheSourceId": "94082deccbe14e81d084",
+  "retrievedAt": "2026-11-06T17:52:20.010016+00:00",
+  "reviewedMappings": {
+    "2013-3-07:0": "§4.5 순환의 ΔU=0, W=Qh−Qc, Qc/Qh=Tc/Th와 효율식 직접 대조. 원본이 0℃=273K를 명시하므로 Th400K,Tc300K. Qc15kJ에서 Qh20kJ,W5kJ. 각 선택지 요구일4,5,6,7,8kJ 중5만 일치."
+  },
+  "retrievalMethod": "web.open; source equations and explanatory text directly reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

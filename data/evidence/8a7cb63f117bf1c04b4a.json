@@ -1,0 +1,18 @@
+{
+  "id": "8a7cb63f117bf1c04b4a",
+  "kind": "science",
+  "source": "Cooper GM / Sinauer Associates; NCBI Bookshelf",
+  "ref": "Microtubule Motors and Movements — The Cell: A Molecular Approach, 2nd edition",
+  "url": "https://www.ncbi.nlm.nih.gov/books/NBK9833/",
+  "excerpt": "Members of two large families of motor proteins—the kinesins and the dyneins—",
+  "sourceHash": "a61b4b4a0aa97d65830d54c186f0e1f2786e0f872f7cd32a98e6c0e4892da12c",
+  "cacheSourceId": "337873f269e242f602c2",
+  "retrievedAt": "2026-11-06T20:26:55.122805+00:00",
+  "reviewedMappings": {
+    "2016-3-21:0": "저자교재 서두의 미세소관 기반 운동을 일으키는 kinesin/dynein 두 모터군을 확인.",
+    "2016-3-21:3": "미세소관을 이용하는 dynein 모터와 미세소관 자체의 구조단백질을 구분. 서두에 섬모·편모 운동 등 미세소관 운동 제시.",
+    "2016-3-21:4": "미세소관 기반 소낭·소기관 운반의 kinesin 모터와 필라멘트 중합 단위를 구분."
+  },
+  "retrievalMethod": "Web search indexed source excerpt; textbook introduction retrieved and reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

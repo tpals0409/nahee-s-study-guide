@@ -1,0 +1,16 @@
+{
+  "id": "a0f590e663bd8727e47c",
+  "kind": "science",
+  "source": "OpenStax · Biology 2e",
+  "ref": "45.1 Population Demography",
+  "url": "https://openstax.org/books/biology-2e/pages/45-1-population-demography",
+  "excerpt": "the number of individuals within a specific area or volume",
+  "sourceHash": "177884b7fef731052e2c2b64418ca8e898486c444ee4fa34a0b326873b59c5d4",
+  "cacheSourceId": "d65097b410ad98ef7719",
+  "retrievedAt": "2026-11-06T15:52:06.972759+00:00",
+  "reviewedMappings": {
+    "2010-3-29:0": "개체군은 같은 종의 지역 집단, 밀도는 단위 면적·부피의 개체 수라는 정의와 대조. 고정 공간에서 출생·사망 영향을 도출."
+  },
+  "retrievalMethod": "web.open source section and surrounding context reviewed",
+  "sourceHashScope": "Selected excerpt only"
+}

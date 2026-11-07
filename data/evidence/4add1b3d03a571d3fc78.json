@@ -1,0 +1,21 @@
+{
+  "id": "4add1b3d03a571d3fc78",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e §4.4 The Endomembrane System and Proteins",
+  "url": "https://openstax.org/books/biology-2e/pages/4-4-the-endomembrane-system-and-proteins",
+  "excerpt": "Membrane and secretory proteins are synthesized in the rough endoplasmic reticulum (RER).",
+  "sourceHash": "ea1029e385924695b1fb98c3d1a2abf1d01131e04dbd793e90b605d248279a0f",
+  "cacheSourceId": "2707c7ec49b5558fe730",
+  "retrievedAt": "2026-11-06T21:24:18.540045+00:00",
+  "reviewedMappings": {
+    "2017-3-28:0": "Figure 4.18과 Rough ER, Golgi 절의 분비 경로를 원본 ③에 대응. Golgi 절은 항체 분비 면역세포를 명시한다.",
+    "2017-3-28:1": "Rough ER/Smooth ER 절을 대조. 분비 항체 단백질의 경로에 핵 내부를 넣고 조면소포체 대신 활면소포체를 넣은 순서를 배제.",
+    "2017-3-28:2": "Figure 4.18 분비 경로 및 Lysosomes 절의 가수분해 기능 대조. 핵 내부와 리소좀을 경유하는 항체 분비 순서는 아님.",
+    "2017-3-28:3": "Golgi 절의 ER 유래 운반 소낭→cis 면→수식·분류→trans 면 유래 분비 소낭→세포막 융합 설명으로 순서 확인.",
+    "2017-3-28:4": "Golgi 절과 Lysosomes 절을 대조. 정상 항체 분비 경로에서 골지체를 리소좀으로 대체할 수 없음.",
+    "2017-3-28:5": "리보솜이 부착된 조면소포체에서 분비 단백질이 합성·진입하는 설명과 대조. 활면소포체→리보솜→리소좀 순서를 배제하되 활면소포체가 내막계와 무관하다는 초안의 절대적 진술은 삭제."
+  },
+  "retrievalMethod": "Direct web page reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

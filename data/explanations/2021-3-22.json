@@ -1,0 +1,85 @@
+{
+  "id": "2021-3-22",
+  "summary": "중심체에서 뻗어 나온 (가)는 방추 장치를 이루는 미세소관입니다. 미세소관은 α-튜불린과 β-튜불린이 짝을 이룬 이량체가 반복적으로 중합되어 만들어집니다. 따라서 보기에서 고를 구성 단백질은 튜불린입니다.",
+  "choices": [
+    "액틴: 오답입니다. 액틴은 미세섬유인 액틴 필라멘트의 구성 단백질입니다. 그림의 방추 섬유는 미세소관이므로 액틴이 아닌 튜불린으로 이루어집니다.",
+    "튜불린: 정답입니다. 동물세포의 중심체는 미세소관 형성 중심으로 작용합니다. 미세소관을 만드는 반복 조립 단위는 α-튜불린과 β-튜불린의 이량체이므로 보기의 튜불린이 맞습니다.",
+    "라미닌: 오답입니다. 라미닌은 기저막을 구성하는 세포외기질 당단백질입니다. 방추 장치의 미세소관을 만드는 구성 단백질이 아닙니다.",
+    "미오신: 오답입니다. 미오신은 액틴 필라멘트와 상호작용해 힘과 움직임을 만드는 운동 단백질입니다. 미세소관의 중합 단위인 튜불린과 구별해야 합니다.",
+    "케라틴: 오답입니다. 케라틴은 중간섬유의 구성 단백질입니다. 중간섬유와 방추 장치의 미세소관은 다른 종류의 세포골격입니다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e, 4.5 The Cytoskeleton",
+      "quote": "In animal cells, the centrosome is the microtubule-organizing center.",
+      "url": "https://openstax.org/books/biology-2e/pages/4-5-the-cytoskeleton",
+      "evidenceId": "6086ea6403841024d31c",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e, 4.5 The Cytoskeleton",
+      "quote": "In animal cells, the centrosome is the microtubule-organizing center.",
+      "url": "https://openstax.org/books/biology-2e/pages/4-5-the-cytoskeleton",
+      "evidenceId": "6086ea6403841024d31c",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e, 4.5 The Cytoskeleton",
+      "quote": "In animal cells, the centrosome is the microtubule-organizing center.",
+      "url": "https://openstax.org/books/biology-2e/pages/4-5-the-cytoskeleton",
+      "evidenceId": "6086ea6403841024d31c",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e, 4.5 The Cytoskeleton",
+      "quote": "In animal cells, the centrosome is the microtubule-organizing center.",
+      "url": "https://openstax.org/books/biology-2e/pages/4-5-the-cytoskeleton",
+      "evidenceId": "6086ea6403841024d31c",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e, 4.5 The Cytoskeleton",
+      "quote": "In animal cells, the centrosome is the microtubule-organizing center.",
+      "url": "https://openstax.org/books/biology-2e/pages/4-5-the-cytoskeleton",
+      "evidenceId": "6086ea6403841024d31c",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "U.S. National Library of Medicine",
+      "ref": "Laminin — MeSH D007797",
+      "quote": "It is localized in the basement membrane lamina lucida",
+      "url": "https://www.ncbi.nlm.nih.gov/mesh/68007797",
+      "evidenceId": "da5e1fa5761af98e6190",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Original spindle-fiber figure inspected; tubulin dimer and cytoskeleton distinctions checked against textbook; laminin checked against NLM MeSH; all choices reviewed.",
+    "contentHash": "80376ec4352bcedb14e622f363a86b2eb32a70a70535d70e3ba2372dcb121507"
+  }
+}

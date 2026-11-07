@@ -1,0 +1,52 @@
+{
+  "summary": "옳은 것은 ㄱ·ㄹ로 정답은 ③입니다. 맨틀은 지구 내부에서 부피가 가장 큰 층이며 대류가 일어나는 부분이 있습니다. 지각에서 가장 많은 원소는 산소이고 내핵은 고체입니다.",
+  "choices": [
+    "ㄱ은 맞지만 ㄴ이 틀립니다. 지각의 원소 함량을 질량 기준으로 비교하면 철이 아니라 산소가 가장 많습니다.",
+    "ㄱ은 맞지만 ㄷ이 틀립니다. 액체인 층은 외핵이며 내핵은 고체입니다.",
+    "ㄱ·ㄹ 모두 맞습니다. 맨틀의 부피가 가장 크고, 맨틀 물질이 긴 시간에 걸쳐 이동하는 대류가 일어납니다.",
+    "ㄹ은 맞지만 ㄴ이 틀립니다. 지각과 철이 풍부한 핵을 구별해야 합니다.",
+    "ㄹ은 맞지만 ㄷ이 틀립니다. 내핵을 액체로 설명한 것이 오류입니다."
+  ],
+  "lawNote": "맨틀에서 대류가 일어난다고 해서 맨틀 전체가 액체라는 뜻은 아닙니다. 지질학적 시간에 걸친 매우 느린 물질 이동으로 이해합니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "USGS",
+      "ref": "The Interior of the Earth",
+      "quote": "the mantle occupies 84 percent",
+      "url": "https://pubs.usgs.gov/gip/interior/",
+      "evidenceId": "efdaf9393ed74615961c",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "Jefferson Lab",
+      "ref": "10 Most Abundant Elements in the Earth's Crust",
+      "quote": "Oxygen",
+      "url": "https://stem-tools.jlab.org/glossary/abund_ele",
+      "evidenceId": "2b51df10f7f2d9513889",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "U.S. National Park Service",
+      "ref": "Inner Earth Model",
+      "quote": "a solid inner core because of the pressure",
+      "url": "https://www.nps.gov/subjects/geology/plate-tectonics-inner-earth-model.htm",
+      "evidenceId": "5cb373b1284be0f02e42",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "지각 원소 함량·맨틀 부피는 기관 검색반환 자료 확인, 내외핵 상태와 대류는 NPS 본문 대조. 네 진술/다섯 조합 및 저장정답③ 확인. 초안의 불필요한 정밀 함량과 지진파 판정 상세 삭제.",
+    "contentHash": "c4c7e60d93f94268e62fe2593d9f6ee2bbdfbf08a99d4175b717d4e2a63f3763"
+  }
+}

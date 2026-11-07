@@ -1,0 +1,20 @@
+{
+  "id": "e7af628d8f259b37d2e2",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 2e, 3.2 Determining Empirical and Molecular Formulas",
+  "url": "https://openstax.org/books/chemistry-2e/pages/3-2-determining-empirical-and-molecular-formulas",
+  "excerpt": "defined as the percentage by mass of each element in the compound",
+  "sourceHash": "aec218a05018858b1a1c7cdd3b142de3834772bcff974d30df38bc71c0a4ac82",
+  "cacheSourceId": "eab0b51e1c652e438c1a",
+  "retrievedAt": "2026-11-07T00:04:04.980918+00:00",
+  "reviewedMappings": {
+    "2021-3-14:0": "ㄴ: H 질량/총질량×100을 C2H4,C2H2,C3H4에 적용. C=12.01,H=1.008일 때 각각 약14.4%,7.7%,10.1%로 에틸렌이 최대. ㄴ은 참.",
+    "2021-3-14:1": "ㄴ: H 질량/총질량×100을 C2H4,C2H2,C3H4에 적용. C=12.01,H=1.008일 때 각각 약14.4%,7.7%,10.1%로 에틸렌이 최대. ㄴ은 참.",
+    "2021-3-14:2": "ㄴ: H 질량/총질량×100을 C2H4,C2H2,C3H4에 적용. C=12.01,H=1.008일 때 각각 약14.4%,7.7%,10.1%로 에틸렌이 최대. ㄴ은 참.",
+    "2021-3-14:3": "ㄴ: H 질량/총질량×100을 C2H4,C2H2,C3H4에 적용. C=12.01,H=1.008일 때 각각 약14.4%,7.7%,10.1%로 에틸렌이 최대. ㄴ은 참.",
+    "2021-3-14:4": "ㄴ: H 질량/총질량×100을 C2H4,C2H2,C3H4에 적용. C=12.01,H=1.008일 때 각각 약14.4%,7.7%,10.1%로 에틸렌이 최대. ㄴ은 참."
+  },
+  "retrievalMethod": "Direct lines 31-36, 61-73: mass percentage and C/H atomic masses. Independent substitution for all three formulas.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

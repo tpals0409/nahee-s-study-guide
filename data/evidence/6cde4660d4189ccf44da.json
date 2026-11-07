@@ -1,0 +1,18 @@
+{
+  "id": "6cde4660d4189ccf44da",
+  "kind": "science",
+  "source": "NASA",
+  "ref": "Top Moon Questions",
+  "url": "https://science.nasa.gov/moon/top-moon-questions/",
+  "excerpt": "Yes, everyone sees the same phases of the Moon.",
+  "sourceHash": "ab9be5bb253964b021a8e06b8fd59668dc397d26182e9ab94ce8240c73d06e45",
+  "cacheSourceId": "2859db4698bdaec733cb",
+  "retrievedAt": "2026-11-07T05:29:23.147644+00:00",
+  "reviewedMappings": {
+    "2025-3-37:0": "동일 시각 두 반구의 위상은 동일하며 관측 방향이 달라진다. ②의 문자적 위상 설명과 ④의 공식 정답을 구별하며, 반구에 따라 하현이 상현으로 바뀐다고 주장하지 않는다. 출제 의도는 이 자료로 확정하지 않는다.",
+    "2025-3-37:2": "동일 시각 두 반구의 위상은 동일하며 관측 방향이 달라진다. ②의 문자적 위상 설명과 ④의 공식 정답을 구별하며, 반구에 따라 하현이 상현으로 바뀐다고 주장하지 않는다. 출제 의도는 이 자료로 확정하지 않는다.",
+    "2025-3-37:4": "동일 시각 두 반구의 위상은 동일하며 관측 방향이 달라진다. ②의 문자적 위상 설명과 ④의 공식 정답을 구별하며, 반구에 따라 하현이 상현으로 바뀐다고 주장하지 않는다. 출제 의도는 이 자료로 확정하지 않는다."
+  },
+  "retrievalMethod": "Direct web open, relevant article sections read",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

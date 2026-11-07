@@ -1,0 +1,21 @@
+{
+  "id": "12a323e7a867680b42b8",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 2e §17.7 Electrolysis",
+  "url": "https://openstax.org/books/chemistry-2e/pages/17-7-electrolysis",
+  "excerpt": "The net result is the transfer of silver metal from the anode to the cathode.",
+  "sourceHash": "4945b27cb2b78a49b9dad6c2b38c0284adefea2e06ccb672967213e51fbd7dba",
+  "cacheSourceId": "2d81ef7457411ef77d4a",
+  "retrievedAt": "2026-11-06T23:15:19.971420+00:00",
+  "reviewedMappings": {
+    "2020-3-16:0": "Ag(I) to Ag(0) one electron per silver. Area×mean thickness×density/molar mass=.0200mol, Q1930C, t200s.",
+    "2020-3-16:1": "100s gives965C, .01molAg, mean thickness20μm, too thin.",
+    "2020-3-16:2": "200s gives1930C, .02molAg,2.16g, .216cm³, mean40μm.",
+    "2020-3-16:3": "300s gives2895C,.03molAg, mean60μm, too thick.",
+    "2020-3-16:4": "400s gives3860C,.04molAg, mean80μm, too thick.",
+    "2020-3-16:5": "500s gives4825C,.05molAg, mean100μm, too thick."
+  },
+  "retrievalMethod": "Direct web retrieval; reviewed silver spoon electroplating half reactions lines65–77 and quantitative electrolysis Q=It, Q=nF and silver electron stoichiometry lines78–105. Source bath is nitrate; only Ag(I)/Ag(0) electron count and charge laws transferred to question cyanide bath, not electrolyte speciation.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

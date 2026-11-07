@@ -1,0 +1,16 @@
+{
+  "id": "e6ff920bc344e6d366ad",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume 3, 10.3 Radioactive Decay",
+  "url": "https://openstax.org/books/university-physics-volume-3/pages/10-3-radioactive-decay",
+  "excerpt": "Therefore, the activity is halved after one half-life.",
+  "sourceHash": "dda4db796229dda5dc0258ddbd32eba6806bbfd137ba6cc8ae61684d113eaec1",
+  "cacheSourceId": "e4d5ea411759694688bb",
+  "retrievedAt": "2026-11-06T18:36:13.493919+00:00",
+  "reviewedMappings": {
+    "2014-3-06:0": "식10.12 N=N0/2^n, 식10.17 A=λN, 식10.18 활동도 지수감쇠 대조. 원본 10분 반감기와 측정 간격60분으로 6번 절반 감소. 묻는 비는 A1/A2이므로 역수64. Fraction 독립 검산."
+  },
+  "retrievalMethod": "web.open; direct primary-source page reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,184 @@
+{
+  "id": "2025-3-33",
+  "summary": "표에서 A는 현무암질, B는 안산암질, C는 유문암질 마그마입니다. 일반적인 비교에서 A는 C보다 점성이 작고, 유색 광물의 비율은 B보다 A에서 높습니다. C의 점성 큰 용암은 멀리 퍼지기 어려워 A보다 급경사의 화산체를 형성하는 경향이 있습니다. 따라서 ㄷ만 옳아 정답은 ②입니다.",
+  "choices": [
+    "'ㄱ' 단독은 오답입니다. ㄱ은 현무암질 마그마(A)가 유문암질 마그마(C)보다 점성이 크다는 진술입니다. 실제로는 SiO₂가 적고 온도가 높은 현무암질 마그마의 점성이 훨씬 작으므로 ㄱ은 틀린 진술입니다.",
+    "ㄷ만 옳아 정답입니다. 유문암질 C의 점성 큰 용암은 분출구 부근에 쌓여 급경사의 용암돔 등을 형성하기 쉽습니다. 현무암질 A의 유동성 큰 용암은 넓게 퍼져 완만한 순상 화산을 형성하는 것이 대표적입니다. 이는 표에 제시된 마그마 유형의 일반적 비교입니다.",
+    "'ㄱ, ㄴ'은 오답입니다. ㄱ은 점성의 대소 관계를 거꾸로 서술했습니다. ㄴ은 유색 광물이 안산암질(B)에서 현무암질(A)보다 많다고 했지만, 감람석·휘석 같은 유색 광물은 SiO₂가 적고 Fe·Mg가 많은 현무암질에서 더 많습니다. 두 진술 모두 틀렸습니다.",
+    "'ㄴ, ㄷ'은 오답입니다. ㄷ은 옳지만, ㄴ은 유색 광물 함량이 현무암질(A) > 안산암질(B) > 유문암질(C) 순이라는 사실과 반대이므로 틀렸습니다.",
+    "'ㄱ, ㄴ, ㄷ'은 오답입니다. ㄱ과 ㄴ이 모두 틀린 진술이므로 이 조합은 성립하지 않습니다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "U.S. National Park Service",
+      "ref": "Igneous Rocks — composition and intrusive rock classification",
+      "quote": "Intermediate rocks are those that have compositions between mafic and silicic.",
+      "url": "https://www.nps.gov/subjects/geology/igneous.htm",
+      "evidenceId": "8a25ad630cf44e22fb3e",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "U.S. National Park Service",
+      "ref": "Igneous Rocks — composition and intrusive rock classification",
+      "quote": "Intermediate rocks are those that have compositions between mafic and silicic.",
+      "url": "https://www.nps.gov/subjects/geology/igneous.htm",
+      "evidenceId": "8a25ad630cf44e22fb3e",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "U.S. National Park Service",
+      "ref": "Igneous Rocks — composition and intrusive rock classification",
+      "quote": "Intermediate rocks are those that have compositions between mafic and silicic.",
+      "url": "https://www.nps.gov/subjects/geology/igneous.htm",
+      "evidenceId": "8a25ad630cf44e22fb3e",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "U.S. National Park Service",
+      "ref": "Igneous Rocks — composition and intrusive rock classification",
+      "quote": "Intermediate rocks are those that have compositions between mafic and silicic.",
+      "url": "https://www.nps.gov/subjects/geology/igneous.htm",
+      "evidenceId": "8a25ad630cf44e22fb3e",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "U.S. National Park Service",
+      "ref": "Igneous Rocks — composition and intrusive rock classification",
+      "quote": "Intermediate rocks are those that have compositions between mafic and silicic.",
+      "url": "https://www.nps.gov/subjects/geology/igneous.htm",
+      "evidenceId": "8a25ad630cf44e22fb3e",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "U.S. National Park Service",
+      "ref": "Igneous Rocks — composition and intrusive rock classification",
+      "quote": "Intermediate rocks are those that have compositions between mafic and silicic.",
+      "url": "https://www.nps.gov/subjects/geology/igneous.htm",
+      "evidenceId": "8a25ad630cf44e22fb3e",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "National Park Service",
+      "ref": "Volcanic Eruptions",
+      "quote": "magmas with high silica content are highly viscous",
+      "url": "https://www.nps.gov/subjects/volcanoes/volcanic-eruptions.htm",
+      "evidenceId": "3cbd2c947863d4a0eae4",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "National Park Service",
+      "ref": "Volcanic Eruptions",
+      "quote": "magmas with high silica content are highly viscous",
+      "url": "https://www.nps.gov/subjects/volcanoes/volcanic-eruptions.htm",
+      "evidenceId": "3cbd2c947863d4a0eae4",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "National Park Service",
+      "ref": "Volcanic Eruptions",
+      "quote": "magmas with high silica content are highly viscous",
+      "url": "https://www.nps.gov/subjects/volcanoes/volcanic-eruptions.htm",
+      "evidenceId": "3cbd2c947863d4a0eae4",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "National Park Service",
+      "ref": "Volcanic Eruptions",
+      "quote": "magmas with high silica content are highly viscous",
+      "url": "https://www.nps.gov/subjects/volcanoes/volcanic-eruptions.htm",
+      "evidenceId": "3cbd2c947863d4a0eae4",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "National Park Service",
+      "ref": "Volcanic Eruptions",
+      "quote": "magmas with high silica content are highly viscous",
+      "url": "https://www.nps.gov/subjects/volcanoes/volcanic-eruptions.htm",
+      "evidenceId": "3cbd2c947863d4a0eae4",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "National Park Service",
+      "ref": "Volcanic Eruptions",
+      "quote": "magmas with high silica content are highly viscous",
+      "url": "https://www.nps.gov/subjects/volcanoes/volcanic-eruptions.htm",
+      "evidenceId": "3cbd2c947863d4a0eae4",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "National Park Service",
+      "ref": "Lava — Hawaiʻi Volcanoes National Park",
+      "quote": "The easy flowing, fluid nature of lava from Hawaiian volcanoes contributes to their shape",
+      "url": "https://www.nps.gov/havo/learn/nature/lava.htm",
+      "evidenceId": "c77677dd1f4a1078944a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "National Park Service",
+      "ref": "Lava — Hawaiʻi Volcanoes National Park",
+      "quote": "The easy flowing, fluid nature of lava from Hawaiian volcanoes contributes to their shape",
+      "url": "https://www.nps.gov/havo/learn/nature/lava.htm",
+      "evidenceId": "c77677dd1f4a1078944a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "National Park Service",
+      "ref": "Lava — Hawaiʻi Volcanoes National Park",
+      "quote": "The easy flowing, fluid nature of lava from Hawaiian volcanoes contributes to their shape",
+      "url": "https://www.nps.gov/havo/learn/nature/lava.htm",
+      "evidenceId": "c77677dd1f4a1078944a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Original question table inspected; NPS composition/mineral/viscosity tables and volcanic morphology explanations matched to each choice",
+    "contentHash": "32ec84bb585752c455d70dae158d7f4296dc700901d4131d95a0b1c74c481ee9"
+  }
+}

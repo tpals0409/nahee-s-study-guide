@@ -1,0 +1,20 @@
+{
+  "id": "c9d00d52736a7516b1c2",
+  "kind": "science",
+  "source": "American Thyroid Association",
+  "ref": "2017 ATA Guidelines for Thyroid Disease During Pregnancy and the Postpartum",
+  "url": "https://journals.sagepub.com/doi/10.1089/thy.2016.0457",
+  "excerpt": "Maternal autoantibodies of the immunoglobulin G (IgG) class are transported across the placenta",
+  "sourceHash": "3cc6a78e0685b6a552914a2c7544fb29f3fa27d5a949bede4d293b7fbaaca6d6",
+  "cacheSourceId": "ef5b2fd6237d2893a375",
+  "retrievedAt": "2026-11-07T00:14:23.386430+00:00",
+  "reviewedMappings": {
+    "2021-3-24:0": "모체의 IgG 자가항체가 태반을 통과. 항TSH수용체 항체가 신생아에게 일시적으로 존재하는 제시문은 모체 IgG의 수동 전달에 부합하여 ㄷ참. 검출만으로 B의 갑상샘항진증을 진단하지 않음.",
+    "2021-3-24:1": "모체의 IgG 자가항체가 태반을 통과. 항TSH수용체 항체가 신생아에게 일시적으로 존재하는 제시문은 모체 IgG의 수동 전달에 부합하여 ㄷ참. 검출만으로 B의 갑상샘항진증을 진단하지 않음.",
+    "2021-3-24:3": "모체의 IgG 자가항체가 태반을 통과. 항TSH수용체 항체가 신생아에게 일시적으로 존재하는 제시문은 모체 IgG의 수동 전달에 부합하여 ㄷ참. 검출만으로 B의 갑상샘항진증을 진단하지 않음.",
+    "2021-3-24:4": "모체의 IgG 자가항체가 태반을 통과. 항TSH수용체 항체가 신생아에게 일시적으로 존재하는 제시문은 모체 IgG의 수동 전달에 부합하여 ㄷ참. 검출만으로 B의 갑상샘항진증을 진단하지 않음.",
+    "2021-3-24:5": "모체의 IgG 자가항체가 태반을 통과. 항TSH수용체 항체가 신생아에게 일시적으로 존재하는 제시문은 모체 IgG의 수동 전달에 부합하여 ㄷ참. 검출만으로 B의 갑상샘항진증을 진단하지 않음."
+  },
+  "retrievalMethod": "Publisher search excerpt turn1152search11 reviewed: maternal IgG placental transfer and TSH-receptor antibody stimulation. Direct publisher fetch timed out; full guideline not inspected.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

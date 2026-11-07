@@ -1,0 +1,19 @@
+{
+  "id": "c4e57e04c2f66e522aee",
+  "kind": "science",
+  "source": "Royal Society of Chemistry",
+  "ref": "Manganese — Element information",
+  "url": "https://periodic-table.rsc.org/element/25/manganese",
+  "excerpt": "54.938",
+  "sourceHash": "e2c7d578615cfe3e098e3fa698f483858c379fb15bea5834f1c93d2bc76b2fd0",
+  "cacheSourceId": "3d998f02c8cfc816b077",
+  "retrievedAt": "2026-11-07T01:45:37.250141+00:00",
+  "reviewedMappings": {
+    "2023-3-17:0": "M=Mn, 산화수+2로 d5. 정사면체 e2t2³ 고스핀에서 무게중심 기준2(−3/5)+3(2/5)=0을 독립 계산하여 ⑤거짓.",
+    "2023-3-17:1": "Cl리간드 전하−1과 전체−2로 x−4=−2, x=+2. 원자번호25 Mn에 적용한 전하 보존 계산.",
+    "2023-3-17:4": "Mn중성[Ar]3d5 4s2에서2+는3d5. 약한장Cl의 정사면체 고스핀에서는5개 오비탈에 하나씩, 홀전자5개.",
+    "2023-3-17:5": "낮은e2개,높은t2 3개. 에너지차Δt와 무게중심조건2Ee+3Et=0으로 Ee=−0.6Δt,Et=0.4Δt. e2t2³의 CFSE0이므로−2Δt아님."
+  },
+  "retrievalMethod": "Indexed official element table: atomic number25, electron configuration[Ar]3d5 4s2 reviewed.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

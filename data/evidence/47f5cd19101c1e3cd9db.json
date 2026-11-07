@@ -1,0 +1,21 @@
+{
+  "id": "47f5cd19101c1e3cd9db",
+  "kind": "science",
+  "source": "Kansas State University — G. M. Wysin",
+  "ref": "Apparent and Absolute Magnitudes",
+  "url": "https://www.phys.ksu.edu/personal/wysin/astro/magnitudes.html",
+  "excerpt": "at a distance of 10 parsecs",
+  "sourceHash": "c917ad5f81d52b0143a5f4077644ecd3054ebb53402f7a9d54f97816cf0feadf",
+  "cacheSourceId": "886f636adc3b05c91cdf",
+  "retrievedAt": "2026-11-06T20:01:06.024763+00:00",
+  "reviewedMappings": {
+    "2015-3-39:0": "본문 21–28행에서 절대등급의 10pc 기준과 거리 역제곱 법칙 및 M=m−2.5log((d/10)^2)를 확인한다. 100pc의 거리지수는 +5이고 m합=−5+5=0이다. 성간흡수 무시 조건은 원문에 명시되어 있다.",
+    "2015-3-39:1": "본문 21–28행에서 절대등급의 10pc 기준과 거리 역제곱 법칙 및 M=m−2.5log((d/10)^2)를 확인한다. 100pc의 거리지수는 +5이고 m합=−5+5=0이다. 성간흡수 무시 조건은 원문에 명시되어 있다.",
+    "2015-3-39:2": "본문 21–28행에서 절대등급의 10pc 기준과 거리 역제곱 법칙 및 M=m−2.5log((d/10)^2)를 확인한다. 100pc의 거리지수는 +5이고 m합=−5+5=0이다. 성간흡수 무시 조건은 원문에 명시되어 있다.",
+    "2015-3-39:3": "본문 21–28행에서 절대등급의 10pc 기준과 거리 역제곱 법칙 및 M=m−2.5log((d/10)^2)를 확인한다. 100pc의 거리지수는 +5이고 m합=−5+5=0이다. 성간흡수 무시 조건은 원문에 명시되어 있다.",
+    "2015-3-39:4": "본문 21–28행에서 절대등급의 10pc 기준과 거리 역제곱 법칙 및 M=m−2.5log((d/10)^2)를 확인한다. 100pc의 거리지수는 +5이고 m합=−5+5=0이다. 성간흡수 무시 조건은 원문에 명시되어 있다.",
+    "2015-3-39:5": "본문 21–28행에서 절대등급의 10pc 기준과 거리 역제곱 법칙 및 M=m−2.5log((d/10)^2)를 확인한다. 100pc의 거리지수는 +5이고 m합=−5+5=0이다. 성간흡수 무시 조건은 원문에 명시되어 있다."
+  },
+  "retrievalMethod": "Direct web open; magnitude relation and absolute magnitude sections reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

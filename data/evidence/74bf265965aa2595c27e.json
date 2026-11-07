@@ -1,0 +1,18 @@
+{
+  "id": "74bf265965aa2595c27e",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e 42.3 Antibodies",
+  "url": "https://openstax.org/books/biology-2e/pages/42-3-antibodies",
+  "excerpt": "its role as an allergy mediator.",
+  "sourceHash": "2f386bbfb2f9a4c0b8550dc2f7902b8ed0b85140d9779b0f57b7325052db1da9",
+  "cacheSourceId": "5e9eaf0ea41be8086a5b",
+  "retrievedAt": "2026-11-07T06:01:49.205244+00:00",
+  "reviewedMappings": {
+    "2022-3-24:0": "Direct line 50 describes IgE allergy role; supports conventional interpretation of ㄷ, not exclusion of IgM from all hypersensitivity.",
+    "2022-3-24:3": "Direct line 50 describes IgE allergy role; supports conventional interpretation of ㄷ, not exclusion of IgM from all hypersensitivity.",
+    "2022-3-24:5": "Direct line 50 describes IgE allergy role; supports conventional interpretation of ㄷ, not exclusion of IgM from all hypersensitivity."
+  },
+  "retrievalMethod": "web open, direct page text",
+  "sourceHashScope": "Short reviewed excerpt only"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "2d9af3e1ab0d7566e0b7",
+  "kind": "science",
+  "source": "Sinauer Associates / NCBI Bookshelf",
+  "ref": "Developmental Biology, 6th ed., An Introduction to Early Developmental Processes",
+  "url": "https://www.ncbi.nlm.nih.gov/books/NBK9992/",
+  "excerpt": "The yolk-rich pole is referred to as the vegetal pole",
+  "sourceHash": "020806e72cffbbce741d2a86ddc753cd14e777ea3fcb95b25d30e026e0e56e0e",
+  "cacheSourceId": "bc7ddd12ee4eaf99bcd2",
+  "retrievedAt": "2026-11-07T01:56:20.232480+00:00",
+  "reviewedMappings": {
+    "2023-3-25:0": "난황이 풍부한 극의 명칭은 vegetal pole이므로 ㄱ 거짓.",
+    "2023-3-25:1": "난황이 풍부한 극의 명칭은 vegetal pole이므로 ㄱ 거짓.",
+    "2023-3-25:4": "난황이 풍부한 극의 명칭은 vegetal pole이므로 ㄱ 거짓."
+  },
+  "retrievalMethod": "NCBI Bookshelf의 교재 검색 색인 발췌 검토. 직접 열기는 브라우저 확인 화면으로 제한됨. 난황이 풍부한 극의 명칭은 vegetal pole이므로 ㄱ 거짓.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

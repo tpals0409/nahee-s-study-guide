@@ -1,0 +1,21 @@
+{
+  "id": "e21367729ff258ec0bcd",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e 7.1 — Energy in Living Systems",
+  "url": "https://openstax.org/books/biology-2e/pages/7-1-energy-in-living-systems",
+  "excerpt": "This very direct method of phosphorylation is called substrate-level phosphorylation.",
+  "sourceHash": "d2b1b0e8dcf7cabaaa585793d61e091ec69860e4a20e789ccc4b951357b481f4",
+  "cacheSourceId": "f8fca0e9aa9353f08633",
+  "retrievedAt": "2026-11-06T17:24:36.449272+00:00",
+  "reviewedMappings": {
+    "2012-3-23:0": "기질수준 인산화 절의 기질→ADP 인산기 전달과 산화적 인산화 절의 미토콘드리아 ATP 생성 확인. ㄱ·ㄴ 및 조합 판단 근거.",
+    "2012-3-23:1": "기질수준 인산화 절의 기질→ADP 인산기 전달과 산화적 인산화 절의 미토콘드리아 ATP 생성 확인. ㄱ·ㄴ 및 조합 판단 근거.",
+    "2012-3-23:2": "기질수준 인산화 절의 기질→ADP 인산기 전달과 산화적 인산화 절의 미토콘드리아 ATP 생성 확인. ㄱ·ㄴ 및 조합 판단 근거.",
+    "2012-3-23:3": "기질수준 인산화 절의 기질→ADP 인산기 전달과 산화적 인산화 절의 미토콘드리아 ATP 생성 확인. ㄱ·ㄴ 및 조합 판단 근거.",
+    "2012-3-23:4": "기질수준 인산화 절의 기질→ADP 인산기 전달과 산화적 인산화 절의 미토콘드리아 ATP 생성 확인. ㄱ·ㄴ 및 조합 판단 근거.",
+    "2012-3-23:5": "기질수준 인산화 절의 기질→ADP 인산기 전달과 산화적 인산화 절의 미토콘드리아 ATP 생성 확인. ㄱ·ㄴ 및 조합 판단 근거."
+  },
+  "retrievalMethod": "web.open; relevant sections directly reviewed",
+  "sourceHashScope": "Selected excerpt only; not full page"
+}

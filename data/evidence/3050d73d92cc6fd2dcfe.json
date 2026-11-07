@@ -1,0 +1,19 @@
+{
+  "id": "3050d73d92cc6fd2dcfe",
+  "kind": "science",
+  "source": "NCBI Bookshelf / Garland Science",
+  "ref": "Molecular Biology of the Cell, Chloroplasts and Photosynthesis",
+  "url": "https://www.ncbi.nlm.nih.gov/books/NBK26819/",
+  "excerpt": "specialized bundle-sheath cells",
+  "sourceHash": "d73049caa67176c3a8218d5ca4f1e75d6297e1950825e97a04044619deaa74de",
+  "cacheSourceId": "c99016e6467493b6392b",
+  "retrievedAt": "2026-11-07T02:35:22.672530+00:00",
+  "reviewedMappings": {
+    "2024-3-22:0": "Official indexed textbook excerpt reviewed: C4 carbon pump and bundle-sheath Calvin cycle; direct URL returned browser challenge. ㄱ and ㄷ true; ㄴ misidentifies the main C3 fixation site.",
+    "2024-3-22:2": "Official indexed textbook excerpt reviewed: C4 carbon pump and bundle-sheath Calvin cycle; direct URL returned browser challenge. C3 primary photosynthetic fixation is mesophyll; bundle-sheath specialization describes typical C4.",
+    "2024-3-22:4": "Official indexed textbook excerpt reviewed: C4 carbon pump and bundle-sheath Calvin cycle; direct URL returned browser challenge. ㄷ true, ㄴ false, ㄱ omitted.",
+    "2024-3-22:5": "Official indexed textbook excerpt reviewed: C4 carbon pump and bundle-sheath Calvin cycle; direct URL returned browser challenge. All three cannot be true because ㄴ is false."
+  },
+  "retrievalMethod": "Official indexed textbook excerpt reviewed: C4 carbon pump and bundle-sheath Calvin cycle; direct URL returned browser challenge.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

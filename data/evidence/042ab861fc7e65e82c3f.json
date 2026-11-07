@@ -1,0 +1,14 @@
+{
+  "id": "042ab861fc7e65e82c3f",
+  "kind": "science",
+  "source": "OpenStax · Chemistry 2e",
+  "ref": "13.2 Equilibrium Constants",
+  "url": "https://openstax.org/books/chemistry-2e/pages/13-2-equilibrium-constants",
+  "excerpt": "At a given temperature, the reaction quotient for a system at equilibrium is constant.",
+  "sourceHash": "ea0d1bd03aaf84c6dd360096eb6521ebe84029e45f11c42cd39a5e6261042c33",
+  "cacheSourceId": "deab5515889b71e65614",
+  "retrievedAt": "2026-11-06T15:37:18.629899+00:00",
+  "reviewedMappings": {
+    "2010-3-19:0": "원본 그래프 A 4→2 M, B 0→3 M 확인. 최소 정수 계수 2:3 및 Kc=3³/2²=27/4 독립 계산. 같은 반응식과 온도에서 초기농도와 K 무관."
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "0e411abe86c00fa09a40",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume 2, 10.2 Resistors in Series and Parallel",
+  "url": "https://openstax.org/books/university-physics-volume-2/pages/10-2-resistors-in-series-and-parallel",
+  "excerpt": "the voltage across the resistors in parallel are the same",
+  "sourceHash": "f49cc489b8a0dd189d27733fb404c3551da7566d5f1867ab45fd4220cb1a722c",
+  "cacheSourceId": "aa0d0adde7b32a39fa04",
+  "retrievedAt": "2026-11-06T23:50:23.261141+00:00",
+  "reviewedMappings": {
+    "2021-3-03:0": "Parallel formula gives R=5Rprime/(5+Rprime); substituting the option values gives 5/6,20/9,5/2,45/14,4 ohms respectively. Summary and unique solution Rprime=20.",
+    "2021-3-03:1": "Parallel formula gives R=5Rprime/(5+Rprime); substituting the option values gives 5/6,20/9,5/2,45/14,4 ohms respectively. Option 1, Rprime=1 ohms independently checked.",
+    "2021-3-03:2": "Parallel formula gives R=5Rprime/(5+Rprime); substituting the option values gives 5/6,20/9,5/2,45/14,4 ohms respectively. Option 2, Rprime=4 ohms independently checked.",
+    "2021-3-03:3": "Parallel formula gives R=5Rprime/(5+Rprime); substituting the option values gives 5/6,20/9,5/2,45/14,4 ohms respectively. Option 3, Rprime=5 ohms independently checked.",
+    "2021-3-03:4": "Parallel formula gives R=5Rprime/(5+Rprime); substituting the option values gives 5/6,20/9,5/2,45/14,4 ohms respectively. Option 4, Rprime=9 ohms independently checked.",
+    "2021-3-03:5": "Parallel formula gives R=5Rprime/(5+Rprime); substituting the option values gives 5/6,20/9,5/2,45/14,4 ohms respectively. Option 5, Rprime=20 ohms independently checked."
+  },
+  "retrievalMethod": "Original examination image reviewed: dashed load encloses BOTH 5-ohm and variable parallel resistors. Direct OpenStax 10.1 lines 70–74 and 99–101 reviewed for I=epsilon/(r+R), P=I²R; 10.2 lines 92–97 for parallel equivalent resistance. Independently differentiated P: dP/dR=epsilon²(r-R)/(r+R)^3. Positive Rprime yields 0<R<5; R=4 attainable uniquely at Rprime=20. Exact rational checks of all choices performed.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

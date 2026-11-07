@@ -1,0 +1,19 @@
+{
+  "id": "9de8294390722c0a8ee5",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e, 8.3 Using Light Energy to Make Organic Molecules",
+  "url": "https://openstax.org/books/biology-2e/pages/8-3-using-light-energy-to-make-organic-molecules",
+  "excerpt": "RuBisCO catalyzes a reaction between",
+  "sourceHash": "c33f1c852157fdc224231cd2ee0ccd6c22a7a5bacedce60d763982089e00a633",
+  "cacheSourceId": "e4458eee05b8126975ec",
+  "retrievedAt": "2026-11-07T00:11:23.325815+00:00",
+  "reviewedMappings": {
+    "2021-3-21:0": "Direct lines33-54: Calvin 회로의 탄소고정, CO2와 RuBP 반응, 명반응 ATP/NADPH 이용. ㄴ 참. 암반응이 밤에만 일어나거나 빛과 완전히 무관하다는 뜻은 아님.",
+    "2021-3-21:1": "Direct lines33-54: Calvin 회로의 탄소고정, CO2와 RuBP 반응, 명반응 ATP/NADPH 이용. ㄴ 참. 암반응이 밤에만 일어나거나 빛과 완전히 무관하다는 뜻은 아님.",
+    "2021-3-21:3": "Direct lines33-54: Calvin 회로의 탄소고정, CO2와 RuBP 반응, 명반응 ATP/NADPH 이용. ㄴ 참. 암반응이 밤에만 일어나거나 빛과 완전히 무관하다는 뜻은 아님.",
+    "2021-3-21:4": "Direct lines33-54: Calvin 회로의 탄소고정, CO2와 RuBP 반응, 명반응 ATP/NADPH 이용. ㄴ 참. 암반응이 밤에만 일어나거나 빛과 완전히 무관하다는 뜻은 아님."
+  },
+  "retrievalMethod": "Direct lines33-54: Calvin 회로의 탄소고정, CO2와 RuBP 반응, 명반응 ATP/NADPH 이용. ㄴ 참. 암반응이 밤에만 일어나거나 빛과 완전히 무관하다는 뜻은 아님.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "fc0273149397f7dd4d5f",
+  "kind": "science",
+  "source": "OpenStax · Biology 2e",
+  "ref": "46.1 Ecology of Ecosystems",
+  "url": "https://openstax.org/books/biology-2e/pages/46-1-ecology-of-ecosystems",
+  "excerpt": "some of these organisms can feed on species from more than one trophic level",
+  "sourceHash": "e33c0b76cedf8b9ac34eb4004a86dd7ec5a13ad874c1f0d1376d432c71553b65",
+  "cacheSourceId": "af30eaf8d147e6d68e94",
+  "retrievedAt": "2026-11-06T15:49:45.354392+00:00",
+  "reviewedMappings": {
+    "2010-3-27:3": "Food Chains and Food Webs의 생산자·1차·2차 소비자 정의와 다중 먹이단계 예시 대조. ③은 초식성 동물플랑크톤 조건에서 정의를 적용하고, ④는 생산자와 소비자를 함께 먹는 예시로 반증.",
+    "2010-3-27:4": "Food Chains and Food Webs의 생산자·1차·2차 소비자 정의와 다중 먹이단계 예시 대조. ③은 초식성 동물플랑크톤 조건에서 정의를 적용하고, ④는 생산자와 소비자를 함께 먹는 예시로 반증."
+  },
+  "retrievalMethod": "web tool source text read; relevant section context reviewed",
+  "sourceHashScope": "Selected excerpt only, not complete page"
+}

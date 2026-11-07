@@ -1,0 +1,16 @@
+{
+  "id": "cf7c02335c30034d855e",
+  "kind": "science",
+  "source": "National Park Service",
+  "ref": "NPS — Basaltic Lava Flows",
+  "url": "https://www.nps.gov/subjects/volcanoes/basaltic-lava-flows.htm",
+  "excerpt": "Most lava flows, including the ones from Kīlauea and Mauna Loa volcanoes in Hawai’i Volcanoes National Park, have basaltic compositions.",
+  "sourceHash": "7f82b48f9d25cf3d63266c76fcb7372fc01781852a6fa282eb739ffa1cf2cb02",
+  "cacheSourceId": "f654127f791b8ab67b60",
+  "retrievedAt": "2026-11-06T17:33:25.910796+00:00",
+  "reviewedMappings": {
+    "2012-3-33:3": "용암류 대부분이 현무암질이라는 설명으로 안산암질 우세를 배제."
+  },
+  "retrievalMethod": "web.open; relevant section reviewed; subscript/degree markup normalized where applicable",
+  "sourceHashScope": "Selected excerpt only; not full page"
+}

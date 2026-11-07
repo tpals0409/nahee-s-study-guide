@@ -1,0 +1,85 @@
+{
+  "id": "2019-3-17",
+  "summary": "약산 HA와 짝염기 A⁻가 함께 있는 완충 용액이므로 헨더슨-하셀바흐 식을 씁니다. pH = pKa + log([A⁻]/[HA]) = 4 + log(0.05/0.1) = 4 − log 2 = 4 − 0.3 = 3.7입니다.",
+  "choices": [
+    "2.3은 틀립니다. pH−pKa가 −1.7이 되려면 [A⁻]/[HA]가 10⁻¹·⁷이어야 하므로 주어진 농도비 0.5와 맞지 않습니다.",
+    "3.7: 정답입니다. [H₃O⁺] = Ka×[HA]/[A⁻] = 1.0×10⁻⁴ × 0.1/0.05 = 2.0×10⁻⁴ M입니다. 따라서 pH = −log(2.0×10⁻⁴) = 4 − log 2 = 3.7입니다.",
+    "4.0은 pKa 값입니다. pH=pKa가 되려면 산과 짝염기의 평형 농도가 같아야 합니다. 이 문제에서는 산의 농도가 더 높으므로 pH는 4보다 작습니다.",
+    "4.3은 [A⁻]/[HA]를 약 2로 넣을 때의 값입니다. 실제 비는 0.05/0.1=0.5이므로 로그 항은 음수입니다.",
+    "5.0이 되려면 [A⁻]/[HA]=10이어야 합니다. 주어진 비 0.5와 다르므로 틀립니다."
+  ],
+  "lawNote": "평형 농도를 주어진 농도로 근사합니다. 해리량은 약 2×10⁻⁴ M으로 0.05 M의 약 0.4%이므로 이 근사가 타당합니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "14.6 Buffers",
+      "quote": "This equation relates the pH, the ionization constant of a weak acid, and the concentrations of the weak conjugate acid-base pair",
+      "url": "https://openstax.org/books/chemistry-2e/pages/14-6-buffers",
+      "evidenceId": "11499e902b0affee254a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "14.6 Buffers",
+      "quote": "This equation relates the pH, the ionization constant of a weak acid, and the concentrations of the weak conjugate acid-base pair",
+      "url": "https://openstax.org/books/chemistry-2e/pages/14-6-buffers",
+      "evidenceId": "11499e902b0affee254a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "14.6 Buffers",
+      "quote": "This equation relates the pH, the ionization constant of a weak acid, and the concentrations of the weak conjugate acid-base pair",
+      "url": "https://openstax.org/books/chemistry-2e/pages/14-6-buffers",
+      "evidenceId": "11499e902b0affee254a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "14.6 Buffers",
+      "quote": "This equation relates the pH, the ionization constant of a weak acid, and the concentrations of the weak conjugate acid-base pair",
+      "url": "https://openstax.org/books/chemistry-2e/pages/14-6-buffers",
+      "evidenceId": "11499e902b0affee254a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "14.6 Buffers",
+      "quote": "This equation relates the pH, the ionization constant of a weak acid, and the concentrations of the weak conjugate acid-base pair",
+      "url": "https://openstax.org/books/chemistry-2e/pages/14-6-buffers",
+      "evidenceId": "11499e902b0affee254a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "14.6 Buffers",
+      "quote": "This equation relates the pH, the ionization constant of a weak acid, and the concentrations of the weak conjugate acid-base pair",
+      "url": "https://openstax.org/books/chemistry-2e/pages/14-6-buffers",
+      "evidenceId": "11499e902b0affee254a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Direct OpenStax buffer equation review; independent equilibrium quadratic, small-change approximation, and candidate concentration-ratio checks",
+    "contentHash": "341a1faba70c66af9619ede281bdae601c40ba01359cf259b77b766ab125233d"
+  }
+}

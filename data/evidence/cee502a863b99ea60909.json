@@ -1,0 +1,14 @@
+{
+  "id": "cee502a863b99ea60909",
+  "kind": "science",
+  "source": "OpenStax · University Physics Volume 3",
+  "ref": "7.1",
+  "url": "https://openstax.org/books/university-physics-volume-3/pages/7-1-wave-functions",
+  "excerpt": "The expectation value of kinetic energy in the x-direction requires the associated operator to act on the wave function:",
+  "sourceHash": "a4ce1e04ffdcd57c57f87548c7b8bcea0da6f592dcaa41cd513d0000815166e7",
+  "cacheSourceId": "6aa446bba624e1051352",
+  "retrievedAt": "2026-11-06T14:47:51.731921+00:00",
+  "reviewedMappings": {
+    "2009-3-07:0": "우물 안 H=K에서 ∫Ψ*HΨ dx를 적용. 고유함수 직교성과 Hψn=Enψn으로 교차항 0, (2/3)E1+(1/3)4E1=2E1. 모든 선지 검산."
+  }
+}

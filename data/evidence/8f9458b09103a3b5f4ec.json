@@ -1,0 +1,14 @@
+{
+  "id": "8f9458b09103a3b5f4ec",
+  "kind": "science",
+  "source": "OpenStax · Chemistry 2e",
+  "ref": "16.4",
+  "url": "https://openstax.org/books/chemistry-2e/pages/16-4-free-energy",
+  "excerpt": "ΔG=ΔH−TΔS",
+  "sourceHash": "596cfd626040ed8d4159f5a4ec206d9cb45d804cf19850fa75c86a692bbc52dd",
+  "cacheSourceId": "3c452d55dfd48cf783f8",
+  "retrievedAt": "2026-11-06T14:50:06.502156+00:00",
+  "reviewedMappings": {
+    "2009-3-13:0": "주어진 표에서 ΔH=-603−4(-111)=-159kJ/mol; ΔS=411−30−4(198)=-411J/(mol K). ΔG298=-36.522kJ/mol, ΔG400=5.4kJ/mol. ΔG°=-RT lnK로 K298≈2.52e6,K400≈0.197. 표준상태 비교이며 일반 조건은 반응지수에 따라 달라짐."
+  }
+}

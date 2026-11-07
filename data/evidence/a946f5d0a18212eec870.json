@@ -1,0 +1,20 @@
+{
+  "id": "a946f5d0a18212eec870",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Anatomy and Physiology 2e: Accessory Organs in Digestion: The Liver, Pancreas, and Gallbladder",
+  "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/23-6-accessory-organs-in-digestion-the-liver-pancreas-and-gallbladder",
+  "excerpt": "This change dramatically increases the surface area available for lipid-digesting enzyme activity.",
+  "sourceHash": "64fde7b621fabd8b059ae3085d062b3f060b6ac70919da09b8648a477df529a6",
+  "cacheSourceId": "07020577a9804c55a115",
+  "retrievedAt": "2026-11-06T21:18:36.110206+00:00",
+  "reviewedMappings": {
+    "2017-3-25:0": "담낭관과 간관이 총담관으로 합류하고 췌관은 더 아래에서 합류하는 해부학 설명. 원본 A의 막대는 담낭관 합류 아래 총담관, 췌관 합류 위에 위치.",
+    "2017-3-25:1": "Bile 절의 지방 유화 및 효소 작용 표면적 증가. 담즙 공급 차단은 지방 소화 효율 저하.",
+    "2017-3-25:2": "췌관 별도 경로 및 췌장 아밀레이스 설명. 원본 A가 췌관 합류 위이므로 췌액 직접 차단 아님.",
+    "2017-3-25:3": "췌관 및 췌장 뉴클레이스 설명. A결찰은 췌액 경로를 직접 막지 않음.",
+    "2017-3-25:5": "췌관 및 단백질 분해효소 분비/활성화 설명. A는 췌액 경로 밖."
+  },
+  "retrievalMethod": "Direct browser review of biliary anatomy, pancreatic duct, digestive enzyme table and vitamin absorption",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

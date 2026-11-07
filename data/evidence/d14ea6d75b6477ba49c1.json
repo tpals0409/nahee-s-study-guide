@@ -1,0 +1,21 @@
+{
+  "id": "d14ea6d75b6477ba49c1",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "College Physics 2e §29.3 Photon Energies and the Electromagnetic Spectrum",
+  "url": "https://openstax.org/books/college-physics-2e/pages/29-3-photon-energies-and-the-electromagnetic-spectrum",
+  "excerpt": "Power is energy per unit time",
+  "sourceHash": "93f4a143053037fdf0fad4913d526d4a37746b3ecfb429777814bc31bd7b2f2f",
+  "cacheSourceId": "ac061b987ff087b317b3",
+  "retrievedAt": "2026-11-06T23:08:45.374550+00:00",
+  "reviewedMappings": {
+    "2020-3-09:0": "Etotal=Pt=.040 J; Eph=hc/λ=3.96e-19 J; N≈1.01e17, two significant digits1.0e17.",
+    "2020-3-09:1": "1e16 photons times Eph gives .00396 J instead of .040 J.",
+    "2020-3-09:2": "5e16 photons times Eph gives .0198 J instead of .040 J.",
+    "2020-3-09:3": "Pt/(hc/λ)≈1.01e17 rounds to1.0e17 with supplied precision.",
+    "2020-3-09:4": "5e17 photons times Eph gives .198 J instead of .040 J.",
+    "2020-3-09:5": "1e18 photons times Eph gives .396 J instead of .040 J."
+  },
+  "retrievalMethod": "Direct web retrieval; reviewed photon energy equation29.12 lines31–37 and Example29.4 power-to-photon-rate conversion lines140–164. Only these physics relations used; unrelated biological statements not used.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "fd4e6d4d4a2f1cc0085c",
+  "kind": "science",
+  "source": "NCBI / SGD",
+  "ref": "NCBI Gene855828 GAL4, Saccharomyces cerevisiae S288C",
+  "url": "https://www.ncbi.nlm.nih.gov/gene/855828",
+  "excerpt": "DNA-binding transcription factor required for activating GAL genes",
+  "sourceHash": "392309fe99b020880fde8ba2e7242b11cafc1b85cabc2b5dcdd0bd74b825e776",
+  "cacheSourceId": "2c7f68bd2b1a56ff0a77",
+  "retrievedAt": "2026-11-07T04:04:19.543134+00:00",
+  "reviewedMappings": {
+    "2026-3-22:0": "Specific yeast Gal4 transcription factor disproves absence claimㄴ.",
+    "2026-3-22:3": "Specific yeast Gal4 transcription factor disproves absence claimㄴ.",
+    "2026-3-22:4": "Specific yeast Gal4 transcription factor disproves absence claimㄴ.",
+    "2026-3-22:5": "Specific yeast Gal4 transcription factor disproves absence claimㄴ."
+  },
+  "retrievalMethod": "Search-indexed primary database record",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

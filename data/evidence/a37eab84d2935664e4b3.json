@@ -1,0 +1,16 @@
+{
+  "id": "a37eab84d2935664e4b3",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "OpenStax University Physics Volume 1 §6.3",
+  "url": "https://openstax.org/books/university-physics-volume-1/pages/6-3-centripetal-force",
+  "excerpt": "Any force or combination of forces can cause a centripetal or radial acceleration.",
+  "sourceHash": "acce701786cd1ba81f7c26882a9aa6d5d6e2289a616a123cc05c6aa2aec58677",
+  "cacheSourceId": "a29c863168af256431d0",
+  "retrievedAt": "2026-11-06T17:45:57.452761+00:00",
+  "reviewedMappings": {
+    "2013-3-01:0": "原문 m20 L3 g10 T260을 구심방향 Newton 법칙 T-mg=mv²/L 및 에너지 보존 mgh=mv²/2에 적용. v²9, h.45 독립 계산; 선지별 장력 역산 완료."
+  },
+  "retrievalMethod": "web.open; centripetal acceleration and force equations / conservation equation and pendulum example directly reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

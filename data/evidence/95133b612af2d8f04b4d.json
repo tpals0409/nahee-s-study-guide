@@ -1,0 +1,14 @@
+{
+  "id": "95133b612af2d8f04b4d",
+  "kind": "science",
+  "source": "OpenStax · University Physics Volume 1",
+  "ref": "10.5 Calculating Moments of Inertia",
+  "url": "https://openstax.org/books/university-physics-volume-1/pages/10-5-calculating-moments-of-inertia",
+  "excerpt": "I=∫r2dm.",
+  "sourceHash": "3df6a8266e7b8eea6b8b2b4688d6bc1674571f2e9bf7e3d0de654acd45fccbca",
+  "cacheSourceId": "3c51a0c3817fa638ea26",
+  "retrievedAt": "2026-11-06T14:52:05.417754+00:00",
+  "reviewedMappings": {
+    "2010-3-02:0": "중심축 관성모멘트: 원형고리는 전 질량이 거리 R에 있어 MR². 원판은 면밀도 적분으로 MR²/2. 구는 본문 Example 10.12의 중심축 항 2MR²/5를 확인하고, 밀도 ρ=3M/(4πR³) 및 원판 적층 적분 (πρ/2)∫[-R,R](R²-z²)² dz로 재검산. α 계수는 고리 1, 원판 2, 구 5/2. 모든 선지 순서를 이 값과 비교."
+  }
+}

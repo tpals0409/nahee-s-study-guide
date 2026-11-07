@@ -1,0 +1,85 @@
+{
+  "id": "2018-3-15",
+  "summary": "ㄱ은 거짓입니다. z축의 리간드를 향하는 dz²가 dxz보다 강한 반발을 받아 에너지가 높습니다. ㄴ은 참입니다. 평면 사각형 Ni²⁺(d⁸)는 홀전자가 없어 반자기성입니다. ㄷ은 거짓입니다. 저스핀 정팔면체 Cr²⁺(d⁴)는 홀전자 2개, 사면체 Co²⁺(d⁷)는 3개입니다. 따라서 ㄴ만 고른 ②가 정답입니다.",
+  "choices": [
+    "ㄱ은 틀립니다. 리간드가 z축에 있으므로 dz²의 에너지는 dxz보다 높습니다.",
+    "정답입니다. Ni의 산화수는 +2이고 d⁸입니다. 평면 사각형 강한 장에서 가장 높은 dx²−y²는 비고 나머지 네 궤도에 전자가 짝지어 들어가므로 반자기성입니다.",
+    "ㄱ과 ㄷ 모두 틀립니다. dz²가 dxz보다 높으며, 두 착이온의 홀전자 수도 각각 2개와 3개로 다릅니다.",
+    "ㄴ은 옳지만 ㄷ은 틀립니다. CN⁻의 강한 장에서 Cr²⁺는 t₂g⁴로 배치되어 홀전자 2개입니다. 사면체 Co²⁺는 e⁴t₂³으로 홀전자 3개입니다.",
+    "ㄱ과 ㄷ이 틀리므로 세 진술을 모두 고를 수 없습니다. 옳은 것은 ㄴ뿐입니다."
+  ],
+  "lawNote": "주어진 구조와 결정장 모형을 따릅니다. 세 착이온에서 Ni·Cr·Co의 산화수는 모두 +2입니다. 강한 장의 저스핀과 약한 장의 고스핀을 구분하고, 사면체에는 g 첨자를 붙이지 않습니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §19.3 — Crystal Field Theory and Magnetic Properties",
+      "quote": "the orbitals closer to the ligands will be destabilized and raised in energy relative to the other set of orbitals.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/19-3-spectroscopic-and-magnetic-properties-of-coordination-compounds",
+      "evidenceId": "b414e141777a8c01eabd",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §19.3 — Crystal Field Theory and Magnetic Properties",
+      "quote": "the orbitals closer to the ligands will be destabilized and raised in energy relative to the other set of orbitals.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/19-3-spectroscopic-and-magnetic-properties-of-coordination-compounds",
+      "evidenceId": "b414e141777a8c01eabd",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §19.3 — Crystal Field Theory and Magnetic Properties",
+      "quote": "the orbitals closer to the ligands will be destabilized and raised in energy relative to the other set of orbitals.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/19-3-spectroscopic-and-magnetic-properties-of-coordination-compounds",
+      "evidenceId": "b414e141777a8c01eabd",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §19.3 — Crystal Field Theory and Magnetic Properties",
+      "quote": "the orbitals closer to the ligands will be destabilized and raised in energy relative to the other set of orbitals.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/19-3-spectroscopic-and-magnetic-properties-of-coordination-compounds",
+      "evidenceId": "b414e141777a8c01eabd",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §19.3 — Crystal Field Theory and Magnetic Properties",
+      "quote": "the orbitals closer to the ligands will be destabilized and raised in energy relative to the other set of orbitals.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/19-3-spectroscopic-and-magnetic-properties-of-coordination-compounds",
+      "evidenceId": "b414e141777a8c01eabd",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §19.3 — Crystal Field Theory and Magnetic Properties",
+      "quote": "the orbitals closer to the ligands will be destabilized and raised in energy relative to the other set of orbitals.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/19-3-spectroscopic-and-magnetic-properties-of-coordination-compounds",
+      "evidenceId": "b414e141777a8c01eabd",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Independent oxidation-state and d-orbital occupancy analysis; direct CFT source review with per-choice mappings",
+    "contentHash": "55a680a3241364fd8d0fea4f90b061a528f03feb205b0443110b2820e6e18571"
+  }
+}

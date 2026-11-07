@@ -1,0 +1,16 @@
+{
+  "id": "77024b6dae0b92c0ae77",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume 1 §4.3 Projectile Motion, equations 4.19–4.21 and velocity components",
+  "url": "https://openstax.org/books/university-physics-volume-1/pages/4-3-projectile-motion",
+  "excerpt": "vertical and horizontal motions are independent.",
+  "sourceHash": "a661f9901427a74f6fa3a8fb6f38e2c19495eb988ea2b7e1143969b17a4ec33b",
+  "cacheSourceId": "3ce4dadcb22fc2f01b16",
+  "retrievedAt": "2026-11-06T16:22:51.108014+00:00",
+  "reviewedMappings": {
+    "2011-3-08:0": "원문 식4.19 수평속도 일정, 식4.21 수직 등가속도, 풀이전략의 v=√(vx²+vy²) 대조. 현재 문항 수평투사40m/s, 착지50m/s,g=10을 대입. 아래방향 양수로 vy=10t, 2500=1600+100t²에서 t=3s. 2,3,4,5,6초 속력 각각44.7,50,56.6,64.0,72.1m/s 독립 검산."
+  },
+  "retrievalMethod": "web.run; horizontal/vertical equations and resultant speed reviewed",
+  "sourceHashScope": "Selected excerpt only; not full page"
+}

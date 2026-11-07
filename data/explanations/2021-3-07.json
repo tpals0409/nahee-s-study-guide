@@ -1,0 +1,85 @@
+{
+  "id": "2021-3-07",
+  "summary": "공기 변위를 기준으로 막힌 끝은 마디, 열린 끝은 배입니다. (가)의 기본음 파장은 4L입니다. 같은 음파가 양쪽 열린 관에서 정상파가 되려면 관 길이 ℓ=nλ/2=2nL(n=1,2,…)이어야 하므로 최소 길이는 2L, 정답은 ④입니다.",
+  "choices": [
+    "①의 L/2를 ℓ=2nL에 대입하면 n=1/4입니다. 양의 정수가 아니므로 정상파 조건을 만족하지 않습니다.",
+    "②의 L은 (가)의 길이입니다. 양쪽 열린 관에서 같은 파장을 유지하려면 최소 반파장인 2L이 필요하므로 틀립니다.",
+    "③의 3L/2를 대입하면 n=3/4입니다. 양의 정수가 아니므로 틀립니다.",
+    "④의 2L은 n=1인 기본 진동에 해당합니다. 양 끝이 변위의 배가 되는 최소 길이 λ/2=2L이므로 옳습니다.",
+    "⑤의 3L을 대입하면 n=3/2입니다. 길이가 2L보다 길더라도 허용 길이 2nL의 조건을 만족하지 않으므로 틀립니다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1, 17.4 Normal Modes of a Standing Sound Wave",
+      "quote": "The distance from a node to an antinode is one-fourth of a wavelength",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/17-4-normal-modes-of-a-standing-sound-wave",
+      "evidenceId": "7f41678852f716b8a6b0",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1, 17.4 Normal Modes of a Standing Sound Wave",
+      "quote": "The distance from a node to an antinode is one-fourth of a wavelength",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/17-4-normal-modes-of-a-standing-sound-wave",
+      "evidenceId": "7f41678852f716b8a6b0",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1, 17.4 Normal Modes of a Standing Sound Wave",
+      "quote": "The distance from a node to an antinode is one-fourth of a wavelength",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/17-4-normal-modes-of-a-standing-sound-wave",
+      "evidenceId": "7f41678852f716b8a6b0",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1, 17.4 Normal Modes of a Standing Sound Wave",
+      "quote": "The distance from a node to an antinode is one-fourth of a wavelength",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/17-4-normal-modes-of-a-standing-sound-wave",
+      "evidenceId": "7f41678852f716b8a6b0",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1, 17.4 Normal Modes of a Standing Sound Wave",
+      "quote": "The distance from a node to an antinode is one-fourth of a wavelength",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/17-4-normal-modes-of-a-standing-sound-wave",
+      "evidenceId": "7f41678852f716b8a6b0",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1, 17.4 Normal Modes of a Standing Sound Wave",
+      "quote": "The distance from a node to an antinode is one-fourth of a wavelength",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/17-4-normal-modes-of-a-standing-sound-wave",
+      "evidenceId": "7f41678852f716b8a6b0",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Original examination image checked: closed-open tube length L and open-open tube unknown length; end effects explicitly neglected. Direct OpenStax 17.4 prose lines 99–103,105,118–124,137–148 reviewed for displacement boundary conditions, closed fundamental lambda=4L, open modes lambda=2ell/n, and v=f lambda. Ignore erroneous image alt text at line 102 that reverses displacement nodes. Independently equate frequencies with same air sound speed: v/(4L)=nv/(2ell), hence ell=2nL; minimum n=1 gives 2L.",
+    "contentHash": "f977694bc6ef7557ba9cb1d4eb03e2b6a32fcf06fff484d1b56565211b6af357"
+  }
+}

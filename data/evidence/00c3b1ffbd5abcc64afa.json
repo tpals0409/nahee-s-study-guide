@@ -1,0 +1,20 @@
+{
+  "id": "00c3b1ffbd5abcc64afa",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e: The Process of Meiosis",
+  "url": "https://openstax.org/books/biology-2e/pages/11-1-the-process-of-meiosis",
+  "excerpt": "two nuclear divisions resulting in four nuclei",
+  "sourceHash": "73aa8a8e45e42417497fe19786b5d023c06dc46f21d8b30cf2843fce1c1e7b31",
+  "cacheSourceId": "2600b5f40eedcb29b7a6",
+  "retrievedAt": "2026-11-07T02:42:41.701306+00:00",
+  "reviewedMappings": {
+    "2024-3-28:0": "Direct meiosis I/II and Comparing Meiosis and Mitosis sections reviewed: standard four haploid products, prophase I synapsis, one replication/two divisions, crossover and independent assortment. General textbook comparison, not a universal count of functional ova.",
+    "2024-3-28:1": "Direct meiosis I/II and Comparing Meiosis and Mitosis sections reviewed: standard four haploid products, prophase I synapsis, one replication/two divisions, crossover and independent assortment. General textbook comparison, not a universal count of functional ova.",
+    "2024-3-28:3": "Direct meiosis I/II and Comparing Meiosis and Mitosis sections reviewed: standard four haploid products, prophase I synapsis, one replication/two divisions, crossover and independent assortment. General textbook comparison, not a universal count of functional ova.",
+    "2024-3-28:4": "Direct meiosis I/II and Comparing Meiosis and Mitosis sections reviewed: standard four haploid products, prophase I synapsis, one replication/two divisions, crossover and independent assortment. General textbook comparison, not a universal count of functional ova.",
+    "2024-3-28:5": "Direct meiosis I/II and Comparing Meiosis and Mitosis sections reviewed: standard four haploid products, prophase I synapsis, one replication/two divisions, crossover and independent assortment. General textbook comparison, not a universal count of functional ova."
+  },
+  "retrievalMethod": "Direct meiosis I/II and Comparing Meiosis and Mitosis sections reviewed: standard four haploid products, prophase I synapsis, one replication/two divisions, crossover and independent assortment. General textbook comparison, not a universal count of functional ova.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

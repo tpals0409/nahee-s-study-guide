@@ -1,0 +1,14 @@
+{
+  "id": "749a0379cc3886984f4c",
+  "kind": "science",
+  "source": "OpenStax · Chemistry 2e",
+  "ref": "12.7",
+  "url": "https://openstax.org/books/chemistry-2e/pages/12-7-catalysis",
+  "excerpt": "a substance that can increase the reaction rate without being consumed in the reaction.",
+  "sourceHash": "73824f6b60ffb980eaee9a02adbc33967c6d0d45c6da91a247321f98fb52f690",
+  "cacheSourceId": "84b87282559f5fc962e9",
+  "retrievedAt": "2026-11-06T14:54:47.073409+00:00",
+  "reviewedMappings": {
+    "2009-3-17:0": "Br-는 처음 소비됐다가 두번째단계에서 재생되므로 순소비되지 않는 촉매."
+  }
+}

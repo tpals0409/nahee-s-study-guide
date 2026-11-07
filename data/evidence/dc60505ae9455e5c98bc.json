@@ -1,0 +1,20 @@
+{
+  "id": "dc60505ae9455e5c98bc",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e 27.3 Animal Phylogeny",
+  "url": "https://openstax.org/books/biology-2e/pages/27-3-animal-phylogeny",
+  "excerpt": "two distinct clades of protostomes",
+  "sourceHash": "d77aff15b315e90844a420e27fd3bcb8ae791c15e12c2033746839b1dfed4d91",
+  "cacheSourceId": "1c2b85258093cb019514",
+  "retrievedAt": "2026-11-06T19:47:18.690680+00:00",
+  "reviewedMappings": {
+    "2015-3-30:0": "본문의 Bilateria가 후구동물과 촉수담륜·탈피 선구동물 계통으로 구분됨을 확인해 원문 (가)에 대응했다. 본문 38행의 respectively 순서 오기는 사용하지 않음.",
+    "2015-3-30:1": "본문의 Bilateria가 후구동물과 촉수담륜·탈피 선구동물 계통으로 구분됨을 확인해 원문 (가)에 대응했다. 본문 38행의 respectively 순서 오기는 사용하지 않음.",
+    "2015-3-30:2": "본문의 Bilateria가 후구동물과 촉수담륜·탈피 선구동물 계통으로 구분됨을 확인해 원문 (가)에 대응했다. 본문 38행의 respectively 순서 오기는 사용하지 않음.",
+    "2015-3-30:4": "본문의 Bilateria가 후구동물과 촉수담륜·탈피 선구동물 계통으로 구분됨을 확인해 원문 (가)에 대응했다. 본문 38행의 respectively 순서 오기는 사용하지 않음.",
+    "2015-3-30:5": "본문의 Bilateria가 후구동물과 촉수담륜·탈피 선구동물 계통으로 구분됨을 확인해 원문 (가)에 대응했다. 본문 38행의 respectively 순서 오기는 사용하지 않음."
+  },
+  "retrievalMethod": "Direct page relevant sections read; short excerpt transcribed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

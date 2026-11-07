@@ -1,0 +1,18 @@
+{
+  "id": "9019cfca710d61c510f1",
+  "kind": "science",
+  "source": "USGS",
+  "ref": "This Dynamic Earth — Understanding plate motions",
+  "url": "https://pubs.usgs.gov/gip/dynamic/understanding.html",
+  "excerpt": "Divergent boundaries -- where new crust is generated as the plates pull away from each other.",
+  "sourceHash": "511198998eed6f1297bcf81d542f94b4617659b5b6f9cc31e18f89d11a83f94b",
+  "cacheSourceId": "f17a9440a897bca9df26",
+  "retrievedAt": "2026-11-07T03:32:47.806353+00:00",
+  "reviewedMappings": {
+    "2025-3-34:0": "발산형·수렴형·변환 경계 절: 해령에서 해양 지각 생성, 섭입대 해구, 수평 이동 및 산안드레아스 예를 대조. ②·⑤ 반박.",
+    "2025-3-34:2": "발산형·수렴형·변환 경계 절: 해령에서 해양 지각 생성, 섭입대 해구, 수평 이동 및 산안드레아스 예를 대조. ②·⑤ 반박.",
+    "2025-3-34:5": "발산형·수렴형·변환 경계 절: 해령에서 해양 지각 생성, 섭입대 해구, 수평 이동 및 산안드레아스 예를 대조. ②·⑤ 반박."
+  },
+  "retrievalMethod": "Search-indexed USGS source text read; main Understanding page direct request returned 403",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

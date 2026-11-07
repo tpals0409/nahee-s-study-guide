@@ -1,0 +1,21 @@
+{
+  "id": "cd37fc2d2a9289ea23af",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 17.1 — Balancing Oxidation-Reduction Reactions",
+  "url": "https://openstax.org/books/chemistry/pages/17-1-balancing-oxidation-reduction-reactions",
+  "excerpt": "The number of electrons transferred from the oxidation half-reaction to the reduction half-reaction must be equal.",
+  "sourceHash": "d3c7be828c45180ad0f83d6cd2961cc2600cf4a06ec9a13e01efb0686e647692",
+  "cacheSourceId": "6708e7267bc9fd51763d",
+  "retrievedAt": "2026-11-06T17:18:53.207037+00:00",
+  "reviewedMappings": {
+    "2012-3-20:0": "N +5→+2로3전자획득, As +3→+5로2전자방출. 최소공배수6에서계수2/3. H/O/N/As 양변11/15/2/3 직접 검산, 계수합5:6으로 모든선지 비교.",
+    "2012-3-20:1": "N +5→+2로3전자획득, As +3→+5로2전자방출. 최소공배수6에서계수2/3. H/O/N/As 양변11/15/2/3 직접 검산, 계수합5:6으로 모든선지 비교.",
+    "2012-3-20:2": "N +5→+2로3전자획득, As +3→+5로2전자방출. 최소공배수6에서계수2/3. H/O/N/As 양변11/15/2/3 직접 검산, 계수합5:6으로 모든선지 비교.",
+    "2012-3-20:3": "N +5→+2로3전자획득, As +3→+5로2전자방출. 최소공배수6에서계수2/3. H/O/N/As 양변11/15/2/3 직접 검산, 계수합5:6으로 모든선지 비교.",
+    "2012-3-20:4": "N +5→+2로3전자획득, As +3→+5로2전자방출. 최소공배수6에서계수2/3. H/O/N/As 양변11/15/2/3 직접 검산, 계수합5:6으로 모든선지 비교.",
+    "2012-3-20:5": "N +5→+2로3전자획득, As +3→+5로2전자방출. 최소공배수6에서계수2/3. H/O/N/As 양변11/15/2/3 직접 검산, 계수합5:6으로 모든선지 비교."
+  },
+  "retrievalMethod": "web.search returned full relevant half-reaction balancing discussion; selected excerpt retained",
+  "sourceHashScope": "Selected excerpt only; not full page"
+}

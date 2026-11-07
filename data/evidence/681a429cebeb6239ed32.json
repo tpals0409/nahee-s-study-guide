@@ -1,0 +1,22 @@
+{
+  "id": "681a429cebeb6239ed32",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume 3 §7.4, equations 7.41–7.46 and Example 7.8",
+  "url": "https://openstax.org/books/university-physics-volume-3/pages/7-4-the-quantum-particle-in-a-box",
+  "excerpt": "The emitted photon carries away the energy difference",
+  "sourceHash": "cc1f2b5617f216075905819eedb8264161cf01252d523aa379575a0c27b2d20b",
+  "cacheSourceId": "795e41f6f59ef6912479",
+  "retrievedAt": "2026-11-07T02:20:54.870553+00:00",
+  "reviewedMappings": {
+    "2011-3-07:0": "식7.41 En=n²π²ℏ²/(2mL²), 식7.44 바닥상태 n=1, 본문 첫 들뜬상태 n=2 및 예제7.8 광자 에너지=E2−E1 대조. 폭 10→20nm로 E1′=E0/4, E2′=E0. 차이는3E0/4. ①최종준위,④초기준위,⑤두준위합,②는 실제 차이와 불일치. 초안②의 잘못된 오산 원인 추측 삭제.",
+    "2024-3-09:0": "무한 우물 준위 E_n=n²π²ℏ²/(2mL²)=n²h²/(8mL²), 바닥 n=1, 광자 에너지 차이를 직접 확인했다. 원문 상수 mc²=0.50MeV,hc=1240eV nm,L=0.31nm를 정확한 분수로 대입해 E1=4eV, E3−E1=32eV. 문제의 명시된 전이 에너지에 한정하고 실제 핵 구속이나 전이 확률을 주장하지 않는다.",
+    "2024-3-09:1": "무한 우물 준위 E_n=n²π²ℏ²/(2mL²)=n²h²/(8mL²), 바닥 n=1, 광자 에너지 차이를 직접 확인했다. 원문 상수 mc²=0.50MeV,hc=1240eV nm,L=0.31nm를 정확한 분수로 대입해 E1=4eV, E3−E1=32eV. 문제의 명시된 전이 에너지에 한정하고 실제 핵 구속이나 전이 확률을 주장하지 않는다.",
+    "2024-3-09:2": "무한 우물 준위 E_n=n²π²ℏ²/(2mL²)=n²h²/(8mL²), 바닥 n=1, 광자 에너지 차이를 직접 확인했다. 원문 상수 mc²=0.50MeV,hc=1240eV nm,L=0.31nm를 정확한 분수로 대입해 E1=4eV, E3−E1=32eV. 문제의 명시된 전이 에너지에 한정하고 실제 핵 구속이나 전이 확률을 주장하지 않는다.",
+    "2024-3-09:3": "무한 우물 준위 E_n=n²π²ℏ²/(2mL²)=n²h²/(8mL²), 바닥 n=1, 광자 에너지 차이를 직접 확인했다. 원문 상수 mc²=0.50MeV,hc=1240eV nm,L=0.31nm를 정확한 분수로 대입해 E1=4eV, E3−E1=32eV. 문제의 명시된 전이 에너지에 한정하고 실제 핵 구속이나 전이 확률을 주장하지 않는다.",
+    "2024-3-09:4": "무한 우물 준위 E_n=n²π²ℏ²/(2mL²)=n²h²/(8mL²), 바닥 n=1, 광자 에너지 차이를 직접 확인했다. 원문 상수 mc²=0.50MeV,hc=1240eV nm,L=0.31nm를 정확한 분수로 대입해 E1=4eV, E3−E1=32eV. 문제의 명시된 전이 에너지에 한정하고 실제 핵 구속이나 전이 확률을 주장하지 않는다.",
+    "2024-3-09:5": "무한 우물 준위 E_n=n²π²ℏ²/(2mL²)=n²h²/(8mL²), 바닥 n=1, 광자 에너지 차이를 직접 확인했다. 원문 상수 mc²=0.50MeV,hc=1240eV nm,L=0.31nm를 정확한 분수로 대입해 E1=4eV, E3−E1=32eV. 문제의 명시된 전이 에너지에 한정하고 실제 핵 구속이나 전이 확률을 주장하지 않는다."
+  },
+  "retrievalMethod": "Direct web open; reviewed equations 7.41–7.45 and photon energy-difference discussion",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,30 @@
+{
+  "summary": "가장 적합한 것은 ④입니다. 유성생식은 감수분열의 교차와 독립적인 염색체 분리, 배우자의 결합을 통해 다양한 유전자 조합을 만듭니다. 이러한 자손의 다양성이 환경 변화에 대응할 수 있는 가능성을 높입니다.",
+  "choices": [
+    "성장에 오래 걸린다는 사실만으로 유성생식의 적응상 이점을 설명할 수 없습니다. 이 문항의 핵심은 자손의 유전적 다양성입니다.",
+    "세포의 크기는 여기서 묻는 다양한 유전자 조합이 생기는 기전을 설명하지 않습니다.",
+    "유전체의 크기보다 기존 유전정보가 다양한 조합으로 재편성되는 점이 문항의 핵심입니다.",
+    "유전적으로 다양한 자손을 만들어 환경에 유리한 형질 조합이 나타날 수 있다는 설명이 가장 적합합니다.",
+    "많은 개체를 빠르게 생산하는 이점과 유전적 다양성의 이점은 다릅니다. 유성생식의 장점을 단순히 생산 개체 수로 설명하는 것은 적합하지 않습니다."
+  ],
+  "lawNote": "문항의 적응도 비교를 모든 생물·환경에 적용되는 법칙으로 외우면 안 됩니다. 유성생식의 장점과 비용은 환경과 생식 방식에 따라 달라지며, 여기서는 제시된 보기 중 유전적 다양성이 가장 적합한 이유입니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e §11.2 Sexual Reproduction",
+      "quote": "Identify variation among offspring as a potential evolutionary advantage of sexual reproduction",
+      "url": "https://openstax.org/books/biology-2e/pages/11-2-sexual-reproduction",
+      "evidenceId": "446b05efd4f164dd69bf",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "원문과 선지 비교 및 교재의 잠재적 진화 이점·유전적 재조합 근거 대조 후 저장정답④ 확인. 초안의 적응도 절대비례·성장시간 절대불리·뮐러래칫·고정 두배 비용 일반화 등 불필요한 주장 삭제.",
+    "contentHash": "09baa7a69dd53896e9a0a6b6cf7c57dbffcbae8548d6417faf97d22671206459"
+  }
+}

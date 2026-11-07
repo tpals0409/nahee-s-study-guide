@@ -1,0 +1,85 @@
+{
+  "id": "2026-3-03",
+  "summary": "얇은 고리의 질량중심축에 대한 관성모멘트는 I = MR²이고, 미끄러짐 없이 구르므로 ω = v/R입니다. 병진 운동에너지 (1/2)Mv²와 회전 운동에너지 (1/2)Iω² = (1/2)Mv²를 더하면 총 운동에너지는 Mv²입니다. 따라서 정답은 Mv²입니다.",
+  "lawNote": "",
+  "choices": [
+    "Mv²: 정답입니다. I=MR², ω=v/R이므로 병진 운동에너지와 회전 운동에너지는 각각 (1/2)Mv²입니다. 합은 Mv²입니다.",
+    "(3/2)Mv²: 오답입니다. 이 고리에서는 병진 항 (1/2)Mv²와 회전 항 (1/2)MR²(v/R)²의 합이 Mv²이므로 제시된 값과 다릅니다.",
+    "2Mv²: 오답입니다. 이 고리에서는 병진 항 (1/2)Mv²와 회전 항 (1/2)MR²(v/R)²의 합이 Mv²이므로 제시된 값과 다릅니다.",
+    "(5/2)Mv²: 오답입니다. 이 고리에서는 병진 항 (1/2)Mv²와 회전 항 (1/2)MR²(v/R)²의 합이 Mv²이므로 제시된 값과 다릅니다.",
+    "(7/2)Mv²: 오답입니다. 이 고리에서는 병진 항 (1/2)Mv²와 회전 항 (1/2)MR²(v/R)²의 합이 Mv²이므로 제시된 값과 다릅니다."
+  ],
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1, 11.1 Rolling Motion",
+      "quote": "the kinetic energy, or energy of motion, is equally shared between linear and rotational motion.",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/11-1-rolling-motion",
+      "evidenceId": "408709ecf91f209ce70f",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1, 11.1 Rolling Motion",
+      "quote": "the kinetic energy, or energy of motion, is equally shared between linear and rotational motion.",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/11-1-rolling-motion",
+      "evidenceId": "408709ecf91f209ce70f",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1, 11.1 Rolling Motion",
+      "quote": "the kinetic energy, or energy of motion, is equally shared between linear and rotational motion.",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/11-1-rolling-motion",
+      "evidenceId": "408709ecf91f209ce70f",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1, 11.1 Rolling Motion",
+      "quote": "the kinetic energy, or energy of motion, is equally shared between linear and rotational motion.",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/11-1-rolling-motion",
+      "evidenceId": "408709ecf91f209ce70f",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1, 11.1 Rolling Motion",
+      "quote": "the kinetic energy, or energy of motion, is equally shared between linear and rotational motion.",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/11-1-rolling-motion",
+      "evidenceId": "408709ecf91f209ce70f",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1, 11.1 Rolling Motion",
+      "quote": "the kinetic energy, or energy of motion, is equally shared between linear and rotational motion.",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/11-1-rolling-motion",
+      "evidenceId": "408709ecf91f209ce70f",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Complete original question and options inspected in 2026-3-03_1.webp; independent inertia integral and no-slip energy sum; directly reviewed OpenStax rolling constraint and hollow-wheel example; canonical answer [1] agrees.",
+    "contentHash": "3c32131139e523f5e3c18717c0ed1648e278794cd72dda43a6a477a341f4226f"
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "id": "2020-3-18",
+  "summary": "실험 I에서 1/[A]가 시간에 따라 직선으로 증가하므로 A에 대해 2차 반응입니다. 기울기로 구한 겉보기 속도상수 0.005 mM⁻¹ s⁻¹와 30초에서의 [A] = 4.00 mM를 이용하면 A의 소모속도는 0.080 mM/s입니다. 계수비 2A : 1C에 따라 C의 생성속도는 그 절반인 4.0×10⁻² mmol L⁻¹ s⁻¹입니다.",
+  "choices": [
+    "1.0×10⁻²: 오답입니다. 이 값이면 A의 소모속도는 0.020 mM/s이고, 30초의 [A] = 4.00 mM에서 필요한 k′은 0.00125 mM⁻¹ s⁻¹입니다. 표에서 구한 0.0050과 다릅니다.",
+    "2.0×10⁻²: 오답입니다. 이 값이면 A의 소모속도는 0.040 mM/s이고, 필요한 k′은 0.00250 mM⁻¹ s⁻¹입니다. 표에서 구한 0.0050과 다릅니다.",
+    "4.0×10⁻²: 정답입니다. -d[A]/dt = k'[A]² = 0.005 × (4.00)² = 0.080 mM/s입니다. C는 A 2몰이 소모될 때 1몰 생성되므로 d[C]/dt = 0.080/2 = 0.040 mmol L⁻¹ s⁻¹입니다.",
+    "8.0×10⁻²: 오답입니다. 이 값은 A의 소모속도 0.080 mM/s 자체입니다. 반응식 2A + B → C + D의 계수비를 반영해 절반으로 나누어야 C의 생성속도가 됩니다.",
+    "1.0×10⁻¹: 오답입니다. (10.0−4.00)/(2×30) = 0.10은 0~30초 동안 C의 평균 생성속도입니다. 문제는 30초 시점의 순간 생성속도 0.040 mmol L⁻¹ s⁻¹를 묻습니다."
+  ],
+  "lawNote": "B의 농도가 일정하다는 조건에서 k′을 −d[A]/dt = k′[A]²의 상수로 정의합니다. 반응식의 계수로 정규화한 반응속도와 A의 소모속도를 구별해야 합니다. 표의 농도는 반올림되어 있으므로 역수의 등간격 관계도 그 정밀도에서 판단합니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e 12.4 Integrated Rate Laws",
+      "quote": "For these second-order reactions, the integrated rate law is:",
+      "url": "https://openstax.org/books/chemistry-2e/pages/12-4-integrated-rate-laws",
+      "evidenceId": "ccd8bf22c42fffcb082b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e 12.4 Integrated Rate Laws",
+      "quote": "For these second-order reactions, the integrated rate law is:",
+      "url": "https://openstax.org/books/chemistry-2e/pages/12-4-integrated-rate-laws",
+      "evidenceId": "ccd8bf22c42fffcb082b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e 12.4 Integrated Rate Laws",
+      "quote": "For these second-order reactions, the integrated rate law is:",
+      "url": "https://openstax.org/books/chemistry-2e/pages/12-4-integrated-rate-laws",
+      "evidenceId": "ccd8bf22c42fffcb082b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e 12.4 Integrated Rate Laws",
+      "quote": "For these second-order reactions, the integrated rate law is:",
+      "url": "https://openstax.org/books/chemistry-2e/pages/12-4-integrated-rate-laws",
+      "evidenceId": "ccd8bf22c42fffcb082b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e 12.4 Integrated Rate Laws",
+      "quote": "For these second-order reactions, the integrated rate law is:",
+      "url": "https://openstax.org/books/chemistry-2e/pages/12-4-integrated-rate-laws",
+      "evidenceId": "ccd8bf22c42fffcb082b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e 12.4 Integrated Rate Laws",
+      "quote": "For these second-order reactions, the integrated rate law is:",
+      "url": "https://openstax.org/books/chemistry-2e/pages/12-4-integrated-rate-laws",
+      "evidenceId": "ccd8bf22c42fffcb082b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "OpenStax Chemistry 2e §12.1 Chemical Reaction Rates",
+      "quote": "the instantaneous rates derived from all three species involved in the reaction are related by their stoichiometric factors.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/12-1-chemical-reaction-rates",
+      "evidenceId": "34bfdb8d17ffc6a3f8c7",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "OpenStax Chemistry 2e §12.1 Chemical Reaction Rates",
+      "quote": "the instantaneous rates derived from all three species involved in the reaction are related by their stoichiometric factors.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/12-1-chemical-reaction-rates",
+      "evidenceId": "34bfdb8d17ffc6a3f8c7",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "OpenStax Chemistry 2e §12.1 Chemical Reaction Rates",
+      "quote": "the instantaneous rates derived from all three species involved in the reaction are related by their stoichiometric factors.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/12-1-chemical-reaction-rates",
+      "evidenceId": "34bfdb8d17ffc6a3f8c7",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "OpenStax Chemistry 2e §12.1 Chemical Reaction Rates",
+      "quote": "the instantaneous rates derived from all three species involved in the reaction are related by their stoichiometric factors.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/12-1-chemical-reaction-rates",
+      "evidenceId": "34bfdb8d17ffc6a3f8c7",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "OpenStax Chemistry 2e §12.1 Chemical Reaction Rates",
+      "quote": "the instantaneous rates derived from all three species involved in the reaction are related by their stoichiometric factors.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/12-1-chemical-reaction-rates",
+      "evidenceId": "34bfdb8d17ffc6a3f8c7",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "OpenStax Chemistry 2e §12.1 Chemical Reaction Rates",
+      "quote": "the instantaneous rates derived from all three species involved in the reaction are related by their stoichiometric factors.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/12-1-chemical-reaction-rates",
+      "evidenceId": "34bfdb8d17ffc6a3f8c7",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "원본 표 대조; OpenStax 적분 속도식·화학량론적 속도비 직접 검토; 두 실험 전체 농도 반올림 일치 및 분수 계산 검증; 평균/순간속도 구분과 선지별 근거 매칭",
+    "contentHash": "0dabbce8c2d8af1d65655ed02e4b83fbc81ddde92fbde9a8e55784362b259f7b"
+  }
+}

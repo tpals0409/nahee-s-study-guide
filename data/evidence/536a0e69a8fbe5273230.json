@@ -1,0 +1,21 @@
+{
+  "id": "536a0e69a8fbe5273230",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume 2 §1.1 — Thermal Equilibrium",
+  "url": "https://openstax.org/books/university-physics-volume-2/pages/1-1-temperature-and-thermal-equilibrium",
+  "excerpt": "if two objects are in thermal equilibrium, they have the same temperature.",
+  "sourceHash": "ed6b901419a89159ba02cfaaedee1a4482ab7a48fd03a87730b5187638c02d80",
+  "cacheSourceId": "44b5e7f1a601632552a9",
+  "retrievedAt": "2026-11-06T21:54:40.620066+00:00",
+  "reviewedMappings": {
+    "2018-3-18:0": "열평형에서 온도가 같다는 본문을 전도성 고정 금속판으로 연결된 시험의 A/B에 적용. 최종TA=TB=(5/3)T0이므로 A의 내부에너지 증가도 포함. 각 선지의 수치 비교에 사용.",
+    "2018-3-18:1": "열평형에서 온도가 같다는 본문을 전도성 고정 금속판으로 연결된 시험의 A/B에 적용. 최종TA=TB=(5/3)T0이므로 A의 내부에너지 증가도 포함. 각 선지의 수치 비교에 사용.",
+    "2018-3-18:2": "열평형에서 온도가 같다는 본문을 전도성 고정 금속판으로 연결된 시험의 A/B에 적용. 최종TA=TB=(5/3)T0이므로 A의 내부에너지 증가도 포함. 각 선지의 수치 비교에 사용.",
+    "2018-3-18:3": "열평형에서 온도가 같다는 본문을 전도성 고정 금속판으로 연결된 시험의 A/B에 적용. 최종TA=TB=(5/3)T0이므로 A의 내부에너지 증가도 포함. 각 선지의 수치 비교에 사용.",
+    "2018-3-18:4": "열평형에서 온도가 같다는 본문을 전도성 고정 금속판으로 연결된 시험의 A/B에 적용. 최종TA=TB=(5/3)T0이므로 A의 내부에너지 증가도 포함. 각 선지의 수치 비교에 사용.",
+    "2018-3-18:5": "열평형에서 온도가 같다는 본문을 전도성 고정 금속판으로 연결된 시험의 A/B에 적용. 최종TA=TB=(5/3)T0이므로 A의 내부에너지 증가도 포함. 각 선지의 수치 비교에 사용."
+  },
+  "retrievalMethod": "Direct web open; relevant equations and paragraphs reviewed; selected verbatim excerpt retained",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

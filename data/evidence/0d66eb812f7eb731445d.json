@@ -1,0 +1,21 @@
+{
+  "id": "0d66eb812f7eb731445d",
+  "kind": "science",
+  "source": "Southern California Earthquake Data Center, Caltech",
+  "ref": "Earthquake Information — Glossary",
+  "url": "https://scedc.caltech.edu/earthquake/glossary.html",
+  "excerpt": "particle vibrate in a direction perpendicular to that of the propagation of the wave.",
+  "sourceHash": "9201f17f837f9390e8b78f9a8619bdf0e5b240b1a27679cb0b951a59a8675d02",
+  "cacheSourceId": "e131e886d89cf9ca8a7b",
+  "retrievedAt": "2026-11-07T00:30:35.842842+00:00",
+  "reviewedMappings": {
+    "2021-3-34:0": "진원·진앙 정의, P와 S의 실체파 분류, S의 수직 진동을 각 용어 항목에서 확인하여 ㄴ만 참으로 판정.",
+    "2021-3-34:1": "hypocenter는 지진 시작점, epicenter는 그 위 지표점이므로 ㄱ 거짓.",
+    "2021-3-34:2": "P-wave와 S-wave 항목 모두 body wave로 명시. 다른 두 진술은 정의와 충돌.",
+    "2021-3-34:3": "S-wave의 입자 진동은 진행방향에 수직; P-wave의 진동은 평행. ㄷ 거짓이며 ㄴ 누락.",
+    "2021-3-34:4": "ㄴ은 실체파 분류에 맞으나 ㄱ은 진앙과 진원을 혼동.",
+    "2021-3-34:5": "ㄴ은 참이나 ㄷ은 S-wave의 수직 진동과 충돌."
+  },
+  "retrievalMethod": "Direct glossary review: epicenter, hypocenter, P-wave and S-wave entries. Short excerpt from S-wave entry.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

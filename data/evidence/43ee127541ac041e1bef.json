@@ -1,0 +1,16 @@
+{
+  "id": "43ee127541ac041e1bef",
+  "kind": "science",
+  "source": "U.S. National Park Service",
+  "ref": "Surrogate Species: Piecing Together the Whole Picture",
+  "url": "https://www.nps.gov/articles/surrogate-species-piecing-together-the-whole-picture.htm",
+  "excerpt": "disproportionate to their size or abundance",
+  "sourceHash": "d4fe3fc837819301a69c7757dc76d05a4719b4f00a675c1504ab31392162e749",
+  "cacheSourceId": "1000cad06ac7c7ab975b",
+  "retrievedAt": "2026-11-06T16:42:27.378798+00:00",
+  "reviewedMappings": {
+    "2011-3-28:0": "본문에서 핵심종의 풍부도 대비 큰 영향(ㄹ)과 환경변화를 나타내는 지표종(ㄷ의 명칭 오류)을 구별. 핵심종 영향이 개체수와 전혀 무관하다는 뜻으로 확대하지 않음."
+  },
+  "retrievalMethod": "web.run publisher/agency page reviewed",
+  "sourceHashScope": "Selected excerpt only; not full page"
+}

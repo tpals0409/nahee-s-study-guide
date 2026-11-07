@@ -1,0 +1,19 @@
+{
+  "id": "4b44dd7f709c358dc045",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "40.3 Mammalian Heart and Blood Vessels",
+  "url": "https://openstax.org/books/biology-2e/pages/40-3-mammalian-heart-and-blood-vessels",
+  "excerpt": "The left atrium then receives the oxygen-rich blood from the lungs via the pulmonary veins.",
+  "sourceHash": "1708c9b74e45948bbb9bc76c816f13816a555c420f751f197628fc5934330bb2",
+  "cacheSourceId": "1897aac3f07d59bb799d",
+  "retrievedAt": "2026-11-06T22:42:59.408181+00:00",
+  "reviewedMappings": {
+    "2019-3-26:0": "폐동맥으로 나간 혈액이 폐에서 산소화되어 폐정맥으로 돌아와 ㄴ 참.",
+    "2019-3-26:1": "누락된 ㄴ이 참임을 폐순환 경로로 확인.",
+    "2019-3-26:2": "ㄴ은 참이나 ㄱ도 필요.",
+    "2019-3-26:4": "정답 조합 ㄴ의 폐정맥 산소화 및 폐동맥과의 비교."
+  },
+  "retrievalMethod": "Direct web find: 33–49 pulmonary flow and oxygenation, 83–84 artery direction. Applied to the normal mammalian circuit in the question.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "f6b676f3917c6bfde844",
+  "kind": "science",
+  "source": "OpenStax · University Physics Volume 2",
+  "ref": "4.6",
+  "url": "https://openstax.org/books/university-physics-volume-2/pages/4-6-entropy",
+  "excerpt": "If the temperature changes during the heat flow, you must keep it inside the integral to solve for the change in entropy.",
+  "sourceHash": "189e8815150907532105bf939ce6276087d3e71eee28b5a6085c201a5c76b700",
+  "cacheSourceId": "cf55b1f2f55ea8e54f23",
+  "retrievedAt": "2026-11-06T14:44:48.820135+00:00",
+  "reviewedMappings": {
+    "2009-3-09:0": "물체는 ΔS=C ln(300/360)=-0.182C, 열저장체는 ΔS=C(360-300)/300=0.2C로 독립 계산했다. 원문의 온도 변화 적분과 일정 온도에서 Q/T 공식을 대조했으며 합은 0.018C이다."
+  }
+}

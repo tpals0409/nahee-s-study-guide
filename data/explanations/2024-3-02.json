@@ -1,0 +1,85 @@
+{
+  "id": "2024-3-02",
+  "summary": "정답은 ③, T(나)/T(가)=3/4입니다. 이상적인 실·도르래 모형에서 B의 질량을 M이라 하면 2mg=(7m+M)a, 2mg=(M+2m)·2a입니다. 따라서 M=3m, a=g/5입니다. C에 운동방정식을 적용하면 T(가)=8mg/5, T(나)=6mg/5입니다.",
+  "choices": [
+    "1/2: 오답입니다. 이 값이 나오려면 T(나)가 4mg/5이어야 합니다. 실제로는 B의 질량이 3m이고 (나)의 가속도가 2a = 2g/5이므로 T(나) = 2m(g − 2g/5) = 6mg/5입니다. 따라서 이 비는 성립하지 않습니다.",
+    "5/8은 옳지 않습니다. 두 경우의 운동방정식에서 구한 장력은 각각 8mg/5와 6mg/5이므로 비는 6/8=3/4입니다.",
+    "3/4: 정답입니다. 운동 방정식에서 mB = 3m, a = g/5를 얻습니다. T(가) = 2m(g − a) = 8mg/5이고, T(나) = 2m(g − 2a) = 6mg/5입니다. 따라서 비는 (6/5)/(8/5) = 3/4입니다.",
+    "7/8: 오답입니다. 이 비가 나오려면 T(나)가 7mg/5여야 하고, 그러면 (나)의 가속도가 3g/10이 되어야 합니다. 그런데 (나)의 가속도는 2a = 2g/5이므로 맞지 않습니다.",
+    "1: 오답입니다. 장력이 같으려면 C의 가속도가 변하지 않아야 합니다. 실제로는 C의 가속도가 a에서 2a로 커지므로 T = 2m(g − 가속도)는 작아집니다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1, 6.1, Example 6.4 Two Attached Blocks",
+      "quote": "the tension is the same throughout the string",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/6-1-solving-problems-with-newtons-laws",
+      "evidenceId": "c07c3869ef4dc53e7cb8",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1, 6.1, Example 6.4 Two Attached Blocks",
+      "quote": "the tension is the same throughout the string",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/6-1-solving-problems-with-newtons-laws",
+      "evidenceId": "c07c3869ef4dc53e7cb8",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1, 6.1, Example 6.4 Two Attached Blocks",
+      "quote": "the tension is the same throughout the string",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/6-1-solving-problems-with-newtons-laws",
+      "evidenceId": "c07c3869ef4dc53e7cb8",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1, 6.1, Example 6.4 Two Attached Blocks",
+      "quote": "the tension is the same throughout the string",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/6-1-solving-problems-with-newtons-laws",
+      "evidenceId": "c07c3869ef4dc53e7cb8",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1, 6.1, Example 6.4 Two Attached Blocks",
+      "quote": "the tension is the same throughout the string",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/6-1-solving-problems-with-newtons-laws",
+      "evidenceId": "c07c3869ef4dc53e7cb8",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1, 6.1, Example 6.4 Two Attached Blocks",
+      "quote": "the tension is the same throughout the string",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/6-1-solving-problems-with-newtons-laws",
+      "evidenceId": "c07c3869ef4dc53e7cb8",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Original figure inspected; exact rational force-balance check; direct OpenStax connected-block model review",
+    "contentHash": "fa4ae2083aaa7e132e88c6ebfb36343c7e25961bc18dda31f959b59699f3b5c6"
+  }
+}

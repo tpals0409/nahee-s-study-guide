@@ -1,0 +1,16 @@
+{
+  "id": "1ed3482e1e923b5272bd",
+  "kind": "science",
+  "source": "OpenStax · Biology 2e",
+  "ref": "45.3 Environmental Limits to Population Growth",
+  "url": "https://openstax.org/books/biology-2e/pages/45-3-environmental-limits-to-population-growth",
+  "excerpt": "is subtracted from the birth rate",
+  "sourceHash": "fe984898a18f0042c43a6004a63763e58446a01d7245968cf97d43b53d3f8240",
+  "cacheSourceId": "0f13f34d2834a7494f3e",
+  "retrievedAt": "2026-11-06T15:52:06.973209+00:00",
+  "reviewedMappings": {
+    "2010-3-29:0": "출생률에서 사망률을 빼 개체군 성장률을 구하는 식과 문맥 대조. ㄱ 판정."
+  },
+  "retrievalMethod": "web.open source section and surrounding context reviewed",
+  "sourceHashScope": "Selected excerpt only"
+}

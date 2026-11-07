@@ -1,0 +1,86 @@
+{
+  "id": "2014-3-39",
+  "summary": "정답은 ① 도플러 효과입니다. 별과 관측자가 시선 방향으로 가까워지면 관측 파장이 짧아지는 청색편이가, 멀어지면 파장이 길어지는 적색편이가 나타납니다. 문제는 이러한 상대 운동에 따른 스펙트럼선의 이동을 묻습니다.",
+  "choices": [
+    "정답입니다. 도플러 효과는 광원과 관측자의 상대 운동에 따라 관측 파장이 달라지는 현상입니다. 문제의 접근에 따른 청색편이와 후퇴에 따른 적색편이를 설명합니다.",
+    "오답입니다. 케플러 법칙은 행성의 타원 궤도, 같은 시간에 쓸고 지나가는 같은 면적, 공전 주기 제곱과 궤도 긴반지름 세제곱의 비례 관계를 다룹니다. 시선 운동에 따른 스펙트럼선 이동 자체를 설명하는 법칙은 아닙니다.",
+    "오답입니다. 제만 효과는 외부 자기장에 의해 원자 에너지 준위와 스펙트럼선이 분리되는 현상입니다. 문제의 상대 운동에 따른 파장 이동과 구별됩니다.",
+    "오답입니다. 빈의 변위법칙은 흑체의 절대온도가 높을수록 파장별 복사 분포의 최대점이 짧은 파장 쪽으로 옮겨진다는 관계입니다. 복사 분포의 최대점 변화와 특정 스펙트럼선의 운동에 따른 이동은 다릅니다.",
+    "오답입니다. 스테판–볼츠만 법칙은 흑체가 단위 시간·단위 면적당 방출하는 전체 복사 에너지가 절대온도의 네제곱에 비례한다는 관계입니다. 스펙트럼선의 청색·적색편이를 설명하는 법칙은 아닙니다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Astronomy 2e §5.6 The Doppler Effect",
+      "quote": "When the source of waves moves toward you, the wavelength decreases a bit.",
+      "url": "https://openstax.org/books/astronomy-2e/pages/5-6-the-doppler-effect",
+      "evidenceId": "e99587cab1fe8b6ee741",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Astronomy 2e §5.6 The Doppler Effect",
+      "quote": "When the source of waves moves toward you, the wavelength decreases a bit.",
+      "url": "https://openstax.org/books/astronomy-2e/pages/5-6-the-doppler-effect",
+      "evidenceId": "e99587cab1fe8b6ee741",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Astronomy 2e §3.1 The Laws of Planetary Motion",
+      "quote": "the orbits of all the planets are ellipses",
+      "url": "https://openstax.org/books/astronomy-2e/pages/3-1-the-laws-of-planetary-motion",
+      "evidenceId": "14104b594f2e00a0ad46",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics 3 §8.2 — Zeeman effect",
+      "quote": "The Zeeman effect refers to the splitting of spectral lines by an external magnetic field.",
+      "url": "https://openstax.org/books/university-physics-volume-3/pages/8-2-orbital-magnetic-dipole-moment-of-the-electron",
+      "evidenceId": "72198caa472991592dc0",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Astronomy 2e §5.2 — Wien law",
+      "quote": "as the temperature increases, the peak wavelength decreases.",
+      "url": "https://openstax.org/books/astronomy-2e/pages/5-2-the-electromagnetic-spectrum",
+      "evidenceId": "8ddc74088875eb439889",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Astronomy 2e §5.2 — Stefan–Boltzmann law",
+      "quote": "proportional to the fourth power of its absolute temperature.",
+      "url": "https://openstax.org/books/astronomy-2e/pages/5-2-the-electromagnetic-spectrum",
+      "evidenceId": "784850d8e3b522a1e509",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "Original question inspected; five concepts independently matched to directly read OpenStax sections. Removed unnecessary hypothetical H-alpha calculation and blanket no-relation claim; corrected Stefan–Boltzmann quantity to power per area. Excluded unrelated source typos.",
+    "contentHash": "b387b6cb9ce0e0d35cd7b1d5269bcbd12548ae2ade6d36e65dd9af791b4d35f1"
+  }
+}

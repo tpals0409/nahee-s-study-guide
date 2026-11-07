@@ -1,0 +1,20 @@
+{
+  "id": "f6d2cf0665509397c0b5",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Microbiology 11.6 How Asexual Prokaryotes Achieve Genetic Diversity",
+  "url": "https://openstax.org/books/microbiology/pages/11-6-how-asexual-prokaryotes-achieve-genetic-diversity",
+  "excerpt": "Transduction: genes are transferred between cells in a virus",
+  "sourceHash": "f7d00958dd764c03fff7d01d38949486ed036a22e71119c52bd95ee28c8cff89",
+  "cacheSourceId": "b4a437c5f03a943ba38b",
+  "retrievedAt": "2026-11-07T05:00:13.977613+00:00",
+  "reviewedMappings": {
+    "2026-3-21:0": "형질도입의 구별 기준은 파지 매개이다.",
+    "2026-3-21:2": "파지 매개를 누락한 정의로서②의 불충분함을 설명하되 플라스미드 전달 불가능성을 주장하지 않는다.",
+    "2026-3-21:3": "같은 세대 개체 사이 HGT와 수직 전달을 구분한다.",
+    "2026-3-21:4": "접합에서 세포 간 접촉과 연결로 DNA를 전달한다.",
+    "2026-3-21:5": "형질전환은 환경 DNA를 직접 받아들이는 과정이다."
+  },
+  "retrievalMethod": "Direct web open/find",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

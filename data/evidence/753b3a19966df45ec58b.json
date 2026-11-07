@@ -1,0 +1,21 @@
+{
+  "id": "753b3a19966df45ec58b",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Concepts of Biology 5.2 — The Light-Dependent Reactions of Photosynthesis",
+  "url": "https://openstax.org/books/concepts-biology/pages/5-2-the-light-dependent-reactions-of-photosynthesis",
+  "excerpt": "which forms a molecule of ATP in a process called photophosphorylation.",
+  "sourceHash": "92d1e626ff92bde67609545403e3e33be5488c4116ff6b7c2071829974df1feb",
+  "cacheSourceId": "203e41f1e74e5b390787",
+  "retrievedAt": "2026-11-06T17:24:36.449749+00:00",
+  "reviewedMappings": {
+    "2012-3-23:0": "틸라코이드의 양성자 기울기 및 ATP 합성효소 설명 확인. ㄷ 참, ②에서 빠진 항목 판단.",
+    "2012-3-23:1": "틸라코이드의 양성자 기울기 및 ATP 합성효소 설명 확인. ㄷ 참, ②에서 빠진 항목 판단.",
+    "2012-3-23:2": "틸라코이드의 양성자 기울기 및 ATP 합성효소 설명 확인. ㄷ 참, ②에서 빠진 항목 판단.",
+    "2012-3-23:3": "틸라코이드의 양성자 기울기 및 ATP 합성효소 설명 확인. ㄷ 참, ②에서 빠진 항목 판단.",
+    "2012-3-23:4": "틸라코이드의 양성자 기울기 및 ATP 합성효소 설명 확인. ㄷ 참, ②에서 빠진 항목 판단.",
+    "2012-3-23:5": "틸라코이드의 양성자 기울기 및 ATP 합성효소 설명 확인. ㄷ 참, ②에서 빠진 항목 판단."
+  },
+  "retrievalMethod": "web.open; relevant sections directly reviewed",
+  "sourceHashScope": "Selected excerpt only; not full page"
+}

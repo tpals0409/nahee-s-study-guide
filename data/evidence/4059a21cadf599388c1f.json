@@ -1,0 +1,16 @@
+{
+  "id": "4059a21cadf599388c1f",
+  "kind": "science",
+  "source": "기상청",
+  "ref": "우리나라 지진해일 사례",
+  "url": "https://www.weather.go.kr/w/earthquake-volcano/tsunami.do",
+  "excerpt": "실제로 1983년과 1993년에 일본 북서 해역에서 발생한 지진해일로 인해 우리나라 동해안 지역에서 인명과 재산 피해가 발생한 사례가 있다.",
+  "sourceHash": "a66c6a4ff7eb0266721dbfce5b96b5aafdb4bdb6034b6b1f2f8bcc24721a350e",
+  "cacheSourceId": "81a072b043d962fa6658",
+  "retrievedAt": "2026-11-07T04:26:26.463972+00:00",
+  "reviewedMappings": {
+    "2026-3-38:5": "기상청이 동해의 노출 조건과 동해안 실제피해를 설명한다. 1983·1993 동해안피해에 근거해 선지의 동서해안 비교를 바로잡는다."
+  },
+  "retrievalMethod": "Direct web open/find",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

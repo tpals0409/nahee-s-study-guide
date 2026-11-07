@@ -1,0 +1,86 @@
+{
+  "id": "2017-3-06",
+  "summary": "A의 부피를 V라 하면 B의 부피는 2V입니다. 두 물체가 완전히 잠길 때 전체 부력은 3ρ₀Vg입니다. 완전 침수의 경계에서 전체 무게 (3ρ₀/2+2ρ_B)Vg가 이 부력과 같으므로, B의 최소 밀도는 3ρ₀/4이며 정답은 ④입니다.",
+  "choices": [
+    "오답입니다. 전체 무게는 (7/4)ρ₀Vg로 완전 침수 시 부력 3ρ₀Vg보다 작습니다. 이 상태에서는 위쪽 알짜힘이 생겨 완전 침수 평형을 유지할 수 없습니다.",
+    "오답입니다. 전체 무게는 2ρ₀Vg로 완전 침수 시 부력보다 작으므로 B의 밀도가 부족합니다.",
+    "오답입니다. 전체 무게는 (5/2)ρ₀Vg로 완전 침수 시 부력보다 작습니다. B가 완전히 잠기는 경계에 미치지 못합니다.",
+    "정답입니다. 전체 무게는 3ρ₀Vg로 완전 침수 시 부력과 같습니다. 이때 A에 작용하는 장력은 ρ₀Vg/2이고, B의 부력은 B의 무게와 아래쪽 장력의 합과 같아 평형이 가능합니다.",
+    "오답입니다. 전체 무게는 (31/10)ρ₀Vg로 완전 침수 시 부력보다 큽니다. 이미 최소 경계 3ρ₀/4를 넘는 값이므로 최소 밀도가 아닙니다."
+  ],
+  "lawNote": "원본 그림처럼 A가 바닥에 닿지 않고 실에 매달린 상태의 완전 침수 경계를 구합니다. 최소값에서는 두 물체가 물속에서 평형을 이루며, 이보다 작은 밀도에서는 외력 없이 그 완전 침수 평형을 유지할 수 없습니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1 14.4 — Archimedes’ Principle",
+      "quote": "The buoyant force on an object equals the weight of the fluid it displaces.",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/14-4-archimedes-principle-and-buoyancy",
+      "evidenceId": "3c351de88016f9fdb60c",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1 14.4 — Archimedes’ Principle",
+      "quote": "The buoyant force on an object equals the weight of the fluid it displaces.",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/14-4-archimedes-principle-and-buoyancy",
+      "evidenceId": "3c351de88016f9fdb60c",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1 14.4 — Archimedes’ Principle",
+      "quote": "The buoyant force on an object equals the weight of the fluid it displaces.",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/14-4-archimedes-principle-and-buoyancy",
+      "evidenceId": "3c351de88016f9fdb60c",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1 14.4 — Archimedes’ Principle",
+      "quote": "The buoyant force on an object equals the weight of the fluid it displaces.",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/14-4-archimedes-principle-and-buoyancy",
+      "evidenceId": "3c351de88016f9fdb60c",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1 14.4 — Archimedes’ Principle",
+      "quote": "The buoyant force on an object equals the weight of the fluid it displaces.",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/14-4-archimedes-principle-and-buoyancy",
+      "evidenceId": "3c351de88016f9fdb60c",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1 14.4 — Archimedes’ Principle",
+      "quote": "The buoyant force on an object equals the weight of the fluid it displaces.",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/14-4-archimedes-principle-and-buoyancy",
+      "evidenceId": "3c351de88016f9fdb60c",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "Original diagram inspected for bottom clearance; total buoyancy and separate-body equilibrium derived; all option masses checked with exact fractions; primary textbook directly reviewed.",
+    "contentHash": "1c859c4e7b08682674b9efd38aeb52598ee1242a680ed33ffcf1c4d0c6b7bc36"
+  }
+}

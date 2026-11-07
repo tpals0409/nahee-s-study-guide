@@ -1,0 +1,19 @@
+{
+  "id": "6aff9d093740f9491b56",
+  "kind": "science",
+  "source": "NASA",
+  "ref": "Eclipses and the Moon",
+  "url": "https://science.nasa.gov/moon/eclipses/",
+  "excerpt": "only at the new Moon phase",
+  "sourceHash": "7010161a67c15836f3d640b1a1557448be555b301430d2b03fbc8bd6962e5a46",
+  "cacheSourceId": "f3f397fdb733dcf83bac",
+  "retrievedAt": "2026-11-06T19:13:26.144164+00:00",
+  "reviewedMappings": {
+    "2014-3-40:0": "Solar eclipse occurs at new Moon, so ㄴ both-full is false. Full/new phase alone not sufficient each month due to inclination.",
+    "2014-3-40:2": "Solar eclipse occurs at new Moon, so ㄴ both-full is false. Full/new phase alone not sufficient each month due to inclination.",
+    "2014-3-40:4": "Solar eclipse occurs at new Moon, so ㄴ both-full is false. Full/new phase alone not sufficient each month due to inclination.",
+    "2014-3-40:5": "Solar eclipse occurs at new Moon, so ㄴ both-full is false. Full/new phase alone not sufficient each month due to inclination."
+  },
+  "retrievalMethod": "Direct web open; relevant NASA eclipse-type, geometry and visibility sections reviewed against original image.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

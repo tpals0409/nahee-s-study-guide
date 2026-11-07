@@ -1,0 +1,196 @@
+{
+  "id": "2016-3-28",
+  "summary": "PCR과 디데옥시(Sanger) 염기서열분석은 모두 DNA 중합효소와 프라이머를 사용한다. 이중가닥 DNA를 주형으로 사용하려면 염기쌍의 수소결합을 해체하여 가닥을 분리하는 과정도 필요하다. 새 가닥의 신장은 5′→3′ 방향이므로 ㄹ만 틀리며, 정답은 ㄱ·ㄴ·ㄷ을 고른 ④이다.",
+  "choices": [
+    "오답이다. DNA 중합효소를 사용한다는 ㄱ과 프라이머가 필요하다는 ㄴ은 옳다. 그러나 이중가닥 주형을 분리하며 수소결합이 해체된다는 ㄷ도 공통점이므로 이를 빠뜨렸다.",
+    "오답이다. ㄴ과 ㄷ은 옳지만 ㄱ도 옳다. 두 방법 모두 DNA 중합효소가 프라이머에서 시작하여 새 DNA 가닥을 합성한다.",
+    "오답이다. ㄷ은 옳지만 ㄹ은 틀리다. DNA 중합효소는 자라는 가닥의 3′-OH에 뉴클레오타이드를 첨가하므로 새 가닥은 5′→3′ 방향으로 신장한다. 옳은 ㄱ과 ㄴ도 빠져 있다.",
+    "정답이다. 두 방법 모두 DNA 중합효소와 프라이머를 사용하므로 ㄱ과 ㄴ은 옳다. 원문처럼 이중가닥 DNA를 사용하면 주형 가닥을 노출하기 위한 변성 과정에서 염기쌍의 수소결합이 해체되므로 ㄷ도 옳다. 신장 방향을 반대로 쓴 ㄹ은 틀리다.",
+    "오답이다. ㄱ과 ㄷ은 옳지만 ㄹ은 틀리다. 새 DNA 합성 방향은 5′→3′이며, 프라이머가 필요하다는 ㄴ도 포함해야 한다."
+  ],
+  "lawNote": "가닥 분리는 염기쌍 사이의 상호작용을 해체하는 변성이며 DNA 골격을 자르는 과정과 다르다. Sanger법에서 ddNTP가 편입되어 신장이 멈추는 사슬종결도 별개의 과정이다. Sanger법을 모두 PCR과 동일한 증폭 반응으로 보지는 않는다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "17.1 Biotechnology",
+      "quote": "Primers—short pieces of DNA complementary to each end of the target sequence",
+      "url": "https://openstax.org/books/biology-2e/pages/17-1-biotechnology",
+      "evidenceId": "5ce8d8b259cd74942967",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "17.1 Biotechnology",
+      "quote": "Primers—short pieces of DNA complementary to each end of the target sequence",
+      "url": "https://openstax.org/books/biology-2e/pages/17-1-biotechnology",
+      "evidenceId": "5ce8d8b259cd74942967",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "17.1 Biotechnology",
+      "quote": "Primers—short pieces of DNA complementary to each end of the target sequence",
+      "url": "https://openstax.org/books/biology-2e/pages/17-1-biotechnology",
+      "evidenceId": "5ce8d8b259cd74942967",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "17.1 Biotechnology",
+      "quote": "Primers—short pieces of DNA complementary to each end of the target sequence",
+      "url": "https://openstax.org/books/biology-2e/pages/17-1-biotechnology",
+      "evidenceId": "5ce8d8b259cd74942967",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "17.1 Biotechnology",
+      "quote": "Primers—short pieces of DNA complementary to each end of the target sequence",
+      "url": "https://openstax.org/books/biology-2e/pages/17-1-biotechnology",
+      "evidenceId": "5ce8d8b259cd74942967",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "Applied Biosystems / Thermo Fisher Scientific",
+      "ref": "Primer Express software manual — sequencing primer design",
+      "quote": "this process of denaturation, primer annealing, and extension",
+      "url": "https://tools.thermofisher.com/content/sfs/manuals/cms_040955.pdf",
+      "evidenceId": "2de367329ba046ea665d",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "Applied Biosystems / Thermo Fisher Scientific",
+      "ref": "Primer Express software manual — sequencing primer design",
+      "quote": "this process of denaturation, primer annealing, and extension",
+      "url": "https://tools.thermofisher.com/content/sfs/manuals/cms_040955.pdf",
+      "evidenceId": "2de367329ba046ea665d",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "Applied Biosystems / Thermo Fisher Scientific",
+      "ref": "Primer Express software manual — sequencing primer design",
+      "quote": "this process of denaturation, primer annealing, and extension",
+      "url": "https://tools.thermofisher.com/content/sfs/manuals/cms_040955.pdf",
+      "evidenceId": "2de367329ba046ea665d",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "Applied Biosystems / Thermo Fisher Scientific",
+      "ref": "Primer Express software manual — sequencing primer design",
+      "quote": "this process of denaturation, primer annealing, and extension",
+      "url": "https://tools.thermofisher.com/content/sfs/manuals/cms_040955.pdf",
+      "evidenceId": "2de367329ba046ea665d",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "Applied Biosystems / Thermo Fisher Scientific",
+      "ref": "Primer Express software manual — sequencing primer design",
+      "quote": "this process of denaturation, primer annealing, and extension",
+      "url": "https://tools.thermofisher.com/content/sfs/manuals/cms_040955.pdf",
+      "evidenceId": "2de367329ba046ea665d",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "14.4 DNA Replication in Prokaryotes",
+      "quote": "it is able to add nucleotides only in the 5' to 3' direction",
+      "url": "https://openstax.org/books/biology-2e/pages/14-4-dna-replication-in-prokaryotes",
+      "evidenceId": "70178645278bc1ff0042",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "14.4 DNA Replication in Prokaryotes",
+      "quote": "it is able to add nucleotides only in the 5' to 3' direction",
+      "url": "https://openstax.org/books/biology-2e/pages/14-4-dna-replication-in-prokaryotes",
+      "evidenceId": "70178645278bc1ff0042",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "14.4 DNA Replication in Prokaryotes",
+      "quote": "it is able to add nucleotides only in the 5' to 3' direction",
+      "url": "https://openstax.org/books/biology-2e/pages/14-4-dna-replication-in-prokaryotes",
+      "evidenceId": "70178645278bc1ff0042",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "14.4 DNA Replication in Prokaryotes",
+      "quote": "it is able to add nucleotides only in the 5' to 3' direction",
+      "url": "https://openstax.org/books/biology-2e/pages/14-4-dna-replication-in-prokaryotes",
+      "evidenceId": "70178645278bc1ff0042",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "17.3 Whole-Genome Sequencing",
+      "quote": "When a dideoxynucleotide is incorporated into a DNA strand, DNA synthesis stops.",
+      "url": "https://openstax.org/books/biology-2e/pages/17-3-whole-genome-sequencing",
+      "evidenceId": "acb54a8a54ac6003478a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "17.3 Whole-Genome Sequencing",
+      "quote": "When a dideoxynucleotide is incorporated into a DNA strand, DNA synthesis stops.",
+      "url": "https://openstax.org/books/biology-2e/pages/17-3-whole-genome-sequencing",
+      "evidenceId": "acb54a8a54ac6003478a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "Original double-stranded-template condition checked; PCR and Sanger reagent/denaturation evidence compared; 3-prime extension and 5-to-3 synthesis distinguished; all answer combinations reviewed.",
+    "contentHash": "6369dfe935095c54ccfbc5f7b933667327a3ec9ae47d64ae434460995f41288a"
+  }
+}

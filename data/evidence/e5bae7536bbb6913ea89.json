@@ -1,0 +1,21 @@
+{
+  "id": "e5bae7536bbb6913ea89",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 2e §3.4 — Mass Percentage",
+  "url": "https://openstax.org/books/chemistry-2e/pages/3-4-other-units-for-solution-concentrations",
+  "excerpt": "the ratio of the component’s mass to the solution’s mass, expressed as a percentage:",
+  "sourceHash": "b8cafa03c986635a9352670f4632f9fd769837c40b1daafdc610cc4a55ac82c9",
+  "cacheSourceId": "f0879a5557a41dec45de",
+  "retrievedAt": "2026-11-06T21:51:30.996851+00:00",
+  "reviewedMappings": {
+    "2018-3-14:0": "질량 백분율 정의 직접 검토. 주어진 분자량46.0으로 0.0010mol→0.046g. 원래 시료50.0g으로 나눈 뒤100을 곱하여0.092%. ④만 일치하고 ①②③⑤ 불일치; ②의 수치는 질량(g)이지 백분율이 아님.",
+    "2018-3-14:1": "질량 백분율 정의 직접 검토. 주어진 분자량46.0으로 0.0010mol→0.046g. 원래 시료50.0g으로 나눈 뒤100을 곱하여0.092%. ④만 일치하고 ①②③⑤ 불일치; ②의 수치는 질량(g)이지 백분율이 아님.",
+    "2018-3-14:2": "질량 백분율 정의 직접 검토. 주어진 분자량46.0으로 0.0010mol→0.046g. 원래 시료50.0g으로 나눈 뒤100을 곱하여0.092%. ④만 일치하고 ①②③⑤ 불일치; ②의 수치는 질량(g)이지 백분율이 아님.",
+    "2018-3-14:3": "질량 백분율 정의 직접 검토. 주어진 분자량46.0으로 0.0010mol→0.046g. 원래 시료50.0g으로 나눈 뒤100을 곱하여0.092%. ④만 일치하고 ①②③⑤ 불일치; ②의 수치는 질량(g)이지 백분율이 아님.",
+    "2018-3-14:4": "질량 백분율 정의 직접 검토. 주어진 분자량46.0으로 0.0010mol→0.046g. 원래 시료50.0g으로 나눈 뒤100을 곱하여0.092%. ④만 일치하고 ①②③⑤ 불일치; ②의 수치는 질량(g)이지 백분율이 아님.",
+    "2018-3-14:5": "질량 백분율 정의 직접 검토. 주어진 분자량46.0으로 0.0010mol→0.046g. 원래 시료50.0g으로 나눈 뒤100을 곱하여0.092%. ④만 일치하고 ①②③⑤ 불일치; ②의 수치는 질량(g)이지 백분율이 아님."
+  },
+  "retrievalMethod": "Direct web open; relevant definition and equations reviewed; selected verbatim excerpt retained",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

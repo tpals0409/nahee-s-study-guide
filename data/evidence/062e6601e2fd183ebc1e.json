@@ -1,0 +1,19 @@
+{
+  "id": "062e6601e2fd183ebc1e",
+  "kind": "science",
+  "source": "National Human Genome Research Institute",
+  "ref": "NHGRI Genetics Glossary — Chromatin",
+  "url": "https://www.genome.gov/genetics-glossary/Chromatin",
+  "excerpt": "Chromatin refers to a mixture of DNA and proteins",
+  "sourceHash": "f27e6928004c1061e776e10b5780110cb7c566d57d4a257336507cf27a13975f",
+  "cacheSourceId": "fc2d0783ac2c8705e0e3",
+  "retrievedAt": "2026-11-06T19:43:11.499385+00:00",
+  "reviewedMappings": {
+    "2015-3-26:0": "NHGRI 정의에서 DNA와 단백질의 복합체는 염색질임을 확인한다. 이를 유전자라는 정보 구간과 구별한다.",
+    "2015-3-26:1": "NHGRI 정의에서 DNA와 단백질의 복합체는 염색질임을 확인한다. 이를 유전자라는 정보 구간과 구별한다.",
+    "2015-3-26:3": "NHGRI 정의에서 DNA와 단백질의 복합체는 염색질임을 확인한다. 이를 유전자라는 정보 구간과 구별한다.",
+    "2015-3-26:5": "NHGRI 정의에서 DNA와 단백질의 복합체는 염색질임을 확인한다. 이를 유전자라는 정보 구간과 구별한다."
+  },
+  "retrievalMethod": "Direct glossary definition and narration read; selected short excerpt transcribed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "0d45d74e63197b5527bf",
+  "kind": "science",
+  "source": "NOAA / National Weather Service",
+  "ref": "The Planetary Boundary Layer",
+  "url": "https://www.weather.gov/source/zhu/ZHU_Training_Page/clouds/planetary_boundary_layer/PBL.html",
+  "excerpt": "Above the PBL, the wind speed is much more uniform and stronger due to a marked decrease in friction.",
+  "sourceHash": "84e33d768e6bae07b63c838585b3100b3aa6f45be5a1adfef087f3df63a1d6ca",
+  "cacheSourceId": "eac85846dfc27c048930",
+  "retrievedAt": "2026-11-07T03:34:55.084458+00:00",
+  "reviewedMappings": {
+    "2025-3-36:0": "고도에 따른 마찰 영향 감소와 풍속 증가·지균풍 접근이라는 교육용 설명을 제시 그림에 적용. 경계층 높이를 약 1km로 고정하던 초안은 삭제.",
+    "2025-3-36:2": "고도에 따른 마찰 영향 감소와 풍속 증가·지균풍 접근이라는 교육용 설명을 제시 그림에 적용. 경계층 높이를 약 1km로 고정하던 초안은 삭제.",
+    "2025-3-36:3": "고도에 따른 마찰 영향 감소와 풍속 증가·지균풍 접근이라는 교육용 설명을 제시 그림에 적용. 경계층 높이를 약 1km로 고정하던 초안은 삭제.",
+    "2025-3-36:4": "고도에 따른 마찰 영향 감소와 풍속 증가·지균풍 접근이라는 교육용 설명을 제시 그림에 적용. 경계층 높이를 약 1km로 고정하던 초안은 삭제."
+  },
+  "retrievalMethod": "Search-indexed NOAA/NWS source text read",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

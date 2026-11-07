@@ -1,0 +1,21 @@
+{
+  "id": "b237d3b6a83ae9316c1a",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume 1 §9.6 Center of Mass",
+  "url": "https://openstax.org/books/university-physics-volume-1/pages/9-6-center-of-mass",
+  "excerpt": "the internal forces do not change the momentum of the object as a whole.",
+  "sourceHash": "79e9e64b2ee9f317c0690013cbc613b72a000f1433bac0c57e2c2db207410d35",
+  "cacheSourceId": "c23e2939fa546e4a3017",
+  "retrievedAt": "2026-11-06T23:02:58.064820+00:00",
+  "reviewedMappings": {
+    "2020-3-02:0": "질량중심 (60×0+90×10)/150=6 m; 처음 정지하고 수평 알짜 외력 0이므로 그대로이며 두 질점의 만남 위치.",
+    "2020-3-02:1": "제시된 만남 위치 6 m는 질량중심과 일치.",
+    "2020-3-02:2": "만남 위치 8 m는 정지한 질량중심 6 m와 불일치.",
+    "2020-3-02:3": "만남 위치 6 m는 정지한 질량중심과 일치.",
+    "2020-3-02:4": "속도는 맞지만 만남 위치 8 m는 질량중심 6 m와 불일치.",
+    "2020-3-02:5": "만남 위치 8 m는 질량중심 6 m와 불일치."
+  },
+  "retrievalMethod": "Direct web retrieval; reviewed internal force cancellation, external force equation and mass-weighted position definition, lines 81–152.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

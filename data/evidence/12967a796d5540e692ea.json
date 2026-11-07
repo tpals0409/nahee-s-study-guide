@@ -1,0 +1,27 @@
+{
+  "id": "12967a796d5540e692ea",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "9.3 Stoichiometry of Gaseous Substances, Mixtures, and Reactions",
+  "url": "https://openstax.org/books/chemistry-2e/pages/9-3-stoichiometry-of-gaseous-substances-mixtures-and-reactions",
+  "excerpt": "The partial pressure of gas A is related to the total pressure of the gas mixture via its mole fraction",
+  "sourceHash": "5ad6245c564820c112c714ea291f2a0bf526dc74fe1f4807f0182ad1013fd1a1",
+  "cacheSourceId": "bb2bf228be79ae77f42a",
+  "retrievedAt": "2026-11-07T04:01:33.874919+00:00",
+  "reviewedMappings": {
+    "2016-3-20:0": "본문38–40 PV=nRT 및150–152 Pi=yiP 사용. 원본의 무질량·무마찰 피스톤으로 초기/평형 내부압력1atm. ξ/n0=1/4 및 몰분율2/5,2/5,1/5 정확분수 검산.",
+    "2016-3-20:1": "V평형/V초기=5/4=n평형/n초기. 화학양론 n총=n0+ξ에서 ξ=n0/4, 부분압력0.4,0.4,0.2atm.",
+    "2016-3-20:2": "몰분율 분모는 평형 전체몰수5n0/4이므로 C몰분율1/5.",
+    "2016-3-20:3": "전체몰수비5/4와 화학양론에서 A:B:C=2:2:1.",
+    "2016-3-20:4": "A,B의 몰분율이 같아 부분압력도 같고 C는0.2atm.",
+    "2016-3-20:5": "부피비는 몰수비로 사용하는 중간정보이며 최종평형상수비와 다름.",
+    "2026-3-19:0": "Mole fractions z/(2+z), (2-z)/(2+z) give partial pressures; constantP ideal-gas volume proportional nT yields V100. Concentration b=nC/V makes V cancel in requested product.",
+    "2026-3-19:1": "Mole fractions z/(2+z), (2-z)/(2+z) give partial pressures; constantP ideal-gas volume proportional nT yields V100. Concentration b=nC/V makes V cancel in requested product.",
+    "2026-3-19:2": "Mole fractions z/(2+z), (2-z)/(2+z) give partial pressures; constantP ideal-gas volume proportional nT yields V100. Concentration b=nC/V makes V cancel in requested product.",
+    "2026-3-19:3": "Mole fractions z/(2+z), (2-z)/(2+z) give partial pressures; constantP ideal-gas volume proportional nT yields V100. Concentration b=nC/V makes V cancel in requested product.",
+    "2026-3-19:4": "Mole fractions z/(2+z), (2-z)/(2+z) give partial pressures; constantP ideal-gas volume proportional nT yields V100. Concentration b=nC/V makes V cancel in requested product.",
+    "2026-3-19:5": "Mole fractions z/(2+z), (2-z)/(2+z) give partial pressures; constantP ideal-gas volume proportional nT yields V100. Concentration b=nC/V makes V cancel in requested product."
+  },
+  "retrievalMethod": "Direct web open",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

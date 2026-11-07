@@ -1,0 +1,16 @@
+{
+  "id": "a2f381918fa19b705a0c",
+  "kind": "science",
+  "source": "대한지질학회",
+  "ref": "강원권 지질유산의 발굴 및 가치평가",
+  "url": "https://www.jgsk.or.kr/_PR/view/?aidx=27196&bidx=2488",
+  "excerpt": "강원권은 우리나라의 최대 고생대 지층 분포지역이며,",
+  "sourceHash": "db1731468611102c828bdc6c1b923a9f1f286b868704dfee1e0b02a7aca4380c",
+  "cacheSourceId": "64e4aa5ad1a60329b978",
+  "retrievedAt": "2026-11-06T23:38:06.685489+00:00",
+  "reviewedMappings": {
+    "2020-3-34:3": "논문 5.2는 남한 6개 권역 비교에서 강원권을 최대 고생대 지층 분포지역이라 명시한다. 남한의 대표 분포라는 범위에서 ③을 지지하며 강원도에만 있다는 뜻으로 확대하지 않는다."
+  },
+  "retrievalMethod": "Direct web find/open; reviewed section 5.2, line 203: comparison across six South Korean inland regions and explicit largest Paleozoic-strata distribution in Gangwon. Used for South Korea scope, not entire Korean peninsula; article December 2020 describes existing geological distribution.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

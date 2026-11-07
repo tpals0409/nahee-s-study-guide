@@ -1,0 +1,18 @@
+{
+  "id": "f3ca66396f6139e9822a",
+  "kind": "science",
+  "source": "BCcampus / Steven Earle",
+  "ref": "Physical Geology 2e 3.3 Crystallization of Magma",
+  "url": "https://opentextbc.ca/physicalgeology2ed/chapter/3-3-crystallization-of-magma/",
+  "excerpt": "olivine to pyroxene, pyroxene to amphibole",
+  "sourceHash": "c511ca9d8bd3ce87cb91c22af615a9a921040ef7591b2dbbae4737e0dc5a1c40",
+  "cacheSourceId": "ac7dc714138ab7b7ecb1",
+  "retrievedAt": "2026-11-07T02:46:46.598093+00:00",
+  "reviewedMappings": {
+    "2024-3-32:0": "Direct introduction and indexed substantive reaction-series paragraphs reviewed; cooling order and Ca-rich to progressively Na-rich plagioclase.",
+    "2024-3-32:1": "Direct introduction and indexed substantive reaction-series paragraphs reviewed; cooling order and Ca-rich to progressively Na-rich plagioclase.",
+    "2024-3-32:2": "Direct introduction and indexed substantive reaction-series paragraphs reviewed; cooling order and Ca-rich to progressively Na-rich plagioclase."
+  },
+  "retrievalMethod": "Direct introduction and indexed substantive reaction-series paragraphs reviewed; cooling order and Ca-rich to progressively Na-rich plagioclase.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

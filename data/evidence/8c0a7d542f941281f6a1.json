@@ -1,0 +1,20 @@
+{
+  "id": "8c0a7d542f941281f6a1",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e §7.4 Oxidative Phosphorylation",
+  "url": "https://openstax.org/books/biology-2e/pages/7-4-oxidative-phosphorylation",
+  "excerpt": "oxygen is the final electron acceptor in the electron transport chain.",
+  "sourceHash": "ea9441b053e0bb137967d0eb045c962f9e038712091d3d0c9d5da545a4f53eca",
+  "cacheSourceId": "77fb0b1cd7a92a5baa73",
+  "retrievedAt": "2026-11-06T22:41:19.705501+00:00",
+  "reviewedMappings": {
+    "2011-3-21:0": "본문과 그림7.12 설명에서 NADH/FADH2 유래 전자가 내막 전자전달계를 통해 산소로 전달되고 물이 생성됨을 확인. 문항의 A 수소는 운반체의 환원력을 가리키는 표현으로 해석하며 B 산소 C 물로 모든 선지를 비교. 전자 이동과 양성자를 구별하고 FADH2가 복합체I을 통과한다는 초안 표현 삭제.",
+    "2019-3-24:0": "Direct web find: 60–64 aerobic oxidative phosphorylation, terminal oxygen reduction to water. 원문 보기와 대조: ㄱ ATP생성 부정은 거짓, ㄴ 명반응의 포도당 합성 부정은 참, ㄷ 산소 호흡의 최종 수용체 O₂는 참, ㄹ CO₂ 기원 O₂는 거짓. 이 출처가 다루는 해당 부분에 한해 연결.",
+    "2019-3-24:2": "Direct web find: 60–64 aerobic oxidative phosphorylation, terminal oxygen reduction to water. 원문 보기와 대조: ㄱ ATP생성 부정은 거짓, ㄴ 명반응의 포도당 합성 부정은 참, ㄷ 산소 호흡의 최종 수용체 O₂는 참, ㄹ CO₂ 기원 O₂는 거짓. 이 출처가 다루는 해당 부분에 한해 연결.",
+    "2019-3-24:3": "Direct web find: 60–64 aerobic oxidative phosphorylation, terminal oxygen reduction to water. 원문 보기와 대조: ㄱ ATP생성 부정은 거짓, ㄴ 명반응의 포도당 합성 부정은 참, ㄷ 산소 호흡의 최종 수용체 O₂는 참, ㄹ CO₂ 기원 O₂는 거짓. 이 출처가 다루는 해당 부분에 한해 연결.",
+    "2019-3-24:5": "Direct web find: 60–64 aerobic oxidative phosphorylation, terminal oxygen reduction to water. 원문 보기와 대조: ㄱ ATP생성 부정은 거짓, ㄴ 명반응의 포도당 합성 부정은 참, ㄷ 산소 호흡의 최종 수용체 O₂는 참, ㄹ CO₂ 기원 O₂는 거짓. 이 출처가 다루는 해당 부분에 한해 연결."
+  },
+  "retrievalMethod": "Direct web find: 60–64 aerobic oxidative phosphorylation, terminal oxygen reduction to water.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

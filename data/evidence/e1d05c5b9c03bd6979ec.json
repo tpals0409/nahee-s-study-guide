@@ -1,0 +1,19 @@
+{
+  "id": "e1d05c5b9c03bd6979ec",
+  "kind": "science",
+  "source": "NASA",
+  "ref": "Moon Phases",
+  "url": "https://science.nasa.gov/moon/moon-phases/",
+  "excerpt": "A first quarter Moon rises around midday and sets around the middle of the night.",
+  "sourceHash": "6b52d28ca1b2fb43a34585d111fbf44a9ffe660605131b66b24fc118da0e7a45",
+  "cacheSourceId": "fcb244eddf537ca40d77",
+  "retrievedAt": "2026-11-07T02:11:51.537988+00:00",
+  "reviewedMappings": {
+    "2023-3-38:0": "삭→초승→상현의 위상 순서 및 상현의 초저녁 관측을 직접 확인했다. 그림의 반시계 공전 방향으로 태양 쪽에서 90° 이동한 왼쪽 달은 상현이다. 특정 관측지의 천정/남중/밝은 반쪽 방향은 단정하지 않았다.",
+    "2023-3-38:1": "삭→초승→상현의 위상 순서 및 상현의 초저녁 관측을 직접 확인했다. 그림의 반시계 공전 방향으로 태양 쪽에서 90° 이동한 왼쪽 달은 상현이다. 특정 관측지의 천정/남중/밝은 반쪽 방향은 단정하지 않았다.",
+    "2023-3-38:3": "삭→초승→상현의 위상 순서 및 상현의 초저녁 관측을 직접 확인했다. 그림의 반시계 공전 방향으로 태양 쪽에서 90° 이동한 왼쪽 달은 상현이다. 특정 관측지의 천정/남중/밝은 반쪽 방향은 단정하지 않았다.",
+    "2023-3-38:5": "삭→초승→상현의 위상 순서 및 상현의 초저녁 관측을 직접 확인했다. 그림의 반시계 공전 방향으로 태양 쪽에서 90° 이동한 왼쪽 달은 상현이다. 특정 관측지의 천정/남중/밝은 반쪽 방향은 단정하지 않았다."
+  },
+  "retrievalMethod": "Direct web open; reviewed inner-planet elongation and lunar phases sections",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

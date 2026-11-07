@@ -1,0 +1,17 @@
+{
+  "id": "380ea0a39a894f7f6b22",
+  "kind": "science",
+  "source": "Purdue University",
+  "ref": "Geometric Isomers",
+  "url": "https://www.chem.purdue.edu/gchelp/cchem/geomi.html",
+  "excerpt": "The isomer in which like ligands are opposite one another is called the trans isomer.",
+  "sourceHash": "9fe49d8846ecab8636aeb0732d28db41954d77d3779afba9fa9b863ea0d7d070",
+  "cacheSourceId": "3e228cb72a2b5339dd9d",
+  "retrievedAt": "2026-11-06T19:36:28.642220+00:00",
+  "reviewedMappings": {
+    "2015-3-19:0": "University source identifies trans-Pt(NH3)2Cl2 with opposed like ligands. Supports C identity; charge of the proposed formula independently checked from Pt(II), neutral NH3 and chloride.",
+    "2015-3-19:3": "University source identifies trans-Pt(NH3)2Cl2 with opposed like ligands. Supports C identity; charge of the proposed formula independently checked from Pt(II), neutral NH3 and chloride."
+  },
+  "retrievalMethod": "Direct web page opened and relevant text read; short excerpt transcribed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "aa0a5df87a5adabf009c",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Anatomy and Physiology 2e §15.1 Divisions of the Autonomic Nervous System",
+  "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/15-1-divisions-of-the-autonomic-nervous-system",
+  "excerpt": "Postganglionic sympathetic fibers release norepinephrine",
+  "sourceHash": "08a7204e626b4328ee416e06abd84f05509d53adaec498ee1d1a874216264b8f",
+  "cacheSourceId": "f9a50fccd9431f9ec757",
+  "retrievedAt": "2026-11-06T23:25:19.293429+00:00",
+  "reviewedMappings": {
+    "2020-3-24:4": "직접 본문88–100행 절전ACh·절후NE와 땀샘 콜린성 예외 확인. 골격근 혈관 관련 부연은 사용하지 않음. ④ 일반적인 설명으로 옳습니다. 대부분의 교감신경 절후섬유는 노르에피네프린을 방출합니다. 다만 땀샘을 지배하는 콜린성 절후섬유처럼 아세틸콜린을 방출하는 예외가 있습니다."
+  },
+  "retrievalMethod": "직접 본문88–100행 절전ACh·절후NE와 땀샘 콜린성 예외 확인. 골격근 혈관 관련 부연은 사용하지 않음.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

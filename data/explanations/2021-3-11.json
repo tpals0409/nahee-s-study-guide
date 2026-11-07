@@ -1,0 +1,151 @@
+{
+  "id": "2021-3-11",
+  "summary": "기체가 차지하는 부피를 일정하게 보는 조건에서 B와 C의 생성 분압은 같습니다. C의 분압을 x기압이라 하면 B는 (1+x)기압이므로 1+2x=2, x=1/2입니다. 순수 고체 A를 제외하고 기압 단위의 분압을 대입하면 K_p=(3/2)(1/2)=3/4, 정답은 ③입니다.",
+  "choices": [
+    "①의 1/4는 새로 생성된 B의 분압만 사용한 값입니다. B의 평형 분압에는 처음 들어 있던 1기압도 포함되어야 합니다.",
+    "②의 1/2는 C의 평형 분압에 해당하는 수치입니다. 평형 상수는 B와 C의 분압을 곱하여 구합니다.",
+    "③은 옳습니다. 평형에서 B는 3/2기압, C는 1/2기압이므로 K_p=3/4입니다.",
+    "④의 1은 B와 C를 각각 1기압으로 놓으면 나오지만, 처음부터 B가 있었으므로 두 평형 분압은 같지 않습니다.",
+    "⑤의 5/4는 평형 분압의 곱과 다릅니다. 전체 압력 2기압과 초기 B 1기압을 반영하면 곱은 3/4입니다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry, Chapter 13 Summary",
+      "quote": "the concentration of this component does not appear in the expression for the equilibrium constant.",
+      "url": "https://openstax.org/books/chemistry/pages/13-summary",
+      "evidenceId": "afdfb570c100c44a83b3",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry, Chapter 13 Summary",
+      "quote": "the concentration of this component does not appear in the expression for the equilibrium constant.",
+      "url": "https://openstax.org/books/chemistry/pages/13-summary",
+      "evidenceId": "afdfb570c100c44a83b3",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry, Chapter 13 Summary",
+      "quote": "the concentration of this component does not appear in the expression for the equilibrium constant.",
+      "url": "https://openstax.org/books/chemistry/pages/13-summary",
+      "evidenceId": "afdfb570c100c44a83b3",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry, Chapter 13 Summary",
+      "quote": "the concentration of this component does not appear in the expression for the equilibrium constant.",
+      "url": "https://openstax.org/books/chemistry/pages/13-summary",
+      "evidenceId": "afdfb570c100c44a83b3",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry, Chapter 13 Summary",
+      "quote": "the concentration of this component does not appear in the expression for the equilibrium constant.",
+      "url": "https://openstax.org/books/chemistry/pages/13-summary",
+      "evidenceId": "afdfb570c100c44a83b3",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry, Chapter 13 Summary",
+      "quote": "the concentration of this component does not appear in the expression for the equilibrium constant.",
+      "url": "https://openstax.org/books/chemistry/pages/13-summary",
+      "evidenceId": "afdfb570c100c44a83b3",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "9.3 Stoichiometry of Gaseous Substances, Mixtures, and Reactions",
+      "quote": "The pressure exerted by each individual gas in a mixture is called its partial pressure.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/9-3-stoichiometry-of-gaseous-substances-mixtures-and-reactions",
+      "evidenceId": "f8699519db6172acb865",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "9.3 Stoichiometry of Gaseous Substances, Mixtures, and Reactions",
+      "quote": "The pressure exerted by each individual gas in a mixture is called its partial pressure.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/9-3-stoichiometry-of-gaseous-substances-mixtures-and-reactions",
+      "evidenceId": "f8699519db6172acb865",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "9.3 Stoichiometry of Gaseous Substances, Mixtures, and Reactions",
+      "quote": "The pressure exerted by each individual gas in a mixture is called its partial pressure.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/9-3-stoichiometry-of-gaseous-substances-mixtures-and-reactions",
+      "evidenceId": "f8699519db6172acb865",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "9.3 Stoichiometry of Gaseous Substances, Mixtures, and Reactions",
+      "quote": "The pressure exerted by each individual gas in a mixture is called its partial pressure.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/9-3-stoichiometry-of-gaseous-substances-mixtures-and-reactions",
+      "evidenceId": "f8699519db6172acb865",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "9.3 Stoichiometry of Gaseous Substances, Mixtures, and Reactions",
+      "quote": "The pressure exerted by each individual gas in a mixture is called its partial pressure.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/9-3-stoichiometry-of-gaseous-substances-mixtures-and-reactions",
+      "evidenceId": "f8699519db6172acb865",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "9.3 Stoichiometry of Gaseous Substances, Mixtures, and Reactions",
+      "quote": "The pressure exerted by each individual gas in a mixture is called its partial pressure.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/9-3-stoichiometry-of-gaseous-substances-mixtures-and-reactions",
+      "evidenceId": "f8699519db6172acb865",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Canonical problem and draft reviewed. Ideal-gas fixed gas-volume treatment (solid volume negligible), solid phase present at heterogeneous equilibrium, and pressures inserted in atm as in exam are stated conventions. Independently solve PB=1+x, PC=x, PB+PC=2: x=1/2, product=3/4. Corrected option 4 explanation: retaining initial PB=1 alone would not give K=1. OpenStax 13.2 lines 37–40 directly reviewed for pressure quotient and relative-pressure convention; official Chemistry chapter 13 summary search excerpt reviewed for pure-solid omission; Chemistry2e 9.3 lines 142–165 directly reviewed for Dalton law and partial ideal-gas law.",
+    "contentHash": "b0a204a293af2fdf0fdfb2393c45ecc0dc5d04a53b32a1dd3a8ecea0468e1963"
+  }
+}

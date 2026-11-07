@@ -1,0 +1,17 @@
+{
+  "id": "16f8bd3d204620aa3e15",
+  "kind": "science",
+  "source": "British Geological Survey",
+  "ref": "What causes earthquakes?",
+  "url": "https://www.bgs.ac.uk/discovering-geology/earth-hazards/earthquakes/what-causes-earthquakes/",
+  "excerpt": "the outer part of the core is liquid, because S-waves do not pass through it.",
+  "sourceHash": "6ac7948039aa4aab8ccc6f889f196990b23ced940d6427827342438a9a8ae235",
+  "cacheSourceId": "b12323274736c9389708",
+  "retrievedAt": "2026-11-07T01:25:06.659485+00:00",
+  "reviewedMappings": {
+    "2022-3-38:0": "외핵 액체와 S파 통과 불가를 확인하여 ④를 지지한다.",
+    "2022-3-38:4": "외핵 액체와 S파 통과 불가를 확인하여 ④를 지지한다."
+  },
+  "retrievalMethod": "Direct page open, The core and The mantle sections.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

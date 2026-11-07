@@ -1,0 +1,21 @@
+{
+  "id": "1b90888007584b3ace53",
+  "kind": "science",
+  "source": "Royal Society of Chemistry",
+  "ref": "Bromine — Element information, properties and uses",
+  "url": "https://periodic-table.rsc.org/element/35/Bromine",
+  "excerpt": "Bromine is a deep-red, oily liquid with a sharp smell.",
+  "sourceHash": "f74bc0929e2cabbc14e8088cfe8554c30f35f26033a21f5b43c3aceee92eafb9",
+  "cacheSourceId": "a30291f8eefc2896f37d",
+  "retrievedAt": "2026-11-07T03:51:26.132723+00:00",
+  "reviewedMappings": {
+    "2026-3-13:0": "B is bromine: red liquid at25 C and period4 from RSC factbox; supports true ㄱ.",
+    "2026-3-13:1": "B is bromine: red liquid at25 C and period4 from RSC factbox; supports true ㄱ.",
+    "2026-3-13:2": "B is bromine: red liquid at25 C and period4 from RSC factbox; supports true ㄱ.",
+    "2026-3-13:3": "B is bromine: red liquid at25 C and period4 from RSC factbox; supports true ㄱ.",
+    "2026-3-13:4": "B is bromine: red liquid at25 C and period4 from RSC factbox; supports true ㄱ.",
+    "2026-3-13:5": "B is bromine: red liquid at25 C and period4 from RSC factbox; supports true ㄱ."
+  },
+  "retrievalMethod": "Direct web open",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

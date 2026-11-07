@@ -1,0 +1,14 @@
+{
+  "id": "7349c073c42ed23ccafc",
+  "kind": "science",
+  "source": "NASA",
+  "ref": "Venus Facts",
+  "url": "https://science.nasa.gov/venus/venus-facts/",
+  "excerpt": "Venus is hotter even than the innermost planet, charbroiled Mercury.",
+  "sourceHash": "819058b0bc8e38c32ad2855a9876898c39e1f007863260efac8357e9dec17087",
+  "cacheSourceId": "46f616d3adef209f6710",
+  "retrievedAt": "2026-11-06T15:14:47.351862+00:00",
+  "reviewedMappings": {
+    "2009-3-37:1": "각선지NASA원문대조. 금성>수성표면온도, 화성687일<천왕성30687일, 가니메데148.2e21kg>달73.5e21kg(지름아닌질량행). 대적반최소150년관측으로수일소멸반박;17세기동일폭풍단정삭제. 타이탄주성분질소. 날짜이후연구를시험당시정답변경근거로사용하지않음."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "595aeff8bf3f832a239d",
+  "kind": "science",
+  "source": "U.S. Geological Survey (USGS)",
+  "ref": "Understanding plate motions — This Dynamic Earth",
+  "url": "https://pubs.usgs.gov/gip/dynamic/understanding.html",
+  "excerpt": "The San Andreas is one of the few transform faults exposed on land.",
+  "sourceHash": "0369095682cdd80080176f08a02e82db21717761b9f8e127a9025c0c8b950b4f",
+  "cacheSourceId": "9d44e6068537a25ecaef",
+  "retrievedAt": "2026-11-07T02:04:00.937944+00:00",
+  "reviewedMappings": {
+    "2018-3-33:0": "원본 지도 A동아프리카 B히말라야 C하와이 D산안드레아스 E아이슬란드로 판독. 각 출처 해당 지점 원리를 종합하여 ④만 거짓. 짧은 발췌만이 아니라 검색에 제공된 관련 본문과 원본 지도 판독을 함께 적용.",
+    "2018-3-33:1": "A의 동아프리카 대륙 열곡은 발산에 따른 지각 신장으로 설명되어 옳음. 짧은 발췌만이 아니라 검색에 제공된 관련 본문과 원본 지도 판독을 함께 적용.",
+    "2018-3-33:2": "B의 인도-유라시아 충돌은 지각 압축과 융기로 히말라야 형성, 수렴 습곡산맥 설명 옳음. 짧은 발췌만이 아니라 검색에 제공된 관련 본문과 원본 지도 판독을 함께 적용.",
+    "2018-3-33:4": "D 산안드레아스는 변환/보존경계이나 얕은 지각 지진이 특징. 심발지진 다발이라는 후반부가 거짓. 짧은 발췌만이 아니라 검색에 제공된 관련 본문과 원본 지도 판독을 함께 적용.",
+    "2018-3-33:5": "E 아이슬란드는 중앙대서양 해령의 발산경계이며 화산활동이 동반되므로 옳음. 짧은 발췌만이 아니라 검색에 제공된 관련 본문과 원본 지도 판독을 함께 적용.",
+    "2023-3-33:0": "① Marianas는 해양판 수렴·섭입의 해구.② San Andreas는 두판의 수평이동 변환경계.",
+    "2023-3-33:1": "① Marianas는 해양판 수렴·섭입의 해구.② San Andreas는 두판의 수평이동 변환경계.",
+    "2023-3-33:2": "① Marianas는 해양판 수렴·섭입의 해구.② San Andreas는 두판의 수평이동 변환경계."
+  },
+  "retrievalMethod": "원문 직접 열기는403; 동일페이지 검색 색인의 Oceanic-oceanic convergence 및 San Andreas절 확인.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,85 @@
+{
+  "id": "2026-3-30",
+  "summary": "펩티드 결합으로 연결된 아미노산 서열이 단백질의 1차 구조이므로 ①이 옳습니다. 나머지는 2차 구조의 형태, 열변성, 4차 구조의 필요성, 펩티드 결합 형성을 잘못 설명했습니다.",
+  "choices": [
+    "옳습니다. 단백질의 1차 구조는 펩티드 결합으로 이어진 아미노산의 배열 순서입니다.",
+    "α 구조는 나선, β 구조는 병풍 모양입니다. 두 형태를 바꾸어 설명했으므로 틀립니다.",
+    "열에 의해 단백질의 입체 구조를 유지하는 상호작용이 달라져 3차 구조가 변성될 수 있습니다. 변성되지 않는다는 일반적인 단정은 틀립니다.",
+    "4차 구조는 여러 폴리펩티드 소단위체가 결합한 단백질에서 나타납니다. 모든 기능성 단백질에 여러 소단위체가 필요한 것은 아니므로 틀립니다.",
+    "기본적인 아미노산 축합 반응식에서는 카복실기와 아미노기가 연결될 때 물이 빠져나옵니다. 물을 첨가해야 펩티드 결합이 형성된다는 설명은 틀립니다. 이는 자유 아미노산의 형식적 축합 설명이며 리보솜의 실제 반응 단계를 뜻하지는 않습니다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology2e3.4 Proteins",
+      "quote": "Amino acids' unique sequence in a polypeptide chain is its primary structure.",
+      "url": "https://openstax.org/books/biology-2e/pages/3-4-proteins",
+      "evidenceId": "3dbbd7875f6c6b2b0d12",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology2e3.4 Proteins",
+      "quote": "Amino acids' unique sequence in a polypeptide chain is its primary structure.",
+      "url": "https://openstax.org/books/biology-2e/pages/3-4-proteins",
+      "evidenceId": "3dbbd7875f6c6b2b0d12",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology2e3.4 Proteins",
+      "quote": "Amino acids' unique sequence in a polypeptide chain is its primary structure.",
+      "url": "https://openstax.org/books/biology-2e/pages/3-4-proteins",
+      "evidenceId": "3dbbd7875f6c6b2b0d12",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology2e3.4 Proteins",
+      "quote": "Amino acids' unique sequence in a polypeptide chain is its primary structure.",
+      "url": "https://openstax.org/books/biology-2e/pages/3-4-proteins",
+      "evidenceId": "3dbbd7875f6c6b2b0d12",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology2e3.4 Proteins",
+      "quote": "Amino acids' unique sequence in a polypeptide chain is its primary structure.",
+      "url": "https://openstax.org/books/biology-2e/pages/3-4-proteins",
+      "evidenceId": "3dbbd7875f6c6b2b0d12",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology2e3.4 Proteins",
+      "quote": "Amino acids' unique sequence in a polypeptide chain is its primary structure.",
+      "url": "https://openstax.org/books/biology-2e/pages/3-4-proteins",
+      "evidenceId": "3dbbd7875f6c6b2b0d12",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Original2026-3-30_1 image inspected; direct protein textbook subsections checked for each proposition. Independent answer1 agrees with local final key. Removed unnecessary specific proteins and residue-spacing details; heat denaturation qualified and condensation limited to formal amino acid reaction.",
+    "contentHash": "c0b3292bd577c274eb82cc78986dd66161dc4f8fda7d6ad47f506fff3b3b09b1"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "5acbe4ef428fe3b8460f",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume 1 §3.6 — Eqs. 3.18–3.19",
+  "url": "https://openstax.org/books/university-physics-volume-1/pages/3-6-finding-velocity-and-displacement-from-acceleration",
+  "excerpt": "calculate the velocity function from the acceleration function, and the position function from the velocity function.",
+  "sourceHash": "c88274a6e6d3ab59d72c9e4449e476f3ccbb24cda4fb46469479aa2afc2dae22",
+  "cacheSourceId": "0fa4472c808ea741eb40",
+  "retrievedAt": "2026-11-06T21:44:13.956484+00:00",
+  "reviewedMappings": {
+    "2018-3-09:0": "교재 식3.18–3.19의 초기조건 포함 적분을 적용. 원본 선형 가속도a=3−t와 초기조건으로 두 번 적분하여x(3)=39. 심프슨식으로 검산.",
+    "2018-3-09:1": "교재 식3.18–3.19의 초기조건 포함 적분을 적용. v(3)=14.5 m/s와 위치39 m 구분.",
+    "2018-3-09:2": "교재 식3.18–3.19의 초기조건 포함 적분을 적용. x(3)=30+13.5−4.5=39;25.5는 중간항 누락시 값.",
+    "2018-3-09:3": "교재 식3.18–3.19의 초기조건 포함 적분을 적용. 초기속도 변위30+가속 추가변위9=39이므로31.7불일치.",
+    "2018-3-09:4": "교재 식3.18–3.19의 초기조건 포함 적분을 적용. x(3)=39.0 m로④일치.",
+    "2018-3-09:5": "교재 식3.18–3.19의 초기조건 포함 적분을 적용. 0≤a이고v(3)=14.5이므로x(3)<43.5;53.5불가능."
+  },
+  "retrievalMethod": "Direct source reviewed: time-dependent acceleration integration and initial conditions",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

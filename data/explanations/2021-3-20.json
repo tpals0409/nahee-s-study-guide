@@ -1,0 +1,151 @@
+{
+  "id": "2021-3-20",
+  "summary": "매우 묽은 강산에서는 물의 자동 이온화를 함께 고려해야 합니다. HCl의 완전 이온화로 [Cl⁻]=1.0×10⁻⁸ M입니다. 전하 균형 [H⁺]=[OH⁻]+[Cl⁻]와 [H⁺][OH⁻]=K_w를 연립하면, h=[H⁺]에 대해 h(h−1.0×10⁻⁸)=1.0×10⁻¹⁴입니다. 양의 근을 취하면 [H⁺]≈1.051×10⁻⁷ M, [OH⁻]≈9.512×10⁻⁸ M이므로 [Cl⁻]<[OH⁻]<[H⁺]입니다.",
+  "choices": [
+    "[H⁺] < [OH⁻] < [Cl⁻]: 오답입니다. 용액은 산성이므로 [H⁺]가 가장 큽니다. 또한 [Cl⁻]는 1.0×10⁻⁸ M로 가장 작습니다. 전하 균형 [H⁺] = [OH⁻] + [Cl⁻]에 따르면 [H⁺]가 나머지 두 이온 농도보다 작을 수 없습니다.",
+    "[H⁺]=[Cl⁻]<[OH⁻]: 오답입니다. 물의 자동 이온화를 무시하고 [H⁺]=1.0×10⁻⁸ M로 놓으면 pH 8이라는 잘못된 결과가 나옵니다. 실제로는 [H⁺]=[Cl⁻]+[OH⁻]를 만족해야 하므로 [H⁺]가 [Cl⁻]보다 크며, 계산하면 [OH⁻]보다도 큽니다.",
+    "[OH⁻] = [Cl⁻] < [H⁺]: 오답입니다. [OH⁻] ≈ 9.5×10⁻⁸ M이고 [Cl⁻] = 1.0×10⁻⁸ M이므로 두 농도는 약 9.5배 차이가 나며 같지 않습니다.",
+    "[OH⁻] < [Cl⁻] < [H⁺]: 오답입니다. [H⁺]가 가장 크다는 점은 맞습니다. 그러나 [OH⁻](약 9.5×10⁻⁸ M)가 [Cl⁻](1.0×10⁻⁸ M)보다 큽니다. 산의 농도가 10⁻⁷ M보다 훨씬 작기 때문에 OH⁻ 농도는 순수한 물의 값에서 크게 줄어들지 않습니다.",
+    "[Cl⁻] < [OH⁻] < [H⁺]: 정답입니다. 연립 계산 결과 [Cl⁻] = 1.0×10⁻⁸ M, [OH⁻] ≈ 9.51×10⁻⁸ M, [H⁺] ≈ 1.05×10⁻⁷ M입니다. 이 값들은 전하 균형(1.05×10⁻⁷ ≈ 9.51×10⁻⁸ + 1.0×10⁻⁸)과 Kw 조건을 모두 만족합니다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 14.2 pH and pOH",
+      "quote": "hydronium and hydroxide ions are present both in pure water and in all aqueous solutions",
+      "url": "https://openstax.org/books/chemistry-2e/pages/14-2-ph-and-poh",
+      "evidenceId": "18706b1255d26f6d2730",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 14.2 pH and pOH",
+      "quote": "hydronium and hydroxide ions are present both in pure water and in all aqueous solutions",
+      "url": "https://openstax.org/books/chemistry-2e/pages/14-2-ph-and-poh",
+      "evidenceId": "18706b1255d26f6d2730",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 14.2 pH and pOH",
+      "quote": "hydronium and hydroxide ions are present both in pure water and in all aqueous solutions",
+      "url": "https://openstax.org/books/chemistry-2e/pages/14-2-ph-and-poh",
+      "evidenceId": "18706b1255d26f6d2730",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 14.2 pH and pOH",
+      "quote": "hydronium and hydroxide ions are present both in pure water and in all aqueous solutions",
+      "url": "https://openstax.org/books/chemistry-2e/pages/14-2-ph-and-poh",
+      "evidenceId": "18706b1255d26f6d2730",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 14.2 pH and pOH",
+      "quote": "hydronium and hydroxide ions are present both in pure water and in all aqueous solutions",
+      "url": "https://openstax.org/books/chemistry-2e/pages/14-2-ph-and-poh",
+      "evidenceId": "18706b1255d26f6d2730",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 14.2 pH and pOH",
+      "quote": "hydronium and hydroxide ions are present both in pure water and in all aqueous solutions",
+      "url": "https://openstax.org/books/chemistry-2e/pages/14-2-ph-and-poh",
+      "evidenceId": "18706b1255d26f6d2730",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 14.3 Relative Strengths of Acids and Bases",
+      "quote": "If the ionization reaction is essentially complete, the acid or base is termed strong",
+      "url": "https://openstax.org/books/chemistry-2e/pages/14-3-relative-strengths-of-acids-and-bases",
+      "evidenceId": "30ad1f7a6d9d95478e33",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 14.3 Relative Strengths of Acids and Bases",
+      "quote": "If the ionization reaction is essentially complete, the acid or base is termed strong",
+      "url": "https://openstax.org/books/chemistry-2e/pages/14-3-relative-strengths-of-acids-and-bases",
+      "evidenceId": "30ad1f7a6d9d95478e33",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 14.3 Relative Strengths of Acids and Bases",
+      "quote": "If the ionization reaction is essentially complete, the acid or base is termed strong",
+      "url": "https://openstax.org/books/chemistry-2e/pages/14-3-relative-strengths-of-acids-and-bases",
+      "evidenceId": "30ad1f7a6d9d95478e33",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 14.3 Relative Strengths of Acids and Bases",
+      "quote": "If the ionization reaction is essentially complete, the acid or base is termed strong",
+      "url": "https://openstax.org/books/chemistry-2e/pages/14-3-relative-strengths-of-acids-and-bases",
+      "evidenceId": "30ad1f7a6d9d95478e33",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 14.3 Relative Strengths of Acids and Bases",
+      "quote": "If the ionization reaction is essentially complete, the acid or base is termed strong",
+      "url": "https://openstax.org/books/chemistry-2e/pages/14-3-relative-strengths-of-acids-and-bases",
+      "evidenceId": "30ad1f7a6d9d95478e33",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 14.3 Relative Strengths of Acids and Bases",
+      "quote": "If the ionization reaction is essentially complete, the acid or base is termed strong",
+      "url": "https://openstax.org/books/chemistry-2e/pages/14-3-relative-strengths-of-acids-and-bases",
+      "evidenceId": "30ad1f7a6d9d95478e33",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Independent positive-root calculation from electroneutrality and Kw; reviewed HCl strong-acid classification and water autoionization; all concentration orderings compared.",
+    "contentHash": "94b58555fb0166c50bb9b8f974a79c7b3d099627afe25326befa7769c3690ef5"
+  }
+}

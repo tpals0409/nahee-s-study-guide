@@ -1,0 +1,21 @@
+{
+  "id": "c3dfbb8316df62e6e938",
+  "kind": "science",
+  "source": "University of Wisconsin–Madison, Department of Chemistry",
+  "ref": "Slater Shielding Constant (S)",
+  "url": "https://www2.chem.wisc.edu/deptfiles/genchem/inorganic/handouts/slater.pdf",
+  "excerpt": "Electrons in the same ns, np group contribute 0.35, except the 1s, where 0.30 works better.",
+  "sourceHash": "3c767932ca6181947b2a6aa1b624acda31429c20699414671f0343822ced9fcb",
+  "cacheSourceId": "bd1923c9c6b49f3aab18",
+  "retrievedAt": "2026-11-06T21:05:30.393954+00:00",
+  "reviewedMappings": {
+    "2017-3-15:0": "위스콘신 대학 배포 자료의 1–3항 및 마지막 문단에서 전자 묶음, 상위 묶음의 가리움 생략, 같은 묶음 0.35(1s는 0.30), n−1 껍질 0.85, Z_eff=Z−S를 확인. 대상 전자 자신은 제외. H 1s=1, He 1s≈1.70; N 2p≈3.90, O 2p≈4.55; F 1s≈8.70, F 2p≈5.20으로 독립 계산. 이는 슬레이터 근삿값이며 엄밀한 관측값으로 제시하지 않음. ㄱ 거짓·ㄴㄷ 참.",
+    "2017-3-15:1": "위스콘신 대학 배포 자료의 1–3항 및 마지막 문단에서 전자 묶음, 상위 묶음의 가리움 생략, 같은 묶음 0.35(1s는 0.30), n−1 껍질 0.85, Z_eff=Z−S를 확인. 대상 전자 자신은 제외. H 1s=1, He 1s≈1.70; N 2p≈3.90, O 2p≈4.55; F 1s≈8.70, F 2p≈5.20으로 독립 계산. 이는 슬레이터 근삿값이며 엄밀한 관측값으로 제시하지 않음. ㄱ 거짓·ㄴㄷ 참.",
+    "2017-3-15:2": "위스콘신 대학 배포 자료의 1–3항 및 마지막 문단에서 전자 묶음, 상위 묶음의 가리움 생략, 같은 묶음 0.35(1s는 0.30), n−1 껍질 0.85, Z_eff=Z−S를 확인. 대상 전자 자신은 제외. H 1s=1, He 1s≈1.70; N 2p≈3.90, O 2p≈4.55; F 1s≈8.70, F 2p≈5.20으로 독립 계산. 이는 슬레이터 근삿값이며 엄밀한 관측값으로 제시하지 않음. ㄱ 거짓·ㄴㄷ 참.",
+    "2017-3-15:3": "위스콘신 대학 배포 자료의 1–3항 및 마지막 문단에서 전자 묶음, 상위 묶음의 가리움 생략, 같은 묶음 0.35(1s는 0.30), n−1 껍질 0.85, Z_eff=Z−S를 확인. 대상 전자 자신은 제외. H 1s=1, He 1s≈1.70; N 2p≈3.90, O 2p≈4.55; F 1s≈8.70, F 2p≈5.20으로 독립 계산. 이는 슬레이터 근삿값이며 엄밀한 관측값으로 제시하지 않음. ㄱ 거짓·ㄴㄷ 참.",
+    "2017-3-15:4": "위스콘신 대학 배포 자료의 1–3항 및 마지막 문단에서 전자 묶음, 상위 묶음의 가리움 생략, 같은 묶음 0.35(1s는 0.30), n−1 껍질 0.85, Z_eff=Z−S를 확인. 대상 전자 자신은 제외. H 1s=1, He 1s≈1.70; N 2p≈3.90, O 2p≈4.55; F 1s≈8.70, F 2p≈5.20으로 독립 계산. 이는 슬레이터 근삿값이며 엄밀한 관측값으로 제시하지 않음. ㄱ 거짓·ㄴㄷ 참.",
+    "2017-3-15:5": "위스콘신 대학 배포 자료의 1–3항 및 마지막 문단에서 전자 묶음, 상위 묶음의 가리움 생략, 같은 묶음 0.35(1s는 0.30), n−1 껍질 0.85, Z_eff=Z−S를 확인. 대상 전자 자신은 제외. H 1s=1, He 1s≈1.70; N 2p≈3.90, O 2p≈4.55; F 1s≈8.70, F 2p≈5.20으로 독립 계산. 이는 슬레이터 근삿값이며 엄밀한 관측값으로 제시하지 않음. ㄱ 거짓·ㄴㄷ 참."
+  },
+  "retrievalMethod": "Direct university handout opened; all shielding rules and Z minus S definition reviewed.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "a852db01b31714f25d1a",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "3.3 Unique Characteristics of Prokaryotic Cells",
+  "url": "https://openstax.org/books/microbiology/pages/3-3-unique-characteristics-of-prokaryotic-cells",
+  "excerpt": "Prokaryotic ribosomes are found in the cytoplasm.",
+  "sourceHash": "5f95eb5a36b71040969cdb5e666cb69dca63fb883543865b8fb482206d48547f",
+  "cacheSourceId": "3647ffec103d70482a88",
+  "retrievedAt": "2026-11-06T22:39:39.755104+00:00",
+  "reviewedMappings": {
+    "2019-3-22:0": "Direct web find: lines 74–77 describe cytoplasmic 70S ribosomes with 30S/50S subunits and distinguish bacterial versus archaeal molecular composition. 원문 조건에 적용하여 A 식물, B 진정세균, C 고세균의 ㄱ·ㄴ 참 및 ㄷ 거짓 중 이 출처가 다루는 부분을 확인.",
+    "2019-3-22:1": "Direct web find: lines 74–77 describe cytoplasmic 70S ribosomes with 30S/50S subunits and distinguish bacterial versus archaeal molecular composition. 원문 조건에 적용하여 A 식물, B 진정세균, C 고세균의 ㄱ·ㄴ 참 및 ㄷ 거짓 중 이 출처가 다루는 부분을 확인.",
+    "2019-3-22:3": "Direct web find: lines 74–77 describe cytoplasmic 70S ribosomes with 30S/50S subunits and distinguish bacterial versus archaeal molecular composition. 원문 조건에 적용하여 A 식물, B 진정세균, C 고세균의 ㄱ·ㄴ 참 및 ㄷ 거짓 중 이 출처가 다루는 부분을 확인.",
+    "2019-3-22:4": "Direct web find: lines 74–77 describe cytoplasmic 70S ribosomes with 30S/50S subunits and distinguish bacterial versus archaeal molecular composition. 원문 조건에 적용하여 A 식물, B 진정세균, C 고세균의 ㄱ·ㄴ 참 및 ㄷ 거짓 중 이 출처가 다루는 부분을 확인."
+  },
+  "retrievalMethod": "Direct web find: lines 74–77 describe cytoplasmic 70S ribosomes with 30S/50S subunits and distinguish bacterial versus archaeal molecular composition.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

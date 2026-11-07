@@ -1,0 +1,20 @@
+{
+  "id": "ab353d5e04df6158e412",
+  "kind": "science",
+  "source": "OpenStax Chemistry 2e",
+  "ref": "6.5 Periodic Variations in Element Properties",
+  "url": "https://openstax.org/books/chemistry-2e/pages/6-5-periodic-variations-in-element-properties",
+  "excerpt": "For atoms or ions that are isoelectronic, the number of protons determines the size.",
+  "sourceHash": "352204b524deba0dc88afd761e125b53b0e26184e6ec1173ea0f91ab8b3a2a7f",
+  "cacheSourceId": "c276ebb5818d6a9522d0",
+  "retrievedAt": "2026-11-07T03:16:48.875367+00:00",
+  "reviewedMappings": {
+    "2025-3-20:0": "반지름·유효핵전하·IE 및 등전자 반지름 규칙을 직접 대조; 모든 선지 판단.",
+    "2025-3-20:1": "아래쪽·왼쪽 방향 크기 증가로 Al>O; 반지름 수치는 정의 차이를 피하여 제거.",
+    "2025-3-20:3": "Figure6.33/6.34 설명에 C1090<O1310 kJ/mol로 직접 비교; 주기 경향 예외를 무시한 추정만 사용하지 않음.",
+    "2025-3-20:4": "본문이 O2-,Na+를 같은 Ne 전자배치의 예로 명시하고 양성자 증가에 따른 크기 감소 설명. Na+<O2-.",
+    "2025-3-20:5": "Zeff=Z-shielding 및 동일 껍질 차폐가 핵전하 증가를 상쇄하지 못한다는 문단을 Na→Al에 적용. Slater 추정값 제거."
+  },
+  "retrievalMethod": "Direct web reading: effective charge/shielding, radius trends, isoelectronic series and first-ionization data in Figure 6.33/6.34 descriptions.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

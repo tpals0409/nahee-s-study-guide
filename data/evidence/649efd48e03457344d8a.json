@@ -1,0 +1,14 @@
+{
+  "id": "649efd48e03457344d8a",
+  "kind": "science",
+  "source": "OpenStax · University Physics Volume 2",
+  "ref": "1.2 Thermometers and Temperature Scales",
+  "url": "https://openstax.org/books/university-physics-volume-2/pages/1-2-thermometers-and-temperature-scales",
+  "excerpt": "temperature differences are the same in units of kelvins and degrees Celsius",
+  "sourceHash": "f6d5dff07b6449489e2322420dd467bc39565bc75287cbb38b977bb64444579b",
+  "cacheSourceId": "b8de178e919b26619303",
+  "retrievedAt": "2026-11-06T15:28:39.490387+00:00",
+  "reviewedMappings": {
+    "2010-3-06:0": "섭씨와 켈빈은 영점만 다르므로 온도차 10 ℃는 10 K. 절대온도 변환 273.15를 온도차에 더하지 않음."
+  }
+}

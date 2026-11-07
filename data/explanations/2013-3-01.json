@@ -1,0 +1,41 @@
+{
+  "summary": "최저점에서 장력과 중력의 차이가 구심력이 되므로 T − mg = mv²/L 입니다. 이 식에서 v² = 9 m²/s²를 얻습니다. 이어서 역학적 에너지 보존 mgh = (1/2)mv²를 적용하면 h = v²/(2g) = 0.45 m가 됩니다. 정답은 0.45입니다.",
+  "choices": [
+    "0.20: 오답입니다. h = 0.20 m라면 v² = 2gh = 4 m²/s²입니다. 이때 최저점 장력은 T = mg + mv²/L = 200 + 20×4/3 ≈ 226.7 N이 되어, 주어진 260 N과 맞지 않습니다.",
+    "0.31: 오답입니다. h = 0.31 m라면 v² = 6.2 m²/s²이고, T = 200 + 20×6.2/3 ≈ 241.3 N입니다. 주어진 260 N과 맞지 않습니다.",
+    "0.45: 정답입니다. 최저점에서 T − mg = mv²/L이므로 260 − 200 = 20×v²/3이고, v² = 9 m²/s²입니다. 에너지 보존에 의해 h = v²/(2g) = 9/20 = 0.45 m입니다.",
+    "0.62: 오답입니다. h = 0.62 m라면 v² = 12.4 m²/s²이고, T = 200 + 20×12.4/3 ≈ 282.7 N입니다. 주어진 장력보다 큽니다.",
+    "0.80: 오답입니다. h = 0.80 m라면 v² = 16 m²/s²이고, T = 200 + 20×16/3 ≈ 306.7 N입니다. 주어진 260 N보다 큽니다."
+  ],
+  "lawNote": "최저점의 구심력은 장력 자체가 아니라 위쪽 장력과 아래쪽 중력의 합력 T−mg입니다. 줄의 장력은 운동 방향에 수직이어서 일을 하지 않습니다. 작은 진폭 근사는 필요하지 않습니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "OpenStax University Physics Volume 1 §6.3",
+      "quote": "Any force or combination of forces can cause a centripetal or radial acceleration.",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/6-3-centripetal-force",
+      "evidenceId": "a37eab84d2935664e4b3",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "OpenStax University Physics Volume 1 §8.3",
+      "quote": "no work is done by the string tension, which is perpendicular to the arc of the motion.",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/8-3-conservation-of-energy",
+      "evidenceId": "a051c56ff3263281cadf",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "원본 2013-3-01.webp 조건 직접 확인. OpenStax §6.3 a=v²/r, F=ma 및 §8.3 에너지 보존과 진자 예제 대조. h=(260−200)×3/(2×20×10)=0.45m; 모든 선지 역산 장력 226.667,241.333,260,282.667,306.667N 검산. 정답③ 일치.",
+    "contentHash": "c68fee1af7b5121c781aa527be00e6421dc59bab2edc971bac84723e941fefba"
+  }
+}

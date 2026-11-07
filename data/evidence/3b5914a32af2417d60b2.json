@@ -1,0 +1,21 @@
+{
+  "id": "3b5914a32af2417d60b2",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "6.1 Solving Problems with Newton’s Laws",
+  "url": "https://openstax.org/books/university-physics-volume-1/pages/6-1-solving-problems-with-newtons-laws",
+  "excerpt": "the external forces are balanced.",
+  "sourceHash": "e9d7f3a9882695a1454224bf5d42b40a9018833872f1e9d2af2b64156391797c",
+  "cacheSourceId": "6b80167ee660f7aad51c",
+  "retrievedAt": "2026-11-06T20:05:33.864117+00:00",
+  "reviewedMappings": {
+    "2016-3-01:0": "정지 평형에서 각 물체의 알짜힘은 0이다. 2kg 물체는 T−2g=0, 4kg 물체는 T−f=0이므로 f=20N. 선지 0·10·40·60N은 수평 평형을 만족하지 않는다.",
+    "2016-3-01:1": "정지 평형에서 각 물체의 알짜힘은 0이다. 2kg 물체는 T−2g=0, 4kg 물체는 T−f=0이므로 f=20N. 선지 0·10·40·60N은 수평 평형을 만족하지 않는다.",
+    "2016-3-01:2": "정지 평형에서 각 물체의 알짜힘은 0이다. 2kg 물체는 T−2g=0, 4kg 물체는 T−f=0이므로 f=20N. 선지 0·10·40·60N은 수평 평형을 만족하지 않는다.",
+    "2016-3-01:3": "정지 평형에서 각 물체의 알짜힘은 0이다. 2kg 물체는 T−2g=0, 4kg 물체는 T−f=0이므로 f=20N. 선지 0·10·40·60N은 수평 평형을 만족하지 않는다.",
+    "2016-3-01:4": "정지 평형에서 각 물체의 알짜힘은 0이다. 2kg 물체는 T−2g=0, 4kg 물체는 T−f=0이므로 f=20N. 선지 0·10·40·60N은 수평 평형을 만족하지 않는다.",
+    "2016-3-01:5": "정지 평형에서 각 물체의 알짜힘은 0이다. 2kg 물체는 T−2g=0, 4kg 물체는 T−f=0이므로 f=20N. 선지 0·10·40·60N은 수평 평형을 만족하지 않는다."
+  },
+  "retrievalMethod": "web open: directly reviewed page text",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

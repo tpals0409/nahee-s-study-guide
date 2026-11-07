@@ -1,0 +1,22 @@
+{
+  "id": "43ff02ad3be0f17551f8",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 2e, 17.4 Potential, Free Energy, and Equilibrium",
+  "url": "https://openstax.org/books/chemistry-2e/pages/17-4-potential-free-energy-and-equilibrium",
+  "excerpt": "Use the Nernst equation to determine cell potentials under nonstandard conditions",
+  "sourceHash": "dc7cec4e3561ed24fc9c7e4057d5c00c311c7de3eea5c025fa8c7507f358a4cb",
+  "cacheSourceId": "63df96d01ebe026f284f",
+  "retrievedAt": "2026-11-07T01:47:53.288246+00:00",
+  "reviewedMappings": {
+    "2014-3-14:0": "원문 Ecell=Ecathode−Eanode 및 25℃ 네른스트식, 양의 전위와 자발성 대조. 표준전위 값은 문제표 사용. Ag0.2M 우측과 좌측 세 조건을 Decimal 계산, 전체반응 Q법과 반쪽전위차 독립 계산 일치. 모두 A산화 방향 Ecell>0. 활동도 근사·액간전위 무시를 명시.",
+    "2023-3-19:0": "전체반응 A+2H+→A2++H2, n2. Q=0.01, E=E°−0.03logQ로 E°cell0.76 및 E°A−0.76. 다른조건유지pH3이면Q100,E0.70. ㄱ만참.",
+    "2023-3-19:1": "H+가 전자를 받아 H2로 환원되므로 산화제. E°A−0.76과 pH3 E0.70으로 ㄴㄷ거짓,①성립.",
+    "2023-3-19:2": "SHE표준전위0과 E°cell=E°환원−E°산화 및 Q보정으로 E°A−0.76V이므로 ㄴ거짓.",
+    "2023-3-19:3": "주어진 A2+농도·H2압력 유지하에 pH3의 Q100,E0.70V<0.76. ㄷ거짓이라③불성립.",
+    "2023-3-19:4": "ㄴ−0.70V는 실제표준환원전위−0.76V와 다르고 ㄷ역시0.70V<0.76이라거짓.④불성립.",
+    "2023-3-19:5": "ㄱ참,ㄴㄷ거짓이므로⑤불성립. 비표준수소전극을0V로 놓지 않고 표준값과 실제값 구별."
+  },
+  "retrievalMethod": "Direct web open and indexed Nernst equation checked; SHE zero and half-cell subtraction definitions reviewed. Applied supplied 0.06 coefficient and atm convention.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "0b1adbe5d8943f5d7d85",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 2e §16.4 Free Energy",
+  "url": "https://openstax.org/books/chemistry-2e/pages/16-4-free-energy",
+  "excerpt": "at constant temperature and pressure",
+  "sourceHash": "49e64536be23c950c67c0d0ea7565cde65b66f7f8fd3c2957837105d79eba9da",
+  "cacheSourceId": "ad7c7d6609638b0e0324",
+  "retrievedAt": "2026-11-07T04:42:22.903191+00:00",
+  "reviewedMappings": {
+    "2013-3-16:0": "자발성의 ΔG 기준에 필요한 조건을 밝혀 요약의 한계를 지지.",
+    "2013-3-16:5": "변온 과정에는 ΔH−TΔS를 그대로 쓰지 않고 ΔH−Δ(TS)를 사용한다."
+  },
+  "retrievalMethod": "Direct web open",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

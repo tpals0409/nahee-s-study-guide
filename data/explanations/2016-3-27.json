@@ -1,0 +1,174 @@
+{
+  "id": "2016-3-27",
+  "summary": "그림의 (가)는 DNA 복제, (나)는 전사, (다)는 번역이다. 복제에는 에너지가 사용되고 전사에는 RNA 중합효소가 작용하므로 ㄱ과 ㄴ은 옳다. rRNA 자체가 리보솜 단백질로 번역되는 것은 아니므로 ㄷ은 틀리며 정답은 ④이다.",
+  "choices": [
+    "오답이다. ㄱ은 옳다. DNA 합성에는 dNTP가 제공하는 에너지가 사용되며, DNA를 풀어 주는 헬리케이스의 작동에도 ATP 가수분해가 필요하다. 그러나 전사에 효소가 작용한다는 ㄴ도 옳으므로 이를 빠뜨렸다.",
+    "오답이다. ㄴ은 옳다. 전사는 DNA를 주형으로 RNA를 합성하는 과정이며 RNA 중합효소가 촉매한다. 하지만 복제에서 에너지가 사용된다는 ㄱ도 옳으므로 ㄴ만 고를 수 없다.",
+    "오답이다. ㄷ은 틀리다. rRNA는 리보솜의 구조와 촉매 기능에 참여하는 RNA이다. rRNA 자체가 번역되어 리보솜 단백질이 되는 것이 아니라, 리보솜 단백질은 별도의 mRNA를 주형으로 합성된다.",
+    "정답이다. 복제 과정에서 에너지가 사용된다는 ㄱ과 전사 과정에 RNA 중합효소가 작용한다는 ㄴ은 모두 옳다. rRNA 자체가 단백질로 번역된다는 ㄷ은 틀리므로 ㄱ과 ㄴ을 고른다.",
+    "오답이다. ㄴ은 옳지만 ㄷ은 틀리다. 번역의 주형인 mRNA와 리보솜의 구성 성분인 rRNA를 구분해야 한다. 또한 옳은 ㄱ이 빠져 있다."
+  ],
+  "lawNote": "유전자가 발현된다는 말이 항상 단백질로 번역된다는 뜻은 아니다. rRNA처럼 RNA 자체가 기능하는 경우도 있으며, 번역에 참여하는 것과 번역의 주형이 되는 것은 다르다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "14.4 DNA Replication in Prokaryotes",
+      "quote": "The addition of nucleotides requires energy;",
+      "url": "https://openstax.org/books/biology-2e/pages/14-4-dna-replication-in-prokaryotes",
+      "evidenceId": "5f242ec7d4a3509b05a3",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "14.4 DNA Replication in Prokaryotes",
+      "quote": "The addition of nucleotides requires energy;",
+      "url": "https://openstax.org/books/biology-2e/pages/14-4-dna-replication-in-prokaryotes",
+      "evidenceId": "5f242ec7d4a3509b05a3",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "14.4 DNA Replication in Prokaryotes",
+      "quote": "The addition of nucleotides requires energy;",
+      "url": "https://openstax.org/books/biology-2e/pages/14-4-dna-replication-in-prokaryotes",
+      "evidenceId": "5f242ec7d4a3509b05a3",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "14.4 DNA Replication in Prokaryotes",
+      "quote": "The addition of nucleotides requires energy;",
+      "url": "https://openstax.org/books/biology-2e/pages/14-4-dna-replication-in-prokaryotes",
+      "evidenceId": "5f242ec7d4a3509b05a3",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "14.4 DNA Replication in Prokaryotes",
+      "quote": "The addition of nucleotides requires energy;",
+      "url": "https://openstax.org/books/biology-2e/pages/14-4-dna-replication-in-prokaryotes",
+      "evidenceId": "5f242ec7d4a3509b05a3",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "15.2 Prokaryotic Transcription",
+      "quote": "using the enzyme RNA polymerase.",
+      "url": "https://openstax.org/books/biology-2e/pages/15-2-prokaryotic-transcription",
+      "evidenceId": "5b7732803d3fd2963230",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "15.2 Prokaryotic Transcription",
+      "quote": "using the enzyme RNA polymerase.",
+      "url": "https://openstax.org/books/biology-2e/pages/15-2-prokaryotic-transcription",
+      "evidenceId": "5b7732803d3fd2963230",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "15.2 Prokaryotic Transcription",
+      "quote": "using the enzyme RNA polymerase.",
+      "url": "https://openstax.org/books/biology-2e/pages/15-2-prokaryotic-transcription",
+      "evidenceId": "5b7732803d3fd2963230",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "15.2 Prokaryotic Transcription",
+      "quote": "using the enzyme RNA polymerase.",
+      "url": "https://openstax.org/books/biology-2e/pages/15-2-prokaryotic-transcription",
+      "evidenceId": "5b7732803d3fd2963230",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "15.2 Prokaryotic Transcription",
+      "quote": "using the enzyme RNA polymerase.",
+      "url": "https://openstax.org/books/biology-2e/pages/15-2-prokaryotic-transcription",
+      "evidenceId": "5b7732803d3fd2963230",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "15.5 Ribosomes and Protein Synthesis",
+      "quote": "A ribosome is a complex macromolecule composed of structural and catalytic rRNAs, and many distinct polypeptides.",
+      "url": "https://openstax.org/books/biology-2e/pages/15-5-ribosomes-and-protein-synthesis",
+      "evidenceId": "c445dbf54c6853565712",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "15.5 Ribosomes and Protein Synthesis",
+      "quote": "A ribosome is a complex macromolecule composed of structural and catalytic rRNAs, and many distinct polypeptides.",
+      "url": "https://openstax.org/books/biology-2e/pages/15-5-ribosomes-and-protein-synthesis",
+      "evidenceId": "c445dbf54c6853565712",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "15.5 Ribosomes and Protein Synthesis",
+      "quote": "A ribosome is a complex macromolecule composed of structural and catalytic rRNAs, and many distinct polypeptides.",
+      "url": "https://openstax.org/books/biology-2e/pages/15-5-ribosomes-and-protein-synthesis",
+      "evidenceId": "c445dbf54c6853565712",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "15.5 Ribosomes and Protein Synthesis",
+      "quote": "A ribosome is a complex macromolecule composed of structural and catalytic rRNAs, and many distinct polypeptides.",
+      "url": "https://openstax.org/books/biology-2e/pages/15-5-ribosomes-and-protein-synthesis",
+      "evidenceId": "c445dbf54c6853565712",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "Original diagram arrows checked; replication energy, RNA polymerase transcription and rRNA/mRNA roles source-matched; all five answer combinations reviewed.",
+    "contentHash": "264749835d9aa7150cf8d566982cd241091af56a941787a79ddf7bd94d6b009e"
+  }
+}

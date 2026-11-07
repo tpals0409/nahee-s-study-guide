@@ -1,0 +1,21 @@
+{
+  "id": "2bb8f06bc88c3e594708",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 2e §13.3 Le Châtelier’s Principle",
+  "url": "https://openstax.org/books/chemistry-2e/pages/13-3-shifting-equilibria-le-chateliers-principle",
+  "excerpt": "Raising the temperature of the system is akin to increasing the amount of a reactant,",
+  "sourceHash": "ebb33f56a9171fc5fe5e43ab891e313c1899725477c768dc165891187acc54ac",
+  "cacheSourceId": "0b48abee15d574e623be",
+  "retrievedAt": "2026-11-07T04:51:54.143248+00:00",
+  "reviewedMappings": {
+    "2012-3-18:0": "ㄱ은 가열에 따른 생성물증가의흡열해석.ㄷ은 일정온도압축의 농도2배와지수합차−1로Qc=Kc/2. ㄴ의 절대수치를 이 근거로 확인할수없음.",
+    "2012-3-18:1": "ㄱ은 가열에 따른 생성물증가의흡열해석.ㄷ은 일정온도압축의 농도2배와지수합차−1로Qc=Kc/2. ㄴ의 절대수치를 이 근거로 확인할수없음.",
+    "2012-3-18:2": "ㄱ은 가열에 따른 생성물증가의흡열해석.ㄷ은 일정온도압축의 농도2배와지수합차−1로Qc=Kc/2. ㄴ의 절대수치를 이 근거로 확인할수없음.",
+    "2012-3-18:3": "ㄱ은 가열에 따른 생성물증가의흡열해석.ㄷ은 일정온도압축의 농도2배와지수합차−1로Qc=Kc/2. ㄴ의 절대수치를 이 근거로 확인할수없음.",
+    "2012-3-18:4": "ㄱ은 가열에 따른 생성물증가의흡열해석.ㄷ은 일정온도압축의 농도2배와지수합차−1로Qc=Kc/2. ㄴ의 절대수치를 이 근거로 확인할수없음.",
+    "2012-3-18:5": "ㄱ은 가열에 따른 생성물증가의흡열해석.ㄷ은 일정온도압축의 농도2배와지수합차−1로Qc=Kc/2. ㄴ의 절대수치를 이 근거로 확인할수없음."
+  },
+  "retrievalMethod": "Direct web open",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

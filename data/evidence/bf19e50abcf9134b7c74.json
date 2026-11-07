@@ -1,0 +1,21 @@
+{
+  "id": "bf19e50abcf9134b7c74",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume3 §7.6 Quantum Tunneling",
+  "url": "https://openstax.org/books/university-physics-volume-3/pages/7-6-the-quantum-tunneling-of-particles-through-potential-barriers",
+  "excerpt": "For a wide and high barrier that transmits poorly",
+  "sourceHash": "15931f73f0ad6d7ba135597d4cf52c17c6490910089972fa749fb1f7c1839ad9",
+  "cacheSourceId": "e2d9587d940ae845c6a7",
+  "retrievedAt": "2026-11-07T04:45:51.155931+00:00",
+  "reviewedMappings": {
+    "2012-3-02:0": "교재의 계수 포함 지수 근사와 정확식을 대조.④는 계수까지 생략하는 추가 근사로 한정.",
+    "2012-3-02:1": "exp(−2κL) 모델에서 두께비2는 지수2. 실제 두께비3/2와 다름.",
+    "2012-3-02:2": "정확식 분모의 sinh²(κL)는L에 따라 증가하므로T감소. T₀^(2/3)는 증가해 모순.",
+    "2012-3-02:3": "같은 단조성과0<T₀<1에서 T₀^(3/4)>T₀를 적용.",
+    "2012-3-02:4": "지수항만 남긴 모델에서2→3nm는 지수3/2. 계수G유지 시G^(−1/2)가 남는 것을 별도 명시.",
+    "2012-3-02:5": "지수항만 남긴 모델에서5/4배는2.5nm. 주어진3nm와 불일치."
+  },
+  "retrievalMethod": "Direct web open/find",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

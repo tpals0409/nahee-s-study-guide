@@ -1,0 +1,16 @@
+{
+  "id": "6d3090cbe0e0d8e4c3f5",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e 7.2 Glycolysis",
+  "url": "https://openstax.org/books/biology-2e/pages/7-2-glycolysis",
+  "excerpt": "Glycolysis takes place in the cytoplasm of both prokaryotic and eukaryotic cells.",
+  "sourceHash": "29332700300a32bcc5a92cd245283b6adf589a0a47a3a1b9e8b7df678366b1b4",
+  "cacheSourceId": "a29984f163a543869d63",
+  "retrievedAt": "2026-11-06T16:58:15.017165+00:00",
+  "reviewedMappings": {
+    "2011-3-22:0": "공통 해설 근거: ㄷ의 장소 표현에 대한 제한: 해당과정은 세포질. 모든 단계가 미토콘드리아라고 확대하지 않음."
+  },
+  "retrievalMethod": "web.search 반환 본문 직접 대조; 전체 페이지 취득 아님",
+  "sourceHashScope": "Selected excerpt only; not full page"
+}

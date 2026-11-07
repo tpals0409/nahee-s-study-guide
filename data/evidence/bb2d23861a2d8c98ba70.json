@@ -1,0 +1,18 @@
+{
+  "id": "bb2d23861a2d8c98ba70",
+  "kind": "science",
+  "source": "National Library of Medicine digital repository",
+  "ref": "Alloway (1932), J Exp Med 55:91–99",
+  "url": "https://digirepo.nlm.nih.gov/ext/document/101584575X5/PDF/101584575X5.pdf",
+  "excerpt": "The filtrate was partially neutralized",
+  "sourceHash": "bc6719220c0e2bb8fd53b260a6bdc805b34a50dec8722b380450ca884527bd29",
+  "cacheSourceId": "7d067b43f5f0d0ab1085",
+  "retrievedAt": "2026-11-07T05:22:19.680903+00:00",
+  "reviewedMappings": {
+    "2012-3-29:0": "추출물 제조법에 알칼리 처리 후 부분 중화가 명시된다. NaOH 처리 유무만으로 활성 보존을 일반화하지 않는다.",
+    "2012-3-29:2": "ㄹ: 논문은 동결·해동 추출물의 NaOH 첨가·여과·부분 중화 절차를 사용한다. 문항의 NaOH 완전 용해 후 혼합과 같은 프로토콜이 아니다.",
+    "2012-3-29:5": "ㄹ: 실제 추출·중화·배양 조건이 중요함을 기록하며 문항의 미기재 조건을 논문 조건으로 보충해 사망을 단정하지 않는다."
+  },
+  "retrievalMethod": "Direct web open",
+  "sourceHashScope": "Selected short excerpt only; not full article"
+}

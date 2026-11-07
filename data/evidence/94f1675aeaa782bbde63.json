@@ -1,0 +1,21 @@
+{
+  "id": "94f1675aeaa782bbde63",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Organic Chemistry 3.1 Functional Groups",
+  "url": "https://openstax.org/books/organic-chemistry/pages/3-1-functional-groups",
+  "excerpt": "at least one hydrogen",
+  "sourceHash": "bb9a9a4c19adfd0c2c3f971d896bd537ffcee89da0a9f15f6510d8ea0d9c6947",
+  "cacheSourceId": "ae7abed65de03f601982",
+  "retrievedAt": "2026-11-07T06:15:25.805519+00:00",
+  "reviewedMappings": {
+    "2011-3-12:0": "Carbonyl carbon bonded to H distinguishes aldehyde; vanillin CHO present. This does not resolve phenol/alcohol official-answer conflict.",
+    "2011-3-12:1": "Carbonyl carbon bonded to H distinguishes aldehyde; vanillin CHO present. This does not resolve phenol/alcohol official-answer conflict.",
+    "2011-3-12:2": "Carbonyl carbon bonded to H distinguishes aldehyde; vanillin CHO present. This does not resolve phenol/alcohol official-answer conflict.",
+    "2011-3-12:3": "Carbonyl carbon bonded to H distinguishes aldehyde; vanillin CHO present. This does not resolve phenol/alcohol official-answer conflict.",
+    "2011-3-12:4": "Carbonyl carbon bonded to H distinguishes aldehyde; vanillin CHO present. This does not resolve phenol/alcohol official-answer conflict.",
+    "2011-3-12:5": "Carbonyl carbon bonded to H distinguishes aldehyde; vanillin CHO present. This does not resolve phenol/alcohol official-answer conflict."
+  },
+  "retrievalMethod": "web direct text",
+  "sourceHashScope": "Short reviewed excerpt only"
+}

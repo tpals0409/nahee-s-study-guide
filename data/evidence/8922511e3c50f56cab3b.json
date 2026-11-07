@@ -1,0 +1,18 @@
+{
+  "id": "8922511e3c50f56cab3b",
+  "kind": "science",
+  "source": "NOAA National Weather Service",
+  "ref": "Climate versus Weather",
+  "url": "https://www.weather.gov/climateservices/CvW",
+  "excerpt": "Weather is defined as the state of the atmosphere at a given time and place",
+  "sourceHash": "d3dda7951d22b207b5221a459cefaaa62157342645fb621003660d4fdc484842",
+  "cacheSourceId": "4152e8547e0da99695e5",
+  "retrievedAt": "2026-11-07T04:16:04.374174+00:00",
+  "reviewedMappings": {
+    "2026-3-31:1": "97 explicitly lists atmospheric variables including barometric pressure;98-101 defines climate statistically, expected frequencies and historical normals. Pressure classification inferred as a measured climatic element, not geographic control.",
+    "2026-3-31:2": "97 explicitly lists atmospheric variables including barometric pressure;98-101 defines climate statistically, expected frequencies and historical normals. Pressure classification inferred as a measured climatic element, not geographic control.",
+    "2026-3-31:3": "97 explicitly lists atmospheric variables including barometric pressure;98-101 defines climate statistically, expected frequencies and historical normals. Pressure classification inferred as a measured climatic element, not geographic control."
+  },
+  "retrievalMethod": "Direct web find/open",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

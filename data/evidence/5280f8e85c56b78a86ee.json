@@ -1,0 +1,16 @@
+{
+  "id": "5280f8e85c56b78a86ee",
+  "kind": "science",
+  "source": "European Southern Observatory",
+  "ref": "The Horsehead Nebula — About the Object",
+  "url": "https://www.eso.org/public/images/eso0202a/",
+  "excerpt": "Milky Way : Nebula : Appearance : Dark",
+  "sourceHash": "9ccf21a4d9a0dfdfb1d2395c9967cf79bad9bd3ea575904fa5d0995c91d301d8",
+  "cacheSourceId": "60d6f6ac315d2d1e4ee6",
+  "retrievedAt": "2026-11-07T04:28:40.574571+00:00",
+  "reviewedMappings": {
+    "2026-3-40:3": "관측기관의 대상 메타데이터가 말머리 성운을 우리은하의 암흑성운으로 분류하고 별자리를 Orion으로 명시한다."
+  },
+  "retrievalMethod": "Direct web open/find",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "c5322d0789ba62b42d5d",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Anatomy and Physiology 27.2 — Oogenesis; Hormonal Control of the Ovarian Cycle",
+  "url": "https://openstax.org/books/anatomy-and-physiology/pages/27-2-anatomy-and-physiology-of-the-female-reproductive-system",
+  "excerpt": "the cytoplasm is divided unequally",
+  "sourceHash": "c3d3a4628db1a919ece5c67e2e2b9ca0402dd7163eee38a65aed7817959e5dae",
+  "cacheSourceId": "3f7751be0133443ab7a6",
+  "retrievedAt": "2026-11-06T17:26:52.795918+00:00",
+  "reviewedMappings": {
+    "2012-3-26:0": "제1극체·제2난모세포 산물, LH 급증에 의한 여포벽 분해 및 배란, 정자 침입 후 제2분열 완료를 해당 절에서 확인. ㄴ 거짓 ㄷㄹ 참. 원문의 secondary oocyte diploid라는 오류는 채택하지 않음.",
+    "2012-3-26:1": "제1극체·제2난모세포 산물, LH 급증에 의한 여포벽 분해 및 배란, 정자 침입 후 제2분열 완료를 해당 절에서 확인. ㄴ 거짓 ㄷㄹ 참. 원문의 secondary oocyte diploid라는 오류는 채택하지 않음.",
+    "2012-3-26:2": "제1극체·제2난모세포 산물, LH 급증에 의한 여포벽 분해 및 배란, 정자 침입 후 제2분열 완료를 해당 절에서 확인. ㄴ 거짓 ㄷㄹ 참. 원문의 secondary oocyte diploid라는 오류는 채택하지 않음.",
+    "2012-3-26:3": "제1극체·제2난모세포 산물, LH 급증에 의한 여포벽 분해 및 배란, 정자 침입 후 제2분열 완료를 해당 절에서 확인. ㄴ 거짓 ㄷㄹ 참. 원문의 secondary oocyte diploid라는 오류는 채택하지 않음.",
+    "2012-3-26:4": "제1극체·제2난모세포 산물, LH 급증에 의한 여포벽 분해 및 배란, 정자 침입 후 제2분열 완료를 해당 절에서 확인. ㄴ 거짓 ㄷㄹ 참. 원문의 secondary oocyte diploid라는 오류는 채택하지 않음.",
+    "2012-3-26:5": "제1극체·제2난모세포 산물, LH 급증에 의한 여포벽 분해 및 배란, 정자 침입 후 제2분열 완료를 해당 절에서 확인. ㄴ 거짓 ㄷㄹ 참. 원문의 secondary oocyte diploid라는 오류는 채택하지 않음."
+  },
+  "retrievalMethod": "web.open; oogenesis and hormonal control sections read",
+  "sourceHashScope": "Selected excerpt only; not full page"
+}

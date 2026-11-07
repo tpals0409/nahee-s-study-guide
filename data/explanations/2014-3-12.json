@@ -1,0 +1,74 @@
+{
+  "summary": "원자 보존으로 반응식을 맞추면 2A₂B + 4C₂ → 4AC₂ + B₂입니다. C₂ 0.4몰이 모두 소모되는 한계 반응물이므로 x = 0.6, y = 0.4, z = 0.1이 됩니다. 따라서 y : z = 4 : 1이고, 옳은 보기는 'y : z는 4 : 1이다'입니다.",
+  "choices": [
+    "'한계 반응물은 A₂B이다'는 틀립니다. C₂ 0.4몰과 반응하는 데 필요한 A₂B는 0.4 × 2/4 = 0.2몰입니다. A₂B는 0.8몰이 있어 남으므로 한계 반응물은 C₂입니다.",
+    "'x는 0.4이다'는 틀립니다. 소모되는 A₂B는 0.2몰이므로 남는 양은 x = 0.8 − 0.2 = 0.6몰입니다.",
+    "'y : z는 4 : 1이다'는 옳습니다. 생성된 AC₂는 C₂ 소모량과 같은 0.4몰입니다. B₂는 C₂ 소모량의 1/4인 0.1몰입니다. 따라서 y : z = 0.4 : 0.1 = 4 : 1입니다.",
+    "'몰 수가 가장 큰 물질은 B₂이다'는 틀립니다. 반응 후 몰 수는 A₂B 0.6몰, AC₂ 0.4몰, B₂ 0.1몰입니다. 가장 많은 물질은 A₂B이고, B₂는 오히려 가장 적습니다.",
+    "⑤는 틀렸습니다. 그림의 용기를 부피가 일정한 용기로 보고 이상기체식을 적용하면, 총 기체 몰 수가1.2몰에서1.1몰로 감소하므로 P후/P전=1.1/1.2=11/12입니다. 따라서 압력은 증가하지 않고 감소합니다."
+  ],
+  "lawNote": "반응 후 표에 C₂가 없으므로 C₂가 모두 소모된 것으로 풉니다. 압력 비교는 그림을 부피가 변하지 않는 용기로 해석하고 이상기체 근사를 적용합니다. 밀폐되었다는 조건만으로 부피가 일정하다고 일반화할 수는 없습니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 4.4 Reaction Yields",
+      "quote": "The reactant yielding the lesser amount of product is the limiting reactant.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/4-4-reaction-yields",
+      "evidenceId": "c277c7d05c730b2306fa",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 4.4 Reaction Yields",
+      "quote": "The reactant yielding the lesser amount of product is the limiting reactant.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/4-4-reaction-yields",
+      "evidenceId": "c277c7d05c730b2306fa",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 4.4 Reaction Yields",
+      "quote": "The reactant yielding the lesser amount of product is the limiting reactant.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/4-4-reaction-yields",
+      "evidenceId": "c277c7d05c730b2306fa",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 4.4 Reaction Yields",
+      "quote": "The reactant yielding the lesser amount of product is the limiting reactant.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/4-4-reaction-yields",
+      "evidenceId": "c277c7d05c730b2306fa",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax · Chemistry 2e",
+      "ref": "9.2 The Ideal Gas Law",
+      "quote": "PV=nRT",
+      "url": "https://openstax.org/books/chemistry-2e/pages/9-2-relating-pressure-volume-amount-and-temperature-the-ideal-gas-law",
+      "evidenceId": "ade8c004249dde2e1397",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "원본2014-3-12_1.webp 화학식·몰수·선지 대조. OpenStax 한계반응물·이상기체식 확인. Fraction 원자보존·진행량·생성비 검산. 압력 설명의 일정부피 해석과 이상기체 조건 명시. 정답③.",
+    "contentHash": "6b986c3979eb343f0bad58156400516e95127f249576752ea060252f419820cd"
+  }
+}

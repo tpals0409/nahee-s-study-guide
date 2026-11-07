@@ -1,0 +1,30 @@
+{
+  "summary": "꼭대기에서 궤도와 접촉하려면 N+mg=mv_top²/r에서 N≥0이어야 하므로 v_top²≥gr입니다. 바닥에서 꼭대기까지 높이는 2r이므로 에너지 보존에 따라 v²=v_top²+4gr≥5gr입니다. 정답은 ⑤, √(5gr)입니다.",
+  "choices": [
+    "바닥 속력이 √(gr)이면 에너지로 허용되는 최대 높이는 r/2입니다. 꼭대기 높이 2r에 도달하기에 부족합니다.",
+    "√(3gr/2)이면 에너지로 허용되는 최대 높이는 3r/4입니다. 중심 높이 r보다도 낮으므로 한 바퀴 돌 수 없습니다.",
+    "√(5gr/2)이면 에너지로 허용되는 높이의 상한은 5r/4입니다. 꼭대기 높이 2r보다 낮습니다.",
+    "√(3gr)이면 에너지로 허용되는 높이의 상한은 3r/2입니다. 역시 꼭대기에 도달할 수 없습니다.",
+    "√(5gr)이면 꼭대기 속력은 √(gr), 수직항력은 0이 되어 접촉을 유지하는 임계 조건을 만족합니다."
+  ],
+  "lawNote": "그림처럼 원형 궤도의 안쪽 면에 접촉하는 질점으로 풉니다. 마찰과 물체 자체의 회전 에너지는 고려하지 않습니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "Idaho State University",
+      "ref": "Loop the Loop — Brief Description",
+      "quote": "To find the minimum speed required to stay in contact with the track, we set the normal force to zero",
+      "url": "https://www.isu.edu/physics/outreach/physics-class-demos/mechanics/loop-the-loop/",
+      "evidenceId": "3119593f62b06a09be71",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "원본 2012-3-09_1.webp의 안쪽 접촉·질점·마찰 무시 조건 및 선지 확인. 대학 설명의 접촉 임계 조건과 에너지 보존을 대조. 바닥부터의 각 θ에서 N=m v_bottom²/r−2mg+3mg cosθ이므로 최솟값은 꼭대기임을 확인. 다섯 선지 독립 계산 및 저장 정답⑤ 대조.",
+    "contentHash": "72af3d9fac08c5cca87155ca48ae04c694c7398ef81970067a9e6e36776cfa47"
+  }
+}

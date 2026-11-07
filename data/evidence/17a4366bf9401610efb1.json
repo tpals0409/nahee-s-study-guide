@@ -1,0 +1,21 @@
+{
+  "id": "17a4366bf9401610efb1",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "College Physics 2e 19.1 — Electric force and work",
+  "url": "https://openstax.org/books/college-physics-2e/pages/19-1-electric-potential-energy-potential-difference",
+  "excerpt": "its electric potential energy is converted to kinetic energy.",
+  "sourceHash": "64fb869ba72f19bd740bdb7c4b640b775106cf79d07bd9a5fdc3011bfabb044c",
+  "cacheSourceId": "da6c58db884fc03abaa2",
+  "retrievedAt": "2026-11-06T17:03:40.102133+00:00",
+  "reviewedMappings": {
+    "2012-3-07:0": "원본 초기정지·동일거리·균일장·질량비 확인. |F|=eE 동일. 뉴턴 운동법칙과 d=at²/2로 t∝√m 독립 유도. K=Fd=eEd 동일. ㄴ만 참.",
+    "2012-3-07:1": "ㄱ은 힘 크기가 같으므로 거짓.",
+    "2012-3-07:2": "ㄴ참이지만 ㄱ거짓.",
+    "2012-3-07:3": "ㄱ·ㄷ거짓: 동일 힘 및 동일 일.",
+    "2012-3-07:4": "ㄴ만 참: 전자의 도달시간은 양성자의1/√1800.",
+    "2012-3-07:5": "ㄴ참 ㄷ거짓: 두 입자 최종 K=eEd."
+  },
+  "retrievalMethod": "web.open 본문31–42에서 F=qE·일·운동에너지 관계 확인",
+  "sourceHashScope": "Selected excerpt only; not full page"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "c027879e13c400a10ad7",
+  "kind": "science",
+  "source": "National Park Service",
+  "ref": "Transform Plate Boundaries",
+  "url": "https://home.nps.gov/subjects/geology/plate-tectonics-transform-plate-boundaries.htm",
+  "excerpt": "The Pacific Plate slides north-northwestward past the North American Plate along the San Andreas Transform Plate Boundary.",
+  "sourceHash": "a4a6270e861e98fb8ba7af730b2ddd6de4fd7f6c8e2a15f5b05ff44d7a0ec5d5",
+  "cacheSourceId": "94ef375c35fdcb70a1d0",
+  "retrievedAt": "2026-11-06T18:23:38.840688+00:00",
+  "reviewedMappings": {
+    "2013-3-35:0": "ㄴ 샌안드레아스는 태평양·북아메리카판 사이 변환경계이며 해양판 발산이 아님."
+  },
+  "retrievalMethod": "web.search_query: indexed official excerpt",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

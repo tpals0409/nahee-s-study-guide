@@ -1,0 +1,21 @@
+{
+  "id": "97748208fb91b08cdd33",
+  "kind": "science",
+  "source": "Royal Belgian Institute for Space Aeronomy",
+  "ref": "Layers of Earth’s atmosphere, order and characteristics",
+  "url": "https://iasb.be/en/encyclopedia/layers-earths-atmosphere-order-and-characteristics",
+  "excerpt": "divided into four layers or ‘spheres’",
+  "sourceHash": "8a628f6529e3e60c6efdf4b389d54e47b6427b3d8a17893aaf45e6d4ffb3d215",
+  "cacheSourceId": "8f75f1270489b3555127",
+  "retrievedAt": "2026-11-07T02:51:24.765538+00:00",
+  "reviewedMappings": {
+    "2024-3-37:0": "Supports four main thermal layers and stratospheric warming with height due to ozone radiation absorption. Does not deny existence of exosphere or other classifications.",
+    "2024-3-37:1": "Supports four main thermal layers and stratospheric warming with height due to ozone radiation absorption. Does not deny existence of exosphere or other classifications.",
+    "2024-3-37:2": "Supports four main thermal layers and stratospheric warming with height due to ozone radiation absorption. Does not deny existence of exosphere or other classifications.",
+    "2024-3-37:3": "Supports four main thermal layers and stratospheric warming with height due to ozone radiation absorption. Does not deny existence of exosphere or other classifications.",
+    "2024-3-37:4": "Supports four main thermal layers and stratospheric warming with height due to ozone radiation absorption. Does not deny existence of exosphere or other classifications.",
+    "2024-3-37:5": "Supports four main thermal layers and stratospheric warming with height due to ozone radiation absorption. Does not deny existence of exosphere or other classifications."
+  },
+  "retrievalMethod": "Direct temperature-gradient classification and stratosphere paragraphs reviewed, including separate exosphere upper-limit discussion.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

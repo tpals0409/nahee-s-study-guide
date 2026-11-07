@@ -1,0 +1,14 @@
+{
+  "id": "82b1682af337a467049e",
+  "kind": "science",
+  "source": "USGS",
+  "ref": "What is a hotspot and how do you know it’s there?",
+  "url": "https://www.usgs.gov/faqs/what-a-hotspot-and-how-do-you-know-its-there",
+  "excerpt": "The island of Hawai‘i currently sits above the active hotspot",
+  "sourceHash": "6f2dc781d2f2662676a76876590fe0b2759c6bbf823ae44e5c8aabe2eef2cd4a",
+  "cacheSourceId": "3b6fd5bd85ad414e7af7",
+  "retrievedAt": "2026-11-06T15:09:10.590019+00:00",
+  "reviewedMappings": {
+    "2009-3-33:0": "USGS열점FAQ에서 판내부하와이 확인. This Dynamic Earth의 divergent/MidAtlantic 및continentalcontinental/Himalaya 항목대조.ㄱㄴ거짓ㄷ참. 맨틀플룸기원단정·불필요지자기/연대설명삭제."
+  }
+}

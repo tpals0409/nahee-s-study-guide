@@ -1,0 +1,14 @@
+{
+  "id": "cf85261c6e3512b99599",
+  "kind": "science",
+  "source": "OpenStax · Anatomy and Physiology 2e",
+  "ref": "18.4 Leukocytes and Platelets",
+  "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/18-4-leukocytes-and-platelets",
+  "excerpt": "Neutrophils are rapid responders to the site of infection and are efficient phagocytes with a preference for bacteria.",
+  "sourceHash": "c963369bea721f9df5d5374ab89a0561b5f62f8faf4461eef47aa701c730021b",
+  "cacheSourceId": "e0b077fab4d0737d0b2f",
+  "retrievedAt": "2026-11-06T15:43:03.952741+00:00",
+  "reviewedMappings": {
+    "2010-3-25:0": "교재 neutrophil 50–70%·식세포, B lymphocyte/plasma cell·humoral immunity, eosinophil의 parasitic worms 독성 과립 및 monocyte/macrophage 설명 대조. 인간 혈액 기준임을 명시하고 모든 척추동물의 동일 비율로 일반화하지 않음."
+  }
+}

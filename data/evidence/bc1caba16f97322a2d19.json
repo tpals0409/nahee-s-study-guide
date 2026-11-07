@@ -1,0 +1,27 @@
+{
+  "id": "bc1caba16f97322a2d19",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume 1, 8.3 Conservation of Energy",
+  "url": "https://openstax.org/books/university-physics-volume-1/pages/8-3-conservation-of-energy",
+  "excerpt": "no work is done by the string tension",
+  "sourceHash": "61ab872d99f4db14c63a916dcfa3366b827faac2b516990b91e5cf64945d230d",
+  "cacheSourceId": "4688128eb98940e09603",
+  "retrievedAt": "2026-11-07T00:42:14.527270+00:00",
+  "reviewedMappings": {
+    "2022-3-01:0": "비보존력이 일을 하지 않을 때 역학적 에너지 보존. 본 문제 정지한 마찰 없는 궤도에서는 수직항력이 변위에 수직이라 일0. 구슬 크기 무시·미끄러짐 조건에서 mgh=mgy+mv²/2.",
+    "2022-3-01:1": "비보존력이 일을 하지 않을 때 역학적 에너지 보존. 본 문제 정지한 마찰 없는 궤도에서는 수직항력이 변위에 수직이라 일0. 구슬 크기 무시·미끄러짐 조건에서 mgh=mgy+mv²/2.",
+    "2022-3-01:2": "비보존력이 일을 하지 않을 때 역학적 에너지 보존. 본 문제 정지한 마찰 없는 궤도에서는 수직항력이 변위에 수직이라 일0. 구슬 크기 무시·미끄러짐 조건에서 mgh=mgy+mv²/2.",
+    "2022-3-01:3": "비보존력이 일을 하지 않을 때 역학적 에너지 보존. 본 문제 정지한 마찰 없는 궤도에서는 수직항력이 변위에 수직이라 일0. 구슬 크기 무시·미끄러짐 조건에서 mgh=mgy+mv²/2.",
+    "2022-3-01:4": "비보존력이 일을 하지 않을 때 역학적 에너지 보존. 본 문제 정지한 마찰 없는 궤도에서는 수직항력이 변위에 수직이라 일0. 구슬 크기 무시·미끄러짐 조건에서 mgh=mgy+mv²/2.",
+    "2022-3-01:5": "비보존력이 일을 하지 않을 때 역학적 에너지 보존. 본 문제 정지한 마찰 없는 궤도에서는 수직항력이 변위에 수직이라 일0. 구슬 크기 무시·미끄러짐 조건에서 mgh=mgy+mv²/2.",
+    "2022-3-02:0": "자유낙하에서 중력만 일을 하므로 K+U=mgH. K=2U이면 U=mgH/3, 높이H/3, 낙하거리2H/3. 후보별 K/U를 검산.",
+    "2022-3-02:1": "자유낙하에서 중력만 일을 하므로 K+U=mgH. K=2U이면 U=mgH/3, 높이H/3, 낙하거리2H/3. 후보별 K/U를 검산.",
+    "2022-3-02:2": "자유낙하에서 중력만 일을 하므로 K+U=mgH. K=2U이면 U=mgH/3, 높이H/3, 낙하거리2H/3. 후보별 K/U를 검산.",
+    "2022-3-02:3": "자유낙하에서 중력만 일을 하므로 K+U=mgH. K=2U이면 U=mgH/3, 높이H/3, 낙하거리2H/3. 후보별 K/U를 검산.",
+    "2022-3-02:4": "자유낙하에서 중력만 일을 하므로 K+U=mgH. K=2U이면 U=mgH/3, 높이H/3, 낙하거리2H/3. 후보별 K/U를 검산.",
+    "2022-3-02:5": "자유낙하에서 중력만 일을 하므로 K+U=mgH. K=2U이면 U=mgH/3, 높이H/3, 낙하거리2H/3. 후보별 K/U를 검산."
+  },
+  "retrievalMethod": "Direct OpenStax page opened; energy conservation/no normal work and radial acceleration equations reviewed.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

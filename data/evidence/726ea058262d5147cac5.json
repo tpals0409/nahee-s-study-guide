@@ -1,0 +1,19 @@
+{
+  "id": "726ea058262d5147cac5",
+  "kind": "science",
+  "source": "US EPA",
+  "ref": "EPA’s Regulation of Biotechnology for Use in Pest Management — Insect Resistance Management",
+  "url": "https://www.epa.gov/regulation-biotechnology-under-tsca-and-fifra/epas-regulation-biotechnology-use-pest-management",
+  "excerpt": "surviving pests may pass their resistant genes on to subsequent generations.",
+  "sourceHash": "6f5e0e93907bf31c936f9028044c3881e088f8d0f7847526cbe010ef343bcde1",
+  "cacheSourceId": "7e4e10a0d916bb025195",
+  "retrievedAt": "2026-11-06T21:17:33.675296+00:00",
+  "reviewedMappings": {
+    "2017-3-24:0": "Insect Resistance Management 절의 저항성 해충 생존 및 유전 설명을 방향성 선택 정의와 결합. 저항성 증가의 표준적 설명은 A이며 B가 아님. 규제 설명을 생물학 근거로 확장하지 않음.",
+    "2017-3-24:2": "Insect Resistance Management 절의 저항성 해충 생존 및 유전 설명을 방향성 선택 정의와 결합. 저항성 증가의 표준적 설명은 A이며 B가 아님. 규제 설명을 생물학 근거로 확장하지 않음.",
+    "2017-3-24:4": "Insect Resistance Management 절의 저항성 해충 생존 및 유전 설명을 방향성 선택 정의와 결합. 저항성 증가의 표준적 설명은 A이며 B가 아님. 규제 설명을 생물학 근거로 확장하지 않음.",
+    "2017-3-24:5": "Insect Resistance Management 절의 저항성 해충 생존 및 유전 설명을 방향성 선택 정의와 결합. 저항성 증가의 표준적 설명은 A이며 B가 아님. 규제 설명을 생물학 근거로 확장하지 않음."
+  },
+  "retrievalMethod": "Direct browser review of natural-selection section/figure and insect-resistance mechanism",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

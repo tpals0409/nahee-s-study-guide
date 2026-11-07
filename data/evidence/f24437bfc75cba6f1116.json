@@ -1,0 +1,21 @@
+{
+  "id": "f24437bfc75cba6f1116",
+  "kind": "science",
+  "source": "Kansas State University / Gary M. Wysin",
+  "ref": "Apparent and Absolute Magnitudes",
+  "url": "https://www.phys.ksu.edu/personal/wysin/astro/magnitudes.html",
+  "excerpt": "M_{v} = m - 2.5 log[ (d/10)^{2} ].",
+  "sourceHash": "5c876cf32c028f6bd33d91734811e3c640f1173635507eb68ef3b9bdee38157e",
+  "cacheSourceId": "f8dfe4f2964ecd66aed3",
+  "retrievedAt": "2026-11-07T01:21:58.434426+00:00",
+  "reviewedMappings": {
+    "2022-3-35:0": "10 pc 기준 절대 등급 정의와 거리-밝기-등급 관계를 확인. m=3, d=100 pc 대입 시 M=−2이며 각 선지 값을 이 결과와 비교함. 성간 소광을 무시하는 기본식의 적용 범위를 명시.",
+    "2022-3-35:1": "10 pc 기준 절대 등급 정의와 거리-밝기-등급 관계를 확인. m=3, d=100 pc 대입 시 M=−2이며 각 선지 값을 이 결과와 비교함. 성간 소광을 무시하는 기본식의 적용 범위를 명시.",
+    "2022-3-35:2": "10 pc 기준 절대 등급 정의와 거리-밝기-등급 관계를 확인. m=3, d=100 pc 대입 시 M=−2이며 각 선지 값을 이 결과와 비교함. 성간 소광을 무시하는 기본식의 적용 범위를 명시.",
+    "2022-3-35:3": "10 pc 기준 절대 등급 정의와 거리-밝기-등급 관계를 확인. m=3, d=100 pc 대입 시 M=−2이며 각 선지 값을 이 결과와 비교함. 성간 소광을 무시하는 기본식의 적용 범위를 명시.",
+    "2022-3-35:4": "10 pc 기준 절대 등급 정의와 거리-밝기-등급 관계를 확인. m=3, d=100 pc 대입 시 M=−2이며 각 선지 값을 이 결과와 비교함. 성간 소광을 무시하는 기본식의 적용 범위를 명시.",
+    "2022-3-35:5": "10 pc 기준 절대 등급 정의와 거리-밝기-등급 관계를 확인. m=3, d=100 pc 대입 시 M=−2이며 각 선지 값을 이 결과와 비교함. 성간 소광을 무시하는 기본식의 적용 범위를 명시."
+  },
+  "retrievalMethod": "Direct web open; apparent magnitude and absolute magnitude sections, lines 5–28; logarithmic brightness scale, inverse-square law and distance units checked.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

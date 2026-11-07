@@ -1,0 +1,19 @@
+{
+  "id": "79ff2c896816691e94c0",
+  "kind": "science",
+  "source": "NIDDK",
+  "ref": "Graves’ Disease",
+  "url": "https://www.niddk.nih.gov/health-information/endocrine-diseases/graves-disease",
+  "excerpt": "TSI acts like thyroid-stimulating hormone (TSH)",
+  "sourceHash": "2f7743a922fbb7a1e81fda048c85ca867bf47013a67638b856fa64afe4823287",
+  "cacheSourceId": "5e038470f71902541a76",
+  "retrievedAt": "2026-11-06T19:41:32.475412+00:00",
+  "reviewedMappings": {
+    "2015-3-24:0": "공식 자료의 TSI 자가항체 작용 및 갑상선 비대 증상 항목을 읽었다. 항진과 비대가 공존 가능함을 반영하고, 이를 티록신 과다 자체의 인과와 구분한다.",
+    "2015-3-24:2": "공식 자료의 TSI 자가항체 작용 및 갑상선 비대 증상 항목을 읽었다. 항진과 비대가 공존 가능함을 반영하고, 이를 티록신 과다 자체의 인과와 구분한다.",
+    "2015-3-24:4": "공식 자료의 TSI 자가항체 작용 및 갑상선 비대 증상 항목을 읽었다. 항진과 비대가 공존 가능함을 반영하고, 이를 티록신 과다 자체의 인과와 구분한다.",
+    "2015-3-24:5": "공식 자료의 TSI 자가항체 작용 및 갑상선 비대 증상 항목을 읽었다. 항진과 비대가 공존 가능함을 반영하고, 이를 티록신 과다 자체의 인과와 구분한다."
+  },
+  "retrievalMethod": "Direct page symptoms and causes sections read",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

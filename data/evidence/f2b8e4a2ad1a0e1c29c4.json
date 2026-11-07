@@ -1,0 +1,16 @@
+{
+  "id": "f2b8e4a2ad1a0e1c29c4",
+  "kind": "science",
+  "source": "The Geological Society",
+  "ref": "Oceanic/Continental: The Andes",
+  "url": "https://www.geolsoc.org.uk/Plate-Tectonics/Chap3-Plate-Margins/Convergent/Oceanic-continental.html",
+  "excerpt": "continental lithosphere of the South American Plate",
+  "sourceHash": "9dc64e00a46b68078d2fffb2969a0f29a9ea4acaeb3c4d6becac4d6b77ee933b",
+  "cacheSourceId": "e507d30e6ad1a6f35a69",
+  "retrievedAt": "2026-11-07T04:17:30.732690+00:00",
+  "reviewedMappings": {
+    "2026-3-32:5": "35 oceanic Nazca subduction below continental South America;45 resulting Andean folding."
+  },
+  "retrievalMethod": "Direct web open/find",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

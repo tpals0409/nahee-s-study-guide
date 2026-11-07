@@ -1,0 +1,21 @@
+{
+  "id": "57f1ccd143c81797029b",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e 8.3 — Using Light Energy to Make Organic Molecules",
+  "url": "https://openstax.org/books/biology-2e/pages/8-3-using-light-energy-to-make-organic-molecules",
+  "excerpt": "Three more molecules of ATP are used in these regeneration reactions.",
+  "sourceHash": "30f545bb0f4a201ea071a19df0a7b8fbaaeb2dffe176529fb051b138fa136032",
+  "cacheSourceId": "0334bb40143fa5e16415",
+  "retrievedAt": "2026-11-06T17:24:36.449951+00:00",
+  "reviewedMappings": {
+    "2012-3-23:0": "환원 단계 ATP 6분자 및 재생 단계 3분자 소비 확인. ㄹ 거짓, ②⑤ 배제와 최종 조합 판단. 식물 세포호흡 내용도 검색 결과에서 대조.",
+    "2012-3-23:1": "환원 단계 ATP 6분자 및 재생 단계 3분자 소비 확인. ㄹ 거짓, ②⑤ 배제와 최종 조합 판단. 식물 세포호흡 내용도 검색 결과에서 대조.",
+    "2012-3-23:2": "환원 단계 ATP 6분자 및 재생 단계 3분자 소비 확인. ㄹ 거짓, ②⑤ 배제와 최종 조합 판단. 식물 세포호흡 내용도 검색 결과에서 대조.",
+    "2012-3-23:3": "환원 단계 ATP 6분자 및 재생 단계 3분자 소비 확인. ㄹ 거짓, ②⑤ 배제와 최종 조합 판단. 식물 세포호흡 내용도 검색 결과에서 대조.",
+    "2012-3-23:4": "환원 단계 ATP 6분자 및 재생 단계 3분자 소비 확인. ㄹ 거짓, ②⑤ 배제와 최종 조합 판단. 식물 세포호흡 내용도 검색 결과에서 대조.",
+    "2012-3-23:5": "환원 단계 ATP 6분자 및 재생 단계 3분자 소비 확인. ㄹ 거짓, ②⑤ 배제와 최종 조합 판단. 식물 세포호흡 내용도 검색 결과에서 대조."
+  },
+  "retrievalMethod": "web.open; relevant sections directly reviewed",
+  "sourceHashScope": "Selected excerpt only; not full page"
+}

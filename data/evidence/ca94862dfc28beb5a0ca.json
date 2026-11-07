@@ -1,0 +1,18 @@
+{
+  "id": "ca94862dfc28beb5a0ca",
+  "kind": "science",
+  "source": "The Geological Society",
+  "ref": "Tectonic Fit",
+  "url": "https://www.geolsoc.org.uk/Plate-Tectonics/Chap1-Pioneers-of-Plate-Tectonics/Alfred-Wegener/Tectonic-Fit-of-Coastlines.html",
+  "excerpt": "the mountain belt forms a continuous linear feature",
+  "sourceHash": "6ad17cba2997a374f91fdd39aaf1c2d37c1134c997cbe5d712e886ab630f6c3a",
+  "cacheSourceId": "50388b40201bb7f4e9f7",
+  "retrievedAt": "2026-11-07T02:03:06.164847+00:00",
+  "reviewedMappings": {
+    "2023-3-32:0": "캐나다·그린란드·영국·스칸디나비아 등의 고기 습곡산맥을 재결합하면 연속함을 직접 확인. ㄷ 참.",
+    "2023-3-32:3": "캐나다·그린란드·영국·스칸디나비아 등의 고기 습곡산맥을 재결합하면 연속함을 직접 확인. ㄷ 참.",
+    "2023-3-32:4": "캐나다·그린란드·영국·스칸디나비아 등의 고기 습곡산맥을 재결합하면 연속함을 직접 확인. ㄷ 참."
+  },
+  "retrievalMethod": "Geological Society Wegener 증거 페이지 및 해당 하위 페이지 직접 열람. 캐나다·그린란드·영국·스칸디나비아 등의 고기 습곡산맥을 재결합하면 연속함을 직접 확인. ㄷ 참.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

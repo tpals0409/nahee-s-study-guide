@@ -1,0 +1,85 @@
+{
+  "id": "2026-3-32",
+  "summary": "대서양 중앙해령은 두 판이 멀어지면서 해저확장이 일어나는 발산경계이므로 ②가 옳습니다.",
+  "choices": [
+    "발산경계에서는 두 판이 서로 멀어집니다. 충돌과 섭입을 발산경계의 특징으로 설명한 ①은 틀립니다.",
+    "대서양 중앙해령은 두 판이 멀어지며 새로운 해양지각이 생성되는 해저확장대입니다. 발산경계의 예이므로 옳습니다.",
+    "동아프리카 열곡대는 대륙이 벌어지는 발산형 경계입니다. 수렴경계라는 ③은 틀립니다.",
+    "산안드레아스 단층은 변환단층이며 주로 얕은 지각에서 지진이 발생합니다. 심발지진이 빈번한 곳이라는 설명은 틀립니다. 섭입하는 판 내부에서 발생하는 깊은 지진과 구별해야 합니다.",
+    "안데스 산맥은 해양판인 나스카판이 남아메리카 대륙판 아래로 섭입하는 수렴 과정과 관련됩니다. 해양판끼리의 수렴이라는 ⑤는 틀립니다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "The Geological Society",
+      "ref": "Divergent Plate Boundaries",
+      "quote": "At divergent plate margins, plates are moving apart and new lithosphere is being created.",
+      "url": "https://www.geolsoc.org.uk/Plate-Tectonics/Chap3-Plate-Margins/Divergent.html",
+      "evidenceId": "76aca092b96bd887a6d8",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "The Geological Society",
+      "ref": "Divergent Plate Boundaries",
+      "quote": "At divergent plate margins, plates are moving apart and new lithosphere is being created.",
+      "url": "https://www.geolsoc.org.uk/Plate-Tectonics/Chap3-Plate-Margins/Divergent.html",
+      "evidenceId": "76aca092b96bd887a6d8",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "The Geological Society",
+      "ref": "Mid-Atlantic Ridge",
+      "quote": "new ocean lithosphere is formed at the ridge and the ocean basin gets wider",
+      "url": "https://www.geolsoc.org.uk/Plate-Tectonics/Chap3-Plate-Margins/Divergent/Mid-Atlantic-Ridge.html",
+      "evidenceId": "fc927d54ede5ec75af4f",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "The Geological Society",
+      "ref": "Mid-Atlantic Ridge",
+      "quote": "new ocean lithosphere is formed at the ridge and the ocean basin gets wider",
+      "url": "https://www.geolsoc.org.uk/Plate-Tectonics/Chap3-Plate-Margins/Divergent/Mid-Atlantic-Ridge.html",
+      "evidenceId": "fc927d54ede5ec75af4f",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "The Geological Society",
+      "ref": "Oceanic/Continental: The Andes",
+      "quote": "continental lithosphere of the South American Plate",
+      "url": "https://www.geolsoc.org.uk/Plate-Tectonics/Chap3-Plate-Margins/Convergent/Oceanic-continental.html",
+      "evidenceId": "f2b8e4a2ad1a0e1c29c4",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "U.S. Geological Survey (USGS)",
+      "ref": "At what depth do earthquakes occur? What is the significance of the depth?",
+      "quote": "faults are only active in the shallow crust",
+      "url": "https://www.usgs.gov/faqs/what-depth-do-earthquakes-occur-what-significance-depth",
+      "evidenceId": "5e32fa7c1675c7297b3b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Original full image reviewed; direct Geological Society divergent/MidAtlantic/Andes pages plus USGS earthquake-depth FAQ matched all choices. Independent answer2 agrees with archived final key. Removed unnecessary spreading rates, absolute depth thresholds and unrelated examples.",
+    "contentHash": "a88cc62f1fd3b6707c1db72cb5b66c482515cb1c2c09583319c6717ae00e87d5"
+  }
+}

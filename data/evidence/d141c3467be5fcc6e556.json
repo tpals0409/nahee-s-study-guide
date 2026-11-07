@@ -1,0 +1,16 @@
+{
+  "id": "d141c3467be5fcc6e556",
+  "kind": "science",
+  "source": "NOAA",
+  "ref": "Tides and Currents Glossary — geostrophic flow",
+  "url": "https://tidesandcurrents.noaa.gov/glossary",
+  "excerpt": "the horizontal component of the Coriolis force is balanced by the horizontal component of the pressure gradient force",
+  "sourceHash": "093d5cb5daebd274e753d9cc6f5e2e56ee81994e148e714f6ed7361e0c9added",
+  "cacheSourceId": "f1f93affc1a01d1be5cd",
+  "retrievedAt": "2026-11-06T16:05:49.194500+00:00",
+  "reviewedMappings": {
+    "2010-3-36:0": "ㄴ: 수평 전향력과 압력경도력의 평형이라는 정의를 확인."
+  },
+  "retrievalMethod": "web.open and web.find: publisher page read and selected excerpts transcribed",
+  "sourceHashScope": "Selected excerpts only; not full page"
+}

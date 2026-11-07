@@ -1,0 +1,140 @@
+{
+  "id": "2016-3-13",
+  "summary": "최종정답은③(ㄱ·ㄷ)입니다. (나)의 음의 기울기 절댓값이 더 커 활성화 에너지가 크고,Ⅱ의 반감기는Ⅰ의1/10이므로 ㄴ은 거짓입니다. ㄷ은 생성 농도 증가량 또는 같은 반응 부피에서의 생성량으로 해석하면Ⅲ>Ⅱ>Ⅰ입니다.",
+  "choices": [
+    "①(ㄱ): log₁₀k 대1/T 그래프의 기울기는 −E_a/(R ln10)입니다. (나)가 더 가파르게 감소하므로 ㄱ은 옳습니다. 다만 같은 부피의 생성량으로 해석하면 ㄷ도 옳아서①은 ㄷ을 빠뜨립니다.",
+    "②(ㄴ): 그래프에서 kⅠ=10⁻⁴, kⅡ=10⁻³입니다.1차 반응의 반감기는 ln2/k이므로 t½,Ⅱ/t½,Ⅰ=kⅠ/kⅡ=1/10입니다.4/3이 아니므로 ㄴ은 거짓입니다.",
+    "③(ㄱ·ㄷ): 최종정답표의 정답입니다. ㄱ은 기울기로 확인됩니다. 같은 시간t에서 생성 농도 증가량은 C₀(1−e^(−kt))입니다.Ⅱ와Ⅲ은k가 같고Ⅲ의 초기 농도가2배이므로Ⅲ은Ⅱ의2배입니다.Ⅰ과Ⅱ는 초기 농도가 같지만Ⅱ의k가 더 크므로Ⅱ>Ⅰ입니다. 같은 부피이면 총생성량도 이 순서입니다.",
+    "④(ㄴ·ㄷ): ㄴ의 반감기 비는4/3이 아니라1/10이므로 거짓입니다. ㄷ을 같은 부피 조건에서 참으로 보더라도 거짓인 ㄴ을 포함하고 참인 ㄱ을 빠뜨렸습니다.",
+    "⑤(ㄱ·ㄴ·ㄷ): ㄴ이 거짓이므로 세 항목 모두를 고를 수 없습니다. ㄱ과, 동일 부피 또는 생성 농도 증가량 해석의 ㄷ을 고른③이 공식 정답입니다."
+  ],
+  "lawNote": "조건 주의: 원문은 “생성된 P의 양”이라고 쓰지만 실험별 부피를 제시하지 않습니다. 각 실험이 일정 부피라면 생성 몰수는 V·C₀(1−e^(−kt))입니다. 예를 들어Ⅲ의 부피가Ⅱ의1/4이면 생성 농도는2배라도 총몰수는1/2배가 되어 ㄷ의 순서가 달라집니다. 따라서 총몰수 비교에는 동일 부피 가정이 필요합니다. 또 그래프의k 시간 단위가 없으므로 임의로s⁻¹을 붙여1분 후 절대 생성량을 계산하지 않습니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e 12.5 Collision Theory",
+      "quote": "using an alternate version of the Arrhenius equation that takes the form of a linear equation",
+      "url": "https://openstax.org/books/chemistry-2e/pages/12-5-collision-theory",
+      "evidenceId": "03daca046ac94bb7bdf7",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e 12.5 Collision Theory",
+      "quote": "using an alternate version of the Arrhenius equation that takes the form of a linear equation",
+      "url": "https://openstax.org/books/chemistry-2e/pages/12-5-collision-theory",
+      "evidenceId": "03daca046ac94bb7bdf7",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e 12.5 Collision Theory",
+      "quote": "using an alternate version of the Arrhenius equation that takes the form of a linear equation",
+      "url": "https://openstax.org/books/chemistry-2e/pages/12-5-collision-theory",
+      "evidenceId": "03daca046ac94bb7bdf7",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e 12.5 Collision Theory",
+      "quote": "using an alternate version of the Arrhenius equation that takes the form of a linear equation",
+      "url": "https://openstax.org/books/chemistry-2e/pages/12-5-collision-theory",
+      "evidenceId": "03daca046ac94bb7bdf7",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e 12.5 Collision Theory",
+      "quote": "using an alternate version of the Arrhenius equation that takes the form of a linear equation",
+      "url": "https://openstax.org/books/chemistry-2e/pages/12-5-collision-theory",
+      "evidenceId": "03daca046ac94bb7bdf7",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e 12.4 Integrated Rate Laws",
+      "quote": "an equation describing how the reactant concentration varies with time",
+      "url": "https://openstax.org/books/chemistry-2e/pages/12-4-integrated-rate-laws",
+      "evidenceId": "19b5ebbef2f2d9be7d0a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e 12.4 Integrated Rate Laws",
+      "quote": "an equation describing how the reactant concentration varies with time",
+      "url": "https://openstax.org/books/chemistry-2e/pages/12-4-integrated-rate-laws",
+      "evidenceId": "19b5ebbef2f2d9be7d0a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e 12.4 Integrated Rate Laws",
+      "quote": "an equation describing how the reactant concentration varies with time",
+      "url": "https://openstax.org/books/chemistry-2e/pages/12-4-integrated-rate-laws",
+      "evidenceId": "19b5ebbef2f2d9be7d0a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e 12.4 Integrated Rate Laws",
+      "quote": "an equation describing how the reactant concentration varies with time",
+      "url": "https://openstax.org/books/chemistry-2e/pages/12-4-integrated-rate-laws",
+      "evidenceId": "19b5ebbef2f2d9be7d0a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e 12.4 Integrated Rate Laws",
+      "quote": "an equation describing how the reactant concentration varies with time",
+      "url": "https://openstax.org/books/chemistry-2e/pages/12-4-integrated-rate-laws",
+      "evidenceId": "19b5ebbef2f2d9be7d0a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e 12.4 Integrated Rate Laws",
+      "quote": "an equation describing how the reactant concentration varies with time",
+      "url": "https://openstax.org/books/chemistry-2e/pages/12-4-integrated-rate-laws",
+      "evidenceId": "19b5ebbef2f2d9be7d0a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Original graph/table and 2016 final-key PDF p3 A-form13=3 viewed. Verified Arrhenius base conversion, half-life ratio, and conditional equal-volume product ordering; missing volume and k-time-unit limitations explicit.",
+    "contentHash": "c9f57e31d2322e4dbb49694264bf4167eccb97dddf796140314a7e1b56945168"
+  }
+}

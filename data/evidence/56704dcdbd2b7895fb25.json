@@ -1,0 +1,17 @@
+{
+  "id": "56704dcdbd2b7895fb25",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e, 15.5 Ribosomes and Protein Synthesis",
+  "url": "https://openstax.org/books/biology-2e/pages/15-5-ribosomes-and-protein-synthesis",
+  "excerpt": "The fMet begins every polypeptide chain synthesized by E. coli",
+  "sourceHash": "779d1b8d89151567b7e0132c3a0c1ee63ee8bc3c07f698a41a107a4ad240323f",
+  "cacheSourceId": "0caf3b0bf6e9fef886ae",
+  "retrievedAt": "2026-11-07T01:09:44.368619+00:00",
+  "reviewedMappings": {
+    "2022-3-25:2": "Ribosome section identifies cytoplasmic 70S (30S/50S) and nonadditive S units; initiation section identifies E. coli formylated initiator methionine.",
+    "2022-3-25:5": "Ribosome section identifies cytoplasmic 70S (30S/50S) and nonadditive S units; initiation section identifies E. coli formylated initiator methionine."
+  },
+  "retrievalMethod": "Direct web read of relevant text and table; original problem image inspected",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

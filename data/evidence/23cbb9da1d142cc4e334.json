@@ -1,0 +1,21 @@
+{
+  "id": "23cbb9da1d142cc4e334",
+  "kind": "science",
+  "source": "UC Davis / Physics LibreTexts",
+  "ref": "UCD Physics 9D, 1.2 Doppler Effect",
+  "url": "https://phys.libretexts.org/Courses/University_of_California_Davis/UCD:_Physics_9D__Modern_Physics/1:_Sound/1.2:_Doppler_Effect",
+  "excerpt": "the property of the wave that is maintained is the frequency.",
+  "sourceHash": "828816a791bd94bf9a89207ef9072ce13e4c7cca88bd30a350e045450020a65f",
+  "cacheSourceId": "1fa3b541a46d8ba87cb0",
+  "retrievedAt": "2026-11-07T00:44:59.544988+00:00",
+  "reviewedMappings": {
+    "2022-3-04:0": "Combinations of Motions의 정지벽 반사 설명 확인. 벽이 받는 진동수는 반사에서 유지. 본 문제 수신자 B도 정지해 추가 도플러 변화 없음. 움직이는 송신자가 직접 메아리를 받는 다른 경우와 구별.",
+    "2022-3-04:1": "Combinations of Motions의 정지벽 반사 설명 확인. 벽이 받는 진동수는 반사에서 유지. 본 문제 수신자 B도 정지해 추가 도플러 변화 없음. 움직이는 송신자가 직접 메아리를 받는 다른 경우와 구별.",
+    "2022-3-04:2": "Combinations of Motions의 정지벽 반사 설명 확인. 벽이 받는 진동수는 반사에서 유지. 본 문제 수신자 B도 정지해 추가 도플러 변화 없음. 움직이는 송신자가 직접 메아리를 받는 다른 경우와 구별.",
+    "2022-3-04:3": "Combinations of Motions의 정지벽 반사 설명 확인. 벽이 받는 진동수는 반사에서 유지. 본 문제 수신자 B도 정지해 추가 도플러 변화 없음. 움직이는 송신자가 직접 메아리를 받는 다른 경우와 구별.",
+    "2022-3-04:4": "Combinations of Motions의 정지벽 반사 설명 확인. 벽이 받는 진동수는 반사에서 유지. 본 문제 수신자 B도 정지해 추가 도플러 변화 없음. 움직이는 송신자가 직접 메아리를 받는 다른 경우와 구별.",
+    "2022-3-04:5": "Combinations of Motions의 정지벽 반사 설명 확인. 벽이 받는 진동수는 반사에서 유지. 본 문제 수신자 B도 정지해 추가 도플러 변화 없음. 움직이는 송신자가 직접 메아리를 받는 다른 경우와 구별."
+  },
+  "retrievalMethod": "Opened educational source; moving-source formula and stationary-wall reflection section reviewed.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

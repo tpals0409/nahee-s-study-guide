@@ -1,0 +1,16 @@
+{
+  "id": "00d7914157f7f2e0c80a",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e, 3.3 Lipids",
+  "url": "https://openstax.org/books/biology-2e/pages/3-3-lipids",
+  "excerpt": "Each double bond may be in a cis or trans configuration.",
+  "sourceHash": "41ab10169bdf874a9f6eee6915ec0cd952cd0edcfc9ce593c83462afd223c3cd",
+  "cacheSourceId": "07819c0a898931a8f8a7",
+  "retrievedAt": "2026-11-07T01:06:01.093536+00:00",
+  "reviewedMappings": {
+    "2022-3-21:2": "Figure 3.16 explicitly identifies both cis and trans double bonds as unsaturated; trans is not saturated."
+  },
+  "retrievalMethod": "Direct web read of Fats and Oils, Trans Fats and Figure 3.16; original problem image inspected",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

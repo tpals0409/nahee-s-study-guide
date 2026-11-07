@@ -1,0 +1,19 @@
+{
+  "id": "fd96c873369b1ee7730b",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Anatomy and Physiology 2e 17.2 — Hormones",
+  "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/17-2-hormones",
+  "excerpt": "Hormone receptors recognize molecules with specific shapes and side groups",
+  "sourceHash": "577ffae74f5311196ee9dad9f011cdadcf29bf8cabc59f14eebc1f8de1265a57",
+  "cacheSourceId": "0031dd02f25589245fda",
+  "retrievedAt": "2026-11-06T19:40:26.929882+00:00",
+  "reviewedMappings": {
+    "2015-3-23:1": "Pathways of Hormone Action의 수용체 단백질 정의·특이성·세포 반응과 Intracellular Receptors의 세포질/핵 위치를 직접 확인했다.",
+    "2015-3-23:2": "Pathways of Hormone Action의 수용체 단백질 정의·특이성·세포 반응과 Intracellular Receptors의 세포질/핵 위치를 직접 확인했다.",
+    "2015-3-23:3": "Pathways of Hormone Action의 수용체 단백질 정의·특이성·세포 반응과 Intracellular Receptors의 세포질/핵 위치를 직접 확인했다.",
+    "2015-3-23:4": "Pathways of Hormone Action의 수용체 단백질 정의·특이성·세포 반응과 Intracellular Receptors의 세포질/핵 위치를 직접 확인했다."
+  },
+  "retrievalMethod": "Direct web page and relevant receptor sections read; selected short excerpt transcribed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

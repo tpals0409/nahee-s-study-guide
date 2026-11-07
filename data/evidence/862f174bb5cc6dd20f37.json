@@ -1,0 +1,21 @@
+{
+  "id": "862f174bb5cc6dd20f37",
+  "kind": "science",
+  "source": "NASA",
+  "ref": "Eclipses and the Moon",
+  "url": "https://science.nasa.gov/moon/eclipses/",
+  "excerpt": "The tilt of the Moon’s orbit prevents us from having monthly solar and lunar eclipses.",
+  "sourceHash": "4daa89c9c207da019bfc89c0faa52119c5816e594dc66420c6c93595d096f067",
+  "cacheSourceId": "ffb3a79e6617846fc3f4",
+  "retrievedAt": "2026-11-07T04:27:19.511464+00:00",
+  "reviewedMappings": {
+    "2026-3-39:0": "원본 보기 ㄱ은 삭/망을 뒤바꾸어 거짓이고 ㄴ은 지구 그림자의 배열, ㄷ은 궤도면 기울기로 참이다.",
+    "2026-3-39:1": "341의 삭 위상으로 ㄱ을 반박한다.",
+    "2026-3-39:2": "362가 ㄷ을 지지하고303의 월식 배열이 ㄴ도 지지하므로 ㄷ만은 불충분하다.",
+    "2026-3-39:3": "341로 ㄱ은 거짓,303으로 ㄴ은 참,362로 빠진 ㄷ도 참이다.",
+    "2026-3-39:4": "303·314의 월식 정렬과362의 궤도 기울기를 결합하여 ㄴ·ㄷ을 선택한다. 일직선은 부분식도 포함하는 거의 정렬로 설명한다.",
+    "2026-3-39:5": "341의 일식은 삭이라는 설명으로 ㄱ이 포함된 조합을 배제한다."
+  },
+  "retrievalMethod": "Direct web open/find",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

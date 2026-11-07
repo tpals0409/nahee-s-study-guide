@@ -1,0 +1,30 @@
+{
+  "summary": "분비 단백질은 조면소포체에서 합성·가공되고, 골지체로 이동하여 당사슬이 추가되거나 수정됩니다. 따라서 이 문항에서 단백질에 당이 붙는 소기관은 조면소포체와 골지체, 즉 ㄴ과 ㄹ입니다.",
+  "choices": [
+    "① ㄱ, ㄴ은 오답입니다. 조면소포체는 해당하지만 리소좀은 주로 가수분해효소로 물질을 분해하는 소기관입니다. 골지체가 빠져 있습니다.",
+    "② ㄱ, ㄷ은 오답입니다. 리소좀은 분해 기능을 담당하며, 활면소포체는 지질 합성·해독·칼슘 저장 등이 주요 기능입니다. 이 문항의 분비 단백질 당화 경로에 해당하는 조면소포체와 골지체가 빠져 있습니다.",
+    "③ ㄱ, ㄹ은 오답입니다. 골지체는 단백질의 당사슬 가공에 관여하지만 리소좀은 해당하지 않습니다. 조면소포체도 선택해야 합니다.",
+    "④ ㄴ, ㄷ은 오답입니다. 조면소포체는 해당하지만 활면소포체를 고를 것이 아니라 단백질을 추가 가공하는 골지체를 골라야 합니다.",
+    "⑤ ㄴ, ㄹ이 정답입니다. 조면소포체에서 만들어진 단백질에 당사슬이 붙고, 수송 소포를 통해 골지체로 이동하여 추가적인 당 첨가와 가공을 거칩니다."
+  ],
+  "lawNote": "분비 단백질의 대표적인 당화 경로를 묻는 문항입니다. 소포체와 골지체의 기능을 기준으로 판단합니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax · Biology 2e",
+      "ref": "4.4 The Endomembrane System and Proteins",
+      "quote": "As the protein passes along the Golgi’s cisternae, the addition of more carbohydrates further modifies it.",
+      "url": "https://openstax.org/books/biology-2e/pages/4-4-the-endomembrane-system-and-proteins",
+      "evidenceId": "33be12da1578232541a3",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "교재 Figure 4.18의 ER 당 첨가 및 Golgi 추가 당 첨가, Rough ER 단백질 가공·분비 설명 확인. Smooth ER와 Lysosomes 각 절 기능 대조. 잔기·효소명 등 문항 판단에 불필요한 상세를 제거하고 선지별 소기관 조합 검증.",
+    "contentHash": "355342c16c83f6a3890774453564f60bee3302852f978b30b72a50759108bcd7"
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "id": "2019-3-39",
+  "summary": "그림의 A·B·C는 수심이 파장의 1/2보다 깊은 심해파 구간이고, D는 수심이 파장의 1/20보다 얕은 천해파 구간입니다. ㄱ·ㄴ은 옳고 ㄷ은 틀리므로 정답은 ③입니다.",
+  "choices": [
+    "① ㄱ뿐 아니라 ㄴ도 옳습니다. B·C의 심해 중력파는 파장이 길수록 빠르게 전파됩니다.",
+    "② ㄷ은 틀립니다. D에서는 해저의 영향으로 물 입자의 운동이 수평으로 납작해지며, 쇄파도 일어나므로 원형 궤도로 설명할 수 없습니다.",
+    "③ ㄱ·ㄴ이 옳습니다. A·B는 수심과 파장의 비로 심해파에 해당하고, B·C의 심해 중력파 속도는 c≈√(gL/(2π))이므로 파장 L이 길수록 빠릅니다.",
+    "④ ㄱ은 옳지만 ㄷ은 틀립니다. D의 물 입자가 원형 궤도를 이룬다는 설명은 맞지 않으며, 옳은 ㄴ도 빠져 있습니다.",
+    "⑤ ㄴ은 옳지만 ㄷ은 틀립니다. 또한 A·B가 심해파라는 ㄱ도 포함해야 합니다."
+  ],
+  "lawNote": "심해파·천해파는 절대 수심이 아니라 수심과 파장의 비로 구분합니다. 속도식은 B·C의 중력파에 대한 근사입니다. 천해파의 납작한 타원 궤도는 쇄파 전 작은 진폭의 모형이며, 실제 쇄파에서는 운동이 더 복잡해집니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "Paul Webb / Roger Williams University",
+      "ref": "Introduction to Oceanography §10.1 Wave Basics",
+      "quote": "Shallow water waves occur when the depth is less than 1/20 of the wavelength.",
+      "url": "https://rwu.pressbooks.pub/webboceanography/chapter/10-1-wave-basics/",
+      "evidenceId": "32b5d46f618eceb6420f",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "Paul Webb / Roger Williams University",
+      "ref": "Introduction to Oceanography §10.1 Wave Basics",
+      "quote": "Shallow water waves occur when the depth is less than 1/20 of the wavelength.",
+      "url": "https://rwu.pressbooks.pub/webboceanography/chapter/10-1-wave-basics/",
+      "evidenceId": "32b5d46f618eceb6420f",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "Paul Webb / Roger Williams University",
+      "ref": "Introduction to Oceanography §10.1 Wave Basics",
+      "quote": "Shallow water waves occur when the depth is less than 1/20 of the wavelength.",
+      "url": "https://rwu.pressbooks.pub/webboceanography/chapter/10-1-wave-basics/",
+      "evidenceId": "32b5d46f618eceb6420f",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "Paul Webb / Roger Williams University",
+      "ref": "Introduction to Oceanography §10.1 Wave Basics",
+      "quote": "Shallow water waves occur when the depth is less than 1/20 of the wavelength.",
+      "url": "https://rwu.pressbooks.pub/webboceanography/chapter/10-1-wave-basics/",
+      "evidenceId": "32b5d46f618eceb6420f",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "Paul Webb / Roger Williams University",
+      "ref": "Introduction to Oceanography §10.1 Wave Basics",
+      "quote": "Shallow water waves occur when the depth is less than 1/20 of the wavelength.",
+      "url": "https://rwu.pressbooks.pub/webboceanography/chapter/10-1-wave-basics/",
+      "evidenceId": "32b5d46f618eceb6420f",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "Paul Webb / Roger Williams University",
+      "ref": "Introduction to Oceanography §10.1 Wave Basics",
+      "quote": "Shallow water waves occur when the depth is less than 1/20 of the wavelength.",
+      "url": "https://rwu.pressbooks.pub/webboceanography/chapter/10-1-wave-basics/",
+      "evidenceId": "32b5d46f618eceb6420f",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "Institute of Physics",
+      "ref": "The speed of water waves",
+      "quote": "For long waves, in deep water, the first term predominates",
+      "url": "https://spark.iop.org/speed-water-waves",
+      "evidenceId": "e7eec1e9218c8a2d5ab5",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "Institute of Physics",
+      "ref": "The speed of water waves",
+      "quote": "For long waves, in deep water, the first term predominates",
+      "url": "https://spark.iop.org/speed-water-waves",
+      "evidenceId": "e7eec1e9218c8a2d5ab5",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "Institute of Physics",
+      "ref": "The speed of water waves",
+      "quote": "For long waves, in deep water, the first term predominates",
+      "url": "https://spark.iop.org/speed-water-waves",
+      "evidenceId": "e7eec1e9218c8a2d5ab5",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "Institute of Physics",
+      "ref": "The speed of water waves",
+      "quote": "For long waves, in deep water, the first term predominates",
+      "url": "https://spark.iop.org/speed-water-waves",
+      "evidenceId": "e7eec1e9218c8a2d5ab5",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "Institute of Physics",
+      "ref": "The speed of water waves",
+      "quote": "For long waves, in deep water, the first term predominates",
+      "url": "https://spark.iop.org/speed-water-waves",
+      "evidenceId": "e7eec1e9218c8a2d5ab5",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "U.S. National Park Service",
+      "ref": "Coastal Processes—Waves",
+      "quote": "The orbit of individual water particles becomes less circular and more elliptical.",
+      "url": "https://www.nps.gov/articles/coastal-processes-waves.htm",
+      "evidenceId": "40f7242fc4a53733b83c",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "U.S. National Park Service",
+      "ref": "Coastal Processes—Waves",
+      "quote": "The orbit of individual water particles becomes less circular and more elliptical.",
+      "url": "https://www.nps.gov/articles/coastal-processes-waves.htm",
+      "evidenceId": "40f7242fc4a53733b83c",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "U.S. National Park Service",
+      "ref": "Coastal Processes—Waves",
+      "quote": "The orbit of individual water particles becomes less circular and more elliptical.",
+      "url": "https://www.nps.gov/articles/coastal-processes-waves.htm",
+      "evidenceId": "40f7242fc4a53733b83c",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "U.S. National Park Service",
+      "ref": "Coastal Processes—Waves",
+      "quote": "The orbit of individual water particles becomes less circular and more elliptical.",
+      "url": "https://www.nps.gov/articles/coastal-processes-waves.htm",
+      "evidenceId": "40f7242fc4a53733b83c",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "U.S. National Park Service",
+      "ref": "Coastal Processes—Waves",
+      "quote": "The orbit of individual water particles becomes less circular and more elliptical.",
+      "url": "https://www.nps.gov/articles/coastal-processes-waves.htm",
+      "evidenceId": "40f7242fc4a53733b83c",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "원본 도형 수심 경계 확인, 심해 중력파 분산관계·천해 궤도 및 쇄파 자료 대조",
+    "contentHash": "8b4845b2510067edbbf1ef2decb44af01b07dde3da899bf712d86b6042987c1c"
+  }
+}

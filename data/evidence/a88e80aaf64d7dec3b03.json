@@ -1,0 +1,21 @@
+{
+  "id": "a88e80aaf64d7dec3b03",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "2.2 Pressure, Temperature, and RMS Speed — University Physics Volume 2",
+  "url": "https://openstax.org/books/university-physics-volume-2/pages/2-2-pressure-temperature-and-rms-speed",
+  "excerpt": "Pressure is the force divided by the area on which the force is exerted",
+  "sourceHash": "b01c52f962330c8257759cc21883806aa27030ae7cd082358c511da64bf3d4a7",
+  "cacheSourceId": "908e7b770f849b05e8d3",
+  "retrievedAt": "2026-11-06T22:25:13.328090+00:00",
+  "reviewedMappings": {
+    "2019-3-07:0": "Original horizontal piston equilibrium plus pressure=force/area gives PA=PB. Equal V and NA=2NB in pV=NkBT give TB=2TA. With molecular mass B twice A, rms speed ratio sqrt((TB/TA)/(mB/mA))=1. Only ㄱ ㄷ.",
+    "2019-3-07:1": "Pressure equal by force balance, but RMS speeds also equal from T/m; ㄷ omitted.",
+    "2019-3-07:2": "Equal pV with twice molecule count in A implies TB=2TA, so ㄴ false.",
+    "2019-3-07:3": "ㄱ true from piston force balance, ㄴ false because temperatures differ by factor 2.",
+    "2019-3-07:4": "Both equal pressure and equal RMS speed follow from pressure definition, state equation and equation 2.8 applied to original data.",
+    "2019-3-07:5": "ㄷ true, ㄴ false, and equal pressure ㄱ omitted."
+  },
+  "retrievalMethod": "Direct web open: pressure definition line 30, kinetic pressure equation 2.5 and pV=NkBT lines 75–86, RMS speed equation 2.8 lines 106–116. Original question image app/public/images/2019-3-07.webp inspected: horizontal cylinder, vertical insulating piston, 2 mol and 1 mol, equal volumes, molecular masses m and 2m. Force balance and ratios independently derived.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

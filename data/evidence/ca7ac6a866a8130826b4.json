@@ -1,0 +1,21 @@
+{
+  "id": "ca7ac6a866a8130826b4",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "13.4 Satellite Orbits and Energy",
+  "url": "https://openstax.org/books/university-physics-volume-1/pages/13-4-satellite-orbits-and-energy",
+  "excerpt": "The gravitational force supplies the centripetal acceleration.",
+  "sourceHash": "11b86085bc552f8ca889fcbf8935ea42395651b730a6e19d100afc4ba4a97707",
+  "cacheSourceId": "a0c90d68be330a2cab27",
+  "retrievedAt": "2026-11-06T20:56:40.431642+00:00",
+  "reviewedMappings": {
+    "2017-3-05:0": "본문 34–47행 GMm/r²=mv²/r 및 T=2π√(r³/GM), 103–111행 중심 천체 질량이 훨씬 큰 근사 확인. 같은 각속도는 같은 주기이므로 M_B/M_A=(2r/r)³=8. 각 선지 q에 대해 ω_B²/ω_A²=q/8을 대입하여 ⑤만 1임을 독립 확인.",
+    "2017-3-05:1": "본문 34–47행 GMm/r²=mv²/r 및 T=2π√(r³/GM), 103–111행 중심 천체 질량이 훨씬 큰 근사 확인. 같은 각속도는 같은 주기이므로 M_B/M_A=(2r/r)³=8. 각 선지 q에 대해 ω_B²/ω_A²=q/8을 대입하여 ⑤만 1임을 독립 확인.",
+    "2017-3-05:2": "본문 34–47행 GMm/r²=mv²/r 및 T=2π√(r³/GM), 103–111행 중심 천체 질량이 훨씬 큰 근사 확인. 같은 각속도는 같은 주기이므로 M_B/M_A=(2r/r)³=8. 각 선지 q에 대해 ω_B²/ω_A²=q/8을 대입하여 ⑤만 1임을 독립 확인.",
+    "2017-3-05:3": "본문 34–47행 GMm/r²=mv²/r 및 T=2π√(r³/GM), 103–111행 중심 천체 질량이 훨씬 큰 근사 확인. 같은 각속도는 같은 주기이므로 M_B/M_A=(2r/r)³=8. 각 선지 q에 대해 ω_B²/ω_A²=q/8을 대입하여 ⑤만 1임을 독립 확인.",
+    "2017-3-05:4": "본문 34–47행 GMm/r²=mv²/r 및 T=2π√(r³/GM), 103–111행 중심 천체 질량이 훨씬 큰 근사 확인. 같은 각속도는 같은 주기이므로 M_B/M_A=(2r/r)³=8. 각 선지 q에 대해 ω_B²/ω_A²=q/8을 대입하여 ⑤만 1임을 독립 확인.",
+    "2017-3-05:5": "본문 34–47행 GMm/r²=mv²/r 및 T=2π√(r³/GM), 103–111행 중심 천체 질량이 훨씬 큰 근사 확인. 같은 각속도는 같은 주기이므로 M_B/M_A=(2r/r)³=8. 각 선지 q에 대해 ω_B²/ω_A²=q/8을 대입하여 ⑤만 1임을 독립 확인."
+  },
+  "retrievalMethod": "Direct web page opened; orbital-force equation, period formula and large-central-mass assumption reviewed.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,1 +1,108 @@
-{"summary": "세포골격의 3요소는 미세섬유(액틴), 미세소관(튜불린), 중간섬유예요. 나희님, 뼈대를 이루는 단백질과 그 위를 움직이는 모터 단백질을 나눠서 기억하면 쉬워요. 그래서 정답은 액틴입니다.", "choices": ["틀린 보기예요. 콜라겐은 세포 밖 기질을 이루는 섬유 단백질이에요. 세포 안의 골격이 아니랍니다.", "틀린 보기예요. 미오신은 액틴 섬유 위를 움직이는 모터 단백질이에요. 근육 수축에서 액틴을 끌어당기지만, 골격 자체를 이루지는 않아요.", "틀린 보기예요. 디네인은 미세소관 위를 움직이는 모터 단백질이에요. 섬모와 편모의 운동에 쓰이고, 골격을 이루는 단백질은 아니에요.", "틀린 보기예요. 키네신도 미세소관을 따라 소낭 같은 짐을 나르는 모터 단백질이에요. 미세소관을 이루는 단백질은 튜불린이랍니다.", "맞는 보기예요. 액틴은 중합해서 미세섬유를 만드는 세포골격 단백질이에요. 세포 모양 유지와 세포 운동을 맡습니다."], "lawNote": "", "basis": [], "dropped": 0}
+{
+  "id": "2016-3-21",
+  "summary": "진핵세포의 세포골격 필라멘트에는 미세섬유, 중간섬유, 미세소관이 있다. 액틴은 중합하여 미세섬유를 이루므로 정답은 ⑤이다. 미오신·디네인·키네신은 세포골격과 함께 작동하는 모터 단백질이다.",
+  "choices": [
+    "오답이다. 콜라겐은 동물의 세포외기질을 이루는 대표적인 섬유성 단백질이다. 이 문항에서 묻는 세포내 세포골격 필라멘트의 구성 단백질에 해당하지 않는다.",
+    "오답이다. 미오신은 액틴 필라멘트와 상호작용하는 모터 단백질이다. 액틴과 함께 근육 수축 등에 참여하지만 미세섬유를 중합해 만드는 소단위 단백질은 액틴이다.",
+    "오답이다. 디네인은 미세소관 기반 운동을 일으키는 모터 단백질이며, 일부 디네인은 섬모·편모 운동에 참여한다. 미세소관 필라멘트 자체의 중합 단위에 해당하지 않는다.",
+    "오답이다. 키네신은 미세소관을 이용해 소낭·소기관 등을 운반하는 모터 단백질군이다. 세포골격을 이용하는 기능과 필라멘트 자체를 구성하는 역할은 구분해야 한다.",
+    "정답이다. 액틴 소단위들이 중합하여 액틴 필라멘트, 즉 미세섬유를 이룬다. 미세섬유는 세포의 형태 유지와 운동 등에 관여하는 세포골격 요소이다."
+  ],
+  "lawNote": "여기서는 세포골격 필라멘트 자체를 이루는 단백질과 그에 결합해 작동하는 모터 단백질을 구분한다. 모터 단백질이 세포골격과 무관하다는 뜻은 아니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "4.5 The Cytoskeleton",
+      "quote": "For this reason, we also call microfilaments actin filaments.",
+      "url": "https://openstax.org/books/biology-2e/pages/4-5-the-cytoskeleton",
+      "evidenceId": "e7033a0a6433504daa80",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "4.5 The Cytoskeleton",
+      "quote": "For this reason, we also call microfilaments actin filaments.",
+      "url": "https://openstax.org/books/biology-2e/pages/4-5-the-cytoskeleton",
+      "evidenceId": "e7033a0a6433504daa80",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "4.5 The Cytoskeleton",
+      "quote": "For this reason, we also call microfilaments actin filaments.",
+      "url": "https://openstax.org/books/biology-2e/pages/4-5-the-cytoskeleton",
+      "evidenceId": "e7033a0a6433504daa80",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "4.6 Connections between Cells and Cellular Activities",
+      "quote": "Collagen fibers are interwoven with proteoglycans,",
+      "url": "https://openstax.org/books/biology-2e/pages/4-6-connections-between-cells-and-cellular-activities",
+      "evidenceId": "23671517192793809087",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "4.6 Connections between Cells and Cellular Activities",
+      "quote": "Collagen fibers are interwoven with proteoglycans,",
+      "url": "https://openstax.org/books/biology-2e/pages/4-6-connections-between-cells-and-cellular-activities",
+      "evidenceId": "23671517192793809087",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "Cooper GM / Sinauer Associates; NCBI Bookshelf",
+      "ref": "Microtubule Motors and Movements — The Cell: A Molecular Approach, 2nd edition",
+      "quote": "Members of two large families of motor proteins—the kinesins and the dyneins—",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK9833/",
+      "evidenceId": "8a7cb63f117bf1c04b4a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "Cooper GM / Sinauer Associates; NCBI Bookshelf",
+      "ref": "Microtubule Motors and Movements — The Cell: A Molecular Approach, 2nd edition",
+      "quote": "Members of two large families of motor proteins—the kinesins and the dyneins—",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK9833/",
+      "evidenceId": "8a7cb63f117bf1c04b4a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "Cooper GM / Sinauer Associates; NCBI Bookshelf",
+      "ref": "Microtubule Motors and Movements — The Cell: A Molecular Approach, 2nd edition",
+      "quote": "Members of two large families of motor proteins—the kinesins and the dyneins—",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK9833/",
+      "evidenceId": "8a7cb63f117bf1c04b4a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "Original image and stored answer checked; existing unreferenced explanation revised to distinguish filament subunits from associated molecular motors; textbook sources mapped by choice.",
+    "contentHash": "cc8596dedadf5e63302487c91650e39ed7227ec60e7437f9f832098b6466faab"
+  }
+}

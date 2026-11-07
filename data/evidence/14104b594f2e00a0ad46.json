@@ -1,0 +1,16 @@
+{
+  "id": "14104b594f2e00a0ad46",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Astronomy 2e §3.1 The Laws of Planetary Motion",
+  "url": "https://openstax.org/books/astronomy-2e/pages/3-1-the-laws-of-planetary-motion",
+  "excerpt": "the orbits of all the planets are ellipses",
+  "sourceHash": "04598ab37c0c21f31dbfcc53af42a1be32a053f32f8a46dbd2713cabb7d184cd",
+  "cacheSourceId": "39f2029a77eea8a25d7c",
+  "retrievedAt": "2026-11-06T19:12:22.124798+00:00",
+  "reviewedMappings": {
+    "2014-3-39:2": "Source summary supplies three Kepler laws: ellipse, equal areas, period squared proportional semimajor axis cubed. These describe orbital motion, not spectral Doppler shift mechanism. Excluded unrelated printed 0.72 cubed typo."
+  },
+  "retrievalMethod": "Direct web open; relevant section reviewed and original question image inspected.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

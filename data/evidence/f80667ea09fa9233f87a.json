@@ -1,0 +1,21 @@
+{
+  "id": "f80667ea09fa9233f87a",
+  "kind": "science",
+  "source": "eCampusOntario Pressbooks",
+  "ref": "Organic and Biochemistry Supplement §27.4 Addition Polymerization",
+  "url": "https://ecampusontario.pressbooks.pub/orgbiochemsupplement/chapter/addition-polymerization/",
+  "excerpt": "It is produced via chain-growth polymerization from the monomer propylene.",
+  "sourceHash": "4e68ca24efa5b08c70710ffcb2022203011c3ae5575d8ffdb5ac33a60c4c6b2a",
+  "cacheSourceId": "3c5db1a33477dce6e826",
+  "retrievedAt": "2026-11-06T19:25:28.100463+00:00",
+  "reviewedMappings": {
+    "2015-3-11:0": "Direct polypropylene section identifies propylene monomer and chain-growth production; addition definition states no atom loss. Original carbon skeleton gives repeat CH2–CH(CH3), formula C3H6. Supports ㄴ/ㄷ true; no assertion of radical mechanism or tacticity needed. Original parenthetical lacks explicit =; name propylene plus structure identifies CH3CH=CH2.",
+    "2015-3-11:1": "Direct polypropylene section identifies propylene monomer and chain-growth production; addition definition states no atom loss. Original carbon skeleton gives repeat CH2–CH(CH3), formula C3H6. Supports ㄴ/ㄷ true; no assertion of radical mechanism or tacticity needed. Original parenthetical lacks explicit =; name propylene plus structure identifies CH3CH=CH2.",
+    "2015-3-11:2": "Direct polypropylene section identifies propylene monomer and chain-growth production; addition definition states no atom loss. Original carbon skeleton gives repeat CH2–CH(CH3), formula C3H6. Supports ㄴ/ㄷ true; no assertion of radical mechanism or tacticity needed. Original parenthetical lacks explicit =; name propylene plus structure identifies CH3CH=CH2.",
+    "2015-3-11:3": "Direct polypropylene section identifies propylene monomer and chain-growth production; addition definition states no atom loss. Original carbon skeleton gives repeat CH2–CH(CH3), formula C3H6. Supports ㄴ/ㄷ true; no assertion of radical mechanism or tacticity needed. Original parenthetical lacks explicit =; name propylene plus structure identifies CH3CH=CH2.",
+    "2015-3-11:4": "Direct polypropylene section identifies propylene monomer and chain-growth production; addition definition states no atom loss. Original carbon skeleton gives repeat CH2–CH(CH3), formula C3H6. Supports ㄴ/ㄷ true; no assertion of radical mechanism or tacticity needed. Original parenthetical lacks explicit =; name propylene plus structure identifies CH3CH=CH2.",
+    "2015-3-11:5": "Direct polypropylene section identifies propylene monomer and chain-growth production; addition definition states no atom loss. Original carbon skeleton gives repeat CH2–CH(CH3), formula C3H6. Supports ㄴ/ㄷ true; no assertion of radical mechanism or tacticity needed. Original parenthetical lacks explicit =; name propylene plus structure identifies CH3CH=CH2."
+  },
+  "retrievalMethod": "Direct web.open; addition definition lines 253–256 and polypropylene section 278–284 inspected",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "33e49dbdb1d1d4f695b9",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 2e §8.3 Multiple Bonds",
+  "url": "https://openstax.org/books/chemistry-2e/pages/8-3-multiple-bonds",
+  "excerpt": "multiple bonds consist of σ and π bonds",
+  "sourceHash": "3fcb8426bfe5077a10fb2d251780e3675ab854bdca4dbdbd7cdac15625f61c2d",
+  "cacheSourceId": "e44a673d49e23ddf927a",
+  "retrievedAt": "2026-11-07T02:27:54.313577+00:00",
+  "reviewedMappings": {
+    "2024-3-14:0": "Direct page review: ethene single sigma and double sigma-plus-pi bonding; applying this to original diagram gives 31 sigma and 3 pi bonds. 31 sigma plus 7 lone pairs yields 38.",
+    "2024-3-14:1": "Direct page review: ethene single sigma and double sigma-plus-pi bonding; applying this to original diagram gives 31 sigma and 3 pi bonds. 27 is smaller than sigma count alone.",
+    "2024-3-14:2": "Direct page review: ethene single sigma and double sigma-plus-pi bonding; applying this to original diagram gives 31 sigma and 3 pi bonds. 28 is smaller than sigma count alone.",
+    "2024-3-14:3": "Direct page review: ethene single sigma and double sigma-plus-pi bonding; applying this to original diagram gives 31 sigma and 3 pi bonds. 31 omits the seven lone pairs.",
+    "2024-3-14:4": "Direct page review: ethene single sigma and double sigma-plus-pi bonding; applying this to original diagram gives 31 sigma and 3 pi bonds. 35 differs from 31+7; N-oxide formal-charge accounting retains three oxygen lone pairs.",
+    "2024-3-14:5": "Direct page review: ethene single sigma and double sigma-plus-pi bonding; applying this to original diagram gives 31 sigma and 3 pi bonds. 38 agrees with both direct bond count and full valence-electron accounting."
+  },
+  "retrievalMethod": "Direct page review: ethene single sigma and double sigma-plus-pi bonding; applying this to original diagram gives 31 sigma and 3 pi bonds.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "6ed2f82e35d7aba676dc",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e §5.1 Components and Structure",
+  "url": "https://openstax.org/books/biology-2e/pages/5-1-components-and-structure",
+  "excerpt": "This results in tails that are relatively straight.",
+  "sourceHash": "cc5443be8baab1af321ec25af769095def8bf604d4f0725c4c27d2e85b569e64",
+  "cacheSourceId": "66cdf71473273616d66f",
+  "retrievedAt": "2026-11-06T23:22:34.383504+00:00",
+  "reviewedMappings": {
+    "2020-3-21:0": "직접 본문37–53행 유동모자이크·양친매성·머리와 꼬리 배치, 76–88행 포화/불포화 사슬과 유동성 검토. 시스 불포화 꺾임을 포화로 잘못 진술한⑤ 선택.",
+    "2020-3-21:1": "직접 본문37–53행 유동모자이크·양친매성·머리와 꼬리 배치, 76–88행 포화/불포화 사슬과 유동성 검토. 유동모자이크 설명① 참.",
+    "2020-3-21:3": "직접 본문37–53행 유동모자이크·양친매성·머리와 꼬리 배치, 76–88행 포화/불포화 사슬과 유동성 검토. 친수성 머리·소수성 꼬리③ 참.",
+    "2020-3-21:5": "직접 본문37–53행 유동모자이크·양친매성·머리와 꼬리 배치, 76–88행 포화/불포화 사슬과 유동성 검토. 포화지방산에는 시스 C=C 꺾임이 없어⑤ 거짓."
+  },
+  "retrievalMethod": "직접 본문37–53행 유동모자이크·양친매성·머리와 꼬리 배치, 76–88행 포화/불포화 사슬과 유동성 검토.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "e38d0c4e3edb4b2fec6d",
+  "kind": "science",
+  "source": "NOAA",
+  "ref": "NOAA JetStream: Precipitation",
+  "url": "https://www.noaa.gov/jetstream/atmosphere/precipitation",
+  "excerpt": "the ice crystals grow at the expense of the water droplets",
+  "sourceHash": "f646d18467c09e56f87534fb9ee678f2b617061943ab1a027f57e3cb1ef09b38",
+  "cacheSourceId": "45a708faa7abc378a435",
+  "retrievedAt": "2026-11-07T04:20:26.328960+00:00",
+  "reviewedMappings": {
+    "2026-3-35:0": "NOAA43-47 distinguishes collision/coalescence from ice-crystal growth. Combined with independently read original graph(10C~12hPa;ice lower at-10C) determines ㄱㄷ. Graph values are from question image, not NOAA; see saved graph-review artifact.",
+    "2026-3-35:1": "NOAA43-47 distinguishes collision/coalescence from ice-crystal growth. Combined with independently read original graph(10C~12hPa;ice lower at-10C) determines ㄱㄷ. Graph values are from question image, not NOAA; see saved graph-review artifact.",
+    "2026-3-35:2": "NOAA43-47 distinguishes collision/coalescence from ice-crystal growth. Combined with independently read original graph(10C~12hPa;ice lower at-10C) determines ㄱㄷ. Graph values are from question image, not NOAA; see saved graph-review artifact.",
+    "2026-3-35:3": "NOAA43-47 distinguishes collision/coalescence from ice-crystal growth. Combined with independently read original graph(10C~12hPa;ice lower at-10C) determines ㄱㄷ. Graph values are from question image, not NOAA; see saved graph-review artifact.",
+    "2026-3-35:4": "NOAA43-47 distinguishes collision/coalescence from ice-crystal growth. Combined with independently read original graph(10C~12hPa;ice lower at-10C) determines ㄱㄷ. Graph values are from question image, not NOAA; see saved graph-review artifact.",
+    "2026-3-35:5": "NOAA43-47 distinguishes collision/coalescence from ice-crystal growth. Combined with independently read original graph(10C~12hPa;ice lower at-10C) determines ㄱㄷ. Graph values are from question image, not NOAA; see saved graph-review artifact."
+  },
+  "retrievalMethod": "Direct web find",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

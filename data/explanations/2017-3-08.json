@@ -1,0 +1,86 @@
+{
+  "id": "2017-3-08",
+  "summary": "슬릿 폭 a는 회절 포락선의 폭을, 슬릿 간격 b는 간섭무늬 간격을 결정합니다. a를 유지하고 b만 절반으로 줄이면 포락선은 그대로이고 간섭무늬 간격은 약 두 배로 넓어집니다. 원래 포락선 안에서 밝은 무늬 수가 줄어드는 ①이 정답입니다.",
+  "choices": [
+    "정답입니다. 원래와 같은 폭의 회절 포락선 안에 간섭무늬가 더 성기게 나타납니다. 슬릿 간격을 절반으로 줄여 무늬 간격이 두 배가 되는 변화와 일치합니다.",
+    "오답입니다. 간섭무늬가 원래보다 촘촘합니다. 슬릿 간격 b를 줄이면 무늬 간격은 넓어져야 하므로 반대 변화입니다.",
+    "오답입니다. 중앙 회절 포락선이 원래보다 넓어져 있습니다. 슬릿 폭 a를 유지했으므로 포락선의 폭은 변하지 않아야 합니다.",
+    "오답입니다. 간섭무늬가 성겨지는 것과 함께 중앙 회절 포락선도 넓어져 있습니다. b만 줄이는 조건에서는 포락선까지 넓어지지 않습니다.",
+    "오답입니다. 중앙 회절 포락선이 원래보다 좁아져 있습니다. 같은 a에서는 포락선의 첫 영점 위치가 유지되어야 합니다."
+  ],
+  "lawNote": "작은 각도에서 간섭무늬 간격은 Δy≈λL/b, 회절 포락선의 첫 영점은 |y|≈λL/a입니다. 실제 세기는 두 효과의 곱이므로 봉우리 위치는 순수 간섭 극대 위치에서 조금 이동할 수 있습니다. 그림의 봉우리 좌표를 정밀한 수치로 읽을 필요는 없습니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "4.3 Double-Slit Diffraction",
+      "quote": "It is a product of the interference pattern of waves from separate slits and the diffraction of waves from within one slit.",
+      "url": "https://openstax.org/books/university-physics-volume-3/pages/4-3-double-slit-diffraction",
+      "evidenceId": "71e46c437751d63bde65",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "4.3 Double-Slit Diffraction",
+      "quote": "It is a product of the interference pattern of waves from separate slits and the diffraction of waves from within one slit.",
+      "url": "https://openstax.org/books/university-physics-volume-3/pages/4-3-double-slit-diffraction",
+      "evidenceId": "71e46c437751d63bde65",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "4.3 Double-Slit Diffraction",
+      "quote": "It is a product of the interference pattern of waves from separate slits and the diffraction of waves from within one slit.",
+      "url": "https://openstax.org/books/university-physics-volume-3/pages/4-3-double-slit-diffraction",
+      "evidenceId": "71e46c437751d63bde65",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "4.3 Double-Slit Diffraction",
+      "quote": "It is a product of the interference pattern of waves from separate slits and the diffraction of waves from within one slit.",
+      "url": "https://openstax.org/books/university-physics-volume-3/pages/4-3-double-slit-diffraction",
+      "evidenceId": "71e46c437751d63bde65",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "4.3 Double-Slit Diffraction",
+      "quote": "It is a product of the interference pattern of waves from separate slits and the diffraction of waves from within one slit.",
+      "url": "https://openstax.org/books/university-physics-volume-3/pages/4-3-double-slit-diffraction",
+      "evidenceId": "71e46c437751d63bde65",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "4.3 Double-Slit Diffraction",
+      "quote": "It is a product of the interference pattern of waves from separate slits and the diffraction of waves from within one slit.",
+      "url": "https://openstax.org/books/university-physics-volume-3/pages/4-3-double-slit-diffraction",
+      "evidenceId": "71e46c437751d63bde65",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "Original slit diagram and all five graph choices visually inspected; fringe-spacing ratio derived independently; primary textbook envelope formula and peak-shift caveat reviewed.",
+    "contentHash": "57ad6b4e774b0402018a63bd53afa044593c33f03f0d1059ed5ae19cd077597a"
+  }
+}

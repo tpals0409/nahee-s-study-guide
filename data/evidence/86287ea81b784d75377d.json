@@ -1,0 +1,18 @@
+{
+  "id": "86287ea81b784d75377d",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e, 37.2 How Hormones Work",
+  "url": "https://openstax.org/books/biology-2e/pages/37-2-how-hormones-work",
+  "excerpt": "bind to beta-adrenergic receptors on the plasma membrane of cells.",
+  "sourceHash": "87019dfc35e37d0aa62cd374fd812a4edef06f0f275babd3e2423d46071f0fc2",
+  "cacheSourceId": "059fb02de3e18e207935",
+  "retrievedAt": "2026-11-07T01:54:36.934994+00:00",
+  "reviewedMappings": {
+    "2023-3-23:0": "Plasma Membrane Hormone Receptors 절: 수용성 호르몬의 막 수용체 결합 및 그림37.6의 에피네프린 예로 ③ 참·④ 거짓.",
+    "2023-3-23:3": "막을 자유롭게 확산 통과하기 어려운 호르몬은 세포 표면 수용체와 결합해 신호전달을 일으키므로 ③은 참.",
+    "2023-3-23:4": "그림37.6에서 에피네프린은 세포막의 β 아드레날린성 수용체와 결합한다. 세포질 수용체라고 한 ④는 틀림. 이 β 경로의 cAMP 활성화를 모든 아드레날린성 수용체에 일반화하지 않음."
+  },
+  "retrievalMethod": "직접 열람: Plasma Membrane Hormone Receptors 및 그림37.6. cAMP는 제시된 β수용체 경로의 예임을 구별.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

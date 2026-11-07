@@ -1,0 +1,16 @@
+{
+  "id": "d7ec741b2cfad9569209",
+  "kind": "science",
+  "source": "National Park Service",
+  "ref": "Weathering",
+  "url": "https://www.nps.gov/subjects/erosion/weathering.htm",
+  "excerpt": "Weathering includes two processes that occur at or near Earth's surface and work in concert to decompose rocks.",
+  "sourceHash": "92e7c665496cb645569d7c9c7b38368635af76e6039617152aa1a3508067b74c",
+  "cacheSourceId": "c0cfd71b9c4afcaf8619",
+  "retrievedAt": "2026-11-06T18:22:23.728722+00:00",
+  "reviewedMappings": {
+    "2013-3-34:3": "풍화는 지표 부근에서 암석을 분해하는 물리·화학 과정이며 지각 변형 자체의 증거가 아님."
+  },
+  "retrievalMethod": "web.open",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

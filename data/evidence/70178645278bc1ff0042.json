@@ -1,0 +1,19 @@
+{
+  "id": "70178645278bc1ff0042",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "14.4 DNA Replication in Prokaryotes",
+  "url": "https://openstax.org/books/biology-2e/pages/14-4-dna-replication-in-prokaryotes",
+  "excerpt": "it is able to add nucleotides only in the 5' to 3' direction",
+  "sourceHash": "3e72b7410c77bf7026d7c5ddfcf5f90da65a0269ea1fd312f97b9bf281b00d60",
+  "cacheSourceId": "66917ee935bac5b23688",
+  "retrievedAt": "2026-11-06T20:33:51.079661+00:00",
+  "reviewedMappings": {
+    "2016-3-28:0": "본문37–38 DNA중합효소는3′-OH에첨가하며새가닥5′→3′신장. 따라서ㄹ거짓. 본문35의염기쌍수소결합과가닥분리관계도대조. 선지의포함·누락진술과대조.",
+    "2016-3-28:3": "본문37–38 DNA중합효소는3′-OH에첨가하며새가닥5′→3′신장. 따라서ㄹ거짓. 본문35의염기쌍수소결합과가닥분리관계도대조. 선지의포함·누락진술과대조.",
+    "2016-3-28:4": "본문37–38 DNA중합효소는3′-OH에첨가하며새가닥5′→3′신장. 따라서ㄹ거짓. 본문35의염기쌍수소결합과가닥분리관계도대조. 선지의포함·누락진술과대조.",
+    "2016-3-28:5": "본문37–38 DNA중합효소는3′-OH에첨가하며새가닥5′→3′신장. 따라서ㄹ거짓. 본문35의염기쌍수소결합과가닥분리관계도대조. 선지의포함·누락진술과대조."
+  },
+  "retrievalMethod": "Direct web open",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

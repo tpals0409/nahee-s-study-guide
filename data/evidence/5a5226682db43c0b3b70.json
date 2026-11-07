@@ -1,0 +1,22 @@
+{
+  "id": "5a5226682db43c0b3b70",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "2.3 Atomic Structure and Symbolism",
+  "url": "https://openstax.org/books/chemistry-2e/pages/2-3-atomic-structure-and-symbolism",
+  "excerpt": "This is equal to the sum of each individual isotope’s mass multiplied by its fractional abundance.",
+  "sourceHash": "6604abeff61de8a7fcb662ffea4b8e0b6d64ed6acb0cb779e20d693c9b41c98a",
+  "cacheSourceId": "b6baf5f67f11f192d642",
+  "retrievedAt": "2026-11-06T21:45:57.612094+00:00",
+  "reviewedMappings": {
+    "2016-3-18:0": "본문144–146의 동위원소 질량 가중 평균식을 적용. p=q=1/2, Y=X+2에서 평균X+1.",
+    "2016-3-18:1": "평균X+2q=X+0.5에서 q=1/4.",
+    "2016-3-18:2": "두 동위원소 각각1/2의 가중 평균 X+1.",
+    "2016-3-18:3": "평균X+2q=X+1.5에서 q=3/4.",
+    "2016-3-18:4": "평균이 상한X+2가 되려면 q=1인데 가벼운 피크도 존재하므로 배제.",
+    "2016-3-18:5": "양의 가중치 합1인 평균은 X와 X+2 범위를 벗어나지 못한다.",
+    "2018-3-11:3": "평균원자량 가중평균식 확인. 독립계산한 존재비3/4,1/4와 문제 질량M,M+2를 대입하여③참. 실제 동위원소 질량과 질량수 차이는 구분."
+  },
+  "retrievalMethod": "Direct source opened; cited concept and relevant surrounding section reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

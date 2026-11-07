@@ -159,7 +159,7 @@ const bySubject = (ids) => SUBJ.map((s) => ids.filter((id) => bank.find((b) => b
 	assert.match(basisHtml(law, ex, 4), /파리협약 · 조문 확인/);
 	assert.match(basisHtml(law, ex, 5), /근거 미확인/);
 	assert.equal(basisHtml(law, ex, 0), "");
-	assert.equal(basisHtml({ subject: "자연과학개론" }, { basis: [] }, 1), "");
+	assert.match(basisHtml({ subject: "자연과학개론" }, { basis: [] }, 1), /근거 미확인/);
 	assert.equal(basisHtml(law, {}, 1), "");
 }
 
@@ -209,3 +209,10 @@ console.log("logic ok");
 
 assert.deepEqual(chatViewportLayout(1024, 640, 20, 768), {top:20, height:640, keyboard:true});
 assert.deepEqual(chatViewportLayout(768, 768, 0, 1024), {top:0, height:768, keyboard:false});
+
+const source = {choice:0,kind:'science',source:'OpenStax',ref:'17.6',quote:'frequency difference',url:'https://openstax.org/books/university-physics-volume-1/pages/17-6-beats',verification:'source-matched'};
+assert.match(basisHtml({subject:'자연과학개론'},{basis:[source]},0),/개념·공식 근거/);
+assert.match(basisHtml({subject:'자연과학개론'},{basis:[source]},0),/rel="noopener noreferrer"/);
+assert.doesNotMatch(basisHtml({}, {basis:[{...source,url:'javascript:alert(1)'}]},0),/href=/);
+assert.equal(basisHtml({}, {basis:[source]},1),'', 'common evidence is not incorrectly marked missing on every choice');
+assert.match(basisHtml({}, {basis:[{...source,kind:'precedent',verification:undefined}]},0),/원문 미확인/);

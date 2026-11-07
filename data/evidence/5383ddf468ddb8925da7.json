@@ -1,0 +1,14 @@
+{
+  "id": "5383ddf468ddb8925da7",
+  "kind": "science",
+  "source": "OpenStax · University Physics Volume 1",
+  "ref": "17.6",
+  "url": "https://openstax.org/books/university-physics-volume-1/pages/17-6-beats",
+  "excerpt": "The beat frequency is the difference of the two frequencies.",
+  "sourceHash": "635d8f10ba5c12f89bce28d8eb26c7b274f853377508c237047feaf810a16201",
+  "retrievedAt": "2026-11-06T14:21:19.426609+00:00",
+  "decisionDate": "",
+  "reviewedMappings": {
+    "2009-3-02:0": "맥놀이 진동수는 두 진동수의 차이의 절댓값이므로 보기별 차이를 비교한다."
+  }
+}

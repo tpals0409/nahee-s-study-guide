@@ -1,0 +1,16 @@
+{
+  "id": "a6106e7105db42d8c019",
+  "kind": "science",
+  "source": "USGS",
+  "ref": "The Himalayas: Two continents collide",
+  "url": "https://pubs.usgs.gov/gip/dynamic/himalaya.html?dom=prime&src=syn",
+  "excerpt": "The pressure of the impinging plates could only be relieved by thrusting skyward",
+  "sourceHash": "c615251e4cf5d7c7db28ae5a4d61d4be06c44502e3031b2b9babca35c3dadf86",
+  "cacheSourceId": "e29279e06b5ab10b1f84",
+  "retrievedAt": "2026-11-07T03:32:47.807045+00:00",
+  "reviewedMappings": {
+    "2025-3-34:3": "인도·유라시아 대륙 충돌과 히말라야 형성 설명 대조. ③의 호상열도 대신 대륙 충돌 산맥으로 수정. 대륙 지각의 섭입이 절대 불가능하다고 일반화하지 않음."
+  },
+  "retrievalMethod": "Search-indexed USGS source text read; main Understanding page direct request returned 403",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

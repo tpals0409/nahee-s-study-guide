@@ -1,0 +1,30 @@
+{
+  "summary": "금성과 화성의 대기에서 가장 많은 기체는 모두 이산화탄소(CO₂)입니다. 따라서 정답은 ⑤입니다.",
+  "choices": [
+    "산소는 두 행성 대기에서 가장 많은 성분이 아니므로 오답입니다. 이 문항에서는 금성과 화성에 공통으로 가장 많은 기체를 찾아야 합니다.",
+    "수소는 금성과 화성 대기의 주성분이 아니므로 오답입니다. 두 행성 모두 이산화탄소가 대기의 대부분을 차지합니다.",
+    "질소는 두 행성에서 이산화탄소보다 많은 성분이 아니므로 오답입니다.",
+    "아르곤은 두 행성 대기의 최다 성분이 아니므로 오답입니다.",
+    "이산화탄소가 정답입니다. 금성과 화성은 모두 대기의 대부분이 이산화탄소로 이루어져 있습니다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "NASA",
+      "ref": "10 Things: Planetary Atmospheres — item 3",
+      "quote": "Venus’ atmosphere, like Mars’, is nearly all carbon dioxide.",
+      "url": "https://science.nasa.gov/solar-system/10-things-planetary-atmospheres/",
+      "evidenceId": "ce1e0f4e61d8771fd7bf",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "원문 다섯 기체와 정답 ⑤ 대조. NASA 본문의 두 행성 대기 비교로 각 선지 판정. 검증하지 않은 조성 수치·기체 순위·생명 부재 및 대기 진화 단정을 초안에서 제거.",
+    "contentHash": "2aa4055838e85a86b3cd8c5d645cff46ada10d5016bf237e594adfeff30155a0"
+  }
+}

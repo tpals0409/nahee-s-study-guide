@@ -1,0 +1,18 @@
+{
+  "id": "7dcca1fe527f57ed6fc0",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 2e §5.3 Enthalpy",
+  "url": "https://openstax.org/books/chemistry-2e/pages/5-3-enthalpy",
+  "excerpt": "The work, w, is positive if it is done on the system and negative if it is done by the system.",
+  "sourceHash": "9216ea9529044d42d3b43c973cbeea3b29e0143aab48b747c081c0c43e3fae3e",
+  "cacheSourceId": "b31fa9c234f62f2c3e21",
+  "retrievedAt": "2026-11-07T04:42:22.901844+00:00",
+  "reviewedMappings": {
+    "2013-3-16:0": "열 유입 없이 계가 외부에 일을 하면 내부 에너지가 감소한다.",
+    "2013-3-16:1": "외부 저항에 맞서 하는 팽창 일; 문제의 양의 일 부호로 변환. w=Fdx=P외부 dV는 피스톤 역학으로 도출.",
+    "2013-3-16:4": "원문 ΔU=q+w_on을 문제 정의 w_by로 바꾸면 ΔU=q−w_by."
+  },
+  "retrievalMethod": "Direct web open",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

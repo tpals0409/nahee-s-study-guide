@@ -1,0 +1,19 @@
+{
+  "id": "50c6c8a07029783e4b22",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e §14.3 Basics of DNA Replication",
+  "url": "https://openstax.org/books/biology-2e/pages/14-3-basics-of-dna-replication",
+  "excerpt": "each double-stranded DNA includes one parental or “old” strand and one “new” strand",
+  "sourceHash": "9d0ff8459e03a7cd6476c32f962c7cf4da07032218189db4605b44399891c9ab",
+  "cacheSourceId": "337ca47e7ad2b1c57270",
+  "retrievedAt": "2026-11-07T02:40:01.717248+00:00",
+  "reviewedMappings": {
+    "2024-3-25:0": "Semiconservative model and Meselson–Stahl paragraphs reviewed directly; supports statement ㄱ and the missing-correct-statement reasoning.",
+    "2024-3-25:1": "Semiconservative model and Meselson–Stahl paragraphs reviewed directly; supports statement ㄱ and the missing-correct-statement reasoning.",
+    "2024-3-25:3": "Semiconservative model and Meselson–Stahl paragraphs reviewed directly; supports statement ㄱ and the missing-correct-statement reasoning.",
+    "2024-3-25:4": "Semiconservative model and Meselson–Stahl paragraphs reviewed directly; supports statement ㄱ and the missing-correct-statement reasoning."
+  },
+  "retrievalMethod": "Semiconservative model and Meselson–Stahl paragraphs reviewed directly; supports statement ㄱ and the missing-correct-statement reasoning.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

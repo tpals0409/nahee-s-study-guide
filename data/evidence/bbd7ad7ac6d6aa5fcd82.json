@@ -1,0 +1,16 @@
+{
+  "id": "bbd7ad7ac6d6aa5fcd82",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e: The Genetic Code",
+  "url": "https://openstax.org/books/biology-2e/pages/15-1-the-genetic-code",
+  "excerpt": "a given amino acid could be encoded by more than one nucleotide triplet",
+  "sourceHash": "7c82fd3f6b9d331200a63087fc267c1a59cf47d7d333d2e414e82fbc0dcd6568",
+  "cacheSourceId": "821ac5da107c4bfacea4",
+  "retrievedAt": "2026-11-07T02:41:51.304955+00:00",
+  "reviewedMappings": {
+    "2024-3-27:5": "Direct degeneracy discussion supports synonymous substitutions; no assertion that synonymous changes are always biologically neutral."
+  },
+  "retrievalMethod": "Direct degeneracy discussion supports synonymous substitutions; no assertion that synonymous changes are always biologically neutral.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

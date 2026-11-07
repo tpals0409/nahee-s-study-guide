@@ -1,0 +1,85 @@
+{
+  "id": "2024-3-33",
+  "summary": "마그마의 냉각 속도와 가장 직접적으로 연결되는 대표적 성질은 결정 입자의 크기이므로 ②가 정답입니다. 일반적으로 천천히 식으면 결정이 성장할 시간이 길어 입자가 크고, 빨리 식으면 입자가 작거나 유리질이 됩니다.",
+  "choices": [
+    "광물조합은 마그마의 화학 조성과 정출 조건을 함께 반영합니다. 이 문항에서 냉각 속도에 따른 대표적인 차이로 고를 것은 광물조합보다 결정 입자의 크기입니다.",
+    "천천히 냉각하면 결정이 성장할 시간이 충분하여 큰 결정이 생기고, 빠르게 냉각하면 작은 결정이 생기거나 결정화가 억제되어 유리질이 됩니다. 따라서 정답입니다.",
+    "암석 색은 구성 광물과 조성의 영향을 크게 받습니다. 일반적으로 고철질암은 어둡고 규장질암은 밝으며, 냉각 속도만으로 색을 정하는 것은 적절하지 않습니다.",
+    "구성 광물마다 밀도가 다르므로 암석의 밀도는 광물조합 등도 고려해야 합니다. 냉각 속도 차이가 만드는 대표적인 조직 특성은 밀도보다 결정 크기입니다.",
+    "광물의 쪼개짐은 결정 격자에서 결합이 약한 면의 방향과 관련된 성질입니다. 냉각 속도에 따른 결정 크기 변화와 구별해야 합니다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "US National Park Service",
+      "ref": "Igneous Rocks",
+      "quote": "large crystal sizes visible to the naked eye because they cool slowly",
+      "url": "https://www.nps.gov/subjects/geology/igneous.htm",
+      "evidenceId": "75d52d106a973df0b8f1",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "US National Park Service",
+      "ref": "Igneous Rocks",
+      "quote": "large crystal sizes visible to the naked eye because they cool slowly",
+      "url": "https://www.nps.gov/subjects/geology/igneous.htm",
+      "evidenceId": "75d52d106a973df0b8f1",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "US National Park Service",
+      "ref": "Igneous Rocks",
+      "quote": "large crystal sizes visible to the naked eye because they cool slowly",
+      "url": "https://www.nps.gov/subjects/geology/igneous.htm",
+      "evidenceId": "75d52d106a973df0b8f1",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "US National Park Service",
+      "ref": "Igneous Rocks",
+      "quote": "large crystal sizes visible to the naked eye because they cool slowly",
+      "url": "https://www.nps.gov/subjects/geology/igneous.htm",
+      "evidenceId": "75d52d106a973df0b8f1",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "BCcampus / Steven Earle",
+      "ref": "Physical Geology 2e 2.6 Mineral Properties",
+      "quote": "the orientation of weaknesses within the lattice",
+      "url": "https://opentextbc.ca/physicalgeology2ed/chapter/2-6-mineral-properties/",
+      "evidenceId": "1124ef2b361f5342df83",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "BCcampus / Steven Earle",
+      "ref": "Physical Geology 2e 2.6 Mineral Properties",
+      "quote": "the orientation of weaknesses within the lattice",
+      "url": "https://opentextbc.ca/physicalgeology2ed/chapter/2-6-mineral-properties/",
+      "evidenceId": "1124ef2b361f5342df83",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Original image inspected; direct NPS cooling/texture and textbook mineral-property sections reviewed. Removed unsupported density numbers, universal low-nucleation assumption and assertions that cooling has no influence on other properties.",
+    "contentHash": "76f029ea31ba6060b62d5c706f355ffe8b41704b3aced105a8fdfe261924b935"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "7830f5fa760a00d89a65",
+  "kind": "science",
+  "source": "OpenStax Microbiology",
+  "ref": "11.3 RNA Transcription",
+  "url": "https://openstax.org/books/microbiology/pages/11-3-rna-transcription",
+  "excerpt": "archaea contain a single RNA polymerase",
+  "sourceHash": "bb9a158f4b3dc083aaec348a6c311a0ed1a53fdc31123807319a9d8df714a7d5",
+  "cacheSourceId": "f66e3a81491452dc2941",
+  "retrievedAt": "2026-11-06T18:54:18.000434+00:00",
+  "reviewedMappings": {
+    "2014-3-23:5": "53행 고세균 RNA중합효소 존재 확인. 다른 교재22.2 표의 multiple 표기는 단백질 종류/구성 혼동 가능성이 있어 채택하지 않고 존재 여부만 판단."
+  },
+  "retrievalMethod": "web.open; manually reviewed excerpt",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

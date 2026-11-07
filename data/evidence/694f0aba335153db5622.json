@@ -1,0 +1,22 @@
+{
+  "id": "694f0aba335153db5622",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "OpenStax University Physics Volume 1 §10.5 Calculating Moments of Inertia",
+  "url": "https://openstax.org/books/university-physics-volume-1/pages/10-5-calculating-moments-of-inertia",
+  "excerpt": "A uniform thin rod with axis at the end",
+  "sourceHash": "3774038bf3e2f72a48544c2b91128fdeb0867961a25212a2b9f8764edfe3ee51",
+  "cacheSourceId": "3c06321464908b3ba394",
+  "retrievedAt": "2026-11-06T20:07:17.891794+00:00",
+  "reviewedMappings": {
+    "2013-3-04:0": "원본 수평 균질 막대 끝점축에 I=ML²/3, tau=MgL/2, a=Lalpha 적용. a=3g/2. 각 오답 a를 tau=I a/L에 역대입해 실제 토크와 불일치 확인.",
+    "2016-3-03:0": "본문 70~77행 및 94행의 끝축 막대 관성모멘트 ML²/3 확인. 원문은 균일 막대 끝을 축으로 하므로 중심축 ML²/12와 구별한다.",
+    "2016-3-03:1": "본문 70~77행 및 94행의 끝축 막대 관성모멘트 ML²/3 확인. 원문은 균일 막대 끝을 축으로 하므로 중심축 ML²/12와 구별한다.",
+    "2016-3-03:2": "본문 70~77행 및 94행의 끝축 막대 관성모멘트 ML²/3 확인. 원문은 균일 막대 끝을 축으로 하므로 중심축 ML²/12와 구별한다.",
+    "2016-3-03:3": "본문 70~77행 및 94행의 끝축 막대 관성모멘트 ML²/3 확인. 원문은 균일 막대 끝을 축으로 하므로 중심축 ML²/12와 구별한다.",
+    "2016-3-03:4": "본문 70~77행 및 94행의 끝축 막대 관성모멘트 ML²/3 확인. 원문은 균일 막대 끝을 축으로 하므로 중심축 ML²/12와 구별한다.",
+    "2016-3-03:5": "본문 70~77행 및 94행의 끝축 막대 관성모멘트 ML²/3 확인. 원문은 균일 막대 끝을 축으로 하므로 중심축 ML²/12와 구별한다."
+  },
+  "retrievalMethod": "web open: directly reviewed source text and equations in current conversation",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

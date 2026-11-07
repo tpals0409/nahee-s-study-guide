@@ -1,0 +1,21 @@
+{
+  "id": "11ebd23378726e2825ae",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e §8.3, Calvin cycle and nocturnal carbon storage",
+  "url": "https://openstax.org/books/biology-2e/pages/8-3-using-light-energy-to-make-organic-molecules",
+  "excerpt": "until it reaches the mesophyll cells",
+  "sourceHash": "9c8048e192f254fa2513a6d7adbcfb23f7fa4e4eef5d3d19b6bd1469d5648f5d",
+  "cacheSourceId": "42f265c67c14fb74dc53",
+  "retrievedAt": "2026-11-07T02:35:22.671934+00:00",
+  "reviewedMappings": {
+    "2024-3-22:0": "Direct page reviewed: mesophyll/stroma carbon fixation and cactus nighttime carbon storage with daytime use. ㄱ and ㄷ true; ㄴ misidentifies the main C3 fixation site.",
+    "2024-3-22:1": "Direct page reviewed: mesophyll/stroma carbon fixation and cactus nighttime carbon storage with daytime use. ㄱ alone omits true CAM nocturnal uptake ㄷ.",
+    "2024-3-22:2": "Direct page reviewed: mesophyll/stroma carbon fixation and cactus nighttime carbon storage with daytime use. C3 primary photosynthetic fixation is mesophyll; bundle-sheath specialization describes typical C4.",
+    "2024-3-22:3": "Direct page reviewed: mesophyll/stroma carbon fixation and cactus nighttime carbon storage with daytime use. C4 suppression of photorespiration and CAM nighttime fixation both agree.",
+    "2024-3-22:4": "Direct page reviewed: mesophyll/stroma carbon fixation and cactus nighttime carbon storage with daytime use. ㄷ true, ㄴ false, ㄱ omitted.",
+    "2024-3-22:5": "Direct page reviewed: mesophyll/stroma carbon fixation and cactus nighttime carbon storage with daytime use. All three cannot be true because ㄴ is false."
+  },
+  "retrievalMethod": "Direct page reviewed: mesophyll/stroma carbon fixation and cactus nighttime carbon storage with daytime use.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

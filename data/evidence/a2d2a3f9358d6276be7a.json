@@ -1,0 +1,16 @@
+{
+  "id": "a2d2a3f9358d6276be7a",
+  "kind": "science",
+  "source": "OpenStax Chemistry 2e",
+  "ref": "13.3 Shifting Equilibria: Le Chatelier’s Principle",
+  "url": "https://openstax.org/books/chemistry-2e/pages/13-3-shifting-equilibria-le-chateliers-principle",
+  "excerpt": "the equilibrium will shift right",
+  "sourceHash": "982aac81fce3f55e15436e6243240a84dc0fb29835a836bc17cbab85487adb9a",
+  "cacheSourceId": "ce1474dbfe71d896bc2f",
+  "retrievedAt": "2026-11-06T18:50:31.376189+00:00",
+  "reviewedMappings": {
+    "2014-3-20:5": "55행 반응물 첨가로 분모 증가,Qc<Kc. 고정 온도와 부피에서 A 첨가에 적용."
+  },
+  "retrievalMethod": "web.open; manually reviewed excerpt",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

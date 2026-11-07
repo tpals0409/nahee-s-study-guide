@@ -1,0 +1,16 @@
+{
+  "id": "a484c7c9fb2c9fbd610a",
+  "kind": "science",
+  "source": "University of Missouri Extension",
+  "ref": "Autumn Colors, G5010",
+  "url": "https://extension.missouri.edu/publications/g5010",
+  "excerpt": "dropping temperatures and decreasing day length",
+  "sourceHash": "b92dde74a3f2f58e68e181a39e41509314a492d97f58957b687a98cdb5bd4563",
+  "cacheSourceId": "822f3aaad502e7720d2f",
+  "retrievedAt": "2026-11-06T19:46:19.413705+00:00",
+  "reviewedMappings": {
+    "2015-3-29:0": "전문가 작성 자료의 가을 환경 신호 및 낙엽 절에서 온도와 일장 모두 관여함을 확인했다. 낙엽을 온도만의 반응으로 단정할 수 없다. 이 자료의 구체적인 ABA 기전 설명은 검증 근거로 채택하지 않는다."
+  },
+  "retrievalMethod": "Direct university extension page read; selected short excerpt transcribed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

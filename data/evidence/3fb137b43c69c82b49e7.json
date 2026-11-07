@@ -1,0 +1,21 @@
+{
+  "id": "3fb137b43c69c82b49e7",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume 1, 16.3 Wave Speed on a Stretched String",
+  "url": "https://openstax.org/books/university-physics-volume-1/pages/16-3-wave-speed-on-a-stretched-string",
+  "excerpt": "The speed of a pulse or wave on a string under tension can be found with the equation",
+  "sourceHash": "d477f1074f80aa901af5c9497f4188c4a84c73bef1eb291f6c3b71344c9ead82",
+  "cacheSourceId": "86f090a6a94e8fed7dc8",
+  "retrievedAt": "2026-11-07T03:41:34.445301+00:00",
+  "reviewedMappings": {
+    "2026-3-01:0": "Dimensional comparison gives x+y=0, x-y=1, -2x=-1; x=1/2,y=-1/2. Reviewed equation 16.8 independently confirms v proportional sqrt(F/mu). At unchanged mu doubling F multiplies v by sqrt(2).",
+    "2026-3-01:1": "A factor 1/2 would require x=-1, contradicting the time dimension and reviewed square-root dependence.",
+    "2026-3-01:2": "A factor 1/sqrt(2) would require x=-1/2, contradicting the positive square-root tension dependence.",
+    "2026-3-01:3": "At unchanged linear density v2/v1=sqrt(2F/F)=sqrt(2), matching choice 3.",
+    "2026-3-01:4": "A factor 2 requires x=1 rather than 1/2; time dimension would be T^-2 rather than T^-1.",
+    "2026-3-01:5": "A factor 4 requires x=2 rather than 1/2; time dimension would be T^-4 rather than T^-1."
+  },
+  "retrievalMethod": "Direct web open",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

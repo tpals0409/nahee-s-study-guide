@@ -1,0 +1,26 @@
+{
+  "id": "9d7e8a1d59ca8ae957f5",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 2e, 16.4 Free Energy",
+  "url": "https://openstax.org/books/chemistry-2e/pages/16-4-free-energy",
+  "excerpt": "Free energy is a state function",
+  "sourceHash": "aeaf806685ae791e08f1c07f791bca5e0723eb8e090b1cfec300c43536714303",
+  "cacheSourceId": "c56b913b338e5051960e",
+  "retrievedAt": "2026-11-07T03:12:28.661238+00:00",
+  "reviewedMappings": {
+    "2014-3-16:1": "원문 생성열/생성자유에너지 합산, ΔG°=ΔH°−TΔS°, ΔG°=−RTlnK, 자발성 기준 대조. 문제 수치로 ΔH°−92kJ ΔG°−32kJ, Decimal K≈4.0e5, ΔS°≈−201J/K 독립 계산.",
+    "2014-3-16:2": "원문 생성열/생성자유에너지 합산, ΔG°=ΔH°−TΔS°, ΔG°=−RTlnK, 자발성 기준 대조. 문제 수치로 ΔH°−92kJ ΔG°−32kJ, Decimal K≈4.0e5, ΔS°≈−201J/K 독립 계산.",
+    "2014-3-16:4": "원문 생성열/생성자유에너지 합산, ΔG°=ΔH°−TΔS°, ΔG°=−RTlnK, 자발성 기준 대조. 문제 수치로 ΔH°−92kJ ΔG°−32kJ, Decimal K≈4.0e5, ΔS°≈−201J/K 독립 계산.",
+    "2014-3-16:5": "원문 생성열/생성자유에너지 합산, ΔG°=ΔH°−TΔS°, ΔG°=−RTlnK, 자발성 기준 대조. 문제 수치로 ΔH°−92kJ ΔG°−32kJ, Decimal K≈4.0e5, ΔS°≈−201J/K 독립 계산.",
+    "2019-3-18:0": "두 1전자 환원의 자유 에너지를 합한 뒤 전체 2전자로 나누어 0.34 V 계산.",
+    "2019-3-18:1": "−2F×0.34=−F×0.16−F×0.52로 정답 확인.",
+    "2019-3-18:2": "−2F×0.42=−0.84F는 단계 합 −0.68F와 불일치.",
+    "2019-3-18:3": "−2F×0.60=−1.20F는 단계 합 −0.68F와 불일치.",
+    "2019-3-18:4": "전위의 단순 합 0.68 V는 전체 전자 수를 반영하지 않음.",
+    "2019-3-18:5": "−2F×1.34=−2.68F는 단계 합 −0.68F와 불일치.",
+    "2025-3-15:4": "상수 온도·압력에서 ΔG=ΔH-TΔS 식에 a,b,c를 대입. T>0,b>0이므로 c<a."
+  },
+  "retrievalMethod": "Direct web open and relevant section reading; selected excerpt retained only.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

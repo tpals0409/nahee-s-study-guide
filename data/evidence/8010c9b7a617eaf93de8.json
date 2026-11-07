@@ -1,0 +1,17 @@
+{
+  "id": "8010c9b7a617eaf93de8",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e 4.2 Prokaryotic Cells",
+  "url": "https://openstax.org/books/biology-2e/pages/4-2-prokaryotic-cells",
+  "excerpt": "lacks a nucleus, or any other membrane-bound organelle.",
+  "sourceHash": "10ce91267801cfb199578e8efb96de9afa71323c4ac9b36e2d2eefaf6cfeded0",
+  "cacheSourceId": "58fea1c9a7a79f41c10a",
+  "retrievedAt": "2026-11-07T04:58:00.700388+00:00",
+  "reviewedMappings": {
+    "2026-3-29:1": "원핵생물의 핵·막성 소기관 부재로 ①과 ⑤를 반박한다. 세포막 ATP 합성의 세부 내용은 이 인용만으로 입증하지 않는다.",
+    "2026-3-29:5": "원핵생물의 핵·막성 소기관 부재로 ①과 ⑤를 반박한다. 세포막 ATP 합성의 세부 내용은 이 인용만으로 입증하지 않는다."
+  },
+  "retrievalMethod": "Direct web open",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

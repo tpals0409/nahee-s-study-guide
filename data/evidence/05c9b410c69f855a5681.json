@@ -1,0 +1,21 @@
+{
+  "id": "05c9b410c69f855a5681",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume 2, 8.1: Capacitors and Capacitance",
+  "url": "https://openstax.org/books/university-physics-volume-2/pages/8-1-capacitors-and-capacitance",
+  "excerpt": "The capacitance is independent of Q or V.",
+  "sourceHash": "282e414a15ca99416ae88eda07acbbac1bb511dd9eb23a01cd7815bd29aa36c1",
+  "cacheSourceId": "35c741364265bbee51b1",
+  "retrievedAt": "2026-11-07T03:00:11.866318+00:00",
+  "reviewedMappings": {
+    "2025-3-05:0": "진공·가장자리 효과 무시 조건의 식 8.3에 A′=2A,d′=d/2를 대입하여 비율 4 도출.",
+    "2025-3-05:1": "넓이에 비례·간격에 반비례하므로 1/4은 관계를 뒤집은 값.",
+    "2025-3-05:2": "넓이 증가와 간격 감소는 둘 다 용량 증가 요인이므로 절반 값은 불일치.",
+    "2025-3-05:3": "2/(1/2)=4이므로 두 변화는 상쇄되지 않음.",
+    "2025-3-05:4": "각각의 변화는 2배지만 동시에 적용하면 4배이므로 2배는 불일치.",
+    "2025-3-05:5": "⑤의 4배는 식 8.3에 두 조건을 모두 대입한 결과와 일치."
+  },
+  "retrievalMethod": "Direct Parallel-Plate Capacitor section, derivation E, V and equation 8.3 C=epsilon0*A/d reviewed.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

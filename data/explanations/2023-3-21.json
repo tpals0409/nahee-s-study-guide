@@ -1,0 +1,107 @@
+{
+  "id": "2023-3-21",
+  "summary": "미세소관은 약25nm로 중간섬유(약8~10nm)와 미세섬유(약7nm)보다 굵다. 따라서①이 옳다. 나머지는 리소좀의 산성 환경, 골지체의 cis면, 식물의 글리옥시좀, 활면소포체의 Ca²⁺저장 기능과 맞지 않는다.",
+  "choices": [
+    "옳다. 미세소관의 지름은 약25nm, 중간섬유는 약8~10nm, 미세섬유는 약7nm이므로 세 종류 중 미세소관이 가장 굵다.",
+    "틀리다. 리소좀 내부는 산성이며 가수분해효소는 이 낮은 pH환경에서 작용한다. 중성 환경에서만 작용하는 것이 아니다.",
+    "틀리다. 소포체에서 온 수송 소낭을 받는 쪽은 cis면이다. 가공·분류된 물질을 보내는 쪽이 trans면이다.",
+    "틀리다. 글리옥시좀은 식물에서 발견되는 특수한 퍼옥시좀이다. 따라서 동물세포에서만 발견된다는 진술은 틀리다.",
+    "틀리다. 활면소포체의 대표적인 이온 저장 기능은 칼슘(Ca²⁺)저장이다. 근육세포의 근소포체도 Ca²⁺를 저장한다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e, 4.5 The Cytoskeleton",
+      "quote": "microtubules are cytoskeletons' widest components.",
+      "url": "https://openstax.org/books/biology-2e/pages/4-5-the-cytoskeleton",
+      "evidenceId": "f6d585713b3dce7e335c",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e, 4.5 The Cytoskeleton",
+      "quote": "microtubules are cytoskeletons' widest components.",
+      "url": "https://openstax.org/books/biology-2e/pages/4-5-the-cytoskeleton",
+      "evidenceId": "f6d585713b3dce7e335c",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e, 4.3 Eukaryotic Cells",
+      "quote": "Glyoxysomes, which are specialized peroxisomes in plants",
+      "url": "https://openstax.org/books/biology-2e/pages/4-3-eukaryotic-cells",
+      "evidenceId": "e87183e3e176bce50247",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e, 4.3 Eukaryotic Cells",
+      "quote": "Glyoxysomes, which are specialized peroxisomes in plants",
+      "url": "https://openstax.org/books/biology-2e/pages/4-3-eukaryotic-cells",
+      "evidenceId": "e87183e3e176bce50247",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e, 4.3 Eukaryotic Cells",
+      "quote": "Glyoxysomes, which are specialized peroxisomes in plants",
+      "url": "https://openstax.org/books/biology-2e/pages/4-3-eukaryotic-cells",
+      "evidenceId": "e87183e3e176bce50247",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e, 4.4 The Endomembrane System and Proteins",
+      "quote": "storing calcium ions",
+      "url": "https://openstax.org/books/biology-2e/pages/4-4-the-endomembrane-system-and-proteins",
+      "evidenceId": "c3303d24aa7661d2df09",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e, 4.4 The Endomembrane System and Proteins",
+      "quote": "storing calcium ions",
+      "url": "https://openstax.org/books/biology-2e/pages/4-4-the-endomembrane-system-and-proteins",
+      "evidenceId": "c3303d24aa7661d2df09",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e, 4.4 The Endomembrane System and Proteins",
+      "quote": "storing calcium ions",
+      "url": "https://openstax.org/books/biology-2e/pages/4-4-the-endomembrane-system-and-proteins",
+      "evidenceId": "c3303d24aa7661d2df09",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "원문5개선지확인. OpenStax Biology2e4.3~4.5의관련절직접대조. 필요이상의효소pH정밀값·세포질누출안전성·글리옥시좀내당전환완결주장삭제. K+부재와Ca2+저장기능을구분하고 출처별지원선지에만매핑.①만참.",
+    "contentHash": "a59a2b57ba0c2c7783712ca3c081ed48507b9e5a71387fccf788d9208d7123f3"
+  }
+}

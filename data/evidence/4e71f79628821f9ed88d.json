@@ -1,0 +1,17 @@
+{
+  "id": "4e71f79628821f9ed88d",
+  "kind": "science",
+  "source": "National Weather Service",
+  "ref": "Basic Weather Education — Cloud Classification",
+  "url": "https://www.weather.gov/crp/weather_education",
+  "excerpt": "physical appearance and whether they produce precipitation.",
+  "sourceHash": "5b1735201ce4152cd610cc280baf353bada6cfe778a9f9455cc6560db1b8cdc5",
+  "cacheSourceId": "e3285c389e46d9e8e50f",
+  "retrievedAt": "2026-11-06T19:09:00.268431+00:00",
+  "reviewedMappings": {
+    "2014-3-36:0": "Morphology and precipitation supplement height in classification.",
+    "2014-3-36:5": "Morphology and precipitation supplement height in classification."
+  },
+  "retrievalMethod": "Direct web open; relevant classification and genus paragraphs reviewed against original image.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

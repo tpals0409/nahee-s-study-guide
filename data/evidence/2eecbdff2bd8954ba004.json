@@ -1,0 +1,17 @@
+{
+  "id": "2eecbdff2bd8954ba004",
+  "kind": "reference",
+  "source": "National Weather Service",
+  "ref": "Cloud Development — Making Clouds and Rain",
+  "url": "https://www.weather.gov/source/zhu/ZHU_Training_Page/clouds/cloud_development/clouds.htm",
+  "excerpt": "there is ascending air at the frontal boundary.",
+  "sourceHash": "16c25f63813b98ed09e56ea4ae236a73ada7d6e3bfc8657589d31e3eb53ed3b0",
+  "cacheSourceId": "d15c7a286086fd0a94b2",
+  "retrievedAt": "2026-11-07T06:21:00.963656+00:00",
+  "reviewedMappings": {
+    "2011-3-40:0": "34–35행: 한랭·온난 전선에서 따뜻한 공기가 상승하는 두 경우 직접 확인.",
+    "2011-3-40:4": "34–35행: 한랭·온난 전선에서 따뜻한 공기가 상승하는 두 경우 직접 확인."
+  },
+  "retrievalMethod": "web.open direct body review",
+  "sourceHashScope": "reviewed short excerpt only"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "fbd840de9001cbc80536",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "12.4 The Action Potential",
+  "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/12-4-the-action-potential",
+  "excerpt": "the voltage-gated Na⁺ channels open.",
+  "sourceHash": "30f3e97c4c8159da5dc9eb50555af3a492910ad481ffd8c0b4bb88cb0cfe2046",
+  "cacheSourceId": "1938152b1d55dec94f55",
+  "retrievedAt": "2026-11-06T22:42:09.174671+00:00",
+  "reviewedMappings": {
+    "2019-3-25:0": "휴지상태와 활동전위 각 단계의 통로 개폐를 대조하여 ㄱ 거짓, ㄴ·ㄷ 참.",
+    "2019-3-25:1": "하강기의 K⁺ 통로 개방으로 투과도 증가를 확인하여 ㄱ 배제.",
+    "2019-3-25:2": "상승기 Na⁺ 통로 개방과 투과도 증가로 ㄴ 참이나 통로 차단 조건 ㄷ 누락.",
+    "2019-3-25:3": "ㄱ은 하강기 K⁺ 투과도 방향을 반대로 말하고 ㄴ 누락.",
+    "2019-3-25:4": "재생적 탈분극에 전압개폐성 Na⁺ 통로가 필요하므로 이를 포함한 차단은 활동전위 발생 억제; 상승기와 함께 ㄴ·ㄷ 확인.",
+    "2019-3-25:5": "ㄱ 거짓으로 전부 선택하는 선지 배제."
+  },
+  "retrievalMethod": "Direct web find: 73–76 sodium influx and potassium efflux; 86–95 voltage-gated sodium activation and threshold. Quote normalized from superscript-rendered ion notation. Independently evaluated channel blockade as including the channels required for regenerative depolarization; omitted unneeded quantitative voltages and drug examples.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

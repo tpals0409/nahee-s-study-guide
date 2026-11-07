@@ -1,0 +1,19 @@
+{
+  "id": "667b57134edb4e7044ff",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e 27.2 Features Used to Classify Animals",
+  "url": "https://openstax.org/books/biology-2e/pages/27-2-features-used-to-classify-animals",
+  "excerpt": "the anus develops at the site of the blastopore.",
+  "sourceHash": "9cdd84b2ef7bd51b2458bd29b2786b406593e50e511010356ab9dc8128af22c1",
+  "cacheSourceId": "48858729b478897885de",
+  "retrievedAt": "2026-11-07T05:03:38.216661+00:00",
+  "reviewedMappings": {
+    "2023-3-30:0": "공식②에 대응하는 전형적 후구동물 원구 운명 설명. 모든 종에서 예외 없는 법칙이라는 주장은 제외한다.",
+    "2023-3-30:2": "91–92행은 후구동물에서 입이 반대편에 생기고 원구 쪽이 항문이라는 전형과 그 단순화의 한계를 함께 설명한다.",
+    "2023-3-30:3": "32·65–68행은 좌우대칭동물의 삼배엽과 외·중·내배엽을 설명한다.",
+    "2023-3-30:4": "82–83행은 중배엽으로 둘러싸인 진체강과 환형동물의 포함을 명시한다."
+  },
+  "retrievalMethod": "Direct web open/find",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

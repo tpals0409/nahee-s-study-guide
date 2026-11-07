@@ -1,0 +1,151 @@
+{
+  "id": "2022-3-23",
+  "summary": "정답은 ②입니다. 미토콘드리아 전자전달 사슬에서는 O₂가 전자를 받아 H₂O로 환원됩니다. 광합성 명반응의 비순환적 전자 흐름에서는 NADP⁺가 전자를 받아 NADPH로 환원됩니다.",
+  "choices": [
+    "① 오답입니다. (가)의 O₂는 맞지만, (나)의 NADPH는 전자를 받은 뒤 만들어지는 환원 생성물입니다. 명반응에서 최종적으로 전자를 받는 것은 NADP⁺입니다.",
+    "② 정답입니다. (가)는 O₂, (나)는 NADP⁺입니다. 호흡 사슬 끝에서는 O₂+4e⁻+4H⁺→2H₂O, 명반응 끝에서는 NADP⁺+2e⁻+H⁺→NADPH의 환원이 일어납니다.",
+    "③ 오답입니다. H₂O는 호흡 사슬에서 O₂가 환원된 생성물이고, NADPH는 명반응에서 NADP⁺가 환원된 생성물입니다. 두 항목 모두 최종 전자 수용체와 환원 생성물을 바꾸어 놓았습니다.",
+    "④ 오답입니다. (나)의 NADP⁺는 맞지만, (가)는 H₂O가 아니라 O₂입니다. 미토콘드리아 전자전달 사슬에서 물은 산소가 전자를 받은 결과로 생성됩니다.",
+    "⑤ 오답입니다. (가)의 H₂O는 호흡 사슬의 환원 생성물입니다. NADH는 미토콘드리아 전자전달 사슬에 전자를 공급하는 물질이며, 명반응의 최종 전자 수용체는 NADP⁺입니다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e, 7.4 Oxidative Phosphorylation",
+      "quote": "oxygen is reduced to form water",
+      "url": "https://openstax.org/books/biology-2e/pages/7-4-oxidative-phosphorylation",
+      "evidenceId": "49935675d82d15a6e39d",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e, 7.4 Oxidative Phosphorylation",
+      "quote": "oxygen is reduced to form water",
+      "url": "https://openstax.org/books/biology-2e/pages/7-4-oxidative-phosphorylation",
+      "evidenceId": "49935675d82d15a6e39d",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e, 7.4 Oxidative Phosphorylation",
+      "quote": "oxygen is reduced to form water",
+      "url": "https://openstax.org/books/biology-2e/pages/7-4-oxidative-phosphorylation",
+      "evidenceId": "49935675d82d15a6e39d",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e, 7.4 Oxidative Phosphorylation",
+      "quote": "oxygen is reduced to form water",
+      "url": "https://openstax.org/books/biology-2e/pages/7-4-oxidative-phosphorylation",
+      "evidenceId": "49935675d82d15a6e39d",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e, 7.4 Oxidative Phosphorylation",
+      "quote": "oxygen is reduced to form water",
+      "url": "https://openstax.org/books/biology-2e/pages/7-4-oxidative-phosphorylation",
+      "evidenceId": "49935675d82d15a6e39d",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e, 7.4 Oxidative Phosphorylation",
+      "quote": "oxygen is reduced to form water",
+      "url": "https://openstax.org/books/biology-2e/pages/7-4-oxidative-phosphorylation",
+      "evidenceId": "49935675d82d15a6e39d",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e, 8.2 The Light-Dependent Reactions of Photosynthesis",
+      "quote": "which reduces NADP⁺ to NADPH",
+      "url": "https://openstax.org/books/biology-2e/pages/8-2-the-light-dependent-reactions-of-photosynthesis",
+      "evidenceId": "8103ea0b95bbb732dfb8",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e, 8.2 The Light-Dependent Reactions of Photosynthesis",
+      "quote": "which reduces NADP⁺ to NADPH",
+      "url": "https://openstax.org/books/biology-2e/pages/8-2-the-light-dependent-reactions-of-photosynthesis",
+      "evidenceId": "8103ea0b95bbb732dfb8",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e, 8.2 The Light-Dependent Reactions of Photosynthesis",
+      "quote": "which reduces NADP⁺ to NADPH",
+      "url": "https://openstax.org/books/biology-2e/pages/8-2-the-light-dependent-reactions-of-photosynthesis",
+      "evidenceId": "8103ea0b95bbb732dfb8",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e, 8.2 The Light-Dependent Reactions of Photosynthesis",
+      "quote": "which reduces NADP⁺ to NADPH",
+      "url": "https://openstax.org/books/biology-2e/pages/8-2-the-light-dependent-reactions-of-photosynthesis",
+      "evidenceId": "8103ea0b95bbb732dfb8",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e, 8.2 The Light-Dependent Reactions of Photosynthesis",
+      "quote": "which reduces NADP⁺ to NADPH",
+      "url": "https://openstax.org/books/biology-2e/pages/8-2-the-light-dependent-reactions-of-photosynthesis",
+      "evidenceId": "8103ea0b95bbb732dfb8",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e, 8.2 The Light-Dependent Reactions of Photosynthesis",
+      "quote": "which reduces NADP⁺ to NADPH",
+      "url": "https://openstax.org/books/biology-2e/pages/8-2-the-light-dependent-reactions-of-photosynthesis",
+      "evidenceId": "8103ea0b95bbb732dfb8",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Original image and all option pairs checked; direct OpenStax electron transport and photosynthesis sections; independently balanced both reduction half-reactions",
+    "contentHash": "ec3f07b998b5e146517edbeaf4007501607cec80206ea87055bbd76840a4944b"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "6b83177e15aba45eedf4",
+  "kind": "science",
+  "source": "British Journal of Nutrition / PubMed",
+  "ref": "Walters et al. (1989), Preparation and characterization of a [14C]cellulose suitable for human metabolic studies",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/2551361/",
+  "excerpt": "Chemical and microscopical examination confirmed that starch was the principal contaminant.",
+  "sourceHash": "5c9461ed8a9452fef7ce677bdc196800e4e4d01a65fe4a0f8f461338b5b22649",
+  "cacheSourceId": "05b3c1be76bc7cfd6fd9",
+  "retrievedAt": "2026-11-07T05:27:31.963121+00:00",
+  "reviewedMappings": {
+    "2014-3-26:0": "ㄱ 검토: 사람 대상 정제 표지 셀룰로스 실험은 체내 대사의 간접 근거를 제공한다. 전분 오염 제거 전후 호기 표지가 감소하므로 초기 비정제 연구의 신호 전부를 셀룰로스 분해로 해석하지 않는다. 회장루군 감소는 대장 관여와 일치하지만 특정 장내균과 직접 연결한 실험은 아니다. 공식 선택지 판정을 확정하는 근거로 확대하지 않는다.",
+    "2014-3-26:1": "ㄱ 검토: 사람 대상 정제 표지 셀룰로스 실험은 체내 대사의 간접 근거를 제공한다. 전분 오염 제거 전후 호기 표지가 감소하므로 초기 비정제 연구의 신호 전부를 셀룰로스 분해로 해석하지 않는다. 회장루군 감소는 대장 관여와 일치하지만 특정 장내균과 직접 연결한 실험은 아니다. 공식 선택지 판정을 확정하는 근거로 확대하지 않는다.",
+    "2014-3-26:2": "ㄱ 검토: 사람 대상 정제 표지 셀룰로스 실험은 체내 대사의 간접 근거를 제공한다. 전분 오염 제거 전후 호기 표지가 감소하므로 초기 비정제 연구의 신호 전부를 셀룰로스 분해로 해석하지 않는다. 회장루군 감소는 대장 관여와 일치하지만 특정 장내균과 직접 연결한 실험은 아니다. 공식 선택지 판정을 확정하는 근거로 확대하지 않는다.",
+    "2014-3-26:4": "ㄱ 검토: 사람 대상 정제 표지 셀룰로스 실험은 체내 대사의 간접 근거를 제공한다. 전분 오염 제거 전후 호기 표지가 감소하므로 초기 비정제 연구의 신호 전부를 셀룰로스 분해로 해석하지 않는다. 회장루군 감소는 대장 관여와 일치하지만 특정 장내균과 직접 연결한 실험은 아니다. 공식 선택지 판정을 확정하는 근거로 확대하지 않는다."
+  },
+  "retrievalMethod": "Direct web open of PubMed primary study abstract",
+  "sourceHashScope": "Selected short excerpt only; not full abstract"
+}

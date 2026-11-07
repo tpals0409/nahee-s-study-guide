@@ -1,0 +1,16 @@
+{
+  "id": "b864d8cb798994781941",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume 2, 14.4 RL Circuits",
+  "url": "https://openstax.org/books/university-physics-volume-2/pages/14-4-rl-circuits",
+  "excerpt": "As a result, I(t) starts at zero and increases asymptotically to its final value.",
+  "sourceHash": "c3387437b316a8843a562e97da282b96f84c9adae72f4ea7a251a1f9e335695d",
+  "cacheSourceId": "6412b7423176adbd630b",
+  "retrievedAt": "2026-11-06T18:29:45.374590+00:00",
+  "reviewedMappings": {
+    "2014-3-01:0": "원본5V·10Ω·3H·10분확인. RL식 I=E/R(1-exp(-Rt/L)), τ=L/R 대입. 600/0.3=2000, 정상전류0.5A. 모든다른선지는정상상한초과."
+  },
+  "retrievalMethod": "web.open: publisher section equations 14.23–14.25 and steady-state discussion reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "bde7b45d862c4952d934",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "14.4 RL Circuits",
+  "url": "https://openstax.org/books/university-physics-volume-2/pages/14-4-rl-circuits",
+  "excerpt": "If there were no self-inductance in the circuit, the current would rise immediately to a steady value",
+  "sourceHash": "7df3e7cbe9de8bc4c6873cbd073dbc66ff13f6218e704f12284b3780033f629a",
+  "cacheSourceId": "65ba0121111e0a795c10",
+  "retrievedAt": "2026-11-06T20:55:09.353169+00:00",
+  "reviewedMappings": {
+    "2017-3-03:0": "본문 33–53행 ε/R 및 ε−L dI/dt−IR=0 확인. 자체 유도 과도응답을 제외한 저항 회로 또는 정상상태에서 I=ε/R=π/4 A. 과도응답까지 다루려면 인덕턴스와 초기조건이 필요하므로 시간에 관계없이 보편적으로 성립한다고 주장하지 않는다.",
+    "2017-3-03:1": "본문 33–53행 ε/R 및 ε−L dI/dt−IR=0 확인. 자체 유도 과도응답을 제외한 저항 회로 또는 정상상태에서 I=ε/R=π/4 A. 과도응답까지 다루려면 인덕턴스와 초기조건이 필요하므로 시간에 관계없이 보편적으로 성립한다고 주장하지 않는다.",
+    "2017-3-03:2": "본문 33–53행 ε/R 및 ε−L dI/dt−IR=0 확인. 자체 유도 과도응답을 제외한 저항 회로 또는 정상상태에서 I=ε/R=π/4 A. 과도응답까지 다루려면 인덕턴스와 초기조건이 필요하므로 시간에 관계없이 보편적으로 성립한다고 주장하지 않는다.",
+    "2017-3-03:3": "본문 33–53행 ε/R 및 ε−L dI/dt−IR=0 확인. 자체 유도 과도응답을 제외한 저항 회로 또는 정상상태에서 I=ε/R=π/4 A. 과도응답까지 다루려면 인덕턴스와 초기조건이 필요하므로 시간에 관계없이 보편적으로 성립한다고 주장하지 않는다.",
+    "2017-3-03:4": "본문 33–53행 ε/R 및 ε−L dI/dt−IR=0 확인. 자체 유도 과도응답을 제외한 저항 회로 또는 정상상태에서 I=ε/R=π/4 A. 과도응답까지 다루려면 인덕턴스와 초기조건이 필요하므로 시간에 관계없이 보편적으로 성립한다고 주장하지 않는다.",
+    "2017-3-03:5": "본문 33–53행 ε/R 및 ε−L dI/dt−IR=0 확인. 자체 유도 과도응답을 제외한 저항 회로 또는 정상상태에서 I=ε/R=π/4 A. 과도응답까지 다루려면 인덕턴스와 초기조건이 필요하므로 시간에 관계없이 보편적으로 성립한다고 주장하지 않는다."
+  },
+  "retrievalMethod": "Direct web page opened; relevant equations and circuit assumptions reviewed.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

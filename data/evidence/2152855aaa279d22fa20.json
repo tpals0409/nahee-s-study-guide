@@ -1,0 +1,21 @@
+{
+  "id": "2152855aaa279d22fa20",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume 2 4.7 — Example 4.8",
+  "url": "https://openstax.org/books/university-physics-volume-2/pages/4-7-entropy-on-a-microscopic-scale",
+  "excerpt": "There is no change in the internal energy (and hence temperature)",
+  "sourceHash": "e3015d21ebcc568db7108db49c26e6880a6879d4212b35d2dc2073e98d41485d",
+  "cacheSourceId": "41c4a67914b80e3cc1b4",
+  "retrievedAt": "2026-11-06T17:01:35.890070+00:00",
+  "reviewedMappings": {
+    "2012-3-04:0": "원본 그림의 기체1/3·진공2/3 확인. 단열 강체용기 자유팽창 Q=W=0, ΔU=0. 초기·최종 평형온도 같고 ΔS=nRln3>0. 교재 예제4.8 대조.",
+    "2012-3-04:1": "ㄱ 엔트로피 증가·ㄴ 온도 불변 모두 옳음.",
+    "2012-3-04:2": "ㄱ만 옳고 ㄷ 외부일·ㄹ 내부에너지 증가 모두 틀림.",
+    "2012-3-04:3": "ㄹ 내부에너지 증가 틀림.",
+    "2012-3-04:4": "ㄴ 맞고 ㄷ 외부일 틀림.",
+    "2012-3-04:5": "ㄷ·ㄹ 모두 틀림."
+  },
+  "retrievalMethod": "web.open Example4.8 본문84–105 직접 대조",
+  "sourceHashScope": "Selected excerpt only; not full page"
+}

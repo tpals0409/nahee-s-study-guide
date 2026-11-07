@@ -1,0 +1,18 @@
+{
+  "id": "9f5702291d2b21d8c546",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e, 42.2 Adaptive Immune Response",
+  "url": "https://openstax.org/books/biology-2e/pages/42-2-adaptive-immune-response",
+  "excerpt": "MHC II molecule",
+  "sourceHash": "0a05117aff6d42de466dc03a40f5d41b85bfbe6847568287e5fa4b5cfea29e0a",
+  "cacheSourceId": "e515299c1f6fe42fbe3c",
+  "retrievedAt": "2026-11-07T01:55:29.459211+00:00",
+  "reviewedMappings": {
+    "2023-3-24:0": "그림42.8 및 B Lymphocytes 절: 대식세포·B세포의 II형 MHC 제시. 전문 APC가 I형만 가진다는 ㄱ은 거짓.",
+    "2023-3-24:1": "그림42.8 및 B Lymphocytes 절: 대식세포·B세포의 II형 MHC 제시. 전문 APC가 I형만 가진다는 ㄱ은 거짓.",
+    "2023-3-24:2": "그림42.8 및 B Lymphocytes 절: 대식세포·B세포의 II형 MHC 제시. 전문 APC가 I형만 가진다는 ㄱ은 거짓."
+  },
+  "retrievalMethod": "웹 도구로 원문 직접 열람. 검토 범위: 그림42.8 및 B Lymphocytes 절: 대식세포·B세포의 II형 MHC 제시. 전문 APC가 I형만 가진다는 ㄱ은 거짓.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "cb8a3dfdfcac31d9c600",
+  "kind": "science",
+  "source": "European Commission / CORDIS",
+  "ref": "ASOF-N: Effect of Atlantic water on the Arctic Ocean",
+  "url": "https://cordis.europa.eu/article/id/84647-effect-of-atlantic-water-on-the-arctic-ocean",
+  "excerpt": "the only deep passage connecting the Arctic Ocean to the rest of the world ocean",
+  "sourceHash": "0ec3a0768dc083a65985a6aba77f23ac23f089f368691e318ca6b299dcb76e3d",
+  "cacheSourceId": "a6898d5d76463a7c3c40",
+  "retrievedAt": "2026-11-06T19:11:21.253537+00:00",
+  "reviewedMappings": {
+    "2014-3-38:0": "ASOF-N identifies Fram Strait as the sole deep passage from Arctic to Nordic Seas and describes intermediate/deep exchange. Combined with AWI shelf-water contribution, supports Atlantic-side export pathway in ㄷ, not a measured percentage or immediate flushing of all dense water.",
+    "2014-3-38:2": "ASOF-N identifies Fram Strait as the sole deep passage from Arctic to Nordic Seas and describes intermediate/deep exchange. Combined with AWI shelf-water contribution, supports Atlantic-side export pathway in ㄷ, not a measured percentage or immediate flushing of all dense water.",
+    "2014-3-38:4": "ASOF-N identifies Fram Strait as the sole deep passage from Arctic to Nordic Seas and describes intermediate/deep exchange. Combined with AWI shelf-water contribution, supports Atlantic-side export pathway in ㄷ, not a measured percentage or immediate flushing of all dense water.",
+    "2014-3-38:5": "ASOF-N identifies Fram Strait as the sole deep passage from Arctic to Nordic Seas and describes intermediate/deep exchange. Combined with AWI shelf-water contribution, supports Atlantic-side export pathway in ㄷ, not a measured percentage or immediate flushing of all dense water."
+  },
+  "retrievalMethod": "Direct web open; relevant primary institutional science paragraphs read and applied to original Korean statements.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

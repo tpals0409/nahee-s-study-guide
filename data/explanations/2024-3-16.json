@@ -1,0 +1,85 @@
+{
+  "id": "2024-3-16",
+  "summary": "정답은 ④, ㄴ·ㄷ입니다. XY의 전자 수는 14개이므로 서로 다른 C·N·O를 대응하면 XY는 CO이고 Z=N입니다. ZY⁻의 결합 차수 2는 NO⁻에 해당하므로 X=C, Y=O입니다. ㄱ의 두 비는 각각 5/6과 3/4여서 부등호가 반대입니다. NO와 C₂⁻는 홀전자가 각각 1개이고 CN⁻는 홀전자가 없어 ㄴ·ㄷ은 참입니다.",
+  "choices": [
+    "'ㄱ'만 고른 선지는 오답입니다. ㄱ에서 N₂⁺의 결합 차수는 2.5, N₂는 3이므로 비는 약 0.83입니다. O₂⁻는 1.5, O₂는 2이므로 비는 0.75입니다. 0.83 < 0.75는 성립하지 않아 ㄱ은 틀립니다. 또한 옳은 ㄴ, ㄷ이 빠져 있습니다.",
+    "'ㄷ'만 고른 선지는 오답입니다. ㄷ(CN⁻의 반자기성)은 옳지만, 역시 옳은 ㄴ이 빠져 있습니다.",
+    "'ㄱ, ㄴ'을 고른 선지는 오답입니다. ㄴ은 옳지만 ㄱ은 틀렸고, 옳은 ㄷ이 빠져 있습니다.",
+    "'ㄴ, ㄷ'을 고른 선지가 정답입니다. ㄴ: NO(15전자)는 π*2p에 전자가 1개 있어 홀전자가 1개입니다. C₂⁻(13전자)는 σ2p에 전자가 1개 있어 홀전자가 1개입니다. 따라서 두 화학종의 홀전자 수가 같습니다. ㄷ: CN⁻는 14전자로 모든 전자가 짝을 이루므로 반자기성입니다.",
+    "'ㄱ, ㄴ, ㄷ'을 고른 선지는 오답입니다. ㄱ의 부등식이 성립하지 않기 때문입니다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 8.4 Molecular Orbital Theory",
+      "quote": "Materials in which all of the electrons are paired are diamagnetic",
+      "url": "https://openstax.org/books/chemistry-2e/pages/8-4-molecular-orbital-theory",
+      "evidenceId": "4d5e6d9653260444d5a6",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 8.4 Molecular Orbital Theory",
+      "quote": "Materials in which all of the electrons are paired are diamagnetic",
+      "url": "https://openstax.org/books/chemistry-2e/pages/8-4-molecular-orbital-theory",
+      "evidenceId": "4d5e6d9653260444d5a6",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 8.4 Molecular Orbital Theory",
+      "quote": "Materials in which all of the electrons are paired are diamagnetic",
+      "url": "https://openstax.org/books/chemistry-2e/pages/8-4-molecular-orbital-theory",
+      "evidenceId": "4d5e6d9653260444d5a6",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 8.4 Molecular Orbital Theory",
+      "quote": "Materials in which all of the electrons are paired are diamagnetic",
+      "url": "https://openstax.org/books/chemistry-2e/pages/8-4-molecular-orbital-theory",
+      "evidenceId": "4d5e6d9653260444d5a6",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 8.4 Molecular Orbital Theory",
+      "quote": "Materials in which all of the electrons are paired are diamagnetic",
+      "url": "https://openstax.org/books/chemistry-2e/pages/8-4-molecular-orbital-theory",
+      "evidenceId": "4d5e6d9653260444d5a6",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 8.4 Molecular Orbital Theory",
+      "quote": "Materials in which all of the electrons are paired are diamagnetic",
+      "url": "https://openstax.org/books/chemistry-2e/pages/8-4-molecular-orbital-theory",
+      "evidenceId": "4d5e6d9653260444d5a6",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Original electron configuration, species charges and inequality inspected; MO occupancy and rational bond-order ratios independently checked; direct OpenStax rules applied",
+    "contentHash": "c282af8add4957f98017eef7d0fd69dc687fc7b3928a1cea43301c90e153a3bf"
+  }
+}

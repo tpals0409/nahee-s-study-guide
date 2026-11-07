@@ -1,0 +1,21 @@
+{
+  "id": "5f3b5929c41adad6e5ef",
+  "kind": "science",
+  "source": "University of Hawaii",
+  "ref": "Ocean Surface Currents",
+  "url": "https://manoa.hawaii.edu/exploringourfluidearth/physical/atmospheric-effects/ocean-surface-currents",
+  "excerpt": "Gyres in the Northern Hemisphere travel in clockwise directions",
+  "sourceHash": "818429847d807aaf72746fbcd7b8b035082e2acc9b8cfa23b9acf5f9c885e1cf",
+  "cacheSourceId": "0a912dbae479d238d77a",
+  "retrievedAt": "2026-11-07T02:08:49.138381+00:00",
+  "reviewedMappings": {
+    "2023-3-35:0": "Gyres 절의 주요 아열대 순환 방향과 Gulf Stream/Kuroshio 및 California/Canary 경계류 설명을 대조했다. 페루의 소속은 별도 UCSD 근거와 결합한다.",
+    "2023-3-35:1": "Gyres 절의 주요 아열대 순환 방향과 Gulf Stream/Kuroshio 및 California/Canary 경계류 설명을 대조했다. 페루의 소속은 별도 UCSD 근거와 결합한다.",
+    "2023-3-35:2": "Gyres 절의 주요 아열대 순환 방향과 Gulf Stream/Kuroshio 및 California/Canary 경계류 설명을 대조했다. 페루의 소속은 별도 UCSD 근거와 결합한다.",
+    "2023-3-35:3": "Gyres 절의 주요 아열대 순환 방향과 Gulf Stream/Kuroshio 및 California/Canary 경계류 설명을 대조했다. 페루의 소속은 별도 UCSD 근거와 결합한다.",
+    "2023-3-35:4": "Gyres 절의 주요 아열대 순환 방향과 Gulf Stream/Kuroshio 및 California/Canary 경계류 설명을 대조했다. 페루의 소속은 별도 UCSD 근거와 결합한다.",
+    "2023-3-35:5": "Gyres 절의 주요 아열대 순환 방향과 Gulf Stream/Kuroshio 및 California/Canary 경계류 설명을 대조했다. 페루의 소속은 별도 UCSD 근거와 결합한다."
+  },
+  "retrievalMethod": "Direct web open; reviewed relevant circulation sections",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

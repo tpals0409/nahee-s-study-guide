@@ -1,0 +1,14 @@
+{
+  "id": "841eec820a7ea2dd5845",
+  "kind": "science",
+  "source": "OpenStax · University Physics Volume 1",
+  "ref": "10.7",
+  "url": "https://openstax.org/books/university-physics-volume-1/pages/10-7-newtons-second-law-for-rotation",
+  "excerpt": "The torque on the particle is equal to the moment of inertia about the rotation axis times the angular acceleration.",
+  "sourceHash": "e6a945cf225481d38523f754259ffa6027e4ad72125683c544ac0d57c633f711",
+  "cacheSourceId": "806084e904b34cd65329",
+  "retrievedAt": "2026-11-06T14:47:38.800185+00:00",
+  "reviewedMappings": {
+    "2009-3-04:0": "원본 도르래 그림 확인. T1−0.2mg=ma, mg−T2=ma, (T2−T1)R=(mR²/2)(a/R)를 연립해 a=0.32g 및 T2−T1=0.16mg. 장력 0.52mg와 0.68mg로 검산."
+  }
+}

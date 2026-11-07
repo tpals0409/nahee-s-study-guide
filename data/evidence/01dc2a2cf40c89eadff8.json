@@ -1,0 +1,16 @@
+{
+  "id": "01dc2a2cf40c89eadff8",
+  "kind": "science",
+  "source": "기상청",
+  "ref": "지진해일 사례",
+  "url": "https://www.weather.go.kr/w/earthquake-volcano/tsunami.do",
+  "excerpt": "우리나라 동해안 지역에서 인명과 재산 피해가 발생한 사례가 있다.",
+  "sourceHash": "7f95c49a834e46ed5effc2c5c5cf3256fd698f31dc51b0a472ad5f4bd56ee23c",
+  "cacheSourceId": "c48bda41f2f5ed41d4e9",
+  "retrievedAt": "2026-11-07T00:36:19.190922+00:00",
+  "reviewedMappings": {
+    "2021-3-37:4": "47행 및 피해 표 111–120행 대조. 1983 인명·재산 피해와 1993 인명 피해 없음/선박·어망어구 피해를 구별. 양 사건 모두 인명 피해라고 읽히는 초안 수정."
+  },
+  "retrievalMethod": "Direct official page opened and relevant explanatory sections/table reviewed.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

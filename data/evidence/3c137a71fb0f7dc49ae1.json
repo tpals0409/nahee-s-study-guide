@@ -1,0 +1,16 @@
+{
+  "id": "3c137a71fb0f7dc49ae1",
+  "kind": "science",
+  "source": "강원도",
+  "ref": "강원도 공식 지역 지리·지질 자료",
+  "url": "https://state.gwd.go.kr/upload/home/03_01/01.pdf",
+  "excerpt": "남한에서 가장 넓은 석회암 분포지에 해당되며",
+  "sourceHash": "9ffc50b15b9b5f1d5b4a4b6638bd89b3a709f132f0dde84f05f846bedcdf1e5b",
+  "cacheSourceId": "813bf53b9e585d957692",
+  "retrievedAt": "2026-11-07T02:50:38.169600+00:00",
+  "reviewedMappings": {
+    "2024-3-36:1": "Supports major regional limestone distribution associated with Choseon; not an exhaustive quantified national formation-by-formation inventory."
+  },
+  "retrievalMethod": "Indexed provincial publication reviewed; adjacent text identifies Cambrian marine Choseon largely limestone and regional limestone distribution.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

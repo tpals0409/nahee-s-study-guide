@@ -1,0 +1,16 @@
+{
+  "id": "332fa600b3bc478a4f40",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 2e §7.6 Molecular Structure and Polarity",
+  "url": "https://openstax.org/books/chemistry-2e/pages/7-6-molecular-structure-and-polarity",
+  "excerpt": "the molecular structure is trigonal planar",
+  "sourceHash": "f1f4cc037be36d62ed45cec40d2618a52ae94ff0b8aa1ab10cd6eaf5c6687d93",
+  "cacheSourceId": "2ba8e336006347cb8de5",
+  "retrievedAt": "2026-11-06T16:10:03.910191+00:00",
+  "reviewedMappings": {
+    "2010-3-13:3": "Check Your Learning의 carbonate 질문 및 답: 탄산 이온은 평면 삼각형이므로 사면체 설명이 틀림."
+  },
+  "retrievalMethod": "web.open/web.find OpenStax body and figure captions reviewed",
+  "sourceHashScope": "Selected excerpts only; not full page"
+}

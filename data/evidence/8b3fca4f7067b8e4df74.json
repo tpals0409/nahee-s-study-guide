@@ -1,0 +1,19 @@
+{
+  "id": "8b3fca4f7067b8e4df74",
+  "kind": "science",
+  "source": "NOAA",
+  "ref": "Questions about the oceans",
+  "url": "https://library.oarcloud.noaa.gov/noaa_documents.lib/NESDIS/NODC/general_series/publication_G-13.pdf",
+  "excerpt": "turbidity currents may flow for great distances; the sediments are finally deposited on the abyssal plains.",
+  "sourceHash": "7838e8181515ae765d3a0df2aa2ecc4e73652d759cacccf0face1306d94c5773",
+  "cacheSourceId": "e37615882498194792b7",
+  "retrievedAt": "2026-11-06T20:44:47.074400+00:00",
+  "reviewedMappings": {
+    "2016-3-36:0": "저탁류가 먼 거리까지 흐르고 심해저 평원에 퇴적물을 운반한다는 설명. 평원에서는 저탁류가 흐르지 않는다는 초안의 암시를 배제하지만 관측 빈도 순위를 증명하지는 않는다.",
+    "2016-3-36:3": "저탁류가 먼 거리까지 흐르고 심해저 평원에 퇴적물을 운반한다는 설명. 평원에서는 저탁류가 흐르지 않는다는 초안의 암시를 배제하지만 관측 빈도 순위를 증명하지는 않는다.",
+    "2016-3-36:4": "저탁류가 먼 거리까지 흐르고 심해저 평원에 퇴적물을 운반한다는 설명. 평원에서는 저탁류가 흐르지 않는다는 초안의 암시를 배제하지만 관측 빈도 순위를 증명하지는 않는다.",
+    "2016-3-36:5": "저탁류가 먼 거리까지 흐르고 심해저 평원에 퇴적물을 운반한다는 설명. 평원에서는 저탁류가 흐르지 않는다는 초안의 암시를 배제하지만 관측 빈도 순위를 증명하지는 않는다."
+  },
+  "retrievalMethod": "Indexed PDF search excerpt; full PDF not opened.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

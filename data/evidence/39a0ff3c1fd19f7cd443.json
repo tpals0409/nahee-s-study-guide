@@ -1,0 +1,16 @@
+{
+  "id": "39a0ff3c1fd19f7cd443",
+  "kind": "science",
+  "source": "OpenStax · Biology 2e",
+  "ref": "4.3 Eukaryotic Cells",
+  "url": "https://openstax.org/books/biology-2e/pages/4-3-eukaryotic-cells",
+  "excerpt": "Ribosomes, responsible for protein synthesis, also float freely in the cytoplasm",
+  "sourceHash": "bf6795698b5956340a1c134aceea321c453cb0ac58cb4bd1b49b93fc4b7f4ee5",
+  "cacheSourceId": "6406fa39822349e91dcb",
+  "retrievedAt": "2026-11-06T15:53:07.302686+00:00",
+  "reviewedMappings": {
+    "2010-3-30:0": "그림 4.8의 핵 내 염색질 위치 및 세포질 유리·소포체 결합 리보솜 설명 확인. 번역 위치와 핵 DNA 위치를 대조."
+  },
+  "retrievalMethod": "web.open relevant source text and context read",
+  "sourceHashScope": "Selected excerpt only"
+}

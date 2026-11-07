@@ -1,0 +1,14 @@
+{
+  "id": "8a477bf26eb840b7d698",
+  "kind": "science",
+  "source": "OpenStax · Organic Chemistry",
+  "ref": "1.9 sp Hybrid Orbitals and the Structure of Acetylene",
+  "url": "https://openstax.org/books/organic-chemistry/pages/1-9-sp-hybrid-orbitals-and-the-structure-of-acetylene",
+  "excerpt": "The two sp orbitals are oriented 180° apart",
+  "sourceHash": "0ce3e440c313dd6a46d73c6fcd64c34049759ccb89620131ce711b918cbfee62",
+  "cacheSourceId": "652a4202bafbd8717fe4",
+  "retrievedAt": "2026-11-06T15:32:15.860163+00:00",
+  "reviewedMappings": {
+    "2010-3-11:3": "삼중결합의 sp 탄소는 선형. Cl-C≡C-Cl에서 cis/trans의 양쪽 배치가 구별되지 않음."
+  }
+}

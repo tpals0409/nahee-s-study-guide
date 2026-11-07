@@ -1,0 +1,129 @@
+{
+  "id": "2024-3-26",
+  "summary": "노던 블롯팅은 RNA를 검출하는 방법이므로 단백질 분석법을 묻는 이 문항의 정답은 ①입니다. 나머지 네 방법은 단백질의 서열이나 성질을 분석하거나 특정 단백질을 검출하는 데 사용할 수 있습니다.",
+  "choices": [
+    "노던 블롯팅은 상보적인 탐침을 이용해 특정 RNA를 검출하는 방법입니다. 단백질 자체를 분석하는 방법이 아니므로 이 선지가 정답입니다.",
+    "에드만 분해법은 펩타이드나 단백질의 N-말단부터 아미노산을 차례로 확인하여 서열을 분석합니다. 단백질 분석법에 해당합니다.",
+    "등전점 전기영동은 pH 기울기에서 단백질을 등전점(pI)에 따라 분리합니다. 단백질은 순전하가 0이 되는 pH 위치에서 전기장에 의한 이동을 멈춥니다.",
+    "일반적인 2차원 단백질 전기영동은 등전점과 분자량이라는 서로 다른 성질을 이용해 단백질 혼합물을 분리합니다. 따라서 단백질 분석법입니다.",
+    "ELISA는 항원·항체의 특이적 결합과 효소 표지를 이용하며, 특정 단백질을 검출하거나 정량하는 데 사용할 수 있습니다. 따라서 단백질 분석법입니다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "NHGRI",
+      "ref": "Northern Blot",
+      "quote": "Northern blot is a laboratory analysis method used to study RNA.",
+      "url": "https://www.genome.gov/genetics-glossary/Northern-Blot",
+      "evidenceId": "307e692d2e11a09e3ccf",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "NHGRI",
+      "ref": "Northern Blot",
+      "quote": "Northern blot is a laboratory analysis method used to study RNA.",
+      "url": "https://www.genome.gov/genetics-glossary/Northern-Blot",
+      "evidenceId": "307e692d2e11a09e3ccf",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "PubMed / original research abstract",
+      "ref": "Micro quantitative Edman manual sequencing",
+      "quote": "sequential quantitative determination of from 3 to 10 amino terminal residues",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/7451804/",
+      "evidenceId": "3f2d59df7bcb75214b21",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "PubMed / original research abstract",
+      "ref": "Micro quantitative Edman manual sequencing",
+      "quote": "sequential quantitative determination of from 3 to 10 amino terminal residues",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/7451804/",
+      "evidenceId": "3f2d59df7bcb75214b21",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "NCBI Bookshelf / Garland Science",
+      "ref": "Molecular Biology of the Cell: Fractionation of Cells",
+      "quote": "the pH at which the protein has no net charge",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK26936/",
+      "evidenceId": "fc39f55a2a43531674e0",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "NCBI Bookshelf / Garland Science",
+      "ref": "Molecular Biology of the Cell: Fractionation of Cells",
+      "quote": "the pH at which the protein has no net charge",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK26936/",
+      "evidenceId": "fc39f55a2a43531674e0",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "Nature Methods",
+      "ref": "Two-dimensional gel electrophoresis of proteins",
+      "quote": "the independent parameters of isoelectric point and molecular weight",
+      "url": "https://www.nature.com/articles/nmeth0105-83",
+      "evidenceId": "8b5137b3e17e8ea921ed",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "Nature Methods",
+      "ref": "Two-dimensional gel electrophoresis of proteins",
+      "quote": "the independent parameters of isoelectric point and molecular weight",
+      "url": "https://www.nature.com/articles/nmeth0105-83",
+      "evidenceId": "8b5137b3e17e8ea921ed",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Microbiology 20.4 EIAs and ELISAs",
+      "quote": "use antibodies to precisely quantify specific antigen present in a solution",
+      "url": "https://openstax.org/books/microbiology/pages/20-4-eias-and-elisas",
+      "evidenceId": "2333c8f4df321a9acace",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Microbiology 20.4 EIAs and ELISAs",
+      "quote": "use antibodies to precisely quantify specific antigen present in a solution",
+      "url": "https://openstax.org/books/microbiology/pages/20-4-eias-and-elisas",
+      "evidenceId": "2333c8f4df321a9acace",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Original question image inspected; analytes/principles of all five techniques checked against official glossary, textbook and original method sources. Removed assertion that protein detection must use Western blot.",
+    "contentHash": "67bbf4f968b76fef84617842570fe912e90efe6616f6a896808465f0cac047e0"
+  }
+}

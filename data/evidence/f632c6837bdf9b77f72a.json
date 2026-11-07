@@ -1,0 +1,21 @@
+{
+  "id": "f632c6837bdf9b77f72a",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume 2 §5.4 — Electric Field, Eq. 5.3",
+  "url": "https://openstax.org/books/university-physics-volume-2/pages/5-4-electric-field",
+  "excerpt": "Different test charges experience different forces",
+  "sourceHash": "e7eaec6d35119bdf134a95a2b148036fd8353aff63ba55e5a0d014dee1eb2d70",
+  "cacheSourceId": "c2d6f50ca4acf4400bb4",
+  "retrievedAt": "2026-11-06T21:43:30.009688+00:00",
+  "reviewedMappings": {
+    "2018-3-08:0": "벡터식F=qE 확인. 원본 판 부호와 위쪽 편향을 대조하여 음전하임을 판단하고 크기|q|E 사용. a_y=|q|E/m. t=l/v₀와 y=d를 대입하여⑤.",
+    "2018-3-08:1": "벡터식F=qE 확인. 원본 판 부호와 위쪽 편향을 대조하여 음전하임을 판단하고 크기|q|E 사용. a_y=|q|E/m. 후보 E의 계수0.5이면 y/d=0.25;1이 되는⑤만 일치. q는 크기로 해석.",
+    "2018-3-08:2": "벡터식F=qE 확인. 원본 판 부호와 위쪽 편향을 대조하여 음전하임을 판단하고 크기|q|E 사용. a_y=|q|E/m. 후보 E의 계수0.7071067811865475이면 y/d=0.35355339059327373;1이 되는⑤만 일치. q는 크기로 해석.",
+    "2018-3-08:3": "벡터식F=qE 확인. 원본 판 부호와 위쪽 편향을 대조하여 음전하임을 판단하고 크기|q|E 사용. a_y=|q|E/m. 후보 E의 계수1이면 y/d=0.5;1이 되는⑤만 일치. q는 크기로 해석.",
+    "2018-3-08:4": "벡터식F=qE 확인. 원본 판 부호와 위쪽 편향을 대조하여 음전하임을 판단하고 크기|q|E 사용. a_y=|q|E/m. 후보 E의 계수1.4142135623730951이면 y/d=0.7071067811865476;1이 되는⑤만 일치. q는 크기로 해석.",
+    "2018-3-08:5": "벡터식F=qE 확인. 원본 판 부호와 위쪽 편향을 대조하여 음전하임을 판단하고 크기|q|E 사용. a_y=|q|E/m. 후보 E의 계수2이면 y/d=1.0;1이 되는⑤만 일치. q는 크기로 해석."
+  },
+  "retrievalMethod": "Direct source page and relevant equations reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

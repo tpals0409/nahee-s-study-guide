@@ -1,0 +1,16 @@
+{
+  "id": "5d85b1d3891dfa95aeee",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 2e 6.4 Electron Configurations",
+  "url": "https://openstax.org/books/chemistry-2e/pages/6-4-electronic-structure-of-atoms-electron-configurations",
+  "excerpt": "the maximum number of unpaired electrons",
+  "sourceHash": "78752051c77ec64bb578ef18ddcf4c56359578f0bb2914292b612ddef5b70f1b",
+  "cacheSourceId": "1e3afc5e7094611acc2a",
+  "retrievedAt": "2026-11-06T17:11:29.380157+00:00",
+  "reviewedMappings": {
+    "2012-3-12:4": "본문77–81의 C와 O 오비탈 배치 대조. C 2p², O 2p⁴에서 각각 홀전자 둘. 주어진 루이스 구조 전자 직접 계수 18/17/16에서 O/N/C 식별."
+  },
+  "retrievalMethod": "web.open relevant paragraphs reviewed; selected excerpt retained",
+  "sourceHashScope": "Selected excerpt only; not full page"
+}

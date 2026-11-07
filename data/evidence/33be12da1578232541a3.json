@@ -1,0 +1,14 @@
+{
+  "id": "33be12da1578232541a3",
+  "kind": "science",
+  "source": "OpenStax · Biology 2e",
+  "ref": "4.4 The Endomembrane System and Proteins",
+  "url": "https://openstax.org/books/biology-2e/pages/4-4-the-endomembrane-system-and-proteins",
+  "excerpt": "As the protein passes along the Golgi’s cisternae, the addition of more carbohydrates further modifies it.",
+  "sourceHash": "69c47321bf035c3fbeb79c2ab635f240c32ef761ea9a342ee8830a595e2156aa",
+  "cacheSourceId": "9cfb105aa926b40c0146",
+  "retrievedAt": "2026-11-06T15:38:54.624491+00:00",
+  "reviewedMappings": {
+    "2010-3-21:0": "교재 Figure 4.18의 ER 당 첨가 및 Golgi 추가 당 첨가, Rough ER 단백질 가공·분비 설명 확인. Smooth ER와 Lysosomes 각 절 기능 대조. 잔기·효소명 등 문항 판단에 불필요한 상세를 제거하고 선지별 소기관 조합 검증."
+  }
+}

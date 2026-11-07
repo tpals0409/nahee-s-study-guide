@@ -1,0 +1,20 @@
+{
+  "id": "40f7242fc4a53733b83c",
+  "kind": "science",
+  "source": "U.S. National Park Service",
+  "ref": "Coastal Processes—Waves",
+  "url": "https://www.nps.gov/articles/coastal-processes-waves.htm",
+  "excerpt": "The orbit of individual water particles becomes less circular and more elliptical.",
+  "sourceHash": "30387d3974e40d6b6689eafd1b8c9b043cd600e8ec890df9c9432b3f4918791e",
+  "cacheSourceId": "08a5d31c6cbf159fd5cd",
+  "retrievedAt": "2026-11-06T22:57:15.097689+00:00",
+  "reviewedMappings": {
+    "2019-3-39:0": "천해로 접근하면서 궤도가 납작해지고 쇄파 시 전진 운동이 중요해진다는 설명으로 D의 원형 궤도 주장을 배제했다.",
+    "2019-3-39:2": "천해로 접근하면서 궤도가 납작해지고 쇄파 시 전진 운동이 중요해진다는 설명으로 D의 원형 궤도 주장을 배제했다.",
+    "2019-3-39:3": "천해로 접근하면서 궤도가 납작해지고 쇄파 시 전진 운동이 중요해진다는 설명으로 D의 원형 궤도 주장을 배제했다.",
+    "2019-3-39:4": "천해로 접근하면서 궤도가 납작해지고 쇄파 시 전진 운동이 중요해진다는 설명으로 D의 원형 궤도 주장을 배제했다.",
+    "2019-3-39:5": "천해로 접근하면서 궤도가 납작해지고 쇄파 시 전진 운동이 중요해진다는 설명으로 D의 원형 궤도 주장을 배제했다."
+  },
+  "retrievalMethod": "Direct open: lines 31–33 on bottom influence, elliptical motion, forward transport and breaking waves.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,85 @@
+{
+  "id": "2019-3-01",
+  "summary": "최고점에서는 연직 속도가 0이므로 0=v₀sinθ−gT, 즉 T=v₀sinθ/g입니다. 초기 속력이 같고 sin30°<sin45°<sin60°이므로 T_A<T_B<T_C이며 정답은 ①입니다.",
+  "choices": [
+    "정답입니다. 시간의 비는 T_A:T_B:T_C=sin30°:sin45°:sin60°=1:√2:√3입니다.",
+    "C의 발사각은 60°로 B의 45°보다 초기 연직 속도가 큽니다. 따라서 T_C>T_B여야 합니다.",
+    "A의 초기 연직 속도가 가장 작으므로 T_A가 가장 짧습니다. A가 가장 오래 걸리는 순서는 틀립니다.",
+    "C의 초기 연직 속도가 가장 크므로 T_C가 가장 깁니다. C가 가장 먼저 최고점에 도달하지 않습니다.",
+    "실제 시간의 크기 순서와 반대입니다. 이 세 각도에서는 발사각이 클수록 초기 연직 속도가 커져 최고점까지 더 오래 걸립니다."
+  ],
+  "lawNote": "공기 저항을 무시하고 중력가속도 g가 일정한 포물선 운동을 기준으로 합니다. 최고점에서 0이 되는 것은 전체 속도가 아니라 연직 성분입니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "4.3 Projectile Motion — University Physics Volume 1",
+      "quote": "At its highest point, the vertical velocity is zero.",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/4-3-projectile-motion",
+      "evidenceId": "3424edabb822d403d9c9",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "4.3 Projectile Motion — University Physics Volume 1",
+      "quote": "At its highest point, the vertical velocity is zero.",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/4-3-projectile-motion",
+      "evidenceId": "3424edabb822d403d9c9",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "4.3 Projectile Motion — University Physics Volume 1",
+      "quote": "At its highest point, the vertical velocity is zero.",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/4-3-projectile-motion",
+      "evidenceId": "3424edabb822d403d9c9",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "4.3 Projectile Motion — University Physics Volume 1",
+      "quote": "At its highest point, the vertical velocity is zero.",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/4-3-projectile-motion",
+      "evidenceId": "3424edabb822d403d9c9",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "4.3 Projectile Motion — University Physics Volume 1",
+      "quote": "At its highest point, the vertical velocity is zero.",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/4-3-projectile-motion",
+      "evidenceId": "3424edabb822d403d9c9",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "4.3 Projectile Motion — University Physics Volume 1",
+      "quote": "At its highest point, the vertical velocity is zero.",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/4-3-projectile-motion",
+      "evidenceId": "3424edabb822d403d9c9",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Direct OpenStax vertical-motion and apex-time derivation review; independent sine-ratio comparison for all options",
+    "contentHash": "6e5dc6830044fbc5391f97636199e9e8def2b5009b21780d23eae3d12e99279f"
+  }
+}

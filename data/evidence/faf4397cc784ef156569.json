@@ -1,0 +1,19 @@
+{
+  "id": "faf4397cc784ef156569",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume2 §3.3 First Law of Thermodynamics",
+  "url": "https://openstax.org/books/university-physics-volume-2/pages/3-3-first-law-of-thermodynamics",
+  "excerpt": "W is positive when work is done by the system and negative when work is done on the system.",
+  "sourceHash": "be6b47a45d2ab2422fd454447b9faaceefaa28570b4e4a4538cad5450c606aaf",
+  "cacheSourceId": "b752ea08a8fe2f0f1904",
+  "retrievedAt": "2026-11-07T04:49:36.756291+00:00",
+  "reviewedMappings": {
+    "2021-3-09:0": "결합계Qnet=ΔUtotal+Wnet와 동일 단면적의 순일0.",
+    "2021-3-09:1": "전체 열량차를ΔU와 순일로 구분해야 함.",
+    "2021-3-09:4": "B에서 방출하는 열은 내부에너지 감소가 아니라 등온 압축 일과 연결됨.",
+    "2021-3-09:5": "부호 Qnet=Qin−Qout, 시스템이 한 일 Wnet 사용. 동일 단면적 및 느린 평형이동에서 일 상쇄."
+  },
+  "retrievalMethod": "Direct web open",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

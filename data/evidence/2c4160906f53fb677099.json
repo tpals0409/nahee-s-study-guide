@@ -1,0 +1,17 @@
+{
+  "id": "2c4160906f53fb677099",
+  "kind": "science",
+  "source": "WOAH",
+  "ref": "Foot and mouth disease",
+  "url": "https://www.woah.org/en/disease/foot-and-mouth-disease/",
+  "excerpt": "FMD is caused by an Aphthovirus of the family Picornaviridae.",
+  "sourceHash": "c8d226aa722949385e6cfe063c42c33af457b371436ab8bf691a47a792e67d42",
+  "cacheSourceId": "91569a62c2c79beb5f75",
+  "retrievedAt": "2026-11-06T22:45:26.361834+00:00",
+  "reviewedMappings": {
+    "2019-3-29:0": "Foot and mouth disease의 바이러스성 병인을 확인하여 해당 선지는 정답에서 제외.",
+    "2019-3-29:5": "Foot and mouth disease의 바이러스성 병인을 확인하여 해당 선지는 정답에서 제외."
+  },
+  "retrievalMethod": "Direct web open, introduction at 17–18 describing viral cause and livestock hosts.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,96 @@
+{
+  "id": "2023-3-37",
+  "summary": "정답은 ③입니다. A와 C는 포화수증기량 곡선 위, B는 곡선 아래, D는 곡선보다 높은 위치에 있습니다. B는 현재 기온인 20°C에서 불포화이므로 이슬점은 20°C보다 낮습니다.",
+  "choices": [
+    "A는 10°C에서 실제 수증기량과 포화수증기량이 모두 9.4 g/m³인 점입니다. 곡선 위의 포화상태이므로 옳은 설명입니다.",
+    "B의 실제 수증기량은 9.4 g/m³로, 현재 기온 20°C에서의 포화수증기량 17.2 g/m³보다 작습니다. 따라서 불포화상태라는 설명은 옳습니다.",
+    "이슬점은 공기를 냉각하여 포화에 도달하는 온도입니다. B는 20°C에서 아직 불포화이므로 이슬점이 20°C일 수 없습니다. 따라서 옳지 않은 설명입니다.",
+    "C는 20°C에서 실제 수증기량이 포화수증기량 17.2 g/m³과 같은 포화점입니다. 상대습도는 100%이므로 옳은 설명입니다.",
+    "D는 10°C에서 수증기량 17.2 g/m³인 점으로, 해당 온도의 포화수증기량 9.4 g/m³을 초과한 과포화상태입니다. 응결핵이나 응결 표면이 존재하는 일반적인 대기 조건에서는 수증기가 응결하므로 옳은 설명으로 판단합니다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "NOAA / National Weather Service",
+      "ref": "Dew Point vs Humidity",
+      "quote": "in order to achieve a relative humidity (RH) of 100%.",
+      "url": "https://www.weather.gov/arx/why_dewpoint_vs_humidity",
+      "evidenceId": "6653ab51d005aa826017",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "NOAA / National Weather Service",
+      "ref": "Dew Point vs Humidity",
+      "quote": "in order to achieve a relative humidity (RH) of 100%.",
+      "url": "https://www.weather.gov/arx/why_dewpoint_vs_humidity",
+      "evidenceId": "6653ab51d005aa826017",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "NOAA / National Weather Service",
+      "ref": "Dew Point vs Humidity",
+      "quote": "in order to achieve a relative humidity (RH) of 100%.",
+      "url": "https://www.weather.gov/arx/why_dewpoint_vs_humidity",
+      "evidenceId": "6653ab51d005aa826017",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "NOAA / National Weather Service",
+      "ref": "Dew Point vs Humidity",
+      "quote": "in order to achieve a relative humidity (RH) of 100%.",
+      "url": "https://www.weather.gov/arx/why_dewpoint_vs_humidity",
+      "evidenceId": "6653ab51d005aa826017",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "NOAA / National Weather Service",
+      "ref": "Dew Point vs Humidity",
+      "quote": "in order to achieve a relative humidity (RH) of 100%.",
+      "url": "https://www.weather.gov/arx/why_dewpoint_vs_humidity",
+      "evidenceId": "6653ab51d005aa826017",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "NOAA",
+      "ref": "How Clouds Form",
+      "quote": "water vapor will condense onto the cloud condensation nuclei",
+      "url": "https://www.noaa.gov/jetstream/clouds/how-clouds-form",
+      "evidenceId": "841ea26f98dd29f4d05f",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "NOAA",
+      "ref": "How Clouds Form",
+      "quote": "water vapor will condense onto the cloud condensation nuclei",
+      "url": "https://www.noaa.gov/jetstream/clouds/how-clouds-form",
+      "evidenceId": "841ea26f98dd29f4d05f",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Original graph inspected; saturation comparison and direct NOAA/NWS evidence review",
+    "contentHash": "b61bbb13b161f696b3a7fdbbd2f0cda75e62b421b6e55afa9951612b787357df"
+  }
+}

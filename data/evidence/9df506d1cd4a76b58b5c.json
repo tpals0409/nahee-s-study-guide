@@ -1,0 +1,16 @@
+{
+  "id": "9df506d1cd4a76b58b5c",
+  "kind": "science",
+  "source": "NOAA National Weather Service",
+  "ref": "Weather In Action: Lake Shadow/Breeze",
+  "url": "https://www.weather.gov/bgm/WeatherInActionLakeShadowBreeze",
+  "excerpt": "During the night, the high specific heat capacity of the water causes it to cool much slower than nearby land areas.",
+  "sourceHash": "efb259c28ce45390ac1bbc8c793bc913d0dd9be8a89c435acf6a465d9d6fe32a",
+  "cacheSourceId": "33041dccd8f745875b0e",
+  "retrievedAt": "2026-11-06T18:20:59.577920+00:00",
+  "reviewedMappings": {
+    "2013-3-33:0": "물의 큰 비열과 육지보다 느린 냉각, 낮의 육지 가열·상승과 물에서 육지로의 흐름을 대조. ㄱ 거짓, ㄴ 참."
+  },
+  "retrievalMethod": "web.open: official page; daytime and nighttime mechanism paragraphs reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

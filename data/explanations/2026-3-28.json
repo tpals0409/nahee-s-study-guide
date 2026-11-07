@@ -1,0 +1,85 @@
+{
+  "id": "2026-3-28",
+  "summary": "핵산의 기본 구조를 묻는 문제입니다. 시토신은 퓨린이 아니라 피리미딘 염기이므로, 옳지 않은 설명은 '시토신은 퓨린 염기에 속한다'입니다.",
+  "lawNote": "",
+  "choices": [
+    "DNA는 염기 서열에 유전정보를 저장하므로 옳습니다.",
+    "핵산의 주요 염기는 퓨린과 피리미딘으로 나뉩니다. 아데닌·구아닌은 퓨린, 시토신·티민·우라실은 피리미딘입니다.",
+    "뉴클레오티드는 3′–5′ 포스포디에스테르 결합으로 연결되어 당–인산 골격을 이루므로 옳습니다.",
+    "시토신은 단일 고리를 갖는 피리미딘 염기입니다. 이를 퓨린으로 분류한 ④가 옳지 않습니다.",
+    "RNA의 주요 염기에는 아데닌·구아닌·시토신·우라실이 포함되므로 옳습니다."
+  ],
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology2e3.5 Nucleic Acids",
+      "quote": "Scientists classify cytosine, thymine, and uracil as pyrimidines",
+      "url": "https://openstax.org/books/biology-2e/pages/3-5-nucleic-acids",
+      "evidenceId": "c707bc5375fd3ed88433",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology2e3.5 Nucleic Acids",
+      "quote": "Scientists classify cytosine, thymine, and uracil as pyrimidines",
+      "url": "https://openstax.org/books/biology-2e/pages/3-5-nucleic-acids",
+      "evidenceId": "c707bc5375fd3ed88433",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology2e3.5 Nucleic Acids",
+      "quote": "Scientists classify cytosine, thymine, and uracil as pyrimidines",
+      "url": "https://openstax.org/books/biology-2e/pages/3-5-nucleic-acids",
+      "evidenceId": "c707bc5375fd3ed88433",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology2e3.5 Nucleic Acids",
+      "quote": "Scientists classify cytosine, thymine, and uracil as pyrimidines",
+      "url": "https://openstax.org/books/biology-2e/pages/3-5-nucleic-acids",
+      "evidenceId": "c707bc5375fd3ed88433",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology2e3.5 Nucleic Acids",
+      "quote": "Scientists classify cytosine, thymine, and uracil as pyrimidines",
+      "url": "https://openstax.org/books/biology-2e/pages/3-5-nucleic-acids",
+      "evidenceId": "c707bc5375fd3ed88433",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology2e3.5 Nucleic Acids",
+      "quote": "Scientists classify cytosine, thymine, and uracil as pyrimidines",
+      "url": "https://openstax.org/books/biology-2e/pages/3-5-nucleic-acids",
+      "evidenceId": "c707bc5375fd3ed88433",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Full original2026-3-28 image inspected; direct textbook sections reviewed for all5 propositions. Independent answer4 agrees with archived final key. Removed unneeded protein-synthesis and hydrogen-bond-count details; main RNA bases phrased without excluding modified bases.",
+    "contentHash": "7f3369439b52d7cf1ffd87ef69a378016490850656df4c8ea8fde3ce173d0085"
+  }
+}

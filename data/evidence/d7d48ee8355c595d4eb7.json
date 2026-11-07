@@ -1,0 +1,16 @@
+{
+  "id": "d7d48ee8355c595d4eb7",
+  "kind": "science",
+  "source": "U.S. Food and Drug Administration",
+  "ref": "COVID-19 Test Basics",
+  "url": "https://www.fda.gov/consumers/consumer-updates/covid-19-test-basics",
+  "excerpt": "Antibody (or serology) tests look for antibodies in your blood",
+  "sourceHash": "11bbcfdb3c223a9981a11874bf90706ddb36bb978eee427557f4855405bde620",
+  "cacheSourceId": "3f93accf22449520764c",
+  "retrievedAt": "2026-11-07T00:22:22.171619+00:00",
+  "reviewedMappings": {
+    "2021-3-29:4": "FDA distinguishes molecular tests targeting viral RNA from antibody/serology tests targeting host antibodies. Supports distinction between virus-specific IgM and RT-PCR analyte; reaction ingredients still to be checked against manufacturer protocol."
+  },
+  "retrievalMethod": "Direct FDA page review, Types of Tests: molecular viral RNA detection versus serological antibody detection.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

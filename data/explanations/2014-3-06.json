@@ -1,0 +1,30 @@
+{
+  "summary": "정답은 ④ 64배입니다. 방사능은 해당 핵종의 단위 시간당 붕괴 수로, 반감기마다 절반이 됩니다. 60분은 10분 반감기의 6배이므로 2차 방사능은 1차의 1/64이고, 묻는 1차/2차 비는 64입니다.",
+  "choices": [
+    "① 6배는 틀렸습니다. 6은 경과한 반감기의 횟수입니다. 방사능은 매번 절반씩 줄어드므로 1차와 2차의 비는 6이 아니라 2⁶입니다.",
+    "② 18배는 틀렸습니다. 10분마다 방사능이 절반이 되는 과정을 6번 적용하면 2차/1차=1/64이므로, 1차/2차=18이 될 수 없습니다.",
+    "③ 32배는 틀렸습니다. 32=2⁵이므로 같은 반감기에서는 두 측정 사이가 50분일 때의 비입니다. 문제의 간격은 60분입니다.",
+    "④ 64배가 옳습니다. A₂=A₁(1/2)^(60/10)=A₁/64이므로 A₁/A₂=64입니다.",
+    "⑤ 128배는 틀렸습니다. 128=2⁷이므로 같은 반감기에서는 두 측정 사이가 70분일 때의 비입니다. 실제 간격60분에는 64배가 됩니다."
+  ],
+  "lawNote": "문제는 해당 원소 자체의 방사능을 비교합니다. 다른 핵종이나 배경 방사선이 섞인 원시 계수값의 비를 계산하는 문제가 아닙니다. 1차 측정을 시간의 기준점으로 삼으면 되므로, 시료를 만든 시각은 필요하지 않습니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 3, 10.3 Radioactive Decay",
+      "quote": "Therefore, the activity is halved after one half-life.",
+      "url": "https://openstax.org/books/university-physics-volume-3/pages/10-3-radioactive-decay",
+      "evidenceId": "e6ff920bc344e6d366ad",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "원본2014-3-06.webp의 반감기·측정 간격·비의 방향 및 선지 확인. OpenStax 방사능·반감기 식 대조와 Fraction 독립 계산. 배경 방사선이 같으면 된다는 부정확한 초안 조건 수정.",
+    "contentHash": "fa6cbc07f357cb9fa5fa85eb546433190c7c2b829277f91d80f1e2d6d02a7186"
+  }
+}

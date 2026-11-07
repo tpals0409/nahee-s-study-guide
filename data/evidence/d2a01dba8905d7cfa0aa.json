@@ -1,0 +1,27 @@
+{
+  "id": "d2a01dba8905d7cfa0aa",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume 3, 6.5 De Broglie’s Matter Waves",
+  "url": "https://openstax.org/books/university-physics-volume-3/pages/6-5-de-broglies-matter-waves",
+  "excerpt": "we use nonrelativistic momentum p.",
+  "sourceHash": "e325ab22d6b09cce7459cf5f2427ead259bf5e1b66e0fa6b59f30177fcc9b9c6",
+  "cacheSourceId": "eaf11e3bdb96c1827a7b",
+  "retrievedAt": "2026-11-07T04:36:24.904105+00:00",
+  "reviewedMappings": {
+    "2014-3-09:0": "식6.54 λ=h/p, 예제6.11 비상대론적 운동량 적용과 식6.58 상대론적 에너지 관계 대조. K≪mc²에서 p=√(2mK)로 근사, 최대K가 최소λ를 줌. 선지별 제곱계수와 에너지비 Fraction 검산.",
+    "2015-3-10:0": "Equation 6.54 gives wavelength h/p; example 6.11 explicitly uses p=mu for nonrelativistic motion. Original defines both ratios B/A. Independent substitution yields inverse product, not inverse kinetic-energy ratio. All options dimensionless; no dimensional inconsistency alleged for option 4. Irrelevant relativistic and detectability discussion not used.",
+    "2015-3-10:1": "Equation 6.54 gives wavelength h/p; example 6.11 explicitly uses p=mu for nonrelativistic motion. Original defines both ratios B/A. Independent substitution yields inverse product, not inverse kinetic-energy ratio. All options dimensionless; no dimensional inconsistency alleged for option 4. Irrelevant relativistic and detectability discussion not used.",
+    "2015-3-10:2": "Equation 6.54 gives wavelength h/p; example 6.11 explicitly uses p=mu for nonrelativistic motion. Original defines both ratios B/A. Independent substitution yields inverse product, not inverse kinetic-energy ratio. All options dimensionless; no dimensional inconsistency alleged for option 4. Irrelevant relativistic and detectability discussion not used.",
+    "2015-3-10:3": "Equation 6.54 gives wavelength h/p; example 6.11 explicitly uses p=mu for nonrelativistic motion. Original defines both ratios B/A. Independent substitution yields inverse product, not inverse kinetic-energy ratio. All options dimensionless; no dimensional inconsistency alleged for option 4. Irrelevant relativistic and detectability discussion not used.",
+    "2015-3-10:4": "Equation 6.54 gives wavelength h/p; example 6.11 explicitly uses p=mu for nonrelativistic motion. Original defines both ratios B/A. Independent substitution yields inverse product, not inverse kinetic-energy ratio. All options dimensionless; no dimensional inconsistency alleged for option 4. Irrelevant relativistic and detectability discussion not used.",
+    "2015-3-10:5": "Equation 6.54 gives wavelength h/p; example 6.11 explicitly uses p=mu for nonrelativistic motion. Original defines both ratios B/A. Independent substitution yields inverse product, not inverse kinetic-energy ratio. All options dimensionless; no dimensional inconsistency alleged for option 4. Irrelevant relativistic and detectability discussion not used.",
+    "2019-3-09:0": "비상대론적p와λ=h/p로정지출발동일파장및초속도반례의상이한파장을계산. 보기조합의판정은이조건하에서만적용.",
+    "2019-3-09:2": "비상대론적p와λ=h/p로정지출발동일파장및초속도반례의상이한파장을계산. 보기조합의판정은이조건하에서만적용.",
+    "2019-3-09:3": "비상대론적p와λ=h/p로정지출발동일파장및초속도반례의상이한파장을계산. 보기조합의판정은이조건하에서만적용.",
+    "2019-3-09:4": "비상대론적p와λ=h/p로정지출발동일파장및초속도반례의상이한파장을계산. 보기조합의판정은이조건하에서만적용.",
+    "2019-3-09:5": "비상대론적p와λ=h/p로정지출발동일파장및초속도반례의상이한파장을계산. 보기조합의판정은이조건하에서만적용."
+  },
+  "retrievalMethod": "Direct web open/find",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

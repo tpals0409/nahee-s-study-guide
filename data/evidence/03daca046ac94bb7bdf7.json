@@ -1,0 +1,24 @@
+{
+  "id": "03daca046ac94bb7bdf7",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 2e 12.5 Collision Theory",
+  "url": "https://openstax.org/books/chemistry-2e/pages/12-5-collision-theory",
+  "excerpt": "using an alternate version of the Arrhenius equation that takes the form of a linear equation",
+  "sourceHash": "995bfa047bd7a38490a7170fab33ef9f0cab69f1f318d5d549aa9465b4f5c042",
+  "cacheSourceId": "dc176d0dfd69c2348cd5",
+  "retrievedAt": "2026-11-07T04:50:46.757476+00:00",
+  "reviewedMappings": {
+    "2016-3-13:0": "음의기울기 절댓값과Ea 비례. 원문 log10이므로 분모Rln10.",
+    "2016-3-13:1": "나의 더 큰 음의 기울기 절댓값→Ea나>Ea가.",
+    "2016-3-13:3": "ㄱ의 기울기 해석 근거.",
+    "2016-3-13:4": "ㄱ참인데 선택지④에서 누락.",
+    "2016-3-13:5": "ㄱ의 참 판단과 로그 밑 변환.",
+    "2015-3-16:0": "직접읽은67–75행 k=Aexp(−Ea/RT). 빈도인자A영향때문에Ea만으로실제단계속도를항상확정할수없음. 단순화도표해석의한계를뒷받침.",
+    "2015-3-16:3": "직접읽은67–75행 k=Aexp(−Ea/RT). 빈도인자A영향때문에Ea만으로실제단계속도를항상확정할수없음. 단순화도표해석의한계를뒷받침.",
+    "2015-3-16:4": "직접읽은67–75행 k=Aexp(−Ea/RT). 빈도인자A영향때문에Ea만으로실제단계속도를항상확정할수없음. 단순화도표해석의한계를뒷받침.",
+    "2015-3-16:5": "직접읽은67–75행 k=Aexp(−Ea/RT). 빈도인자A영향때문에Ea만으로실제단계속도를항상확정할수없음. 단순화도표해석의한계를뒷받침."
+  },
+  "retrievalMethod": "Direct web open/find",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

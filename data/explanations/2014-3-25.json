@@ -1,0 +1,107 @@
+{
+  "summary": "siRNA는 특정 유전자의 발현을 억제하는 데 사용할 수 있다. 식물에서도 작용하며, 전형적인 siRNA는 짧은 이중가닥 RNA이므로 동물에만 존재한다거나 단일가닥 분자라고 한 설명은 틀리다. 따라서 ㄱ만 옳고 정답은 ①이다.",
+  "choices": [
+    "① ㄱ: 옳음. 표적 mRNA와 상보적인 siRNA를 이용하면 RNA 간섭으로 그 mRNA의 분해를 유도하여 특정 유전자의 발현을 낮출 수 있다. 이는 유전자 발현 억제(녹다운)에 활용된다.",
+    "② ㄱ·ㄷ: 틀림. ㄱ은 옳지만, 전형적인 siRNA는 짧은 RNA 두 가닥이 결합한 이중가닥이다. 작용 복합체에 남는 단일 가이드 가닥과 siRNA 이중가닥의 기본 형태를 구별해야 하므로 ㄷ은 제외한다.",
+    "③ ㄴ: 틀림. siRNA는 식물에서도 유전자 발현 억제에 관여하므로 동물에서만 발견된다는 설명은 맞지 않는다. 또한 옳은 ㄱ이 빠져 있다.",
+    "④ ㄴ·ㄷ: 틀림. 식물에서도 siRNA가 작용하므로 ㄴ은 틀리고, 전형적인 siRNA가 이중가닥이라는 점에서 ㄷ도 틀리다. 옳은 ㄱ이 빠져 있다.",
+    "⑤ ㄷ: 틀림. 약 20~25개 뉴클레오타이드라는 길이만으로 틀린 것은 아니며, 문제는 단일가닥이라는 설명이다. 대표적인 siRNA는 각 가닥이 약 21~23 nt인 이중가닥이고, 작용 과정에서 한 가닥이 표적 인식에 쓰인다."
+  ],
+  "lawNote": "가닥의 길이를 나타내는 nt와 실제 염기쌍 수를 나타내는 bp는 다릅니다. 말단에 돌출부가 있는 siRNA에서 이를 같은 값으로 쓰지 않습니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "Elbashir, Lendeckel & Tuschl — Genes & Development (2001)",
+      "ref": "RNA interference is mediated by 21- and 22-nucleotide RNAs",
+      "quote": "Chemically synthesized siRNA duplexes with overhanging 3′ ends mediate efficient target RNA cleavage in the lysate",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC312613/",
+      "evidenceId": "69fcaafd5d8c72768bb2",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "Elbashir, Lendeckel & Tuschl — Genes & Development (2001)",
+      "ref": "RNA interference is mediated by 21- and 22-nucleotide RNAs",
+      "quote": "Chemically synthesized siRNA duplexes with overhanging 3′ ends mediate efficient target RNA cleavage in the lysate",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC312613/",
+      "evidenceId": "69fcaafd5d8c72768bb2",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "Elbashir, Lendeckel & Tuschl — Genes & Development (2001)",
+      "ref": "RNA interference is mediated by 21- and 22-nucleotide RNAs",
+      "quote": "Chemically synthesized siRNA duplexes with overhanging 3′ ends mediate efficient target RNA cleavage in the lysate",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC312613/",
+      "evidenceId": "69fcaafd5d8c72768bb2",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "Elbashir, Lendeckel & Tuschl — Genes & Development (2001)",
+      "ref": "RNA interference is mediated by 21- and 22-nucleotide RNAs",
+      "quote": "Chemically synthesized siRNA duplexes with overhanging 3′ ends mediate efficient target RNA cleavage in the lysate",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC312613/",
+      "evidenceId": "69fcaafd5d8c72768bb2",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "Nucleic Acids Research (2004)",
+      "ref": "RNA silencing in plants by the expression of siRNA duplexes",
+      "quote": "GUS gene was silenced in 80% of siRNA transgenics",
+      "url": "https://academic.oup.com/nar/article/32/21/e171/1101869?login=false",
+      "evidenceId": "a090a6a6422b1491f415",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "Nucleic Acids Research (2004)",
+      "ref": "RNA silencing in plants by the expression of siRNA duplexes",
+      "quote": "GUS gene was silenced in 80% of siRNA transgenics",
+      "url": "https://academic.oup.com/nar/article/32/21/e171/1101869?login=false",
+      "evidenceId": "a090a6a6422b1491f415",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "RNA journal (2005)",
+      "ref": "Sequence characteristics of functional siRNAs",
+      "quote": "When loaded with a single-strand siRNA, RISC binds to a complementary sequence on the mRNA",
+      "url": "https://rnajournal.cshlp.org/content/11/6/864.full",
+      "evidenceId": "269fece7bb2364540489",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "RNA journal (2005)",
+      "ref": "Sequence characteristics of functional siRNAs",
+      "quote": "When loaded with a single-strand siRNA, RISC binds to a complementary sequence on the mRNA",
+      "url": "https://rnajournal.cshlp.org/content/11/6/864.full",
+      "evidenceId": "269fece7bb2364540489",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "original-image-and-indexed-primary-experimental-source-review",
+    "contentHash": "2aecbfd064b7bbdde1ba7882559ca212989a2b27f8d2c687fa754b105685b82f"
+  }
+}

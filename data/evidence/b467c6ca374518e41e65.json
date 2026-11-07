@@ -1,0 +1,20 @@
+{
+  "id": "b467c6ca374518e41e65",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Astronomy 2e — 19.2 Surveying the Stars",
+  "url": "https://openstax.org/books/astronomy-2e/pages/19-2-surveying-the-stars",
+  "excerpt": "is just the reciprocal of its parallax",
+  "sourceHash": "29b07d989bc30f735e131f226230ac755cc2d2e5d4ce0de883208a97e84dbfb7",
+  "cacheSourceId": "e6fbbb3e31ee21d96c9e",
+  "retrievedAt": "2026-11-07T00:41:32.080976+00:00",
+  "reviewedMappings": {
+    "2016-3-39:0": "pc 거리와 각초 단위 연주시차가 역수 관계. A의 100pc로부터 p=0.01각초가 되어 ㄱ 참. 반년 동안의 전체 이동각 2p와 혼동하지 않음.",
+    "2016-3-39:1": "pc 거리와 각초 단위 연주시차가 역수 관계. A의 100pc로부터 p=0.01각초가 되어 ㄱ 참. 반년 동안의 전체 이동각 2p와 혼동하지 않음.",
+    "2016-3-39:3": "pc 거리와 각초 단위 연주시차가 역수 관계. A의 100pc로부터 p=0.01각초가 되어 ㄱ 참. 반년 동안의 전체 이동각 2p와 혼동하지 않음.",
+    "2016-3-39:5": "pc 거리와 각초 단위 연주시차가 역수 관계. A의 100pc로부터 p=0.01각초가 되어 ㄱ 참. 반년 동안의 전체 이동각 2p와 혼동하지 않음.",
+    "2021-3-40:1": "69–72행 d(pc)=1/p(arcsec). A=100pc에서 p=0.01초각. 0.1초각은10pc."
+  },
+  "retrievalMethod": "Direct publisher/observatory page opened and relevant sections reviewed.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

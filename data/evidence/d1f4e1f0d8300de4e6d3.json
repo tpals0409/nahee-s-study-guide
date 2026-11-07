@@ -1,0 +1,17 @@
+{
+  "id": "d1f4e1f0d8300de4e6d3",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e §42.3 Antibodies",
+  "url": "https://openstax.org/books/biology-2e/pages/42-3-antibodies",
+  "excerpt": "plasma cells assemble IgM molecules into pentamers",
+  "sourceHash": "2558b2773c481afc7b547e9a1a837794465b93dc04fc8cdefae5264a7003d9bc",
+  "cacheSourceId": "8bda3bce14435e0f6a6f",
+  "retrievedAt": "2026-11-06T23:30:02.150705+00:00",
+  "reviewedMappings": {
+    "2020-3-29:1": "직접 본문30,39–47행 형질세포 분비와 IgG 단량체 도식, IgM 분비형5량체 확인. ① 틀립니다. IgG의 기본 형태는 단량체입니다. 분비형 항체 중 대표적으로 5량체를 형성하는 것은 IgM입니다.",
+    "2020-3-29:5": "직접 본문30,39–47행 형질세포 분비와 IgG 단량체 도식, IgM 분비형5량체 확인. ⑤ 틀립니다. 항체를 분비하는 세포는 B세포에서 분화한 형질세포입니다. T세포의 항원 인식과 면역 조절·표적세포 제거 기능을 항체 분비와 혼동하면 안 됩니다."
+  },
+  "retrievalMethod": "직접 본문30,39–47행 형질세포 분비와 IgG 단량체 도식, IgM 분비형5량체 확인.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

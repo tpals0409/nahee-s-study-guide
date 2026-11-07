@@ -1,0 +1,16 @@
+{
+  "id": "7006f638ff0b9b67a8ee",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Organic Chemistry §13.6 Spin–Spin Splitting, rules 1–2",
+  "url": "https://openstax.org/books/organic-chemistry/pages/13-6-spin-spin-splitting-in-1h-nmr-spectra",
+  "excerpt": "Chemically equivalent protons don’t show spin–spin splitting.",
+  "sourceHash": "7dff5e4aaea31a7ed08a2baa37ce822f385e400fab065734ed9d6e94e9c36b52",
+  "cacheSourceId": "23ead279f94036d32bba",
+  "retrievedAt": "2026-11-06T16:28:49.756915+00:00",
+  "reviewedMappings": {
+    "2011-3-16:0": "원본 적분1 삼중선과 적분2 이중선 확인. CHCl2CH2Cl에서 CH는 이웃CH2의2수소로삼중선, CH2는 이웃CH의1수소로이중선. 원문 동등수소·n+1규칙 및1,2-dichloroethane 예시 대조. 대칭 후보③⑤의 단일수소환경과도 구분."
+  },
+  "retrievalMethod": "web.run; integration and splitting rules reviewed",
+  "sourceHashScope": "Selected excerpt only; not full page"
+}

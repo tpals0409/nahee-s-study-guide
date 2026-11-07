@@ -1,0 +1,16 @@
+{
+  "id": "c240bf126066a05262a3",
+  "kind": "science",
+  "source": "OpenStax · Biology 2e",
+  "ref": "14.5 DNA Replication in Eukaryotes",
+  "url": "https://openstax.org/books/biology-2e/pages/14-5-dna-replication-in-eukaryotes",
+  "excerpt": "6 billion base pairs are replicated during the S phase of the cell cycle.",
+  "sourceHash": "7f221ea80dcea4dc92bb82bbe2f2321b330f2a86660dfd339eb6d23c0285faa8",
+  "cacheSourceId": "d8ffea5a5785197e8e7b",
+  "retrievedAt": "2026-11-06T15:53:07.303149+00:00",
+  "reviewedMappings": {
+    "2010-3-30:0": "진핵 염색체의 복제를 설명한 문맥과 4.3 핵 내 염색질 위치를 함께 확인. 핵 DNA 복제라는 제한으로 ㄱ 판정."
+  },
+  "retrievalMethod": "web.open relevant source text and context read",
+  "sourceHashScope": "Selected excerpt only"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "553afaf2767dbe091162",
+  "kind": "science",
+  "source": "NASA",
+  "ref": "Mercury Facts",
+  "url": "https://science.nasa.gov/mercury/facts/",
+  "excerpt": "completes one rotation every 59 Earth days",
+  "sourceHash": "9de9faf8a5613af0033970f75678f6249b0a1fc4f4eb42721838e51f8fe730a2",
+  "cacheSourceId": "f3650c451d8cf6d5fd3a",
+  "retrievedAt": "2026-11-06T22:55:06.099452+00:00",
+  "reviewedMappings": {
+    "2019-3-37:1": "해당 행성의 자전 주기를 NASA 본문과 대조하여 243일 조건을 충족하지 않음을 확인했다."
+  },
+  "retrievalMethod": "Direct open/find; Orbit and Rotation line 289, rotation distinguished from solar day.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

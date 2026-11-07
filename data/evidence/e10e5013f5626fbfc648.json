@@ -1,0 +1,21 @@
+{
+  "id": "e10e5013f5626fbfc648",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume 1 §17.4 — Resonance in a Tube Closed at one End",
+  "url": "https://openstax.org/books/university-physics-volume-1/pages/17-4-normal-modes-of-a-standing-sound-wave",
+  "excerpt": "a node at the closed end and an antinode at the open end.",
+  "sourceHash": "8479e34d9e6378f1b112bc023fa675ff28e23cddb49850b3e328fceac16b7b4a",
+  "cacheSourceId": "3479229ac5f050d28d62",
+  "retrievedAt": "2026-11-06T21:42:39.416596+00:00",
+  "reviewedMappings": {
+    "2018-3-07:0": "닫힌끝 변위마디·열린끝 배 조건과 λ1=4L, λ3=4L/3 설명 검토. 경계조건에서 L=(2n−1)λ/4 도출. 원본 그림은5/4파장. 원본 보기의 계수1,2,3,5,7 중 최소양의 짝수2만 해당.",
+    "2018-3-07:1": "닫힌끝 변위마디·열린끝 배 조건과 λ1=4L, λ3=4L/3 설명 검토. 경계조건에서 L=(2n−1)λ/4 도출. 원본 그림은5/4파장. 원본 보기의 계수1,2,3,5,7 중 최소양의 짝수2만 해당.",
+    "2018-3-07:2": "닫힌끝 변위마디·열린끝 배 조건과 λ1=4L, λ3=4L/3 설명 검토. 경계조건에서 L=(2n−1)λ/4 도출. 원본 그림은5/4파장. 원본 보기의 계수1,2,3,5,7 중 최소양의 짝수2만 해당.",
+    "2018-3-07:3": "닫힌끝 변위마디·열린끝 배 조건과 λ1=4L, λ3=4L/3 설명 검토. 경계조건에서 L=(2n−1)λ/4 도출. 원본 그림은5/4파장. 원본 보기의 계수1,2,3,5,7 중 최소양의 짝수2만 해당.",
+    "2018-3-07:4": "닫힌끝 변위마디·열린끝 배 조건과 λ1=4L, λ3=4L/3 설명 검토. 경계조건에서 L=(2n−1)λ/4 도출. 원본 그림은5/4파장. 원본 보기의 계수1,2,3,5,7 중 최소양의 짝수2만 해당.",
+    "2018-3-07:5": "닫힌끝 변위마디·열린끝 배 조건과 λ1=4L, λ3=4L/3 설명 검토. 경계조건에서 L=(2n−1)λ/4 도출. 원본 그림은5/4파장. 원본 보기의 계수1,2,3,5,7 중 최소양의 짝수2만 해당."
+  },
+  "retrievalMethod": "Direct source opened and relevant boundary-condition or beat equation section reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

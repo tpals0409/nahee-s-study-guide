@@ -1,0 +1,85 @@
+{
+  "id": "2018-3-16",
+  "summary": "(가)에서는 Ksp=x(2x)²=4x³이므로 x≈2.15×10⁻⁴ M입니다. (나)에서는 F⁻ 일부가 HF로 전환되어 더 많은 CaF₂가 녹으므로 y>x입니다. NaF 첨가는 공통 이온 효과로 용해도를 낮춥니다. 따라서 ㄱ만 옳아 ①이 정답입니다.",
+  "choices": [
+    "정답입니다. 완충 용액에서 [HF]/[F⁻]=[H⁺]/Ka≈6.94입니다. [F⁻]+[HF]=2y와 용해도곱을 연립하면 y≈8.58×10⁻⁴ M으로 x보다 큽니다.",
+    "ㄴ은 틀립니다. x³=1.0×10⁻¹¹이므로 x≈2.15×10⁻⁴ M>1.0×10⁻⁴ M입니다.",
+    "ㄱ은 옳지만 ㄷ은 틀립니다. NaF의 F⁻가 공통 이온으로 작용해 CaF₂의 용해도를 감소시킵니다.",
+    "ㄴ과 ㄷ 모두 틀립니다. x는 기준값보다 크고, NaF 첨가 시 몰 용해도는 감소합니다.",
+    "ㄱ만 옳습니다. ㄴ과 ㄷ까지 포함한 조합은 오답입니다."
+  ],
+  "lawNote": "(가)의 F⁻ 가수분해는 문제 조건대로 무시합니다. (나)의 [H⁺]는 완충 용액에 의해 주어진 값으로 유지된다고 봅니다. 계산된 용해량은 두 용액 모두 1 L당 0.10 mol보다 작아 고체가 남습니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §15.1 Precipitation and Dissolution: solubility equilibrium and common ion effect",
+      "quote": "the solubility of an ionic compound is less in aqueous solutions containing a common ion",
+      "url": "https://openstax.org/books/chemistry-2e/pages/15-1-precipitation-and-dissolution",
+      "evidenceId": "2f0173df8cb76554bfb2",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §15.1 Precipitation and Dissolution: solubility equilibrium and common ion effect",
+      "quote": "the solubility of an ionic compound is less in aqueous solutions containing a common ion",
+      "url": "https://openstax.org/books/chemistry-2e/pages/15-1-precipitation-and-dissolution",
+      "evidenceId": "2f0173df8cb76554bfb2",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §15.1 Precipitation and Dissolution: solubility equilibrium and common ion effect",
+      "quote": "the solubility of an ionic compound is less in aqueous solutions containing a common ion",
+      "url": "https://openstax.org/books/chemistry-2e/pages/15-1-precipitation-and-dissolution",
+      "evidenceId": "2f0173df8cb76554bfb2",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §15.1 Precipitation and Dissolution: solubility equilibrium and common ion effect",
+      "quote": "the solubility of an ionic compound is less in aqueous solutions containing a common ion",
+      "url": "https://openstax.org/books/chemistry-2e/pages/15-1-precipitation-and-dissolution",
+      "evidenceId": "2f0173df8cb76554bfb2",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §15.1 Precipitation and Dissolution: solubility equilibrium and common ion effect",
+      "quote": "the solubility of an ionic compound is less in aqueous solutions containing a common ion",
+      "url": "https://openstax.org/books/chemistry-2e/pages/15-1-precipitation-and-dissolution",
+      "evidenceId": "2f0173df8cb76554bfb2",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §15.1 Precipitation and Dissolution: solubility equilibrium and common ion effect",
+      "quote": "the solubility of an ionic compound is less in aqueous solutions containing a common ion",
+      "url": "https://openstax.org/books/chemistry-2e/pages/15-1-precipitation-and-dissolution",
+      "evidenceId": "2f0173df8cb76554bfb2",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Independent mass-balance/equilibrium calculation and numerical residual checks; direct source review",
+    "contentHash": "8ad39e9e7ba96e32bf29bbe9adbcc79c86c934ba7760deb9804cfb51ade6e6ee"
+  }
+}

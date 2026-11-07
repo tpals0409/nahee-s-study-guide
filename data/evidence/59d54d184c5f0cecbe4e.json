@@ -1,0 +1,16 @@
+{
+  "id": "59d54d184c5f0cecbe4e",
+  "kind": "science",
+  "source": "Purdue University",
+  "ref": "ME200 Spring2020 HW28: Entropy Generation for Closed Systems",
+  "url": "https://engineering.purdue.edu/ME200/files/homework/HW28/ME200-Spring2020-HW28-web.html",
+  "excerpt": "The combined system is adiabatic.",
+  "sourceHash": "e64eabf5f8c7dec27f2e981a207865f2d78a0fa15bdc64800e5167498b8b5485",
+  "cacheSourceId": "995f0e0e852d1cc6a30a",
+  "retrievedAt": "2026-11-07T04:42:22.902829+00:00",
+  "reviewedMappings": {
+    "2013-3-16:3": "닫힌계 dS/dt=Qdot/Tb+σdot에서 단열이면 ΔS=σ. 단열은 일 교환 금지를 뜻하지 않음."
+  },
+  "retrievalMethod": "Direct web open",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "0b7c9c9a00d413bcda5b",
+  "kind": "science",
+  "source": "Nucleic Acids Research / PMC",
+  "ref": "Shi et al. (2001), DNA exhibits multi-stranded binding recognition on glass microarrays",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC60223/",
+  "excerpt": "Non-denatured double-stranded DNA array elements were shown to hybridize to single-stranded (ss)DNA probes.",
+  "sourceHash": "316afa443a34000792ee9819b3b3f5c3d1d10beb993eff178169f623c07f6c16",
+  "cacheSourceId": "9aedb4df0fa28d945e7a",
+  "retrievedAt": "2026-11-07T05:19:07.850885+00:00",
+  "reviewedMappings": {
+    "2012-3-25:0": "원저는 dsDNA array 제작 및 비변성 dsDNA 결합 실험을 보고한다. 단일가닥만 고정 가능하다는 설명을 반박하지만 공식 정답 변경 근거는 아니다.",
+    "2012-3-25:1": "서론96은 수천 발현 유전자 동시 프로파일링(ㄱ)을 설명한다. ㄴ의 미생물 동정은 별도 자료 필요.",
+    "2012-3-25:2": "ㄱ의 동시 분석은 서론96, ㄷ의 DNA 형광 표지 probe 용례는108,120–124가 지지한다. mRNA 소량 증폭까지 이 자료로 입증하지 않으며 ㄹ 단정은 보류한다.",
+    "2012-3-25:3": "방법116–119에서 PCR 증폭 dsDNA를 슬라이드에 spotting한다. 고정 DNA는 반드시 처음부터 단일가닥이어야 한다는 기존 배제 근거가 틀렸다.",
+    "2012-3-25:4": "ㄹ의 제작 단계에 실제 dsDNA가 사용되므로 단일가닥만 고정한다는 이유로 배제하지 않는다.",
+    "2012-3-25:5": "ㄹ의 dsDNA spotting 반례는116–119; ㄱ 동시 발현 분석은96. 조합 정답 자체는 미확정."
+  },
+  "retrievalMethod": "Direct web open",
+  "sourceHashScope": "Selected short excerpt only; not full article"
+}

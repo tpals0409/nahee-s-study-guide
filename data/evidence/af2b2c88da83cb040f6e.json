@@ -1,0 +1,19 @@
+{
+  "id": "af2b2c88da83cb040f6e",
+  "kind": "science",
+  "source": "The Royal Swedish Academy of Sciences",
+  "ref": "The Nobel Prize in Chemistry 2020: Popular science background",
+  "url": "https://www.nobelprize.org/uploads/2020/10/popular-chemistryprize2020.pdf",
+  "excerpt": "the CRISPR section of the genome",
+  "sourceHash": "2347fca2d14b6b4b80c6dab6f091c0f53a9e2882aca8fe28c2b2dc127388945b",
+  "cacheSourceId": "4b79afccf90b5eefb568",
+  "retrievedAt": "2026-11-07T02:00:23.170822+00:00",
+  "reviewedMappings": {
+    "2023-3-29:0": "③ Streptococcus의 파지 방어 및④ 세균 유전체 CRISPR배열 설명.⑤ 절단 후 수선주형으로 서열 변경 가능. 모든 세균 보유·염색체에만 존재한다고 단정하지 않음.",
+    "2023-3-29:3": "③ Streptococcus의 파지 방어 및④ 세균 유전체 CRISPR배열 설명.⑤ 절단 후 수선주형으로 서열 변경 가능. 모든 세균 보유·염색체에만 존재한다고 단정하지 않음.",
+    "2023-3-29:4": "③ Streptococcus의 파지 방어 및④ 세균 유전체 CRISPR배열 설명.⑤ 절단 후 수선주형으로 서열 변경 가능. 모든 세균 보유·염색체에만 존재한다고 단정하지 않음.",
+    "2023-3-29:5": "③ Streptococcus의 파지 방어 및④ 세균 유전체 CRISPR배열 설명.⑤ 절단 후 수선주형으로 서열 변경 가능. 모든 세균 보유·염색체에만 존재한다고 단정하지 않음."
+  },
+  "retrievalMethod": "공식PDF 직접 열람: Streptococcus 자연면역 설명·그림2, 가이드RNA 실험 및 수선주형 그림3.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

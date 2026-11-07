@@ -1,0 +1,86 @@
+{
+  "id": "2015-3-36",
+  "summary": "불포화 공기덩어리가 단열적으로 상승하는 표준 근사로 풉니다. 기온은 1km당 약 10°C, 이슬점은 약 2°C씩 낮아지므로 500m 상승 후에는 각각 25°C와 19°C입니다. 따라서 정답은 ⑤입니다.",
+  "choices": [
+    "틀린 조합입니다. 표준 불포화 단열 상승에서는 500m 동안 기온이 약 5°C, 이슬점이 약 1°C 낮아집니다. 20°C·15°C는 각각 10°C·5°C 하강에 해당하여 맞지 않습니다.",
+    "틀린 조합입니다. 21°C·15°C는 각각 9°C·5°C 하강에 해당합니다. 이 문제에서 적용하는 불포화 단열 상승의 계산 결과와 다릅니다.",
+    "이슬점 19°C는 맞지만 기온 22°C는 틀립니다. 기온 하강량은 10×0.5=5°C이므로 기온은 25°C입니다.",
+    "이슬점 19°C는 맞지만 기온 24°C는 틀립니다. 500m 상승에 따른 기온 하강량은 약 5°C이며, 6°C가 아닙니다.",
+    "옳은 조합입니다. 기온은 30−10×0.5=25°C, 이슬점은 20−2×0.5=19°C입니다. 포화에 도달하는 상승량은 (30−20)/(10−2)=1.25km로 0.5km보다 크므로, 상승하는 동안 불포화 상태라는 전제도 만족합니다."
+  ],
+  "lawNote": "열 교환·외부 공기와의 혼합을 무시한 단열 상승과 일정한 감률 근사를 적용합니다. 실제 건조단열감률 약 9.8°C/km를 10°C/km로 반올림한 교과서식 계산입니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "NOAA / National Weather Service",
+      "ref": "Skew-T Parameters and Indices — LCL and CCL",
+      "quote": "temperature lapse rate = 10 degrees C per kilometer, dewpoint lapse rate = 2 degrees C per kilometer",
+      "url": "https://www.weather.gov/source/zhu/ZHU_Training_Page/convective_parameters/skewt/skewtinfo.html",
+      "evidenceId": "0e1868c259dd0bdb43d2",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "NOAA / National Weather Service",
+      "ref": "Skew-T Parameters and Indices — LCL and CCL",
+      "quote": "temperature lapse rate = 10 degrees C per kilometer, dewpoint lapse rate = 2 degrees C per kilometer",
+      "url": "https://www.weather.gov/source/zhu/ZHU_Training_Page/convective_parameters/skewt/skewtinfo.html",
+      "evidenceId": "0e1868c259dd0bdb43d2",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "NOAA / National Weather Service",
+      "ref": "Skew-T Parameters and Indices — LCL and CCL",
+      "quote": "temperature lapse rate = 10 degrees C per kilometer, dewpoint lapse rate = 2 degrees C per kilometer",
+      "url": "https://www.weather.gov/source/zhu/ZHU_Training_Page/convective_parameters/skewt/skewtinfo.html",
+      "evidenceId": "0e1868c259dd0bdb43d2",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "NOAA / National Weather Service",
+      "ref": "Skew-T Parameters and Indices — LCL and CCL",
+      "quote": "temperature lapse rate = 10 degrees C per kilometer, dewpoint lapse rate = 2 degrees C per kilometer",
+      "url": "https://www.weather.gov/source/zhu/ZHU_Training_Page/convective_parameters/skewt/skewtinfo.html",
+      "evidenceId": "0e1868c259dd0bdb43d2",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "NOAA / National Weather Service",
+      "ref": "Skew-T Parameters and Indices — LCL and CCL",
+      "quote": "temperature lapse rate = 10 degrees C per kilometer, dewpoint lapse rate = 2 degrees C per kilometer",
+      "url": "https://www.weather.gov/source/zhu/ZHU_Training_Page/convective_parameters/skewt/skewtinfo.html",
+      "evidenceId": "0e1868c259dd0bdb43d2",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "NOAA / National Weather Service",
+      "ref": "Skew-T Parameters and Indices — LCL and CCL",
+      "quote": "temperature lapse rate = 10 degrees C per kilometer, dewpoint lapse rate = 2 degrees C per kilometer",
+      "url": "https://www.weather.gov/source/zhu/ZHU_Training_Page/convective_parameters/skewt/skewtinfo.html",
+      "evidenceId": "0e1868c259dd0bdb43d2",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "원문 수치·선지 대조; NWS 감률과 응결 조건 확인; Fraction으로 상승량·온도·보기 일치 검산",
+    "contentHash": "987f37b27bf87f57032bf169cb2770acab6615d7b750d47c034d7505895155ae"
+  }
+}

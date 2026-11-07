@@ -1,0 +1,16 @@
+{
+  "id": "ce1e0f4e61d8771fd7bf",
+  "kind": "science",
+  "source": "NASA",
+  "ref": "10 Things: Planetary Atmospheres — item 3",
+  "url": "https://science.nasa.gov/solar-system/10-things-planetary-atmospheres/",
+  "excerpt": "Venus’ atmosphere, like Mars’, is nearly all carbon dioxide.",
+  "sourceHash": "c55a14943a45fb5d9f10b177023dcf1b0c4ba383c6fb82408a30bea3da015249",
+  "cacheSourceId": "a06122ecbc8e229b01fe",
+  "retrievedAt": "2026-11-06T16:06:48.617569+00:00",
+  "reviewedMappings": {
+    "2010-3-39:0": "금성·화성 모두 대기의 대부분이 CO2라는 직접 비교로 ⑤를 선택하고 다른 네 기체를 최다 성분에서 배제. 수치·생명 유무·대기 진화에 관한 주장은 포함하지 않음."
+  },
+  "retrievalMethod": "web.open and web.find: NASA article items 2 and 3 read",
+  "sourceHashScope": "Selected excerpt only; not full page"
+}

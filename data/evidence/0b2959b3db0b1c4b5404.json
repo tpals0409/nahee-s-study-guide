@@ -1,0 +1,16 @@
+{
+  "id": "0b2959b3db0b1c4b5404",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Astronomy 2e 19.3 Variable Stars: One Key to Cosmic Distances",
+  "url": "https://openstax.org/books/astronomy-2e/pages/19-3-variable-stars-one-key-to-cosmic-distances",
+  "excerpt": "The longer the period (the longer the star takes to vary), the greater the luminosity.",
+  "sourceHash": "b56cf37c931508a671a7f0f91060fb07103fd71a404901e86c91cb20fb38dec6",
+  "cacheSourceId": "65ec03a3ee03127015a8",
+  "retrievedAt": "2026-11-06T18:28:58.954131+00:00",
+  "reviewedMappings": {
+    "2013-3-40:0": "본문 세페이드 비대칭 광도곡선·맥동·후기진화단계·주기광도관계→겉보기밝기비교거리확인. ㄷ은세페이드에한정하여반박."
+  },
+  "retrievalMethod": "web.open: publisher textbook sections and relevant figures text reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "ad53affcdf50a89cf1f5",
+  "kind": "science",
+  "source": "NIST",
+  "ref": "NIST Chemistry WebBook: Argon, Shomate thermochemistry",
+  "url": "https://webbook.nist.gov/cgi/cbook.cgi?ID=C7440371&Mask=1",
+  "excerpt": "Temperature (K) 298. to 6000.",
+  "sourceHash": "05a3f2aa80a5a6336445d86936e218e225e05c7dbd24dce021ea51820410e8ba",
+  "cacheSourceId": "5330c480742951f8896b",
+  "retrievedAt": "2026-11-07T04:42:22.903466+00:00",
+  "reviewedMappings": {
+    "2013-3-16:0": "조건 주의의 아르곤 계산 예에 사용한 자료 및 유효범위.",
+    "2013-3-16:5": "ΔG>0이 가능한 아르곤 사례의 물성 자료. NIST가 해당 시험문항을 해설한 것은 아님."
+  },
+  "retrievalMethod": "Direct web open",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

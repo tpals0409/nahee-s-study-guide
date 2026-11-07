@@ -1,0 +1,22 @@
+{
+  "id": "8376b056b9a9a7914ef0",
+  "kind": "science",
+  "source": "NOAA",
+  "ref": "Origin of Wind",
+  "url": "https://www.noaa.gov/jetstream/synoptic/origin-of-wind",
+  "excerpt": "Pressure gradient force extends from high pressure to low pressure.",
+  "sourceHash": "a60f379d5c01ef3bfdc3113ea2891489daa27c4de486dd5ed6d33833185eab6f",
+  "cacheSourceId": "2002851d45d5f3f717f1",
+  "retrievedAt": "2026-11-07T02:09:56.737245+00:00",
+  "reviewedMappings": {
+    "2017-3-35:1": "본문 등압선 간격·기압경도 설명 및 북반구 오른쪽 전향 설명을 원본 ①②③과 대조. 같은 기압차의 등압선 간격을 전제로 ①을 배제.",
+    "2017-3-35:2": "본문 등압선 간격·기압경도 설명 및 북반구 오른쪽 전향 설명을 원본 ①②③과 대조. 같은 기압차의 등압선 간격을 전제로 ①을 배제.",
+    "2017-3-35:3": "본문 등압선 간격·기압경도 설명 및 북반구 오른쪽 전향 설명을 원본 ①②③과 대조. 같은 기압차의 등압선 간격을 전제로 ①을 배제.",
+    "2023-3-36:0": "등압선 간격·기압경도·고압에서 저압으로 향하는 힘 및 지표 마찰에 의한 감속과 저압 쪽 흐름을 본문에서 확인했다. 그림의 812→800 hPa 방향을 대조하고, ⑤는 같은 기압경도의 정상 지상풍 조건으로 한정했다.",
+    "2023-3-36:1": "등압선 간격·기압경도·고압에서 저압으로 향하는 힘 및 지표 마찰에 의한 감속과 저압 쪽 흐름을 본문에서 확인했다. 그림의 812→800 hPa 방향을 대조하고, ⑤는 같은 기압경도의 정상 지상풍 조건으로 한정했다.",
+    "2023-3-36:2": "등압선 간격·기압경도·고압에서 저압으로 향하는 힘 및 지표 마찰에 의한 감속과 저압 쪽 흐름을 본문에서 확인했다. 그림의 812→800 hPa 방향을 대조하고, ⑤는 같은 기압경도의 정상 지상풍 조건으로 한정했다.",
+    "2023-3-36:5": "등압선 간격·기압경도·고압에서 저압으로 향하는 힘 및 지표 마찰에 의한 감속과 저압 쪽 흐름을 본문에서 확인했다. 그림의 812→800 hPa 방향을 대조하고, ⑤는 같은 기압경도의 정상 지상풍 조건으로 한정했다."
+  },
+  "retrievalMethod": "Direct web open; reviewed pressure-gradient, friction and horizontal Coriolis sections",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

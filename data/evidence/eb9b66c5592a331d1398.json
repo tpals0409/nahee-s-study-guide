@@ -1,0 +1,21 @@
+{
+  "id": "eb9b66c5592a331d1398",
+  "kind": "science",
+  "source": "Yale University",
+  "ref": "Open Yale Courses CHEM 125b Lecture 23 — Multiplicity in Spin-Spin Splitting",
+  "url": "https://oyc.yale.edu/chemistry/chem-125b/lecture-23",
+  "excerpt": "It integrates for two. That's how many protons are being involved.",
+  "sourceHash": "43bd49a44f0ef5942fbc7736134c2d0ae8cc7db561da6938621e35d12763b883",
+  "cacheSourceId": "1a5b2c7c1ea41869e019",
+  "retrievedAt": "2026-11-06T19:31:20.414534+00:00",
+  "reviewedMappings": {
+    "2015-3-17:0": "Yale lecturer explicitly analyzes ethyl acetate: two 3H groups, one2H group; ethyl methyl triplet from two adjacent H and OCH2 quartet from three adjacent H; integration vs multiplicity distinction. Original plot supplies ~4,2,1.2ppm and2:3:3. Independently map CH3COOCH2CH3, check mass88 and carbonyl adjacency of acetyl methyl. Source quote supports integration; surrounding transcript supports coupling. n+1 limited to simple first-order equivalent neighboring set, not all nonequivalent hydrogens.",
+    "2015-3-17:1": "Yale lecturer explicitly analyzes ethyl acetate: two 3H groups, one2H group; ethyl methyl triplet from two adjacent H and OCH2 quartet from three adjacent H; integration vs multiplicity distinction. Original plot supplies ~4,2,1.2ppm and2:3:3. Independently map CH3COOCH2CH3, check mass88 and carbonyl adjacency of acetyl methyl. Source quote supports integration; surrounding transcript supports coupling. n+1 limited to simple first-order equivalent neighboring set, not all nonequivalent hydrogens.",
+    "2015-3-17:2": "Yale lecturer explicitly analyzes ethyl acetate: two 3H groups, one2H group; ethyl methyl triplet from two adjacent H and OCH2 quartet from three adjacent H; integration vs multiplicity distinction. Original plot supplies ~4,2,1.2ppm and2:3:3. Independently map CH3COOCH2CH3, check mass88 and carbonyl adjacency of acetyl methyl. Source quote supports integration; surrounding transcript supports coupling. n+1 limited to simple first-order equivalent neighboring set, not all nonequivalent hydrogens.",
+    "2015-3-17:3": "Yale lecturer explicitly analyzes ethyl acetate: two 3H groups, one2H group; ethyl methyl triplet from two adjacent H and OCH2 quartet from three adjacent H; integration vs multiplicity distinction. Original plot supplies ~4,2,1.2ppm and2:3:3. Independently map CH3COOCH2CH3, check mass88 and carbonyl adjacency of acetyl methyl. Source quote supports integration; surrounding transcript supports coupling. n+1 limited to simple first-order equivalent neighboring set, not all nonequivalent hydrogens.",
+    "2015-3-17:4": "Yale lecturer explicitly analyzes ethyl acetate: two 3H groups, one2H group; ethyl methyl triplet from two adjacent H and OCH2 quartet from three adjacent H; integration vs multiplicity distinction. Original plot supplies ~4,2,1.2ppm and2:3:3. Independently map CH3COOCH2CH3, check mass88 and carbonyl adjacency of acetyl methyl. Source quote supports integration; surrounding transcript supports coupling. n+1 limited to simple first-order equivalent neighboring set, not all nonequivalent hydrogens.",
+    "2015-3-17:5": "Yale lecturer explicitly analyzes ethyl acetate: two 3H groups, one2H group; ethyl methyl triplet from two adjacent H and OCH2 quartet from three adjacent H; integration vs multiplicity distinction. Original plot supplies ~4,2,1.2ppm and2:3:3. Independently map CH3COOCH2CH3, check mass88 and carbonyl adjacency of acetyl methyl. Source quote supports integration; surrounding transcript supports coupling. n+1 limited to simple first-order equivalent neighboring set, not all nonequivalent hydrogens."
+  },
+  "retrievalMethod": "Direct web.open and find; lecture transcript chapter 2 lines 79–92 inspected",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

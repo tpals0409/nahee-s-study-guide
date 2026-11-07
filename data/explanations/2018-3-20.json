@@ -1,0 +1,151 @@
+{
+  "id": "2018-3-20",
+  "summary": "A→2B의 질량 보존에서 몰질량은 M_A=2M_B입니다. 따라서 평형 1의 몰수비 A:B는 2:1, 평형 2는 1:3입니다. 일정한 전체 압력 P에서 총농도는 P/(RT)이므로 K₁=P/(6RT₁), K₂=9P/(4RT₂)입니다. K₂/K₁=12를 적용하면 T₂/T₁=9/8, 정답은 ①입니다.",
+  "choices": [
+    "9/8: 정답입니다. 평형 1에서 K₁ = (1/6)·P/(RT₁), 평형 2에서 K₂ = (9/4)·P/(RT₂)입니다. K₂ = 12K₁ 조건에서 (9/4)/(1/6)·(T₁/T₂) = 12이므로 13.5·(T₁/T₂) = 12, 따라서 T₂/T₁ = 9/8입니다.",
+    "6/5: 오답입니다. T₂/T₁ = 6/5이면 K₂/K₁ = 13.5×5/6 = 11.25가 되어 주어진 12와 맞지 않습니다.",
+    "5/4: 오답입니다. T₂/T₁ = 5/4이면 K₂/K₁ = 13.5×4/5 = 10.8이 되어 12가 아닙니다.",
+    "4/3은 오답입니다. 이 온도비를 대입하면 K₂/K₁=(27/2)×(3/4)=81/8=10.125로, 주어진 12와 다릅니다.",
+    "3/2: 오답입니다. T₂/T₁ = 3/2이면 K₂/K₁ = 13.5×2/3 = 9가 되어 12와 일치하지 않습니다."
+  ],
+  "lawNote": "표의 비율은 질량비이므로 몰질량을 반영해 몰수비로 바꿉니다. 피스톤 조건은 압력 일정이지 부피 일정이 아닙니다. 농도 평형 상수이므로 P/(RT) 항을 포함해야 합니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §13.2 — Equilibrium Constants",
+      "quote": "The constant value of Q exhibited by a system at equilibrium is called the equilibrium constant",
+      "url": "https://openstax.org/books/chemistry-2e/pages/13-2-equilibrium-constants",
+      "evidenceId": "a04cb216cb9c49e16408",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §13.2 — Equilibrium Constants",
+      "quote": "The constant value of Q exhibited by a system at equilibrium is called the equilibrium constant",
+      "url": "https://openstax.org/books/chemistry-2e/pages/13-2-equilibrium-constants",
+      "evidenceId": "a04cb216cb9c49e16408",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §13.2 — Equilibrium Constants",
+      "quote": "The constant value of Q exhibited by a system at equilibrium is called the equilibrium constant",
+      "url": "https://openstax.org/books/chemistry-2e/pages/13-2-equilibrium-constants",
+      "evidenceId": "a04cb216cb9c49e16408",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §13.2 — Equilibrium Constants",
+      "quote": "The constant value of Q exhibited by a system at equilibrium is called the equilibrium constant",
+      "url": "https://openstax.org/books/chemistry-2e/pages/13-2-equilibrium-constants",
+      "evidenceId": "a04cb216cb9c49e16408",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §13.2 — Equilibrium Constants",
+      "quote": "The constant value of Q exhibited by a system at equilibrium is called the equilibrium constant",
+      "url": "https://openstax.org/books/chemistry-2e/pages/13-2-equilibrium-constants",
+      "evidenceId": "a04cb216cb9c49e16408",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §13.2 — Equilibrium Constants",
+      "quote": "The constant value of Q exhibited by a system at equilibrium is called the equilibrium constant",
+      "url": "https://openstax.org/books/chemistry-2e/pages/13-2-equilibrium-constants",
+      "evidenceId": "a04cb216cb9c49e16408",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §9.2 — The Ideal Gas Law",
+      "quote": "Combining these four laws yields the ideal gas law",
+      "url": "https://openstax.org/books/chemistry-2e/pages/9-2-relating-pressure-volume-amount-and-temperature-the-ideal-gas-law",
+      "evidenceId": "6abb02a19dea9ec2712a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §9.2 — The Ideal Gas Law",
+      "quote": "Combining these four laws yields the ideal gas law",
+      "url": "https://openstax.org/books/chemistry-2e/pages/9-2-relating-pressure-volume-amount-and-temperature-the-ideal-gas-law",
+      "evidenceId": "6abb02a19dea9ec2712a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §9.2 — The Ideal Gas Law",
+      "quote": "Combining these four laws yields the ideal gas law",
+      "url": "https://openstax.org/books/chemistry-2e/pages/9-2-relating-pressure-volume-amount-and-temperature-the-ideal-gas-law",
+      "evidenceId": "6abb02a19dea9ec2712a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §9.2 — The Ideal Gas Law",
+      "quote": "Combining these four laws yields the ideal gas law",
+      "url": "https://openstax.org/books/chemistry-2e/pages/9-2-relating-pressure-volume-amount-and-temperature-the-ideal-gas-law",
+      "evidenceId": "6abb02a19dea9ec2712a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §9.2 — The Ideal Gas Law",
+      "quote": "Combining these four laws yields the ideal gas law",
+      "url": "https://openstax.org/books/chemistry-2e/pages/9-2-relating-pressure-volume-amount-and-temperature-the-ideal-gas-law",
+      "evidenceId": "6abb02a19dea9ec2712a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §9.2 — The Ideal Gas Law",
+      "quote": "Combining these four laws yields the ideal gas law",
+      "url": "https://openstax.org/books/chemistry-2e/pages/9-2-relating-pressure-volume-amount-and-temperature-the-ideal-gas-law",
+      "evidenceId": "6abb02a19dea9ec2712a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Independent mole-fraction and constant-pressure concentration derivation; exact option substitution; direct source review",
+    "contentHash": "d0a63e2e0f26219a9e41988d88dbb3460e3f37f8382be816ea3640532725ba8a"
+  }
+}

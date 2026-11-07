@@ -1,0 +1,18 @@
+{
+  "id": "af8a91999e75f31465bf",
+  "kind": "science",
+  "source": "NIH",
+  "ref": "Stem Cell Basics",
+  "url": "https://stemcells.nih.gov/info/basics/stc-basics",
+  "excerpt": "cells of the inner cell mass, and cells of the trophectoderm.",
+  "sourceHash": "c8c0623516ee98569bf5baf231210c8d0eb5e616fc23a4a1e21b97194eb17016",
+  "cacheSourceId": "81df3a0819b776dfd999",
+  "retrievedAt": "2026-11-06T21:16:37.881906+00:00",
+  "reviewedMappings": {
+    "2017-3-23:0": "Introduction의 초기 배반포 내세포괴와 배아줄기세포 유래 설명. 낭배를 통상적 배아줄기세포 유래 단계로 쓴 선지 교정.",
+    "2017-3-23:2": "Adult stem cells 및 self-renewal 절: 손상으로 잃은 세포 대체, 분열을 통한 조직 수복.",
+    "2017-3-23:4": "Pluripotent stem cells 절: 착상전 배아 내세포괴에서 인간 배아줄기세포 유도. 표준적 유래를 설명하며 모든 후기배아 줄기세포 배양 가능성을 부정하지 않음."
+  },
+  "retrievalMethod": "Direct browser review of source sections and chromosome-stage figure descriptions",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

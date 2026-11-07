@@ -1,0 +1,21 @@
+{
+  "id": "78f74a74d8c3c368b4dd",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume 2 11.5 — Equation 11.20",
+  "url": "https://openstax.org/books/university-physics-volume-2/pages/11-5-force-and-torque-on-a-current-loop",
+  "excerpt": "The dipole moment is defined by the current times the area of the loop.",
+  "sourceHash": "d5fdc1a901bc33e0f7f7ce772b8fc41084c7916caf335f0b82fab9c543d661f4",
+  "cacheSourceId": "0ddc3aebf15bdeb6b04b",
+  "retrievedAt": "2026-11-06T17:03:00.722183+00:00",
+  "reviewedMappings": {
+    "2012-3-06:0": "회전 한 주기2π/ω마다 총전하q가 단면 통과하므로 I=qω/(2π). 교재μ=IA와 원넓이로 μ=qωR²/2=24 독립 도출. 단위 C/s·m²=A·m² 확인.",
+    "2012-3-06:1": "12는 계산결과24의 절반. 불필요한 원판 비교 삭제.",
+    "2012-3-06:2": "3×400×0.2²/2=24로 일치.",
+    "2012-3-06:3": "48은 계수1/2를 생략한 값으로 불일치.",
+    "2012-3-06:4": "75는24와 불일치; 출제자가 어떤 오류를 의도했는지 추측하지 않음.",
+    "2012-3-06:5": "150은24와 불일치; 임의 반올림 오류 설명 삭제."
+  },
+  "retrievalMethod": "web.open 식11.20 및 예제11.7 직접 확인",
+  "sourceHashScope": "Selected excerpt only; not full page"
+}

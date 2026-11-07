@@ -1,0 +1,21 @@
+{
+  "id": "96a12b44576fe5d92fa5",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 2e §14.6 Buffers",
+  "url": "https://openstax.org/books/chemistry-2e/pages/14-6-buffers",
+  "excerpt": "Buffer capacity depends on the amounts of the weak acid and its conjugate base that are in a buffer mixture.",
+  "sourceHash": "d79db264e1eaa755c922cdc79a7f0f1071f2067906d44a9b7e3d2f4206a918c8",
+  "cacheSourceId": "ee3571cae16d0f886a6e",
+  "retrievedAt": "2026-11-06T21:11:52.109926+00:00",
+  "reviewedMappings": {
+    "2017-3-18:0": "부분 검증: 완충쌍의 양을 비교하는 정성적 설명 및 주어진 부피 기준 정의 확인. 본 문제의 단위 부피/전체 부피 해석을 단독으로 확정하지 않음.",
+    "2017-3-18:1": "0.2mol씩의 산과 짝염기, 혼합2L에서 각0.1M. 완충쌍 정의 및 중화 메커니즘 적용.",
+    "2017-3-18:2": "0.5mol씩의 산과 짝염기, 혼합10L에서 각0.05M. 전체 양과 단위 부피 농도 순위 반대.",
+    "2017-3-18:3": "H+와 acetate 각0.2mol의 화학량론적 중화로 주로 아세트산 용액이 됨. 평형 해리에 의한 acetate가 엄밀히 0이라는 뜻은 아님.",
+    "2017-3-18:4": "H+와 acetate 각0.5mol의 중화. 약산/짝염기를 상당량 함께 갖춘 완충 혼합물은 아님.",
+    "2017-3-18:5": "강산 HCl과 NaCl은 약한 짝산·짝염기 완충쌍이 아님. 이것이 수학적 미분 완충지수 0을 뜻하지는 않음."
+  },
+  "retrievalMethod": "Direct browser review of textbook section or journal article equations",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

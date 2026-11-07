@@ -1,0 +1,30 @@
+{
+  "summary": "정답은 ② 1.86 eV입니다. 입사 광자의 에너지는 E=hc/λ=1240/310=4.00 eV입니다. 광전 효과 식 Kmax=E−φ에 일함수 2.14 eV를 대입하면 최대 운동에너지는 4.00−2.14=1.86 eV입니다.",
+  "choices": [
+    "1.68 eV는 계산된 최대값 1.86 eV보다 작습니다. 최대 운동에너지를 묻고 있으므로 정답이 아닙니다.",
+    "광자 에너지 4.00 eV에서 전자를 금속 밖으로 꺼내는 데 필요한 최소 에너지 2.14 eV를 빼면 1.86 eV입니다.",
+    "2.08 eV에 일함수를 더하면 4.22 eV입니다. 입사 광자의 에너지 4.00 eV보다 커서 주어진 조건의 최대 운동에너지가 될 수 없습니다.",
+    "2.58 eV에 일함수를 더하면 4.72 eV로, 공급되는 광자 에너지 4.00 eV를 초과합니다.",
+    "2.79 eV에 일함수를 더하면 4.93 eV로, 공급되는 광자 에너지 4.00 eV를 초과합니다."
+  ],
+  "lawNote": "일함수는 전자를 금속 표면에서 방출시키는 데 필요한 최소 에너지입니다. 광자 에너지에서 이를 뺀 값이 최대 운동에너지이며, 모든 방출 전자가 반드시 이 에너지를 갖는다는 뜻은 아닙니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "OpenStax University Physics Volume 3 §6.2 Photoelectric Effect",
+      "quote": "is called the work function of the metal.",
+      "url": "https://openstax.org/books/university-physics-volume-3/pages/6-2-photoelectric-effect",
+      "evidenceId": "fb05b2615f660969abae",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "원본 2013-3-10.webp 조건과 선지 확인. OpenStax 광전효과 에너지 수지 및 파장·진동수 관계 대조. Decimal로1.86eV 검산, 저장 정답② 일치. 초안의 숫자 뒤바뀜 추측 제거.",
+    "contentHash": "2f222230f4cb1a22939eff54b9100b5930d18640bc022382f7709bc90d4a6a71"
+  }
+}

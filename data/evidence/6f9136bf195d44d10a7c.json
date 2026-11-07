@@ -1,0 +1,17 @@
+{
+  "id": "6f9136bf195d44d10a7c",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e §11.1 The Process of Meiosis",
+  "url": "https://openstax.org/books/biology-2e/pages/11-1-the-process-of-meiosis",
+  "excerpt": "The crossover events are the first source of genetic variation in the nuclei produced by meiosis.",
+  "sourceHash": "2a5e42abd9e1504261ae4cb1103a0d5d5b70ea383f17c49357f100347fac21dd",
+  "cacheSourceId": "d67900a219604e2a7694",
+  "retrievedAt": "2026-11-06T21:16:37.882393+00:00",
+  "reviewedMappings": {
+    "2017-3-23:3": "Prophase I 절: 상동 비자매염색분체 교차로 새로운 유전자 조합 생성.",
+    "2017-3-23:5": "Meiosis II 및 Figure11.6: 감수I 후 반수체, 중기II에서는 자매염색분체 미분리. 체세포분열은 배수성 유지. 8과16/2=8 비교."
+  },
+  "retrievalMethod": "Direct browser review of source sections and chromosome-stage figure descriptions",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

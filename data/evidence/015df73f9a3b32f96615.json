@@ -1,0 +1,27 @@
+{
+  "id": "015df73f9a3b32f96615",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics 2 §10.2 Resistors in Series and Parallel",
+  "url": "https://openstax.org/books/university-physics-volume-2/pages/10-2-resistors-in-series-and-parallel",
+  "excerpt": "The sum of the individual currents equals the current that flows into the parallel connections.",
+  "sourceHash": "68f452af502d2e1455ef22cf544147df4a5251bfde3e491af063d3babdd3376b",
+  "cacheSourceId": "af6c1857ecfa90a5ca61",
+  "retrievedAt": "2026-11-06T20:09:01.430808+00:00",
+  "reviewedMappings": {
+    "2015-3-06:0": "Series equal current and resistance addition; parallel common voltage plus current summation directly inspected. Equal R yields branch current half total, equivalent R/2; series equivalent 2R. All numerical option ratios independently derived.",
+    "2015-3-06:1": "Series equal current and resistance addition; parallel common voltage plus current summation directly inspected. Equal R yields branch current half total, equivalent R/2; series equivalent 2R. All numerical option ratios independently derived.",
+    "2015-3-06:2": "Series equal current and resistance addition; parallel common voltage plus current summation directly inspected. Equal R yields branch current half total, equivalent R/2; series equivalent 2R. All numerical option ratios independently derived.",
+    "2015-3-06:3": "Series equal current and resistance addition; parallel common voltage plus current summation directly inspected. Equal R yields branch current half total, equivalent R/2; series equivalent 2R. All numerical option ratios independently derived.",
+    "2015-3-06:4": "Series equal current and resistance addition; parallel common voltage plus current summation directly inspected. Equal R yields branch current half total, equivalent R/2; series equivalent 2R. All numerical option ratios independently derived.",
+    "2015-3-06:5": "Series equal current and resistance addition; parallel common voltage plus current summation directly inspected. Equal R yields branch current half total, equivalent R/2; series equivalent 2R. All numerical option ratios independently derived.",
+    "2016-3-05:0": "본문 30~32행 V=IR와 병렬 같은 전압 및 가지 전류 합을 확인. 동일한 10Ω 두 가지에 총 1A이므로 각각 0.5A, 전압은 5V. 합성저항은 5Ω이며 이를 고리 법칙과 결합하면 모든 선지를 판별한다.",
+    "2016-3-05:1": "본문 30~32행 V=IR와 병렬 같은 전압 및 가지 전류 합을 확인. 동일한 10Ω 두 가지에 총 1A이므로 각각 0.5A, 전압은 5V. 합성저항은 5Ω이며 이를 고리 법칙과 결합하면 모든 선지를 판별한다.",
+    "2016-3-05:2": "본문 30~32행 V=IR와 병렬 같은 전압 및 가지 전류 합을 확인. 동일한 10Ω 두 가지에 총 1A이므로 각각 0.5A, 전압은 5V. 합성저항은 5Ω이며 이를 고리 법칙과 결합하면 모든 선지를 판별한다.",
+    "2016-3-05:3": "본문 30~32행 V=IR와 병렬 같은 전압 및 가지 전류 합을 확인. 동일한 10Ω 두 가지에 총 1A이므로 각각 0.5A, 전압은 5V. 합성저항은 5Ω이며 이를 고리 법칙과 결합하면 모든 선지를 판별한다.",
+    "2016-3-05:4": "본문 30~32행 V=IR와 병렬 같은 전압 및 가지 전류 합을 확인. 동일한 10Ω 두 가지에 총 1A이므로 각각 0.5A, 전압은 5V. 합성저항은 5Ω이며 이를 고리 법칙과 결합하면 모든 선지를 판별한다.",
+    "2016-3-05:5": "본문 30~32행 V=IR와 병렬 같은 전압 및 가지 전류 합을 확인. 동일한 10Ω 두 가지에 총 1A이므로 각각 0.5A, 전압은 5V. 합성저항은 5Ω이며 이를 고리 법칙과 결합하면 모든 선지를 판별한다."
+  },
+  "retrievalMethod": "web open: directly reviewed text, equations and sign rules",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "34e65e4178bdffdbc59d",
+  "kind": "science",
+  "source": "US EPA",
+  "ref": "Information on Ozone and Ozone Depletion",
+  "url": "https://www.epa.gov/ozone-layer-protection/information-ozone-and-ozone-depletion",
+  "excerpt": "about 9 to 22 miles (15 – 35 km) above the surface",
+  "sourceHash": "6db31ec197e2e33c5cf632523f2cee222b5820762d0bf3783e601dcbce4be13b",
+  "cacheSourceId": "59c3db4e04455b304cd6",
+  "retrievedAt": "2026-11-07T00:39:12.960411+00:00",
+  "reviewedMappings": {
+    "2021-3-39:0": "6행 통상 오존층 고도 15–35km 확인. 농도 최대의 단일 고도를 수밀도/혼합비 구별 없이 제시하지 않음.",
+    "2021-3-39:3": "6행 통상 오존층 고도 15–35km 확인. 농도 최대의 단일 고도를 수밀도/혼합비 구별 없이 제시하지 않음."
+  },
+  "retrievalMethod": "Direct official educational page opened and relevant paragraphs reviewed.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "9b5fc9793cca6a27e137",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "OpenStax Biology 2e 19.3 Adaptive Evolution",
+  "url": "https://openstax.org/books/biology-2e/pages/19-3-adaptive-evolution",
+  "excerpt": "increased genetic variability",
+  "sourceHash": "b1e51af9584f742a94c78e7197358e8ade2790988186cc62a0f96a63e9985a14",
+  "cacheSourceId": "cd5e71ed5010f339e125",
+  "retrievedAt": "2026-11-07T05:46:36.952398+00:00",
+  "reviewedMappings": {
+    "2012-3-24:0": "ㄷ: 분단성 선택에서 중간형보다 양 극단이 유리하며 변이가 커지는 교과서 모형. 본문44–47 직접 대조.",
+    "2012-3-24:1": "ㄷ: 분단성 선택에서 중간형보다 양 극단이 유리하며 변이가 커지는 교과서 모형. 본문44–47 직접 대조.",
+    "2012-3-24:2": "ㄷ: 분단성 선택에서 중간형보다 양 극단이 유리하며 변이가 커지는 교과서 모형. 본문44–47 직접 대조.",
+    "2012-3-24:3": "ㄷ: 분단성 선택에서 중간형보다 양 극단이 유리하며 변이가 커지는 교과서 모형. 본문44–47 직접 대조.",
+    "2012-3-24:4": "ㄷ: 분단성 선택에서 중간형보다 양 극단이 유리하며 변이가 커지는 교과서 모형. 본문44–47 직접 대조.",
+    "2012-3-24:5": "ㄷ: 분단성 선택에서 중간형보다 양 극단이 유리하며 변이가 커지는 교과서 모형. 본문44–47 직접 대조."
+  },
+  "retrievalMethod": "Direct publisher textbook HTML",
+  "sourceHashScope": "Selected short excerpt only; not full source"
+}

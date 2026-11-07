@@ -1,0 +1,74 @@
+{
+  "summary": "그림의 반복단위 –[C(CH₃)(C₆H₅)–CH₂]–에서 단량체 A는 CH₂=C(CH₃)C₆H₅(α-메틸스타이렌)이다. 고리 밖 이중결합에 Br₂가 첨가될 수 있으므로 정답은 ④이다.",
+  "choices": [
+    "① 틀림. 단량체는 CH₂=C(CH₃)C₆H₅이다. 탄소는 1+1+1+6=9개, 수소는 2+3+5=10개이므로 분자식은 C₉H₁₀이다.",
+    "② 틀림. 카이랄 탄소가 되려면 사면체 탄소에 서로 다른 네 치환기가 결합해야 한다. 이 단량체의 유일한 sp³ 탄소는 CH₃ 탄소이며 같은 수소 세 개가 결합하므로 카이랄 탄소가 아니다.",
+    "③ 틀림. CH₃ 탄소는 탄소 하나 및 수소 세 개와 네 개의 단일결합을 형성하는 sp³ 탄소이다. 따라서 모든 탄소가 sp²라는 주장은 성립하지 않는다.",
+    "④ 옳음. 고리 밖의 C=C 이중결합이 Br₂ 첨가 반응을 할 수 있다. 알켄의 할로젠 첨가 반응을 적용하면 된다.",
+    "⑤ 틀림. 제시된 반복단위는 단량체의 C=C가 사슬 형성에 참여하는 첨가중합으로 설명된다. 반복단위와 단량체의 조성은 C₉H₁₀으로 같으며, 반복단위를 연결할 때 H₂O가 제거되는 축합중합이 아니다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "OpenStax Organic Chemistry §8.10 Radical Additions to Alkenes: Chain-Growth Polymers",
+      "quote": "Many substituted ethylenes, called vinyl monomers, also undergo polymerization",
+      "url": "https://openstax.org/books/organic-chemistry/pages/8-10-radical-additions-to-alkenes-chain-growth-polymers",
+      "evidenceId": "cdcf23926dfde3b36c84",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "OpenStax Organic Chemistry §8.10 Radical Additions to Alkenes: Chain-Growth Polymers",
+      "quote": "Many substituted ethylenes, called vinyl monomers, also undergo polymerization",
+      "url": "https://openstax.org/books/organic-chemistry/pages/8-10-radical-additions-to-alkenes-chain-growth-polymers",
+      "evidenceId": "cdcf23926dfde3b36c84",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax Organic Chemistry",
+      "ref": "5.1 Enantiomers and the Tetrahedral Carbon",
+      "quote": "a tetrahedral carbon is bonded to four different substituents",
+      "url": "https://openstax.org/books/organic-chemistry/pages/5-1-enantiomers-and-the-tetrahedral-carbon",
+      "evidenceId": "c9c6aed978859440bc51",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax Organic Chemistry",
+      "ref": "1.7 sp3 Hybrid Orbitals and the Structure of Ethane",
+      "quote": "The remaining three sp3 hybrid orbitals on each carbon overlap with the 1s orbitals of three hydrogens",
+      "url": "https://openstax.org/books/organic-chemistry/pages/1-7-sp3-hybrid-orbitals-and-the-structure-of-ethane",
+      "evidenceId": "defd93d529e5a39d90f9",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax Organic Chemistry",
+      "ref": "8.2 Halogenation of Alkenes",
+      "quote": "Bromine and chlorine add rapidly to alkenes to yield 1,2-dihalides",
+      "url": "https://openstax.org/books/organic-chemistry/pages/8-2-halogenation-of-alkenes-addition-of-x2",
+      "evidenceId": "7b56c0c8a0e50f9640ab",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "original-image-and-primary-textbook-review",
+    "contentHash": "379c1ec4aaa299457ff093bc46c8f45d33a8189865b68fbf5ef8ac1552be2983"
+  }
+}

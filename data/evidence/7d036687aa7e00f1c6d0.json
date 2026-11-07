@@ -1,0 +1,21 @@
+{
+  "id": "7d036687aa7e00f1c6d0",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics 1 §16.6 Standing Waves and Resonance",
+  "url": "https://openstax.org/books/university-physics-volume-1/pages/16-6-standing-waves-and-resonance",
+  "excerpt": "The first mode, also called the fundamental mode or the first harmonic",
+  "sourceHash": "47e0106e987b378d66cc9df78562b5d05d6f0d6b378c57b3034ede44f8e17fa5",
+  "cacheSourceId": "9f3277954c11d530d7fa",
+  "retrievedAt": "2026-11-06T19:22:06.224893+00:00",
+  "reviewedMappings": {
+    "2015-3-07:0": "Source explicitly gives fixed-end nodes, v=sqrt(T/mu), f1=v/(2L), f2=2f1. Original fixes the same inextensible string, so L and mu are unchanged. Independent equality f2(T1)=f1(T2) yields T2/T1=4; squared frequency ratios checked for every option. Unrelated amplitude inconsistencies in source lines 68/73 not used.",
+    "2015-3-07:1": "Source explicitly gives fixed-end nodes, v=sqrt(T/mu), f1=v/(2L), f2=2f1. Original fixes the same inextensible string, so L and mu are unchanged. Independent equality f2(T1)=f1(T2) yields T2/T1=4; squared frequency ratios checked for every option. Unrelated amplitude inconsistencies in source lines 68/73 not used.",
+    "2015-3-07:2": "Source explicitly gives fixed-end nodes, v=sqrt(T/mu), f1=v/(2L), f2=2f1. Original fixes the same inextensible string, so L and mu are unchanged. Independent equality f2(T1)=f1(T2) yields T2/T1=4; squared frequency ratios checked for every option. Unrelated amplitude inconsistencies in source lines 68/73 not used.",
+    "2015-3-07:3": "Source explicitly gives fixed-end nodes, v=sqrt(T/mu), f1=v/(2L), f2=2f1. Original fixes the same inextensible string, so L and mu are unchanged. Independent equality f2(T1)=f1(T2) yields T2/T1=4; squared frequency ratios checked for every option. Unrelated amplitude inconsistencies in source lines 68/73 not used.",
+    "2015-3-07:4": "Source explicitly gives fixed-end nodes, v=sqrt(T/mu), f1=v/(2L), f2=2f1. Original fixes the same inextensible string, so L and mu are unchanged. Independent equality f2(T1)=f1(T2) yields T2/T1=4; squared frequency ratios checked for every option. Unrelated amplitude inconsistencies in source lines 68/73 not used.",
+    "2015-3-07:5": "Source explicitly gives fixed-end nodes, v=sqrt(T/mu), f1=v/(2L), f2=2f1. Original fixes the same inextensible string, so L and mu are unchanged. Independent equality f2(T1)=f1(T2) yields T2/T1=4; squared frequency ratios checked for every option. Unrelated amplitude inconsistencies in source lines 68/73 not used."
+  },
+  "retrievalMethod": "Direct web.open; lines 74–84 with wave speed and first/second harmonic formulas inspected",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

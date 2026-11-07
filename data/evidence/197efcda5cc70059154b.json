@@ -1,0 +1,21 @@
+{
+  "id": "197efcda5cc70059154b",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Organic Chemistry, 16.2 Other Aromatic Substitutions",
+  "url": "https://openstax.org/books/organic-chemistry/pages/16-2-other-aromatic-substitutions",
+  "excerpt": "There are many other kinds of electrophilic aromatic substitutions besides bromination",
+  "sourceHash": "a61aca0d89685f3e0b360518302ccdfde068f468f68a209a2dd4b0e1d0360bc5",
+  "cacheSourceId": "78ea62c17e8526a5cc9a",
+  "retrievedAt": "2026-11-07T03:59:47.231056+00:00",
+  "reviewedMappings": {
+    "2026-3-17:0": "A chlorobenzene and B nitrobenzene; both substitution not addition.",
+    "2026-3-17:1": "A chlorobenzene and B nitrobenzene; both substitution not addition.",
+    "2026-3-17:2": "A chlorobenzene and B nitrobenzene; both substitution not addition.",
+    "2026-3-17:3": "A chlorobenzene and B nitrobenzene; both substitution not addition.",
+    "2026-3-17:4": "A chlorobenzene and B nitrobenzene; both substitution not addition.",
+    "2026-3-17:5": "A chlorobenzene and B nitrobenzene; both substitution not addition."
+  },
+  "retrievalMethod": "Direct web open",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

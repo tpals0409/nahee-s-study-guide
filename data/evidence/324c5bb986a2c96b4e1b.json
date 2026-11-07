@@ -1,0 +1,21 @@
+{
+  "id": "324c5bb986a2c96b4e1b",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume2 §5.5 Calculating Electric Fields of Charge Distributions",
+  "url": "https://openstax.org/books/university-physics-volume-2/pages/5-5-calculating-electric-fields-of-charge-distributions",
+  "excerpt": "The integrals are generalizations of the expression for the field of a point charge.",
+  "sourceHash": "41e053e0f1a719d57b3f21b95b5f2b36f5cb285c8df719e96d7d43261b2c5a40",
+  "cacheSourceId": "bb45e9e873d600bbfc78",
+  "retrievedAt": "2026-11-07T04:47:08.013190+00:00",
+  "reviewedMappings": {
+    "2014-3-02:0": "균일 선전하 적분과 중첩을 대칭 절단 상태에 적용한 계산.",
+    "2014-3-02:1": "kλ단위는(Nm²/C²)(C/m)=Nm/C. 전기장을 얻으려면 역거리 인자가 필요.",
+    "2014-3-02:2": "대칭 구간 제거 후 남은 한쪽 적분에는 별도1/2계수가 없음.",
+    "2014-3-02:3": "남은 구간0.25~0.75의 r^(−2) 적분과 수치8/3.",
+    "2014-3-02:4": "양전하 오른쪽 구간의 장은 왼쪽, 크기 kλ(1/a−1/b). 대칭절단이라는 조건 명시.",
+    "2014-3-02:5": "역거리 차8/3와 선지 비교. 오답이 생성된 심리적 원인은 단정하지 않음."
+  },
+  "retrievalMethod": "Direct web open/find",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

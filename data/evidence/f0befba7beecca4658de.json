@@ -1,0 +1,19 @@
+{
+  "id": "f0befba7beecca4658de",
+  "kind": "science",
+  "source": "British Geological Survey",
+  "ref": "Graptolites",
+  "url": "https://www.bgs.ac.uk/discovering-geology/fossils-and-geological-time/graptolites/",
+  "excerpt": "They lived between the Cambrian and Carboniferous periods, about 520 to 350 million years ago.",
+  "sourceHash": "ee030c3a20f40c4452fc147e7c345fc9130c535879a8577df06d7861d7fa4bd0",
+  "cacheSourceId": "eb8c1e3f17bfdb56a528",
+  "retrievedAt": "2026-11-06T22:11:54.380707+00:00",
+  "reviewedMappings": {
+    "2018-3-34:0": "공룡 발자국·알의 중생대 육성 퇴적 맥락, 신생대 화산섬 및 고생대 필석을 비교하여 ㄱ만=①. 해당 출처의 환경 또는 시대 근거를 다른 연결 자료와 종합 적용.",
+    "2018-3-34:1": "ㄱ 육성층 참, ㄴ 섬 형성 시기 불일치, ㄷ 필석 시대 불일치로 ㄱ만 선택. 해당 출처의 환경 또는 시대 근거를 다른 연결 자료와 종합 적용.",
+    "2018-3-34:3": "고생대 해양 필석은 이 공룡 화석층과 같은 시대의 화석으로 맞지 않아 ㄷ 거짓. 고사리의 부재를 단정하는 논증은 하지 않음. 해당 출처의 환경 또는 시대 근거를 다른 연결 자료와 종합 적용.",
+    "2018-3-34:5": "ㄴ 시기 불일치와 ㄷ 필석 시기 불일치로 둘 다 거짓. 해당 출처의 환경 또는 시대 근거를 다른 연결 자료와 종합 적용."
+  },
+  "retrievalMethod": "Direct web open and search-returned full relevant text reviewed: fossil graptolite range, marine environment, Ordovician/Silurian abundance. Does not restrict the entire group to those two periods.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

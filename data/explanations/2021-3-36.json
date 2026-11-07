@@ -1,0 +1,140 @@
+{
+  "id": "2021-3-36",
+  "summary": "옳은 진술은 ㄱ, ㄷ입니다. B에서는 기온과 이슬점이 같아지므로 18−10h=10−2h에서 h=1km입니다. 구름 속 C는 포화 상태로 기온과 이슬점이 같아 ㄴ은 틀립니다. 그림의 강수를 동반한 푄 모형에서는 상승 중 응결열이 방출되고, 수분을 잃은 공기가 하강하며 건조단열적으로 가열되어 D가 A보다 따뜻합니다.",
+  "choices": [
+    "ㄱ은 옳습니다. 고도 h(km)에서 기온은 18−10h, 이슬점은 10−2h이므로 두 값이 같아지는 B는 1km입니다. 다만 그림의 푄 모형에서 ㄷ도 옳으므로 ㄱ만 고르면 부족합니다.",
+    "ㄴ은 틀립니다. 문제의 구름 속 포화 공기 모형에서 C의 기온은 이슬점과 같습니다. 이슬점보다 낮다는 진술은 옳지 않습니다.",
+    "ㄱ, ㄷ이 옳습니다. B의 고도는 1km이고 기온은 8℃입니다. B→C의 0.2km에서는 응결열 때문에 건조단열 상승 때의 2℃보다 적게 냉각됩니다. 그림처럼 강수로 응결물이 제거되고 C→D를 건조단열적으로 하강하는 모형에서는 1.2km 하강으로 12℃ 상승하므로 D는 18℃보다 높습니다. 습윤단열감률이 주어지지 않았으므로 D의 정확한 온도는 특정하지 않습니다.",
+    "ㄷ은 옳지만 ㄴ은 틀립니다. 강수를 동반한 푄 모형에서 D는 A보다 따뜻하며, 구름 속 C에서는 기온과 이슬점이 같습니다. 또한 옳은 진술 ㄱ이 빠졌습니다.",
+    "ㄱ과 ㄷ은 옳지만 ㄴ은 틀립니다. B는 1km이고 푄 모형에서 D가 A보다 따뜻합니다. C의 기온이 이슬점보다 낮다는 ㄴ을 포함하여 정답이 아닙니다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "National Weather Service",
+      "ref": "Skew-T Parameters and Indices",
+      "quote": "The lapse rate follows the DALR until saturation, then follows the MALR.",
+      "url": "https://www.weather.gov/source/zhu/ZHU_Training_Page/convective_parameters/skewt/skewtinfo.html",
+      "evidenceId": "22df43aae5dc161b7029",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "National Weather Service",
+      "ref": "Skew-T Parameters and Indices",
+      "quote": "The lapse rate follows the DALR until saturation, then follows the MALR.",
+      "url": "https://www.weather.gov/source/zhu/ZHU_Training_Page/convective_parameters/skewt/skewtinfo.html",
+      "evidenceId": "22df43aae5dc161b7029",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "National Weather Service",
+      "ref": "Skew-T Parameters and Indices",
+      "quote": "The lapse rate follows the DALR until saturation, then follows the MALR.",
+      "url": "https://www.weather.gov/source/zhu/ZHU_Training_Page/convective_parameters/skewt/skewtinfo.html",
+      "evidenceId": "22df43aae5dc161b7029",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "National Weather Service",
+      "ref": "Skew-T Parameters and Indices",
+      "quote": "The lapse rate follows the DALR until saturation, then follows the MALR.",
+      "url": "https://www.weather.gov/source/zhu/ZHU_Training_Page/convective_parameters/skewt/skewtinfo.html",
+      "evidenceId": "22df43aae5dc161b7029",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "National Weather Service",
+      "ref": "Skew-T Parameters and Indices",
+      "quote": "The lapse rate follows the DALR until saturation, then follows the MALR.",
+      "url": "https://www.weather.gov/source/zhu/ZHU_Training_Page/convective_parameters/skewt/skewtinfo.html",
+      "evidenceId": "22df43aae5dc161b7029",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "National Weather Service",
+      "ref": "Skew-T Parameters and Indices",
+      "quote": "The lapse rate follows the DALR until saturation, then follows the MALR.",
+      "url": "https://www.weather.gov/source/zhu/ZHU_Training_Page/convective_parameters/skewt/skewtinfo.html",
+      "evidenceId": "22df43aae5dc161b7029",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "Met Office",
+      "ref": "Foehn effect",
+      "quote": "the subsequent removal of moisture as precipitation renders this heat gain irreversible",
+      "url": "https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/wind/foehn-effect",
+      "evidenceId": "5507b4765716038d4441",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "Met Office",
+      "ref": "Foehn effect",
+      "quote": "the subsequent removal of moisture as precipitation renders this heat gain irreversible",
+      "url": "https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/wind/foehn-effect",
+      "evidenceId": "5507b4765716038d4441",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "Met Office",
+      "ref": "Foehn effect",
+      "quote": "the subsequent removal of moisture as precipitation renders this heat gain irreversible",
+      "url": "https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/wind/foehn-effect",
+      "evidenceId": "5507b4765716038d4441",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "Met Office",
+      "ref": "Foehn effect",
+      "quote": "the subsequent removal of moisture as precipitation renders this heat gain irreversible",
+      "url": "https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/wind/foehn-effect",
+      "evidenceId": "5507b4765716038d4441",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "Met Office",
+      "ref": "Foehn effect",
+      "quote": "the subsequent removal of moisture as precipitation renders this heat gain irreversible",
+      "url": "https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/wind/foehn-effect",
+      "evidenceId": "5507b4765716038d4441",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Manual original-diagram review, independent lapse-rate calculation, and NWS/Met Office source comparison",
+    "contentHash": "77f905a814745cab3f136258499cfa84dc5eeae8c34466ab92fabd5849dc0c1a"
+  }
+}

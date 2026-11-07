@@ -1,0 +1,16 @@
+{
+  "id": "99018ae9e8ccadf6a1f9",
+  "kind": "science",
+  "source": "Woods Hole Oceanographic Institution",
+  "ref": "Paleoclimatology",
+  "url": "https://www.whoi.edu/ocean-learning-hub/ocean-topics/climate-weather/paleoclimatology/",
+  "excerpt": "cores of ancient sediment pulled from the deep sea contain many clues about past climate",
+  "sourceHash": "26837b23029e0bd8b1ac3419ae788331d15e51053d6cd3985dbec70ccf8d7e3d",
+  "cacheSourceId": "3d8f3a492c91713e696c",
+  "retrievedAt": "2026-11-07T04:16:04.374911+00:00",
+  "reviewedMappings": {
+    "2026-3-31:5": "75-84 deep-sea sediment archives and foram shell chemistry reveal past ocean temperatures and conditions."
+  },
+  "retrievalMethod": "Direct web find/open",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

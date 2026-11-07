@@ -1,0 +1,16 @@
+{
+  "id": "21a1f48eea638709e929",
+  "kind": "science",
+  "source": "NCBI Bookshelf",
+  "ref": "Molecular Biology of the Cell: From DNA to RNA",
+  "url": "https://www.ncbi.nlm.nih.gov/books/NBK26887/",
+  "excerpt": "poly-A polymerase does not require a template",
+  "sourceHash": "9889b40163f3f2f95a8ea8f41b253a0fa598d0886f9f38980ba7f5a0e8436e12",
+  "cacheSourceId": "0fcb43a2cf1cdbf92159",
+  "retrievedAt": "2026-11-06T18:13:33.984397+00:00",
+  "reviewedMappings": {
+    "2013-3-27:2": "polyA중합효소의 무주형성 명시 원문과 대조. DNA신호서열과 실제 polyA첨가반응의 주형 요구 구별."
+  },
+  "retrievalMethod": "web.search_query indexed textbook excerpt",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

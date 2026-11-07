@@ -1,0 +1,16 @@
+{
+  "id": "5d52eb4a3ef661035690",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 2e §19.2 Coordination Chemistry of Transition Metals",
+  "url": "https://openstax.org/books/chemistry-2e/pages/19-2-coordination-chemistry-of-transition-metals",
+  "excerpt": "This means that optical isomers are nonsuperimposable mirror images.",
+  "sourceHash": "8fe343e4a84c50b9d64a18f4902d6ee4cc0d8741e596945a49e967c7be6722f2",
+  "cacheSourceId": "2120389735edb4e48dde",
+  "retrievedAt": "2026-11-06T21:10:35.483006+00:00",
+  "reviewedMappings": {
+    "2017-3-17:0": "부분 검증: Figure 19.23은 M(en)3 착물의 겹치지 않는 거울상 쌍을 직접 제시하여 ㄷ 지지. ㄴ의 반응 엔트로피에 대한 근거는 아님."
+  },
+  "retrievalMethod": "Direct browser review of source text and figure descriptions",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

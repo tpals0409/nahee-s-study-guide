@@ -1,0 +1,18 @@
+{
+  "id": "26a683273b1bf1255903",
+  "kind": "science",
+  "source": "NOAA / National Weather Service",
+  "ref": "Hurricanes (1967) — Definitions of terms",
+  "url": "https://www.aoml.noaa.gov/hrd/flyers/WB-ESSA-Hurricanes-1967.pdf",
+  "excerpt": "The coriolis force is proportional to the speed of motion and increases with distance from the Equator.",
+  "sourceHash": "0542da0cae610deb5edc89e82aebbda06c2874d8f9d9d251090d1ec158398cef",
+  "cacheSourceId": "e42a0bca24075a6d543e",
+  "retrievedAt": "2026-11-07T03:34:55.084269+00:00",
+  "reviewedMappings": {
+    "2025-3-36:0": "전향력의 풍속 비례 및 북반구 오른쪽 편향을 확인. 같은 지점의 풍속 증가로 ① 반박, 그림의 ⑤ 방향 판단에 적용.",
+    "2025-3-36:1": "전향력의 풍속 비례 및 북반구 오른쪽 편향을 확인. 같은 지점의 풍속 증가로 ① 반박, 그림의 ⑤ 방향 판단에 적용.",
+    "2025-3-36:5": "전향력의 풍속 비례 및 북반구 오른쪽 편향을 확인. 같은 지점의 풍속 증가로 ① 반박, 그림의 ⑤ 방향 판단에 적용."
+  },
+  "retrievalMethod": "Search-indexed NOAA/NWS source text read",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

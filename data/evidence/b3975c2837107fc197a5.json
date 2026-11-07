@@ -1,0 +1,16 @@
+{
+  "id": "b3975c2837107fc197a5",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume 2, 12.1 The Biot-Savart Law",
+  "url": "https://openstax.org/books/university-physics-volume-2/pages/12-1-the-biot-savart-law",
+  "excerpt": "This law enables us to calculate the magnitude and direction of the magnetic field produced by a current in a wire.",
+  "sourceHash": "a242add18706b7817e848273c72092833d576d4a77f8db6cdb40d0aa62ba2a7e",
+  "cacheSourceId": "1295fac3d77bda04c8c1",
+  "retrievedAt": "2026-11-06T18:39:34.287033+00:00",
+  "reviewedMappings": {
+    "2014-3-10:0": "식12.1·12.4 벡터 비오사바르 법칙 대조. 중심에서 반원 호각π 적분은 전원2π의 절반. 그림 전류 방향을 외적과 오른손 법칙으로 확인. 직선부분은 중심까지 벡터와 평행/반평행이라0. Bz/B₀=−3/8+1/8=−1/4."
+  },
+  "retrievalMethod": "web.open; direct primary-source page reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ea3e3b1e89ae11367e7d",
+  "kind": "science",
+  "source": "US EPA",
+  "ref": "Seismic Velocities",
+  "url": "https://www.epa.gov/environmental-geophysics/seismic-velocities",
+  "excerpt": "S waves cannot propagate through liquids because liquids have no shear rigidity.",
+  "sourceHash": "840effc9bf96cf5e899d5e1714c88f28b60ca3476831182bec144c0e81799925",
+  "cacheSourceId": "e5b46bc7f5c1ae5f2ac7",
+  "retrievedAt": "2026-11-07T02:02:11.572725+00:00",
+  "reviewedMappings": {
+    "2023-3-31:0": "ㄱ 참: 탄성률·밀도가 속도식에 함께 들어간다. ㄴ 거짓: 액체는 전단강성이 없어 S파를 전달하지 못한다. 밀도와 탄성률을 동일한 물성으로 쓰지 않음.",
+    "2023-3-31:1": "ㄱ 참: 탄성률·밀도가 속도식에 함께 들어간다. ㄴ 거짓: 액체는 전단강성이 없어 S파를 전달하지 못한다. 밀도와 탄성률을 동일한 물성으로 쓰지 않음.",
+    "2023-3-31:2": "ㄱ 참: 탄성률·밀도가 속도식에 함께 들어간다. ㄴ 거짓: 액체는 전단강성이 없어 S파를 전달하지 못한다. 밀도와 탄성률을 동일한 물성으로 쓰지 않음.",
+    "2023-3-31:3": "ㄱ 참: 탄성률·밀도가 속도식에 함께 들어간다. ㄴ 거짓: 액체는 전단강성이 없어 S파를 전달하지 못한다. 밀도와 탄성률을 동일한 물성으로 쓰지 않음.",
+    "2023-3-31:4": "ㄱ 참: 탄성률·밀도가 속도식에 함께 들어간다. ㄴ 거짓: 액체는 전단강성이 없어 S파를 전달하지 못한다. 밀도와 탄성률을 동일한 물성으로 쓰지 않음.",
+    "2023-3-31:5": "ㄱ 참: 탄성률·밀도가 속도식에 함께 들어간다. ㄴ 거짓: 액체는 전단강성이 없어 S파를 전달하지 못한다. 밀도와 탄성률을 동일한 물성으로 쓰지 않음."
+  },
+  "retrievalMethod": "직접 열람: 속도식 Vp²=(K+4μ/3)/ρ, Vs²=μ/ρ 및 액체의 전단강성 설명.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

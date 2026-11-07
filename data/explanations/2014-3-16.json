@@ -1,0 +1,74 @@
+{
+  "summary": "NH₃ 2 mol 생성 반응이므로 ΔH° = 2 × (−46) = −92 kJ, ΔG° = 2 × (−16) = −32 kJ입니다. ΔG° < 0이므로 K = exp(−ΔG°/RT) ≈ 4×10⁵으로 1보다 훨씬 큽니다. 따라서 평형상수가 1보다 작다는 진술이 옳지 않습니다. 정답은 '평형상수는 1보다 작다'는 보기입니다.",
+  "choices": [
+    "'25°C, 표준 상태에서 정반응은 발열 반응이다'는 옳은 설명입니다. ΔH°반응 = 2 × ΔH_f°(NH₃) − 0 − 0 = −92 kJ로 음수이므로 발열 반응입니다. N₂와 H₂는 원소의 표준 상태이므로 생성 엔탈피가 0입니다.",
+    "'25°C, 표준 상태에서 반응의 평형상수는 1보다 작다'는 옳지 않은 설명이며, 이것이 정답입니다. ΔG° = −32 kJ이고 ln K = −ΔG°/RT = 32000 / (8.314 × 298) ≈ 12.9이므로 K ≈ 4×10⁵입니다. 평형상수는 1보다 훨씬 큽니다. ΔG° < 0이면 K > 1입니다.",
+    "③은 옳습니다. 이 발열 반응에서는 온도를 높이면 열을 소비하는 역반응 쪽으로 평형이 이동하므로 평형상수가 감소합니다. 이는 해당 반응이 발열성을 유지하는 온도 범위에서의 설명입니다.",
+    "'25°C, 표준 상태에서 정반응은 자발적이다'는 옳은 설명입니다. ΔG° = −32 kJ < 0이므로 표준 상태에서 정반응은 자발적입니다.",
+    "⑤는 옳습니다. 반응식대로 NH₃ 2몰을 생성할 때 ΔS°=(ΔH°−ΔG°)/T=[−92000−(−32000)]/298.15≈−201 J/K입니다. 따라서 반응계의 표준 엔트로피 변화는 음수입니다."
+  ],
+  "lawNote": "반응량은 N₂ 1몰과 H₂ 3몰이 반응하여 NH₃ 2몰을 만드는 기준입니다. 자발성은 열역학적 진행 방향이며 반응이 빠르다는 뜻은 아닙니다. 표준 상태 밖에서는 ΔG=ΔG°+RT lnQ로 판단하며, 반응계의 엔트로피 감소가 계와 주위 전체의 엔트로피 감소를 뜻하지는 않습니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 16.4 Free Energy",
+      "quote": "Free energy is a state function",
+      "url": "https://openstax.org/books/chemistry-2e/pages/16-4-free-energy",
+      "evidenceId": "9d7e8a1d59ca8ae957f5",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 16.4 Free Energy",
+      "quote": "Free energy is a state function",
+      "url": "https://openstax.org/books/chemistry-2e/pages/16-4-free-energy",
+      "evidenceId": "9d7e8a1d59ca8ae957f5",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 16.4 Free Energy",
+      "quote": "Free energy is a state function",
+      "url": "https://openstax.org/books/chemistry-2e/pages/16-4-free-energy",
+      "evidenceId": "9d7e8a1d59ca8ae957f5",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 16.4 Free Energy",
+      "quote": "Free energy is a state function",
+      "url": "https://openstax.org/books/chemistry-2e/pages/16-4-free-energy",
+      "evidenceId": "9d7e8a1d59ca8ae957f5",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax · Chemistry 2e",
+      "ref": "13.3 Shifting Equilibria: Le Châtelier’s Principle",
+      "quote": "For exothermic processes, heat is viewed as a product of the reaction",
+      "url": "https://openstax.org/books/chemistry-2e/pages/13-3-shifting-equilibria-le-chateliers-principle",
+      "evidenceId": "adf11304ada748e7431e",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "원본2014-3-16.webp 반응계수·주어진열역학값·선지 확인. OpenStax 일반 원리 대조와 Decimal K·ΔS 검산. 출처 암모니아예시의 모순된K수치 제외를 기록. 자발성과 속도, 표준상태와 비표준상태 구분. 정답②.",
+    "contentHash": "f4555f0b00dc005ebbb9917437f2cf71af002ab64227b718c9e5f4dc9eac3bed"
+  }
+}

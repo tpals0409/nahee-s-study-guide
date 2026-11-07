@@ -1,0 +1,18 @@
+{
+  "id": "0bcb06d7561e09959f82",
+  "kind": "science",
+  "source": "U.S. Geological Survey",
+  "ref": "The Science of Earthquakes",
+  "url": "https://www.usgs.gov/programs/earthquake-hazards/science-earthquakes",
+  "excerpt": "if you are far away, there will be more time between the two.",
+  "sourceHash": "7e51bbfe836e125ef0e7a2c5fd47a625af6cc352efa82048b5739aedb57af45d",
+  "cacheSourceId": "54b64fe1dd76e663fde7",
+  "retrievedAt": "2026-11-07T04:25:10.871609+00:00",
+  "reviewedMappings": {
+    "2026-3-37:0": "P파가 먼저 도달하며 거리가 멀수록 P-S 도착 간격이 커진다는 설명으로 ①을 반박한다.",
+    "2026-3-37:1": "거리 비교 설명을 같은 지진·균질 매질의 조건부 모형으로 적용한다. 진앙거리와 진원거리를 구분하고 전 지구적 단순비례는 주장하지 않는다.",
+    "2026-3-37:4": "본문 32의 hypocenter 정의와 52의 저장 에너지 방출을 함께 확인하여 진원과 진앙을 구분한다."
+  },
+  "retrievalMethod": "Direct web open/find",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

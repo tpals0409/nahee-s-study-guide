@@ -1,0 +1,19 @@
+{
+  "id": "2f37e7cbe3602e15459e",
+  "kind": "science",
+  "source": "Sinauer Associates / NCBI Bookshelf",
+  "ref": "Developmental Biology, 6th ed., Early Amphibian Development",
+  "url": "https://www.ncbi.nlm.nih.gov/books/NBK10113/",
+  "excerpt": "This unequal holoblastic cleavage establishes two major embryonic regions",
+  "sourceHash": "de2590272c4044dcb7291a9aa38c0f6bff658702676294bd6cb14349b170caac",
+  "cacheSourceId": "bbf52601e1b3a9ac7b18",
+  "retrievedAt": "2026-11-07T01:56:20.233207+00:00",
+  "reviewedMappings": {
+    "2023-3-25:0": "Cleavage in Amphibians: 개구리의 방사형 전할, 식물반구의 난황과 느린 분열, 동물극 작은 할구·식물극 큰 할구 설명을 확인. ㄷ 참.",
+    "2023-3-25:2": "Cleavage in Amphibians: 개구리의 방사형 전할, 식물반구의 난황과 느린 분열, 동물극 작은 할구·식물극 큰 할구 설명을 확인. ㄷ 참.",
+    "2023-3-25:3": "Cleavage in Amphibians: 개구리의 방사형 전할, 식물반구의 난황과 느린 분열, 동물극 작은 할구·식물극 큰 할구 설명을 확인. ㄷ 참.",
+    "2023-3-25:5": "Cleavage in Amphibians: 개구리의 방사형 전할, 식물반구의 난황과 느린 분열, 동물극 작은 할구·식물극 큰 할구 설명을 확인. ㄷ 참."
+  },
+  "retrievalMethod": "NCBI Bookshelf의 교재 검색 색인 발췌 검토. 직접 열기는 브라우저 확인 화면으로 제한됨. Cleavage in Amphibians: 개구리의 방사형 전할, 식물반구의 난황과 느린 분열, 동물극 작은 할구·식물극 큰 할구 설명을 확인. ㄷ 참.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

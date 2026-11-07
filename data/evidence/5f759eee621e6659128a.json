@@ -1,0 +1,16 @@
+{
+  "id": "5f759eee621e6659128a",
+  "kind": "science",
+  "source": "Genetics / PubMed",
+  "ref": "Orlean (2012), Architecture and biosynthesis of the Saccharomyces cerevisiae cell wall",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/23135325/",
+  "excerpt": "The wall consists of β1,3- and β1,6-glucans, a small amount of chitin,",
+  "sourceHash": "8a6a26bc8f6a8f849f87268ed09765fc7393e0de39763935fe5380ece3dcf19d",
+  "cacheSourceId": "cd60d7e9678b0ee67b9b",
+  "retrievedAt": "2026-11-07T04:58:00.701263+00:00",
+  "reviewedMappings": {
+    "2026-3-29:4": "효모 종을 명시한 논문 초록의 세포벽 성분은 글루칸·키틴·당화 단백질이다. ④의 펩티도글리칸 핵심 성분 주장을 반박한다."
+  },
+  "retrievalMethod": "Direct web open",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

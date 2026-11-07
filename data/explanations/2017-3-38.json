@@ -1,0 +1,86 @@
+{
+  "id": "2017-3-38",
+  "summary": "포그슨 관계식에 따르면 등급 차이 5는 밝기 비 정확히 100배에 해당합니다. 따라서 정답은 100배입니다.",
+  "choices": [
+    "10 배: 오답입니다. 밝기 비가 10배이면 등급 차는 2.5 log10(10) = 2.5등급입니다. 등급 차 5에 해당하는 값이 아닙니다.",
+    "50 배: 오답입니다. 2.5 log10(50)은 약 4.25등급입니다. 등급 차 5에 해당하는 100배보다 작은 값입니다.",
+    "100 배: 정답입니다. 1등급 차이는 밝기 비 100^(1/5), 약 2.512배입니다. 따라서 5등급 차이는 (100^(1/5))^5 = 100배입니다.",
+    "500 배: 오답입니다. 2.5 log10(500)은 약 6.75등급입니다. 등급 차 5보다 큽니다.",
+    "1000 배: 오답입니다. 2.5 log10(1000) = 7.5등급입니다. 등급 차 5에 해당하지 않습니다."
+  ],
+  "lawNote": "같은 기준으로 측정한 겉보기 등급을 비교합니다. 등급 수가 작을수록 밝으며, 여기서 구하는 것은 별 자체의 광도 비가 아니라 관측되는 겉보기 밝기의 비입니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Astronomy 2e §17.1 — The Magnitude Scale / The Magnitude Equation",
+      "quote": "a difference of five magnitudes corresponds exactly to a brightness ratio of 100:1.",
+      "url": "https://openstax.org/books/astronomy-2e/pages/17-1-the-brightness-of-stars",
+      "evidenceId": "dab56e7a84843355cffc",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Astronomy 2e §17.1 — The Magnitude Scale / The Magnitude Equation",
+      "quote": "a difference of five magnitudes corresponds exactly to a brightness ratio of 100:1.",
+      "url": "https://openstax.org/books/astronomy-2e/pages/17-1-the-brightness-of-stars",
+      "evidenceId": "dab56e7a84843355cffc",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Astronomy 2e §17.1 — The Magnitude Scale / The Magnitude Equation",
+      "quote": "a difference of five magnitudes corresponds exactly to a brightness ratio of 100:1.",
+      "url": "https://openstax.org/books/astronomy-2e/pages/17-1-the-brightness-of-stars",
+      "evidenceId": "dab56e7a84843355cffc",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Astronomy 2e §17.1 — The Magnitude Scale / The Magnitude Equation",
+      "quote": "a difference of five magnitudes corresponds exactly to a brightness ratio of 100:1.",
+      "url": "https://openstax.org/books/astronomy-2e/pages/17-1-the-brightness-of-stars",
+      "evidenceId": "dab56e7a84843355cffc",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Astronomy 2e §17.1 — The Magnitude Scale / The Magnitude Equation",
+      "quote": "a difference of five magnitudes corresponds exactly to a brightness ratio of 100:1.",
+      "url": "https://openstax.org/books/astronomy-2e/pages/17-1-the-brightness-of-stars",
+      "evidenceId": "dab56e7a84843355cffc",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Astronomy 2e §17.1 — The Magnitude Scale / The Magnitude Equation",
+      "quote": "a difference of five magnitudes corresponds exactly to a brightness ratio of 100:1.",
+      "url": "https://openstax.org/books/astronomy-2e/pages/17-1-the-brightness-of-stars",
+      "evidenceId": "dab56e7a84843355cffc",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "원본 이미지·정답 대조, 교재의 등급 정의와 정확식 확인, 다섯 선지 로그값 독립 검산",
+    "contentHash": "bb4378365e2434a50ca0d76fd3879a2836a00ce6bbc502006387eeb3ee61a331"
+  }
+}

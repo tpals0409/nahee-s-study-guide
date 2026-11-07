@@ -1,0 +1,21 @@
+{
+  "id": "e013113b50999abdb8ae",
+  "kind": "science",
+  "source": "AIPEA/CMS Nomenclature Committees / Clay Minerals",
+  "ref": "Guggenheim & Martin (1995), Definition of clay and clay mineral: joint report of the AIPEA and CMS Nomenclature Committees",
+  "url": "https://www.uhu.es/jc.caliani/pdf/Definicion_arcilla.pdf",
+  "excerpt": "which is generally plastic at appropriate water contents and will harden when dried or fired.",
+  "sourceHash": "dbddb368555199690c887384feef5651a246f514f5fcda803b06332618707906",
+  "cacheSourceId": "e3770e6beb9aba1acd1c",
+  "retrievedAt": "2026-11-07T05:34:42.915465+00:00",
+  "reviewedMappings": {
+    "2017-3-32:0": "1995 명명위원회 원문 P0–P1 직접 확인: 적절한 수분에서 일반적으로 가소성을 보이고 건조 또는 소성으로 경화한다. 광물의 정의에 입도 상한을 넣지 않으며 광물군을 층상규산염으로만 제한하지 않는다. 비가소성 flint clay 등 예외도 명시하므로 모든 점토의 무조건적 가소성이나 층간 팽창을 전제하지 않는다. ㄴ의 고령토/카올리나이트 용법은 별도 문제다.",
+    "2017-3-32:1": "1995 명명위원회 원문 P0–P1 직접 확인: 적절한 수분에서 일반적으로 가소성을 보이고 건조 또는 소성으로 경화한다. 광물의 정의에 입도 상한을 넣지 않으며 광물군을 층상규산염으로만 제한하지 않는다. 비가소성 flint clay 등 예외도 명시하므로 모든 점토의 무조건적 가소성이나 층간 팽창을 전제하지 않는다. ㄴ의 고령토/카올리나이트 용법은 별도 문제다.",
+    "2017-3-32:3": "1995 명명위원회 원문 P0–P1 직접 확인: 적절한 수분에서 일반적으로 가소성을 보이고 건조 또는 소성으로 경화한다. 광물의 정의에 입도 상한을 넣지 않으며 광물군을 층상규산염으로만 제한하지 않는다. 비가소성 flint clay 등 예외도 명시하므로 모든 점토의 무조건적 가소성이나 층간 팽창을 전제하지 않는다. ㄴ의 고령토/카올리나이트 용법은 별도 문제다.",
+    "2017-3-32:4": "1995 명명위원회 원문 P0–P1 직접 확인: 적절한 수분에서 일반적으로 가소성을 보이고 건조 또는 소성으로 경화한다. 광물의 정의에 입도 상한을 넣지 않으며 광물군을 층상규산염으로만 제한하지 않는다. 비가소성 flint clay 등 예외도 명시하므로 모든 점토의 무조건적 가소성이나 층간 팽창을 전제하지 않는다. ㄴ의 고령토/카올리나이트 용법은 별도 문제다.",
+    "2017-3-32:5": "1995 명명위원회 원문 P0–P1 직접 확인: 적절한 수분에서 일반적으로 가소성을 보이고 건조 또는 소성으로 경화한다. 광물의 정의에 입도 상한을 넣지 않으며 광물군을 층상규산염으로만 제한하지 않는다. 비가소성 flint clay 등 예외도 명시하므로 모든 점토의 무조건적 가소성이나 층간 팽창을 전제하지 않는다. ㄴ의 고령토/카올리나이트 용법은 별도 문제다.",
+    "2017-3-32:2": "ㄴ만 고른 조합의 설명에서 누락되는 ㄱ의 대표적 층상규산염 구조와 ㄷ의 적절한 수분에서의 일반적 가소성·건조 경화를 보고서P0–P1과 대조. ㄴ 명칭은 별도 조건부 설명."
+  },
+  "retrievalMethod": "Direct open of primary report PDF hosted by Universidad de Huelva",
+  "sourceHashScope": "Selected short excerpt only; not full source"
+}

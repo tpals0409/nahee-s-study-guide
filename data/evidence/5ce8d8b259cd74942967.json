@@ -1,0 +1,20 @@
+{
+  "id": "5ce8d8b259cd74942967",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "17.1 Biotechnology",
+  "url": "https://openstax.org/books/biology-2e/pages/17-1-biotechnology",
+  "excerpt": "Primers—short pieces of DNA complementary to each end of the target sequence",
+  "sourceHash": "09369d9f614d20980dc5c35d8b459df07e27b616d798e4d2c2c72229c37aa9a8",
+  "cacheSourceId": "a2e429151c6bbfa55440",
+  "retrievedAt": "2026-11-06T20:33:51.078934+00:00",
+  "reviewedMappings": {
+    "2016-3-28:0": "본문54–57 PCR변성,프라이머결합,Taq중합효소신장 확인. ㄱㄴㄷ의PCR쪽근거. 선지의포함·누락진술과대조.",
+    "2016-3-28:1": "본문54–57 PCR변성,프라이머결합,Taq중합효소신장 확인. ㄱㄴㄷ의PCR쪽근거. 선지의포함·누락진술과대조.",
+    "2016-3-28:2": "본문54–57 PCR변성,프라이머결합,Taq중합효소신장 확인. ㄱㄴㄷ의PCR쪽근거. 선지의포함·누락진술과대조.",
+    "2016-3-28:4": "본문54–57 PCR변성,프라이머결합,Taq중합효소신장 확인. ㄱㄴㄷ의PCR쪽근거. 선지의포함·누락진술과대조.",
+    "2016-3-28:5": "본문54–57 PCR변성,프라이머결합,Taq중합효소신장 확인. ㄱㄴㄷ의PCR쪽근거. 선지의포함·누락진술과대조."
+  },
+  "retrievalMethod": "Direct web open and targeted find",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "c82351bb637c19c8981b",
+  "kind": "science",
+  "source": "Nucleic Acids Research / PMC",
+  "ref": "Shi et al. (2001), DNA exhibits multi-stranded binding recognition on glass microarrays",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC60223/",
+  "excerpt": "thousands of expressed gene sequences simultaneously",
+  "sourceHash": "ca86bd552ead10b13402fd9bbb17c38c2857455b86849b25fbb11fc4d62ba60c",
+  "cacheSourceId": "fe79616a11cbdd3b6a3e",
+  "retrievedAt": "2026-11-07T05:48:59.295750+00:00",
+  "reviewedMappings": {
+    "2012-3-25:0": "ㄱ: 여러 유전자 발현 동시 분석을 직접 진술한 서론96. dsDNA 혼성화 인용만으로 설명하던 부분 보강.",
+    "2012-3-25:1": "ㄱ: 여러 유전자 발현 동시 분석을 직접 진술한 서론96. dsDNA 혼성화 인용만으로 설명하던 부분 보강.",
+    "2012-3-25:2": "ㄱ: 여러 유전자 발현 동시 분석을 직접 진술한 서론96. dsDNA 혼성화 인용만으로 설명하던 부분 보강.",
+    "2012-3-25:3": "ㄱ: 여러 유전자 발현 동시 분석을 직접 진술한 서론96. dsDNA 혼성화 인용만으로 설명하던 부분 보강.",
+    "2012-3-25:4": "ㄱ: 여러 유전자 발현 동시 분석을 직접 진술한 서론96. dsDNA 혼성화 인용만으로 설명하던 부분 보강.",
+    "2012-3-25:5": "ㄱ: 여러 유전자 발현 동시 분석을 직접 진술한 서론96. dsDNA 혼성화 인용만으로 설명하던 부분 보강."
+  },
+  "retrievalMethod": "Direct PMC full-text HTML",
+  "sourceHashScope": "Selected short excerpt only; not full source"
+}

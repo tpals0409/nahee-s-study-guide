@@ -1,0 +1,96 @@
+{
+  "id": "2026-3-34",
+  "summary": "삼엽충은 해양 절지동물이며 고생대 말에 멸종했습니다. 육상에서 번성한 중생대 생물처럼 설명한 ③이 옳지 않습니다.",
+  "choices": [
+    "판게아는 고생대 후기에 형성된 초대륙이므로 옳습니다.",
+    "고생대 지층에서는 석탄층과 석회암층을 확인할 수 있습니다. 석탄기의 석탄층과 전기 석탄기에 해당하는 미시시피아기의 석회암층이 그 예이므로 옳습니다.",
+    "삼엽충은 해양 생물이며 캄브리아기에 출현하여 페름기 말에 멸종했습니다. 육상에서 번성한 중생대 생물처럼 설명한 ③이 틀립니다.",
+    "중생대의 쥐라기 지층 등에서 공룡 발자국 화석이 발견되므로 옳습니다.",
+    "화폐석(Nummulites)은 유공충 화석으로, 신생대 팔레오기 지층에서 산출됩니다. 따라서 ⑤는 옳습니다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "British Geological Survey",
+      "ref": "Trilobites",
+      "quote": "Trilobites appeared in the Cambrian Period and became extinct at the end of the Permian Period.",
+      "url": "https://www.bgs.ac.uk/discovering-geology/fossils-and-geological-time/trilobites/",
+      "evidenceId": "43f75e13a56a5c640eaf",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "British Geological Survey",
+      "ref": "Trilobites",
+      "quote": "Trilobites appeared in the Cambrian Period and became extinct at the end of the Permian Period.",
+      "url": "https://www.bgs.ac.uk/discovering-geology/fossils-and-geological-time/trilobites/",
+      "evidenceId": "43f75e13a56a5c640eaf",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "National Park Service",
+      "ref": "NPS Geologic Time Scale",
+      "quote": "supercontinent Pangaea and Tethys Ocean (Pennsylvanian-Permian)",
+      "url": "https://home.nps.gov/subjects/geology/time-scale.htm",
+      "evidenceId": "71093b6563a9d696a255",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "National Park Service",
+      "ref": "NPS Geologic Time Scale",
+      "quote": "supercontinent Pangaea and Tethys Ocean (Pennsylvanian-Permian)",
+      "url": "https://home.nps.gov/subjects/geology/time-scale.htm",
+      "evidenceId": "71093b6563a9d696a255",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "ISPRA",
+      "ref": "ISPRA Nummulites lyelli",
+      "quote": "Era Cenozoica – Paleogene -Eocene medio",
+      "url": "https://www.isprambiente.gov.it/it/attivita/museo/collezioni-paleontologiche/paleo-reperti/nummulites-lyelli-foraminifero",
+      "evidenceId": "b194c68a2cefc4a4bfef",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "National Park Service",
+      "ref": "Mississippian Period",
+      "quote": "Indiana limestone that was deposited during the Mississippian Period",
+      "url": "https://www.nps.gov/articles/000/mississippian-period.htm",
+      "evidenceId": "cb95865ddc0eee5489fd",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "National Park Service",
+      "ref": "Jurassic Dinosaurs",
+      "quote": "Jurassic dinosaur tracks have been found in many of the NPS units of the Colorado Plateau",
+      "url": "https://www.nps.gov/subjects/fossils/jurassic-dinosaurs.htm",
+      "evidenceId": "4c9f2b708f9f578e4125",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Original2026-3-34_1 fully inspected; direct BGS trilobite, NPS geologic timescale/limestone/tracks and ISPRA specimen record matched choices. Removed unnecessary Korean formation examples and absolute claim excluding reworked fossils. Independent answer3 agrees with local final key.",
+    "contentHash": "09009a98a4f7a2fd3fc3a2849c868a1876cc17de410bb20117ec9d5ecaad5e6a"
+  }
+}

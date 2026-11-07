@@ -1,0 +1,16 @@
+{
+  "id": "e148ede5d66ccc66c879",
+  "kind": "science",
+  "source": "National Weather Service",
+  "ref": "Basic Weather Education — Cloud Classification",
+  "url": "https://www.weather.gov/crp/weather_education",
+  "excerpt": "Low Clouds (Stratus, Stratocumulus, Nimbostratus)",
+  "sourceHash": "5b1735201ce4152cd610cc280baf353bada6cfe778a9f9455cc6560db1b8cdc5",
+  "cacheSourceId": "e3285c389e46d9e8e50f",
+  "retrievedAt": "2026-11-06T19:09:00.268431+00:00",
+  "reviewedMappings": {
+    "2014-3-36:4": "This NWS school-level resource explicitly groups nimbostratus as low cloud. Conflicts with NOAA WMO-based page; not proof of the Korean examination convention."
+  },
+  "retrievalMethod": "Direct web open; relevant classification and genus paragraphs reviewed against original image.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

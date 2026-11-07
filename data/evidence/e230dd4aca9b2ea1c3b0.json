@@ -1,0 +1,21 @@
+{
+  "id": "e230dd4aca9b2ea1c3b0",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "OpenStax Biology 2e 19.3 Adaptive Evolution",
+  "url": "https://openstax.org/books/biology-2e/pages/19-3-adaptive-evolution",
+  "excerpt": "one end of the spectrum",
+  "sourceHash": "de61f197031d14371749c235ea34eb890981c93b1991f8248ee441e3ce2b8bf7",
+  "cacheSourceId": "0e367c6749a31e1aee72",
+  "retrievedAt": "2026-11-07T05:46:36.951745+00:00",
+  "reviewedMappings": {
+    "2012-3-24:0": "ㄴ: 방향성 선택은 한쪽 끝의 표현형에 유리하여 집단 분포가 그쪽으로 이동한다. 본문37–40 직접 대조.",
+    "2012-3-24:1": "ㄴ: 방향성 선택은 한쪽 끝의 표현형에 유리하여 집단 분포가 그쪽으로 이동한다. 본문37–40 직접 대조.",
+    "2012-3-24:2": "ㄴ: 방향성 선택은 한쪽 끝의 표현형에 유리하여 집단 분포가 그쪽으로 이동한다. 본문37–40 직접 대조.",
+    "2012-3-24:3": "ㄴ: 방향성 선택은 한쪽 끝의 표현형에 유리하여 집단 분포가 그쪽으로 이동한다. 본문37–40 직접 대조.",
+    "2012-3-24:4": "ㄴ: 방향성 선택은 한쪽 끝의 표현형에 유리하여 집단 분포가 그쪽으로 이동한다. 본문37–40 직접 대조.",
+    "2012-3-24:5": "ㄴ: 방향성 선택은 한쪽 끝의 표현형에 유리하여 집단 분포가 그쪽으로 이동한다. 본문37–40 직접 대조."
+  },
+  "retrievalMethod": "Direct publisher textbook HTML",
+  "sourceHashScope": "Selected short excerpt only; not full source"
+}

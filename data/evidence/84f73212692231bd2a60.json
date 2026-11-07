@@ -1,0 +1,21 @@
+{
+  "id": "84f73212692231bd2a60",
+  "kind": "science",
+  "source": "NOAA",
+  "ref": "NOAA — Layers of the Atmosphere",
+  "url": "https://www.noaa.gov/jetstream/atmosphere/layers-of-atmosphere",
+  "excerpt": "Because of this absorption, the temperature increases with height.",
+  "sourceHash": "17b5556f849cecf1227de9909924766635749ba51f1b03b635ca0f8dce863098",
+  "cacheSourceId": "34dc996ecbb680912b60",
+  "retrievedAt": "2026-11-06T21:35:35.137721+00:00",
+  "reviewedMappings": {
+    "2012-3-37:0": "공통 보기 대조: NOAA 열권 고도별 온도 상승과 대류권 두께의 위도 차이; NASA 성층권 오존 ppm 수준 및 15ppm=0.0015%; MAUSAM 2002 원저 초록의 대류권계면 높이 계절 변화 관측. 세 자료를 결합하여 ㄱㄴ 거짓, ㄷ 참 판단.",
+    "2017-3-37:0": "Stratosphere·Mesosphere 절에서 상단 약50 km와 중간권50–85 km를 대조하여 ② 판정.",
+    "2017-3-37:2": "Stratosphere 절의 약50 km 상단과 Mesosphere 절의50–85 km 범위를 검토. 인용 한 문장만이 아니라 해당 절 전체에 따른 범위 판정.",
+    "2017-3-37:3": "Mesosphere 절에서 하강할수록 온도가 상승한다는 분포를 고도 상승 방향으로 읽어 기온 감소를 확인.",
+    "2017-3-37:4": "Troposphere 절의 적도와 극 대류권 높이를 비교하여 위도별 차이를 확인. 계절 차이는 별도 NWS 근거.",
+    "2017-3-37:5": "Thermosphere 절의 고에너지 자외선·X선 흡수 및 고도에 따른 온도 상승 설명 확인."
+  },
+  "retrievalMethod": "Direct web page opened and relevant sections reviewed; selected excerpt retained",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

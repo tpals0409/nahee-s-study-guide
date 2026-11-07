@@ -1,0 +1,129 @@
+{
+  "id": "2021-3-21",
+  "summary": "광합성 명반응에서 전자를 받아 NADPH가 되는 운반체는 NADP⁺입니다. 캘빈 회로에서는 CO₂가 고정되며, 방출되는 O₂는 광계 II에서 산화되는 물에서 유래합니다. 광계 II가 흡수한 빛에너지는 전자전달과 양성자 기울기 형성을 거쳐 ATP 합성에 이용됩니다. 따라서 옳은 것은 ㄴ, ㄹ입니다.",
+  "choices": [
+    "ㄱ, ㄴ: 오답입니다. 캘빈 회로에서 탄소고정이 일어나므로 ㄴ은 옳습니다. 그러나 명반응의 전자 흐름에서 전자를 받아 NADPH로 환원되는 것은 NADP⁺이므로, 이를 NAD⁺라고 한 ㄱ은 틀립니다.",
+    "ㄱ, ㄷ: 오답입니다. 명반응에서 NADPH로 환원되는 운반체는 NADP⁺입니다. 또한 광계 II에서 물이 산화되는 반응은 2H₂O → O₂ + 4H⁺ + 4e⁻이므로 방출되는 O₂의 산소는 CO₂가 아니라 H₂O에서 유래합니다.",
+    "ㄴ, ㄷ: 오답입니다. 캘빈 회로에서 루비스코가 CO₂와 RuBP의 반응을 촉매하므로 ㄴ은 옳습니다. 그러나 O₂는 광계 II에서 물이 산화될 때 생기므로 ㄷ은 틀립니다.",
+    "ㄴ, ㄹ: 정답입니다. 캘빈 회로에서 CO₂가 고정됩니다. 광계 II에서 시작된 전자전달은 틸라코이드 막을 사이에 둔 H⁺의 전기화학적 기울기 형성에 기여하며, ATP 합성효소는 이 기울기를 이용해 ATP를 만듭니다. 암반응이라는 이름은 밤에만 일어난다는 뜻이 아니며, 캘빈 회로는 명반응이 공급하는 ATP와 NADPH를 이용합니다.",
+    "'ㄷ, ㄹ'은 오답입니다. ㄹ은 옳지만 ㄷ은 틀렸습니다. 배출되는 O₂는 CO₂가 아니라 H₂O의 광분해에서 생성됩니다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "8.2 The Light-Dependent Reactions of Photosynthesis",
+      "quote": "ATP synthase uses this electrochemical gradient to make ATP.",
+      "url": "https://openstax.org/books/biology-2e/pages/8-2-the-light-dependent-reactions-of-photosynthesis",
+      "evidenceId": "4907f190e2e9fe6c52a1",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "8.2 The Light-Dependent Reactions of Photosynthesis",
+      "quote": "ATP synthase uses this electrochemical gradient to make ATP.",
+      "url": "https://openstax.org/books/biology-2e/pages/8-2-the-light-dependent-reactions-of-photosynthesis",
+      "evidenceId": "4907f190e2e9fe6c52a1",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "8.2 The Light-Dependent Reactions of Photosynthesis",
+      "quote": "ATP synthase uses this electrochemical gradient to make ATP.",
+      "url": "https://openstax.org/books/biology-2e/pages/8-2-the-light-dependent-reactions-of-photosynthesis",
+      "evidenceId": "4907f190e2e9fe6c52a1",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "8.2 The Light-Dependent Reactions of Photosynthesis",
+      "quote": "ATP synthase uses this electrochemical gradient to make ATP.",
+      "url": "https://openstax.org/books/biology-2e/pages/8-2-the-light-dependent-reactions-of-photosynthesis",
+      "evidenceId": "4907f190e2e9fe6c52a1",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "8.2 The Light-Dependent Reactions of Photosynthesis",
+      "quote": "ATP synthase uses this electrochemical gradient to make ATP.",
+      "url": "https://openstax.org/books/biology-2e/pages/8-2-the-light-dependent-reactions-of-photosynthesis",
+      "evidenceId": "4907f190e2e9fe6c52a1",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "8.2 The Light-Dependent Reactions of Photosynthesis",
+      "quote": "ATP synthase uses this electrochemical gradient to make ATP.",
+      "url": "https://openstax.org/books/biology-2e/pages/8-2-the-light-dependent-reactions-of-photosynthesis",
+      "evidenceId": "4907f190e2e9fe6c52a1",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e, 8.3 Using Light Energy to Make Organic Molecules",
+      "quote": "RuBisCO catalyzes a reaction between",
+      "url": "https://openstax.org/books/biology-2e/pages/8-3-using-light-energy-to-make-organic-molecules",
+      "evidenceId": "9de8294390722c0a8ee5",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e, 8.3 Using Light Energy to Make Organic Molecules",
+      "quote": "RuBisCO catalyzes a reaction between",
+      "url": "https://openstax.org/books/biology-2e/pages/8-3-using-light-energy-to-make-organic-molecules",
+      "evidenceId": "9de8294390722c0a8ee5",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e, 8.3 Using Light Energy to Make Organic Molecules",
+      "quote": "RuBisCO catalyzes a reaction between",
+      "url": "https://openstax.org/books/biology-2e/pages/8-3-using-light-energy-to-make-organic-molecules",
+      "evidenceId": "9de8294390722c0a8ee5",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e, 8.3 Using Light Energy to Make Organic Molecules",
+      "quote": "RuBisCO catalyzes a reaction between",
+      "url": "https://openstax.org/books/biology-2e/pages/8-3-using-light-energy-to-make-organic-molecules",
+      "evidenceId": "9de8294390722c0a8ee5",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Reviewed light reactions and Calvin-cycle mechanisms against direct textbook sections; checked four statements and five combinations; clarified dark-reaction terminology and carrier scope.",
+    "contentHash": "52ffae43c4e97843ab478be6082f4d304089fd3ea93fad95930ca4d186a24bd8"
+  }
+}

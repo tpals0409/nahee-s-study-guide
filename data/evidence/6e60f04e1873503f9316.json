@@ -1,0 +1,21 @@
+{
+  "id": "6e60f04e1873503f9316",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 2e, 18.9 Occurrence, Preparation, and Compounds of Oxygen",
+  "url": "https://openstax.org/books/chemistry-2e/pages/18-9-occurrence-preparation-and-compounds-of-oxygen",
+  "excerpt": "HOCl is a stronger acid than HOBr, which, in turn, is stronger than HOI.",
+  "sourceHash": "834f48753f59fe6a9040c4dc4ff88cf9ecf71fbd3a85e4075b217a7f0935a0b6",
+  "cacheSourceId": "e76ed63360b55b021cb4",
+  "retrievedAt": "2026-11-07T03:55:58.980636+00:00",
+  "reviewedMappings": {
+    "2026-3-13:0": "Direct HOCl > HOBr comparison makes ㄷ false.",
+    "2026-3-13:1": "Direct HOCl > HOBr comparison makes ㄷ false.",
+    "2026-3-13:2": "Direct HOCl > HOBr comparison makes ㄷ false.",
+    "2026-3-13:3": "Direct HOCl > HOBr comparison makes ㄷ false.",
+    "2026-3-13:4": "Direct HOCl > HOBr comparison makes ㄷ false.",
+    "2026-3-13:5": "Direct HOCl > HOBr comparison makes ㄷ false."
+  },
+  "retrievalMethod": "Direct web open",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

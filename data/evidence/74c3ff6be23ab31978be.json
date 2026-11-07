@@ -1,0 +1,16 @@
+{
+  "id": "74c3ff6be23ab31978be",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e §43.3 Human Reproductive Anatomy and Gametogenesis",
+  "url": "https://openstax.org/books/biology-2e/pages/43-3-human-reproductive-anatomy-and-gametogenesis",
+  "excerpt": "Meiosis starts with a cell called a primary spermatocyte.",
+  "sourceHash": "205d003c800b739e72597d5128dbc8a51fbf7086ae59e61c78d3ac090f6fe459",
+  "cacheSourceId": "73ea39f0e5d2d0e8b033",
+  "retrievedAt": "2026-11-06T21:16:37.882600+00:00",
+  "reviewedMappings": {
+    "2017-3-23:1": "Gametogenesis 절 및 일차 정모세포/난모세포 감수분열 설명. 선지의 생식세포를 계열 의미로 해석; 성숙 정자가 감수분열한다는 오해 방지."
+  },
+  "retrievalMethod": "Direct browser review of source sections and chromosome-stage figure descriptions",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

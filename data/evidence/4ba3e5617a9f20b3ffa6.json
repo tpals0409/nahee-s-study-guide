@@ -1,0 +1,17 @@
+{
+  "id": "4ba3e5617a9f20b3ffa6",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "7.3 Oxidation of Pyruvate and the Citric Acid Cycle",
+  "url": "https://openstax.org/books/biology-2e/pages/7-3-oxidation-of-pyruvate-and-the-citric-acid-cycle",
+  "excerpt": "during the conversion of the succinyl group to succinate",
+  "sourceHash": "8f842695af6fd6e5903bd2cafda555431674b60f9c6cf5997d42cfbbb2d5fa0d",
+  "cacheSourceId": "f0daab1ea6039e85d335",
+  "retrievedAt": "2026-11-06T20:30:03.420123+00:00",
+  "reviewedMappings": {
+    "2016-3-24:0": "본문60–62 숙시닐CoA 이후 숙신산 단계와GTP/ATP생성 확인.",
+    "2016-3-24:4": "숙시닐CoA→숙신산 방향에서 기질수준 인산화. 동물조직에 따라GTP 또는ATP이므로 동물=GTP라고 일반화하지 않음."
+  },
+  "retrievalMethod": "Direct web open and targeted find; relevant cellular respiration sections reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

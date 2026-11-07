@@ -1,0 +1,16 @@
+{
+  "id": "6558ce505ad1b44553fe",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "OpenStax Biology 2e §45.6 Community Ecology",
+  "url": "https://openstax.org/books/biology-2e/pages/45-6-community-ecology",
+  "excerpt": "The competitive exclusion principle states that two species cannot occupy the same niche in a habitat.",
+  "sourceHash": "f0c2eab771c902728504770afb2a1ec84256c949151475595fa62145ad7f6254",
+  "cacheSourceId": "1a71103e56c0bb6fbe5f",
+  "retrievedAt": "2026-11-06T18:15:39.066702+00:00",
+  "reviewedMappings": {
+    "2013-3-29:0": "ㄴㄷ: 동일지위·제한자원경쟁과 배타, 자원분할로공존가능 설명 확인. 일부자원공유가 반드시배타를일으킨다고 일반화하지 않음."
+  },
+  "retrievalMethod": "web.open and web.find",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

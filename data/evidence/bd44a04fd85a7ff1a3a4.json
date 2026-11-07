@@ -1,0 +1,18 @@
+{
+  "id": "bd44a04fd85a7ff1a3a4",
+  "kind": "science",
+  "source": "National Weather Service",
+  "ref": "Weather Education: Temperature",
+  "url": "https://www.weather.gov/jkl/education",
+  "excerpt": "ozone in the stratosphere absorbs ultraviolet (UV) radiation",
+  "sourceHash": "25d5700285e966cf6000a71dc81bbc3a9f0b20501de6d3737264bd5903fbc98e",
+  "cacheSourceId": "9b5f1863dc41df5e7cf3",
+  "retrievedAt": "2026-11-06T23:39:03.487639+00:00",
+  "reviewedMappings": {
+    "2020-3-35:1": "중간권에서 고도에 따라 기온이 다시 감소한다고 명시.",
+    "2020-3-35:4": "성층권 오존의 자외선 흡수와 가열을 직접 지지.",
+    "2020-3-35:5": "대류권계면의 등온층 시작과 이후 성층권 기온 상승을 지지."
+  },
+  "retrievalMethod": "Direct web open/find; reviewed lines 171–175, especially lower-stratosphere isothermal layer followed by warming and ozone ultraviolet absorption.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

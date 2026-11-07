@@ -1,0 +1,21 @@
+{
+  "id": "0972f8523b476a82a3a2",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 2e, 8.3 Multiple Bonds",
+  "url": "https://openstax.org/books/chemistry-2e/pages/8-3-multiple-bonds",
+  "excerpt": "one σ bond and two π bonds",
+  "sourceHash": "68552573b995110532ed97b77c4ca1a2693e1ee684ed57bdf678651f0c3d236b",
+  "cacheSourceId": "052ffac998c182146bcf",
+  "retrievedAt": "2026-11-07T01:42:03.242775+00:00",
+  "reviewedMappings": {
+    "2023-3-14:0": "아세틸렌의 탄소간 삼중결합은 σ1개·π2개이므로 ㄱ참. 이 판단을 다른 두 진술의 검증과 합쳐 ㄱㄴㄷ 모두 참으로 ⑤만 완전한 조합임을 확인.",
+    "2023-3-14:1": "아세틸렌의 탄소간 삼중결합은 σ1개·π2개이므로 ㄱ참. 이 판단을 다른 두 진술의 검증과 합쳐 ㄱㄴㄷ 모두 참으로 ⑤만 완전한 조합임을 확인.",
+    "2023-3-14:2": "아세틸렌의 탄소간 삼중결합은 σ1개·π2개이므로 ㄱ참. 이 판단을 다른 두 진술의 검증과 합쳐 ㄱㄴㄷ 모두 참으로 ⑤만 완전한 조합임을 확인.",
+    "2023-3-14:3": "아세틸렌의 탄소간 삼중결합은 σ1개·π2개이므로 ㄱ참. 이 판단을 다른 두 진술의 검증과 합쳐 ㄱㄴㄷ 모두 참으로 ⑤만 완전한 조합임을 확인.",
+    "2023-3-14:4": "아세틸렌의 탄소간 삼중결합은 σ1개·π2개이므로 ㄱ참. 이 판단을 다른 두 진술의 검증과 합쳐 ㄱㄴㄷ 모두 참으로 ⑤만 완전한 조합임을 확인.",
+    "2023-3-14:5": "아세틸렌의 탄소간 삼중결합은 σ1개·π2개이므로 ㄱ참. 이 판단을 다른 두 진술의 검증과 합쳐 ㄱㄴㄷ 모두 참으로 ⑤만 완전한 조합임을 확인."
+  },
+  "retrievalMethod": "Primary-source indexed web search excerpt reviewed (not a direct full-page retrieval). Source-specific statements/table excerpt checked against original question.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

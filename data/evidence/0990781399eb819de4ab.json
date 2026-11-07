@@ -1,0 +1,16 @@
+{
+  "id": "0990781399eb819de4ab",
+  "kind": "science",
+  "source": "NASA",
+  "ref": "Neptune: Facts",
+  "url": "https://science.nasa.gov/neptune/neptune-facts/",
+  "excerpt": "water, methane, and ammonia",
+  "sourceHash": "abf0a6a9ac310d573eb989da6527dce0f3a687e5c3dfb284daf2f1e015145e42",
+  "cacheSourceId": "8628df3945d19128e155",
+  "retrievedAt": "2026-11-07T02:56:28.401956+00:00",
+  "reviewedMappings": {
+    "2024-3-40:1": "해왕성 내부의 물·메탄·암모니아가 주요 성분이라는 설명을 확인."
+  },
+  "retrievalMethod": "Search-indexed Structure paragraph reviewed.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

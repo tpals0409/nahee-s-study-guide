@@ -1,0 +1,21 @@
+{
+  "id": "92358849dd91feeb1e1d",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume 2, 10.2 Resistors in Series and Parallel",
+  "url": "https://openstax.org/books/university-physics-volume-2/pages/10-2-resistors-in-series-and-parallel",
+  "excerpt": "The potential drop across each resistor is the same.",
+  "sourceHash": "5a0e83273e11f69c51d71d3082db2de2bfc0ace60f7b79aec27ca3612cef5689",
+  "cacheSourceId": "019971b395383ec8342c",
+  "retrievedAt": "2026-11-07T00:46:25.678711+00:00",
+  "reviewedMappings": {
+    "2022-3-06:0": "원본 중앙 도선으로 위·아래 꼭짓점 동일 마디C 확인. A–C의 R2개 병렬, C–B의 R2개 병렬. 식10.2 및 병렬 역수합으로 R/2+R/2=R. KCL 검산 VC=V/2, 입력전류V/R.",
+    "2022-3-06:1": "원본 중앙 도선으로 위·아래 꼭짓점 동일 마디C 확인. A–C의 R2개 병렬, C–B의 R2개 병렬. 식10.2 및 병렬 역수합으로 R/2+R/2=R. KCL 검산 VC=V/2, 입력전류V/R.",
+    "2022-3-06:2": "원본 중앙 도선으로 위·아래 꼭짓점 동일 마디C 확인. A–C의 R2개 병렬, C–B의 R2개 병렬. 식10.2 및 병렬 역수합으로 R/2+R/2=R. KCL 검산 VC=V/2, 입력전류V/R.",
+    "2022-3-06:3": "원본 중앙 도선으로 위·아래 꼭짓점 동일 마디C 확인. A–C의 R2개 병렬, C–B의 R2개 병렬. 식10.2 및 병렬 역수합으로 R/2+R/2=R. KCL 검산 VC=V/2, 입력전류V/R.",
+    "2022-3-06:4": "원본 중앙 도선으로 위·아래 꼭짓점 동일 마디C 확인. A–C의 R2개 병렬, C–B의 R2개 병렬. 식10.2 및 병렬 역수합으로 R/2+R/2=R. KCL 검산 VC=V/2, 입력전류V/R.",
+    "2022-3-06:5": "원본 중앙 도선으로 위·아래 꼭짓점 동일 마디C 확인. A–C의 R2개 병렬, C–B의 R2개 병렬. 식10.2 및 병렬 역수합으로 R/2+R/2=R. KCL 검산 VC=V/2, 입력전류V/R."
+  },
+  "retrievalMethod": "Direct textbook page opened; series sums, negligible-wire parallel connections, junction rule and reciprocal-sum equation reviewed.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

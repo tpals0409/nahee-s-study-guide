@@ -1,0 +1,16 @@
+{
+  "id": "68fbd14cc8e6f218ca28",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e §43.3 Human Reproductive Anatomy and Gametogenesis",
+  "url": "https://openstax.org/books/biology-2e/pages/43-3-human-reproductive-anatomy-and-gametogenesis",
+  "excerpt": "It has a series of short ducts that directly connect to the urethra.",
+  "sourceHash": "824598938d07501e09e3580e2628f6246ae23547553eea9c70bcb4c1e3868063",
+  "cacheSourceId": "447d87ec12edb4b61ac7",
+  "retrievedAt": "2026-11-06T16:38:04.529039+00:00",
+  "reviewedMappings": {
+    "2011-3-24:0": "Male Reproductive Anatomy 본문에서 정관+정낭관의 사정관 형성, 전립선관의 요도 직접 개구, 그림43.8 설명의 요도구선→요도 연결 확인. 정낭 과당, 전립선 시트르산 포함 묽은액, 요도구선의 산성 잔류물 중화도 대조. ③의 세 샘 관이 하나로 합쳐진다는 설명만 거짓."
+  },
+  "retrievalMethod": "web.run official textbook text and figure descriptions reviewed",
+  "sourceHashScope": "Selected excerpt only; not full page"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "b00304c51125179c80f0",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 2e §12.6 Reaction Mechanisms",
+  "url": "https://openstax.org/books/chemistry-2e/pages/12-6-reaction-mechanisms",
+  "excerpt": "Species that are produced in one step and consumed in a subsequent step are called intermediates.",
+  "sourceHash": "06af4e0445c01b068a5f8c4f341ad1e8a70cc0e28c884a607a033e8867938267",
+  "cacheSourceId": "b200fbff57147298d76d",
+  "retrievedAt": "2026-11-07T04:52:59.026609+00:00",
+  "reviewedMappings": {
+    "2015-3-16:0": "중간체Cl,HS 정의와속도결정단계의개념. 원문기구의빠른평형유도는주어진속도식과불일치함을명시.",
+    "2015-3-16:1": "Cl과HS가생성후소모되고전체식에서소거됨.",
+    "2015-3-16:2": "ㄱ또한참이므로ㄷ만고를수없음.",
+    "2015-3-16:3": "느린단계가속도를제한한다는정의; 도표로단계Ⅲ지정은명시된단순화해석.",
+    "2015-3-16:4": "누락된ㄱ의중간체2종을확인.",
+    "2015-3-16:5": "중간체판별,속도결정의정의 및빠른평형가정 한계."
+  },
+  "retrievalMethod": "Direct web open/find",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

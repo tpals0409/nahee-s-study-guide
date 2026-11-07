@@ -1,0 +1,20 @@
+{
+  "id": "796c669fb5f8d5f23696",
+  "kind": "science",
+  "source": "National Astronomical Observatory of Japan",
+  "ref": "Glossary on Celestial Phenomena",
+  "url": "https://eco.mtk.nao.ac.jp/koyomi/faq/phenomena.html.en",
+  "excerpt": "the inner planet can be seen in the east sky before sunrise",
+  "sourceHash": "a37e694c7bc2f68c1967239379b6ec80ff7a592fee56cbf13ae8ef5eb0d86dba",
+  "cacheSourceId": "6b0c616cfa2534ad00f1",
+  "retrievedAt": "2026-11-07T02:11:51.537500+00:00",
+  "reviewedMappings": {
+    "2023-3-38:0": "내행성의 이각과 새벽/저녁 관측, 충과 구의 정의를 직접 대조했다. 원문 그림의 금성은 태양 서쪽이다. 내행성 궤도에서 이각<90°라는 기하를 적용하되 자정 관측에 이각180°가 필요하다는 초안의 오류를 제거하고 통상적 관측 모형으로 한정했다.",
+    "2023-3-38:2": "내행성의 이각과 새벽/저녁 관측, 충과 구의 정의를 직접 대조했다. 원문 그림의 금성은 태양 서쪽이다. 내행성 궤도에서 이각<90°라는 기하를 적용하되 자정 관측에 이각180°가 필요하다는 초안의 오류를 제거하고 통상적 관측 모형으로 한정했다.",
+    "2023-3-38:3": "내행성의 이각과 새벽/저녁 관측, 충과 구의 정의를 직접 대조했다. 원문 그림의 금성은 태양 서쪽이다. 내행성 궤도에서 이각<90°라는 기하를 적용하되 자정 관측에 이각180°가 필요하다는 초안의 오류를 제거하고 통상적 관측 모형으로 한정했다.",
+    "2023-3-38:4": "내행성의 이각과 새벽/저녁 관측, 충과 구의 정의를 직접 대조했다. 원문 그림의 금성은 태양 서쪽이다. 내행성 궤도에서 이각<90°라는 기하를 적용하되 자정 관측에 이각180°가 필요하다는 초안의 오류를 제거하고 통상적 관측 모형으로 한정했다.",
+    "2023-3-38:5": "내행성의 이각과 새벽/저녁 관측, 충과 구의 정의를 직접 대조했다. 원문 그림의 금성은 태양 서쪽이다. 내행성 궤도에서 이각<90°라는 기하를 적용하되 자정 관측에 이각180°가 필요하다는 초안의 오류를 제거하고 통상적 관측 모형으로 한정했다."
+  },
+  "retrievalMethod": "Direct web open; reviewed inner-planet elongation and lunar phases sections",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

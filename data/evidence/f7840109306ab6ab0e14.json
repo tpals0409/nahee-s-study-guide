@@ -1,0 +1,19 @@
+{
+  "id": "f7840109306ab6ab0e14",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Organic Chemistry 3.1 Functional Groups",
+  "url": "https://openstax.org/books/organic-chemistry/pages/3-1-functional-groups",
+  "excerpt": "esters have an ether-like oxygen bonded",
+  "sourceHash": "0c8e9b617ef35a469610c599962877a5f815af6375bb210fe0a651965c56ecb5",
+  "cacheSourceId": "feba5f79d86ed850c9c0",
+  "retrievedAt": "2026-11-07T06:15:25.806442+00:00",
+  "reviewedMappings": {
+    "2011-3-12:0": "Full source sentence specifies oxygen bonded to carbonyl C=O; methoxy oxygen in vanillin not bonded to carbonyl carbon. This does not resolve phenol/alcohol official-answer conflict.",
+    "2011-3-12:2": "Full source sentence specifies oxygen bonded to carbonyl C=O; methoxy oxygen in vanillin not bonded to carbonyl carbon. This does not resolve phenol/alcohol official-answer conflict.",
+    "2011-3-12:4": "Full source sentence specifies oxygen bonded to carbonyl C=O; methoxy oxygen in vanillin not bonded to carbonyl carbon. This does not resolve phenol/alcohol official-answer conflict.",
+    "2011-3-12:5": "Full source sentence specifies oxygen bonded to carbonyl C=O; methoxy oxygen in vanillin not bonded to carbonyl carbon. This does not resolve phenol/alcohol official-answer conflict."
+  },
+  "retrievalMethod": "web direct text",
+  "sourceHashScope": "Short reviewed excerpt only"
+}

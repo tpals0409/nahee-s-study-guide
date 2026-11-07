@@ -1,0 +1,20 @@
+{
+  "id": "9473864725f2e20c2cca",
+  "kind": "science",
+  "source": "OpenStax Biology 2e",
+  "ref": "32.2 Pollination and Fertilization",
+  "url": "https://openstax.org/books/biology-2e/pages/32-2-pollination-and-fertilization",
+  "excerpt": "the other sperm fuses with the two polar nuclei",
+  "sourceHash": "df7a7e256932a799d1c404c78c9ea031a6857688849a3b8deb1a862a00a0d291",
+  "cacheSourceId": "d4116ee6501fa966bd25",
+  "retrievedAt": "2026-11-07T03:22:24.899574+00:00",
+  "reviewedMappings": {
+    "2025-3-26:0": "일반적 중복수정의 정자1+극핵2→3n 배젖 설명 대조. 배젖 핵상을 모든 종의 절대규칙으로 서술하지 않음.",
+    "2025-3-26:2": "ㄴ의 극핵1은 일반적 두 극핵 수정과 불일치.",
+    "2025-3-26:3": "정자n+극핵n+n=3n, ㄴ 거짓.",
+    "2025-3-26:4": "두 극핵의 참여와 central cell 수정 그림 설명 확인; 사전융합 2n 핵과 반수체 극핵1 구별.",
+    "2025-3-26:5": "ㄴ 거짓으로 모두 선택 불가."
+  },
+  "retrievalMethod": "Direct web section reading: plant/animal cytokinesis; double fertilization and central cell; root pericycle and lateral roots.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

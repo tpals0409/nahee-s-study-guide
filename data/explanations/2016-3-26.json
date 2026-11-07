@@ -1,0 +1,97 @@
+{
+  "id": "2016-3-26",
+  "summary": "섬유아세포, 지방세포, 연골세포, 대식세포는 결합조직을 구성하는 세포에 포함된다. 상피세포는 상피조직을 이루는 세포이므로 결합조직 세포가 아닌 것은 ⑤이다.",
+  "choices": [
+    "오답이다. 섬유아세포는 고유결합조직의 대표적인 세포이다. 콜라겐 등 섬유와 바탕질 성분을 생산하여 세포외기질을 형성하므로 결합조직 구성 세포에 해당한다.",
+    "오답이다. 지방세포는 지방을 저장하는 세포이며 결합조직의 일종인 지방조직을 구성한다. 따라서 결합조직 구성 세포에 해당한다.",
+    "오답이다. 연골은 지지 기능을 하는 결합조직이다. 연골세포는 연골 기질 속 연골소강에 위치하는 세포이므로 결합조직 구성 세포에 해당한다.",
+    "오답이다. 대식세포는 결합조직에서 병원체와 세포 잔해 등을 포식하여 방어에 참여한다. 면역세포라는 기능적 분류와 결합조직 구성 세포라는 조직학적 분류는 양립한다.",
+    "정답이다. 상피세포는 몸의 표면이나 관의 안쪽 면을 덮는 상피조직 등을 구성한다. 세포들이 서로 밀접하게 배열되며, 기저막을 사이에 두고 아래의 결합조직과 구분된다."
+  ],
+  "lawNote": "이 문항은 정상 조직학에서의 구성 세포 분류를 묻는다. 서로 인접한 조직에 존재한다는 이유만으로 상피세포를 결합조직 세포로 분류하지 않는다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "4.3 Connective Tissue Supports and Protects",
+      "quote": "connective tissue cells are dispersed in a matrix.",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/4-3-connective-tissue-supports-and-protects",
+      "evidenceId": "9b44c82e89efd3192419",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "4.3 Connective Tissue Supports and Protects",
+      "quote": "connective tissue cells are dispersed in a matrix.",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/4-3-connective-tissue-supports-and-protects",
+      "evidenceId": "9b44c82e89efd3192419",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "4.3 Connective Tissue Supports and Protects",
+      "quote": "connective tissue cells are dispersed in a matrix.",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/4-3-connective-tissue-supports-and-protects",
+      "evidenceId": "9b44c82e89efd3192419",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "4.3 Connective Tissue Supports and Protects",
+      "quote": "connective tissue cells are dispersed in a matrix.",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/4-3-connective-tissue-supports-and-protects",
+      "evidenceId": "9b44c82e89efd3192419",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "4.3 Connective Tissue Supports and Protects",
+      "quote": "connective tissue cells are dispersed in a matrix.",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/4-3-connective-tissue-supports-and-protects",
+      "evidenceId": "9b44c82e89efd3192419",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "4.2 Epithelial Tissue",
+      "quote": "This tissue is highly cellular, with little or no extracellular material present between cells.",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/4-2-epithelial-tissue",
+      "evidenceId": "bdae23e29022813d7e83",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "4.2 Epithelial Tissue",
+      "quote": "This tissue is highly cellular, with little or no extracellular material present between cells.",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/4-2-epithelial-tissue",
+      "evidenceId": "bdae23e29022813d7e83",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "Original image checked; all five cell types compared with connective and epithelial tissue sections; unnecessary universal macrophage-origin claim removed.",
+    "contentHash": "675b377c305d9fb443652b2a3c5a1d04a54c080a66a0e6dac9648a7b1ec208b0"
+  }
+}

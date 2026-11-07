@@ -1,0 +1,41 @@
+{
+  "summary": "정답은 ② ㄱ, ㄴ입니다. (가)는 깊이가 다른 식이 반복되는 식쌍성의 광도 곡선이고, (나)는 며칠 간격으로 빠르게 밝아졌다가 서서히 어두워지는 세페이드형 변광성의 곡선입니다. 각각 별의 크기와 거리를 구하는 데 이용할 수 있습니다.",
+  "choices": [
+    "ㄱ은 옳지만 ㄴ도 옳으므로 부족한 조합입니다. 식쌍성의 식 진행 시간은 별의 크기를 구하는 데 쓰이고, 세페이드형 변광성의 주기는 거리 추정에 쓰입니다.",
+    "ㄱ과 ㄴ이 옳습니다. (가)의 식 접촉 시각을 분광 관측으로 얻는 상대 운동 속도와 궤도 모형에 결합하면 별의 크기를 추정할 수 있습니다. (나)는 주기–광도 관계로 본래 광도를 구한 뒤 겉보기 밝기와 비교하여 거리를 추정할 수 있습니다.",
+    "ㄷ이 틀렸습니다. (나)의 세페이드형 맥동은 주계열을 벗어나 진화한 별에서 나타나는 특징입니다. 이를 주계열성에서 잘 나타나는 밝기 변화라고 설명한 것은 맞지 않습니다.",
+    "ㄱ은 옳지만 ㄷ은 틀리고, 옳은 ㄴ이 빠져 있습니다. (나)의 세페이드형 변광은 주계열성의 일반적인 특징이 아니며, 주기–광도 관계를 이용한 거리 측정에 활용됩니다.",
+    "ㄴ은 옳지만 ㄱ도 옳습니다. (가)의 식쌍성 광도 곡선 역시 필요한 속도·궤도 정보와 함께 별의 크기 측정에 이용되므로 ㄴ만 고른 것은 부족합니다."
+  ],
+  "lawNote": "광도 곡선 하나만으로 별의 절대 크기가 바로 정해지는 것은 아닙니다. 식쌍성에서는 접촉 시각·속도·궤도 기하를 함께 고려합니다. 또한 여기서의 주계열 여부 설명은 (나)의 세페이드형 변광에 관한 것이며, 모든 맥동변광성에 일반화하지 않습니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Astronomy 2e 18.3 Diameters of Stars",
+      "quote": "The speed multiplied by the time interval from the first to second contact gives the diameter of the smaller star.",
+      "url": "https://openstax.org/books/astronomy-2e/pages/18-3-diameters-of-stars",
+      "evidenceId": "06ec14866626b7a76e2a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Astronomy 2e 19.3 Variable Stars: One Key to Cosmic Distances",
+      "quote": "The longer the period (the longer the star takes to vary), the greater the luminosity.",
+      "url": "https://openstax.org/books/astronomy-2e/pages/19-3-variable-stars-one-key-to-cosmic-distances",
+      "evidenceId": "0b2959b3db0b1c4b5404",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "원본2013-3-40.webp 시간축 시/일·등급축·두곡선·보기대조. OpenStax18.3/19.3본문확인. 정답②. 전체식시간×속도=별지름오류, 모든맥동변광성=후주계열일반화, 부정확한그래프극소시각·주기수치제거.",
+    "contentHash": "a7fca8237c7eb6e595de45599fd8e554db30d98156c8afef770c0e9e39696253"
+  }
+}

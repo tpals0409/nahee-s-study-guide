@@ -1,0 +1,195 @@
+{
+  "id": "2022-3-16",
+  "summary": "정답은 ③, ㄱ·ㄷ입니다. 제1 이온화 에너지 순서로 W=Na, X=C, Y=N, Z=F입니다. 원자 반지름은 Na>C이고, 2p 전자의 유효 핵전하는 N<F입니다. 제2 이온화 에너지는 Na>F입니다.",
+  "choices": [
+    "ㄱ은 옳지만 ㄷ도 옳으므로 불완전합니다. Na는 C보다 주기율표에서 왼쪽·아래쪽에 있어 원자 반지름이 큽니다. 제2 이온화 에너지도 Na가 F보다 큽니다.",
+    "ㄴ은 틀립니다. 같은 2주기에서 N에서 F로 갈수록 핵전하 증가를 가림 효과가 완전히 상쇄하지 못하므로 2p 전자의 유효 핵전하는 F가 더 큽니다.",
+    "ㄱ·ㄷ이 옳습니다. 원자 반지름은 Na>C입니다. Na⁺는 [Ne] 전자 배치여서 두 번째 이온화에서 안쪽 2p 전자를 제거합니다. NIST 값은 Na의 제2 이온화 에너지가 약 47.29 eV, F는 약 34.97 eV로 Na가 더 큽니다.",
+    "ㄷ은 옳지만 ㄴ은 틀리고 ㄱ이 빠져 있습니다. 제2 이온화 에너지는 Na>F이며, 2p 전자의 유효 핵전하는 N<F입니다.",
+    "ㄴ이 틀리므로 모두 고를 수 없습니다. 옳은 진술은 원자 반지름 Na>C인 ㄱ과 제2 이온화 에너지 Na>F인 ㄷ입니다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §6.5 Periodic Variations in Element Properties",
+      "quote": "The general trend is that radii increase down a group and decrease across a period.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/6-5-periodic-variations-in-element-properties",
+      "evidenceId": "dba70de7248e24782a33",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §6.5 Periodic Variations in Element Properties",
+      "quote": "The general trend is that radii increase down a group and decrease across a period.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/6-5-periodic-variations-in-element-properties",
+      "evidenceId": "dba70de7248e24782a33",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §6.5 Periodic Variations in Element Properties",
+      "quote": "The general trend is that radii increase down a group and decrease across a period.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/6-5-periodic-variations-in-element-properties",
+      "evidenceId": "dba70de7248e24782a33",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §6.5 Periodic Variations in Element Properties",
+      "quote": "The general trend is that radii increase down a group and decrease across a period.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/6-5-periodic-variations-in-element-properties",
+      "evidenceId": "dba70de7248e24782a33",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §6.5 Periodic Variations in Element Properties",
+      "quote": "The general trend is that radii increase down a group and decrease across a period.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/6-5-periodic-variations-in-element-properties",
+      "evidenceId": "dba70de7248e24782a33",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §6.5 Periodic Variations in Element Properties",
+      "quote": "The general trend is that radii increase down a group and decrease across a period.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/6-5-periodic-variations-in-element-properties",
+      "evidenceId": "dba70de7248e24782a33",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "NIST",
+      "ref": "Atomic Data for Sodium (Na)",
+      "quote": "47.2864 eV",
+      "url": "https://physics.nist.gov/PhysRefData/Handbook/Tables/sodiumtable1_a.htm",
+      "evidenceId": "5ae812e3091ffea947e4",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "NIST",
+      "ref": "Atomic Data for Sodium (Na)",
+      "quote": "47.2864 eV",
+      "url": "https://physics.nist.gov/PhysRefData/Handbook/Tables/sodiumtable1_a.htm",
+      "evidenceId": "5ae812e3091ffea947e4",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "NIST",
+      "ref": "Atomic Data for Sodium (Na)",
+      "quote": "47.2864 eV",
+      "url": "https://physics.nist.gov/PhysRefData/Handbook/Tables/sodiumtable1_a.htm",
+      "evidenceId": "5ae812e3091ffea947e4",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "NIST",
+      "ref": "Atomic Data for Sodium (Na)",
+      "quote": "47.2864 eV",
+      "url": "https://physics.nist.gov/PhysRefData/Handbook/Tables/sodiumtable1_a.htm",
+      "evidenceId": "5ae812e3091ffea947e4",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "NIST",
+      "ref": "Atomic Data for Sodium (Na)",
+      "quote": "47.2864 eV",
+      "url": "https://physics.nist.gov/PhysRefData/Handbook/Tables/sodiumtable1_a.htm",
+      "evidenceId": "5ae812e3091ffea947e4",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "NIST",
+      "ref": "Atomic Data for Fluorine (F)",
+      "quote": "34.9708 eV",
+      "url": "https://physics.nist.gov/PhysRefData/Handbook/Tables/fluorinetable1_a.htm",
+      "evidenceId": "8af01bba28f772743a60",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "NIST",
+      "ref": "Atomic Data for Fluorine (F)",
+      "quote": "34.9708 eV",
+      "url": "https://physics.nist.gov/PhysRefData/Handbook/Tables/fluorinetable1_a.htm",
+      "evidenceId": "8af01bba28f772743a60",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "NIST",
+      "ref": "Atomic Data for Fluorine (F)",
+      "quote": "34.9708 eV",
+      "url": "https://physics.nist.gov/PhysRefData/Handbook/Tables/fluorinetable1_a.htm",
+      "evidenceId": "8af01bba28f772743a60",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "NIST",
+      "ref": "Atomic Data for Fluorine (F)",
+      "quote": "34.9708 eV",
+      "url": "https://physics.nist.gov/PhysRefData/Handbook/Tables/fluorinetable1_a.htm",
+      "evidenceId": "8af01bba28f772743a60",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "NIST",
+      "ref": "Atomic Data for Fluorine (F)",
+      "quote": "34.9708 eV",
+      "url": "https://physics.nist.gov/PhysRefData/Handbook/Tables/fluorinetable1_a.htm",
+      "evidenceId": "8af01bba28f772743a60",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Original graph and statements inspected; periodic trends reviewed directly; second-ionization values and ionic configurations checked against NIST indexed primary-source excerpts",
+    "contentHash": "adbcafd2cec18737ccd894bb2c3137e49db9b57c694c866818fd505ecfa12dd0"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "c8dc598301fdb864c91e",
+  "kind": "science",
+  "source": "Chris P. Schaller, College of Saint Benedict / Saint John’s University",
+  "ref": "Structure & Reactivity: NMR18 Solutions to Selected Problems, NMR16.5, 16.6 and 16.10",
+  "url": "https://employees.csbsju.edu/cschaller/Principles%20Chem/structure%20determination/NMRsolutions.htm",
+  "excerpt": "The other two hydrogens each have one neighbour on either side, so their peaks appear as triplets.",
+  "sourceHash": "4c6c4419fe35bb1f32464c2155cd416b3b01b1260fce00a232f302b4adb1bac7",
+  "cacheSourceId": "c342ca34a3c8306abab1",
+  "retrievedAt": "2026-11-06T21:13:46.112221+00:00",
+  "reviewedMappings": {
+    "2017-3-20:0": "NMR16.10의 1,2-이치환 벤젠 근접 이웃 1/2개에 따른 겉보기 이중/삼중선 모형과 NMR16.5(c),16.6(e)의 NO2 ortho/para 탈차폐를 문제 원본에 적용: HA/HD는 ㄱ/ㄷ, HB/HC는 ㄹ/ㄴ; NO2 ortho HA와 para HC가 각 묶음에서 큰δ. 작은 장거리 결합까지 엄밀한 다중도를 확정하지 않음.",
+    "2017-3-20:1": "NMR16.10의 1,2-이치환 벤젠 근접 이웃 1/2개에 따른 겉보기 이중/삼중선 모형과 NMR16.5(c),16.6(e)의 NO2 ortho/para 탈차폐를 문제 원본에 적용: HA/HD는 ㄱ/ㄷ, HB/HC는 ㄹ/ㄴ; NO2 ortho HA와 para HC가 각 묶음에서 큰δ. 작은 장거리 결합까지 엄밀한 다중도를 확정하지 않음.",
+    "2017-3-20:2": "NMR16.10의 1,2-이치환 벤젠 근접 이웃 1/2개에 따른 겉보기 이중/삼중선 모형과 NMR16.5(c),16.6(e)의 NO2 ortho/para 탈차폐를 문제 원본에 적용: HA/HD는 ㄱ/ㄷ, HB/HC는 ㄹ/ㄴ; NO2 ortho HA와 para HC가 각 묶음에서 큰δ. 작은 장거리 결합까지 엄밀한 다중도를 확정하지 않음.",
+    "2017-3-20:3": "NMR16.10의 1,2-이치환 벤젠 근접 이웃 1/2개에 따른 겉보기 이중/삼중선 모형과 NMR16.5(c),16.6(e)의 NO2 ortho/para 탈차폐를 문제 원본에 적용: HA/HD는 ㄱ/ㄷ, HB/HC는 ㄹ/ㄴ; NO2 ortho HA와 para HC가 각 묶음에서 큰δ. 작은 장거리 결합까지 엄밀한 다중도를 확정하지 않음.",
+    "2017-3-20:4": "NMR16.10의 1,2-이치환 벤젠 근접 이웃 1/2개에 따른 겉보기 이중/삼중선 모형과 NMR16.5(c),16.6(e)의 NO2 ortho/para 탈차폐를 문제 원본에 적용: HA/HD는 ㄱ/ㄷ, HB/HC는 ㄹ/ㄴ; NO2 ortho HA와 para HC가 각 묶음에서 큰δ. 작은 장거리 결합까지 엄밀한 다중도를 확정하지 않음.",
+    "2017-3-20:5": "NMR16.10의 1,2-이치환 벤젠 근접 이웃 1/2개에 따른 겉보기 이중/삼중선 모형과 NMR16.5(c),16.6(e)의 NO2 ortho/para 탈차폐를 문제 원본에 적용: HA/HD는 ㄱ/ㄷ, HB/HC는 ㄹ/ㄴ; NO2 ortho HA와 para HC가 각 묶음에서 큰δ. 작은 장거리 결합까지 엄밀한 다중도를 확정하지 않음."
+  },
+  "retrievalMethod": "Direct browser review of NMR16.5, NMR16.6 and NMR16.10 text",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

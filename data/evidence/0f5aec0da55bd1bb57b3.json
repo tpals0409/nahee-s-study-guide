@@ -1,0 +1,21 @@
+{
+  "id": "0f5aec0da55bd1bb57b3",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "18.1 Names and Properties of Ethers",
+  "url": "https://openstax.org/books/organic-chemistry/pages/18-1-names-and-properties-of-ethers",
+  "excerpt": "Simple ethers with no other functional groups are named by identifying the two organic substituents and adding the word ether.",
+  "sourceHash": "adfc0720cc598bc793f0b0d74730d975bd12652f8dd5caabd6f0432339b5b6d8",
+  "cacheSourceId": "947c1e5df2a66d6a6ea2",
+  "retrievedAt": "2026-11-06T22:28:43.586105+00:00",
+  "reviewedMappings": {
+    "2019-3-12:0": "Ether linkage and alkyl-group structures support exhaustive partition count: methyl+butyl gives four, ethyl+propyl gives two, total six.",
+    "2019-3-12:1": "Option value 3 compared with independently enumerated total 4+2=6; incorrect.",
+    "2019-3-12:2": "Option value 4 compared with independently enumerated total 4+2=6; incorrect.",
+    "2019-3-12:3": "Option value 5 compared with independently enumerated total 4+2=6; incorrect.",
+    "2019-3-12:4": "Option value 6 compared with independently enumerated total 4+2=6; correct.",
+    "2019-3-12:5": "Option value 7 compared with independently enumerated total 4+2=6; incorrect."
+  },
+  "retrievalMethod": "Direct web open lines 25–32 and examples: two organic groups linked by oxygen, R-O-R connectivity. Independently enumerated unordered carbon partitions 1+4 and 2+3; four plus two distinct connectivities. Formula has zero unsaturation.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

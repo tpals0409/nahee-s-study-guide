@@ -1,0 +1,19 @@
+{
+  "id": "37c4e9d456ae187b8a54",
+  "kind": "science",
+  "source": "Sinauer Associates / NCBI Bookshelf",
+  "ref": "Developmental Biology, 6th ed., An Introduction to Early Developmental Processes",
+  "url": "https://www.ncbi.nlm.nih.gov/books/NBK9992/",
+  "excerpt": "has only two states, S and M.",
+  "sourceHash": "52466f327fdb932798a7d64d649b89d8c5ccab45c5290829c3dbebddee22ee51",
+  "cacheSourceId": "3247e149d0c32670f21d",
+  "retrievedAt": "2026-11-07T01:56:20.232995+00:00",
+  "reviewedMappings": {
+    "2023-3-25:0": "초기 양서류 할구의 이분성 세포주기 설명에서 S·M 두 상태를 확인. 초기 난할의 전형적 특징으로 ㄴ 참. 모든 동물의 모든 난할 시기에서 예외 없이 G기가 없다고 일반화하지 않음.",
+    "2023-3-25:2": "초기 양서류 할구의 이분성 세포주기 설명에서 S·M 두 상태를 확인. 초기 난할의 전형적 특징으로 ㄴ 참. 모든 동물의 모든 난할 시기에서 예외 없이 G기가 없다고 일반화하지 않음.",
+    "2023-3-25:4": "초기 양서류 할구의 이분성 세포주기 설명에서 S·M 두 상태를 확인. 초기 난할의 전형적 특징으로 ㄴ 참. 모든 동물의 모든 난할 시기에서 예외 없이 G기가 없다고 일반화하지 않음.",
+    "2023-3-25:5": "초기 양서류 할구의 이분성 세포주기 설명에서 S·M 두 상태를 확인. 초기 난할의 전형적 특징으로 ㄴ 참. 모든 동물의 모든 난할 시기에서 예외 없이 G기가 없다고 일반화하지 않음."
+  },
+  "retrievalMethod": "NCBI Bookshelf의 교재 검색 색인 발췌 검토. 직접 열기는 브라우저 확인 화면으로 제한됨. 초기 양서류 할구의 이분성 세포주기 설명에서 S·M 두 상태를 확인. 초기 난할의 전형적 특징으로 ㄴ 참. 모든 동물의 모든 난할 시기에서 예외 없이 G기가 없다고 일반화하지 않음.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

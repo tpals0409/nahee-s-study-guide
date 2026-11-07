@@ -1,0 +1,17 @@
+{
+  "id": "1a3fa45b8ca0d5eb4955",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 2e, 7.3 Lewis Symbols and Structures",
+  "url": "https://openstax.org/books/chemistry-2e/pages/7-3-lewis-symbols-and-structures",
+  "excerpt": "A single shared pair of electrons is called a single bond.",
+  "sourceHash": "f6ecdcb67e2479572b2a0dbd37e3dc1e0097b431dbae1be2ad1b8bb48c0ef614",
+  "cacheSourceId": "3511a9f8dd37f63ecefe",
+  "retrievedAt": "2026-11-07T00:56:29.559996+00:00",
+  "reviewedMappings": {
+    "2022-3-15:1": "Direct review lines 53–71: bonding and lone pairs, double bonds and formaldehyde Lewis structure. Independent electron totals NH3=8, CS2=16, CH2O=12, SiH4=8 yield shared/lone pairs (3,1),(4,4),(4,2),(4,0). 옳습니다. NH₃의 공유·비공유 전자쌍은 각각 3개와 1개입니다. S=C=S의 공유 전자쌍은 4개, 두 S의 비공유 전자쌍은 총 4개입니다. 따라서 비율은 3과 1로, (가)가 (나)의 3배입니다.",
+    "2022-3-15:4": "Direct review lines 53–71: bonding and lone pairs, double bonds and formaldehyde Lewis structure. Independent electron totals NH3=8, CS2=16, CH2O=12, SiH4=8 yield shared/lone pairs (3,1),(4,4),(4,2),(4,0). 옳습니다. CS₂에는 C=S 이중결합 두 개, CH₂O에는 C=O 이중결합 한 개가 있습니다. NH₃와 SiH₄에는 단일결합만 있습니다."
+  },
+  "retrievalMethod": "Direct review lines 53–71: bonding and lone pairs, double bonds and formaldehyde Lewis structure. Independent electron totals NH3=8, CS2=16, CH2O=12, SiH4=8 yield shared/lone pairs (3,1),(4,4),(4,2),(4,0).",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

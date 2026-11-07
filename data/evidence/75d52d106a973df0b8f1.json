@@ -1,0 +1,19 @@
+{
+  "id": "75d52d106a973df0b8f1",
+  "kind": "science",
+  "source": "US National Park Service",
+  "ref": "Igneous Rocks",
+  "url": "https://www.nps.gov/subjects/geology/igneous.htm",
+  "excerpt": "large crystal sizes visible to the naked eye because they cool slowly",
+  "sourceHash": "3872b7a204699ae3beba301101c6a2d7b3b3db57026fb4535df431af5566a073",
+  "cacheSourceId": "329278c4f621a46e2da6",
+  "retrievedAt": "2026-11-07T02:47:37.606564+00:00",
+  "reviewedMappings": {
+    "2024-3-33:0": "Slow cooling gives coarse crystals, rapid cooling fine/glassy groundmass; composition/mineral proportions are another classification axis. No absolute claim that cooling cannot affect mineral assemblage or colour.",
+    "2024-3-33:1": "Slow cooling gives coarse crystals, rapid cooling fine/glassy groundmass; composition/mineral proportions are another classification axis. No absolute claim that cooling cannot affect mineral assemblage or colour.",
+    "2024-3-33:2": "Slow cooling gives coarse crystals, rapid cooling fine/glassy groundmass; composition/mineral proportions are another classification axis. No absolute claim that cooling cannot affect mineral assemblage or colour.",
+    "2024-3-33:3": "Slow cooling gives coarse crystals, rapid cooling fine/glassy groundmass; composition/mineral proportions are another classification axis. No absolute claim that cooling cannot affect mineral assemblage or colour."
+  },
+  "retrievalMethod": "Direct intrusive/extrusive, classification and composition/mineral sections reviewed.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "e7eec1e9218c8a2d5ab5",
+  "kind": "science",
+  "source": "Institute of Physics",
+  "ref": "The speed of water waves",
+  "url": "https://spark.iop.org/speed-water-waves",
+  "excerpt": "For long waves, in deep water, the first term predominates",
+  "sourceHash": "cc35e29a06f63ef6da86a1b3666bd47fd908d0bdf3911cbc631dea2e07e15fa8",
+  "cacheSourceId": "78989ae2e80e18c70515",
+  "retrievedAt": "2026-11-06T22:57:15.097493+00:00",
+  "reviewedMappings": {
+    "2019-3-39:0": "B·C의 중력파에서 표면장력을 무시하면 c²=gL/(2π)이므로 c가 √L에 비례하여 ㄴ은 참이다.",
+    "2019-3-39:1": "B·C의 중력파에서 표면장력을 무시하면 c²=gL/(2π)이므로 c가 √L에 비례하여 ㄴ은 참이다.",
+    "2019-3-39:3": "B·C의 중력파에서 표면장력을 무시하면 c²=gL/(2π)이므로 c가 √L에 비례하여 ㄴ은 참이다.",
+    "2019-3-39:4": "B·C의 중력파에서 표면장력을 무시하면 c²=gL/(2π)이므로 c가 √L에 비례하여 ㄴ은 참이다.",
+    "2019-3-39:5": "B·C의 중력파에서 표면장력을 무시하면 c²=gL/(2π)이므로 c가 √L에 비례하여 ㄴ은 참이다."
+  },
+  "retrievalMethod": "Direct open: lines 59–74 gravity/capillary dispersion and deep-water gravity-dominated approximation. Applied c²=gL/(2π) to B and C only; not to capillary ripples in A.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "6ed9855c4f75013c7996",
+  "kind": "science",
+  "source": "Australian Museum",
+  "ref": "Looking inside the Earth",
+  "url": "https://australian.museum/learn/minerals/shaping-earth/looking-inside-the-earth/",
+  "excerpt": "The mantle is thought to be primarily composed of ultrabasic rocks",
+  "sourceHash": "edab3a2349f8a193f63e76f9f5d715f2a4757f9c934b59fbae860b5cc447dcfe",
+  "cacheSourceId": "9ea14b25ed939571c961",
+  "retrievedAt": "2026-11-06T19:55:34.615104+00:00",
+  "reviewedMappings": {
+    "2015-3-34:0": "박물관 본문 90–100행은 맨틀의 초염기성 조성과 상부맨틀의 감람암을 설명한다. ②의 조성 구분을 지지한다. 맨틀 전체가 지표 감람암과 동일한 광물상을 유지한다는 뜻으로 확대하지 않는다.",
+    "2015-3-34:2": "박물관 본문 90–100행은 맨틀의 초염기성 조성과 상부맨틀의 감람암을 설명한다. ②의 조성 구분을 지지한다. 맨틀 전체가 지표 감람암과 동일한 광물상을 유지한다는 뜻으로 확대하지 않는다."
+  },
+  "retrievalMethod": "Direct web open; mantle section reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

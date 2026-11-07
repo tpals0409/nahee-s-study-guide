@@ -1,0 +1,21 @@
+{
+  "id": "0a5458829d01a502a6fa",
+  "kind": "science",
+  "source": "National Weather Service",
+  "ref": "What Causes the Seasons?",
+  "url": "https://www.weather.gov/fsd/season",
+  "excerpt": "the Sun is positioned directly over the Tropic of Cancer at 23.5 degrees north latitude.",
+  "sourceHash": "fe39c094e887c085a91818851dc00bc36fd16291fdca7169c0f1ab2bf3dd7120",
+  "cacheSourceId": "3c842d69b51d4703fc68",
+  "retrievedAt": "2026-11-06T21:37:01.668576+00:00",
+  "reviewedMappings": {
+    "2017-3-39:0": "하지 태양 직하점23.5°N 및 춘분 적도 직하 설명을 적위로 해석. 원본의 춘추분 경로와 대조.",
+    "2017-3-39:1": "춘분 태양 적위0°를 남중고도식에 적용.",
+    "2017-3-39:2": "하지 적위+23.5°이므로 ㄴ도 참이며 누락.",
+    "2017-3-39:3": "ㄴ은 참이지만 ㄱ은 거짓.",
+    "2017-3-39:4": "하지 적위+23.5°로 ㄴ 참.",
+    "2017-3-39:5": "ㄴ은 참이나 ㄱ은 거짓이므로 전부 참 아님."
+  },
+  "retrievalMethod": "Direct source page reviewed: solstice and equinox paragraphs",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

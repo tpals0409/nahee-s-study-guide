@@ -1,0 +1,206 @@
+{
+  "id": "2018-3-12",
+  "summary": "NO₂⁺, NO₂, NO₂⁻의 원자가 전자는 각각 16, 17, 18개입니다. NO₂⁺는 질소 주위 전자 영역이 2개인 직선형으로 sp 혼성입니다. 결합각은 NO₂⁺ 180°, NO₂ 약 134°, NO₂⁻ 약 115° 순입니다. NO₂는 홀전자를 가지므로 상자기성이며, 모두 반자기성이라는 ㄷ은 틀립니다. 따라서 ㄱ, ㄴ을 고른 3번이 정답입니다.",
+  "choices": [
+    "'ㄱ'만 고른 선지는 오답입니다. ㄱ은 옳지만, 결합각 순서 NO₂⁺(180°) > NO₂(약 134°) > NO₂⁻(약 115°)를 말한 ㄴ도 옳으므로 ㄴ이 빠져 불완전합니다.",
+    "'ㄷ'만 고른 선지는 오답입니다. NO₂는 원자가 전자 수가 홀수(17개)여서 홀전자를 가진 상자기성 분자입니다. 따라서 '세 화학종이 모두 반자기성'이라는 ㄷ은 틀립니다. 또한 옳은 ㄱ과 ㄴ이 빠져 있습니다.",
+    "정답입니다. NO₂⁺의 루이스 구조 O=N⁺=O에서 질소 주위 전자 영역은 2개이므로 sp 혼성·직선형입니다. NO₂와 NO₂⁻는 굽은형이며 결합각은 각각 약 134°, 115°입니다. 따라서 ㄱ과 ㄴ은 옳고, NO₂의 홀전자 때문에 ㄷ은 틀립니다.",
+    "'ㄴ, ㄷ'을 고른 선지는 오답입니다. ㄴ은 옳지만 ㄷ은 NO₂의 홀전자 때문에 틀립니다. 또한 옳은 ㄱ(NO₂⁺의 sp 혼성)이 빠져 있습니다.",
+    "'ㄱ, ㄴ, ㄷ'은 오답입니다. ㄱ과 ㄴ은 옳지만 NO₂가 홀전자를 가진 상자기성 분자이므로 ㄷ을 포함하면 틀립니다."
+  ],
+  "lawNote": "혼성화는 결합을 설명하는 모형이며, 이중결합도 전자 영역 하나로 셉니다. 결합각은 근삿값입니다. 전자 수가 짝수라는 사실만으로 모든 분자의 반자기성을 단정할 수는 없습니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "Beloit College",
+      "ref": "VSEPR with lone pairs and pi bonds",
+      "quote": "Angular or bent",
+      "url": "https://chem.beloit.edu/classes/structure/VSEPR_lps.html",
+      "evidenceId": "56a65621cfab16a6aa88",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "Beloit College",
+      "ref": "VSEPR with lone pairs and pi bonds",
+      "quote": "Angular or bent",
+      "url": "https://chem.beloit.edu/classes/structure/VSEPR_lps.html",
+      "evidenceId": "56a65621cfab16a6aa88",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "Beloit College",
+      "ref": "VSEPR with lone pairs and pi bonds",
+      "quote": "Angular or bent",
+      "url": "https://chem.beloit.edu/classes/structure/VSEPR_lps.html",
+      "evidenceId": "56a65621cfab16a6aa88",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "Beloit College",
+      "ref": "VSEPR with lone pairs and pi bonds",
+      "quote": "Angular or bent",
+      "url": "https://chem.beloit.edu/classes/structure/VSEPR_lps.html",
+      "evidenceId": "56a65621cfab16a6aa88",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "Beloit College",
+      "ref": "VSEPR with lone pairs and pi bonds",
+      "quote": "Angular or bent",
+      "url": "https://chem.beloit.edu/classes/structure/VSEPR_lps.html",
+      "evidenceId": "56a65621cfab16a6aa88",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "Beloit College",
+      "ref": "VSEPR with lone pairs and pi bonds",
+      "quote": "Angular or bent",
+      "url": "https://chem.beloit.edu/classes/structure/VSEPR_lps.html",
+      "evidenceId": "56a65621cfab16a6aa88",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §8.2 — sp Hybridization",
+      "quote": "The set of two sp orbitals are oriented at 180°, which is consistent with the geometry for two domains.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/8-2-hybrid-atomic-orbitals",
+      "evidenceId": "7e44e97b6252e7f2ea64",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §8.2 — sp Hybridization",
+      "quote": "The set of two sp orbitals are oriented at 180°, which is consistent with the geometry for two domains.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/8-2-hybrid-atomic-orbitals",
+      "evidenceId": "7e44e97b6252e7f2ea64",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §8.2 — sp Hybridization",
+      "quote": "The set of two sp orbitals are oriented at 180°, which is consistent with the geometry for two domains.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/8-2-hybrid-atomic-orbitals",
+      "evidenceId": "7e44e97b6252e7f2ea64",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §8.2 — sp Hybridization",
+      "quote": "The set of two sp orbitals are oriented at 180°, which is consistent with the geometry for two domains.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/8-2-hybrid-atomic-orbitals",
+      "evidenceId": "7e44e97b6252e7f2ea64",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §8.2 — sp Hybridization",
+      "quote": "The set of two sp orbitals are oriented at 180°, which is consistent with the geometry for two domains.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/8-2-hybrid-atomic-orbitals",
+      "evidenceId": "7e44e97b6252e7f2ea64",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §8.2 — sp Hybridization",
+      "quote": "The set of two sp orbitals are oriented at 180°, which is consistent with the geometry for two domains.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/8-2-hybrid-atomic-orbitals",
+      "evidenceId": "7e44e97b6252e7f2ea64",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §8.4 — Magnetic properties",
+      "quote": "Such attraction to a magnetic field is called paramagnetism, and it arises in molecules that have unpaired electrons.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/8-4-molecular-orbital-theory",
+      "evidenceId": "feed409008568c67505b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §8.4 — Magnetic properties",
+      "quote": "Such attraction to a magnetic field is called paramagnetism, and it arises in molecules that have unpaired electrons.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/8-4-molecular-orbital-theory",
+      "evidenceId": "feed409008568c67505b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §8.4 — Magnetic properties",
+      "quote": "Such attraction to a magnetic field is called paramagnetism, and it arises in molecules that have unpaired electrons.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/8-4-molecular-orbital-theory",
+      "evidenceId": "feed409008568c67505b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §8.4 — Magnetic properties",
+      "quote": "Such attraction to a magnetic field is called paramagnetism, and it arises in molecules that have unpaired electrons.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/8-4-molecular-orbital-theory",
+      "evidenceId": "feed409008568c67505b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §8.4 — Magnetic properties",
+      "quote": "Such attraction to a magnetic field is called paramagnetism, and it arises in molecules that have unpaired electrons.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/8-4-molecular-orbital-theory",
+      "evidenceId": "feed409008568c67505b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Independent Lewis electron count and choice review; directly checked primary educational sources for angles, hybridization and magnetism",
+    "contentHash": "15cc1751fe22655bc6d2d9b394f915d796521d6694571c468083f403c02b537e"
+  }
+}

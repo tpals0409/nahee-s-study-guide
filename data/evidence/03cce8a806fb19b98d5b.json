@@ -1,0 +1,21 @@
+{
+  "id": "03cce8a806fb19b98d5b",
+  "kind": "science",
+  "source": "Steven Earle / BCcampus",
+  "ref": "Physical Geology 2e §6.4",
+  "url": "https://opentextbc.ca/physicalgeology2ed/chapter/6-4-sedimentary-structures-and-fossils/",
+  "excerpt": "“Normal” graded beds are coarse at the bottom and become finer toward the top.",
+  "sourceHash": "e82cd2b431e4b79475a4541f57b5c82de1b29ecffe450641a7989675d58a6104",
+  "cacheSourceId": "a8b07d54fd1e698d09eb",
+  "retrievedAt": "2026-11-07T05:30:24.954245+00:00",
+  "reviewedMappings": {
+    "2025-3-32:0": "직접 읽은 본문348–360에서 사층리, 정상 점이층리, 건열을 대조. ㄱ은 정상 점이층리이며 ㄴ은 점토 건조 수축에 따른 건열이다. 연흔을 얕은 곳에서만 생성되는 구조로 한정하지 않는다.",
+    "2025-3-32:1": "직접 읽은 본문348–360에서 사층리, 정상 점이층리, 건열을 대조. ㄱ은 정상 점이층리이며 ㄴ은 점토 건조 수축에 따른 건열이다. 연흔을 얕은 곳에서만 생성되는 구조로 한정하지 않는다.",
+    "2025-3-32:2": "직접 읽은 본문348–360에서 사층리, 정상 점이층리, 건열을 대조. ㄱ은 정상 점이층리이며 ㄴ은 점토 건조 수축에 따른 건열이다. 연흔을 얕은 곳에서만 생성되는 구조로 한정하지 않는다.",
+    "2025-3-32:4": "직접 읽은 본문348–360에서 사층리, 정상 점이층리, 건열을 대조. ㄱ은 정상 점이층리이며 ㄴ은 점토 건조 수축에 따른 건열이다. 연흔을 얕은 곳에서만 생성되는 구조로 한정하지 않는다.",
+    "2025-3-32:5": "직접 읽은 본문348–360에서 사층리, 정상 점이층리, 건열을 대조. ㄱ은 정상 점이층리이며 ㄴ은 점토 건조 수축에 따른 건열이다. 연흔을 얕은 곳에서만 생성되는 구조로 한정하지 않는다.",
+    "2025-3-32:3": "직접 읽은 본문353–354의 정상 점이층리 정의는 ㄱ의 위쪽 세립화를 뒷받침한다. ㄷ은 별도 저탁암 원저로 평가하며 교재의 대표 환경을 배타적 생성 조건으로 읽지 않는다."
+  },
+  "retrievalMethod": "Direct web open of relevant sections",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

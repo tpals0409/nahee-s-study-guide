@@ -1,0 +1,18 @@
+{
+  "id": "034bf0b2d70af39ddd7e",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Anatomy and Physiology 22.3 The Process of Breathing",
+  "url": "https://openstax.org/books/anatomy-and-physiology/pages/22-3-the-process-of-breathing",
+  "excerpt": "stimulating the diaphragm and intercostal muscles to contract, resulting in inspiration.",
+  "sourceHash": "d7a813081639f099e433395a64e00d6bdd468014db9a86bfc3e9fd125b64844b",
+  "cacheSourceId": "eaad50f8c224f8df1076",
+  "retrievedAt": "2026-11-06T16:58:15.016053+00:00",
+  "reviewedMappings": {
+    "2011-3-22:1": "ㄱ은 흡기 횡격막 수축에 반하므로 틀림.",
+    "2011-3-22:4": "ㄱ 포함으로 오답.",
+    "2011-3-22:0": "공통 해설 근거: ㄱ은 흡기 횡격막 수축에 반하므로 틀림. ㄱ 포함으로 오답."
+  },
+  "retrievalMethod": "web.search 반환 본문 직접 대조; 전체 페이지 취득 아님",
+  "sourceHashScope": "Selected excerpt only; not full page"
+}

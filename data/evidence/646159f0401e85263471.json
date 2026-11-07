@@ -1,0 +1,21 @@
+{
+  "id": "646159f0401e85263471",
+  "kind": "science",
+  "source": "William H. Reusch / ACS Division of Organic Chemistry",
+  "ref": "Allene Chemistry",
+  "url": "https://organicchemistrydata.org/reusch/virtualtext/allene-chemistry/",
+  "excerpt": "The central carbon in such compounds is sp-hybridized",
+  "sourceHash": "6c05149b54786d61010a686ea6a4ea78d66d270525d0ab93fa74b482e88cf214",
+  "cacheSourceId": "89ab8b6a73ce0c864757",
+  "retrievedAt": "2026-11-06T17:14:27.927959+00:00",
+  "reviewedMappings": {
+    "2012-3-15:0": "ㄷ: 본문220–223 allene CH2=C=CH2 중심sp 및 말단sp² 대조. C3H4의 다른 후보 cyclopropene sp²2, propyne sp²0. (나)는2종.",
+    "2012-3-15:1": "ㄷ: 본문220–223 allene CH2=C=CH2 중심sp 및 말단sp² 대조. C3H4의 다른 후보 cyclopropene sp²2, propyne sp²0. (나)는2종.",
+    "2012-3-15:2": "ㄷ: 본문220–223 allene CH2=C=CH2 중심sp 및 말단sp² 대조. C3H4의 다른 후보 cyclopropene sp²2, propyne sp²0. (나)는2종.",
+    "2012-3-15:3": "ㄷ: 본문220–223 allene CH2=C=CH2 중심sp 및 말단sp² 대조. C3H4의 다른 후보 cyclopropene sp²2, propyne sp²0. (나)는2종.",
+    "2012-3-15:4": "ㄷ: 본문220–223 allene CH2=C=CH2 중심sp 및 말단sp² 대조. C3H4의 다른 후보 cyclopropene sp²2, propyne sp²0. (나)는2종.",
+    "2012-3-15:5": "ㄷ: 본문220–223 allene CH2=C=CH2 중심sp 및 말단sp² 대조. C3H4의 다른 후보 cyclopropene sp²2, propyne sp²0. (나)는2종."
+  },
+  "retrievalMethod": "web.open reviewed; selected excerpt retained",
+  "sourceHashScope": "Selected excerpt only; not full page"
+}

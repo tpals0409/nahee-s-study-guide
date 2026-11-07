@@ -1,0 +1,21 @@
+{
+  "id": "3119593f62b06a09be71",
+  "kind": "science",
+  "source": "Idaho State University",
+  "ref": "Loop the Loop — Brief Description",
+  "url": "https://www.isu.edu/physics/outreach/physics-class-demos/mechanics/loop-the-loop/",
+  "excerpt": "To find the minimum speed required to stay in contact with the track, we set the normal force to zero",
+  "sourceHash": "e83f739db9ed0af3b75a926bba99dab2ac361121ce2abde9bb2ce692df49ae0b",
+  "cacheSourceId": "c3d42a0df5135f48f4c9",
+  "retrievedAt": "2026-11-06T17:08:06.586649+00:00",
+  "reviewedMappings": {
+    "2012-3-09:0": "궤도 접촉의 임계 조건 N=0과 원문에 설명된 구심력·에너지 보존을 적용. 꼭대기 v²≥gr 및 바닥 v²≥5gr 직접 유도. 오답 네 선지는 에너지로 허용되는 높이가 2r보다 작음을 별도 검산.",
+    "2012-3-09:1": "궤도 접촉의 임계 조건 N=0과 원문에 설명된 구심력·에너지 보존을 적용. 꼭대기 v²≥gr 및 바닥 v²≥5gr 직접 유도. 오답 네 선지는 에너지로 허용되는 높이가 2r보다 작음을 별도 검산.",
+    "2012-3-09:2": "궤도 접촉의 임계 조건 N=0과 원문에 설명된 구심력·에너지 보존을 적용. 꼭대기 v²≥gr 및 바닥 v²≥5gr 직접 유도. 오답 네 선지는 에너지로 허용되는 높이가 2r보다 작음을 별도 검산.",
+    "2012-3-09:3": "궤도 접촉의 임계 조건 N=0과 원문에 설명된 구심력·에너지 보존을 적용. 꼭대기 v²≥gr 및 바닥 v²≥5gr 직접 유도. 오답 네 선지는 에너지로 허용되는 높이가 2r보다 작음을 별도 검산.",
+    "2012-3-09:4": "궤도 접촉의 임계 조건 N=0과 원문에 설명된 구심력·에너지 보존을 적용. 꼭대기 v²≥gr 및 바닥 v²≥5gr 직접 유도. 오답 네 선지는 에너지로 허용되는 높이가 2r보다 작음을 별도 검산.",
+    "2012-3-09:5": "궤도 접촉의 임계 조건 N=0과 원문에 설명된 구심력·에너지 보존을 적용. 꼭대기 v²≥gr 및 바닥 v²≥5gr 직접 유도. 오답 네 선지는 에너지로 허용되는 높이가 2r보다 작음을 별도 검산."
+  },
+  "retrievalMethod": "web.open: Brief Description lines 60–61 reviewed; selected excerpt retained",
+  "sourceHashScope": "Selected excerpt only; not full page"
+}

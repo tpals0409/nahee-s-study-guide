@@ -1,0 +1,19 @@
+{
+  "id": "f39341118079e55958a8",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Microbiology, 3.3 Unique Characteristics of Prokaryotic Cells",
+  "url": "https://openstax.org/books/microbiology/pages/3-3-unique-characteristics-of-prokaryotic-cells",
+  "excerpt": "that exhibits selective permeability",
+  "sourceHash": "9677365dd3115dae8eac68ec91b27ed7c8b4d8b0a801fe13f5b369997378f12d",
+  "cacheSourceId": "5eced24e465a4783e761",
+  "retrievedAt": "2026-11-07T01:10:43.539685+00:00",
+  "reviewedMappings": {
+    "2022-3-26:0": "Plasma membrane selective permeability; peptidoglycan supports shape and osmotic integrity. Bacterial wall composition supports comparison with fungal chitin.",
+    "2022-3-26:3": "Plasma membrane selective permeability; peptidoglycan supports shape and osmotic integrity. Bacterial wall composition supports comparison with fungal chitin.",
+    "2022-3-26:4": "Plasma membrane selective permeability; peptidoglycan supports shape and osmotic integrity. Bacterial wall composition supports comparison with fungal chitin.",
+    "2022-3-26:5": "Plasma membrane selective permeability; peptidoglycan supports shape and osmotic integrity. Bacterial wall composition supports comparison with fungal chitin."
+  },
+  "retrievalMethod": "Direct web read: cell envelope, peptidoglycan and osmotic protection sections",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,85 @@
+{
+  "id": "2025-3-09",
+  "summary": "각 조각의 질량 1.2 kg을 불변질량(정지질량)으로 사용합니다. 속력 0.8c에서 γ=1/√(1−0.8²)=5/3입니다. 처음 물체가 정지했으므로 에너지 보존식 Mc²=2γmc²에서 M=2×(5/3)×1.2=4.0 kg, 정답은 ②입니다.",
+  "choices": [
+    "2.4 kg은 두 조각의 정지질량 합입니다. 폭발 후에는 운동에너지도 있으므로 이 합만으로 폭발 전 물체의 정지질량을 구할 수 없습니다. 에너지 보존식에는 각 조각의 전체 에너지 γmc²를 넣어야 합니다.",
+    "4.0 kg: 각 조각의 전체 에너지는 γmc² = (5/3)(1.2 kg)c² = 2.0 kg·c²입니다. 두 조각의 합은 4.0 kg·c²이고, 이것이 처음 물체의 정지에너지 Mc²과 같으므로 M = 4.0 kg입니다. 정답입니다.",
+    "4.8 kg은 오답입니다. 두 조각의 전체 에너지 합은 2×(5/3)×1.2c²=4.0c²이므로 폭발 전 정지에너지 4.8c²와 일치하지 않습니다.",
+    "6.0 kg은 오답입니다. 두 조각의 전체 에너지 합은 2×(5/3)×1.2c²=4.0c²이므로 폭발 전 정지에너지 6.0c²와 일치하지 않습니다.",
+    "7.2 kg은 오답입니다. 두 조각의 전체 에너지 합은 2×(5/3)×1.2c²=4.0c²이므로 폭발 전 정지에너지 7.2c²와 일치하지 않습니다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 3, 5.9: Relativistic Energy",
+      "quote": "Relativistically, energy is still conserved",
+      "url": "https://openstax.org/books/university-physics-volume-3/pages/5-9-relativistic-energy",
+      "evidenceId": "c3f85ab9c04fa964b646",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 3, 5.9: Relativistic Energy",
+      "quote": "Relativistically, energy is still conserved",
+      "url": "https://openstax.org/books/university-physics-volume-3/pages/5-9-relativistic-energy",
+      "evidenceId": "c3f85ab9c04fa964b646",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 3, 5.9: Relativistic Energy",
+      "quote": "Relativistically, energy is still conserved",
+      "url": "https://openstax.org/books/university-physics-volume-3/pages/5-9-relativistic-energy",
+      "evidenceId": "c3f85ab9c04fa964b646",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 3, 5.9: Relativistic Energy",
+      "quote": "Relativistically, energy is still conserved",
+      "url": "https://openstax.org/books/university-physics-volume-3/pages/5-9-relativistic-energy",
+      "evidenceId": "c3f85ab9c04fa964b646",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 3, 5.9: Relativistic Energy",
+      "quote": "Relativistically, energy is still conserved",
+      "url": "https://openstax.org/books/university-physics-volume-3/pages/5-9-relativistic-energy",
+      "evidenceId": "c3f85ab9c04fa964b646",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 3, 5.9: Relativistic Energy",
+      "quote": "Relativistically, energy is still conserved",
+      "url": "https://openstax.org/books/university-physics-volume-3/pages/5-9-relativistic-energy",
+      "evidenceId": "c3f85ab9c04fa964b646",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Original image inspected; invariant-mass convention explicitly stated using textbook energy definitions; exact rational energy and kinetic energy checks; speculative distractor explanations removed.",
+    "contentHash": "b4ffd981d8eba1ad3ac38e67c288c5d33d99dbacb9d1943ddb0b6be075f8c800"
+  }
+}

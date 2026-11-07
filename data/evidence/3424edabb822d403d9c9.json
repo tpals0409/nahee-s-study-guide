@@ -1,0 +1,21 @@
+{
+  "id": "3424edabb822d403d9c9",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "4.3 Projectile Motion — University Physics Volume 1",
+  "url": "https://openstax.org/books/university-physics-volume-1/pages/4-3-projectile-motion",
+  "excerpt": "At its highest point, the vertical velocity is zero.",
+  "sourceHash": "3c2f3e1a744e0eeccb7ef0a85bce6e4f6aa4ec00a4bee36f3ff69313247f0a40",
+  "cacheSourceId": "41b0d9db5bea7f8f409c",
+  "retrievedAt": "2026-11-06T22:20:36.600021+00:00",
+  "reviewedMappings": {
+    "2019-3-01:0": "Using reviewed vy=v0y-gt and v0y=v0 sin theta with vy=0 at apex gives T=v0 sin theta/g; sin30<sin45<sin60 implies A<B<C.",
+    "2019-3-01:1": "All three times share v0/g; their ratio is 1:sqrt(2):sqrt(3), confirming option 1.",
+    "2019-3-01:2": "C has sin60 greater than B sin45, so C cannot have smaller apex time than B.",
+    "2019-3-01:3": "A has smallest initial vertical component and hence smallest apex time, not largest.",
+    "2019-3-01:4": "C has greatest initial vertical component and hence greatest apex time, not smallest.",
+    "2019-3-01:5": "Proposed order is reverse of the sine ordering derived from the reviewed vertical-motion equations."
+  },
+  "retrievalMethod": "Direct web open: air-resistance and uniform-gravity assumptions lines 31–40; vertical velocity equation 4.21 lines 54–56; components line 70; apex condition line 83; example 4.7 time derivation lines 119–125. Applied to the three angles explicitly stated in question.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "c5ec455a0136bb7b1538",
+  "kind": "science",
+  "source": "NAV CANADA",
+  "ref": "Warm Front — Aviation Meteorology Reference",
+  "url": "https://avmet.navcanada.ca/en/warm-front.aspx",
+  "excerpt": "The slope of a warm front is usually shallow in comparison to a cold front",
+  "sourceHash": "b58a8e35a2e170788a02aa63faefb1cb8755b1aaf68fac3ccf58e8fc556c1f39",
+  "cacheSourceId": "85a86ca55542acc05cc9",
+  "retrievedAt": "2026-11-07T00:29:51.052085+00:00",
+  "reviewedMappings": {
+    "2021-3-33:0": "Direct page About section lines 70–88: shallower warm front and typical stratiform cloud; HAZARDS line 28 explicitly allows embedded convection/elevated thunderstorms. ㄴ rejected as a typical-feature comparison, not an absolute impossibility.",
+    "2021-3-33:1": "Direct page About section lines 70–88: shallower warm front and typical stratiform cloud; HAZARDS line 28 explicitly allows embedded convection/elevated thunderstorms. ㄴ rejected as a typical-feature comparison, not an absolute impossibility.",
+    "2021-3-33:2": "Direct page About section lines 70–88: shallower warm front and typical stratiform cloud; HAZARDS line 28 explicitly allows embedded convection/elevated thunderstorms. ㄴ rejected as a typical-feature comparison, not an absolute impossibility.",
+    "2021-3-33:3": "Direct page About section lines 70–88: shallower warm front and typical stratiform cloud; HAZARDS line 28 explicitly allows embedded convection/elevated thunderstorms. ㄴ rejected as a typical-feature comparison, not an absolute impossibility.",
+    "2021-3-33:4": "Direct page About section lines 70–88: shallower warm front and typical stratiform cloud; HAZARDS line 28 explicitly allows embedded convection/elevated thunderstorms. ㄴ rejected as a typical-feature comparison, not an absolute impossibility.",
+    "2021-3-33:5": "Direct page About section lines 70–88: shallower warm front and typical stratiform cloud; HAZARDS line 28 explicitly allows embedded convection/elevated thunderstorms. ㄴ rejected as a typical-feature comparison, not an absolute impossibility."
+  },
+  "retrievalMethod": "Direct page About section lines 70–88: shallower warm front and typical stratiform cloud; HAZARDS line 28 explicitly allows embedded convection/elevated thunderstorms. ㄴ rejected as a typical-feature comparison, not an absolute impossibility.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

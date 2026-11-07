@@ -1,0 +1,21 @@
+{
+  "id": "0eb85e7c6a72951f7339",
+  "kind": "science",
+  "source": "OpenStax Chemistry 2e",
+  "ref": "7.3 Lewis Symbols and Structures",
+  "url": "https://openstax.org/books/chemistry-2e/pages/7-3-lewis-symbols-and-structures",
+  "excerpt": "A double bond forms when two pairs of electrons are shared between a pair of atoms",
+  "sourceHash": "ca43da72b98996e7ca4c5a1e379a571e27e67c15a0f8b7b06ea90750ff961d97",
+  "cacheSourceId": "a5f54aa0ee77a5473cfd",
+  "retrievedAt": "2026-11-07T03:15:51.778212+00:00",
+  "reviewedMappings": {
+    "2025-3-19:0": "옥텟·단일/이중결합 정의와 원자가전자 합산으로 a4,b0,c2,N/O 유도. OF2 루이스 구조 예제도 확인.",
+    "2025-3-19:1": "각 원자 옥텟 전자쌍 수 합에서 공유쌍을 두 번 세므로 4N=2B+L; 표로 a4와 b+c2 독립 계산.",
+    "2025-3-19:2": "네 원자의 연결에는 최소 세 원자 간 결합이 필요; 공유쌍 총3이므로 이중결합 불가능. O2F2 단일결합 구조와 일치.",
+    "2025-3-19:3": "OF2 예제에서 O에 두 결합과 두 비공유쌍 확인.",
+    "2025-3-19:4": "a4,b+c2라는 옥텟 계수 계산으로 ㄱ 거짓.",
+    "2025-3-19:5": "공유쌍3과 원자4를 만족하는 연결에서 모든 결합 단일; ㄴ 거짓."
+  },
+  "retrievalMethod": "Direct web page reading: octet, valence electron counting, bond pairs and OF2 example; four-region/two-lone-pair VSEPR geometry.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

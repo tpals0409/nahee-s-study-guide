@@ -1,0 +1,20 @@
+{
+  "id": "b29aeb0dbda77bcc8b51",
+  "kind": "science",
+  "source": "Molecular Microbiology / Wiley",
+  "ref": "Translation initiation with GUC codon in the archaeon Halobacterium salinarum",
+  "url": "https://onlinelibrary.wiley.com/doi/full/10.1111/j.1365-2958.2005.04992.x",
+  "excerpt": "in eukarya and in archaea, translation initiation occurs with methionine",
+  "sourceHash": "d9960eef94e53a5b6a833ad5767963c7788e14a8e32c0da63c7571d94a33464e",
+  "cacheSourceId": "e8e7d0a2b899a1983224",
+  "retrievedAt": "2026-11-06T22:39:39.755298+00:00",
+  "reviewedMappings": {
+    "2019-3-22:0": "Direct web open: introduction 110–116 distinguishes ordinary bacterial formylmethionine from archaeal methionine and reports unformylated archaeal initiator tRNA. Engineered mutant initiation experiment is not generalized to ordinary cells. 원문 조건에 적용하여 A 식물, B 진정세균, C 고세균의 ㄱ·ㄴ 참 및 ㄷ 거짓 중 이 출처가 다루는 부분을 확인.",
+    "2019-3-22:2": "Direct web open: introduction 110–116 distinguishes ordinary bacterial formylmethionine from archaeal methionine and reports unformylated archaeal initiator tRNA. Engineered mutant initiation experiment is not generalized to ordinary cells. 원문 조건에 적용하여 A 식물, B 진정세균, C 고세균의 ㄱ·ㄴ 참 및 ㄷ 거짓 중 이 출처가 다루는 부분을 확인.",
+    "2019-3-22:3": "Direct web open: introduction 110–116 distinguishes ordinary bacterial formylmethionine from archaeal methionine and reports unformylated archaeal initiator tRNA. Engineered mutant initiation experiment is not generalized to ordinary cells. 원문 조건에 적용하여 A 식물, B 진정세균, C 고세균의 ㄱ·ㄴ 참 및 ㄷ 거짓 중 이 출처가 다루는 부분을 확인.",
+    "2019-3-22:4": "Direct web open: introduction 110–116 distinguishes ordinary bacterial formylmethionine from archaeal methionine and reports unformylated archaeal initiator tRNA. Engineered mutant initiation experiment is not generalized to ordinary cells. 원문 조건에 적용하여 A 식물, B 진정세균, C 고세균의 ㄱ·ㄴ 참 및 ㄷ 거짓 중 이 출처가 다루는 부분을 확인.",
+    "2019-3-22:5": "Direct web open: introduction 110–116 distinguishes ordinary bacterial formylmethionine from archaeal methionine and reports unformylated archaeal initiator tRNA. Engineered mutant initiation experiment is not generalized to ordinary cells. 원문 조건에 적용하여 A 식물, B 진정세균, C 고세균의 ㄱ·ㄴ 참 및 ㄷ 거짓 중 이 출처가 다루는 부분을 확인."
+  },
+  "retrievalMethod": "Direct web open: introduction 110–116 distinguishes ordinary bacterial formylmethionine from archaeal methionine and reports unformylated archaeal initiator tRNA. Engineered mutant initiation experiment is not generalized to ordinary cells.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

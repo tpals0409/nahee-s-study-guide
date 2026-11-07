@@ -1,0 +1,21 @@
+{
+  "id": "c1a945c9f8976eaafb08",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Anatomy and Physiology 2e §23.7 — Lipid Digestion and Absorption",
+  "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/23-7-chemical-digestion-and-absorption-a-closer-look",
+  "excerpt": "The free fatty acids and monoacylglycerides that enter the epithelial cells are reincorporated into triglycerides.",
+  "sourceHash": "eea455146b73b2446f08f363f7c5cc5ab96f5f781eac19f44feefb0e83f8789f",
+  "cacheSourceId": "c1053f8d323650158b01",
+  "retrievedAt": "2026-11-06T22:00:30.369415+00:00",
+  "reviewedMappings": {
+    "2018-3-25:0": "원본 도식 직접 확인: A유화 B분해 C재합성 D유미입자. 교재 Table23.8·Lipid Digestion·Lipid Absorption을 대조해②만 틀림.",
+    "2018-3-25:1": "Table23.8에서 pancreatic lipase 기질은 bile salts로 유화된 triglycerides. A의 유화와 담즙산염 역할 연결.",
+    "2018-3-25:2": "Lipid Digestion의 pancreatic lipase 소장 작용 및 Table23.8 담즙유화 기질 확인. 위 lipase 존재도 표에 있어 위 지방소화 전면부정하지 않음.",
+    "2018-3-25:3": "Lipid Absorption 직접 인용은 enterocyte 내 fatty acids/monoacylglycerides→triglycerides 재합성을 설명. 원본C와 일치.",
+    "2018-3-25:4": "재합성 후 triglycerides+phospholipids+cholesterol+protein coat로 chylomicron 형성하는 문단 직접 확인. ApoB48 등의 불필요한 세부는 제외.",
+    "2018-3-25:5": "유미입자 세포방출→lacteals→lymphatic vessels 문단 직접 확인. 표23.10은 짧은 사슬 지방산의 모세혈관 경로를 구분하므로 모든 지방흡수의 일반화 방지."
+  },
+  "retrievalMethod": "Direct web open; digestive enzyme table, lipid digestion and lipid absorption sections reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "48ace8d5d4eaf89b162f",
+  "kind": "science",
+  "source": "울진군",
+  "ref": "울진군 관광안내지도: 성류굴",
+  "url": "https://www.uljin.go.kr/upload_data/board_data/BBS_0000130/176914950723317.pdf",
+  "excerpt": "성류굴은 천연기념물 제155호로 지정되어있는 아름다운 석회암 동굴로",
+  "sourceHash": "c011230ee55c71d6fcd3dffa9b491ace99ad12a792767c5a90bbc82360b822bf",
+  "cacheSourceId": "ffe2147425ce308e765c",
+  "retrievedAt": "2026-11-06T18:18:03.510933+00:00",
+  "reviewedMappings": {
+    "2013-3-32:0": "ㄱ: 울진군 공식안내의 석회암동굴 분류 확인. 용해지형 원리는 지질기관 자료와 연결."
+  },
+  "retrievalMethod": "web.search_query indexed official source excerpt",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

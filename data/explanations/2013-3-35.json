@@ -1,0 +1,74 @@
+{
+  "summary": "정답은 ② ㄱ, ㄷ입니다. 히말라야와 알프스는 대륙 충돌과 관련된 조산대이며, 대서양 중앙해령에서 멀어질수록 해양지각은 대체로 오래됩니다. 샌안드레아스 단층은 변환경계이고, 대륙 연변부를 보존경계라고 정의할 수는 없습니다.",
+  "choices": [
+    "ㄱ은 옳지만 ㄴ은 틀렸습니다. 히말라야와 알프스는 대륙부의 충돌로 형성된 조산대입니다. 샌안드레아스 단층에서는 태평양판과 북아메리카판이 서로 수평으로 미끄러지므로 발산경계가 아닌 변환경계입니다.",
+    "ㄱ과 ㄷ이 옳습니다. 히말라야는 인도판과 유라시아판의 충돌, 알프스는 유럽과 아드리아·아프리카 측 대륙부의 충돌과 관련됩니다. 해령에서 새로 만들어진 해양지각은 해저 확장으로 이동하므로 해령으로부터 멀어질수록 연령이 증가합니다.",
+    "ㄱ은 옳지만 ㄹ은 틀렸습니다. 과거 열곡의 흔적을 남긴 수동형 대륙 연변부는 현재의 판 경계와 떨어져 있습니다. “흔적이 보존되어 있다”는 뜻과 판구조론 용어인 “보존경계”는 다릅니다.",
+    "ㄷ은 옳지만 ㄴ은 틀렸습니다. 해령에서 멀어질수록 해양지각이 오래되는 것은 해저 확장의 결과입니다. 샌안드레아스 단층은 판들이 멀어지는 발산경계가 아니라 서로 어긋나는 변환경계입니다.",
+    "ㄷ은 옳지만 ㄹ은 틀렸고, 옳은 ㄱ도 빠져 있습니다. 대륙 연변부에는 활동형과 수동형이 있으므로 그 전체를 보존경계라고 할 수 없습니다. 보존경계는 판들이 서로 미끄러지는 변환경계를 가리킵니다."
+  ],
+  "lawNote": "수동형 대륙 연변부가 현재의 판 경계가 아니라는 설명을 모든 대륙 연변부에 적용하면 안 됩니다. 활동형 연변부는 판 경계와 관련됩니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "USGS",
+      "ref": "Understanding plate motions",
+      "quote": "The collision of India into Asia 50 million years ago caused the Indian and Eurasian Plates to crumple up along the collision zone.",
+      "url": "https://pubs.usgs.gov/gip/dynamic/understanding.html?%24NMW_TRANS%24=ext",
+      "evidenceId": "c778b42e69bb143e577b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "Swiss Seismological Service, ETH Zurich",
+      "ref": "Switzerland: Causes of earthquakes",
+      "quote": "the continental parts of the European and the Adriatic/African plates collided, initiating the formation of the Alps.",
+      "url": "https://seismo.ethz.ch/en/knowledge/causes-of-earthquakes/Switzerland/",
+      "evidenceId": "be603eabd28eab6ae115",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "National Park Service",
+      "ref": "Transform Plate Boundaries",
+      "quote": "The Pacific Plate slides north-northwestward past the North American Plate along the San Andreas Transform Plate Boundary.",
+      "url": "https://home.nps.gov/subjects/geology/plate-tectonics-transform-plate-boundaries.htm",
+      "evidenceId": "c027879e13c400a10ad7",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "USGS",
+      "ref": "Developing the theory",
+      "quote": "cools and becomes increasingly older as it moves away from the ridge crest with seafloor spreading",
+      "url": "https://pubs.usgs.gov/gip/dynamic/developing.html",
+      "evidenceId": "9187d3c9003a4ff36252",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "National Park Service",
+      "ref": "Divergent Plate Boundary—Passive Continental Margins",
+      "quote": "because they are far away from the current plate boundary at the Mid-Atlantic Ridge.",
+      "url": "https://www.nps.gov/subjects/geology/plate-tectonics-passive-continental-margins.htm",
+      "evidenceId": "a6a7865e155f3ed51ca0",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "원본2013-3-35.webp ㄱ~ㄹ 및 조합 확인. USGS 해저확장·히말라야, ETH 알프스, NPS 변환경계·수동형 연변부 대조. 정답②. 모든 대륙 연변부가 판 내부라는 일반화와 불필요한 최대연령 제거.",
+    "contentHash": "c92e23ac7be9476cf39345432b1ad5fa7d3373a70e1416d2faaa3cfb9ff036ba"
+  }
+}

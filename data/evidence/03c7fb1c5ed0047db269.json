@@ -1,0 +1,19 @@
+{
+  "id": "03c7fb1c5ed0047db269",
+  "kind": "science",
+  "source": "WMO / NOAA CSL",
+  "ref": "Twenty Questions and Answers About the Ozone Layer: 2018 Update, Q2",
+  "url": "https://www.csl.noaa.gov/assessments/ozone/2018/twentyquestions/",
+  "excerpt": "the absorption of UV radiation by ozone is a natural source of heat in the stratosphere",
+  "sourceHash": "1b28bfac10ff6292f8a59af841b4e04a457bc5d56f63dc4139c706423a8c4c55",
+  "cacheSourceId": "c4ef65d050003f19e81d",
+  "retrievedAt": "2026-11-06T22:55:55.602708+00:00",
+  "reviewedMappings": {
+    "2019-3-38:0": "오존의 자외선 흡수가 성층권의 열원이라는 직접 진술로 ㄷ을 확인했다.",
+    "2019-3-38:1": "오존의 자외선 흡수가 성층권의 열원이라는 직접 진술로 ㄷ을 확인했다.",
+    "2019-3-38:2": "오존의 자외선 흡수가 성층권의 열원이라는 직접 진술로 ㄷ을 확인했다.",
+    "2019-3-38:5": "오존의 자외선 흡수가 성층권의 열원이라는 직접 진술로 ㄷ을 확인했다."
+  },
+  "retrievalMethod": "Direct open/find: Q2 Natural ozone, lines 133–134, UV absorption heating and increasing temperature with altitude.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

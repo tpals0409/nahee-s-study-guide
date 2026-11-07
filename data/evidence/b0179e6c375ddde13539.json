@@ -1,0 +1,17 @@
+{
+  "id": "b0179e6c375ddde13539",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e, 16.1 Regulation of Gene Expression",
+  "url": "https://openstax.org/books/biology-2e/pages/16-1-regulation-of-gene-expression",
+  "excerpt": "physically separated by the nuclear membrane",
+  "sourceHash": "1d6c78c42b373c930d0e19c3c634abc2ff23ab092f6709de383ea052e72e66fd",
+  "cacheSourceId": "d0ad6e0cc3976c5fe269",
+  "retrievedAt": "2026-11-07T01:58:26.163654+00:00",
+  "reviewedMappings": {
+    "2023-3-27:0": "③ 진핵 핵 유전자의 전사와 번역은 공간적으로 분리되어 대장균의 전사-번역 공역형 trp 감쇠 조건이 성립하지 않음.",
+    "2023-3-27:3": "③ 진핵 핵 유전자의 전사와 번역은 공간적으로 분리되어 대장균의 전사-번역 공역형 trp 감쇠 조건이 성립하지 않음."
+  },
+  "retrievalMethod": "직접 열람: Prokaryotic versus Eukaryotic Gene Expression 및 표16.1.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "e9e9d98797c27b4ab672",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "10.2 The Cell Cycle",
+  "url": "https://openstax.org/books/biology-2e/pages/10-2-the-cell-cycle",
+  "excerpt": "During cytokinesis in animals, a cleavage furrow separates the two daughter cells.",
+  "sourceHash": "fa85e610ffaa0bcebb0b59ccfaf8b0cea0ff1a6cc880056bc509950d39515429",
+  "cacheSourceId": "ab93a0fb075e08c20f58",
+  "retrievedAt": "2026-11-06T20:30:52.184573+00:00",
+  "reviewedMappings": {
+    "2016-3-25:0": "본문43–44,60–64 중심체와방추체;73–79 핵막붕괴전기/전중기와중기배열;87–91 동물분열구와식물세포판 대조. 원본 사람체세포 조건 적용.",
+    "2016-3-25:1": "본문87–91에서 동물세포 액틴-미오신수축환/분열구,식물세포세포판 구분. ㄱ거짓.",
+    "2016-3-25:2": "본문73–75에서 핵막전기/전중기해체,79에서 중기염색체배열. ㄴ거짓.",
+    "2016-3-25:3": "본문43–44,60,64 중심체존재및양극방추체조직화. 사람체세포분열의ㄷ참. ㄱㄴ거짓이라ㄷ만선택.",
+    "2016-3-25:4": "본문73–79 및87–91에의해 ㄱㄴ둘다거짓; 참인ㄷ누락.",
+    "2016-3-25:5": "중심체ㄷ참이나핵막중기붕괴ㄴ거짓이라조합배제."
+  },
+  "retrievalMethod": "Direct web open; centrosome, mitotic phases and cytokinesis sections reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

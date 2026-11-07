@@ -1,0 +1,96 @@
+{
+  "id": "2023-3-30",
+  "summary": "공식 최종정답은②입니다. 전형적인 발생학 설명에서 후구동물은 원구 쪽에 항문이 형성되고, 입은 별도로 만들어집니다. 다만①의 “촉수담륜동물문”은 분류 계급상 부정확하므로, 연체동물이 촉수담륜동물에 속한다는 포함 관계와 구별해야 합니다.",
+  "choices": [
+    "①은 포함 관계를 묻는 뜻이라면 맞습니다. 연체동물문(Mollusca)은 촉수담륜동물(Lophotrochozoa)에 속합니다. 그러나 촉수담륜동물은 여러 문을 포함하는 상위 분류군이므로, 원문의 “촉수담륜동물문”을 정확한 계급명으로 외우면 안 됩니다.",
+    "②가 공식 정답입니다. 교과서적인 후구동물 발생의 구분에서는 원구 쪽이 항문이 되고, 입은 장의 다른 쪽에서 형성됩니다. “원구에서 입이 발달한다”는 선구동물의 전형적인 설명을 후구동물에 적용한 것입니다.",
+    "③은 옳습니다. 좌우대칭동물은 발생 중 외배엽·중배엽·내배엽의 세 배엽을 형성하는 삼배엽성 동물입니다.",
+    "④는 옳습니다. 환형동물은 진체강동물입니다. 진체강은 중배엽 안에서 형성되고 중배엽성 조직으로 둘러싸이는 체강입니다.",
+    "⑤는 옳습니다. 탈피동물은 몸 바깥을 덮는 큐티클성 외피를 가지며 성장 과정에서 이를 벗습니다. 여기서 외골격은 절지동물의 단단한 껍질만을 뜻하지 않으며, 선형동물의 유연한 큐티클도 포함합니다."
+  ],
+  "lawNote": "분류·발생 해석 주의:①을 문자 그대로 정확한 “문”의 명칭이라고 읽으면 문제가 남습니다. 위 풀이는 분류상의 포함 관계를 묻는 것으로 해석한 경우이며, 출제자의 공식 해설이나 정오표를 확인했다는 뜻은 아닙니다. 또한 원구와 입·항문의 관계는 전형적인 발생학적 구분으로, 모든 종의 발생에 예외 없이 적용되는 법칙으로 확대하지 않습니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e 27.2 Features Used to Classify Animals",
+      "quote": "the anus develops at the site of the blastopore.",
+      "url": "https://openstax.org/books/biology-2e/pages/27-2-features-used-to-classify-animals",
+      "evidenceId": "667b57134edb4e7044ff",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e 27.2 Features Used to Classify Animals",
+      "quote": "the anus develops at the site of the blastopore.",
+      "url": "https://openstax.org/books/biology-2e/pages/27-2-features-used-to-classify-animals",
+      "evidenceId": "667b57134edb4e7044ff",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e 27.2 Features Used to Classify Animals",
+      "quote": "the anus develops at the site of the blastopore.",
+      "url": "https://openstax.org/books/biology-2e/pages/27-2-features-used-to-classify-animals",
+      "evidenceId": "667b57134edb4e7044ff",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e 27.2 Features Used to Classify Animals",
+      "quote": "the anus develops at the site of the blastopore.",
+      "url": "https://openstax.org/books/biology-2e/pages/27-2-features-used-to-classify-animals",
+      "evidenceId": "667b57134edb4e7044ff",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e 28.4 Superphylum Lophotrochozoa: Mollusks and Annelids",
+      "quote": "The annelids and the mollusks are the most familiar of the lophotrochozoan protostomes.",
+      "url": "https://openstax.org/books/biology-2e/pages/28-4-superphylum-lophotrochozoa-mollusks-and-annelids",
+      "evidenceId": "84996c588d5cb7737ddf",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e 28.4 Superphylum Lophotrochozoa: Mollusks and Annelids",
+      "quote": "The annelids and the mollusks are the most familiar of the lophotrochozoan protostomes.",
+      "url": "https://openstax.org/books/biology-2e/pages/28-4-superphylum-lophotrochozoa-mollusks-and-annelids",
+      "evidenceId": "84996c588d5cb7737ddf",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e 28.5 Superphylum Ecdysozoa: Nematodes and Tardigrades",
+      "quote": "the cuticle—a tough, but flexible exoskeleton",
+      "url": "https://openstax.org/books/biology-2e/pages/28-5-superphylum-ecdysozoa-nematodes-and-tardigrades",
+      "evidenceId": "437443873d9f61958c2e",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Original image and official key checked. Verified conditional membership interpretation with explicit taxonomy-rank caveat and typical-development limitation; all five choices mapped to directly read sources.",
+    "contentHash": "b1477265ca59b78343374a1a8e574c9823bcc652e43ed94fc1280ec175ccdcc4"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "8ddc74088875eb439889",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Astronomy 2e §5.2 — Wien law",
+  "url": "https://openstax.org/books/astronomy-2e/pages/5-2-the-electromagnetic-spectrum",
+  "excerpt": "as the temperature increases, the peak wavelength decreases.",
+  "sourceHash": "03d487fb62aed7730c81dde816e7bef1dbc694d014c7db8e0b4417a0e2164025",
+  "cacheSourceId": "476ad7d96c172d78de29",
+  "retrievedAt": "2026-11-06T19:59:57.552693+00:00",
+  "reviewedMappings": {
+    "2014-3-39:4": "Wien law concerns blackbody wavelength-domain spectral peak and absolute temperature, not displacement of individual lines due to radial motion.",
+    "2015-3-38:0": "원문 그래프는 파장에 따른 단위면적·단위시간 방출 세기이며 A의 피크 점선이 B보다 오른쪽이다. 따라서 λmax,A>λmax,B. 본문 93–96행의 빈 법칙으로 TA/TB=λmax,B/λmax,A<1이다. ㄴ은 거짓, ㄷ은 참이며 실제 별의 임의 온도나 그래프에 없는 수치를 도입하지 않는다.",
+    "2015-3-38:1": "원문 그래프는 파장에 따른 단위면적·단위시간 방출 세기이며 A의 피크 점선이 B보다 오른쪽이다. 따라서 λmax,A>λmax,B. 본문 93–96행의 빈 법칙으로 TA/TB=λmax,B/λmax,A<1이다. ㄴ은 거짓, ㄷ은 참이며 실제 별의 임의 온도나 그래프에 없는 수치를 도입하지 않는다.",
+    "2015-3-38:2": "원문 그래프는 파장에 따른 단위면적·단위시간 방출 세기이며 A의 피크 점선이 B보다 오른쪽이다. 따라서 λmax,A>λmax,B. 본문 93–96행의 빈 법칙으로 TA/TB=λmax,B/λmax,A<1이다. ㄴ은 거짓, ㄷ은 참이며 실제 별의 임의 온도나 그래프에 없는 수치를 도입하지 않는다.",
+    "2015-3-38:3": "원문 그래프는 파장에 따른 단위면적·단위시간 방출 세기이며 A의 피크 점선이 B보다 오른쪽이다. 따라서 λmax,A>λmax,B. 본문 93–96행의 빈 법칙으로 TA/TB=λmax,B/λmax,A<1이다. ㄴ은 거짓, ㄷ은 참이며 실제 별의 임의 온도나 그래프에 없는 수치를 도입하지 않는다.",
+    "2015-3-38:4": "원문 그래프는 파장에 따른 단위면적·단위시간 방출 세기이며 A의 피크 점선이 B보다 오른쪽이다. 따라서 λmax,A>λmax,B. 본문 93–96행의 빈 법칙으로 TA/TB=λmax,B/λmax,A<1이다. ㄴ은 거짓, ㄷ은 참이며 실제 별의 임의 온도나 그래프에 없는 수치를 도입하지 않는다.",
+    "2015-3-38:5": "원문 그래프는 파장에 따른 단위면적·단위시간 방출 세기이며 A의 피크 점선이 B보다 오른쪽이다. 따라서 λmax,A>λmax,B. 본문 93–96행의 빈 법칙으로 TA/TB=λmax,B/λmax,A<1이다. ㄴ은 거짓, ㄷ은 참이며 실제 별의 임의 온도나 그래프에 없는 수치를 도입하지 않는다."
+  },
+  "retrievalMethod": "Direct web open; relevant textbook sections reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

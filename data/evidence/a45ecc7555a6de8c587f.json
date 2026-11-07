@@ -1,0 +1,20 @@
+{
+  "id": "a45ecc7555a6de8c587f",
+  "kind": "science",
+  "source": "National Park Service",
+  "ref": "Geologic Principles—Cross-cutting Relationships",
+  "url": "https://home.nps.gov/articles/geologic-principles-cross-cutting-relationships.htm",
+  "excerpt": "younger rocks or structures cut across older rocks or structures.",
+  "sourceHash": "31e004181d014ab032aa4d9da6998c7d45f7ed77c35b3f0db413563fc5e43057",
+  "cacheSourceId": "bf1956e358a4e467927a",
+  "retrievedAt": "2026-11-06T19:10:01.154692+00:00",
+  "reviewedMappings": {
+    "2014-3-37:0": "Original E intrudes B,C,D and truncates fault F–F′; fault cuts A. Thus A predates fault, which predates E, and E is youngest without asserting direct E–A contact. ㄴ false, ㄷ true.",
+    "2014-3-37:1": "Original E intrudes B,C,D and truncates fault F–F′; fault cuts A. Thus A predates fault, which predates E, and E is youngest without asserting direct E–A contact. ㄴ false, ㄷ true.",
+    "2014-3-37:2": "Original E intrudes B,C,D and truncates fault F–F′; fault cuts A. Thus A predates fault, which predates E, and E is youngest without asserting direct E–A contact. ㄴ false, ㄷ true.",
+    "2014-3-37:4": "Original E intrudes B,C,D and truncates fault F–F′; fault cuts A. Thus A predates fault, which predates E, and E is youngest without asserting direct E–A contact. ㄴ false, ㄷ true.",
+    "2014-3-37:5": "Original E intrudes B,C,D and truncates fault F–F′; fault cuts A. Thus A predates fault, which predates E, and E is youngest without asserting direct E–A contact. ㄴ false, ㄷ true."
+  },
+  "retrievalMethod": "Direct web open; original geological map visually inspected and source principle applied independently.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

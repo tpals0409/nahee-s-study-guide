@@ -1,0 +1,17 @@
+{
+  "id": "bbcdfbd944980808d39f",
+  "kind": "science",
+  "source": "British Geological Survey",
+  "ref": "What causes earthquakes?",
+  "url": "https://www.bgs.ac.uk/discovering-geology/earth-hazards/earthquakes/what-causes-earthquakes/",
+  "excerpt": "the boundary between the Indian plate and the Eurasian plate",
+  "sourceHash": "b209b6a3ce5deedef5e54636f6392e7d2f926ef0cdb9351e09fd52197a72e4c4",
+  "cacheSourceId": "a17d20fa4edaf88eced6",
+  "retrievedAt": "2026-11-07T02:04:00.939192+00:00",
+  "reviewedMappings": {
+    "2023-3-33:0": "④ Himalayas는 인도판과 유라시아판의 충돌 산맥. 발산경계 아님.",
+    "2023-3-33:4": "④ Himalayas는 인도판과 유라시아판의 충돌 산맥. 발산경계 아님."
+  },
+  "retrievalMethod": "BGS 검색 색인에서 Alps·Himalayas의 대륙경계 설명 확인.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

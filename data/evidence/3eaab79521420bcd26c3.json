@@ -1,0 +1,14 @@
+{
+  "id": "3eaab79521420bcd26c3",
+  "kind": "science",
+  "source": "OpenStax · University Physics Volume 1",
+  "ref": "7.3 Work-Energy Theorem",
+  "url": "https://openstax.org/books/university-physics-volume-1/pages/7-3-work-energy-theorem",
+  "excerpt": "The net work done on a particle equals the change in the particle’s kinetic energy:",
+  "sourceHash": "979a44ee70249a669b38c29f6cac2e789bf726abd7c4f71a485e9c731388dd84",
+  "cacheSourceId": "859d628895deb5d79b24",
+  "retrievedAt": "2026-11-06T15:24:39.446122+00:00",
+  "reviewedMappings": {
+    "2010-3-01:0": "본문의 F=m dv/dt와 W=ΔK를 적용. 수평 운동에서 중력·수직항력의 일은 0. v(0)=0을 적분하여 v=Ft₁/m, W=F²t₁²/(2m). 다섯 선지의 질량·길이·시간 차원을 각각 계산하여 ①만 일의 차원임을 확인."
+  }
+}

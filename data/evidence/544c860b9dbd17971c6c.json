@@ -1,0 +1,20 @@
+{
+  "id": "544c860b9dbd17971c6c",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "13.1 Chemical Equilibria",
+  "url": "https://openstax.org/books/chemistry-2e/pages/13-1-chemical-equilibria",
+  "excerpt": "When the rates of the forward and reverse reactions are equal",
+  "sourceHash": "fd58319e8170684eb1b67fa5484565f67a5d7dc2b11d8f8367da0e33ff437134",
+  "cacheSourceId": "ec78e76a857e187889c4",
+  "retrievedAt": "2026-11-06T21:03:33.765084+00:00",
+  "reviewedMappings": {
+    "2017-3-13:0": "본문 30,43–50행 평형의 정·역반응 속도 동일 조건 확인. 이 문항은 양방향 각각 1차라고 명시하므로 kf[X]=kr[Y], Kc=[Y]/[X]=kf/kr을 직접 유도한다. 반응 차수를 반응식 계수만으로 추정하지 않았다.",
+    "2017-3-13:1": "본문 30,43–50행 평형의 정·역반응 속도 동일 조건 확인. 이 문항은 양방향 각각 1차라고 명시하므로 kf[X]=kr[Y], Kc=[Y]/[X]=kf/kr을 직접 유도한다. 반응 차수를 반응식 계수만으로 추정하지 않았다.",
+    "2017-3-13:3": "본문 30,43–50행 평형의 정·역반응 속도 동일 조건 확인. 이 문항은 양방향 각각 1차라고 명시하므로 kf[X]=kr[Y], Kc=[Y]/[X]=kf/kr을 직접 유도한다. 반응 차수를 반응식 계수만으로 추정하지 않았다.",
+    "2017-3-13:4": "본문 30,43–50행 평형의 정·역반응 속도 동일 조건 확인. 이 문항은 양방향 각각 1차라고 명시하므로 kf[X]=kr[Y], Kc=[Y]/[X]=kf/kr을 직접 유도한다. 반응 차수를 반응식 계수만으로 추정하지 않았다.",
+    "2017-3-13:5": "본문 30,43–50행 평형의 정·역반응 속도 동일 조건 확인. 이 문항은 양방향 각각 1차라고 명시하므로 kf[X]=kr[Y], Kc=[Y]/[X]=kf/kr을 직접 유도한다. 반응 차수를 반응식 계수만으로 추정하지 않았다."
+  },
+  "retrievalMethod": "Direct source opened; Arrhenius and equilibrium-rate relations reviewed.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

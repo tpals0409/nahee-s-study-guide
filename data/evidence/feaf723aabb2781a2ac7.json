@@ -1,0 +1,19 @@
+{
+  "id": "feaf723aabb2781a2ac7",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 2e §6.5, covalent radius and effective nuclear charge",
+  "url": "https://openstax.org/books/chemistry-2e/pages/6-5-periodic-variations-in-element-properties",
+  "excerpt": "radii increase down a group and decrease across a period",
+  "sourceHash": "d48a2a8f7fa7ca75cc86eace32506282538d047237dc40037dd4e08972e3b1c5",
+  "cacheSourceId": "3c02b269e5eece9a699b",
+  "retrievedAt": "2026-11-07T02:29:03.216422+00:00",
+  "reviewedMappings": {
+    "2024-3-15:0": "Direct text reviewed: same-period radius decrease, applied to adjacent period-three Na and Mg. Ordering identifies A Mg, B N, C F, D Na; ㄱ and ㄴ true, ㄷ false.",
+    "2024-3-15:2": "Direct text reviewed: same-period radius decrease, applied to adjacent period-three Na and Mg. ㄷ claims Mg radius greater than Na, opposite the same-period size relation.",
+    "2024-3-15:4": "Direct text reviewed: same-period radius decrease, applied to adjacent period-three Na and Mg. ㄴ true but ㄷ false; ㄱ also true.",
+    "2024-3-15:5": "Direct text reviewed: same-period radius decrease, applied to adjacent period-three Na and Mg. All three cannot hold because Mg radius is smaller than Na."
+  },
+  "retrievalMethod": "Direct text reviewed: same-period radius decrease, applied to adjacent period-three Na and Mg.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "757bb7b02de56edab2ba",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume 1, 6.2 Friction",
+  "url": "https://openstax.org/books/university-physics-volume-1/pages/6-2-friction",
+  "excerpt": "static friction can have a maximum value",
+  "sourceHash": "00f283dc2a818f61500538f2e9d75ca2fe26aff07d40acb9a501784d33b019f1",
+  "cacheSourceId": "af0e3bf80af264300616",
+  "retrievedAt": "2026-11-06T18:35:22.461680+00:00",
+  "reviewedMappings": {
+    "2014-3-05:0": "식6.1 및 최대정지마찰력 정의, 예제6.10 수평·연직 뉴턴법칙 적용 확인. 원본 그림의 위쪽 당김 성분을 반영하여 N=Mg−Fsinθ, Fcosθ=μsN 독립 유도. 예각의 3-4-5 삼각비 유리수 검산으로 보기④ 확인."
+  },
+  "retrievalMethod": "web.open; direct primary-source page reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

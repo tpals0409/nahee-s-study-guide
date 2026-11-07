@@ -1,0 +1,30 @@
+{
+  "summary": "정답은 고위도·느리다입니다. 고위도에서 해수가 냉각되고 해빙이 형성되면 주변 해수의 염분과 밀도가 높아져 침강할 수 있습니다. 이렇게 형성된 심층수는 바람이 주로 구동하는 표층 해류보다 일반적으로 느리게 순환합니다.",
+  "choices": [
+    "저위도·느리다는 오답입니다. 순환 속도에 관한 설명은 맞지만, 문제에서 제시한 결빙과 냉각에 의한 심층수 형성 지역은 고위도입니다.",
+    "저위도·빠르다는 오답입니다. 형성 지역은 고위도이고 심층 순환은 표층 순환에 비해 일반적으로 느립니다.",
+    "중위도·빠르다는 오답입니다. 문제의 결빙 조건에 해당하는 대표적인 형성 지역은 고위도이며, 순환도 빠르지 않습니다.",
+    "정답입니다. 고위도에서 냉각·결빙에 따른 주변 해수의 밀도 증가로 침강이 일어나고, 심층수는 느리게 순환합니다.",
+    "고위도·빠르다는 오답입니다. 형성 지역은 맞지만, 심층수의 순환은 표층수의 순환보다 일반적으로 느립니다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "NOAA",
+      "ref": "Ocean Circulations — Great Ocean Conveyor",
+      "quote": "This motion drives a slowly southward flowing deep-ocean current.",
+      "url": "https://www.noaa.gov/jetstream/ocean/circulations",
+      "evidenceId": "4c81b1c1884c8b67dbad",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "NOAA Ocean Circulations 원문64–71행 확인: 북대서양의 냉각·해빙결빙시염분배출·밀도증가·침강과느린심층흐름,1000–1200년재상승시간. 문제의 결빙조건은고위도,순환은느림. 특정시간을모든심층수에일반화하지않음.웹조회원문검증,캐시는짧은인용만보관.",
+    "contentHash": "4232798b3188e1712175b3e23eebe76ab441ae74fd23bcc5f8e12b1ee8a81c44"
+  }
+}

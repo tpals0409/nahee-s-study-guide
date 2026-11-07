@@ -1,0 +1,19 @@
+{
+  "id": "54820509ed232777d058",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "8.3 Using Light Energy to Make Organic Molecules",
+  "url": "https://openstax.org/books/biology-2e/pages/8-3-using-light-energy-to-make-organic-molecules",
+  "excerpt": "ATP and NADPH are used to convert the six molecules of 3-PGA",
+  "sourceHash": "383c07aea2e791fb69cb9715bee31905a69430f82f4a5ec3c089b2e72863c49d",
+  "cacheSourceId": "56d22a78e18b6cdc5a32",
+  "retrievedAt": "2026-11-06T22:41:19.705307+00:00",
+  "reviewedMappings": {
+    "2019-3-24:0": "Direct web find: 42–57; Calvin cycle G3P production using ATP/NADPH and subsequent carbohydrate synthesis, distinguishing G3P from glucose. 원문 보기와 대조: ㄱ ATP생성 부정은 거짓, ㄴ 명반응의 포도당 합성 부정은 참, ㄷ 산소 호흡의 최종 수용체 O₂는 참, ㄹ CO₂ 기원 O₂는 거짓. 이 출처가 다루는 해당 부분에 한해 연결.",
+    "2019-3-24:1": "Direct web find: 42–57; Calvin cycle G3P production using ATP/NADPH and subsequent carbohydrate synthesis, distinguishing G3P from glucose. 원문 보기와 대조: ㄱ ATP생성 부정은 거짓, ㄴ 명반응의 포도당 합성 부정은 참, ㄷ 산소 호흡의 최종 수용체 O₂는 참, ㄹ CO₂ 기원 O₂는 거짓. 이 출처가 다루는 해당 부분에 한해 연결.",
+    "2019-3-24:3": "Direct web find: 42–57; Calvin cycle G3P production using ATP/NADPH and subsequent carbohydrate synthesis, distinguishing G3P from glucose. 원문 보기와 대조: ㄱ ATP생성 부정은 거짓, ㄴ 명반응의 포도당 합성 부정은 참, ㄷ 산소 호흡의 최종 수용체 O₂는 참, ㄹ CO₂ 기원 O₂는 거짓. 이 출처가 다루는 해당 부분에 한해 연결.",
+    "2019-3-24:4": "Direct web find: 42–57; Calvin cycle G3P production using ATP/NADPH and subsequent carbohydrate synthesis, distinguishing G3P from glucose. 원문 보기와 대조: ㄱ ATP생성 부정은 거짓, ㄴ 명반응의 포도당 합성 부정은 참, ㄷ 산소 호흡의 최종 수용체 O₂는 참, ㄹ CO₂ 기원 O₂는 거짓. 이 출처가 다루는 해당 부분에 한해 연결."
+  },
+  "retrievalMethod": "Direct web find: 42–57; Calvin cycle G3P production using ATP/NADPH and subsequent carbohydrate synthesis, distinguishing G3P from glucose.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

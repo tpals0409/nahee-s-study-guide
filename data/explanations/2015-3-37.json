@@ -1,0 +1,152 @@
+{
+  "id": "2015-3-37",
+  "summary": "(가)는 오존에 의한 자외선 흡수와 관련해 기온이 높아지는 성층권의 일부이며, (나)의 화살표는 대류권계면을 가리킵니다. 대류권계면의 높이는 위도에 따라 달라지고 기압은 고도가 높아질수록 낮아집니다. 따라서 ㄴ·ㄷ이 옳아 정답은 ③입니다.",
+  "choices": [
+    "ㄴ은 옳지만 ㄱ은 틀립니다. (가)는 성층권 안의 구간입니다. 그림에서 중간권은 약 50km 위쪽에서 기온이 다시 낮아지는 층이므로 (가)를 중간권의 초입으로 볼 수 없습니다.",
+    "ㄷ은 옳지만 ㄱ은 틀립니다. (나)가 가리키는 대류권계면의 높이는 위도에 따라 달라집니다. 그러나 (가)는 중간권이 아니라 성층권에 속합니다.",
+    "ㄴ·ㄷ 모두 옳습니다. 성층권의 오존은 태양 자외선을 흡수하며, 이는 성층권에서 고도에 따라 기온이 높아지는 이유입니다. 대류권계면은 일반적으로 저위도에서 높고 고위도에서 낮습니다.",
+    "ㄴ은 옳지만 ㄹ은 틀립니다. 성층권의 기온 상승 설명은 맞지만, 기압은 고도가 높아질수록 낮아집니다. 기온이 높아지는 층이라고 해서 기압도 고도에 따라 높아지는 것은 아닙니다.",
+    "ㄷ은 옳지만 ㄹ은 틀립니다. 대류권계면 높이는 위도에 따라 달라집니다. 한편 높은 곳일수록 그 위에 놓인 공기 기둥의 무게가 작아져 기압은 낮아집니다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "NASA",
+      "ref": "Earth’s Atmosphere: A Multi-layered Cake",
+      "quote": "the higher up you go into the stratosphere, the warmer temperatures become.",
+      "url": "https://science.nasa.gov/earth/earth-atmosphere/earths-atmosphere-a-multi-layered-cake/",
+      "evidenceId": "6bfd943e39d5f5efc90f",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "NASA",
+      "ref": "Earth’s Atmosphere: A Multi-layered Cake",
+      "quote": "the higher up you go into the stratosphere, the warmer temperatures become.",
+      "url": "https://science.nasa.gov/earth/earth-atmosphere/earths-atmosphere-a-multi-layered-cake/",
+      "evidenceId": "6bfd943e39d5f5efc90f",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "NASA",
+      "ref": "Earth’s Atmosphere: A Multi-layered Cake",
+      "quote": "the higher up you go into the stratosphere, the warmer temperatures become.",
+      "url": "https://science.nasa.gov/earth/earth-atmosphere/earths-atmosphere-a-multi-layered-cake/",
+      "evidenceId": "6bfd943e39d5f5efc90f",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "NASA",
+      "ref": "Earth’s Atmosphere: A Multi-layered Cake",
+      "quote": "the higher up you go into the stratosphere, the warmer temperatures become.",
+      "url": "https://science.nasa.gov/earth/earth-atmosphere/earths-atmosphere-a-multi-layered-cake/",
+      "evidenceId": "6bfd943e39d5f5efc90f",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "NASA",
+      "ref": "Earth’s Atmosphere: A Multi-layered Cake",
+      "quote": "the higher up you go into the stratosphere, the warmer temperatures become.",
+      "url": "https://science.nasa.gov/earth/earth-atmosphere/earths-atmosphere-a-multi-layered-cake/",
+      "evidenceId": "6bfd943e39d5f5efc90f",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "NASA",
+      "ref": "Earth’s Atmosphere: A Multi-layered Cake",
+      "quote": "height lower at Earth’s poles and higher at the equator.",
+      "url": "https://science.nasa.gov/earth/earth-atmosphere/earths-atmosphere-a-multi-layered-cake/",
+      "evidenceId": "8011b159bb3c7e7ec6d5",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "NASA",
+      "ref": "Earth’s Atmosphere: A Multi-layered Cake",
+      "quote": "height lower at Earth’s poles and higher at the equator.",
+      "url": "https://science.nasa.gov/earth/earth-atmosphere/earths-atmosphere-a-multi-layered-cake/",
+      "evidenceId": "8011b159bb3c7e7ec6d5",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "NASA",
+      "ref": "Earth’s Atmosphere: A Multi-layered Cake",
+      "quote": "height lower at Earth’s poles and higher at the equator.",
+      "url": "https://science.nasa.gov/earth/earth-atmosphere/earths-atmosphere-a-multi-layered-cake/",
+      "evidenceId": "8011b159bb3c7e7ec6d5",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "NASA",
+      "ref": "Earth’s Atmosphere: A Multi-layered Cake",
+      "quote": "height lower at Earth’s poles and higher at the equator.",
+      "url": "https://science.nasa.gov/earth/earth-atmosphere/earths-atmosphere-a-multi-layered-cake/",
+      "evidenceId": "8011b159bb3c7e7ec6d5",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "NOAA / National Weather Service",
+      "ref": "Pressure Definitions",
+      "quote": "higher elevations above sea level experience lower pressure",
+      "url": "https://www.weather.gov/bou/pressure_definitions",
+      "evidenceId": "41a5778950bd5217608c",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "NOAA / National Weather Service",
+      "ref": "Pressure Definitions",
+      "quote": "higher elevations above sea level experience lower pressure",
+      "url": "https://www.weather.gov/bou/pressure_definitions",
+      "evidenceId": "41a5778950bd5217608c",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "NOAA / National Weather Service",
+      "ref": "Pressure Definitions",
+      "quote": "higher elevations above sea level experience lower pressure",
+      "url": "https://www.weather.gov/bou/pressure_definitions",
+      "evidenceId": "41a5778950bd5217608c",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "원문 그래프와 화살표 재판독; NASA 대기층 설명 및 NWS 실제 기압 정의 대조",
+    "contentHash": "338fd44c6ee1554eb0e9651987d601c49b28d54c268a158d8e0be050719910e1"
+  }
+}

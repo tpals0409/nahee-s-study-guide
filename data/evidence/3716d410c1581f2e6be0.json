@@ -1,0 +1,16 @@
+{
+  "id": "3716d410c1581f2e6be0",
+  "kind": "science",
+  "source": "John Wiley & Sons",
+  "ref": "Earth Materials, Second Edition, §1.4.2 Upper Mantle and Transition Zone",
+  "url": "https://catalogimages.wiley.com/images/db/pdf/9781119512172.excerpt.pdf",
+  "excerpt": "A discrete low velocity zone (LVZ) occurs within most areas of the upper mantle",
+  "sourceHash": "d50508f3d36134da614179c5de791ad96cbd6278e6a31e991508637b5f96f75a",
+  "cacheSourceId": "ceb641e19520401c88fe",
+  "retrievedAt": "2026-11-07T04:25:10.872291+00:00",
+  "reviewedMappings": {
+    "2026-3-37:5": "상부 맨틀 대부분 지역의 LVZ 존재를 직접 명시한다. 그 아래도 연약권이 이어진다는 본문에 따라 LVZ와 연약권 전체를 구분한다."
+  },
+  "retrievalMethod": "Direct web open/find",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,52 @@
+{
+  "summary": "ㄴ과 ㄷ이 옳습니다. 큰 흑점은 일반적으로 더 오래 지속되므로 ㄱ은 틀립니다. 태양은 적도에서 고위도보다 빠르게 자전하며, 채층 상층부는 광구 상층부보다 온도가 높습니다.",
+  "choices": [
+    "ㄱ은 틀립니다. 흑점은 보통 수일간 지속되며 매우 큰 흑점은 수주간 남기도 합니다. 크기가 클수록 수명이 짧다는 설명은 일반적인 경향과 반대입니다.",
+    "ㄴ은 옳지만 ㄷ도 옳으므로 오답입니다. 태양은 차등 자전을 하며 적도의 자전 주기가 고위도보다 짧습니다.",
+    "ㄷ은 옳지만 ㄴ도 옳으므로 오답입니다. 광구 위의 채층에서는 온도가 상승하여 채층 상층부가 광구 상층부보다 뜨겁습니다.",
+    "정답입니다. 적도에서 자전 주기가 더 짧다는 ㄴ과 채층 상층부 온도가 더 높다는 ㄷ이 모두 옳습니다.",
+    "ㄱ이 틀리므로 모두 고를 수 없습니다. 흑점이 클수록 수명이 짧다고 할 수 없으며, 옳은 것은 ㄴ과 ㄷ입니다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "NASA · Marshall Solar Physics",
+      "ref": "Photospheric Features",
+      "quote": "They typically last for several days, although very large ones may live for several weeks.",
+      "url": "https://solarscience.msfc.nasa.gov/feature1.shtml",
+      "evidenceId": "c126c8439757450b73ea",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax · Astronomy 2e",
+      "ref": "15.2",
+      "quote": "The rotation period is about 25 days at the equator, 28 days at latitude 40°, and 36 days at latitude 80°.",
+      "url": "https://openstax.org/books/astronomy-2e/pages/15-2-the-solar-cycle",
+      "evidenceId": "f08a9d99f658c7a0aae7",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax · Astronomy 2e",
+      "ref": "15.1",
+      "quote": "This means that the chromosphere is hotter than the photosphere",
+      "url": "https://openstax.org/books/astronomy-2e/pages/15-1-the-structure-and-composition-of-the-sun",
+      "evidenceId": "0ca6132e301deeccc99b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "NASA Marshall의 보통수일/매우큰흑점수주 지속 설명으로 ㄱ반증. OpenStax15.2 적도25일/위도80도36일로 ㄴ확인.15.1채층약10000K·광구보다뜨거움 및상층온도상승으로 ㄷ확인. 수명면적비례법칙·불필요세부수치 삭제, 일반적경향으로한정.",
+    "contentHash": "7564485731a4d002c8916fb71d3bd5046b2663515bf9f454c9cccb4bea049623"
+  }
+}

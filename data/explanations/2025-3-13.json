@@ -1,0 +1,85 @@
+{
+  "id": "2025-3-13",
+  "summary": "순수한 물에서의 용해도로 CaF₂의 용해도곱 Ksp를 구하면 3.2×10⁻¹¹입니다. 0.010 M NaF 수용액에서는 공통이온 F⁻ 때문에 용해도가 줄어들어 s = Ksp/(0.010)² = 3.2×10⁻⁷ M가 됩니다. 정답은 3.2×10⁻⁷입니다.",
+  "choices": [
+    "8.0×10⁻⁶ M은 오답입니다. Ksp=3.2×10⁻¹¹을 [F⁻]²≈(0.010)²로 나눈 용해도는 3.2×10⁻⁷ M입니다. 이 선지는 그보다 25배 큽니다.",
+    "3.2×10⁻⁷: 정답입니다. Ksp = 4s₀³ = 4×(2.0×10⁻⁴)³ = 3.2×10⁻¹¹입니다. NaF 용액에서는 [F⁻] ≈ 0.010 M이므로 s = 3.2×10⁻¹¹ / (1.0×10⁻⁴) = 3.2×10⁻⁷ M입니다. 이때 2s는 약 6.4×10⁻⁷ M로 0.010 M에 비해 무시할 수 있으므로 근사도 타당합니다.",
+    "8.0×10⁻⁸ M은 오답입니다. Ksp=[Ca²⁺][F⁻]²에서 이미 [F⁻]≈0.010 M을 사용하므로, 계산한 3.2×10⁻⁷ M을 다시 4로 나누지 않습니다.",
+    "3.2×10⁻⁹ M은 오답입니다. [F⁻]는 제곱하여 (0.010)²=1.0×10⁻⁴을 분모에 넣어야 합니다. 이 값은 올바른 근삿값보다 100배 작습니다.",
+    "8.0×10⁻¹⁰ M은 오답입니다. 이 농도를 s로 넣으면 s(0.010+2s)²≈8.0×10⁻¹⁴으로 Ksp=3.2×10⁻¹¹보다 훨씬 작아 포화 용해 평형을 만족하지 않습니다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 15.1: Precipitation and Dissolution",
+      "quote": "This is an example of a phenomenon known as the common ion effect",
+      "url": "https://openstax.org/books/chemistry-2e/pages/15-1-precipitation-and-dissolution",
+      "evidenceId": "a5e4dfdfeb3cf751ad42",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 15.1: Precipitation and Dissolution",
+      "quote": "This is an example of a phenomenon known as the common ion effect",
+      "url": "https://openstax.org/books/chemistry-2e/pages/15-1-precipitation-and-dissolution",
+      "evidenceId": "a5e4dfdfeb3cf751ad42",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 15.1: Precipitation and Dissolution",
+      "quote": "This is an example of a phenomenon known as the common ion effect",
+      "url": "https://openstax.org/books/chemistry-2e/pages/15-1-precipitation-and-dissolution",
+      "evidenceId": "a5e4dfdfeb3cf751ad42",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 15.1: Precipitation and Dissolution",
+      "quote": "This is an example of a phenomenon known as the common ion effect",
+      "url": "https://openstax.org/books/chemistry-2e/pages/15-1-precipitation-and-dissolution",
+      "evidenceId": "a5e4dfdfeb3cf751ad42",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 15.1: Precipitation and Dissolution",
+      "quote": "This is an example of a phenomenon known as the common ion effect",
+      "url": "https://openstax.org/books/chemistry-2e/pages/15-1-precipitation-and-dissolution",
+      "evidenceId": "a5e4dfdfeb3cf751ad42",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 15.1: Precipitation and Dissolution",
+      "quote": "This is an example of a phenomenon known as the common ion effect",
+      "url": "https://openstax.org/books/chemistry-2e/pages/15-1-precipitation-and-dissolution",
+      "evidenceId": "a5e4dfdfeb3cf751ad42",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Original image inspected; independent Ksp derivation and numerical cubic root; concentration approximation checked; incorrect speculative distractor explanations and fluoride notation corrected.",
+    "contentHash": "dc3498ada526dea504f926c662f4129e3a3802adc3f2cf3a2cafc2b66fcc5428"
+  }
+}

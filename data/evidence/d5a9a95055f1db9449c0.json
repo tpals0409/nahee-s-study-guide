@@ -1,0 +1,18 @@
+{
+  "id": "d5a9a95055f1db9449c0",
+  "kind": "science",
+  "source": "Science",
+  "ref": "A Programmable Dual-RNA–Guided DNA Endonuclease in Adaptive Bacterial Immunity",
+  "url": "https://doi.org/10.1126/science.1225829",
+  "excerpt": "dual-RNA structure that directs a Cas9 endonuclease",
+  "sourceHash": "b27caaaa1658817de98fba6bdd79edb47b060a259e9742480eeea7ea0e21c5cd",
+  "cacheSourceId": "32a0ef19ce016e326ce3",
+  "retrievedAt": "2026-11-07T02:00:23.170318+00:00",
+  "reviewedMappings": {
+    "2023-3-29:0": "① RNA유도 Cas9의 DNA이중가닥 절단과② dualRNA/가이드RNA 필요성을 뒷받침. NGG와 절단 위치를 모든 Cas9에 일반화하지 않음.",
+    "2023-3-29:1": "① RNA유도 Cas9의 DNA이중가닥 절단과② dualRNA/가이드RNA 필요성을 뒷받침. NGG와 절단 위치를 모든 Cas9에 일반화하지 않음.",
+    "2023-3-29:2": "① RNA유도 Cas9의 DNA이중가닥 절단과② dualRNA/가이드RNA 필요성을 뒷받침. NGG와 절단 위치를 모든 Cas9에 일반화하지 않음."
+  },
+  "retrievalMethod": "원논문 검색 색인에서 이중RNA 유도·위치특이적 DNA이중가닥 절단 및 단일키메라RNA 확인. 직접열기는403.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,85 @@
+{
+  "id": "2026-3-23",
+  "summary": "하디-바인베르크 평형의 5가지 조건은 돌연변이 없음, 무작위 교배, 자연선택 없음, 매우 큰 집단(유전적 부동 무시), 유전자 흐름(이주) 없음입니다. 보기 중 이 조건에 해당하는 것은 ㄴ(돌연변이 없음), ㄷ(무작위 교배), ㄹ(유전자 흐름 없음)이므로 정답은 'ㄴ, ㄷ, ㄹ'입니다.",
+  "choices": [
+    "ㄱ·ㄴ·ㄷ: ㄴ과 ㄷ은 조건에 해당하지만 ㄱ은 아닙니다. 표준 하디–바인베르크 모형은 유전자형에 따른 선택압이 없다고 가정하므로 강력한 자연선택은 그 가정과 반대입니다.",
+    "ㄱ·ㄴ·ㅁ: ㄴ만 조건에 해당합니다. 모형은 자연선택이 없고, 유전적 부동을 무시할 수 있는 무한히 큰 집단을 가정합니다. 강력한 자연선택과 작은 집단은 해당하지 않습니다.",
+    "ㄱ·ㄹ·ㅁ: ㄹ만 조건에 해당합니다. 자연선택이 없고 집단이 충분히 커서 유전적 부동을 무시할 수 있어야 하므로 ㄱ과 ㅁ은 평형조건이 아닙니다.",
+    "'ㄴ, ㄷ, ㄹ'이 정답입니다. 돌연변이가 없으면 새로운 대립유전자가 생기거나 대립유전자가 서로 바뀌지 않습니다. 무작위 교배가 이루어지면 배우자가 무작위로 결합하여 유전자형 빈도가 p², 2pq, q²가 됩니다. 유전자 흐름이 없으면 이입과 이출로 대립유전자가 들어오거나 나가지 않습니다. 세 가지 모두 평형조건에 해당합니다.",
+    "ㄷ·ㄹ·ㅁ: ㄷ과 ㄹ은 조건에 해당하지만 ㅁ은 아닙니다. 모형은 유전적 부동을 배제하기 위해 무한히 큰 집단을 가정하며, 실제 적용에서는 충분히 큰 집단으로 근사합니다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e, 19.1 Population Evolution",
+      "quote": "conditions with no mutations, migration, emigration, or selective pressure for or against genotype",
+      "url": "https://openstax.org/books/biology-2e/pages/19-1-population-evolution",
+      "evidenceId": "8ae9b104f81f87e73a0a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e, 19.1 Population Evolution",
+      "quote": "conditions with no mutations, migration, emigration, or selective pressure for or against genotype",
+      "url": "https://openstax.org/books/biology-2e/pages/19-1-population-evolution",
+      "evidenceId": "8ae9b104f81f87e73a0a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e, 19.1 Population Evolution",
+      "quote": "conditions with no mutations, migration, emigration, or selective pressure for or against genotype",
+      "url": "https://openstax.org/books/biology-2e/pages/19-1-population-evolution",
+      "evidenceId": "8ae9b104f81f87e73a0a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e, 19.1 Population Evolution",
+      "quote": "conditions with no mutations, migration, emigration, or selective pressure for or against genotype",
+      "url": "https://openstax.org/books/biology-2e/pages/19-1-population-evolution",
+      "evidenceId": "8ae9b104f81f87e73a0a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e, 19.1 Population Evolution",
+      "quote": "conditions with no mutations, migration, emigration, or selective pressure for or against genotype",
+      "url": "https://openstax.org/books/biology-2e/pages/19-1-population-evolution",
+      "evidenceId": "8ae9b104f81f87e73a0a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e, 19.1 Population Evolution",
+      "quote": "conditions with no mutations, migration, emigration, or selective pressure for or against genotype",
+      "url": "https://openstax.org/books/biology-2e/pages/19-1-population-evolution",
+      "evidenceId": "8ae9b104f81f87e73a0a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Full original image and all option combinations inspected; standard model assumptions directly reviewed in primary textbook, including random allele pairing and infinite population. Independent statement mapping yields4, matching canonical/local final key. Avoids claiming every selective event necessarily changes allele frequency.",
+    "contentHash": "40342c4cdf878decb70e016a232504ffcf45e5aac0f202e3b5f6702e7c3d3da0"
+  }
+}

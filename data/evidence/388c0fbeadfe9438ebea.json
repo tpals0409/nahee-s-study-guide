@@ -1,0 +1,18 @@
+{
+  "id": "388c0fbeadfe9438ebea",
+  "kind": "science",
+  "source": "국토지리정보원",
+  "ref": "대한민국 국가지도집 청소년판 2022 — 화산 지형",
+  "url": "https://nationalatlas.ngii.go.kr/pages/page_3808.php",
+  "excerpt": "신생대 제4기의 화산 활동 결과 백두산, 울릉도, 독도, 제주도, 한탄강 일대 등에 다양한 화산 지형이 만들어졌다.",
+  "sourceHash": "4c968e4728d8d7f0cf61a42dc562f934163e3cea0630432430bebf76f7320216",
+  "cacheSourceId": "bfda5fbcc1b8bb636995",
+  "retrievedAt": "2026-11-06T19:52:40.944395+00:00",
+  "reviewedMappings": {
+    "2015-3-32:0": "국가지도집의 화산지형 설명은 백두산·제주도·한탄강 일대의 제4기 화산활동을 명시한다. 철원–전곡은 한탄강 화산지형 지역에 해당하므로 ㅁ은 신생대 사건이다. 각 화산의 전체 활동 기간이 동일하다고 주장하지 않는다.",
+    "2015-3-32:4": "국가지도집의 화산지형 설명은 백두산·제주도·한탄강 일대의 제4기 화산활동을 명시한다. 철원–전곡은 한탄강 화산지형 지역에 해당하므로 ㅁ은 신생대 사건이다. 각 화산의 전체 활동 기간이 동일하다고 주장하지 않는다.",
+    "2015-3-32:5": "국가지도집의 화산지형 설명은 백두산·제주도·한탄강 일대의 제4기 화산활동을 명시한다. 철원–전곡은 한탄강 화산지형 지역에 해당하므로 ㅁ은 신생대 사건이다. 각 화산의 전체 활동 기간이 동일하다고 주장하지 않는다."
+  },
+  "retrievalMethod": "Search-indexed official atlas text reviewed; direct page open returned 400",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

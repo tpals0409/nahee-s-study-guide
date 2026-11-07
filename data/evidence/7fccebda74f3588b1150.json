@@ -1,0 +1,17 @@
+{
+  "id": "7fccebda74f3588b1150",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "7.2 Glycolysis",
+  "url": "https://openstax.org/books/biology-2e/pages/7-2-glycolysis",
+  "excerpt": "ends with two molecules of a three-carbon keto acid called pyruvate.",
+  "sourceHash": "bcb1136213def8ac8e5e1e7a3c364fe447b2ab7976eb287257685f189639e522",
+  "cacheSourceId": "85a67c4a9dc69c2e6a3e",
+  "retrievedAt": "2026-11-06T20:30:03.419648+00:00",
+  "reviewedMappings": {
+    "2016-3-24:0": "본문29–34 해당과정의 위치·포도당1→피루브산2·순ATP2/NADH2 확인.",
+    "2016-3-24:1": "해당과정 탄소최종산물 피루브산2분자. 회로진입전 산화와 해당과정 자체를 구분."
+  },
+  "retrievalMethod": "Direct web open and targeted find; relevant cellular respiration sections reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

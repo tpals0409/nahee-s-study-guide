@@ -1,0 +1,19 @@
+{
+  "id": "013cfbe113e189c077a7",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Astronomy 2e §17.3 The Spectra of Stars",
+  "url": "https://openstax.org/books/astronomy-2e/pages/17-3-the-spectra-of-stars-and-brown-dwarfs",
+  "excerpt": "From hottest to coldest, these seven spectral classes are designated O, B, A, F, G, K, and M.",
+  "sourceHash": "d6ddee2e1a495355934233d83b33e9e98b66c7584feb116233b93fabd55ae277",
+  "cacheSourceId": "5944179550ac0facad94",
+  "retrievedAt": "2026-11-06T22:58:36.400466+00:00",
+  "reviewedMappings": {
+    "2019-3-40:0": "분광형 B,A,M을 원본에서 읽고 온도 순서에 적용하여 베텔기우스가 가장 차갑다는 ㄴ을 확인했다.",
+    "2019-3-40:1": "분광형 B,A,M을 원본에서 읽고 온도 순서에 적용하여 베텔기우스가 가장 차갑다는 ㄴ을 확인했다.",
+    "2019-3-40:3": "분광형 B,A,M을 원본에서 읽고 온도 순서에 적용하여 베텔기우스가 가장 차갑다는 ㄴ을 확인했다.",
+    "2019-3-40:4": "분광형 B,A,M을 원본에서 읽고 온도 순서에 적용하여 베텔기우스가 가장 차갑다는 ㄴ을 확인했다."
+  },
+  "retrievalMethod": "Direct open line 42 temperature sequence; original 2019-3-40.webp visually checked for B,A,M positions.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "274251c740decd629be5",
+  "kind": "science",
+  "source": "U.S. Geological Survey",
+  "ref": "Why Should I Care? — The Central United States Is Your Home",
+  "url": "https://pubs.usgs.gov/gip/119/pdf/GIP119_ScreenVersion.pdf",
+  "excerpt": "But earthquakes occur away from plate boundaries as well—in intraplate regions in the center of continents.",
+  "sourceHash": "79f2f109a5a12bffa3b70a32b50b72c4df34f92c4e248d547ed830465c146807",
+  "cacheSourceId": "4227675f0f97307ccac1",
+  "retrievedAt": "2026-11-06T20:39:08.929990+00:00",
+  "reviewedMappings": {
+    "2016-3-31:0": "USGS의 판 내부 지진 설명으로 판 경계에서만 발생한다는 ④를 배제.",
+    "2016-3-31:4": "중부 미국의 판 내부 지진과 New Madrid 사례를 명시한다. 따라서 판 경계에서만이라는 단정은 반례가 있다."
+  },
+  "retrievalMethod": "Indexed search excerpt from USGS publication; full PDF not opened.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

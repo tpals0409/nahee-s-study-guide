@@ -1,0 +1,18 @@
+{
+  "id": "2da45f32a89d7d663232",
+  "kind": "science",
+  "source": "U.S. Geological Survey",
+  "ref": "Body waves inside the earth",
+  "url": "https://earthquake.usgs.gov/earthquakes/events/1906calif/18april/earthwaves.php",
+  "excerpt": "P waves travel fastest and are the first to arrive from the earthquake.",
+  "sourceHash": "e32e2a60caa977970ae220f53398df5bfb5a7851c4fcf9bbf163d8461e925a0d",
+  "cacheSourceId": "3ac43f0a19d4943174c1",
+  "retrievedAt": "2026-11-06T20:39:08.929321+00:00",
+  "reviewedMappings": {
+    "2016-3-31:0": "P파와 S파의 실체파 분류 및 속도 순서를 확인하여 ①② 배제.",
+    "2016-3-31:1": "본문은 P파와 S파를 지구 내부로 전파되는 body waves로 설명하고 지표면의 surface waves와 구별한다.",
+    "2016-3-31:2": "본문에 P파가 가장 빠르고 먼저 도달하며 S파가 뒤따른다고 명시되어 ②는 거짓."
+  },
+  "retrievalMethod": "Direct web open; body-wave text at lines 155–163 reviewed.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

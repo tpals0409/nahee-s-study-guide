@@ -1,0 +1,16 @@
+{
+  "id": "25193f49ed8f9350b941",
+  "kind": "science",
+  "source": "Nature Microbiology",
+  "ref": "Histones with an unconventional DNA-binding mode in vitro are major chromatin constituents in the bacterium Bdellovibrio bacteriovorus",
+  "url": "https://www.nature.com/articles/s41564-023-01492-x",
+  "excerpt": "histones are major chromatin components in the bacteria Bdellovibrio bacteriovorus and Leptospira interrogans",
+  "sourceHash": "0f5a6fb97b33dfdd34d80888ebb67ef4dfb672f2eb7c6010cb360f9479d45587",
+  "cacheSourceId": "28196a5284bb009efbe4",
+  "retrievedAt": "2026-11-07T00:24:10.873194+00:00",
+  "reviewedMappings": {
+    "2021-3-30:2": "2023년 원저는 Bdellovibrio와 Leptospira의 히스톤을 보고함. 히스톤이 있으면 세균이 아니라는 초안의 절대적 배제 근거를 반박하며, 2021년 교과서적 출제 범위와 현재의 예외 지식을 구별해야 함."
+  },
+  "retrievalMethod": "Publisher-indexed abstract search excerpt reviewed; direct article access failed with identity-provider redirect. Publication date 2023-10-09, after 2021 exam.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

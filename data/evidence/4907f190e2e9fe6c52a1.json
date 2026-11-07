@@ -1,0 +1,27 @@
+{
+  "id": "4907f190e2e9fe6c52a1",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "8.2 The Light-Dependent Reactions of Photosynthesis",
+  "url": "https://openstax.org/books/biology-2e/pages/8-2-the-light-dependent-reactions-of-photosynthesis",
+  "excerpt": "ATP synthase uses this electrochemical gradient to make ATP.",
+  "sourceHash": "4046171be42072c3809ebc6541d8e503ba8b6faf39f4407dfdd263610184461f",
+  "cacheSourceId": "2d07114a7d0a5b71a07b",
+  "retrievedAt": "2026-11-07T00:11:23.325258+00:00",
+  "reviewedMappings": {
+    "2019-3-24:0": "Direct web find: figure 8.17 and lines 73–95; ATP/NADPH production and water-splitting source of oxygen. 원문 보기와 대조: ㄱ ATP생성 부정은 거짓, ㄴ 명반응의 포도당 합성 부정은 참, ㄷ 산소 호흡의 최종 수용체 O₂는 참, ㄹ CO₂ 기원 O₂는 거짓. 이 출처가 다루는 해당 부분에 한해 연결.",
+    "2019-3-24:1": "Direct web find: figure 8.17 and lines 73–95; ATP/NADPH production and water-splitting source of oxygen. 원문 보기와 대조: ㄱ ATP생성 부정은 거짓, ㄴ 명반응의 포도당 합성 부정은 참, ㄷ 산소 호흡의 최종 수용체 O₂는 참, ㄹ CO₂ 기원 O₂는 거짓. 이 출처가 다루는 해당 부분에 한해 연결.",
+    "2019-3-24:2": "Direct web find: figure 8.17 and lines 73–95; ATP/NADPH production and water-splitting source of oxygen. 원문 보기와 대조: ㄱ ATP생성 부정은 거짓, ㄴ 명반응의 포도당 합성 부정은 참, ㄷ 산소 호흡의 최종 수용체 O₂는 참, ㄹ CO₂ 기원 O₂는 거짓. 이 출처가 다루는 해당 부분에 한해 연결.",
+    "2019-3-24:3": "Direct web find: figure 8.17 and lines 73–95; ATP/NADPH production and water-splitting source of oxygen. 원문 보기와 대조: ㄱ ATP생성 부정은 거짓, ㄴ 명반응의 포도당 합성 부정은 참, ㄷ 산소 호흡의 최종 수용체 O₂는 참, ㄹ CO₂ 기원 O₂는 거짓. 이 출처가 다루는 해당 부분에 한해 연결.",
+    "2019-3-24:4": "Direct web find: figure 8.17 and lines 73–95; ATP/NADPH production and water-splitting source of oxygen. 원문 보기와 대조: ㄱ ATP생성 부정은 거짓, ㄴ 명반응의 포도당 합성 부정은 참, ㄷ 산소 호흡의 최종 수용체 O₂는 참, ㄹ CO₂ 기원 O₂는 거짓. 이 출처가 다루는 해당 부분에 한해 연결.",
+    "2019-3-24:5": "Direct web find: figure 8.17 and lines 73–95; ATP/NADPH production and water-splitting source of oxygen. 원문 보기와 대조: ㄱ ATP생성 부정은 거짓, ㄴ 명반응의 포도당 합성 부정은 참, ㄷ 산소 호흡의 최종 수용체 O₂는 참, ㄹ CO₂ 기원 O₂는 거짓. 이 출처가 다루는 해당 부분에 한해 연결.",
+    "2021-3-21:0": "Direct lines73-95: PSII 물 산화로 O2 발생, 비순환 전자흐름의 NADP+ 환원과 양성자 기울기/ATP 합성. ㄱ은 명반응 운반체 NADP+를 NAD+로 바꿨으므로 거짓, ㄷ은 물 기원이므로 거짓, ㄹ은 참. 이 참거짓을 각 보기 조합에 적용.",
+    "2021-3-21:1": "Direct lines73-95: PSII 물 산화로 O2 발생, 비순환 전자흐름의 NADP+ 환원과 양성자 기울기/ATP 합성. ㄱ은 명반응 운반체 NADP+를 NAD+로 바꿨으므로 거짓, ㄷ은 물 기원이므로 거짓, ㄹ은 참. 이 참거짓을 각 보기 조합에 적용.",
+    "2021-3-21:2": "Direct lines73-95: PSII 물 산화로 O2 발생, 비순환 전자흐름의 NADP+ 환원과 양성자 기울기/ATP 합성. ㄱ은 명반응 운반체 NADP+를 NAD+로 바꿨으므로 거짓, ㄷ은 물 기원이므로 거짓, ㄹ은 참. 이 참거짓을 각 보기 조합에 적용.",
+    "2021-3-21:3": "Direct lines73-95: PSII 물 산화로 O2 발생, 비순환 전자흐름의 NADP+ 환원과 양성자 기울기/ATP 합성. ㄱ은 명반응 운반체 NADP+를 NAD+로 바꿨으므로 거짓, ㄷ은 물 기원이므로 거짓, ㄹ은 참. 이 참거짓을 각 보기 조합에 적용.",
+    "2021-3-21:4": "Direct lines73-95: PSII 물 산화로 O2 발생, 비순환 전자흐름의 NADP+ 환원과 양성자 기울기/ATP 합성. ㄱ은 명반응 운반체 NADP+를 NAD+로 바꿨으므로 거짓, ㄷ은 물 기원이므로 거짓, ㄹ은 참. 이 참거짓을 각 보기 조합에 적용.",
+    "2021-3-21:5": "Direct lines73-95: PSII 물 산화로 O2 발생, 비순환 전자흐름의 NADP+ 환원과 양성자 기울기/ATP 합성. ㄱ은 명반응 운반체 NADP+를 NAD+로 바꿨으므로 거짓, ㄷ은 물 기원이므로 거짓, ㄹ은 참. 이 참거짓을 각 보기 조합에 적용."
+  },
+  "retrievalMethod": "Direct lines73-95: PSII 물 산화로 O2 발생, 비순환 전자흐름의 NADP+ 환원과 양성자 기울기/ATP 합성. ㄱ은 명반응 운반체 NADP+를 NAD+로 바꿨으므로 거짓, ㄷ은 물 기원이므로 거짓, ㄹ은 참. 이 참거짓을 각 보기 조합에 적용.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

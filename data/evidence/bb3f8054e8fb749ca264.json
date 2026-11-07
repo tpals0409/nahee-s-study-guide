@@ -1,0 +1,20 @@
+{
+  "id": "bb3f8054e8fb749ca264",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "OpenStax Biology 2e §5.1 Components and Structure",
+  "url": "https://openstax.org/books/biology-2e/pages/5-1-components-and-structure",
+  "excerpt": "they float, moving somewhat with respect to one another.",
+  "sourceHash": "d35abd04dcdb38ad8ed355aa02ca025c505202a686ac4da5ae1dd2b4c3c479c6",
+  "cacheSourceId": "8c691e868932341c86b5",
+  "retrievedAt": "2026-11-06T18:10:54.736935+00:00",
+  "reviewedMappings": {
+    "2013-3-24:1": "Membrane Fluidity 문단의 불포화꼬리 굽힘·밀집방해·유동성 유지 대조. 같은온도·다른조건동일 및 생체막 cis지방산 범위로 표현.",
+    "2013-3-24:2": "Membrane Fluidity 문단에서 지질과 단백질이 서로 상대이동함을 확인. 막평면 측방이동을 부정한②가 오답진술.",
+    "2013-3-24:3": "Carbohydrates 문단: 외측 glycoprotein/glycolipid 당사슬, 세포상호인식·self/nonself 기능 확인.",
+    "2013-3-24:4": "Phospholipids 문단: 친수머리·소수꼬리와 amphiphilic 정의 확인.",
+    "2013-3-24:5": "Proteins 및 Table5.1: 내재성단백질은 소수영역이 지질층내부와 상호작용; 표재성은 표면부착. 일부내재성은 단층에만 삽입되므로 전부관통한다는 표현 삭제."
+  },
+  "retrievalMethod": "web.open; inspected full relevant section",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

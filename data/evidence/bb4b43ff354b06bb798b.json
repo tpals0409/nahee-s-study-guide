@@ -1,0 +1,21 @@
+{
+  "id": "bb4b43ff354b06bb798b",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume 2, 15.3: RLC Series Circuits with AC",
+  "url": "https://openstax.org/books/university-physics-volume-2/pages/15-3-rlc-series-circuits-with-ac",
+  "excerpt": "the same current flows through each element at all points in time",
+  "sourceHash": "390d63431c5c80e1a7a04299bbb3759d1d27071c503baca3cb3071a7ae53a7c1",
+  "cacheSourceId": "bb7d614fe1c9db562d30",
+  "retrievedAt": "2026-11-07T03:00:49.934136+00:00",
+  "reviewedMappings": {
+    "2025-3-06:0": "직렬 공통 전류와 V_R=I0 R, V_L=I0 XL, V_C=I0 XC 및 전압 페이저 합성식 확인. 주어진 최댓값을 일관되게 사용해 XL=45Ω 도출.",
+    "2025-3-06:1": "15Ω은 XC이고 XL로 대입하면 전원 진폭 80V여서 불일치.",
+    "2025-3-06:2": "20Ω 대입 시 전원 진폭 제곱이 6500으로 10000과 불일치.",
+    "2025-3-06:3": "30Ω은 XL−XC이며 XL로 대입 시 진폭 제곱 7300으로 불일치.",
+    "2025-3-06:4": "40Ω 대입 시 진폭 제곱 8900으로 불일치.",
+    "2025-3-06:5": "45Ω 대입 시 VL=90V, 전원 진폭 100V, Z=50Ω로 모든 조건 일치."
+  },
+  "retrievalMethod": "Direct phasor amplitude relations and equations 15.10–15.11 reviewed.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

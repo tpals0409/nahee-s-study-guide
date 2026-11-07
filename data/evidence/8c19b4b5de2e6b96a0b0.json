@@ -1,0 +1,27 @@
+{
+  "id": "8c19b4b5de2e6b96a0b0",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 2e, 14.3 Relative Strengths of Acids and Bases",
+  "url": "https://openstax.org/books/chemistry-2e/pages/14-3-relative-strengths-of-acids-and-bases",
+  "excerpt": "where the concentrations are those at equilibrium.",
+  "sourceHash": "a09761233e978cc5355cdcdcd00df552cfb8c86e5272b1e639241bb50587752a",
+  "cacheSourceId": "8e6054161ca2195a918e",
+  "retrievedAt": "2026-11-07T02:33:24.989510+00:00",
+  "reviewedMappings": {
+    "2023-3-20:0": "Ka평형식과 해리분율 α=[A−]/([HA]+[A−])에서 [H+]=Ka(1−α)/α. pH6이면α10/11. 물자동이온화 무시 없이 질량·전하수지 교차검산하여④.",
+    "2023-3-20:1": "α0.01을Ka식에 대입하여pH3.004로6과차2.996.",
+    "2023-3-20:2": "α0.09이면pH3.995로6과차2.005.",
+    "2023-3-20:3": "α0.5이면[A−]=[HA], [H+]=Ka이므로pH5.",
+    "2023-3-20:4": "α0.91이면[A−]/[HA]=91/9,pH6.0048로6에가장가까움.",
+    "2023-3-20:5": "α0.99이면pH6.9956. 정확히중성이라는뜻이아니며6과차0.9956으로④보다큼.",
+    "2024-3-20:0": "Ka=[H+][F−]/[HF] yields x=7 and free-fluoride fraction 1/8; use supplied Ka, not external tabulated constants. Combined equilibrium/mass balance gives result 28.",
+    "2024-3-20:1": "Ka=[H+][F−]/[HF] yields x=7 and free-fluoride fraction 1/8; use supplied Ka, not external tabulated constants. 28 agrees with x7 times z/y4.",
+    "2024-3-20:2": "Ka=[H+][F−]/[HF] yields x=7 and free-fluoride fraction 1/8; use supplied Ka, not external tabulated constants. 35 would need z/y5, contradicting cubic ratio64.",
+    "2024-3-20:3": "Ka=[H+][F−]/[HF] yields x=7 and free-fluoride fraction 1/8; use supplied Ka, not external tabulated constants. 42 would need z/y6, contradicting cubic ratio64.",
+    "2024-3-20:4": "Ka=[H+][F−]/[HF] yields x=7 and free-fluoride fraction 1/8; use supplied Ka, not external tabulated constants. 49 would need z/y7, contradicting cubic ratio64.",
+    "2024-3-20:5": "Ka=[H+][F−]/[HF] yields x=7 and free-fluoride fraction 1/8; use supplied Ka, not external tabulated constants. 56 would need z/y8, contradicting cubic ratio64."
+  },
+  "retrievalMethod": "Direct OpenStax text and equations reviewed. Ka=[H+][F−]/[HF] yields x=7 and free-fluoride fraction 1/8; use supplied Ka, not external tabulated constants.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

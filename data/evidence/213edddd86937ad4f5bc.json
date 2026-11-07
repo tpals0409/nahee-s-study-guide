@@ -1,0 +1,20 @@
+{
+  "id": "213edddd86937ad4f5bc",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Organic Chemistry, 13.2 The Nature of NMR Absorptions",
+  "url": "https://openstax.org/books/organic-chemistry/pages/13-2-the-nature-of-nmr-absorptions",
+  "excerpt": "Chemically equivalent nuclei always show the same absorption.",
+  "sourceHash": "46f4d8f8fdbd0f61adc65de27696671460217bd47bd82b816423b56f1fdf6d5a",
+  "cacheSourceId": "11ae57167a1c1017c346",
+  "retrievedAt": "2026-11-07T00:05:50.123623+00:00",
+  "reviewedMappings": {
+    "2021-3-15:0": "일반적인 양성자 탈결합 13C 스펙트럼의 화학적으로 다른 탄소 환경 수를 셈. iPrOMe3,tBuOH2를 IR 결과와 결합하여 해당 구조쌍 선택.",
+    "2021-3-15:1": "iPrOMe: OCH/OCH3/동등한 두 CH3의 세 환경. tBuOH: COH/동등한 세 CH3의 두 환경. 표의 3개/2개와 일치.",
+    "2021-3-15:2": "iBuOH: CH2OH/CH/동등한 두 CH3의 세 환경이므로 B의 두 신호와 불일치.",
+    "2021-3-15:4": "iBuOH3,Et2O2는 개수만 일치하므로 IR 조건도 결합해야 함.",
+    "2021-3-15:5": "Et2O의 두 CH2가 동등하고 두 CH3가 동등하여 두 환경. A의 세 신호와 불일치."
+  },
+  "retrievalMethod": "Direct page lines 29-35 reviewed: chemical environments, proton-decoupled carbon spectrum, equivalent nuclei. Original question figure checked in preceding review.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

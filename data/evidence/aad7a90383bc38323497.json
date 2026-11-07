@@ -1,0 +1,17 @@
+{
+  "id": "aad7a90383bc38323497",
+  "kind": "science",
+  "source": "NASA",
+  "ref": "NASA/Marshall Solar Physics — The Corona",
+  "url": "https://solarscience.msfc.nasa.gov/corona.shtml",
+  "excerpt": "It is visible during total eclipses of the Sun as a pearly white crown surrounding the Sun.",
+  "sourceHash": "93c553952df07f858ec39a3a13e709fe3dbc61c5f1b36609748a943aa16e2f24",
+  "cacheSourceId": "14d6df47a7cd75a20d20",
+  "retrievedAt": "2026-11-06T20:47:31.024317+00:00",
+  "reviewedMappings": {
+    "2016-3-38:0": "개기일식에서 코로나를 관측할 수 있어 ①을 배제.",
+    "2016-3-38:1": "NASA는 개기일식 동안 태양을 둘러싼 흰 왕관 모양으로 코로나가 보인다고 명시. 관측 불가라는 주장은 거짓."
+  },
+  "retrievalMethod": "Indexed search excerpt reviewed; full page not opened.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

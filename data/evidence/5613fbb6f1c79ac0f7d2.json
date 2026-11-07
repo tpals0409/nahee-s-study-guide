@@ -1,0 +1,16 @@
+{
+  "id": "5613fbb6f1c79ac0f7d2",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "OpenStax University Physics Volume 3 §3.4 Interference in Thin Films, Example 3.3",
+  "url": "https://openstax.org/books/university-physics-volume-3/pages/3-4-interference-in-thin-films",
+  "excerpt": "Thus, to obtain destructive interference, ray 2 needs to travel a half wavelength farther than ray 1.",
+  "sourceHash": "3a9bad4bcfa84f42796e4a7d4348e205ab331f58eaa4fafaa5ccaff96937272f",
+  "cacheSourceId": "d507627471974ebcde3f",
+  "retrievedAt": "2026-11-06T17:53:00.233068+00:00",
+  "reviewedMappings": {
+    "2013-3-08:0": "원본 2013-3-08_1.webp 굴절률1,1.45,3.50, 파장580nm, 입사각0°, 최소 반사 두께 확인. §3.4 양쪽 높은 굴절률 경계 반사의 π위상변화 및 Example3.3의 같은 굴절률 순서에서 t=λ/(4n) 도출 직접 대조. 광경로차2nd=290nm 조건; 선택지별72.5,145,174,232,290nm 중⑤만 일치. 반사 최소를 반사율0이라고 단정하지 않음."
+  },
+  "retrievalMethod": "web.open; phase rules and Example 3.3 directly reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

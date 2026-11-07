@@ -1,0 +1,14 @@
+{
+  "id": "6f8fe56faafd86cd49a8",
+  "kind": "science",
+  "source": "OpenStax · Biology 2e",
+  "ref": "12.2 Characteristics and Traits · X-Linked Traits",
+  "url": "https://openstax.org/books/biology-2e/pages/12-2-characteristics-and-traits",
+  "excerpt": "Red eye color is wild-type and is dominant to white eye color.",
+  "sourceHash": "e2475a714affca66562794e04c4abe3a509c920820e8f20e6f56c028e45c43a4",
+  "cacheSourceId": "1ef1b0b49cbc1d4678e0",
+  "retrievedAt": "2026-11-06T15:41:24.799005+00:00",
+  "reviewedMappings": {
+    "2010-3-23:0": "교재 X-Linked Traits 및 Figure 12.11에서 white 유전자의 X 위치와 red 우성 확인. XRXr×XRY 네 조합을 독립 작성: 딸 XRXR/XRXr, 아들 XRY/XrY 각각 1/4. 예상 108:54:54와 관찰 110:55:51 비교. 빨강 암컷 일부 보인자이므로 ㄹ 거짓, Y연관이면 수컷 분리 불가하므로 ㄱ 거짓."
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "595d5928782824bdcc33",
+  "kind": "science",
+  "source": "Steven Earle · BCcampus",
+  "ref": "Physical Geology 2e, 7.5 Contact Metamorphism and Hydrothermal Processes",
+  "url": "https://opentextbc.ca/physicalgeology2ed/chapter/7-5-contact-metamorphism-and-hydrothermal-processes/",
+  "excerpt": "marble and quartzite can also form during regional metamorphism",
+  "sourceHash": "8d22d6eb25e0540d52f2c53dd409a461ebfa8feb1dfeb3a6faf95665d259344b",
+  "cacheSourceId": "3a7955b944a41442760a",
+  "retrievedAt": "2026-11-06T15:54:49.698588+00:00",
+  "reviewedMappings": {
+    "2010-3-32:1": "접촉변성 문맥에서 sandstone to quartzite를 직접 확인. ① 성립.",
+    "2010-3-32:3": "대리암과 규암이 광역변성에서도 형성된다는 직접 설명 확인. ③ 성립."
+  },
+  "retrievalMethod": "web.find quartzite; section paragraphs on contact metamorphism and parent rocks read",
+  "sourceHashScope": "Selected excerpt only"
+}

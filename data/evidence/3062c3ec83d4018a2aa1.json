@@ -1,0 +1,18 @@
+{
+  "id": "3062c3ec83d4018a2aa1",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 2e, 16.4 Free Energy",
+  "url": "https://openstax.org/books/chemistry-2e/pages/16-4-free-energy",
+  "excerpt": "at constant temperature and pressure, the free energy change",
+  "sourceHash": "b890cc2e2a87df9f890a55c12b79548891feb84ca54449432450707685479b79",
+  "cacheSourceId": "ce8d4da97aac4684188c",
+  "retrievedAt": "2026-11-06T23:58:21.583570+00:00",
+  "reviewedMappings": {
+    "2021-3-13:4": "D to E is equilibrium vaporization at fixed T,p for same total one mole; deltaG=0, so equal G, not necessarily zero absolute G.",
+    "2021-3-13:5": "At constant pressure with only PV work, absorbed heat equals enthalpy increase. Original heating curve orders input heat A<B<C<D<E, so A has lowest H.",
+    "2021-3-13:0": "원본에서 D와 E 모두 같은 100°C 상변화 평탄부. 일정 T,p 평형에서 ΔG=0이므로 D와 E의 총 G가 같음. G 자체가 0이라는 주장이 아니며 몰수가 같은 1몰 계를 비교함."
+  },
+  "retrievalMethod": "Direct web review lines 32–60: G=H-TS, constant T,p change, qp=deltaH, equilibrium deltaG=0. Original exam image reviewed: A solid warming, B fusion plateau, C liquid warming, D and E both interior to same 100 C vaporization plateau at 1 atm. Only free-energy and enthalpy mappings registered this pass; internal-energy and entropy claims still require review.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

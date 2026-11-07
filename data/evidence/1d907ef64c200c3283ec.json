@@ -1,0 +1,21 @@
+{
+  "id": "1d907ef64c200c3283ec",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e §4.5 — The Cytoskeleton",
+  "url": "https://openstax.org/books/biology-2e/pages/4-5-the-cytoskeleton",
+  "excerpt": "we also call microfilaments actin filaments.",
+  "sourceHash": "6c8d133ab7a58bd110438f48f88063c231b8e7b8eb970266a310c41b401d2da1",
+  "cacheSourceId": "d7f8eed637c75ee77ae2",
+  "retrievedAt": "2026-11-06T22:01:33.307198+00:00",
+  "reviewedMappings": {
+    "2018-3-26:0": "미세섬유=액틴, 미세소관=αβ튜불린 및 염색체 이동 설명 직접 검토. ㄱㄴ의 용어 대응 지지. 섬모 등의 무관한 내용은 사용하지 않음.",
+    "2018-3-26:1": "미세섬유=액틴, 미세소관=αβ튜불린 및 염색체 이동 설명 직접 검토. ㄱㄴ의 용어 대응 지지. 섬모 등의 무관한 내용은 사용하지 않음.",
+    "2018-3-26:2": "미세섬유=액틴, 미세소관=αβ튜불린 및 염색체 이동 설명 직접 검토. ㄱㄴ의 용어 대응 지지. 섬모 등의 무관한 내용은 사용하지 않음.",
+    "2018-3-26:3": "미세섬유=액틴, 미세소관=αβ튜불린 및 염색체 이동 설명 직접 검토. ㄱㄴ의 용어 대응 지지. 섬모 등의 무관한 내용은 사용하지 않음.",
+    "2018-3-26:4": "미세섬유=액틴, 미세소관=αβ튜불린 및 염색체 이동 설명 직접 검토. ㄱㄴ의 용어 대응 지지. 섬모 등의 무관한 내용은 사용하지 않음.",
+    "2018-3-26:5": "미세섬유=액틴, 미세소관=αβ튜불린 및 염색체 이동 설명 직접 검토. ㄱㄴ의 용어 대응 지지. 섬모 등의 무관한 내용은 사용하지 않음."
+  },
+  "retrievalMethod": "Direct web open; microfilament and microtubule sections reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

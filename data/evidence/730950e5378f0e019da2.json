@@ -1,0 +1,16 @@
+{
+  "id": "730950e5378f0e019da2",
+  "kind": "science",
+  "source": "Steven Earle · BCcampus",
+  "ref": "Physical Geology 2e, 10.3 Geological Renaissance of the Mid-20th Century",
+  "url": "https://opentextbc.ca/physicalgeology2ed/chapter/10-3-geological-renaissance-of-the-mid-20th-century/",
+  "excerpt": "higher than average along the ridges, and lower than average in the trench areas.",
+  "sourceHash": "1af39aa01979d22ad55d82e1c9ac897fc7041a78e571685eb9dba7440c9685eb",
+  "cacheSourceId": "39464564d8fe7265bc08",
+  "retrievedAt": "2026-11-06T15:56:38.058932+00:00",
+  "reviewedMappings": {
+    "2010-3-33:1": "열류량 관측 문단, 해령의 얕은 지진과 해구 부근 깊은 지진 문단을 확인. 추가 PREM 수치나 임의의 깊이 기준 없이 해당 진술 범위만 설명."
+  },
+  "retrievalMethod": "web.find relevant sections and surrounding paragraphs read",
+  "sourceHashScope": "Selected excerpts only"
+}

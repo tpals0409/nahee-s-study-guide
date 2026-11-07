@@ -1,0 +1,86 @@
+{
+  "id": "2015-3-25",
+  "summary": "정답은 ① 2분자입니다. 반보존적 복제로 처음의 ¹⁵N 가닥 두 개가 각각 새 ¹⁴N 가닥과 짝을 이룹니다. 1회 복제 이후 혼성 DNA는 계속 2분자이며, 5회 후 나머지 30분자는 ¹⁴N–¹⁴N입니다.",
+  "choices": [
+    "정답입니다. 최초의 ¹⁵N 가닥은 두 개이고, 1회 복제 후부터 서로 다른 DNA 분자에 하나씩 남습니다. 따라서 5회 후에도 ¹⁵N–¹⁴N은 2분자입니다.",
+    "오답입니다. 혼성 DNA 4분자에는 ¹⁵N 가닥이 네 개 필요하지만, 이 조건에서 보존되는 최초의 무거운 가닥은 두 개뿐입니다.",
+    "오답입니다. 전체 DNA 수는 복제마다 배가되지만 최초의 ¹⁵N 가닥 수는 늘어나지 않습니다. 따라서 혼성 DNA가 8분자로 증가하지 않습니다.",
+    "오답입니다. 5회 후 전체 32분자 중 혼성 분자의 비율은 2/32=1/16입니다. 혼성이 전체의 절반인 16분자가 되는 것은 아닙니다.",
+    "오답입니다. 32는 전체 DNA 분자 수입니다. 5회 후 구성은 혼성 2분자와 가벼운 DNA 30분자이므로 전부 혼성이 아닙니다."
+  ],
+  "lawNote": "새 가닥은 모두 ¹⁴N으로 합성되고 기존 가닥의 분해·재조합은 고려하지 않는 반보존적 복제 모형입니다. n≥1에서 전체 분자 수는 2ⁿ, 혼성 분자 수는 2, 가벼운 분자 수는 2ⁿ−2입니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e 14.3 — Basics of DNA Replication",
+      "quote": "each double-stranded DNA includes one parental or “old” strand and one “new” strand.",
+      "url": "https://openstax.org/books/biology-2e/pages/14-3-basics-of-dna-replication",
+      "evidenceId": "57b5c16fd391f824de41",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e 14.3 — Basics of DNA Replication",
+      "quote": "each double-stranded DNA includes one parental or “old” strand and one “new” strand.",
+      "url": "https://openstax.org/books/biology-2e/pages/14-3-basics-of-dna-replication",
+      "evidenceId": "57b5c16fd391f824de41",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e 14.3 — Basics of DNA Replication",
+      "quote": "each double-stranded DNA includes one parental or “old” strand and one “new” strand.",
+      "url": "https://openstax.org/books/biology-2e/pages/14-3-basics-of-dna-replication",
+      "evidenceId": "57b5c16fd391f824de41",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e 14.3 — Basics of DNA Replication",
+      "quote": "each double-stranded DNA includes one parental or “old” strand and one “new” strand.",
+      "url": "https://openstax.org/books/biology-2e/pages/14-3-basics-of-dna-replication",
+      "evidenceId": "57b5c16fd391f824de41",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e 14.3 — Basics of DNA Replication",
+      "quote": "each double-stranded DNA includes one parental or “old” strand and one “new” strand.",
+      "url": "https://openstax.org/books/biology-2e/pages/14-3-basics-of-dna-replication",
+      "evidenceId": "57b5c16fd391f824de41",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e 14.3 — Basics of DNA Replication",
+      "quote": "each double-stranded DNA includes one parental or “old” strand and one “new” strand.",
+      "url": "https://openstax.org/books/biology-2e/pages/14-3-basics-of-dna-replication",
+      "evidenceId": "57b5c16fd391f824de41",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "Original image and isotope conditions checked. Semiconservative mechanism matched to source; individual-strand simulation for five rounds verified total doubling, exactly two conserved heavy strands, and final 2 hybrid/30 light duplexes. Removed guessed distractor origins and unsupported official-key claim.",
+    "contentHash": "8c1cae172751f27c449f021105ae712ea354ddb89010ac77db3cd25d43c4f59f"
+  }
+}

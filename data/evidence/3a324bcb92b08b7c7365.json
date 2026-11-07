@@ -1,0 +1,20 @@
+{
+  "id": "3a324bcb92b08b7c7365",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e — 44.1 The Scope of Ecology",
+  "url": "https://openstax.org/books/biology-2e/pages/44-1-the-scope-of-ecology",
+  "excerpt": "abiotic components (nonliving things)",
+  "sourceHash": "c06e1d3c949f2f7e934d38eb52ea629337ad31c0793a7c191982f2bad11887cf",
+  "cacheSourceId": "6450987ef593c4af9d3c",
+  "retrievedAt": "2026-11-06T20:38:09.311347+00:00",
+  "reviewedMappings": {
+    "2016-3-30:0": "본문의 생물/비생물 구분 및 종간 관계와 문제에 제시된 정의를 적용한다. 단어 interaction의 일반적 의미가 아니라 문항의 정의로 분류한다.",
+    "2016-3-30:1": "곰의 겨울잠은 이 문항에서 계절 환경에 대한 반응으로 제시되며 다른 생물과의 관계를 직접 기술하지 않는다. 교재는 생물과 비생물 환경을 구분하는 개념 근거이며 동면 기전의 근거로 사용하지 않는다.",
+    "2016-3-30:2": "불빛은 비생물 요인, 나방은 생물이다. 제시 현상을 빛에 대한 반응으로 분류하며 유인 기전을 단정하지 않는다.",
+    "2016-3-30:3": "계절적 환경과 나비의 몸 크기라는 문항 조건을 생물-환경 관계로 분류한다. 특정 종의 생리 기전을 추가하지 않는다.",
+    "2016-3-30:5": "일조량과 강수량은 비생물 조건이고 벼는 생물이다. 문제에 제시된 수확량 변화를 작용으로 분류한다."
+  },
+  "retrievalMethod": "Direct web open; relevant ecology definitions or Ant Management section reviewed.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

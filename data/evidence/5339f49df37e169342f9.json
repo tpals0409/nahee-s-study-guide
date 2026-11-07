@@ -1,0 +1,21 @@
+{
+  "id": "5339f49df37e169342f9",
+  "kind": "science",
+  "source": "OpenStax University Physics Volume 2",
+  "ref": "Chapter 5 Summary",
+  "url": "https://openstax.org/books/university-physics-volume-2/pages/5-summary",
+  "excerpt": "the net charge of a closed system is constant.",
+  "sourceHash": "f866a455af87e335e4be2ba68bdcdbd321117d2316a8b1350a6ccedc78a7add3",
+  "cacheSourceId": "fdffaf7c38a3d8f9ee5e",
+  "retrievedAt": "2026-11-07T01:31:27.910508+00:00",
+  "reviewedMappings": {
+    "2023-3-05:0": "이상 축전기 사이 가운데 도체는 외부 전하 유출입이 없으므로 초기 −Q_A0+Q_B0와 최종 −Q_A+Q_B가 같음. 이 보존식과 전압식으로 각 보기 검증.",
+    "2023-3-05:1": "이상 축전기 사이 가운데 도체는 외부 전하 유출입이 없으므로 초기 −Q_A0+Q_B0와 최종 −Q_A+Q_B가 같음. 이 보존식과 전압식으로 각 보기 검증.",
+    "2023-3-05:2": "이상 축전기 사이 가운데 도체는 외부 전하 유출입이 없으므로 초기 −Q_A0+Q_B0와 최종 −Q_A+Q_B가 같음. 이 보존식과 전압식으로 각 보기 검증.",
+    "2023-3-05:3": "이상 축전기 사이 가운데 도체는 외부 전하 유출입이 없으므로 초기 −Q_A0+Q_B0와 최종 −Q_A+Q_B가 같음. 이 보존식과 전압식으로 각 보기 검증.",
+    "2023-3-05:4": "이상 축전기 사이 가운데 도체는 외부 전하 유출입이 없으므로 초기 −Q_A0+Q_B0와 최종 −Q_A+Q_B가 같음. 이 보존식과 전압식으로 각 보기 검증.",
+    "2023-3-05:5": "이상 축전기 사이 가운데 도체는 외부 전하 유출입이 없으므로 초기 −Q_A0+Q_B0와 최종 −Q_A+Q_B가 같음. 이 보존식과 전압식으로 각 보기 검증."
+  },
+  "retrievalMethod": "Primary-source indexed search text, section 5.1 summary. Incorrect alternate chapter URL failed and was not used as evidence.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

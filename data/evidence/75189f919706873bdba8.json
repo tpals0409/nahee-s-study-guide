@@ -1,0 +1,21 @@
+{
+  "id": "75189f919706873bdba8",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume 3 §6.5, Eq. 6.54",
+  "url": "https://openstax.org/books/university-physics-volume-3/pages/6-5-de-broglies-matter-waves",
+  "excerpt": "When the problem involves a nonrelativistic object moving with a nonrelativistic speed u,",
+  "sourceHash": "11b82f4a0fe0d338eb2dadb6eb6c684d41d2b36a0f28358cbd7d7a95d316c4e8",
+  "cacheSourceId": "1c6737faed849ba81d64",
+  "retrievedAt": "2026-11-06T21:39:52.599544+00:00",
+  "reviewedMappings": {
+    "2018-3-03:0": "식6.54 λ=h/p와 비상대론적 운동량 적용 설명을 검토. 원문 r_B/r_A=2, 동일 T·m에서 p_B/p_A=2, 따라서 파장비2. 선택지 수치와 대조하여 ④만 일치.",
+    "2018-3-03:1": "식6.54 λ=h/p와 비상대론적 운동량 적용 설명을 검토. 원문 r_B/r_A=2, 동일 T·m에서 p_B/p_A=2, 따라서 파장비2. 선택지 수치와 대조하여 ④만 일치.",
+    "2018-3-03:2": "식6.54 λ=h/p와 비상대론적 운동량 적용 설명을 검토. 원문 r_B/r_A=2, 동일 T·m에서 p_B/p_A=2, 따라서 파장비2. 선택지 수치와 대조하여 ④만 일치.",
+    "2018-3-03:3": "식6.54 λ=h/p와 비상대론적 운동량 적용 설명을 검토. 원문 r_B/r_A=2, 동일 T·m에서 p_B/p_A=2, 따라서 파장비2. 선택지 수치와 대조하여 ④만 일치.",
+    "2018-3-03:4": "식6.54 λ=h/p와 비상대론적 운동량 적용 설명을 검토. 원문 r_B/r_A=2, 동일 T·m에서 p_B/p_A=2, 따라서 파장비2. 선택지 수치와 대조하여 ④만 일치.",
+    "2018-3-03:5": "식6.54 λ=h/p와 비상대론적 운동량 적용 설명을 검토. 원문 r_B/r_A=2, 동일 T·m에서 p_B/p_A=2, 따라서 파장비2. 선택지 수치와 대조하여 ④만 일치."
+  },
+  "retrievalMethod": "Direct source opened; cited equations and surrounding discussion reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

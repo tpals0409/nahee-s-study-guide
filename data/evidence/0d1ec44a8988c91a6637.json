@@ -1,0 +1,18 @@
+{
+  "id": "0d1ec44a8988c91a6637",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Astronomy 2e, Chapter 25 Summary",
+  "url": "https://openstax.org/books/astronomy-2e/pages/25-summary",
+  "excerpt": "a spherical halo containing populations of very old stars",
+  "sourceHash": "042237ba916b620edcb007434338c229be7a4524d163e06888f4ce2c4aa348c0",
+  "cacheSourceId": "39f65cb9ca37f0ffbd7a",
+  "retrievedAt": "2026-11-07T02:13:57.190791+00:00",
+  "reviewedMappings": {
+    "2023-3-40:0": "25.1의 오래된 별·구상성단 헤일로 분포와 25.5의 나선팔에 집중되는 상대적으로 젊은 종족I를 직접 대조했다. 헤일로 전체와 별 헤일로를 구분하고 가스가 거의 없다는 포괄적 단정은 제거했다.",
+    "2023-3-40:4": "25.1의 오래된 별·구상성단 헤일로 분포와 25.5의 나선팔에 집중되는 상대적으로 젊은 종족I를 직접 대조했다. 헤일로 전체와 별 헤일로를 구분하고 가스가 거의 없다는 포괄적 단정은 제거했다.",
+    "2023-3-40:5": "25.1의 오래된 별·구상성단 헤일로 분포와 25.5의 나선팔에 집중되는 상대적으로 젊은 종족I를 직접 대조했다. 헤일로 전체와 별 헤일로를 구분하고 가스가 거의 없다는 포괄적 단정은 제거했다."
+  },
+  "retrievalMethod": "Direct web open; reviewed Milky Way structure, location and stellar populations",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

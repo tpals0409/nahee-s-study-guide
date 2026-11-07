@@ -1,0 +1,16 @@
+{
+  "id": "d424b05f5f2ad11a69d6",
+  "kind": "science",
+  "source": "US Geological Survey",
+  "ref": "Seismic shadow zone",
+  "url": "https://www.usgs.gov/media/images/shadowzonegif",
+  "excerpt": "P waves being bent (refracted) by the liquid core",
+  "sourceHash": "5c1b67c2581a8f5b96f7d27506f5248688e89dd5213f9b99feeda27b0b69eb03",
+  "cacheSourceId": "806098456d65af72c066",
+  "retrievedAt": "2026-11-06T19:01:36.618333+00:00",
+  "reviewedMappings": {
+    "2014-3-31:1": "USGS 도해 설명의 P파 굴절 및 S파 차단을 원본과 대조. 암영대는 외핵 층명이 아님. 직접파 기준이며 모든 변환/회절파 부재로 확장하지 않음."
+  },
+  "retrievalMethod": "web.search_query indexed USGS image description; direct open timed out",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

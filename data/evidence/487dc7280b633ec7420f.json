@@ -1,0 +1,20 @@
+{
+  "id": "487dc7280b633ec7420f",
+  "kind": "science",
+  "source": "NOAA",
+  "ref": "Glossary of NHC Terms — Tropical Cyclone",
+  "url": "https://www.nhc.noaa.gov/aboutgloss.shtml",
+  "excerpt": "A warm-core non-frontal synoptic-scale cyclone",
+  "sourceHash": "cebe4acf007880d6bff1d3220d0ccc98956119a72c4e8cb914ba93d10c17a0d0",
+  "cacheSourceId": "bd3cc14ab3d78af2a971",
+  "retrievedAt": "2026-11-06T22:14:45.941432+00:00",
+  "reviewedMappings": {
+    "2018-3-37:0": "ㄱ 열대저기압 비전선성, ㄴ 눈 중심 약풍/눈벽 강풍으로 거짓; ㄷ 북반구 진행 오른쪽 위험반원 참. 종합②. 해당 출처의 정의 또는 풍속 구조를 다른 연결 자료와 함께 적용.",
+    "2018-3-37:1": "전선을 동반한다는 ㄱ 거짓. 해당 출처의 정의 또는 풍속 구조를 다른 연결 자료와 함께 적용.",
+    "2018-3-37:2": "ㄱㄴ 거짓, ㄷ 진행방향 오른쪽의 합성 풍속 증가 참으로 ㄷ만 고른②. 해당 출처의 정의 또는 풍속 구조를 다른 연결 자료와 함께 적용.",
+    "2018-3-37:3": "전선 ㄱ과 눈 중심 최대풍속 ㄴ 모두 거짓. 해당 출처의 정의 또는 풍속 구조를 다른 연결 자료와 함께 적용.",
+    "2018-3-37:5": "ㄷ만 참이므로 ㄱㄴ까지 포함한⑤ 거짓. 해당 출처의 정의 또는 풍속 구조를 다른 연결 자료와 함께 적용."
+  },
+  "retrievalMethod": "NHC search-indexed Tropical Cyclone definition and post-tropical/extratropical entries reviewed; direct open/find returned 403.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

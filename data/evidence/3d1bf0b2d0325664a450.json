@@ -1,0 +1,16 @@
+{
+  "id": "3d1bf0b2d0325664a450",
+  "kind": "science",
+  "source": "OpenStax · Biology 2e",
+  "ref": "14.1 Historical Basis of Modern Understanding",
+  "url": "https://openstax.org/books/biology-2e/pages/14-1-historical-basis-of-modern-understanding",
+  "excerpt": "A = T and G = C",
+  "sourceHash": "6cd799a5cb19da46020cd59516a1a2c3e3ae66f75be3c91b3eb970c78ad7a035",
+  "cacheSourceId": "f49d64f4776db8c02bb8",
+  "retrievedAt": "2026-11-06T15:51:00.012530+00:00",
+  "reviewedMappings": {
+    "2010-3-28:1": "샤가프 규칙 및 다음 문장의 Watson/Crick 이중나선 모형 기여 대조."
+  },
+  "retrievalMethod": "web source text reviewed; selected excerpts retained",
+  "sourceHashScope": "Excerpt text only, not full page"
+}

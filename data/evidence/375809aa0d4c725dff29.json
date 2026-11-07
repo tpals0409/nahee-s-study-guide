@@ -1,0 +1,14 @@
+{
+  "id": "375809aa0d4c725dff29",
+  "kind": "science",
+  "source": "OpenStax · Chemistry 2e",
+  "ref": "12.6",
+  "url": "https://openstax.org/books/chemistry-2e/pages/12-6-reaction-mechanisms",
+  "excerpt": "Because a reaction cannot proceed faster than its slowest step, this step will limit the rate at which the overall reaction occurs.",
+  "sourceHash": "091cccc7035f3e4585d3eba078cc668fff26d2e7e3fe31464e76ca2eb3e5409c",
+  "cacheSourceId": "dbb69cf0829a2c60148d",
+  "retrievedAt": "2026-11-06T14:54:23.181431+00:00",
+  "reviewedMappings": {
+    "2009-3-17:0": "두 기본단계 합산 시 Br-/BrO- 소거. 느린 첫 단계 분자성으로 v=k[H2O2][Br-]. BrO-는 생성후소비 중간체."
+  }
+}

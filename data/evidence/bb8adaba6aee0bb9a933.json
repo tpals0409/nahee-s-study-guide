@@ -1,0 +1,16 @@
+{
+  "id": "bb8adaba6aee0bb9a933",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e §7.2 Glycolysis",
+  "url": "https://openstax.org/books/biology-2e/pages/7-2-glycolysis",
+  "excerpt": "produces two NADH and four ATP molecules per glucose",
+  "sourceHash": "ff6d8dac63d76e1359d652e731464782d4ec2fb892ab86ac5c81610c1b7b637b",
+  "cacheSourceId": "13434c22df74b583b85d",
+  "retrievedAt": "2026-11-06T16:43:18.065962+00:00",
+  "reviewedMappings": {
+    "2011-3-29:0": "해당과정 그림7.7~7.9 및 본문: ATP 2소비/4생성→순2, NADH2, 피루브산2 확인."
+  },
+  "retrievalMethod": "web.run official textbook paragraphs and figure descriptions reviewed",
+  "sourceHashScope": "Selected excerpt only; not full page"
+}

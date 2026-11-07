@@ -1,0 +1,16 @@
+{
+  "id": "f1f9e4cb4702ec55371b",
+  "kind": "science",
+  "source": "NPTEL",
+  "ref": "Classical Thermodynamics, Lecture4 Entropy, Closed system",
+  "url": "https://archive.nptel.ac.in/content/storage2/courses/112103016/module1/lec4/3.html",
+  "excerpt": "Sgen ≥ 0",
+  "sourceHash": "b1319bf947cc9e8015e665bbdab31056e1fa82987e189088f13af1eddb142547",
+  "cacheSourceId": "0053faffc461af569399",
+  "retrievedAt": "2026-11-07T04:42:22.903028+00:00",
+  "reviewedMappings": {
+    "2013-3-16:3": "엔트로피 생성량의 비음성과 비가역 효과를 확인. Purdue 수지식과 결합하면 닫힌 단열계 ΔS≥0."
+  },
+  "retrievalMethod": "Direct web open",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

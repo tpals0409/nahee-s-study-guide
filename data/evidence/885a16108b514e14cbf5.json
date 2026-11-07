@@ -1,0 +1,20 @@
+{
+  "id": "885a16108b514e14cbf5",
+  "kind": "science",
+  "source": "NOAA National Ocean Service",
+  "ref": "Thermohaline Circulation",
+  "url": "https://oceanservice.noaa.gov/education/tutorial_currents/05conveyor1.html",
+  "excerpt": "controlled by temperature (thermo) and salinity (haline)",
+  "sourceHash": "6927cc54bf40f20db77b979a9a29844113af878266f8f8f88fe0237b1c8f4000",
+  "cacheSourceId": "b47a40e16ee3e51e3d5a",
+  "retrievedAt": "2026-11-07T02:54:36.852629+00:00",
+  "reviewedMappings": {
+    "2024-3-38:0": "본문의 밀도 차이로 인한 심층 해류와 침강·표층수 대체 설명으로 ㄴ의 교과서적 열염순환 설명을 확인.",
+    "2024-3-38:1": "본문의 밀도 차이로 인한 심층 해류와 침강·표층수 대체 설명으로 ㄴ의 교과서적 열염순환 설명을 확인.",
+    "2024-3-38:3": "본문의 밀도 차이로 인한 심층 해류와 침강·표층수 대체 설명으로 ㄴ의 교과서적 열염순환 설명을 확인.",
+    "2024-3-38:4": "본문의 밀도 차이로 인한 심층 해류와 침강·표층수 대체 설명으로 ㄴ의 교과서적 열염순환 설명을 확인.",
+    "2024-3-38:5": "본문의 밀도 차이로 인한 심층 해류와 침강·표층수 대체 설명으로 ㄴ의 교과서적 열염순환 설명을 확인."
+  },
+  "retrievalMethod": "Direct NOAA tutorial page opened and relevant body paragraphs reviewed.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

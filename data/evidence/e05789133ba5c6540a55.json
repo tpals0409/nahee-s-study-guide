@@ -1,0 +1,17 @@
+{
+  "id": "e05789133ba5c6540a55",
+  "kind": "science",
+  "source": "Nucleic Acids Research",
+  "ref": "Maree et al. (2022), Trypanosoma brucei histones are heavily modified",
+  "url": "https://academic.oup.com/nar/article-pdf/50/17/9705/45990198/gkac759.pdf",
+  "excerpt": "The C-terminal H2A tail contains six lysine residues",
+  "sourceHash": "7b6f93e110d977138852679f1d4c429dfad187670122e334a5d8ffc54720e5b7",
+  "cacheSourceId": "7b9f04a665929060fb8a",
+  "retrievedAt": "2026-11-07T05:02:26.309898+00:00",
+  "reviewedMappings": {
+    "2023-3-28:0": "H2A C말단 아세틸화의 존재는 질량분석 관측이다. 염색질 이완은 해당 문단에서 제시한 추론이다.②를 C말단이라는 이유만으로 거짓이라고 단정하는 데 반대 근거이며, 모든 C말단 변형의 이완이나 복수정답을 확증하지 않는다.",
+    "2023-3-28:2": "H2A C말단 아세틸화의 존재는 질량분석 관측이다. 염색질 이완은 해당 문단에서 제시한 추론이다.②를 C말단이라는 이유만으로 거짓이라고 단정하는 데 반대 근거이며, 모든 C말단 변형의 이완이나 복수정답을 확증하지 않는다."
+  },
+  "retrievalMethod": "Direct web open/find of article or PDF text",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

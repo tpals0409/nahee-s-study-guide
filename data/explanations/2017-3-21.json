@@ -1,0 +1,86 @@
+{
+  "id": "2017-3-21",
+  "summary": "AB/ab와 ab/ab의 검정교배입니다. 부모형은 AB·ab, 재조합형은 Ab·aB이므로 재조합 자손은 18+22=40개체입니다. 전체 400개체 중 40개체, 즉 10%이므로 정답은 ④입니다.",
+  "choices": [
+    "오답입니다. 재조합 비율은 40/400=0.1이며, 이를 백분율로 바꾸면 10%입니다. 0.1%가 아닙니다.",
+    "오답입니다. 1%라면 전체 400개체 중 재조합형이 4개체여야 하지만, 실제로는 40개체입니다.",
+    "오답입니다. Ab와 aB는 모두 재조합형이므로 18개체와 22개체를 합해야 합니다. 5%에 해당하는 20개체가 아닙니다.",
+    "정답입니다. (18+22)/(183+177+18+22)×100=10%입니다.",
+    "오답입니다. 20%라면 재조합형이 80개체여야 합니다. 실제 재조합형은 40개체입니다."
+  ],
+  "lawNote": "열성 동형접합 부모는 ab 생식세포만 제공하므로 자손의 형질 조합으로 이형접합 부모의 생식세포 조합을 구분합니다. 이 값은 관측 자손의 재조합 비율이며, 교차가 일어난 감수분열의 비율과 동일시하지 않습니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e §13.1 Chromosomal Theory and Genetic Linkage",
+      "quote": "50 percent of offspring are recombinants and the other 50 percent are parental types.",
+      "url": "https://openstax.org/books/biology-2e/pages/13-1-chromosomal-theory-and-genetic-linkage",
+      "evidenceId": "b70fa785a2ca7da07046",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e §13.1 Chromosomal Theory and Genetic Linkage",
+      "quote": "50 percent of offspring are recombinants and the other 50 percent are parental types.",
+      "url": "https://openstax.org/books/biology-2e/pages/13-1-chromosomal-theory-and-genetic-linkage",
+      "evidenceId": "b70fa785a2ca7da07046",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e §13.1 Chromosomal Theory and Genetic Linkage",
+      "quote": "50 percent of offspring are recombinants and the other 50 percent are parental types.",
+      "url": "https://openstax.org/books/biology-2e/pages/13-1-chromosomal-theory-and-genetic-linkage",
+      "evidenceId": "b70fa785a2ca7da07046",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e §13.1 Chromosomal Theory and Genetic Linkage",
+      "quote": "50 percent of offspring are recombinants and the other 50 percent are parental types.",
+      "url": "https://openstax.org/books/biology-2e/pages/13-1-chromosomal-theory-and-genetic-linkage",
+      "evidenceId": "b70fa785a2ca7da07046",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e §13.1 Chromosomal Theory and Genetic Linkage",
+      "quote": "50 percent of offspring are recombinants and the other 50 percent are parental types.",
+      "url": "https://openstax.org/books/biology-2e/pages/13-1-chromosomal-theory-and-genetic-linkage",
+      "evidenceId": "b70fa785a2ca7da07046",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e §13.1 Chromosomal Theory and Genetic Linkage",
+      "quote": "50 percent of offspring are recombinants and the other 50 percent are parental types.",
+      "url": "https://openstax.org/books/biology-2e/pages/13-1-chromosomal-theory-and-genetic-linkage",
+      "evidenceId": "b70fa785a2ca7da07046",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "Original parental chromosome phase and offspring counts inspected; recombinant classes independently identified; exact Fraction calculation checked against every option; direct textbook testcross source reviewed.",
+    "contentHash": "1647579109f4960d959c01fad877bc3c8c86a5f168f4c44e6f9c21049f94d2cf"
+  }
+}

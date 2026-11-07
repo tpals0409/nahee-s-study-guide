@@ -1,0 +1,21 @@
+{
+  "id": "08252aecf5bf89dd7968",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 2e §11.4 Colligative Properties",
+  "url": "https://openstax.org/books/chemistry-2e/pages/11-4-colligative-properties",
+  "excerpt": "the total pressure of a gaseous mixture is equal to the sum of partial pressures for all its components",
+  "sourceHash": "b41c9635cde5f13d82d3907a429de3e4dd7f050adcb334d203b956d49a12e2c2",
+  "cacheSourceId": "5e748e831432b96d1cc0",
+  "retrievedAt": "2026-11-06T19:29:22.705603+00:00",
+  "reviewedMappings": {
+    "2015-3-15:0": "Source defines component partial pressure Pi=Xi Pi* using liquid mole fraction and total sum. Original graph explicitly labels pure toluene300 and total600 at xbenzene=.6. Independently obtain Ptoluene=.4*300=120, Pbenzene=480. Endpoint pure-benzene800 is derived, not a labeled graph reading; distractor outcomes not attributed to guessed reasoning.",
+    "2015-3-15:1": "Source defines component partial pressure Pi=Xi Pi* using liquid mole fraction and total sum. Original graph explicitly labels pure toluene300 and total600 at xbenzene=.6. Independently obtain Ptoluene=.4*300=120, Pbenzene=480. Endpoint pure-benzene800 is derived, not a labeled graph reading; distractor outcomes not attributed to guessed reasoning.",
+    "2015-3-15:2": "Source defines component partial pressure Pi=Xi Pi* using liquid mole fraction and total sum. Original graph explicitly labels pure toluene300 and total600 at xbenzene=.6. Independently obtain Ptoluene=.4*300=120, Pbenzene=480. Endpoint pure-benzene800 is derived, not a labeled graph reading; distractor outcomes not attributed to guessed reasoning.",
+    "2015-3-15:3": "Source defines component partial pressure Pi=Xi Pi* using liquid mole fraction and total sum. Original graph explicitly labels pure toluene300 and total600 at xbenzene=.6. Independently obtain Ptoluene=.4*300=120, Pbenzene=480. Endpoint pure-benzene800 is derived, not a labeled graph reading; distractor outcomes not attributed to guessed reasoning.",
+    "2015-3-15:4": "Source defines component partial pressure Pi=Xi Pi* using liquid mole fraction and total sum. Original graph explicitly labels pure toluene300 and total600 at xbenzene=.6. Independently obtain Ptoluene=.4*300=120, Pbenzene=480. Endpoint pure-benzene800 is derived, not a labeled graph reading; distractor outcomes not attributed to guessed reasoning.",
+    "2015-3-15:5": "Source defines component partial pressure Pi=Xi Pi* using liquid mole fraction and total sum. Original graph explicitly labels pure toluene300 and total600 at xbenzene=.6. Independently obtain Ptoluene=.4*300=120, Pbenzene=480. Endpoint pure-benzene800 is derived, not a labeled graph reading; distractor outcomes not attributed to guessed reasoning."
+  },
+  "retrievalMethod": "Direct web.open and find; Raoult partial-pressure definition and sum formula lines 150–153 inspected",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

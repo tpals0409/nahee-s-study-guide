@@ -1,0 +1,21 @@
+{
+  "id": "d3959362503bb13bfda9",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume 1, 17.7 The Doppler Effect",
+  "url": "https://openstax.org/books/university-physics-volume-1/pages/17-7-the-doppler-effect",
+  "excerpt": "When a source is moving and the observer is stationary",
+  "sourceHash": "6dcf119331b85b4e4aedd6abd618eaddf873fe343bd87bb58fcb217fa525f67c",
+  "cacheSourceId": "6507a82bdf2989ad8ffb",
+  "retrievedAt": "2026-11-07T00:44:59.544544+00:00",
+  "reviewedMappings": {
+    "2022-3-04:0": "17.18 및 부호 설명 확인. B에서 멀어지는 음원은 f0/(1+1/5)=5f0/6; 벽에 접근하는 음원은 f0/(1−1/5)=5f0/4.",
+    "2022-3-04:1": "17.18 및 부호 설명 확인. B에서 멀어지는 음원은 f0/(1+1/5)=5f0/6; 벽에 접근하는 음원은 f0/(1−1/5)=5f0/4.",
+    "2022-3-04:2": "17.18 및 부호 설명 확인. B에서 멀어지는 음원은 f0/(1+1/5)=5f0/6; 벽에 접근하는 음원은 f0/(1−1/5)=5f0/4.",
+    "2022-3-04:3": "17.18 및 부호 설명 확인. B에서 멀어지는 음원은 f0/(1+1/5)=5f0/6; 벽에 접근하는 음원은 f0/(1−1/5)=5f0/4.",
+    "2022-3-04:4": "17.18 및 부호 설명 확인. B에서 멀어지는 음원은 f0/(1+1/5)=5f0/6; 벽에 접근하는 음원은 f0/(1−1/5)=5f0/4.",
+    "2022-3-04:5": "17.18 및 부호 설명 확인. B에서 멀어지는 음원은 f0/(1+1/5)=5f0/6; 벽에 접근하는 음원은 f0/(1−1/5)=5f0/4."
+  },
+  "retrievalMethod": "Opened educational source; moving-source formula and stationary-wall reflection section reviewed.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "177f6c0e4542212b9f5f",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e, 32.2 Pollination and Fertilization",
+  "url": "https://openstax.org/books/biology-2e/pages/32-2-pollination-and-fertilization",
+  "excerpt": "one sperm fertilizes the egg cell, forming a diploid zygote",
+  "sourceHash": "6155fa323f1b6cc9aca78f23363af486c0f3fc152d5b2fc86e16a3a3f7c44473",
+  "cacheSourceId": "6a967e52adb33d64c924",
+  "retrievedAt": "2026-11-07T01:13:31.775605+00:00",
+  "reviewedMappings": {
+    "2022-3-29:0": "Double Fertilization text and Fig32.18: one sperm yields diploid zygote, other fertilizes central cell to form typically triploid endosperm; ㄷ true. Do not claim every species has identical ploidy or that fusion instantly forms embryo.",
+    "2022-3-29:2": "Double Fertilization text and Fig32.18: one sperm yields diploid zygote, other fertilizes central cell to form typically triploid endosperm; ㄷ true. Do not claim every species has identical ploidy or that fusion instantly forms embryo.",
+    "2022-3-29:3": "Double Fertilization text and Fig32.18: one sperm yields diploid zygote, other fertilizes central cell to form typically triploid endosperm; ㄷ true. Do not claim every species has identical ploidy or that fusion instantly forms embryo.",
+    "2022-3-29:4": "Double Fertilization text and Fig32.18: one sperm yields diploid zygote, other fertilizes central cell to form typically triploid endosperm; ㄷ true. Do not claim every species has identical ploidy or that fusion instantly forms embryo.",
+    "2022-3-29:5": "Double Fertilization text and Fig32.18: one sperm yields diploid zygote, other fertilizes central cell to form typically triploid endosperm; ㄷ true. Do not claim every species has identical ploidy or that fusion instantly forms embryo."
+  },
+  "retrievalMethod": "Direct web textbook sections and figure captions; original question phylogeny visually inspected",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

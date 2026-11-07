@@ -1,0 +1,217 @@
+{
+  "id": "2022-3-04",
+  "summary": "B가 직접 듣는 소리는 B에게서 멀어지는 음원이 내는 소리이므로 진동수가 (5/6)f₀입니다. 벽에서 반사된 메아리는 벽으로 다가가는 음원의 소리를 정지한 벽이 그대로 반사한 것이므로 진동수가 (5/4)f₀입니다. 두 소리의 진동수 차이인 맥놀이 진동수는 (5/12)f₀이며, 정답은 (5/12)f₀입니다.",
+  "choices": [
+    "1/3f₀는 두 진동수의 차이와 일치하지 않습니다. 직접음 (5/6)f₀와 메아리 (5/4)f₀의 차이는 |5/4−5/6|f₀=(5/12)f₀입니다.",
+    "5/12f₀는 정답입니다. 직접음 (5/6)f₀와 메아리 (5/4)f₀의 차이는 |5/4−5/6|f₀=(5/12)f₀입니다.",
+    "1/2f₀는 두 진동수의 차이와 일치하지 않습니다. 직접음 (5/6)f₀와 메아리 (5/4)f₀의 차이는 |5/4−5/6|f₀=(5/12)f₀입니다.",
+    "7/12f₀는 두 진동수의 차이와 일치하지 않습니다. 직접음 (5/6)f₀와 메아리 (5/4)f₀의 차이는 |5/4−5/6|f₀=(5/12)f₀입니다.",
+    "2/3f₀는 두 진동수의 차이와 일치하지 않습니다. 직접음 (5/6)f₀와 메아리 (5/4)f₀의 차이는 |5/4−5/6|f₀=(5/12)f₀입니다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1 §17.6 — Beats, Eq. 17.17",
+      "quote": "The beat frequency is the absolute value of the difference between the two frequencies.",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/17-6-beats",
+      "evidenceId": "624754f75658deb0c4f2",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1 §17.6 — Beats, Eq. 17.17",
+      "quote": "The beat frequency is the absolute value of the difference between the two frequencies.",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/17-6-beats",
+      "evidenceId": "624754f75658deb0c4f2",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1 §17.6 — Beats, Eq. 17.17",
+      "quote": "The beat frequency is the absolute value of the difference between the two frequencies.",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/17-6-beats",
+      "evidenceId": "624754f75658deb0c4f2",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1 §17.6 — Beats, Eq. 17.17",
+      "quote": "The beat frequency is the absolute value of the difference between the two frequencies.",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/17-6-beats",
+      "evidenceId": "624754f75658deb0c4f2",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1 §17.6 — Beats, Eq. 17.17",
+      "quote": "The beat frequency is the absolute value of the difference between the two frequencies.",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/17-6-beats",
+      "evidenceId": "624754f75658deb0c4f2",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1 §17.6 — Beats, Eq. 17.17",
+      "quote": "The beat frequency is the absolute value of the difference between the two frequencies.",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/17-6-beats",
+      "evidenceId": "624754f75658deb0c4f2",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1, 17.7 The Doppler Effect",
+      "quote": "When a source is moving and the observer is stationary",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/17-7-the-doppler-effect",
+      "evidenceId": "d3959362503bb13bfda9",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1, 17.7 The Doppler Effect",
+      "quote": "When a source is moving and the observer is stationary",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/17-7-the-doppler-effect",
+      "evidenceId": "d3959362503bb13bfda9",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1, 17.7 The Doppler Effect",
+      "quote": "When a source is moving and the observer is stationary",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/17-7-the-doppler-effect",
+      "evidenceId": "d3959362503bb13bfda9",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1, 17.7 The Doppler Effect",
+      "quote": "When a source is moving and the observer is stationary",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/17-7-the-doppler-effect",
+      "evidenceId": "d3959362503bb13bfda9",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1, 17.7 The Doppler Effect",
+      "quote": "When a source is moving and the observer is stationary",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/17-7-the-doppler-effect",
+      "evidenceId": "d3959362503bb13bfda9",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1, 17.7 The Doppler Effect",
+      "quote": "When a source is moving and the observer is stationary",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/17-7-the-doppler-effect",
+      "evidenceId": "d3959362503bb13bfda9",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "UC Davis / Physics LibreTexts",
+      "ref": "UCD Physics 9D, 1.2 Doppler Effect",
+      "quote": "the property of the wave that is maintained is the frequency.",
+      "url": "https://phys.libretexts.org/Courses/University_of_California_Davis/UCD:_Physics_9D__Modern_Physics/1:_Sound/1.2:_Doppler_Effect",
+      "evidenceId": "23cbb9da1d142cc4e334",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "UC Davis / Physics LibreTexts",
+      "ref": "UCD Physics 9D, 1.2 Doppler Effect",
+      "quote": "the property of the wave that is maintained is the frequency.",
+      "url": "https://phys.libretexts.org/Courses/University_of_California_Davis/UCD:_Physics_9D__Modern_Physics/1:_Sound/1.2:_Doppler_Effect",
+      "evidenceId": "23cbb9da1d142cc4e334",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "UC Davis / Physics LibreTexts",
+      "ref": "UCD Physics 9D, 1.2 Doppler Effect",
+      "quote": "the property of the wave that is maintained is the frequency.",
+      "url": "https://phys.libretexts.org/Courses/University_of_California_Davis/UCD:_Physics_9D__Modern_Physics/1:_Sound/1.2:_Doppler_Effect",
+      "evidenceId": "23cbb9da1d142cc4e334",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "UC Davis / Physics LibreTexts",
+      "ref": "UCD Physics 9D, 1.2 Doppler Effect",
+      "quote": "the property of the wave that is maintained is the frequency.",
+      "url": "https://phys.libretexts.org/Courses/University_of_California_Davis/UCD:_Physics_9D__Modern_Physics/1:_Sound/1.2:_Doppler_Effect",
+      "evidenceId": "23cbb9da1d142cc4e334",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "UC Davis / Physics LibreTexts",
+      "ref": "UCD Physics 9D, 1.2 Doppler Effect",
+      "quote": "the property of the wave that is maintained is the frequency.",
+      "url": "https://phys.libretexts.org/Courses/University_of_California_Davis/UCD:_Physics_9D__Modern_Physics/1:_Sound/1.2:_Doppler_Effect",
+      "evidenceId": "23cbb9da1d142cc4e334",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "UC Davis / Physics LibreTexts",
+      "ref": "UCD Physics 9D, 1.2 Doppler Effect",
+      "quote": "the property of the wave that is maintained is the frequency.",
+      "url": "https://phys.libretexts.org/Courses/University_of_California_Davis/UCD:_Physics_9D__Modern_Physics/1:_Sound/1.2:_Doppler_Effect",
+      "evidenceId": "23cbb9da1d142cc4e334",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Original geometry review, exact Doppler/beat calculation, and stationary-wall reflection source comparison",
+    "contentHash": "2f7f9d71ba681145849feeda7d7c80a36dc7dd6349dc99f5ec2ef8f1e86055cc"
+  }
+}

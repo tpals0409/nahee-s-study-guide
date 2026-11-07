@@ -1,0 +1,30 @@
+{
+  "summary": "절대등급은 별을 10 pc 거리에 두었다고 가정했을 때의 겉보기등급으로 정의됩니다. 따라서 겉보기등급과 절대등급이 같으면 거리지수 m − M = 0이고, 별까지의 거리는 10 pc입니다. 정답은 10 pc입니다.",
+  "choices": [
+    "1 pc: 오답입니다. 거리지수 식에 d = 1 pc를 넣으면 m − M = 5 log(1) − 5 = −5입니다. 즉 겉보기등급이 절대등급보다 5등급 작아야(더 밝아야) 하므로, 두 등급이 같다는 조건과 맞지 않습니다.",
+    "10 pc: 정답입니다. 절대등급은 별을 10 pc 거리에 놓았을 때의 겉보기등급입니다. m − M = 5 log(10) − 5 = 0이므로 m = M = 2등급이라는 조건을 만족합니다.",
+    "100 pc: 오답입니다. m − M = 5 log(100) − 5 = +5입니다. 겉보기등급이 7등급이어야 하므로 조건과 맞지 않습니다.",
+    "1 kpc: 오답입니다. 1 kpc는 1000 pc이므로 m − M = 5 log(1000) − 5 = +10입니다. 겉보기등급이 12등급이어야 하므로 조건과 맞지 않습니다.",
+    "10 kpc: 오답입니다. 10 kpc는 10^4 pc이므로 m − M = 5 log(10^4) − 5 = +15입니다. 겉보기등급이 17등급이어야 하므로 조건과 맞지 않습니다."
+  ],
+  "lawNote": "같은 파장대의 겉보기등급과 절대등급을 비교하고 성간 소광은 무시하는 문제입니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "Western Kentucky University",
+      "ref": "Magnitudes and distance — Absolute magnitude / Distance modulus",
+      "quote": "m - M = 5 log_{10} [ d / (10 pc) ].",
+      "url": "https://astro.wku.edu/labs/m100/mags.html",
+      "evidenceId": "1486e848147fdfbd6278",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "대학 천문학 교육자료 본문의 절대등급 정의·거리지수·소광 보정 항목 대조. 다섯 거리 대입을 독립 검산하고 저장정답②와 일치 확인.",
+    "contentHash": "556b748c3127c509362821b98492f107abbc33ae781eb236b7cbdeab01eeddb9"
+  }
+}

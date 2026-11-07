@@ -1,0 +1,21 @@
+{
+  "id": "b2a809b8908e5365c881",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 2e §12.5 — Activation Energy and the Arrhenius Equation",
+  "url": "https://openstax.org/books/chemistry-2e/pages/12-5-collision-theory",
+  "excerpt": "the Arrhenius equation is rearranged to a convenient two-point form:",
+  "sourceHash": "bef668549fe74d7656626fdedba90c495ce61b010fb1487e380c77d6dce28ffb",
+  "cacheSourceId": "aa7d6e825adc97b68723",
+  "retrievedAt": "2026-11-06T21:55:28.043466+00:00",
+  "reviewedMappings": {
+    "2018-3-19:0": "본문 두 온도 아레니우스 식 직접 검토. ln(k2/k1)=Ea/R*(1/T1-1/T2), T2=4T/3이므로 ln4=Ea/(4RT). 주어진 ln2=.70,RT=2.5로 Ea=14kJ/mol. ④만 일치하며 다른 선지의 잘못된 원인을 단정하지 않음.",
+    "2018-3-19:1": "본문 두 온도 아레니우스 식 직접 검토. ln(k2/k1)=Ea/R*(1/T1-1/T2), T2=4T/3이므로 ln4=Ea/(4RT). 주어진 ln2=.70,RT=2.5로 Ea=14kJ/mol. ④만 일치하며 다른 선지의 잘못된 원인을 단정하지 않음.",
+    "2018-3-19:2": "본문 두 온도 아레니우스 식 직접 검토. ln(k2/k1)=Ea/R*(1/T1-1/T2), T2=4T/3이므로 ln4=Ea/(4RT). 주어진 ln2=.70,RT=2.5로 Ea=14kJ/mol. ④만 일치하며 다른 선지의 잘못된 원인을 단정하지 않음.",
+    "2018-3-19:3": "본문 두 온도 아레니우스 식 직접 검토. ln(k2/k1)=Ea/R*(1/T1-1/T2), T2=4T/3이므로 ln4=Ea/(4RT). 주어진 ln2=.70,RT=2.5로 Ea=14kJ/mol. ④만 일치하며 다른 선지의 잘못된 원인을 단정하지 않음.",
+    "2018-3-19:4": "본문 두 온도 아레니우스 식 직접 검토. ln(k2/k1)=Ea/R*(1/T1-1/T2), T2=4T/3이므로 ln4=Ea/(4RT). 주어진 ln2=.70,RT=2.5로 Ea=14kJ/mol. ④만 일치하며 다른 선지의 잘못된 원인을 단정하지 않음.",
+    "2018-3-19:5": "본문 두 온도 아레니우스 식 직접 검토. ln(k2/k1)=Ea/R*(1/T1-1/T2), T2=4T/3이므로 ln4=Ea/(4RT). 주어진 ln2=.70,RT=2.5로 Ea=14kJ/mol. ④만 일치하며 다른 선지의 잘못된 원인을 단정하지 않음."
+  },
+  "retrievalMethod": "Direct web open; relevant equations reviewed; selected verbatim excerpt retained",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

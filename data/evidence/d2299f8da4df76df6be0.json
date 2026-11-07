@@ -1,0 +1,16 @@
+{
+  "id": "d2299f8da4df76df6be0",
+  "kind": "science",
+  "source": "James Madison University",
+  "ref": "Solid Solution Phase Diagram",
+  "url": "https://csmgeo.csm.jmu.edu/geollab/fichter/ignrx/solidsol.html",
+  "excerpt": "high temperature magnesium-rich to low temperature iron-rich crystals",
+  "sourceHash": "70e5b026a45733dbb8f775c893c89fe2114cacf8e308a6f36e7b0e95b98915b5",
+  "cacheSourceId": "d06382de3684d6ef9acb",
+  "retrievedAt": "2026-11-07T02:46:46.598790+00:00",
+  "reviewedMappings": {
+    "2024-3-32:3": "Indexed university phase-diagram discussion reviewed; supports high-temperature Mg-rich ferromagnesian trend, with olivine and pyroxene examples."
+  },
+  "retrievalMethod": "Indexed university phase-diagram discussion reviewed; supports high-temperature Mg-rich ferromagnesian trend, with olivine and pyroxene examples.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

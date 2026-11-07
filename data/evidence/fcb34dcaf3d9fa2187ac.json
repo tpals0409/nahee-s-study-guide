@@ -1,0 +1,18 @@
+{
+  "id": "fcb34dcaf3d9fa2187ac",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e Chapter 16 — Introduction",
+  "url": "https://openstax.org/books/biology-2e/pages/16-introduction",
+  "excerpt": "Each somatic cell in the body generally contains the same DNA.",
+  "sourceHash": "316805d5d18abf07b1842a975fda8e056f37889359a93d0b091a14455949a36a",
+  "cacheSourceId": "b647ad91fa4c8944fe04",
+  "retrievedAt": "2026-11-06T19:44:11.169865+00:00",
+  "reviewedMappings": {
+    "2015-3-27:0": "정상 체세포의 유전체 동등성과 차등 발현에 의한 분화를 설명하는 본문을 확인해 ㄴ을 배제했다. 이소 발현 결과만으로 전체 염기서열 동일성을 증명하지 않으며 예외 없는 명제로 만들지 않는다.",
+    "2015-3-27:4": "정상 체세포의 유전체 동등성과 차등 발현에 의한 분화를 설명하는 본문을 확인해 ㄴ을 배제했다. 이소 발현 결과만으로 전체 염기서열 동일성을 증명하지 않으며 예외 없는 명제로 만들지 않는다.",
+    "2015-3-27:5": "정상 체세포의 유전체 동등성과 차등 발현에 의한 분화를 설명하는 본문을 확인해 ㄴ을 배제했다. 이소 발현 결과만으로 전체 염기서열 동일성을 증명하지 않으며 예외 없는 명제로 만들지 않는다."
+  },
+  "retrievalMethod": "Direct page read; primary paper abstract or textbook introduction inspected; short excerpt transcribed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

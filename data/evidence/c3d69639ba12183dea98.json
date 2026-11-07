@@ -1,0 +1,16 @@
+{
+  "id": "c3d69639ba12183dea98",
+  "kind": "science",
+  "source": "Geological Society of London",
+  "ref": "Geological Society — Viscosity of Magmas",
+  "url": "https://www.geolsoc.org.uk/ks3/gsl/education/resources/rockcycle/page3655.html",
+  "excerpt": "Rhyolites may reach the surface at temperatures of less than 900°C, and so have much higher viscosity.",
+  "sourceHash": "a66d02ab19c1263751b13074440b5d010fdbe22c5b269042f35507dbdf737d9c",
+  "cacheSourceId": "49f365ff302401810c8c",
+  "retrievedAt": "2026-11-06T17:36:49.082089+00:00",
+  "reviewedMappings": {
+    "2012-3-33:5": "온도 절의 현무암/유문암 비교와 조성 절의 점성 비교를 함께 검토."
+  },
+  "retrievalMethod": "web.open; relevant section reviewed; subscript/degree markup normalized where applicable",
+  "sourceHashScope": "Selected excerpt only; not full page"
+}

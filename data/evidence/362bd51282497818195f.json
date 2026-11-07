@@ -1,0 +1,16 @@
+{
+  "id": "362bd51282497818195f",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume 1 §9.2 Impulse and Collisions, equations 9.3–9.6",
+  "url": "https://openstax.org/books/university-physics-volume-1/pages/9-2-impulse-and-collisions",
+  "excerpt": "The product of a force and a time interval",
+  "sourceHash": "af2c5ea71be04b12d91cf40b1622bb8709f5a576e1cb740f3568bce1f3d061fb",
+  "cacheSourceId": "08b16a2fb07c6e7fca05",
+  "retrievedAt": "2026-11-06T16:23:28.062468+00:00",
+  "reviewedMappings": {
+    "2011-3-09:0": "일정한 힘의 충격량 FΔt=m(vf−vi). 두 공 모두 m(−2v−v)=−3mv. FA=−3mv/Δt,FB=−3mv/(2Δt). 크기비2:1이고 방향 같으므로 ㄱ참 ㄴ거짓."
+  },
+  "retrievalMethod": "web.run; equations and explanations manually reviewed",
+  "sourceHashScope": "Selected excerpt only; not full page"
+}

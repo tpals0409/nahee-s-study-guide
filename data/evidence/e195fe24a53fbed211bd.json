@@ -1,0 +1,21 @@
+{
+  "id": "e195fe24a53fbed211bd",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume 3, 7.4 The Quantum Particle in a Box",
+  "url": "https://openstax.org/books/university-physics-volume-3/pages/7-4-the-quantum-particle-in-a-box",
+  "excerpt": "This function must be integrated to determine the probability of finding the particle in some interval of space.",
+  "sourceHash": "8373a303cfaad90577ca552b588c1da627cad554b57bec382fb62e0a5a0934b0",
+  "cacheSourceId": "27177cb3fe7d010a30c7",
+  "retrievedAt": "2026-11-07T00:51:34.829138+00:00",
+  "reviewedMappings": {
+    "2022-3-10:0": "Reviewed normalized eigenfunctions, discrete positive energies and probability integral; independent analytic half-interval integration. 정답은 ③입니다. n=2의 파동 함수는 두 절반 구간에서 부호가 반대지만, 확률 밀도 |ψ₂|²는 좌우 대칭입니다. 따라서 각 구간에서 입자를 발견할 확률은 모두 1/2입니다.",
+    "2022-3-10:1": "Reviewed normalized eigenfunctions, discrete positive energies and probability integral; independent analytic half-interval integration. 옳습니다. 경계 조건에서 L=nλ_n/2이므로 λ_n=2L/n입니다. 따라서 λ₁=2L은 λ₃=2L/3보다 깁니다.",
+    "2022-3-10:2": "Reviewed normalized eigenfunctions, discrete positive energies and probability integral; independent analytic half-interval integration. 옳습니다. |ψ₁(x)|²=(2/L)sin²(πx/L)은 x=L/2에서 최댓값 2/L을 갖습니다.",
+    "2022-3-10:3": "Reviewed normalized eigenfunctions, discrete positive energies and probability integral; independent analytic half-interval integration. 옳지 않습니다. |ψ₂(x)|²=(2/L)sin²(2πx/L)을 각 절반 구간에 적분하면 모두 1/2입니다. 파동 함수의 양·음 부호가 발견 확률의 대소를 뜻하지 않습니다.",
+    "2022-3-10:4": "Reviewed normalized eigenfunctions, discrete positive energies and probability integral; independent analytic half-interval integration. 옳습니다. 허용 에너지는 E_n=n²h²/(8mL²), n=1,2,3,…으로 불연속적입니다.",
+    "2022-3-10:5": "Reviewed normalized eigenfunctions, discrete positive energies and probability integral; independent analytic half-interval integration. 옳습니다. n=0은 파동 함수가 모든 곳에서 0이어서 정규화할 수 없습니다. 최저 에너지 E₁=h²/(8mL²)>0이고 우물 내부에서는 운동 에너지이므로, 운동 에너지 0인 정지 상태는 허용되지 않습니다."
+  },
+  "retrievalMethod": "Direct page reviewed: lines 45–114, probability integral, boundary conditions, n=0 excluded, energies and normalized eigenfunctions (7.33–7.45). Used equations rather than inconsistent figure alt text.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

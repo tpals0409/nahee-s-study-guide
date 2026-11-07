@@ -1,0 +1,52 @@
+{
+  "summary": "정답은 ①입니다. 같은 지역의 정상적인 지상풍 모형에서 B는 등압선 간격이 더 좁고 바람이 등압선과 이루는 각도도 더 작습니다. 힘의 평형으로 비교하면 B의 전향력과 풍속이 A보다 큽니다. 화살표의 길이는 풍속 판단에 사용하지 않습니다.",
+  "choices": [
+    "옳습니다. 같은 기압차와 공기 밀도를 비교하면 기압경도력 G는 등압선 간격에 반비례하므로 G_B/G_A=10/8=1.25입니다. 등압선과 바람 사이의 각을 α라 하면 정상 지상풍에서 전향력의 크기는 C=G cosα입니다. 그림은 α_B<α_A이므로 C_B>C_A이며, 같은 위도에서 C가 풍속에 비례하므로 B의 풍속이 더 큽니다.",
+    "틀렸습니다. 지상풍은 마찰의 영향으로 등압선을 비스듬히 가로질러 저기압 쪽으로 붑니다. 두 그림 모두 P₂ 쪽에서 P₁ 쪽으로 향하므로 P₂>P₁입니다.",
+    "틀렸습니다. 같은 지역에서 전향력의 크기는 풍속에 비례합니다. B의 풍속이 더 크므로 전향력도 B가 더 큽니다.",
+    "틀렸습니다. 지상풍에서는 기압경도력과 전향력뿐 아니라 바람을 거스르는 마찰력을 함께 고려합니다. 전향력과 마찰력은 서로 수직이므로, 정상 평형에서 기압경도력의 크기는 두 힘의 합력 크기와 같고 전향력 하나보다 큽니다.",
+    "틀렸습니다. 두 그림의 P₁과 P₂ 사이 기압차는 같지만 간격이 10km와 8km로 다릅니다. 같은 공기 밀도라면 간격이 좁은 (나)의 기압경도력이 (가)의 1.25배입니다."
+  ],
+  "lawNote": "같은 지역의 위도·밀도를 같게 보고, 직선 등압선에서 세 힘이 평형을 이루는 지상풍 모형으로 해석합니다. 기압경도력비 1.25를 그대로 풍속비라고 할 수는 없습니다. 각도의 정확한 수치는 주어지지 않았습니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "NAV CANADA",
+      "ref": "Pressure Gradient",
+      "quote": "The pressure gradient is the rate of change of atmospheric pressure over a horizontal distance.",
+      "url": "https://avmet.navcanada.ca/en/pressure-gradient.aspx",
+      "evidenceId": "0df327bec6174d2cfea9",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "NWCG",
+      "ref": "Fire Weather: 5. General Circulation",
+      "quote": "This force acts in a direction perpendicular to the airflow, and its magnitude depends upon both the speed of the airflow and upon the latitude.",
+      "url": "https://www-nwcg.fs2c.usda.gov/publications/pms425-1/5-general-circulation",
+      "evidenceId": "8eba180e072f3eaf40c4",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "University of Wisconsin–Madison",
+      "ref": "UW Madison Satellite Meteorology: Coriolis Force",
+      "quote": "The magnitude of the Coriolis force is proportional to the speed of the wind.",
+      "url": "https://profhorn.aos.wisc.edu/wxwise/satmet/lesson7/coriolis1.html",
+      "evidenceId": "bdebb43eafcd5401850d",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "원본2013-3-37.webp 10km/8km와 방향전용 화살표 확인. NAV CANADA·NWCG·UW Madison 대조. 벡터평형 C=Gcosα로 B풍속 우세 도출하여 동일 마찰조건이라는 불필요한 가정 제거. 정답①.",
+    "contentHash": "2bb2e15178d1ede928d736520d66a45c60f32d4876b0174c4c066ae8763b1d0c"
+  }
+}

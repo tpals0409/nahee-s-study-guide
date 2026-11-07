@@ -1,0 +1,52 @@
+{
+  "summary": "정답은 ④ ㄴ입니다. 낮에는 육지가 바다보다 빨리 가열되고 육지 위의 따뜻한 공기가 상승하여 바다에서 육지로 해풍이 붑니다. ㄱ은 비열의 대소 관계가 반대이고, ㄷ은 밤의 증발량 비교를 일반화한 잘못된 설명입니다.",
+  "choices": [
+    "ㄱ은 틀렸습니다. 물은 일반적인 지표 구성 물질보다 비열이 큽니다. 같은 질량의 온도를 같은 만큼 높일 때 비열이 클수록 더 많은 열이 필요하므로, 보기의 “비열이 작기 때문에”라는 설명은 맞지 않습니다.",
+    "ㄴ만 옳습니다. ㄱ은 물의 비열을 작다고 한 점이 틀리고, ㄷ의 야간 지표 증발 우세는 해륙풍의 일반적인 원리가 아닙니다.",
+    "ㄱ과 ㄷ 모두 틀렸습니다. 물의 큰 비열을 반대로 설명한 ㄱ과, 밤의 육지 증발이 더 활발하다고 일반화한 ㄷ을 고른 조합입니다.",
+    "ㄴ은 옳습니다. 낮에는 육지가 빠르게 가열되어 그 위의 공기가 따뜻해져 상승하고, 상대적으로 차가운 바다 쪽 공기가 육지로 들어오는 해풍이 형성됩니다.",
+    "ㄴ은 옳지만 ㄷ은 틀렸습니다. 전형적인 야간 해륙풍 상황에서는 육지가 더 빨리 식고 바다가 상대적으로 따뜻합니다. 밤이라는 이유로 지표의 증발이 해수면보다 활발하다고 할 수 없습니다. 육풍은 육지와 바다의 냉각 차이에 따른 순환입니다."
+  ],
+  "lawNote": "실제 증발량은 표면 온도뿐 아니라 대기의 수증기압, 바람, 표면의 수분 상태에도 좌우됩니다. “밤에는 언제나 해수면 증발량이 더 크다”는 반대 방향의 단정도 피해야 합니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "NOAA National Weather Service",
+      "ref": "Weather In Action: Lake Shadow/Breeze",
+      "quote": "During the night, the high specific heat capacity of the water causes it to cool much slower than nearby land areas.",
+      "url": "https://www.weather.gov/bgm/WeatherInActionLakeShadowBreeze",
+      "evidenceId": "9df506d1cd4a76b58b5c",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "NOAA",
+      "ref": "The Sea Breeze",
+      "quote": "Land breezes can occur when the land's nighttime temperature is less than the sea surface temperature.",
+      "url": "https://www.noaa.gov/jetstream/ocean/sea-breeze",
+      "evidenceId": "034f98352291671f73ec",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "NWCG",
+      "ref": "Fire Weather: 3. Atmospheric Moisture",
+      "quote": "The vapor pressure at the evaporating surface varies with the temperature of that surface.",
+      "url": "https://www.nwcg.gov/publications/pms425-1/3-atmospheric-moisture",
+      "evidenceId": "b87d37b57f66ce63ee74",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "원본 2013-3-33.webp 보기·선지 대조, 정답④ 확인. NWS/NOAA 공식 본문과 NWCG 검색 발췌 대조. 근거 없는 비열 수치·온도변화 5배 추정 및 야간 증발량 절대 비교 제거.",
+    "contentHash": "3372b3709c840a4afebee7c7294ea5b4aa799bc069f6163e1c7633a0138897e5"
+  }
+}

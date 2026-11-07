@@ -1,0 +1,14 @@
+{
+  "id": "345548fa0d4d4a63c90f",
+  "kind": "science",
+  "source": "OpenStax · Biology 2e",
+  "ref": "15.5 Ribosomes and Protein Synthesis",
+  "url": "https://openstax.org/books/biology-2e/pages/15-5-ribosomes-and-protein-synthesis",
+  "excerpt": "This interaction anchors the 30S ribosomal subunit at the correct location on the mRNA template.",
+  "sourceHash": "9878a858e49f1027e12a23b3fd4287de45fe2af6b4a7b32e8ad97b34c68ac2c2",
+  "cacheSourceId": "de1c6a277a7ae01c459a",
+  "retrievedAt": "2026-11-06T15:04:22.504339+00:00",
+  "reviewedMappings": {
+    "2010-3-26:4": "원문에서 E. coli mRNA의 Shine–Dalgarno 서열이 rRNA와 상호작용해 30S를 위치시킨다는 설명 확인. 발현 플라스미드의 해당 DNA 서열은 전사 뒤 mRNA의 리보솜 결합부위가 됨."
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "id": "2026-3-26",
+  "summary": "효소 역할을 하는 단백질이 존재하고, 문항에서 설명하는 경쟁적 저해제는 활성부위 결합을 두고 기질과 경쟁하므로 ㄱ·ㄴ은 옳습니다. 무경쟁적 저해는 최대 반응속도를 감소시키므로 ㄷ은 틀립니다. 정답은 ④입니다.",
+  "choices": [
+    "ㄱ은 옳지만 ㄴ도 옳으므로, ㄱ만 고른 ①은 틀립니다.",
+    "ㄴ은 옳지만 효소 역할을 하는 단백질이 존재한다는 ㄱ도 옳으므로, ㄴ만 고른 ②는 틀립니다.",
+    "무경쟁적 저해제는 효소–기질 복합체에 결합하며 겉보기 최대 반응속도(Vmax)를 감소시킵니다. 따라서 영향이 없다는 ㄷ은 틀립니다.",
+    "ㄱ·ㄴ을 모두 고른 ④가 정답입니다. 단백질 효소가 존재하며, 문항의 경쟁적 저해 설명은 활성부위 결합을 두고 기질과 경쟁하는 고전적 모형에 해당합니다.",
+    "ㄴ은 옳지만 ㄷ은 틀리고 ㄱ이 빠져 있습니다. 무경쟁적 저해에서는 겉보기 Vmax와 Km이 모두 감소합니다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology2e6.5 Enzymes",
+      "quote": "Almost all enzymes are proteins",
+      "url": "https://openstax.org/books/biology-2e/pages/6-5-enzymes",
+      "evidenceId": "179affdd480217e9a604",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology2e6.5 Enzymes",
+      "quote": "Almost all enzymes are proteins",
+      "url": "https://openstax.org/books/biology-2e/pages/6-5-enzymes",
+      "evidenceId": "179affdd480217e9a604",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology2e6.5 Enzymes",
+      "quote": "Almost all enzymes are proteins",
+      "url": "https://openstax.org/books/biology-2e/pages/6-5-enzymes",
+      "evidenceId": "179affdd480217e9a604",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology2e6.5 Enzymes",
+      "quote": "Almost all enzymes are proteins",
+      "url": "https://openstax.org/books/biology-2e/pages/6-5-enzymes",
+      "evidenceId": "179affdd480217e9a604",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology2e6.5 Enzymes",
+      "quote": "Almost all enzymes are proteins",
+      "url": "https://openstax.org/books/biology-2e/pages/6-5-enzymes",
+      "evidenceId": "179affdd480217e9a604",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology2e6.5 Enzymes",
+      "quote": "Almost all enzymes are proteins",
+      "url": "https://openstax.org/books/biology-2e/pages/6-5-enzymes",
+      "evidenceId": "179affdd480217e9a604",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "Eli Lilly & NCATS / NCBI Bookshelf",
+      "ref": "Assay Guidance Manual: Mechanism of Action Assays for Enzymes",
+      "quote": "An uncompetitive inhibitor binds exclusively to the enzyme-substrate complex yielding an inactive enzyme-substrate-inhibitor complex",
+      "url": "https://ncbi.nlm.nih.gov/sites/books/NBK92001/",
+      "evidenceId": "cad730ed22499c667d2a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "Eli Lilly & NCATS / NCBI Bookshelf",
+      "ref": "Assay Guidance Manual: Mechanism of Action Assays for Enzymes",
+      "quote": "An uncompetitive inhibitor binds exclusively to the enzyme-substrate complex yielding an inactive enzyme-substrate-inhibitor complex",
+      "url": "https://ncbi.nlm.nih.gov/sites/books/NBK92001/",
+      "evidenceId": "cad730ed22499c667d2a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "Eli Lilly & NCATS / NCBI Bookshelf",
+      "ref": "Assay Guidance Manual: Mechanism of Action Assays for Enzymes",
+      "quote": "An uncompetitive inhibitor binds exclusively to the enzyme-substrate complex yielding an inactive enzyme-substrate-inhibitor complex",
+      "url": "https://ncbi.nlm.nih.gov/sites/books/NBK92001/",
+      "evidenceId": "cad730ed22499c667d2a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "Eli Lilly & NCATS / NCBI Bookshelf",
+      "ref": "Assay Guidance Manual: Mechanism of Action Assays for Enzymes",
+      "quote": "An uncompetitive inhibitor binds exclusively to the enzyme-substrate complex yielding an inactive enzyme-substrate-inhibitor complex",
+      "url": "https://ncbi.nlm.nih.gov/sites/books/NBK92001/",
+      "evidenceId": "cad730ed22499c667d2a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Full original image read; ㄱ protein existence, ㄴ classical competitive inhibition, ㄷ uncompetitive explicitly written in English. Direct textbook and author assay manual reviewed. Removed unnecessary structural-similarity claim and algebra; independent answer4 agrees with locally archived final key.",
+    "contentHash": "f295c960d87f21b38f51104528c70ecfd5fa0c1353e1e2874876727c3c4fad97"
+  }
+}

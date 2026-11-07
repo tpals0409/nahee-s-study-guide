@@ -1,0 +1,17 @@
+{
+  "id": "03e9aa604c4c81016f6a",
+  "kind": "science",
+  "source": "Saccharomyces Genome Database",
+  "ref": "Saccharomyces cerevisiae aerobic respiration, electron transport chain",
+  "url": "https://pathway.yeastgenome.org/YEAST/NEW-IMAGE?object=PWY3O-188&type=PATHWAY",
+  "excerpt": "ATP synthesis by the mitochondrial inner membrane F1F0 ATP synthase",
+  "sourceHash": "700c74bb4e61071552e0c38aae98c4b36d0ae1501771c4259b95d33affd418fc",
+  "cacheSourceId": "93f773d0fe3a61b9d44f",
+  "retrievedAt": "2026-11-07T04:59:05.480276+00:00",
+  "reviewedMappings": {
+    "2026-3-29:0": "효모의 산소 이용 호흡과 미토콘드리아 내막 ATP 합성 기전을 직접 뒷받침한다. 세포질액에서만 ATP를 만든다는 해석을 반박하지만 미토콘드리아를 포함하는 cytoplasm이라는 원문 자체의 거짓을 증명하지는 않는다.",
+    "2026-3-29:3": "효모의 산소 이용 호흡과 미토콘드리아 내막 ATP 합성 기전을 직접 뒷받침한다. 세포질액에서만 ATP를 만든다는 해석을 반박하지만 미토콘드리아를 포함하는 cytoplasm이라는 원문 자체의 거짓을 증명하지는 않는다."
+  },
+  "retrievalMethod": "Direct web open",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

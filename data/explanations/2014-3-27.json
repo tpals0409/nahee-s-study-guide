@@ -1,0 +1,74 @@
+{
+  "summary": "갑작스러운 위험에 따른 심박 증가, 소화관 혈관 수축, 근육 혈류 증가와 간 글리코겐 분해는 투쟁·도피 반응의 특징이다. 이때 에피네프린(아드레날린) 등을 혈액으로 분비하는 곳은 부신수질이므로 정답은 ⑤이다.",
+  "choices": [
+    "① 갑상선: 틀림. T₃·T₄는 기초대사 조절에 관여한다. 심장에 영향을 줄 수는 있지만, 문제의 갑작스러운 위협에 따른 에피네프린 분비 장소는 갑상선이 아니다.",
+    "② 뇌하수체: 틀림. 뇌하수체 전엽의 ACTH는 부신피질을 자극해 코르티솔 분비를 유도한다. 문제에서 묻는 급성 투쟁·도피 반응의 카테콜아민을 직접 혈중으로 분비하는 장소와 다르다.",
+    "③ 부갑상선: 틀림. 부갑상선의 PTH는 주로 혈중 칼슘 농도 조절에 관여한다. 이 문항에 제시된 급성 반응을 일으키는 에피네프린의 분비 기관은 아니다.",
+    "④ 부신피질: 틀림. 부신피질은 코르티솔 등 스테로이드 호르몬을 분비하며 지속적인 스트레스 대응에도 관여한다. 혈당 상승에 관여한다는 점만으로 고르면 안 된다. 제시된 갑작스러운 심박·혈류 변화와 간 글리코겐 분해를 함께 설명하는 것은 부신수질의 카테콜아민이다.",
+    "⑤ 부신수질: 옳음. 교감신경 자극을 받은 부신수질은 에피네프린과 노르에피네프린을 혈중으로 분비한다. 이 반응은 심박수를 높이고 혈류를 활동에 필요한 근육 쪽으로 재분배하며, 간의 글리코겐 분해로 연료 공급을 늘려 위험에 빠르게 대응하도록 한다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax Anatomy and Physiology 2e",
+      "ref": "17.4 The Thyroid Gland",
+      "quote": "Stimulate basal metabolic rate",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/17-4-the-thyroid-gland",
+      "evidenceId": "367af8062f723919e9e7",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax Anatomy and Physiology 2e",
+      "ref": "17.5 The Parathyroid Glands",
+      "quote": "the major hormone involved in the regulation of blood calcium levels",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/17-5-the-parathyroid-glands",
+      "evidenceId": "acddf4d05d52715eeec8",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax Anatomy and Physiology 2e",
+      "ref": "17.6 The Adrenal Glands",
+      "quote": "ACTH then stimulates the adrenal cortex to produce the hormone cortisol.",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/17-6-the-adrenal-glands",
+      "evidenceId": "cb3268ea1d259ce34098",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax Anatomy and Physiology 2e",
+      "ref": "17.6 The Adrenal Glands",
+      "quote": "ACTH then stimulates the adrenal cortex to produce the hormone cortisol.",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/17-6-the-adrenal-glands",
+      "evidenceId": "cb3268ea1d259ce34098",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax Anatomy and Physiology 2e",
+      "ref": "17.6 The Adrenal Glands",
+      "quote": "The medulla is stimulated to secrete the amine hormones epinephrine and norepinephrine.",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/17-6-the-adrenal-glands",
+      "evidenceId": "71cd8a43b7259113ab65",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "original-image-and-primary-textbook-review",
+    "contentHash": "5df027bf32458b3ce04688f0a39fd478698b667026ed016c077deae6108de47a"
+  }
+}

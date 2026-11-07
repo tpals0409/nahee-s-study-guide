@@ -1,0 +1,16 @@
+{
+  "id": "4f448a94c1434a3a24d8",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e, 16.2 Prokaryotic Gene Regulation",
+  "url": "https://openstax.org/books/biology-2e/pages/16-2-prokaryotic-gene-regulation",
+  "excerpt": "Both repressors and activators regulate gene expression",
+  "sourceHash": "d3c9646b3c8666472f867cb976a84c8d4bb784cf712f8b859abb75b1f28a26f5",
+  "cacheSourceId": "725fcb50b48eddd1376b",
+  "retrievedAt": "2026-11-07T01:09:44.368961+00:00",
+  "reviewedMappings": {
+    "2022-3-25:4": "Opening operon description and E. coli trp/lac examples support coordinated transcription regulation."
+  },
+  "retrievalMethod": "Direct web read of relevant text and table; original problem image inspected",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,107 @@
+{
+  "id": "2022-3-17",
+  "summary": "정답은 ⑤입니다. 상자기성 Y₂는 O₂이고, 결합 차수 3인 XY⁺는 NO⁺이므로 X=N, Y=O입니다. NO⁻의 바닥상태에는 π* 궤도의 홀전자 두 개가 있어 “홀전자 수 1”은 틀립니다.",
+  "choices": [
+    "옳습니다. O₂의 결합 차수는 2입니다. O₂⁺는 반결합성 π* 전자 하나가 줄어 결합 차수가 (8−3)/2=2.5로 커집니다.",
+    "(나)는 반자기성이라는 설명은 옳습니다. NO⁺의 원자가 전자는 5+6−1=10개로, 점유된 결합성·반결합성 궤도의 전자가 모두 짝을 이루므로 반자기성입니다.",
+    "옳습니다. N₂의 총 전자 수는 7×2=14개이고, NO⁺는 7+8−1=14개이므로 등전자입니다.",
+    "옳습니다. O₂⁻는 π2p에 전자 4개, 두 π*2p 궤도에 전자 3개가 들어갑니다. π* 전자 중 한 개만 홀전자이므로 주어진 비는 1/4입니다.",
+    "옳지 않습니다. NO⁻의 원자가 전자는 5+6+1=12개입니다. 바닥상태에서 두 π* 궤도에 전자가 하나씩 들어가 홀전자 수는 2개입니다. NO⁻의 삼중항 바닥상태는 NIST 자료에서도 확인됩니다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 8.4 Molecular Orbital Theory",
+      "quote": "Materials in which all of the electrons are paired are diamagnetic",
+      "url": "https://openstax.org/books/chemistry-2e/pages/8-4-molecular-orbital-theory",
+      "evidenceId": "4d5e6d9653260444d5a6",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 8.4 Molecular Orbital Theory",
+      "quote": "Materials in which all of the electrons are paired are diamagnetic",
+      "url": "https://openstax.org/books/chemistry-2e/pages/8-4-molecular-orbital-theory",
+      "evidenceId": "4d5e6d9653260444d5a6",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 8.4 Molecular Orbital Theory",
+      "quote": "Materials in which all of the electrons are paired are diamagnetic",
+      "url": "https://openstax.org/books/chemistry-2e/pages/8-4-molecular-orbital-theory",
+      "evidenceId": "4d5e6d9653260444d5a6",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 8.4 Molecular Orbital Theory",
+      "quote": "Materials in which all of the electrons are paired are diamagnetic",
+      "url": "https://openstax.org/books/chemistry-2e/pages/8-4-molecular-orbital-theory",
+      "evidenceId": "4d5e6d9653260444d5a6",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 8.4 Molecular Orbital Theory",
+      "quote": "Materials in which all of the electrons are paired are diamagnetic",
+      "url": "https://openstax.org/books/chemistry-2e/pages/8-4-molecular-orbital-theory",
+      "evidenceId": "4d5e6d9653260444d5a6",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 8.4 Molecular Orbital Theory",
+      "quote": "Materials in which all of the electrons are paired are diamagnetic",
+      "url": "https://openstax.org/books/chemistry-2e/pages/8-4-molecular-orbital-theory",
+      "evidenceId": "4d5e6d9653260444d5a6",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "NIST",
+      "ref": "NIST Chemistry WebBook: Nitric oxide anion",
+      "quote": "ground state triplet anion",
+      "url": "https://webbook.nist.gov/cgi/cbook.cgi?Mask=3FB7&Source=1971SPE%2FSCH1968&Units=SI",
+      "evidenceId": "49dc9d51e2ab1404cb1f",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "NIST",
+      "ref": "NIST Chemistry WebBook: Nitric oxide anion",
+      "quote": "ground state triplet anion",
+      "url": "https://webbook.nist.gov/cgi/cbook.cgi?Mask=3FB7&Source=1971SPE%2FSCH1968&Units=SI",
+      "evidenceId": "49dc9d51e2ab1404cb1f",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Original table and options inspected; independent MO electron/bond-order counting; direct OpenStax MO review and NIST indexed triplet-anion evidence",
+    "contentHash": "12d505d6abad98a9181e80447bd53c886c5bac5feb8443d05205f4e191776694"
+  }
+}

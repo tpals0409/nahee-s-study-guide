@@ -1,0 +1,41 @@
+{
+  "summary": "정답은 ① 백색왜성입니다. H-R도의 왼쪽 아래는 표면온도가 높지만 광도가 낮은 영역입니다. 시리우스 B도 백색왜성이므로 두 조건에 모두 맞습니다.",
+  "choices": [
+    "백색왜성은 작은 표면적으로 인해 고온이어도 광도가 낮을 수 있어 H-R도의 왼쪽 아래에 놓입니다. 시리우스 B가 대표적인 예입니다.",
+    "적색거성은 표면온도가 낮고 광도가 높아 H-R도의 오른쪽 위에 놓입니다. 왼쪽 아래라는 조건에 맞지 않습니다.",
+    "초거성은 광도가 매우 큰 별로 H-R도의 위쪽에 분포합니다. 아래쪽이라는 조건과 맞지 않습니다.",
+    "주계열은 왼쪽 위에서 오른쪽 아래로 이어집니다. 고온의 주계열성은 광도도 크므로 제시된 왼쪽 아래 영역에 해당하지 않습니다.",
+    "거성은 같은 온도의 주계열성보다 광도가 높아 주계열 위쪽에 놓입니다. 시리우스 B의 분류도 거성이 아닙니다."
+  ],
+  "lawNote": "H-R도의 밝기는 지구에서 보이는 겉보기 밝기가 아니라 별 자체의 광도입니다. 백색왜성 전체의 광도에 특정 수치를 상한으로 적용하지 마세요.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "OpenStax Astronomy 2e §18.4 The H–R Diagram",
+      "quote": "they are both hot and dim, and must be white dwarfs.",
+      "url": "https://openstax.org/books/astronomy-2e/pages/18-4-the-h-r-diagram",
+      "evidenceId": "a41b5d1e9f97c60f1e18",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "OpenStax Astronomy 2e §18.4 The H–R Diagram",
+      "quote": "The “Companion of Sirius” is among the white dwarfs.",
+      "url": "https://openstax.org/books/astronomy-2e/pages/18-4-the-h-r-diagram",
+      "evidenceId": "4b45e73f799f74b8008e",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "원본 2012-3-34_1.webp 직접 확인. OpenStax Astronomy 2e §18.4의 축 방향, 별 분류별 분포, 시리우스 동반성 위치 대조. 초안의 백색왜성 광도 0.01태양 이하라는 부정확한 일반화 및 불필요한 수치·발견 순서 제거. 정답① 일치.",
+    "contentHash": "282a53212a3b2fea1838dc7a506bfecd1b3503aed9af5973852a98ae26385477"
+  }
+}

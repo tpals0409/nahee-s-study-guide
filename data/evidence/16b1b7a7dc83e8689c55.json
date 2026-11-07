@@ -1,0 +1,17 @@
+{
+  "id": "16b1b7a7dc83e8689c55",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e §3.3 Lipids",
+  "url": "https://openstax.org/books/biology-2e/pages/3-3-lipids",
+  "excerpt": "The cis double bond causes a bend or a “kink”",
+  "sourceHash": "83cf0d2c948fd41ad48b7962e8c2f7a31b6e4ed35fc99cf01cdb62c42cfae229",
+  "cacheSourceId": "a77552bd036775698584",
+  "retrievedAt": "2026-11-06T23:22:34.384159+00:00",
+  "reviewedMappings": {
+    "2020-3-21:0": "OpenStax 공식 페이지 검색 결과의 해당 문장을 확인. 시스 이중결합의 꺾임과 조밀한 배열 방해를 명시하며 5.1절 직접 열람 내용과 결합하여 설명. 이 페이지 전체를 직접 열람한 것은 아님. 시스 불포화 꺾임을 포화로 잘못 진술한⑤ 선택.",
+    "2020-3-21:5": "OpenStax 공식 페이지 검색 결과의 해당 문장을 확인. 시스 이중결합의 꺾임과 조밀한 배열 방해를 명시하며 5.1절 직접 열람 내용과 결합하여 설명. 이 페이지 전체를 직접 열람한 것은 아님. 포화지방산에는 시스 C=C 꺾임이 없어⑤ 거짓."
+  },
+  "retrievalMethod": "OpenStax 공식 페이지 검색 결과의 해당 문장을 확인. 시스 이중결합의 꺾임과 조밀한 배열 방해를 명시하며 5.1절 직접 열람 내용과 결합하여 설명. 이 페이지 전체를 직접 열람한 것은 아님.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

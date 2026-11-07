@@ -1,0 +1,18 @@
+{
+  "id": "41a5778950bd5217608c",
+  "kind": "science",
+  "source": "NOAA / National Weather Service",
+  "ref": "Pressure Definitions",
+  "url": "https://www.weather.gov/bou/pressure_definitions",
+  "excerpt": "higher elevations above sea level experience lower pressure",
+  "sourceHash": "f65fa4e0abe438323b066d0439994ef781bc46c55b03067960d8c1b9e8e3dcc5",
+  "cacheSourceId": "31f781288b30c10362e9",
+  "retrievedAt": "2026-11-06T19:58:58.807690+00:00",
+  "reviewedMappings": {
+    "2015-3-37:0": "NWS의 station pressure 설명은 높은 고도에서 위에 놓인 공기 기둥이 줄어 기압이 낮아짐을 명시한다. 기온의 역전과 관계없이 기압이 고도에 따라 높아진다는 ㄹ은 틀리다. 해면 보정 기압과 실제 고도의 기압을 혼동하지 않는다.",
+    "2015-3-37:4": "NWS의 station pressure 설명은 높은 고도에서 위에 놓인 공기 기둥이 줄어 기압이 낮아짐을 명시한다. 기온의 역전과 관계없이 기압이 고도에 따라 높아진다는 ㄹ은 틀리다. 해면 보정 기압과 실제 고도의 기압을 혼동하지 않는다.",
+    "2015-3-37:5": "NWS의 station pressure 설명은 높은 고도에서 위에 놓인 공기 기둥이 줄어 기압이 낮아짐을 명시한다. 기온의 역전과 관계없이 기압이 고도에 따라 높아진다는 ㄹ은 틀리다. 해면 보정 기압과 실제 고도의 기압을 혼동하지 않는다."
+  },
+  "retrievalMethod": "Direct web open; relevant paragraphs reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

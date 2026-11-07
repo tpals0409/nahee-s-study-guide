@@ -1,0 +1,85 @@
+{
+  "id": "2019-3-13",
+  "summary": "O₂(g)→2O(g)의 엔탈피 변화는 +498 kJ이므로, ½O₂(g)→O(g)는 +249 kJ입니다. 여기에 O₂(g)+O(g)→O₃(g)의 −106 kJ를 더하면 ³⁄₂O₂(g)→O₃(g)가 됩니다. 따라서 표준 생성 엔탈피는 +143 kJ/mol, 정답은 ③입니다.",
+  "choices": [
+    "주어진 반응을 목표 반응에 맞게 합하면 249−106=143 kJ/mol이므로 90은 아닙니다.",
+    "O 원자 1 mol을 만드는 단계가 +249 kJ이므로, 합계는 102가 아니라 143 kJ/mol입니다.",
+    "정답입니다. +249 kJ와 −106 kJ를 더하면 O₃ 1 mol 생성에 +143 kJ이 필요합니다.",
+    "286 kJ는 3O₂(g)→2O₃(g), 즉 O₃ 2 mol을 생성할 때의 값입니다. 1 mol당 값은 143 kJ/mol입니다.",
+    "498−106으로 더하면 반응식에 O(g)가 생성물로 남습니다. O₃만 1 mol 생성하는 반응을 얻으려면 첫 반응을 절반으로 줄여야 합니다."
+  ],
+  "lawNote": "표준 생성 엔탈피는 기준 상태의 원소로부터 해당 물질 1 mol을 만드는 값입니다. 오존은 산소의 동소체이지만, 기준 물질인 O₂(g)와 달라 생성 엔탈피가 0이 아닙니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e 5.3 Enthalpy — Hess’s law",
+      "quote": "the enthalpy change of the total process equals the sum of the enthalpy changes of the various steps.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/5-3-enthalpy",
+      "evidenceId": "9df10f32f99e94afb18f",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e 5.3 Enthalpy — Hess’s law",
+      "quote": "the enthalpy change of the total process equals the sum of the enthalpy changes of the various steps.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/5-3-enthalpy",
+      "evidenceId": "9df10f32f99e94afb18f",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e 5.3 Enthalpy — Hess’s law",
+      "quote": "the enthalpy change of the total process equals the sum of the enthalpy changes of the various steps.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/5-3-enthalpy",
+      "evidenceId": "9df10f32f99e94afb18f",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e 5.3 Enthalpy — Hess’s law",
+      "quote": "the enthalpy change of the total process equals the sum of the enthalpy changes of the various steps.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/5-3-enthalpy",
+      "evidenceId": "9df10f32f99e94afb18f",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e 5.3 Enthalpy — Hess’s law",
+      "quote": "the enthalpy change of the total process equals the sum of the enthalpy changes of the various steps.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/5-3-enthalpy",
+      "evidenceId": "9df10f32f99e94afb18f",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e 5.3 Enthalpy — Hess’s law",
+      "quote": "the enthalpy change of the total process equals the sum of the enthalpy changes of the various steps.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/5-3-enthalpy",
+      "evidenceId": "9df10f32f99e94afb18f",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "OpenStax Hess-law and formation-definition review; independent reaction cancellation and molar normalization",
+    "contentHash": "c2433bbebd26938d3e2f42120d93df2b7213dc8894d179965b00b4ba303fd9d9"
+  }
+}

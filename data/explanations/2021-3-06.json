@@ -1,0 +1,85 @@
+{
+  "id": "2021-3-06",
+  "summary": "전하를 중심으로 한 변이 2d인 가상 정육면체를 잡으면, 주어진 정사각형은 아래 면의 1/4입니다. 가우스 법칙과 대칭성에 따라 선속의 크기는 (q/ε₀)×(1/6)×(1/4)=q/(24ε₀)이므로 정답은 ⑤입니다. 아래쪽(−z)을 법선으로 잡으면 양수이며, 반대 법선에서는 부호가 바뀝니다.",
+  "choices": [
+    "①은 전체 닫힌 정육면체 선속의 1/2입니다. 이 정사각형에는 전체의 1/24이 지나므로 틀립니다.",
+    "②는 전체 선속의 1/3입니다. 대칭성으로 구한 1/24보다 8배 크므로 틀립니다.",
+    "③은 가상 정육면체의 아래 면 전체를 통과하는 선속입니다. 문제의 정사각형은 이 면의 1/4이므로 다시 4로 나누어야 합니다.",
+    "④는 아래 면 전체 선속의 절반입니다. 문제의 영역은 절반이 아니라 대칭인 네 조각 중 하나이므로 틀립니다.",
+    "⑤는 옳습니다. 정육면체 전체 선속 q/ε₀를 대칭인 여섯 면으로 나누고, 아래 면을 다시 대칭인 네 정사각형으로 나누면 q/(24ε₀)입니다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2, 6.2 Explaining Gauss’s Law",
+      "quote": "we define the area vector of a closed surface to point outward.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/6-2-explaining-gausss-law",
+      "evidenceId": "01ee0fc95982df5b66e0",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2, 6.2 Explaining Gauss’s Law",
+      "quote": "we define the area vector of a closed surface to point outward.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/6-2-explaining-gausss-law",
+      "evidenceId": "01ee0fc95982df5b66e0",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2, 6.2 Explaining Gauss’s Law",
+      "quote": "we define the area vector of a closed surface to point outward.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/6-2-explaining-gausss-law",
+      "evidenceId": "01ee0fc95982df5b66e0",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2, 6.2 Explaining Gauss’s Law",
+      "quote": "we define the area vector of a closed surface to point outward.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/6-2-explaining-gausss-law",
+      "evidenceId": "01ee0fc95982df5b66e0",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2, 6.2 Explaining Gauss’s Law",
+      "quote": "we define the area vector of a closed surface to point outward.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/6-2-explaining-gausss-law",
+      "evidenceId": "01ee0fc95982df5b66e0",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2, 6.2 Explaining Gauss’s Law",
+      "quote": "we define the area vector of a closed surface to point outward.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/6-2-explaining-gausss-law",
+      "evidenceId": "01ee0fc95982df5b66e0",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Original examination figure reviewed: square edges along positive x and y, 0<=x,y<=d, z=0, point charge (0,0,d). Direct OpenStax 6.2 lines 32–38, 62–68,75–81 reviewed for radial point-charge field, flux integral, Gauss law and outward normal. Independently construct cube [-d,d]x[-d,d]x[0,2d]; centered charge makes six equal face fluxes; reflection symmetry divides lower face into four equal fluxes. Downward normal gives positive q/(24epsilon0); upward gives negative. No normal specified in original, all choices positive, so explanation explicitly reports magnitude and orientation. Unneeded solid-angle and infinite-plane claims removed.",
+    "contentHash": "1d5550c3a9293d306b993296b95e97a8b091ffeca2d01e6902f4821699533cc0"
+  }
+}

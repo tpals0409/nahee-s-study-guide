@@ -1,0 +1,217 @@
+{
+  "id": "2023-3-15",
+  "summary": "불포화도는 (2×4+2−8)/2=1이다. 고리가 하나 있으므로 다중결합은 없고, 알코올을 제외하면 에테르만 남는다. 산소가 고리 안에 있는 구조6개와 고리 밖에 있는 구조1개를 합해7개이므로 정답은④이다.",
+  "choices": [
+    "오답. 산소가 고리에 포함된 구조만 세어도5원고리1개,4원고리2개,3원고리3개로6개다. 고리밖 산소의 구조도1개 더 있다.",
+    "오답. 고리 크기와 산소 위치별로 분류하면1+2+3+1=7개이므로5개가 아니다.",
+    "오답. 산소가 고리에 포함된 에테르6개 외에 메톡시사이클로프로페인(C₃H₅–O–CH₃)도 포함해야 한다.",
+    "정답. 테트라하이드로퓨란, 2-메틸옥세테인, 3-메틸옥세테인, 에틸옥시레인, 2,2-다이메틸옥시레인, 2,3-다이메틸옥시레인, 메톡시사이클로프로페인의7개다.",
+    "오답. 원자의 연결이 다른 구조는7개다. cis/trans나 거울상처럼 입체배치만 다른 형태를 별개의 구조 이성질체로 더 세지 않는다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "7.2 Calculating the Degree of Unsaturation",
+      "quote": "Oxygen forms two bonds",
+      "url": "https://openstax.org/books/organic-chemistry/pages/7-2-calculating-the-degree-of-unsaturation",
+      "evidenceId": "44a2316b736c0eddc339",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "7.2 Calculating the Degree of Unsaturation",
+      "quote": "Oxygen forms two bonds",
+      "url": "https://openstax.org/books/organic-chemistry/pages/7-2-calculating-the-degree-of-unsaturation",
+      "evidenceId": "44a2316b736c0eddc339",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "7.2 Calculating the Degree of Unsaturation",
+      "quote": "Oxygen forms two bonds",
+      "url": "https://openstax.org/books/organic-chemistry/pages/7-2-calculating-the-degree-of-unsaturation",
+      "evidenceId": "44a2316b736c0eddc339",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "7.2 Calculating the Degree of Unsaturation",
+      "quote": "Oxygen forms two bonds",
+      "url": "https://openstax.org/books/organic-chemistry/pages/7-2-calculating-the-degree-of-unsaturation",
+      "evidenceId": "44a2316b736c0eddc339",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "7.2 Calculating the Degree of Unsaturation",
+      "quote": "Oxygen forms two bonds",
+      "url": "https://openstax.org/books/organic-chemistry/pages/7-2-calculating-the-degree-of-unsaturation",
+      "evidenceId": "44a2316b736c0eddc339",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "7.2 Calculating the Degree of Unsaturation",
+      "quote": "Oxygen forms two bonds",
+      "url": "https://openstax.org/books/organic-chemistry/pages/7-2-calculating-the-degree-of-unsaturation",
+      "evidenceId": "44a2316b736c0eddc339",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "20.2 Alcohols and Ethers",
+      "quote": "the molecule is either an alcohol or ether",
+      "url": "https://openstax.org/books/chemistry-2e/pages/20-2-alcohols-and-ethers",
+      "evidenceId": "3cfb7887460a17c0a528",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "20.2 Alcohols and Ethers",
+      "quote": "the molecule is either an alcohol or ether",
+      "url": "https://openstax.org/books/chemistry-2e/pages/20-2-alcohols-and-ethers",
+      "evidenceId": "3cfb7887460a17c0a528",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "20.2 Alcohols and Ethers",
+      "quote": "the molecule is either an alcohol or ether",
+      "url": "https://openstax.org/books/chemistry-2e/pages/20-2-alcohols-and-ethers",
+      "evidenceId": "3cfb7887460a17c0a528",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "20.2 Alcohols and Ethers",
+      "quote": "the molecule is either an alcohol or ether",
+      "url": "https://openstax.org/books/chemistry-2e/pages/20-2-alcohols-and-ethers",
+      "evidenceId": "3cfb7887460a17c0a528",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "20.2 Alcohols and Ethers",
+      "quote": "the molecule is either an alcohol or ether",
+      "url": "https://openstax.org/books/chemistry-2e/pages/20-2-alcohols-and-ethers",
+      "evidenceId": "3cfb7887460a17c0a528",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "20.2 Alcohols and Ethers",
+      "quote": "the molecule is either an alcohol or ether",
+      "url": "https://openstax.org/books/chemistry-2e/pages/20-2-alcohols-and-ethers",
+      "evidenceId": "3cfb7887460a17c0a528",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "5.9 A Review of Isomerism",
+      "quote": "compounds whose atoms are connected differently",
+      "url": "https://openstax.org/books/organic-chemistry/pages/5-9-a-review-of-isomerism",
+      "evidenceId": "8187086084bf276c1463",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "5.9 A Review of Isomerism",
+      "quote": "compounds whose atoms are connected differently",
+      "url": "https://openstax.org/books/organic-chemistry/pages/5-9-a-review-of-isomerism",
+      "evidenceId": "8187086084bf276c1463",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "5.9 A Review of Isomerism",
+      "quote": "compounds whose atoms are connected differently",
+      "url": "https://openstax.org/books/organic-chemistry/pages/5-9-a-review-of-isomerism",
+      "evidenceId": "8187086084bf276c1463",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "5.9 A Review of Isomerism",
+      "quote": "compounds whose atoms are connected differently",
+      "url": "https://openstax.org/books/organic-chemistry/pages/5-9-a-review-of-isomerism",
+      "evidenceId": "8187086084bf276c1463",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "5.9 A Review of Isomerism",
+      "quote": "compounds whose atoms are connected differently",
+      "url": "https://openstax.org/books/organic-chemistry/pages/5-9-a-review-of-isomerism",
+      "evidenceId": "8187086084bf276c1463",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "5.9 A Review of Isomerism",
+      "quote": "compounds whose atoms are connected differently",
+      "url": "https://openstax.org/books/organic-chemistry/pages/5-9-a-review-of-isomerism",
+      "evidenceId": "8187086084bf276c1463",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "원문 분자식·알코올 제외·고리형·구조이성질체 조건 확인. 고리크기 및 산소 위치별 독립 열거와 중원자5개 단일결합 연결그래프 전수열거를 교차검증: O차수2,C차수≤4,H8,연결,간선5,탄소24개순열로동형제거→7개. work/2023-3-15-enumeration.json에 결과 저장. 오답숫자 발생원인 추측 삭제. 출처의 불포화도·에테르·구조이성질체 정의를 적용.",
+    "contentHash": "3c45856aa899b7b3bb3330c980a4497743a8484f9ac1dacb649c62cde15e2ba6"
+  }
+}

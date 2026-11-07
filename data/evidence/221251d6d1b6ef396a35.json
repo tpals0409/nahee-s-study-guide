@@ -1,0 +1,21 @@
+{
+  "id": "221251d6d1b6ef396a35",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume 1 §16.2 Mathematics of Waves",
+  "url": "https://openstax.org/books/university-physics-volume-1/pages/16-2-mathematics-of-waves",
+  "excerpt": "The wavelength can be found using the wave number",
+  "sourceHash": "af3e3afae01ea53eb7e0db5f5db8e04116893039a9ea112b9202a5982bca06f2",
+  "cacheSourceId": "88ed86646c75000b4327",
+  "retrievedAt": "2026-11-06T23:06:25.261948+00:00",
+  "reviewedMappings": {
+    "2020-3-06:0": "k=3, ω=4; λ=2π/k=2π/3, v=ω/k=4/3; minus sign gives +x propagation.",
+    "2020-3-06:1": "3λ=2π and 3v=4 both satisfied.",
+    "2020-3-06:2": "λ=1/3 gives phase increment 1 rather than 2π; speed alone correct.",
+    "2020-3-06:3": "3 m differs from 2π/3; 12 m/s violates 3v=4.",
+    "2020-3-06:4": "λ=3/(2π) differs from 2π/k and v=3/4 differs from ω/k.",
+    "2020-3-06:5": "Neither λ=3 nor v=3π/2 satisfies the phase-derived wavelength/speed."
+  },
+  "retrievalMethod": "Direct web retrieval; reviewed equations 16.2–16.5, phase direction and characteristics strategy, lines 53–97, and propagation/medium distinction lines 128–132. Applied general sinusoidal phase mathematics to supplied water-wave function.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

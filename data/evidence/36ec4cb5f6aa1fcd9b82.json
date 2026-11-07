@@ -1,0 +1,16 @@
+{
+  "id": "36ec4cb5f6aa1fcd9b82",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "OpenStax University Physics Volume 1 §9.4 Types of Collisions",
+  "url": "https://openstax.org/books/university-physics-volume-1/pages/9-4-types-of-collisions",
+  "excerpt": "Such a collision is called perfectly inelastic.",
+  "sourceHash": "1005d2f61de53833e0b600d2660c27050baf49b9302fd01679b1f94cd4e48f28",
+  "cacheSourceId": "6fd872c5170936e2854f",
+  "retrievedAt": "2026-11-06T17:47:18.245066+00:00",
+  "reviewedMappings": {
+    "2013-3-03:0": "원본 M1kg m.010kg h1.25m L8m g10을 수평 운동량 보존 및 투사 운동에 적용. t=.5s V16m/s v1616m/s. 선지별 예상 사거리 1,2,4,8,16m로 검산."
+  },
+  "retrievalMethod": "web.open; inelastic collision discussion and projectile equations 4.19–4.22 directly reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

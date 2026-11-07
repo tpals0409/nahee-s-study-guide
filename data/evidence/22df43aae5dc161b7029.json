@@ -1,0 +1,21 @@
+{
+  "id": "22df43aae5dc161b7029",
+  "kind": "science",
+  "source": "National Weather Service",
+  "ref": "Skew-T Parameters and Indices",
+  "url": "https://www.weather.gov/source/zhu/ZHU_Training_Page/convective_parameters/skewt/skewtinfo.html",
+  "excerpt": "The lapse rate follows the DALR until saturation, then follows the MALR.",
+  "sourceHash": "964da020e715a2c2538beebfc2bc558032811c34e81632e11996599d7519c670",
+  "cacheSourceId": "46469f634a5c02a506af",
+  "retrievedAt": "2026-11-07T00:32:06.670255+00:00",
+  "reviewedMappings": {
+    "2021-3-36:1": "NWS 포화 전 건조단열·포화 후 습윤단열 상승과 문제의 감률을 적용. 18−10h=10−2h에서 h=1km, B=8℃. C는 포화 모형으로 T=Td; ㄴ 배제. 하강 및 ㄷ의 근거는 별도 Met Office와 결합.",
+    "2021-3-36:2": "NWS 포화 전 건조단열·포화 후 습윤단열 상승과 문제의 감률을 적용. 18−10h=10−2h에서 h=1km, B=8℃. C는 포화 모형으로 T=Td; ㄴ 배제. 하강 및 ㄷ의 근거는 별도 Met Office와 결합.",
+    "2021-3-36:0": "NWS 포화 전 건조단열·포화 후 습윤단열 상승과 문제의 감률을 적용. 18−10h=10−2h에서 h=1km, B=8℃. C는 포화 모형으로 T=Td; ㄴ 배제. 하강 및 ㄷ의 근거는 별도 Met Office와 결합.",
+    "2021-3-36:3": "NWS 포화 전 건조단열·포화 후 습윤단열 상승과 문제의 감률을 적용. 18−10h=10−2h에서 h=1km, B=8℃. C는 포화 모형으로 T=Td; ㄴ 배제. 하강 및 ㄷ의 근거는 별도 Met Office와 결합.",
+    "2021-3-36:4": "NWS 포화 전 건조단열·포화 후 습윤단열 상승과 문제의 감률을 적용. 18−10h=10−2h에서 h=1km, B=8℃. C는 포화 모형으로 T=Td; ㄴ 배제. 하강 및 ㄷ의 근거는 별도 Met Office와 결합.",
+    "2021-3-36:5": "NWS 포화 전 건조단열·포화 후 습윤단열 상승과 문제의 감률을 적용. 18−10h=10−2h에서 h=1km, B=8℃. C는 포화 모형으로 T=Td; ㄴ 배제. 하강 및 ㄷ의 근거는 별도 Met Office와 결합."
+  },
+  "retrievalMethod": "Direct NWS training page review: dry/moist/parcel lapse rate definitions; original question image independently inspected, C height 1.2 km and windward cloud/precipitation markings.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

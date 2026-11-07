@@ -1,0 +1,21 @@
+{
+  "id": "084b9093d17af9e2a98c",
+  "kind": "science",
+  "source": "Steven Earle / BCcampus",
+  "ref": "Physical Geology 2nd Edition 2.4 — Silicate Minerals",
+  "url": "https://opentextbc.ca/physicalgeology2ed/chapter/2-4-silicate-minerals/",
+  "excerpt": "Silica tetrahedra are bonded in three-dimensional frameworks in both the feldspars and quartz.",
+  "sourceHash": "a88c732e60871b432045d94d88f00a8e78b1deac30fdfa0986b4481343a32d47",
+  "cacheSourceId": "3493c815b30a1bdf8f6a",
+  "retrievedAt": "2026-11-06T17:31:44.284494+00:00",
+  "reviewedMappings": {
+    "2012-3-31:0": "Table2.6과 본문의 감람석 독립사면체, 각섬석 복사슬, 백운모 판상, 장석·석영 망상 및 orthoclase feldspar 항목 대조. 원본 보기 ㄴㄷ에 대응하여 각 조합 독립 판단.",
+    "2012-3-31:1": "Table2.6과 본문의 감람석 독립사면체, 각섬석 복사슬, 백운모 판상, 장석·석영 망상 및 orthoclase feldspar 항목 대조. 원본 보기 ㄴㄷ에 대응하여 각 조합 독립 판단.",
+    "2012-3-31:2": "Table2.6과 본문의 감람석 독립사면체, 각섬석 복사슬, 백운모 판상, 장석·석영 망상 및 orthoclase feldspar 항목 대조. 원본 보기 ㄴㄷ에 대응하여 각 조합 독립 판단.",
+    "2012-3-31:3": "Table2.6과 본문의 감람석 독립사면체, 각섬석 복사슬, 백운모 판상, 장석·석영 망상 및 orthoclase feldspar 항목 대조. 원본 보기 ㄴㄷ에 대응하여 각 조합 독립 판단.",
+    "2012-3-31:4": "Table2.6과 본문의 감람석 독립사면체, 각섬석 복사슬, 백운모 판상, 장석·석영 망상 및 orthoclase feldspar 항목 대조. 원본 보기 ㄴㄷ에 대응하여 각 조합 독립 판단.",
+    "2012-3-31:5": "Table2.6과 본문의 감람석 독립사면체, 각섬석 복사슬, 백운모 판상, 장석·석영 망상 및 orthoclase feldspar 항목 대조. 원본 보기 ㄴㄷ에 대응하여 각 조합 독립 판단."
+  },
+  "retrievalMethod": "web.open and web.find; Table 2.6, mineral structure paragraphs and orthoclase listing reviewed",
+  "sourceHashScope": "Selected excerpt only; not full chapter"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "08bfda7f2c337addb8c5",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Organic Chemistry, 9.4 Hydration of Alkynes",
+  "url": "https://openstax.org/books/organic-chemistry/pages/9-4-hydration-of-alkynes",
+  "excerpt": "Alkynes don’t react directly with aqueous acid",
+  "sourceHash": "85e70e366e12a09bfaf2821379c92d76596788bdb58c093956116b5a74d7034e",
+  "cacheSourceId": "871d6c1fcc116834d56a",
+  "retrievedAt": "2026-11-07T01:42:03.243433+00:00",
+  "reviewedMappings": {
+    "2023-3-14:0": "산 수용액만으로 직접 쉽게 수화되지 않으며 Hg(II)촉매를 함께 사용하는 통상 수화 반응이다. 원문의 산촉매 수화를 그 조건의 반응으로 해석하여 HC≡CH→CH₂=CHOH→CH₃CHO를 독립 적용. 엔올을 최종 생성물로 오인하지 않는다. 이 판단을 다른 두 진술의 검증과 합쳐 ㄱㄴㄷ 모두 참으로 ⑤만 완전한 조합임을 확인.",
+    "2023-3-14:1": "산 수용액만으로 직접 쉽게 수화되지 않으며 Hg(II)촉매를 함께 사용하는 통상 수화 반응이다. 원문의 산촉매 수화를 그 조건의 반응으로 해석하여 HC≡CH→CH₂=CHOH→CH₃CHO를 독립 적용. 엔올을 최종 생성물로 오인하지 않는다. 이 판단을 다른 두 진술의 검증과 합쳐 ㄱㄴㄷ 모두 참으로 ⑤만 완전한 조합임을 확인.",
+    "2023-3-14:2": "산 수용액만으로 직접 쉽게 수화되지 않으며 Hg(II)촉매를 함께 사용하는 통상 수화 반응이다. 원문의 산촉매 수화를 그 조건의 반응으로 해석하여 HC≡CH→CH₂=CHOH→CH₃CHO를 독립 적용. 엔올을 최종 생성물로 오인하지 않는다. 이 판단을 다른 두 진술의 검증과 합쳐 ㄱㄴㄷ 모두 참으로 ⑤만 완전한 조합임을 확인.",
+    "2023-3-14:3": "산 수용액만으로 직접 쉽게 수화되지 않으며 Hg(II)촉매를 함께 사용하는 통상 수화 반응이다. 원문의 산촉매 수화를 그 조건의 반응으로 해석하여 HC≡CH→CH₂=CHOH→CH₃CHO를 독립 적용. 엔올을 최종 생성물로 오인하지 않는다. 이 판단을 다른 두 진술의 검증과 합쳐 ㄱㄴㄷ 모두 참으로 ⑤만 완전한 조합임을 확인.",
+    "2023-3-14:4": "산 수용액만으로 직접 쉽게 수화되지 않으며 Hg(II)촉매를 함께 사용하는 통상 수화 반응이다. 원문의 산촉매 수화를 그 조건의 반응으로 해석하여 HC≡CH→CH₂=CHOH→CH₃CHO를 독립 적용. 엔올을 최종 생성물로 오인하지 않는다. 이 판단을 다른 두 진술의 검증과 합쳐 ㄱㄴㄷ 모두 참으로 ⑤만 완전한 조합임을 확인.",
+    "2023-3-14:5": "산 수용액만으로 직접 쉽게 수화되지 않으며 Hg(II)촉매를 함께 사용하는 통상 수화 반응이다. 원문의 산촉매 수화를 그 조건의 반응으로 해석하여 HC≡CH→CH₂=CHOH→CH₃CHO를 독립 적용. 엔올을 최종 생성물로 오인하지 않는다. 이 판단을 다른 두 진술의 검증과 합쳐 ㄱㄴㄷ 모두 참으로 ⑤만 완전한 조합임을 확인."
+  },
+  "retrievalMethod": "Primary-source indexed web search excerpt reviewed (not a direct full-page retrieval). Source-specific statements/table excerpt checked against original question.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

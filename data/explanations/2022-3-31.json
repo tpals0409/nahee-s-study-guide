@@ -1,0 +1,151 @@
+{
+  "id": "2022-3-31",
+  "summary": "정답은 ②, ㄴ입니다. 동아프리카 열곡대는 발산경계이고, 산안드레아스 단층은 천발지진이 발생하는 보존경계입니다. 히말라야는 인도판과 유라시아판의 대륙–대륙 충돌로 형성된 산맥이므로 ㄷ의 설명도 틀립니다.",
+  "choices": [
+    "① 오답입니다. 동아프리카 열곡대는 누비아판과 소말리아판 등이 서로 벌어지는 대륙 열곡으로, 발산경계에 해당합니다. 수렴경계라는 ㄱ은 틀립니다.",
+    "② 정답입니다. 산안드레아스 단층에서는 태평양판과 북아메리카판이 수평으로 어긋납니다. 이러한 변환단층형 보존경계에서는 천발지진이 발생하므로 ㄴ은 옳습니다.",
+    "③ 오답입니다. ㄱ의 동아프리카 열곡대는 발산경계입니다. ㄷ의 히말라야는 대륙–해양판 섭입형이 아니라 대륙–대륙 충돌형 수렴경계이며, 활발한 화산호의 대표 사례도 아닙니다.",
+    "④ 오답입니다. ㄴ은 옳지만 ㄷ은 틀립니다. 히말라야는 인도판과 유라시아판의 대륙 부분이 충돌하여 형성되었습니다. 이를 해양판이 대륙판 아래로 섭입하면서 활발한 화산활동을 만드는 경계로 설명하면 안 됩니다.",
+    "⑤ 오답입니다. ㄴ만 옳습니다. ㄱ은 발산경계를 수렴경계로, ㄷ은 대륙–대륙 충돌대를 대륙–해양판의 활발한 화산활동 지역으로 잘못 설명합니다."
+  ],
+  "lawNote": "대륙 충돌이라는 설명을 대륙지각의 아래 밀려들기나 마그마 생성이 전혀 없다는 뜻으로 확대하지 않습니다. 이 문제는 세 지역의 대표적인 판 경계 유형과 지질활동을 구별합니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "The Geological Society of London",
+      "ref": "East African Rift Valley, East Africa",
+      "quote": "is a developing divergent plate boundary in East Africa.",
+      "url": "https://www.geolsoc.org.uk/science-and-policy/plate-tectonic-stories/east-african-rift-valley/",
+      "evidenceId": "2ffb19347e1678c6fd0e",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "The Geological Society of London",
+      "ref": "East African Rift Valley, East Africa",
+      "quote": "is a developing divergent plate boundary in East Africa.",
+      "url": "https://www.geolsoc.org.uk/science-and-policy/plate-tectonic-stories/east-african-rift-valley/",
+      "evidenceId": "2ffb19347e1678c6fd0e",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "The Geological Society of London",
+      "ref": "East African Rift Valley, East Africa",
+      "quote": "is a developing divergent plate boundary in East Africa.",
+      "url": "https://www.geolsoc.org.uk/science-and-policy/plate-tectonic-stories/east-african-rift-valley/",
+      "evidenceId": "2ffb19347e1678c6fd0e",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "The Geological Society of London",
+      "ref": "East African Rift Valley, East Africa",
+      "quote": "is a developing divergent plate boundary in East Africa.",
+      "url": "https://www.geolsoc.org.uk/science-and-policy/plate-tectonic-stories/east-african-rift-valley/",
+      "evidenceId": "2ffb19347e1678c6fd0e",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "U.S. National Park Service",
+      "ref": "Transform Plate Boundaries",
+      "quote": "results in shallow earthquakes",
+      "url": "https://home.nps.gov/subjects/geology/plate-tectonics-transform-plate-boundaries.htm",
+      "evidenceId": "f8b8214954d3fcfe7253",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "U.S. National Park Service",
+      "ref": "Transform Plate Boundaries",
+      "quote": "results in shallow earthquakes",
+      "url": "https://home.nps.gov/subjects/geology/plate-tectonics-transform-plate-boundaries.htm",
+      "evidenceId": "f8b8214954d3fcfe7253",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "U.S. National Park Service",
+      "ref": "Transform Plate Boundaries",
+      "quote": "results in shallow earthquakes",
+      "url": "https://home.nps.gov/subjects/geology/plate-tectonics-transform-plate-boundaries.htm",
+      "evidenceId": "f8b8214954d3fcfe7253",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "U.S. National Park Service",
+      "ref": "Transform Plate Boundaries",
+      "quote": "results in shallow earthquakes",
+      "url": "https://home.nps.gov/subjects/geology/plate-tectonics-transform-plate-boundaries.htm",
+      "evidenceId": "f8b8214954d3fcfe7253",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "The Geological Society of London",
+      "ref": "Continental/Continental: The Himalayas",
+      "quote": "collision between the Indian Plate and Eurasian Plate",
+      "url": "https://www.geolsoc.org.uk/Plate-Tectonics/Chap3-Plate-Margins/Convergent/Continental-Collision.html",
+      "evidenceId": "39454363c330103686f8",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "The Geological Society of London",
+      "ref": "Continental/Continental: The Himalayas",
+      "quote": "collision between the Indian Plate and Eurasian Plate",
+      "url": "https://www.geolsoc.org.uk/Plate-Tectonics/Chap3-Plate-Margins/Convergent/Continental-Collision.html",
+      "evidenceId": "39454363c330103686f8",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "The Geological Society of London",
+      "ref": "Continental/Continental: The Himalayas",
+      "quote": "collision between the Indian Plate and Eurasian Plate",
+      "url": "https://www.geolsoc.org.uk/Plate-Tectonics/Chap3-Plate-Margins/Convergent/Continental-Collision.html",
+      "evidenceId": "39454363c330103686f8",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "The Geological Society of London",
+      "ref": "Continental/Continental: The Himalayas",
+      "quote": "collision between the Indian Plate and Eurasian Plate",
+      "url": "https://www.geolsoc.org.uk/Plate-Tectonics/Chap3-Plate-Margins/Convergent/Continental-Collision.html",
+      "evidenceId": "39454363c330103686f8",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Original statements checked; direct Geological Society and NPS sources; removed absolute denial of continental underthrusting and unnecessary earthquake-depth numbers",
+    "contentHash": "dd61b8512eba2beb2838a7da8730fd830d2fc35de86f048ea51232a2cfe7e6e9"
+  }
+}

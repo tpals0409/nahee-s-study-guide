@@ -1,0 +1,16 @@
+{
+  "id": "1edcbeac1fbf3608f084",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Astronomy 2e §25.1 The Architecture of the Galaxy",
+  "url": "https://openstax.org/books/astronomy-2e/pages/25-1-the-architecture-of-the-galaxy",
+  "excerpt": "The bulge and the fainter bar both appear yellowish because the brightest stars in them are mostly old yellow and red giants.",
+  "sourceHash": "5978682b7a3a3710e7d9064393bfd2b401d307c8e5285f50084fbf24f55a6534",
+  "cacheSourceId": "c9b23bae913a1977d7af",
+  "retrievedAt": "2026-11-07T04:33:37.964515+00:00",
+  "reviewedMappings": {
+    "2009-3-35:4": "나선은하 팽대부의 주된 오래된항성종족이라는 표준설명을확인한다. NGC1300 논문§2의오래된원반·팽대부질량추적문맥과함께적용하되 모든별이늙었거나사진만으로연령을측정했다고하지않는다."
+  },
+  "retrievalMethod": "Direct web open/find",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

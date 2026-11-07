@@ -1,0 +1,19 @@
+{
+  "id": "c277c7d05c730b2306fa",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 2e, 4.4 Reaction Yields",
+  "url": "https://openstax.org/books/chemistry-2e/pages/4-4-reaction-yields",
+  "excerpt": "The reactant yielding the lesser amount of product is the limiting reactant.",
+  "sourceHash": "ffea0ec01fb840893429b6206e8edd7b0971dc73b9d11ab6b6f77021d11bedae",
+  "cacheSourceId": "3d0866d3689630db7793",
+  "retrievedAt": "2026-11-06T18:41:22.388583+00:00",
+  "reviewedMappings": {
+    "2014-3-12:1": "원본 화학종과 원자보존으로 2A₂B+4C₂→4AC₂+B₂ 독립 균형화. 출처 한계반응물 판정법을 적용하면 진행량0.1몰로 C₂소모, x0.6 y0.4 z0.1. 원자별 몰 보존과 y/z=4 Fraction 검산.",
+    "2014-3-12:2": "원본 화학종과 원자보존으로 2A₂B+4C₂→4AC₂+B₂ 독립 균형화. 출처 한계반응물 판정법을 적용하면 진행량0.1몰로 C₂소모, x0.6 y0.4 z0.1. 원자별 몰 보존과 y/z=4 Fraction 검산.",
+    "2014-3-12:3": "원본 화학종과 원자보존으로 2A₂B+4C₂→4AC₂+B₂ 독립 균형화. 출처 한계반응물 판정법을 적용하면 진행량0.1몰로 C₂소모, x0.6 y0.4 z0.1. 원자별 몰 보존과 y/z=4 Fraction 검산.",
+    "2014-3-12:4": "원본 화학종과 원자보존으로 2A₂B+4C₂→4AC₂+B₂ 독립 균형화. 출처 한계반응물 판정법을 적용하면 진행량0.1몰로 C₂소모, x0.6 y0.4 z0.1. 원자별 몰 보존과 y/z=4 Fraction 검산."
+  },
+  "retrievalMethod": "web.open and web.find; direct primary-source page reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

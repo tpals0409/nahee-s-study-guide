@@ -1,0 +1,17 @@
+{
+  "id": "cb3268ea1d259ce34098",
+  "kind": "science",
+  "source": "OpenStax Anatomy and Physiology 2e",
+  "ref": "17.6 The Adrenal Glands",
+  "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/17-6-the-adrenal-glands",
+  "excerpt": "ACTH then stimulates the adrenal cortex to produce the hormone cortisol.",
+  "sourceHash": "f772736474d4ea9ded4e673ab687ba6d02170bfe4dd48ac057b068810d396e9e",
+  "cacheSourceId": "a6631392569e3d47a384",
+  "retrievedAt": "2026-11-06T18:58:01.913923+00:00",
+  "reviewedMappings": {
+    "2014-3-27:2": "40행 HPA축과 부신피질,79–83행 수질 급성 스트레스 비교. 코르티솔이 항상 느리게만 작용한다는 절대화와 불필요한 세부 기전 삭제.",
+    "2014-3-27:4": "40행 HPA축과 부신피질,79–83행 수질 급성 스트레스 비교. 코르티솔이 항상 느리게만 작용한다는 절대화와 불필요한 세부 기전 삭제."
+  },
+  "retrievalMethod": "web.open; manually reviewed excerpt",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

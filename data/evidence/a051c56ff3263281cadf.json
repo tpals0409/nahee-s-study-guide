@@ -1,0 +1,17 @@
+{
+  "id": "a051c56ff3263281cadf",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "OpenStax University Physics Volume 1 §8.3",
+  "url": "https://openstax.org/books/university-physics-volume-1/pages/8-3-conservation-of-energy",
+  "excerpt": "no work is done by the string tension, which is perpendicular to the arc of the motion.",
+  "sourceHash": "b8ea05da2a6e676ffbb981e21f4a31d626ed0c09ebc88c7d1c9c3fedffdeb90c",
+  "cacheSourceId": "c8fd7b7ee597bf40ada2",
+  "retrievedAt": "2026-11-06T18:33:37.655466+00:00",
+  "reviewedMappings": {
+    "2013-3-01:0": "原문 m20 L3 g10 T260을 구심방향 Newton 법칙 T-mg=mv²/L 및 에너지 보존 mgh=mv²/2에 적용. v²9, h.45 독립 계산; 선지별 장력 역산 완료.",
+    "2014-3-03:0": "단진자 예제8.7의 장력 무일 및 에너지 보존 원리를 충돌 전 하강과 충돌 후 상승에 각각 적용. Mgh₀=Mv²/2와 4Mgh=4MV²/2. 충돌 구간에는 에너지 보존을 적용하지 않음."
+  },
+  "retrievalMethod": "web.open; direct primary-source page reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

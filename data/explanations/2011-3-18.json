@@ -1,0 +1,30 @@
+{
+  "summary": "물을 더하면 녹은 총량은 늘 수 있지만 재평형 후의 포화 농도는 그대로입니다. 옥살산 이온을 더하면 공통 이온 효과로 용해도가 감소하고, 산을 더하면 옥살산 이온이 양성자화되어 용해도가 증가합니다. 따라서 ㄷ만 옳아 정답은 ②입니다.",
+  "choices": [
+    "ㄱ은 틀립니다. 25℃에서 물을 더해도 고체가 남아 있는 한 추가로 녹아 다시 같은 포화 농도에 도달합니다. 용해도 mol/L와 녹은 총 몰수를 구분해야 합니다.",
+    "ㄷ은 옳습니다. H⁺가 C₂O₄²⁻와 반응해 HC₂O₄⁻ 및 H₂C₂O₄를 만들면 자유 C₂O₄²⁻가 줄어듭니다. 용해도곱 평형을 유지하도록 고체가 더 녹으므로 용해도가 증가합니다.",
+    "ㄱ·ㄴ 모두 틀립니다. 물 첨가 후 포화 농도는 같고, Na₂C₂O₄는 공통 이온 C₂O₄²⁻를 공급하여 CaC₂O₄의 용해도를 감소시킵니다.",
+    "ㄷ은 옳지만 ㄱ은 틀립니다. 물을 더 넣어 고체가 더 녹는 현상이 곧 단위부피당 용해도의 증가를 뜻하지는 않습니다.",
+    "ㄷ은 옳지만 ㄴ은 틀립니다. Na₂C₂O₄ 첨가는 산 첨가와 달리 자유 옥살산 이온을 공급하므로 공통 이온 효과로 용해도를 낮춥니다."
+  ],
+  "lawNote": "같은 온도에서 고체가 남아 재평형에 도달한 상태를 비교합니다. Ksp가 일정해도 산이나 공통 이온을 첨가하면 용해도는 달라질 수 있으므로, 용해도가 언제나 Ksp만으로 정해진다고 일반화하면 안 됩니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §15.1 Precipitation and Dissolution: solubility equilibrium and common ion effect",
+      "quote": "the solubility of an ionic compound is less in aqueous solutions containing a common ion",
+      "url": "https://openstax.org/books/chemistry-2e/pages/15-1-precipitation-and-dissolution",
+      "evidenceId": "2f0173df8cb76554bfb2",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "현재 문항의25℃·과량고체·mol/L·세 평형식 확인. 포화평형 및 공통이온 근거 대조. 산 효과는 주어진 Ka식과 Ksp를 결합해 독립 유도. 저장정답② 일치. 초안의 s²=Ksp 정확식 단정 및 주어지지 않은 pH1 계산 삭제.",
+    "contentHash": "47b971c23ed3ed2dfa1e4bc0f56f3c1ec393381b5d28cb49834fb5fdf7de60cd"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "c9c6aed978859440bc51",
+  "kind": "science",
+  "source": "OpenStax Organic Chemistry",
+  "ref": "5.1 Enantiomers and the Tetrahedral Carbon",
+  "url": "https://openstax.org/books/organic-chemistry/pages/5-1-enantiomers-and-the-tetrahedral-carbon",
+  "excerpt": "a tetrahedral carbon is bonded to four different substituents",
+  "sourceHash": "30dccc824d593b21959aa9f34a25a2e81dbb06c716501f2f6da8b07069f13879",
+  "cacheSourceId": "874887f6c3d7d70096a9",
+  "retrievedAt": "2026-11-06T18:49:35.968173+00:00",
+  "reviewedMappings": {
+    "2014-3-19:2": "유일한 사면체 탄소 CH3의 수소 세 개가 동일하므로 카이랄 중심 조건을 만족하지 않는다."
+  },
+  "retrievalMethod": "web.open; manually reviewed excerpt",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

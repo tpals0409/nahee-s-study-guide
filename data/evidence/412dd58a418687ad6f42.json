@@ -1,0 +1,14 @@
+{
+  "id": "412dd58a418687ad6f42",
+  "kind": "science",
+  "source": "OpenStax · Anatomy and Physiology 2e",
+  "ref": "23.7",
+  "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/23-7-chemical-digestion-and-absorption-a-closer-look",
+  "excerpt": "Fat-soluble vitamins (A, D, E, and K) are absorbed along with dietary lipids in micelles via simple diffusion.",
+  "sourceHash": "7a16cbe670e8fc1e1a2df846dd0b0af60b4ad2d7234b18996e7ebddcd45f6535",
+  "cacheSourceId": "5be304eaf08ced84fb2a",
+  "retrievedAt": "2026-11-06T15:04:44.333658+00:00",
+  "reviewedMappings": {
+    "2009-3-24:0": "담즙 생산(간세포)·저장농축(담낭)·구성 및 비효소적 유화 기능을23.6에서 확인.23.7의 췌장리페이스 표와 미셀·지용성비타민 흡수 설명 대조. ㄱㄴ참/ㄷ거짓; 유화만 한다는 초안의 과도한 한정 삭제."
+  }
+}

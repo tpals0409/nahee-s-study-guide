@@ -1,0 +1,52 @@
+{
+  "summary": "단일단계 2A→B이므로 ㄱ의 2차 반응은 옳습니다. [A]=2.00−2[B]에서 100초 후 [A]=1.00 M입니다. A 소모속도를 −d[A]/dt=k_A[A]²로 정의하면 k_A=(1/1.00−1/2.00)/100=5.0×10⁻³ M⁻¹s⁻¹입니다. ㄴ은 틀리고, ㄷ의 소요 시간은 2000초이므로 정답은 ①, ㄱ입니다.",
+  "choices": [
+    "ㄱ만 옳습니다. 단일단계에서 두 A가 반응하므로 속도는 [A]²에 비례합니다. ㄴ의 상수와 ㄷ의 시간은 계산값과 다릅니다.",
+    "ㄴ이 틀립니다. A 소모속도 기준 k_A는 5.0×10⁻³ M⁻¹s⁻¹이고, 계수로 나눈 반응속도 v=−(1/2)d[A]/dt=k[A]²를 쓰면 k는 2.5×10⁻³입니다. 제시된 1.25×10⁻³과 다릅니다.",
+    "ㄴ과 ㄷ이 틀립니다. 0.10 M에서 0.05 M까지 걸리는 시간은 (1/0.05−1/0.10)/(5.0×10⁻³)=2000초입니다.",
+    "ㄴ·ㄷ은 모두 틀렸고 옳은 ㄱ이 빠졌습니다. 그래프의 B 농도를 A 농도로 환산한 뒤 적분 속도식을 적용해야 합니다.",
+    "ㄷ은 틀립니다. 초기 농도 0.10 M인 구간의 반감기는 1/(k_A×0.10)=2000초로, 1500초가 아닙니다."
+  ],
+  "lawNote": "그래프는 생성물 B의 농도입니다. 반응물 A의 농도로 환산해야 하며, 속도상수의 수치는 A 소모속도와 반응계수로 나눈 속도 중 어느 것을 정의하느냐에 따라 2배 차이가 납니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e 12.6 Reaction Mechanisms",
+      "quote": "the rate law is second order in A",
+      "url": "https://openstax.org/books/chemistry-2e/pages/12-6-reaction-mechanisms",
+      "evidenceId": "7aaee04df7b27623a180",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e 12.4 Integrated Rate Laws",
+      "quote": "For these second-order reactions, the integrated rate law is:",
+      "url": "https://openstax.org/books/chemistry-2e/pages/12-4-integrated-rate-laws",
+      "evidenceId": "ccd8bf22c42fffcb082b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e 12.1 Chemical Reaction Rates",
+      "quote": "these rate expressions are all related simply to one another according to the reaction stoichiometry.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/12-1-chemical-reaction-rates",
+      "evidenceId": "d5f7f8adaaa64a8623db",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "원본 2012-3-13_1.webp의 그래프(100,.500),(300,.750),(700,.875) 및 보기 확인. 세 점에서 역농도 기울기 .005 일치 직접 검산. OpenStax 소반응·2차 적분식·양론적 속도 정의 대조. 다섯 조합과 저장 정답① 일치.",
+    "contentHash": "24066b207beaea6c09782cc8e4b0e076b50a108563e9b0e99e8c6a46f5a43eac"
+  }
+}

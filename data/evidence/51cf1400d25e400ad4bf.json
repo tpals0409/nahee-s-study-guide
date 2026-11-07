@@ -1,0 +1,20 @@
+{
+  "id": "51cf1400d25e400ad4bf",
+  "kind": "science",
+  "source": "NYU Abu Dhabi Core Bioinformatics",
+  "ref": "MIMI Usage Guide — Computing Molecular abundances",
+  "url": "https://corebioinf.abudhabi.nyu.edu/MIMI/workflow.html",
+  "excerpt": "Combinatorial Factor: The number of ways minor isotopes can be arranged within the molecule (binomial coefficient).",
+  "sourceHash": "fccad7b8c3e741d1206e3ec125475e0a5bc9355dc7a60f29418a10df096910b7",
+  "cacheSourceId": "ee87fae7972a4e62c92f",
+  "retrievedAt": "2026-11-06T21:45:57.611605+00:00",
+  "reviewedMappings": {
+    "2018-3-11:0": "동위원소 배열의 이항계수 개념만 인용. 해당 페이지의 후속 다원자 예시 알고리즘은 사용하지 않음. 두 자리의 조합을 직접 열거해 p², pq+qp, q² 및 질량합2M,2M+2,2M+4를 계산.9:6:1로 p:q=3:1.",
+    "2018-3-11:1": "동위원소 배열의 이항계수 개념만 인용. 해당 페이지의 후속 다원자 예시 알고리즘은 사용하지 않음. 두 자리의 조합을 직접 열거해 p², pq+qp, q² 및 질량합2M,2M+2,2M+4를 계산.9:6:1로 p:q=3:1.",
+    "2018-3-11:2": "동위원소 배열의 이항계수 개념만 인용. 해당 페이지의 후속 다원자 예시 알고리즘은 사용하지 않음. 두 자리의 조합을 직접 열거해 p², pq+qp, q² 및 질량합2M,2M+2,2M+4를 계산.9:6:1로 p:q=3:1.",
+    "2018-3-11:4": "동위원소 배열의 이항계수 개념만 인용. 해당 페이지의 후속 다원자 예시 알고리즘은 사용하지 않음. 두 자리의 조합을 직접 열거해 p², pq+qp, q² 및 질량합2M,2M+2,2M+4를 계산.9:6:1로 p:q=3:1.",
+    "2018-3-11:5": "동위원소 배열의 이항계수 개념만 인용. 해당 페이지의 후속 다원자 예시 알고리즘은 사용하지 않음. 두 자리의 조합을 직접 열거해 p², pq+qp, q² 및 질량합2M,2M+2,2M+4를 계산.9:6:1로 p:q=3:1."
+  },
+  "retrievalMethod": "Direct source opened; cited concept and relevant surrounding section reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

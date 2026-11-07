@@ -1,0 +1,21 @@
+{
+  "id": "fd1e832ba8b51c34a72c",
+  "kind": "science",
+  "source": "U.S. National Park Service (NPS)",
+  "ref": "Igneous Rocks — Composition and Minerals; Characteristics and Properties",
+  "url": "https://www.nps.gov/subjects/geology/igneous.htm",
+  "excerpt": "Mafic magmas have high melting temperatures and low viscosity.",
+  "sourceHash": "e0ce97ddc9d97f079fcf56f05cb9dcbad79ccd164fbb90db608f235cd54bb23c",
+  "cacheSourceId": "3787ae284cff39afb1b9",
+  "retrievedAt": "2026-11-06T22:09:25.941193+00:00",
+  "reviewedMappings": {
+    "2018-3-32:0": "원본 SiO2 부채꼴 A<B<C를 제시된 세 유형에 대응: A현무암질 B안산암질 C유문암질. 일반 온도·점성 비교에서 ㄱ 거짓 ㄴㄷ 참. 발췌 문장뿐 아니라 조성 및 세 유형 물성 비교표와 원본 그림을 함께 검토.",
+    "2018-3-32:1": "A는 고철질 현무암질로 대표 온도가 높은 쪽이며 가장 낮다는 ㄱ은 거짓. 발췌 문장뿐 아니라 조성 및 세 유형 물성 비교표와 원본 그림을 함께 검토.",
+    "2018-3-32:2": "중간 SiO2인 B는 안산암질로 ㄴ 참이나 고규산질 C의 높은 점성 ㄷ도 참. 발췌 문장뿐 아니라 조성 및 세 유형 물성 비교표와 원본 그림을 함께 검토.",
+    "2018-3-32:3": "C 유문암질은 일반적으로 점성이 높은 쪽으로 ㄷ 참이나 ㄴ도 참. 발췌 문장뿐 아니라 조성 및 세 유형 물성 비교표와 원본 그림을 함께 검토.",
+    "2018-3-32:4": "ㄴ 참이나 A 최저온도 ㄱ은 거짓이고 ㄷ 누락. 발췌 문장뿐 아니라 조성 및 세 유형 물성 비교표와 원본 그림을 함께 검토.",
+    "2018-3-32:5": "ㄴ B안산암질과 ㄷ C유문암질의 높은 점성이 참으로 ⑤. 발췌 문장뿐 아니라 조성 및 세 유형 물성 비교표와 원본 그림을 함께 검토."
+  },
+  "retrievalMethod": "Direct web open: reviewed composition table lines 82–100 and properties comparison lines 138–148. Inspected original question pie charts; used relative ordering among the three stipulated magma types, not precise numerical chart extraction or full TAS classification.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

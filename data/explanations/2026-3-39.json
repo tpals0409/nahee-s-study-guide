@@ -1,0 +1,85 @@
+{
+  "id": "2026-3-39",
+  "summary": "ㄱ은 틀리고 ㄴ·ㄷ은 옳으므로 정답은 ④입니다. 일식은 삭, 월식은 망에 일어나며, 달의 공전면이 황도면에 기울어져 있어 매달 식이 생기지는 않습니다.",
+  "choices": [
+    "ㄱ이 틀려 오답입니다. 일식은 달이 태양과 지구 사이에서 태양을 가릴 때 일어나므로 달의 위상은 망이 아니라 삭입니다.",
+    "ㄷ은 옳지만 ㄴ을 빠뜨려 오답입니다. 달의 공전면과 황도면의 기울기 때문에 매달 식이 생기지 않으며, 월식의 태양–지구–달 배열도 옳습니다.",
+    "ㄱ을 포함하고 ㄷ을 빠뜨려 오답입니다. 일식은 삭에 일어나므로 ㄱ은 틀립니다. 월식 때 지구가 태양과 달 사이에 있다는 ㄴ은 옳습니다.",
+    "ㄴ·ㄷ이 모두 옳아 정답입니다. 월식은 태양–지구–달이 거의 일직선으로 놓여 지구의 그림자가 달에 드리울 때 일어납니다. 달의 공전면은 황도면에 약 5° 기울어져 있어 삭·망이 되어도 대개 식에 필요한 정렬을 벗어납니다.",
+    "ㄱ을 포함하여 오답입니다. ㄴ·ㄷ은 옳지만 일식 때 달의 위상이 망이라는 ㄱ은 틀립니다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "NASA",
+      "ref": "Eclipses and the Moon",
+      "quote": "The tilt of the Moon’s orbit prevents us from having monthly solar and lunar eclipses.",
+      "url": "https://science.nasa.gov/moon/eclipses/",
+      "evidenceId": "862f174bb5cc6dd20f37",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "NASA",
+      "ref": "Eclipses and the Moon",
+      "quote": "The tilt of the Moon’s orbit prevents us from having monthly solar and lunar eclipses.",
+      "url": "https://science.nasa.gov/moon/eclipses/",
+      "evidenceId": "862f174bb5cc6dd20f37",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "NASA",
+      "ref": "Eclipses and the Moon",
+      "quote": "The tilt of the Moon’s orbit prevents us from having monthly solar and lunar eclipses.",
+      "url": "https://science.nasa.gov/moon/eclipses/",
+      "evidenceId": "862f174bb5cc6dd20f37",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "NASA",
+      "ref": "Eclipses and the Moon",
+      "quote": "The tilt of the Moon’s orbit prevents us from having monthly solar and lunar eclipses.",
+      "url": "https://science.nasa.gov/moon/eclipses/",
+      "evidenceId": "862f174bb5cc6dd20f37",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "NASA",
+      "ref": "Eclipses and the Moon",
+      "quote": "The tilt of the Moon’s orbit prevents us from having monthly solar and lunar eclipses.",
+      "url": "https://science.nasa.gov/moon/eclipses/",
+      "evidenceId": "862f174bb5cc6dd20f37",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "NASA",
+      "ref": "Eclipses and the Moon",
+      "quote": "The tilt of the Moon’s orbit prevents us from having monthly solar and lunar eclipses.",
+      "url": "https://science.nasa.gov/moon/eclipses/",
+      "evidenceId": "862f174bb5cc6dd20f37",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Original question image and all statement combinations independently compared with NASA lunar, solar and orbit-tilt sections.",
+    "contentHash": "e0901240a97e1922f5e41679037d4b7e59631b835240717498a832d465505627"
+  }
+}

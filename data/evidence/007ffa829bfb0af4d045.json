@@ -1,0 +1,14 @@
+{
+  "id": "007ffa829bfb0af4d045",
+  "kind": "science",
+  "source": "OpenStax · Biology 2e",
+  "ref": "8.1 Overview of Photosynthesis",
+  "url": "https://openstax.org/books/biology-2e/pages/8-1-overview-of-photosynthesis",
+  "excerpt": "Because they use light to manufacture their own food, they are called photoautotrophs",
+  "sourceHash": "5949774f9cd221d3bad167e6ea4eaaaee07488a3543522d38fd127f9e7e96047",
+  "cacheSourceId": "557b9b04ad9d95735e8d",
+  "retrievedAt": "2026-11-06T15:05:58.533510+00:00",
+  "reviewedMappings": {
+    "2010-3-27:2": "직전 문장의 cyanobacteria를 포함한 광합성 생물과 광독립영양 설명 대조."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "summary": "일차원 무한 퍼텐셜 우물의 바닥상태(n=1) 에너지 E1 = h²/(8mL²)를 계산하면 약 6.0×10⁻¹⁸ J입니다. 이는 약 37 eV이므로 가장 가까운 값은 3.8×10¹ eV입니다.",
+  "choices": [
+    "① 7.2×10⁻³ eV는 오답입니다. n=1에서 구한 최소값 약 37.4 eV보다 작아 이 무한 우물의 허용 에너지가 될 수 없습니다.",
+    "② 1.4×10⁻¹ eV는 오답입니다. 무한 우물에서 양자수는 n=1부터 시작하므로 최소 에너지는 약 37.4 eV입니다. 이보다 작은 값은 허용되지 않습니다.",
+    "3.8×10¹ eV: 정답입니다. E1 = h²/(8mL²) = (6.6×10⁻³⁴)² / (8×9.1×10⁻³¹×(1.0×10⁻¹⁰)²) ≈ 5.98×10⁻¹⁸ J입니다. 이를 1.6×10⁻¹⁹ J/eV로 나누면 약 37.4 eV이므로 3.8×10¹ eV에 가장 가깝습니다.",
+    "④ 1.36×10³ eV는 오답입니다. 계산한 바닥상태 에너지 약 37.4 eV의 약 36배입니다. 문제는 최소 운동에너지를 묻기 때문에 n=1의 값을 선택해야 합니다.",
+    "⑤ 1.4×10⁵ eV는 오답입니다. n=1의 계산값 약 37.4 eV보다 수천 배 크므로 최소 운동에너지에 가장 가까운 값이 아닙니다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax · University Physics Volume 3",
+      "ref": "7.4 The Quantum Particle in a Box",
+      "quote": "En=n2π2ℏ22mL2,n=1,2,3,...",
+      "url": "https://openstax.org/books/university-physics-volume-3/pages/7-4-the-quantum-particle-in-a-box",
+      "evidenceId": "317365f905af0c34d985",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "교재 식 7.41 n²π²ℏ²/(2mL²), n=1,2,...와 우물 내부 U=0 확인. ℏ=h/(2π)로 h²/(8mL²) 도출. 주어진 h,m,L 대입 후 1 eV≈1.6×10⁻¹⁹ J 환산하여 37.39698 eV 독립 계산. 다섯 선지와 비교하여 ③.",
+    "contentHash": "465120a70fc5a2be4dc971a955b55c257a4d9ffcd1bd38b38b3e02599e1deaee"
+  }
+}

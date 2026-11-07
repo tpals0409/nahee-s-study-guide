@@ -1,0 +1,17 @@
+{
+  "id": "c577d7b7027cbfb9ccee",
+  "kind": "science",
+  "source": "USGS",
+  "ref": "Body waves inside the earth",
+  "url": "https://earthquake.usgs.gov/earthquakes/events/1906calif/18april/earthwaves.php",
+  "excerpt": "In P or compressional waves, the vibration of the rock is in the direction of propagation.",
+  "sourceHash": "efd70155639c769e46031d89a84080e129a8ad9bd0098e4f25bcb25ec6fd3872",
+  "cacheSourceId": "d13e711524fde2e6fc06",
+  "retrievedAt": "2026-11-07T03:30:05.367775+00:00",
+  "reviewedMappings": {
+    "2025-3-31:1": "실체파 P/S 설명에서 P의 평행 진동과 더 빠른 전파를 확인하여 ①·④ 지지.",
+    "2025-3-31:4": "실체파 P/S 설명에서 P의 평행 진동과 더 빠른 전파를 확인하여 ①·④ 지지."
+  },
+  "retrievalMethod": "Direct article read",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

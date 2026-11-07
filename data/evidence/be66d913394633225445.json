@@ -1,0 +1,20 @@
+{
+  "id": "be66d913394633225445",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Astronomy 2e: 4.5 Phases and Motions of the Moon",
+  "url": "https://openstax.org/books/astronomy-2e/pages/4-5-phases-and-motions-of-the-moon",
+  "excerpt": "rising around noon and setting around midnight",
+  "sourceHash": "a627e2ddd5faafe974dde38bf103d90ac3e68230412ffd52c7b42b503677b013",
+  "cacheSourceId": "bbdee59337130f0bbe9b",
+  "retrievedAt": "2026-11-06T23:43:31.527750+00:00",
+  "reviewedMappings": {
+    "2020-3-39:0": "원문 A→B→C→D 순서와 상대 태양 방향으로 삭·상현·망·하현 대응.",
+    "2020-3-39:1": "상현달은 정오 무렵 떠서 자정 무렵 짐.",
+    "2020-3-39:2": "삭 이후 1/4 공전은 상현이고 보이는 원반 절반이 밝음.",
+    "2020-3-39:4": "하현달은 자정 무렵 떠서 정오 무렵 짐.",
+    "2020-3-39:5": "삭의 밝은 면은 지구 반대쪽이며 태양과 같은 방향이므로 야간 관측에 적합하지 않음."
+  },
+  "retrievalMethod": "Direct web open; reviewed lines 34–56: phase geometry, new moon visibility, first/third-quarter approximate rise/set, full moon and orbital tilt. Applied relative geometry to original image (textbook labels are different).",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

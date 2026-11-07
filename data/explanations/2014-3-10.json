@@ -1,0 +1,41 @@
+{
+  "summary": "정답은 ① B₀/4, 지면 안쪽입니다. 두 반원은 병렬이므로 왼쪽 R에는 3I/4, 오른쪽 3R에는 I/4가 흐릅니다. 중심 자기장은 각각 안쪽 3B₀/8, 바깥쪽 B₀/8이어서 합성하면 안쪽 B₀/4입니다. 중심과 같은 직선 위에 놓인 위·아래 직선 구간의 기여는 0입니다.",
+  "choices": [
+    "B₀/4, 지면 안으로 들어가는 방향: 정답입니다. 왼쪽 반원은 (B₀/2)(3/4) = 3B₀/8의 자기장을 지면 안쪽으로 만듭니다. 오른쪽 반원은 (B₀/2)(1/4) = B₀/8의 자기장을 지면 밖쪽으로 만듭니다. 둘을 합하면 3B₀/8 − B₀/8 = B₀/4이고, 방향은 지면 안쪽입니다.",
+    "B₀/4, 지면에서 나오는 방향: 오답입니다. 크기는 맞지만, 더 큰 전류(3I/4)가 흐르는 왼쪽 반원은 아래에서 위로 시계 방향으로 흐르므로 지면 안쪽 자기장이 우세합니다.",
+    "0, 방향이 없음: 오답입니다. 두 반원의 저항이 같다면 전류도 같아 상쇄되겠지만, 저항이 R과 3R로 달라 전류가 3:1로 나뉩니다. 따라서 두 반원의 자기장은 완전히 상쇄되지 않습니다.",
+    "B₀/2, 지면에서 나오는 방향: 오답입니다. B₀/2는 전류 I 전체가 반원 하나에만 흐를 때의 값입니다. 실제로는 두 반원의 자기장이 일부 상쇄되고, 방향도 반대입니다.",
+    "B₀/2, 지면 안으로 들어가는 방향: 오답입니다. 방향은 맞지만, 오른쪽 반원의 지면 밖쪽 자기장 B₀/8이 상쇄되므로 크기는 B₀/4입니다."
+  ],
+  "lawNote": "반원에 같은 전류가 흐른다고 가정하면 안 됩니다. 두 반원의 전위차는 같지만 저항이 다르므로 전류가 다릅니다. 자기장의 방향은 그림의 전류 화살표를 기준으로 오른손 법칙을 적용합니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2, 12.1 The Biot-Savart Law",
+      "quote": "This law enables us to calculate the magnitude and direction of the magnetic field produced by a current in a wire.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/12-1-the-biot-savart-law",
+      "evidenceId": "b3975c2837107fc197a5",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax · University Physics Volume 2",
+      "ref": "10.2 Resistors in Series and Parallel",
+      "quote": "each resistor has the same potential drop across it",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/10-2-resistors-in-series-and-parallel",
+      "evidenceId": "705dc2c0d964a1c610d8",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "원본2014-3-10_1.webp 회로·저항위치·전류방향·선지 대조. OpenStax 병렬회로 및 비오사바르 법칙 대조. 호각 적분, 직선구간 외적0, 좌우 자기장 외적 부호와 Fraction 전류분배·합성 검산. 정답①.",
+    "contentHash": "c345ffc47b0104b615cc6e7e47609ca4ff6ea3ce72ea1c18a9539a13d086f8f6"
+  }
+}

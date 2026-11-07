@@ -1,0 +1,17 @@
+{
+  "id": "acb54a8a54ac6003478a",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "17.3 Whole-Genome Sequencing",
+  "url": "https://openstax.org/books/biology-2e/pages/17-3-whole-genome-sequencing",
+  "excerpt": "When a dideoxynucleotide is incorporated into a DNA strand, DNA synthesis stops.",
+  "sourceHash": "5bcca7b0e587c2e95b48bfcfdc81b58468d38930382ab692ec6548cb5b4c2733",
+  "cacheSourceId": "900eb0708789cda651d6",
+  "retrievedAt": "2026-11-06T20:33:51.079852+00:00",
+  "reviewedMappings": {
+    "2016-3-28:0": "본문34–39 Sanger단일가닥주형·프라이머·dNTP/ddNTP와3′OH결핍사슬종결확인. 변성과사슬종결을구별. 선지의포함·누락진술과대조.",
+    "2016-3-28:4": "본문34–39 Sanger단일가닥주형·프라이머·dNTP/ddNTP와3′OH결핍사슬종결확인. 변성과사슬종결을구별. 선지의포함·누락진술과대조."
+  },
+  "retrievalMethod": "Direct web open",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

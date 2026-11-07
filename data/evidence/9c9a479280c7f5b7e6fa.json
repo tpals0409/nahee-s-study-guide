@@ -1,0 +1,21 @@
+{
+  "id": "9c9a479280c7f5b7e6fa",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Organic Chemistry 4.4 — Cyclopropane",
+  "url": "https://openstax.org/books/organic-chemistry/pages/4-4-conformations-of-cycloalkanes",
+  "excerpt": "the angle strain caused by its 60° C−C−C bond angles",
+  "sourceHash": "1b1ee53a7d3925a78b25d456898c2123f857f19d4ac30ab59e67a762af2b39aa",
+  "cacheSourceId": "52723f08fad9054f460e",
+  "retrievedAt": "2026-11-06T17:14:27.927453+00:00",
+  "reviewedMappings": {
+    "2012-3-15:0": "ㄱ: (가)는 불포화도1이며 sp²0이므로 삼원 고리. C-C-C 60°<109.5°.",
+    "2012-3-15:1": "ㄱ: (가)는 불포화도1이며 sp²0이므로 삼원 고리. C-C-C 60°<109.5°.",
+    "2012-3-15:2": "ㄱ: (가)는 불포화도1이며 sp²0이므로 삼원 고리. C-C-C 60°<109.5°.",
+    "2012-3-15:3": "ㄱ: (가)는 불포화도1이며 sp²0이므로 삼원 고리. C-C-C 60°<109.5°.",
+    "2012-3-15:4": "ㄱ: (가)는 불포화도1이며 sp²0이므로 삼원 고리. C-C-C 60°<109.5°.",
+    "2012-3-15:5": "ㄱ: (가)는 불포화도1이며 sp²0이므로 삼원 고리. C-C-C 60°<109.5°."
+  },
+  "retrievalMethod": "web.open reviewed; selected excerpt retained",
+  "sourceHashScope": "Selected excerpt only; not full page"
+}

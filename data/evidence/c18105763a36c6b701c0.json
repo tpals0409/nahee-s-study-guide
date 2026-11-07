@@ -1,0 +1,21 @@
+{
+  "id": "c18105763a36c6b701c0",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Astronomy 2e §18.4 — Features of the H–R Diagram",
+  "url": "https://openstax.org/books/astronomy-2e/pages/18-4-the-h-r-diagram",
+  "excerpt": "It is customary to plot H–R diagrams in such a way that temperature increases toward the left and luminosity toward the top.",
+  "sourceHash": "77b163959b118ef5210e180fd8e1aec8637b9538f6c48d7eab0b5f1016752d3c",
+  "cacheSourceId": "12551a90ef7f8e60135a",
+  "retrievedAt": "2026-11-06T21:37:48.016725+00:00",
+  "reviewedMappings": {
+    "2017-3-40:0": "원본 축·네 표지 위치를 교재의 H-R도 영역 설명과 대조. ㄱ초거성 ㄴ거성 ㄷ주계열 ㄹ백색왜성.",
+    "2017-3-40:1": "주계열 대각선 띠와 그 위 거성 무리의 설명을 적용해 ㄴ·ㄷ 교환 오류 확인.",
+    "2017-3-40:2": "교재의 네 영역 분포와 원본 표지 일치. 모든 초거성을 저온으로 일반화하지 않음.",
+    "2017-3-40:3": "고온 저광도 백색왜성의 작은 면적 설명과 상부 초거성 영역을 대조하여 ㄱ·ㄹ 교환 오류 확인.",
+    "2017-3-40:4": "교재 네 영역 분포에 원본 표지를 대응하면 네 개 모두 불일치.",
+    "2017-3-40:5": "교재 네 영역 분포에 원본 표지를 대응하면 네 개 모두 불일치."
+  },
+  "retrievalMethod": "Direct source reviewed: Features of the H–R Diagram, figure descriptions 18.14–18.15 and paragraphs on giants and white dwarfs",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

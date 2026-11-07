@@ -1,0 +1,27 @@
+{
+  "id": "fa0e8a27ce470269ab89",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume 1 11.2 Angular Momentum",
+  "url": "https://openstax.org/books/university-physics-volume-1/pages/11-2-angular-momentum",
+  "excerpt": "The magnitude of the angular momentum is found from the definition of the cross-product,",
+  "sourceHash": "1b3952f29eeed299bd7d8b16212b7096adf3be4c4b3d696d91e23b53023914c3",
+  "cacheSourceId": "695387fd771933427fd4",
+  "retrievedAt": "2026-11-06T20:07:17.892185+00:00",
+  "reviewedMappings": {
+    "2016-3-02:0": "본문 36~53행: p=mv, L=rp sinθ. 원운동에서는 r과 v가 수직이므로 회전 중심에 대한 L=mrv=mr²ω. 동일한 m,ω에서 rB>rA이므로 ㄷ도 B가 크다. ㄱ·ㄴ과 함께 모든 보기가 참이다.",
+    "2016-3-02:1": "본문 36~53행: p=mv, L=rp sinθ. 원운동에서는 r과 v가 수직이므로 회전 중심에 대한 L=mrv=mr²ω. 동일한 m,ω에서 rB>rA이므로 ㄷ도 B가 크다. ㄱ·ㄴ과 함께 모든 보기가 참이다.",
+    "2016-3-02:2": "본문 36~53행: p=mv, L=rp sinθ. 원운동에서는 r과 v가 수직이므로 회전 중심에 대한 L=mrv=mr²ω. 동일한 m,ω에서 rB>rA이므로 ㄷ도 B가 크다. ㄱ·ㄴ과 함께 모든 보기가 참이다.",
+    "2016-3-02:3": "본문 36~53행: p=mv, L=rp sinθ. 원운동에서는 r과 v가 수직이므로 회전 중심에 대한 L=mrv=mr²ω. 동일한 m,ω에서 rB>rA이므로 ㄷ도 B가 크다. ㄱ·ㄴ과 함께 모든 보기가 참이다.",
+    "2016-3-02:4": "본문 36~53행: p=mv, L=rp sinθ. 원운동에서는 r과 v가 수직이므로 회전 중심에 대한 L=mrv=mr²ω. 동일한 m,ω에서 rB>rA이므로 ㄷ도 B가 크다. ㄱ·ㄴ과 함께 모든 보기가 참이다.",
+    "2016-3-02:5": "본문 36~53행: p=mv, L=rp sinθ. 원운동에서는 r과 v가 수직이므로 회전 중심에 대한 L=mrv=mr²ω. 동일한 m,ω에서 rB>rA이므로 ㄷ도 B가 크다. ㄱ·ㄴ과 함께 모든 보기가 참이다.",
+    "2016-3-03:0": "앞서 직접 확인한 본문 36~53행: 입자 각운동량 L=rp sinθ. 원문 속도는 막대와 수직이고 팔길이는 L/2이므로 입자 각운동량 크기 mvL/2. 막대 Iω와 반대 부호로 합산한다.",
+    "2016-3-03:1": "앞서 직접 확인한 본문 36~53행: 입자 각운동량 L=rp sinθ. 원문 속도는 막대와 수직이고 팔길이는 L/2이므로 입자 각운동량 크기 mvL/2. 막대 Iω와 반대 부호로 합산한다.",
+    "2016-3-03:2": "앞서 직접 확인한 본문 36~53행: 입자 각운동량 L=rp sinθ. 원문 속도는 막대와 수직이고 팔길이는 L/2이므로 입자 각운동량 크기 mvL/2. 막대 Iω와 반대 부호로 합산한다.",
+    "2016-3-03:3": "앞서 직접 확인한 본문 36~53행: 입자 각운동량 L=rp sinθ. 원문 속도는 막대와 수직이고 팔길이는 L/2이므로 입자 각운동량 크기 mvL/2. 막대 Iω와 반대 부호로 합산한다.",
+    "2016-3-03:4": "앞서 직접 확인한 본문 36~53행: 입자 각운동량 L=rp sinθ. 원문 속도는 막대와 수직이고 팔길이는 L/2이므로 입자 각운동량 크기 mvL/2. 막대 Iω와 반대 부호로 합산한다.",
+    "2016-3-03:5": "앞서 직접 확인한 본문 36~53행: 입자 각운동량 L=rp sinθ. 원문 속도는 막대와 수직이고 팔길이는 L/2이므로 입자 각운동량 크기 mvL/2. 막대 Iω와 반대 부호로 합산한다."
+  },
+  "retrievalMethod": "web open: directly reviewed source text and equations in current conversation",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

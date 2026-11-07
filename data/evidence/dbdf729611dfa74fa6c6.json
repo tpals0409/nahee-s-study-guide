@@ -1,0 +1,21 @@
+{
+  "id": "dbdf729611dfa74fa6c6",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics 1 §10.5 Calculating Moments of Inertia",
+  "url": "https://openstax.org/books/university-physics-volume-1/pages/10-5-calculating-moments-of-inertia",
+  "excerpt": "the moment of inertia for any object depends on the chosen axis.",
+  "sourceHash": "0eca0deaa2b7c40343ee4d2f75df3e4e1a1dbab521716a8a37c3150eb110998a",
+  "cacheSourceId": "1946f94e43d212006396",
+  "retrievedAt": "2026-11-06T19:16:15.100728+00:00",
+  "reviewedMappings": {
+    "2015-3-03:0": "Equations 10.19/10.20 support integral and parallel axes. Original explicitly specifies central perpendicular axis and common linear density. Ring integral=2pi mu R^3; each chord length sqrt(3)R and offset R/2 gives sqrt(3)mu R^3/2. Exact normalized direct integration independently matches parallel-axis result.",
+    "2015-3-03:1": "Equations 10.19/10.20 support integral and parallel axes. Original explicitly specifies central perpendicular axis and common linear density. Ring integral=2pi mu R^3; each chord length sqrt(3)R and offset R/2 gives sqrt(3)mu R^3/2. Exact normalized direct integration independently matches parallel-axis result.",
+    "2015-3-03:2": "Equations 10.19/10.20 support integral and parallel axes. Original explicitly specifies central perpendicular axis and common linear density. Ring integral=2pi mu R^3; each chord length sqrt(3)R and offset R/2 gives sqrt(3)mu R^3/2. Exact normalized direct integration independently matches parallel-axis result.",
+    "2015-3-03:3": "Equations 10.19/10.20 support integral and parallel axes. Original explicitly specifies central perpendicular axis and common linear density. Ring integral=2pi mu R^3; each chord length sqrt(3)R and offset R/2 gives sqrt(3)mu R^3/2. Exact normalized direct integration independently matches parallel-axis result.",
+    "2015-3-03:4": "Equations 10.19/10.20 support integral and parallel axes. Original explicitly specifies central perpendicular axis and common linear density. Ring integral=2pi mu R^3; each chord length sqrt(3)R and offset R/2 gives sqrt(3)mu R^3/2. Exact normalized direct integration independently matches parallel-axis result.",
+    "2015-3-03:5": "Equations 10.19/10.20 support integral and parallel axes. Original explicitly specifies central perpendicular axis and common linear density. Ring integral=2pi mu R^3; each chord length sqrt(3)R and offset R/2 gives sqrt(3)mu R^3/2. Exact normalized direct integration independently matches parallel-axis result."
+  },
+  "retrievalMethod": "Direct web open; original geometry inspected; direct mass-integral and parallel-axis calculations independently compared.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

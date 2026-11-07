@@ -1,0 +1,16 @@
+{
+  "id": "e9a588506162c45cd33b",
+  "kind": "science",
+  "source": "Indiana University",
+  "ref": "Lab 6 Reading: Igneous Rocks",
+  "url": "https://iu.pressbooks.pub/g117onlinelabmanual/chapter/8igneous-rocks/",
+  "excerpt": "the sequence of mineral crystallization is the opposite sequence of crystal melting",
+  "sourceHash": "d54753f183020e03bedb87796667a886a08ac96a6c53df3331d48822d4550ba3",
+  "cacheSourceId": "31d28fa2633671ea437a",
+  "retrievedAt": "2026-11-07T02:46:46.598602+00:00",
+  "reviewedMappings": {
+    "2024-3-32:1": "Indexed university lab text reviewed; direct open 403. Supports reversed sequence as teaching model, not complete multicomponent phase equilibrium."
+  },
+  "retrievalMethod": "Indexed university lab text reviewed; direct open 403. Supports reversed sequence as teaching model, not complete multicomponent phase equilibrium.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

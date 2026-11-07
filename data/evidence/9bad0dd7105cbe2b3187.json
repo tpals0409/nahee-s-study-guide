@@ -1,0 +1,16 @@
+{
+  "id": "9bad0dd7105cbe2b3187",
+  "kind": "science",
+  "source": "U.S. Geological Survey",
+  "ref": "The Interior of the Earth",
+  "url": "https://pubs.usgs.gov/gip/interior/",
+  "excerpt": "Below this low-velocity zone is a transition zone in the upper mantle",
+  "sourceHash": "3e0c2ea5758deb135d60cddced7f7a6a3c55edcbb2375b9130d4288d061a3fdf",
+  "cacheSourceId": "b770f16c59532aa4ce38",
+  "retrievedAt": "2026-11-07T01:25:06.659627+00:00",
+  "reviewedMappings": {
+    "2022-3-38:5": "상부맨틀의 저속도층 존재를 확인한다. 저속도층과 연약권의 완전 일치나 부분용융의 유일 원인 단정은 하지 않는다."
+  },
+  "retrievalMethod": "Indexed primary-source text retrieved through web search; direct open returned 403. Mantle section excerpt describes yielding rock, lower seismic velocity and underlying upper-mantle transition zone.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

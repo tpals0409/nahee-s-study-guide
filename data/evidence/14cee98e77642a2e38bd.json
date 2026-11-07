@@ -1,0 +1,20 @@
+{
+  "id": "14cee98e77642a2e38bd",
+  "kind": "science",
+  "source": "IODP",
+  "ref": "IODP Expedition 340 — Site U1396",
+  "url": "https://publications.iodp.org/proceedings/340/106/106_3.htm",
+  "excerpt": "Ripple cross-lamination will also only occur in turbidites, but it was rarely if ever seen in Site U1396 cores.",
+  "sourceHash": "afb30170bc681e299150aeb67108d0b342d961407cd68718e0f836b6f485dcad",
+  "cacheSourceId": "91641d769636a862485c",
+  "retrievedAt": "2026-11-07T05:30:24.954853+00:00",
+  "reviewedMappings": {
+    "2025-3-32:0": "IODP 본문56–59는 낙하 화산재와 원거리 저탁류 퇴적물 구별 문맥에서 연흔 사층엽리를 다룬다. only는 두 유형 비교의 범위이며 모든 환경으로 일반화하지 않는다. 해당 코어에서는 rarely if ever seen이라고 하므로 풍부한 실제 관찰을 보고했다고 주장하지 않는다. Operations60의 현재 시추 수심787.4m는 퇴적 당시 고수심을 직접 증명하지 않는다.",
+    "2025-3-32:1": "IODP 본문56–59는 낙하 화산재와 원거리 저탁류 퇴적물 구별 문맥에서 연흔 사층엽리를 다룬다. only는 두 유형 비교의 범위이며 모든 환경으로 일반화하지 않는다. 해당 코어에서는 rarely if ever seen이라고 하므로 풍부한 실제 관찰을 보고했다고 주장하지 않는다. Operations60의 현재 시추 수심787.4m는 퇴적 당시 고수심을 직접 증명하지 않는다.",
+    "2025-3-32:3": "IODP 본문56–59는 낙하 화산재와 원거리 저탁류 퇴적물 구별 문맥에서 연흔 사층엽리를 다룬다. only는 두 유형 비교의 범위이며 모든 환경으로 일반화하지 않는다. 해당 코어에서는 rarely if ever seen이라고 하므로 풍부한 실제 관찰을 보고했다고 주장하지 않는다. Operations60의 현재 시추 수심787.4m는 퇴적 당시 고수심을 직접 증명하지 않는다.",
+    "2025-3-32:4": "IODP 본문56–59는 낙하 화산재와 원거리 저탁류 퇴적물 구별 문맥에서 연흔 사층엽리를 다룬다. only는 두 유형 비교의 범위이며 모든 환경으로 일반화하지 않는다. 해당 코어에서는 rarely if ever seen이라고 하므로 풍부한 실제 관찰을 보고했다고 주장하지 않는다. Operations60의 현재 시추 수심787.4m는 퇴적 당시 고수심을 직접 증명하지 않는다.",
+    "2025-3-32:5": "IODP 본문56–59는 낙하 화산재와 원거리 저탁류 퇴적물 구별 문맥에서 연흔 사층엽리를 다룬다. only는 두 유형 비교의 범위이며 모든 환경으로 일반화하지 않는다. 해당 코어에서는 rarely if ever seen이라고 하므로 풍부한 실제 관찰을 보고했다고 주장하지 않는다. Operations60의 현재 시추 수심787.4m는 퇴적 당시 고수심을 직접 증명하지 않는다."
+  },
+  "retrievalMethod": "Direct web open of relevant sections",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "9b455c0172a59c7bdea4",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume 3 §7.4 The Quantum Particle in a Box",
+  "url": "https://openstax.org/books/university-physics-volume-3/pages/7-4-the-quantum-particle-in-a-box",
+  "excerpt": "The energy of the particle is quantized as a consequence of a standing wave condition inside the box.",
+  "sourceHash": "db88bd8aacfe6fcffeab3314febe45a4effbd601993cb21bfafdb20ce7107bcd",
+  "cacheSourceId": "755d1f79532176d0af30",
+  "retrievedAt": "2026-11-06T23:09:38.189180+00:00",
+  "reviewedMappings": {
+    "2020-3-10:0": "For width d, kd=nπ and E=ℏ²k²/(2m) yield E_n=n²h²/(8md²), λ=2d/n. Matching A ground energy gives B n2, λ2L.",
+    "2020-3-10:1": "B width2L, λL/4 gives n16, energy ratio n²/4=64; draft n8 corrected.",
+    "2020-3-10:2": "B width2L, λL/2 gives n8, energy ratio16; draft n4 corrected.",
+    "2020-3-10:3": "B width2L, λL gives n4, energy ratio4.",
+    "2020-3-10:4": "B width2L, λ2L gives n2, energy ratio1.",
+    "2020-3-10:5": "B width2L, λ4L gives n1, energy ratio1/4."
+  },
+  "retrievalMethod": "Direct web retrieval; reviewed zero-interior potential definition, boundary condition kL=nπ, energy equations7.40–7.44 and standing-state distinction, lines31–120. Derived λ=2π/k and used analytic equations, not inconsistent image alt text at123–124.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

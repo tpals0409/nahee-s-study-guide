@@ -1,0 +1,19 @@
+{
+  "id": "7cf82d509c3ce6f2614e",
+  "kind": "science",
+  "source": "NOAA",
+  "ref": "The Hydrologic Cycle",
+  "url": "https://www.noaa.gov/jetstream/atmosphere/hydro",
+  "excerpt": "Foggy conditions often occur when air temperature and dew point are equal.",
+  "sourceHash": "e2205a2af68967ebb012df932f67714e749cf640beb84975888b828e244ad20b",
+  "cacheSourceId": "fe0525609d8e8b57af3c",
+  "retrievedAt": "2026-11-06T23:40:14.097797+00:00",
+  "reviewedMappings": {
+    "2020-3-36:1": "B의 포화 도달에서 기온=이슬점.",
+    "2020-3-36:2": "포화 구름 속 C에서 기온=이슬점인 모형.",
+    "2020-3-36:3": "응결 잠열이 냉각을 상쇄하므로 건조 단열 상승보다 냉각량이 작음.",
+    "2020-3-36:4": "응결 잠열 방출로 포화 상승 냉각량이 줄어듦."
+  },
+  "retrievalMethod": "Direct web open; reviewed lines 62–69: dewpoint as saturation temperature, equality in fog, latent heat release, precipitation removal.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

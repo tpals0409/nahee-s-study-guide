@@ -1,0 +1,16 @@
+{
+  "id": "2f6e5159bd074e03a60e",
+  "kind": "science",
+  "source": "Bentley et al. / Geosciences LibreTexts",
+  "ref": "Historical Geology — Structures formed by desiccation",
+  "url": "https://geo.libretexts.org/Bookshelves/Geology/Historical_Geology_(Bentley_et_al.)/13:_Using_Sedimentary_Structures_to_Interpret_Ancient_Environments/13.03:_Some_common_sedimentary_structures",
+  "excerpt": "Mud cracks preserved in the rock record are excellent indicators of subaerial exposure",
+  "sourceHash": "8c1a08ce83534775b95d4d27d1e79c85705363507ad7a90f2610fdd1dc0d3c65",
+  "cacheSourceId": "0f4cc29311eae32ba506",
+  "retrievedAt": "2026-11-06T19:07:48.794104+00:00",
+  "reviewedMappings": {
+    "2014-3-35:0": "Supports drying after wet sediment deposition and exposure. Source lists floodplains and supratidal flats too; does not prove persistently arid depositional climate. Review ㄷ wording accordingly."
+  },
+  "retrievalMethod": "Direct web open; authored geology textbook section, lines 299–312 reviewed.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

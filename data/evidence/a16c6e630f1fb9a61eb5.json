@@ -1,0 +1,20 @@
+{
+  "id": "a16c6e630f1fb9a61eb5",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology2e19.2 Population Genetics",
+  "url": "https://openstax.org/books/biology-2e/pages/19-2-population-genetics",
+  "excerpt": "Another way a population’s allele and genotype frequencies can change is genetic drift",
+  "sourceHash": "87a69cc38580daca42944e151e807d6679d2f3fda0f9bfc67364682d50a0c49b",
+  "cacheSourceId": "19ba02bc179799296ec5",
+  "retrievedAt": "2026-11-07T04:07:09.844753+00:00",
+  "reviewedMappings": {
+    "2026-3-25:0": "19.2: genetic drift is random sampling variation; bottleneck reduces diversity; founder paragraph64 explicitly describes unrepresentative founders; gene flow85 involves individuals or gametes.",
+    "2026-3-25:1": "19.2: genetic drift is random sampling variation; bottleneck reduces diversity; founder paragraph64 explicitly describes unrepresentative founders; gene flow85 involves individuals or gametes.",
+    "2026-3-25:2": "19.2: genetic drift is random sampling variation; bottleneck reduces diversity; founder paragraph64 explicitly describes unrepresentative founders; gene flow85 involves individuals or gametes.",
+    "2026-3-25:3": "19.2: genetic drift is random sampling variation; bottleneck reduces diversity; founder paragraph64 explicitly describes unrepresentative founders; gene flow85 involves individuals or gametes.",
+    "2026-3-25:4": "19.2: genetic drift is random sampling variation; bottleneck reduces diversity; founder paragraph64 explicitly describes unrepresentative founders; gene flow85 involves individuals or gametes."
+  },
+  "retrievalMethod": "Direct web open",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

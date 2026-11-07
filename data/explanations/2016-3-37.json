@@ -1,0 +1,86 @@
+{
+  "id": "2016-3-37",
+  "summary": "구름이 생기는 800 m까지는 건조 단열 상승으로 30−8=22°C, 정상 2000 m까지는 습윤 단열 상승으로 22−6=16°C가 됩니다. 그림의 구름 없는 풍하측을 따라 B까지 2000 m 하강하면 20°C 상승하므로 최종 온도는 36°C, 정답은 ④입니다.",
+  "choices": [
+    "오답입니다. 상승·하강 전체에 건조 단열 감률을 적용하면 출발 온도로 돌아오지만, 이 문제는 800~2000 m에서 습윤 단열 감률을 적용해야 합니다.",
+    "오답입니다. 정상의 온도는 16°C이고, B까지 하강할 때 20°C 높아지므로 32°C가 아닌 36°C입니다.",
+    "오답입니다. 습윤 상승 구간은 2000−800=1200 m입니다. 출발점과 도착점의 높이가 같으므로 순승온은 (1−0.5)×12=6°C로, 34°C가 아닙니다.",
+    "정답입니다. 0→800 m: 30−(800/100)×1=22°C. 800→2000 m: 22−(1200/100)×0.5=16°C. 2000→0 m: 16+(2000/100)×1=36°C입니다.",
+    "오답입니다. 38°C는 출발점보다 8°C 높지만, 문제에서 주어진 높이와 감률로 구한 순승온은 6°C이므로 36°C가 됩니다."
+  ],
+  "lawNote": "구름 생성 높이 800 m가 이미 주어졌으므로 이슬점 감률은 이 계산에 필요하지 않습니다. 구름 없는 풍하측 하강에 건조 단열 감률을 적용하는 그림의 조건을 따릅니다. 실제 대기의 습윤 단열 감률을 고정값으로 일반화하지 않습니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "Michael Arthur and Demian Saffer / The Pennsylvania State University",
+      "ref": "The Orographic Effect — EARTH 111",
+      "quote": "the air descends and warms.",
+      "url": "https://courses.ems.psu.edu/earth111/node/751",
+      "evidenceId": "7f6b39a6ff1ca9033dc1",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "Michael Arthur and Demian Saffer / The Pennsylvania State University",
+      "ref": "The Orographic Effect — EARTH 111",
+      "quote": "the air descends and warms.",
+      "url": "https://courses.ems.psu.edu/earth111/node/751",
+      "evidenceId": "7f6b39a6ff1ca9033dc1",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "Michael Arthur and Demian Saffer / The Pennsylvania State University",
+      "ref": "The Orographic Effect — EARTH 111",
+      "quote": "the air descends and warms.",
+      "url": "https://courses.ems.psu.edu/earth111/node/751",
+      "evidenceId": "7f6b39a6ff1ca9033dc1",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "Michael Arthur and Demian Saffer / The Pennsylvania State University",
+      "ref": "The Orographic Effect — EARTH 111",
+      "quote": "the air descends and warms.",
+      "url": "https://courses.ems.psu.edu/earth111/node/751",
+      "evidenceId": "7f6b39a6ff1ca9033dc1",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "Michael Arthur and Demian Saffer / The Pennsylvania State University",
+      "ref": "The Orographic Effect — EARTH 111",
+      "quote": "the air descends and warms.",
+      "url": "https://courses.ems.psu.edu/earth111/node/751",
+      "evidenceId": "7f6b39a6ff1ca9033dc1",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "Michael Arthur and Demian Saffer / The Pennsylvania State University",
+      "ref": "The Orographic Effect — EARTH 111",
+      "quote": "the air descends and warms.",
+      "url": "https://courses.ems.psu.edu/earth111/node/751",
+      "evidenceId": "7f6b39a6ff1ca9033dc1",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "Original diagram heights and cloud extent inspected; exact Fraction arithmetic gives 22,16,36°C. Textbook process checked; stored answer 4 agrees. Corrected false distractor derivation and removed unsupported official-answer claim.",
+    "contentHash": "b7c6592aa4948f19f920715ae03874c863c5806e06a1c1999f01382bc72047e6"
+  }
+}

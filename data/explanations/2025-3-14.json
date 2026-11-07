@@ -1,1 +1,151 @@
-{"summary": "300 K에서 B의 압력은 1.5−1=0.5 atm이에요. A가 0.25 atm 분해된 것이니 처음 A는 1.25 atm이에요. 부피가 일정하니 400 K에서는 처음 A를 1.25×4/3=5/3 atm으로 봐요. 분해된 양을 x라 하면 5/3+x=7/3이라 x=2/3이고, P_A=1, P_B=4/3이에요. 따라서 K_p=(4/3)²/1=16/9가 정답입니다.", "choices": ["틀린 값이에요. P_A=4/3, P_B=1로 뒤바꿔 넣으면 나오는 값이에요. 실제로는 P_A=1, P_B=4/3이랍니다.", "틀린 값이에요. P_A와 P_B를 똑같이 7/6으로 나누면 나오는 값이에요. A 1개가 B 2개가 되는 양적 관계에 맞지 않아요.", "맞는 값이에요. 온도 보정으로 처음 압력을 5/3 atm으로 잡으면 P_A=1, P_B=4/3이 나와요. K_p=P_B²/P_A=16/9입니다.", "틀린 값이에요. P_A=5/6, P_B=3/2일 때의 값인데, 합은 7/3이어도 처음 압력 5/3 atm과 맞지 않아요. P_A+P_B/2가 5/3인지 꼭 확인해 보세요.", "틀린 값이에요. P_A=2/3, P_B=5/3일 때의 값이에요. 분해된 양 x=2/3을 남은 A의 압력으로 착각하면 이렇게 될 수 있어요."], "lawNote": "", "basis": [], "dropped": 0}
+{
+  "id": "2025-3-14",
+  "summary": "300 K 평형에서 P_B=1.5−1=0.5 atm입니다. 조성이 그대로인 채 400 K로 가열했다고 환산한 부분 압력은 A가 4/3 atm, B가 2/3 atm입니다. 여기서 A가 x atm만큼 더 반응하면 전체 압력은 2+x=7/3이므로 x=1/3 atm입니다. 최종 P_A=1 atm, P_B=4/3 atm이어서 Kp=P_B²/P_A=16/9, 정답은 ③입니다.",
+  "choices": [
+    "틀린 값이에요. P_A=4/3, P_B=1로 뒤바꿔 넣으면 나오는 값이에요. 실제로는 P_A=1, P_B=4/3이랍니다.",
+    "틀린 값이에요. P_A와 P_B를 똑같이 7/6으로 나누면 나오는 값이에요. A 1개가 B 2개가 되는 양적 관계에 맞지 않아요.",
+    "③이 정답입니다. 온도 환산 후 A의 추가 반응량은 압력 기준 1/3 atm이며 B는 2/3 atm 증가합니다. 따라서 400 K 평형에서 P_A=1 atm, P_B=4/3 atm, Kp=(4/3)²/1=16/9입니다.",
+    "틀린 값이에요. P_A=5/6, P_B=3/2일 때의 값인데, 합은 7/3이어도 처음 압력 5/3 atm과 맞지 않아요. P_A+P_B/2가 5/3인지 꼭 확인해 보세요.",
+    "틀린 값이에요. P_A=2/3, P_B=5/3일 때의 값이에요. 분해된 양 x=2/3을 남은 A의 압력으로 착각하면 이렇게 될 수 있어요."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §13.2 — Equilibrium Constants",
+      "quote": "The constant value of Q exhibited by a system at equilibrium is called the equilibrium constant",
+      "url": "https://openstax.org/books/chemistry-2e/pages/13-2-equilibrium-constants",
+      "evidenceId": "a04cb216cb9c49e16408",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §13.2 — Equilibrium Constants",
+      "quote": "The constant value of Q exhibited by a system at equilibrium is called the equilibrium constant",
+      "url": "https://openstax.org/books/chemistry-2e/pages/13-2-equilibrium-constants",
+      "evidenceId": "a04cb216cb9c49e16408",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §13.2 — Equilibrium Constants",
+      "quote": "The constant value of Q exhibited by a system at equilibrium is called the equilibrium constant",
+      "url": "https://openstax.org/books/chemistry-2e/pages/13-2-equilibrium-constants",
+      "evidenceId": "a04cb216cb9c49e16408",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §13.2 — Equilibrium Constants",
+      "quote": "The constant value of Q exhibited by a system at equilibrium is called the equilibrium constant",
+      "url": "https://openstax.org/books/chemistry-2e/pages/13-2-equilibrium-constants",
+      "evidenceId": "a04cb216cb9c49e16408",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §13.2 — Equilibrium Constants",
+      "quote": "The constant value of Q exhibited by a system at equilibrium is called the equilibrium constant",
+      "url": "https://openstax.org/books/chemistry-2e/pages/13-2-equilibrium-constants",
+      "evidenceId": "a04cb216cb9c49e16408",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §13.2 — Equilibrium Constants",
+      "quote": "The constant value of Q exhibited by a system at equilibrium is called the equilibrium constant",
+      "url": "https://openstax.org/books/chemistry-2e/pages/13-2-equilibrium-constants",
+      "evidenceId": "a04cb216cb9c49e16408",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 9.3: Stoichiometry of Gaseous Substances",
+      "quote": "The total pressure of a mixture of ideal gases is equal to the sum of the partial pressures",
+      "url": "https://openstax.org/books/chemistry-2e/pages/9-3-stoichiometry-of-gaseous-substances-mixtures-and-reactions",
+      "evidenceId": "22dc2c3fcd0082484fdc",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 9.3: Stoichiometry of Gaseous Substances",
+      "quote": "The total pressure of a mixture of ideal gases is equal to the sum of the partial pressures",
+      "url": "https://openstax.org/books/chemistry-2e/pages/9-3-stoichiometry-of-gaseous-substances-mixtures-and-reactions",
+      "evidenceId": "22dc2c3fcd0082484fdc",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 9.3: Stoichiometry of Gaseous Substances",
+      "quote": "The total pressure of a mixture of ideal gases is equal to the sum of the partial pressures",
+      "url": "https://openstax.org/books/chemistry-2e/pages/9-3-stoichiometry-of-gaseous-substances-mixtures-and-reactions",
+      "evidenceId": "22dc2c3fcd0082484fdc",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 9.3: Stoichiometry of Gaseous Substances",
+      "quote": "The total pressure of a mixture of ideal gases is equal to the sum of the partial pressures",
+      "url": "https://openstax.org/books/chemistry-2e/pages/9-3-stoichiometry-of-gaseous-substances-mixtures-and-reactions",
+      "evidenceId": "22dc2c3fcd0082484fdc",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 9.3: Stoichiometry of Gaseous Substances",
+      "quote": "The total pressure of a mixture of ideal gases is equal to the sum of the partial pressures",
+      "url": "https://openstax.org/books/chemistry-2e/pages/9-3-stoichiometry-of-gaseous-substances-mixtures-and-reactions",
+      "evidenceId": "22dc2c3fcd0082484fdc",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 9.3: Stoichiometry of Gaseous Substances",
+      "quote": "The total pressure of a mixture of ideal gases is equal to the sum of the partial pressures",
+      "url": "https://openstax.org/books/chemistry-2e/pages/9-3-stoichiometry-of-gaseous-substances-mixtures-and-reactions",
+      "evidenceId": "22dc2c3fcd0082484fdc",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Existing unsourced explanation audited against original image; independent temperature scaling plus incremental reaction extent and conserved-matter check; textbook gas and equilibrium equations matched.",
+    "contentHash": "98eecd982dcd73400efe47c08879caa9e86335ba904fb12021ffe984d9b88c55"
+  }
+}

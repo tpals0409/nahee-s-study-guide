@@ -1,0 +1,30 @@
+{
+  "summary": "B에서 끓기 시작하므로 증기 압력은 외부 압력인 1atm과 같습니다. 이때 몰랄 농도는 (100.13−100)/0.52=0.25m입니다. 이후 물이 증발해 C의 질량백분율 농도가 A보다 커지므로 ㄱ만 옳아 정답은 ①입니다.",
+  "choices": [
+    "ㄱ만 옳습니다. 포도당은 용액에 남고 물이 증발하므로 C에서는 용액 질량에 대한 포도당 질량의 비율이 A보다 큽니다.",
+    "ㄷ은 틀립니다. B의 몰랄 농도는 0.13/0.52=0.25m입니다. 끓기 전 증발을 무시하면 가열 전도 0.25m이며, 증발을 고려해도 처음 농도는 이보다 클 수 없어 0.5m가 아닙니다.",
+    "ㄱ은 옳지만 ㄴ은 틀립니다. B는 끓기 시작하는 점이므로 용액의 증기 압력은 1atm보다 큰 것이 아니라 1atm과 같습니다.",
+    "ㄴ·ㄷ 모두 틀립니다. B의 증기 압력은 1atm이고, B에서 계산한 몰랄 농도는 0.25m이므로 가열 전 농도가 0.5m라는 설명도 맞지 않습니다.",
+    "ㄱ만 옳으므로 세 보기를 모두 고른 이 선지는 오답입니다. ㄴ의 증기 압력 비교와 ㄷ의 몰랄 농도가 틀렸습니다."
+  ],
+  "lawNote": "포도당을 비휘발성·비전해질 용질로 보는 문항의 모형을 적용합니다. 끓는점 오름 계산에는 참고서 표의 값 대신 문제에서 준 K_b=0.52℃/m를 사용합니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §11.4 Colligative Properties: Boiling Point Elevation",
+      "quote": "its vapor pressure is equal to ambient atmospheric pressure",
+      "url": "https://openstax.org/books/chemistry-2e/pages/11-4-colligative-properties",
+      "evidenceId": "7882b6821a74e5158ed8",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "원본 온도곡선100.13℃와A/B/C 위치 시각 확인. ΔTb=Kbm 및 끓음조건 대조, .13/.52=.25 독립검산. 저장정답① 일치. 초안의 끓기전 농도 불변 단정을 근사와 엄밀한 상한으로 구분.",
+    "contentHash": "2eaac4f4b688e692b5587426c5afefec6b029094927f1b3aeaba87c3d6960a4d"
+  }
+}

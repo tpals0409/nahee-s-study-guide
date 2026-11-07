@@ -1,0 +1,16 @@
+{
+  "id": "768f59d66055b05f563f",
+  "kind": "science",
+  "source": "U.S. National Park Service",
+  "ref": "Mississippian Period",
+  "url": "https://www.nps.gov/articles/000/mississippian-period.htm",
+  "excerpt": "Indiana limestone that was deposited during the Mississippian Period.",
+  "sourceHash": "db202c718291d50115c40cb8583abd9641ab00a1905023465d10479c9542129d",
+  "cacheSourceId": "360c3523480c205725d2",
+  "retrievedAt": "2026-11-07T00:29:01.442006+00:00",
+  "reviewedMappings": {
+    "2021-3-32:2": "Direct page, Significant Mississippian events and Carboniferous sections: Indiana limestone is an early Carboniferous example."
+  },
+  "retrievalMethod": "Direct page, Significant Mississippian events and Carboniferous sections: Indiana limestone is an early Carboniferous example.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

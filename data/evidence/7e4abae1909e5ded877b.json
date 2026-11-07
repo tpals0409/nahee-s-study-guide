@@ -1,0 +1,21 @@
+{
+  "id": "7e4abae1909e5ded877b",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume 1, 12.2 Examples of Static Equilibrium",
+  "url": "https://openstax.org/books/university-physics-volume-1/pages/12-2-examples-of-static-equilibrium",
+  "excerpt": "the CM of a uniform stick is located at its midpoint",
+  "sourceHash": "db2ecbe4481110dc70f6ce2bd47e97918e6b554ef012d910a12691b43ad8adeb",
+  "cacheSourceId": "53871fcbdf761c441666",
+  "retrievedAt": "2026-11-07T03:42:19.240978+00:00",
+  "reviewedMappings": {
+    "2026-3-02:0": "Original diagram locates a at 0, fulcrum at 1, b at 3 m; uniform beam center at 1.5 m. Applying reviewed signed torque equilibrium yields F=200*0.5+500*2=1100 N downward. Force equilibrium gives upward reaction 1800 N.",
+    "2026-3-02:1": "Applying Example 12.3 center-of-mass and torque-balance method: candidate 800 N produces signed net torque -300 N m about the fulcrum. Only choice 4 gives zero.",
+    "2026-3-02:2": "Applying Example 12.3 center-of-mass and torque-balance method: candidate 900 N produces signed net torque -200 N m about the fulcrum. Only choice 4 gives zero.",
+    "2026-3-02:3": "Applying Example 12.3 center-of-mass and torque-balance method: candidate 1000 N produces signed net torque -100 N m about the fulcrum. Only choice 4 gives zero.",
+    "2026-3-02:4": "Applying Example 12.3 center-of-mass and torque-balance method: candidate 1100 N produces signed net torque 0 N m about the fulcrum. Only choice 4 gives zero.",
+    "2026-3-02:5": "Applying Example 12.3 center-of-mass and torque-balance method: candidate 1200 N produces signed net torque 100 N m about the fulcrum. Only choice 4 gives zero."
+  },
+  "retrievalMethod": "Direct web open",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

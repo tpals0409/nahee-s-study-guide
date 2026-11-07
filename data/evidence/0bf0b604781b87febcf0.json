@@ -1,0 +1,19 @@
+{
+  "id": "0bf0b604781b87febcf0",
+  "kind": "science",
+  "source": "NOAA",
+  "ref": "Layers of the Atmosphere — Mesosphere",
+  "url": "https://www.noaa.gov/jetstream/atmosphere/layers-of-atmosphere",
+  "excerpt": "temperatures increase as one descends",
+  "sourceHash": "7b3f6d947e193e09cb2a91c3db3b70e98937ae68f9ccb53ff448788144a10045",
+  "cacheSourceId": "afe58f90795b507917aa",
+  "retrievedAt": "2026-11-06T19:06:46.522847+00:00",
+  "reviewedMappings": {
+    "2014-3-34:0": "Mesosphere paragraph states temperature increases on descent; hence upper part is colder and ㄴ is true. Choice 3 selects only ㄴ, choice 4 includes it with false ㄷ, choice 5 omits it. Use observed temperature gradient only, not simplified density causation.",
+    "2014-3-34:3": "Mesosphere paragraph states temperature increases on descent; hence upper part is colder and ㄴ is true. Choice 3 selects only ㄴ, choice 4 includes it with false ㄷ, choice 5 omits it. Use observed temperature gradient only, not simplified density causation.",
+    "2014-3-34:4": "Mesosphere paragraph states temperature increases on descent; hence upper part is colder and ㄴ is true. Choice 3 selects only ㄴ, choice 4 includes it with false ㄷ, choice 5 omits it. Use observed temperature gradient only, not simplified density causation.",
+    "2014-3-34:5": "Mesosphere paragraph states temperature increases on descent; hence upper part is colder and ㄴ is true. Choice 3 selects only ㄴ, choice 4 includes it with false ㄷ, choice 5 omits it. Use observed temperature gradient only, not simplified density causation."
+  },
+  "retrievalMethod": "Direct web open; relevant atmospheric science paragraphs reviewed against original question.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

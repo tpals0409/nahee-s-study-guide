@@ -1,0 +1,85 @@
+{
+  "id": "2021-3-08",
+  "summary": "콤프턴 파장 변화는 λ₁−λ₀=[h/(mₑc)](1−cosθ)입니다. 산란각 0°~180°에서 각도가 커지면 파장 차가 커져 ㄱ은 옳습니다. E=hc/λ이므로 λ₁의 광자 에너지는 더 작아 ㄴ은 틀립니다. 광자·전자계의 총운동량은 보존되어 ㄷ은 옳으므로 정답은 ④입니다.",
+  "choices": [
+    "①은 옳은 ㄷ이 빠졌습니다. ㄱ의 파장 변화뿐 아니라 광자와 전자의 총운동량 보존도 성립합니다.",
+    "②는 틀렸습니다. λ₁>λ₀이므로 광자 한 개의 에너지는 E₁<E₀입니다. 그래프의 봉우리 높이인 세기와 광자 한 개의 에너지를 구분해야 합니다.",
+    "③은 옳은 ㄱ이 빠졌습니다. 총운동량은 보존되며, 산란각이 커지면 1−cosθ가 증가하여 두 파장의 차도 커집니다.",
+    "④는 옳습니다. ㄱ은 콤프턴 파장 변화식, ㄷ은 충돌 전후 총운동량 보존에 해당합니다. 여기서는 충돌하는 전자를 자유전자처럼 다루며, 총운동량은 광자와 전자 운동량의 벡터 합입니다.",
+    "⑤는 틀린 ㄴ을 포함합니다. 파장이 더 긴 λ₁의 광자 에너지는 더 작으므로 ㄱ과 ㄷ만 선택해야 합니다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 3, 6.3 The Compton Effect",
+      "quote": "we assume that the colliding photon and electron form an isolated system.",
+      "url": "https://openstax.org/books/university-physics-volume-3/pages/6-3-the-compton-effect",
+      "evidenceId": "4f4e5076cd1c33f2027b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 3, 6.3 The Compton Effect",
+      "quote": "we assume that the colliding photon and electron form an isolated system.",
+      "url": "https://openstax.org/books/university-physics-volume-3/pages/6-3-the-compton-effect",
+      "evidenceId": "4f4e5076cd1c33f2027b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 3, 6.3 The Compton Effect",
+      "quote": "we assume that the colliding photon and electron form an isolated system.",
+      "url": "https://openstax.org/books/university-physics-volume-3/pages/6-3-the-compton-effect",
+      "evidenceId": "4f4e5076cd1c33f2027b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 3, 6.3 The Compton Effect",
+      "quote": "we assume that the colliding photon and electron form an isolated system.",
+      "url": "https://openstax.org/books/university-physics-volume-3/pages/6-3-the-compton-effect",
+      "evidenceId": "4f4e5076cd1c33f2027b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 3, 6.3 The Compton Effect",
+      "quote": "we assume that the colliding photon and electron form an isolated system.",
+      "url": "https://openstax.org/books/university-physics-volume-3/pages/6-3-the-compton-effect",
+      "evidenceId": "4f4e5076cd1c33f2027b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 3, 6.3 The Compton Effect",
+      "quote": "we assume that the colliding photon and electron form an isolated system.",
+      "url": "https://openstax.org/books/university-physics-volume-3/pages/6-3-the-compton-effect",
+      "evidenceId": "4f4e5076cd1c33f2027b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Original examination graph and options reviewed: lambda1>lambda0, taller intensity peak does not imply greater energy per photon. Direct OpenStax 6.3 equations 6.19,6.25,6.28 and text lines 74–83,91–101,124–150 reviewed. Weakly bound electron treated as initially stationary free electron; photon-electron total vector momentum conserved. Independent monotonicity check 1-cos(theta) increases on 0<=theta<=pi; E=hc/lambda reverses wavelength ordering. Removed unnecessary numerical constants and microscopic unshifted-peak account from learner explanation.",
+    "contentHash": "9609d1e992e30f0fec298e65ecdea8cbf7bf40e555de24a9662dcadd80c36e94"
+  }
+}

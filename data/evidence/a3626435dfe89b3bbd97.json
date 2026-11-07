@@ -1,0 +1,16 @@
+{
+  "id": "a3626435dfe89b3bbd97",
+  "kind": "science",
+  "source": "NOAA",
+  "ref": "Plate Tectonics and Earthquakes",
+  "url": "https://www.noaa.gov/jetstream/tsunamis/tsunami-generation-earthquakes/jetstream-max-plate-tectonics-and-earthquakes",
+  "excerpt": "Volcanic activity and earthquakes occur at divergent boundaries, but they are not as violent as those at convergent boundaries.",
+  "sourceHash": "78da0977845ab1a76a9a459ef972731203ee9a069ad26777c7156d47d1acde89",
+  "cacheSourceId": "5854580c0372b39a0ae2",
+  "retrievedAt": "2026-11-06T15:12:31.382496+00:00",
+  "reviewedMappings": {
+    "2009-3-40:0": "USGS Science of Earthquakes의 P>S파속도와지역별진도차이 확인. NOAA Plate Tectonics 원문128–140에서 섭입대최대지진, 발산경계상대적으로약함, 변환경계도큰지진가능 확인. ㄱ참ㄴㄷ거짓. 지각속도수치·규모8~9절대경계삭제."
+  },
+  "retrievalMethod": "web tool open, lines128–140 and180–190 inspected",
+  "sourceHashScope": "reviewed excerpt only; hash is excerpt hash"
+}

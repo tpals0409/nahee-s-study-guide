@@ -1,0 +1,21 @@
+{
+  "id": "cf5ee218b4077f3a8e8d",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 2e §12.4 — Second-Order Reactions",
+  "url": "https://openstax.org/books/chemistry-2e/pages/12-4-integrated-rate-laws",
+  "excerpt": "According to the second-order integrated rate law, the rate constant is equal to the slope",
+  "sourceHash": "23c0e74ecab3a704e112509ba4b1642c94f366d7542fd4cb8501dc9a71ef44c9",
+  "cacheSourceId": "036fd1956d16479a8730",
+  "retrievedAt": "2026-11-06T21:55:28.043032+00:00",
+  "reviewedMappings": {
+    "2018-3-19:0": "2차 적분속도식 및 1/[A]-t 기울기 k를 직접 검토. 원본 이미지에서 T선(0,30)→(100,40),4T/3선(0,20)→(100,60) 확인. 독립 계산 k1=.10,k2=.40,비4. 각 선택지 계산에 적용.",
+    "2018-3-19:1": "2차 적분속도식 및 1/[A]-t 기울기 k를 직접 검토. 원본 이미지에서 T선(0,30)→(100,40),4T/3선(0,20)→(100,60) 확인. 독립 계산 k1=.10,k2=.40,비4. 각 선택지 계산에 적용.",
+    "2018-3-19:2": "2차 적분속도식 및 1/[A]-t 기울기 k를 직접 검토. 원본 이미지에서 T선(0,30)→(100,40),4T/3선(0,20)→(100,60) 확인. 독립 계산 k1=.10,k2=.40,비4. 각 선택지 계산에 적용.",
+    "2018-3-19:3": "2차 적분속도식 및 1/[A]-t 기울기 k를 직접 검토. 원본 이미지에서 T선(0,30)→(100,40),4T/3선(0,20)→(100,60) 확인. 독립 계산 k1=.10,k2=.40,비4. 각 선택지 계산에 적용.",
+    "2018-3-19:4": "2차 적분속도식 및 1/[A]-t 기울기 k를 직접 검토. 원본 이미지에서 T선(0,30)→(100,40),4T/3선(0,20)→(100,60) 확인. 독립 계산 k1=.10,k2=.40,비4. 각 선택지 계산에 적용.",
+    "2018-3-19:5": "2차 적분속도식 및 1/[A]-t 기울기 k를 직접 검토. 원본 이미지에서 T선(0,30)→(100,40),4T/3선(0,20)→(100,60) 확인. 독립 계산 k1=.10,k2=.40,비4. 각 선택지 계산에 적용."
+  },
+  "retrievalMethod": "Direct web open; relevant equations reviewed; selected verbatim excerpt retained",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

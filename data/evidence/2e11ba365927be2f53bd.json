@@ -1,0 +1,16 @@
+{
+  "id": "2e11ba365927be2f53bd",
+  "kind": "science",
+  "source": "National Human Genome Research Institute",
+  "ref": "1941: One Gene, One Enzyme",
+  "url": "https://www.genome.gov/25520248/online-education-kit-1941-one-gene-one-enzyme",
+  "excerpt": "genes act by regulating distinct chemical events",
+  "sourceHash": "c7895bd0f5a18b0165465de672a6c57106310e3e419e60fb605724df50139396",
+  "cacheSourceId": "0a65bf3a4d196609c9d7",
+  "retrievedAt": "2026-11-06T15:51:00.012885+00:00",
+  "reviewedMappings": {
+    "2010-3-28:4": "NHGRI 검색 제공 본문에서 Beadle/Tatum·Neurospora crassa·one gene one enzyme 확인. 요약된 사실 범위만 해설에 포함."
+  },
+  "retrievalMethod": "web search source excerpt from NHGRI educational page reviewed",
+  "sourceHashScope": "Excerpt text only, not full page"
+}

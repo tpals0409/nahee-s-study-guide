@@ -1,0 +1,21 @@
+{
+  "id": "9f7716f645d17c01d5f7",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e §18.1 — Convergent Evolution",
+  "url": "https://openstax.org/books/biology-2e/pages/18-1-understanding-evolution",
+  "excerpt": "similar traits evolve independently in species that do not share a recent common ancestry.",
+  "sourceHash": "6877cd42e2ff7c170561648963c16a2e371c19ce97c9b28cda724050f52c0442",
+  "cacheSourceId": "80ec65b356f7fe57f1e5",
+  "retrievedAt": "2026-11-06T21:59:39.276904+00:00",
+  "reviewedMappings": {
+    "2018-3-24:0": "본문 수렴진화 정의와 독립적 적응 예시 검토. 수렴은 유사한 형질의 독립적 진화 양상이며 우연한 대립유전자 표본추출의 원인이라는 ㄷ의 분류는 부적절. 부동과 완전히 무관 또는 모든 수렴은 오직 자연선택이라는 초안 단정은 제거.",
+    "2018-3-24:1": "본문 수렴진화 정의와 독립적 적응 예시 검토. 수렴은 유사한 형질의 독립적 진화 양상이며 우연한 대립유전자 표본추출의 원인이라는 ㄷ의 분류는 부적절. 부동과 완전히 무관 또는 모든 수렴은 오직 자연선택이라는 초안 단정은 제거.",
+    "2018-3-24:2": "본문 수렴진화 정의와 독립적 적응 예시 검토. 수렴은 유사한 형질의 독립적 진화 양상이며 우연한 대립유전자 표본추출의 원인이라는 ㄷ의 분류는 부적절. 부동과 완전히 무관 또는 모든 수렴은 오직 자연선택이라는 초안 단정은 제거.",
+    "2018-3-24:3": "본문 수렴진화 정의와 독립적 적응 예시 검토. 수렴은 유사한 형질의 독립적 진화 양상이며 우연한 대립유전자 표본추출의 원인이라는 ㄷ의 분류는 부적절. 부동과 완전히 무관 또는 모든 수렴은 오직 자연선택이라는 초안 단정은 제거.",
+    "2018-3-24:4": "본문 수렴진화 정의와 독립적 적응 예시 검토. 수렴은 유사한 형질의 독립적 진화 양상이며 우연한 대립유전자 표본추출의 원인이라는 ㄷ의 분류는 부적절. 부동과 완전히 무관 또는 모든 수렴은 오직 자연선택이라는 초안 단정은 제거.",
+    "2018-3-24:5": "본문 수렴진화 정의와 독립적 적응 예시 검토. 수렴은 유사한 형질의 독립적 진화 양상이며 우연한 대립유전자 표본추출의 원인이라는 ㄷ의 분류는 부적절. 부동과 완전히 무관 또는 모든 수렴은 오직 자연선택이라는 초안 단정은 제거."
+  },
+  "retrievalMethod": "Direct web open; relevant sections reviewed; selected verbatim excerpt retained",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

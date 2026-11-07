@@ -1,0 +1,14 @@
+{
+  "id": "b946eb5c792fc4beb4c9",
+  "kind": "science",
+  "source": "NASA Science",
+  "ref": "Visible Light",
+  "url": "https://science.nasa.gov/ems/09_visiblelight/",
+  "excerpt": "Typically, the human eye can detect wavelengths from 380 to 700 nanometers.",
+  "sourceHash": "ac45ba74719ff2ef34742a9b9eef33a8bf9393560ebd90703bf7a10a2d7ae26e",
+  "cacheSourceId": "e6f93727a9683c3507ed",
+  "retrievedAt": "2026-11-06T15:27:58.100613+00:00",
+  "reviewedMappings": {
+    "2010-3-07:0": "가시광 범위 대표값 380~700 nm 확인. 경계값은 관례와 관측 조건에 따라 달라지지만 이 문항의 500 nm만 가시광이라는 결론에는 영향 없음. 분류 세부 명칭은 불필요하여 제거."
+  }
+}

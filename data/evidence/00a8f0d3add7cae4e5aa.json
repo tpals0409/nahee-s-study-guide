@@ -1,0 +1,16 @@
+{
+  "id": "00a8f0d3add7cae4e5aa",
+  "kind": "science",
+  "source": "Las Cumbres Observatory",
+  "ref": "Spectroscopy",
+  "url": "https://lco.global/spacebook/telescopes/spectroscopy/",
+  "excerpt": "each chemical element produces its own unique pattern of spectral lines.",
+  "sourceHash": "e5687551a78a91b646c1b742d4dfb0fe99d80f95600062d9ac16a6e44abcd89b",
+  "cacheSourceId": "2e4fac6879627243b4ae",
+  "retrievedAt": "2026-11-07T00:41:32.081639+00:00",
+  "reviewedMappings": {
+    "2021-3-40:5": "10–12,34행 스펙트럼 선과 알려진 원소의 선 비교로 화학조성 파악. 거리지수만으로 조성 판정 불가."
+  },
+  "retrievalMethod": "Direct publisher/observatory page opened and relevant sections reviewed.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

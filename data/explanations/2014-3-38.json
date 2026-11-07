@@ -1,0 +1,174 @@
+{
+  "id": "2014-3-38",
+  "summary": "정답은 ⑤(ㄷ)입니다. 멕시코 만류는 난류이므로 ㄱ은 틀리고, 대규모 표층해류의 주된 원동력은 바람이므로 ㄴ도 틀립니다. 북극해의 고밀도수가 외해로 유출되는 주요 방향은 프람 해협과 북유럽해를 거쳐 북대서양으로 이어지는 대서양 쪽입니다.",
+  "choices": [
+    "오답입니다. 멕시코 만류는 따뜻한 물을 북쪽으로 운반하는 난류입니다. 한류라고 한 ㄱ은 틀립니다.",
+    "오답입니다. 고밀도수의 주요 유출 방향을 설명한 ㄷ은 맞지만, 멕시코 만류를 한류라고 한 ㄱ이 틀립니다.",
+    "오답입니다. 대규모 표층해류는 주로 바람에 의해 구동됩니다. 밀도 차이는 열염 순환과 관련되므로 표층해류의 가장 큰 원인으로 제시한 ㄴ은 틀립니다.",
+    "오답입니다. ㄷ은 맞지만 ㄴ이 틀립니다. 표층해류의 주된 원동력은 바람이며, 밀도 차이에 의한 순환과 구별해야 합니다.",
+    "정답입니다. 북극해 대륙붕에서 형성된 차갑고 조밀한 해수는 중·심층을 환기하고 대서양 쪽의 고밀도 월류수에 기여합니다. 프람 해협은 북극해의 유일한 깊은 해양 연결 통로입니다. 이 연결 관계는 ㄷ의 북대서양 방향 유출을 뒷받침합니다. 다만 생성된 물이 모두 즉시 빠져나간다는 뜻은 아니며 북극해 내부의 순환과 체류가 있습니다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "NOAA",
+      "ref": "Ocean currents",
+      "quote": "warm Gulf Stream",
+      "url": "https://www.noaa.gov/education/resource-collections/ocean-coasts/ocean-currents",
+      "evidenceId": "a1474e468035da46af2b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "NOAA",
+      "ref": "Ocean currents",
+      "quote": "warm Gulf Stream",
+      "url": "https://www.noaa.gov/education/resource-collections/ocean-coasts/ocean-currents",
+      "evidenceId": "a1474e468035da46af2b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "NOAA",
+      "ref": "Ocean currents",
+      "quote": "warm Gulf Stream",
+      "url": "https://www.noaa.gov/education/resource-collections/ocean-coasts/ocean-currents",
+      "evidenceId": "a1474e468035da46af2b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "NOAA",
+      "ref": "Ocean currents",
+      "quote": "are driven by global wind systems",
+      "url": "https://www.noaa.gov/education/resource-collections/ocean-coasts/ocean-currents",
+      "evidenceId": "4f32ec939ee23d3699e6",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "NOAA",
+      "ref": "Ocean currents",
+      "quote": "are driven by global wind systems",
+      "url": "https://www.noaa.gov/education/resource-collections/ocean-coasts/ocean-currents",
+      "evidenceId": "4f32ec939ee23d3699e6",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "NOAA",
+      "ref": "Ocean currents",
+      "quote": "are driven by global wind systems",
+      "url": "https://www.noaa.gov/education/resource-collections/ocean-coasts/ocean-currents",
+      "evidenceId": "4f32ec939ee23d3699e6",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "European Commission / CORDIS",
+      "ref": "ASOF-N: Effect of Atlantic water on the Arctic Ocean",
+      "quote": "the only deep passage connecting the Arctic Ocean to the rest of the world ocean",
+      "url": "https://cordis.europa.eu/article/id/84647-effect-of-atlantic-water-on-the-arctic-ocean",
+      "evidenceId": "cb8a3dfdfcac31d9c600",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "European Commission / CORDIS",
+      "ref": "ASOF-N: Effect of Atlantic water on the Arctic Ocean",
+      "quote": "the only deep passage connecting the Arctic Ocean to the rest of the world ocean",
+      "url": "https://cordis.europa.eu/article/id/84647-effect-of-atlantic-water-on-the-arctic-ocean",
+      "evidenceId": "cb8a3dfdfcac31d9c600",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "European Commission / CORDIS",
+      "ref": "ASOF-N: Effect of Atlantic water on the Arctic Ocean",
+      "quote": "the only deep passage connecting the Arctic Ocean to the rest of the world ocean",
+      "url": "https://cordis.europa.eu/article/id/84647-effect-of-atlantic-water-on-the-arctic-ocean",
+      "evidenceId": "cb8a3dfdfcac31d9c600",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "European Commission / CORDIS",
+      "ref": "ASOF-N: Effect of Atlantic water on the Arctic Ocean",
+      "quote": "the only deep passage connecting the Arctic Ocean to the rest of the world ocean",
+      "url": "https://cordis.europa.eu/article/id/84647-effect-of-atlantic-water-on-the-arctic-ocean",
+      "evidenceId": "cb8a3dfdfcac31d9c600",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "Alfred Wegener Institute",
+      "ref": "Circulation in the Arctic Ocean and the Nordic Seas — The Shelf Seas",
+      "quote": "forming the Arctic contribution to the dense waters of the Greenland-Shetland-Overflow.",
+      "url": "https://www.awi.de/en/science/climate-sciences/physical-oceanography/main-research-focus/circulation-in-the-arctic-ocean-and-the-nordic-seas.html",
+      "evidenceId": "26c83ab6bafb0d6121c0",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "Alfred Wegener Institute",
+      "ref": "Circulation in the Arctic Ocean and the Nordic Seas — The Shelf Seas",
+      "quote": "forming the Arctic contribution to the dense waters of the Greenland-Shetland-Overflow.",
+      "url": "https://www.awi.de/en/science/climate-sciences/physical-oceanography/main-research-focus/circulation-in-the-arctic-ocean-and-the-nordic-seas.html",
+      "evidenceId": "26c83ab6bafb0d6121c0",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "Alfred Wegener Institute",
+      "ref": "Circulation in the Arctic Ocean and the Nordic Seas — The Shelf Seas",
+      "quote": "forming the Arctic contribution to the dense waters of the Greenland-Shetland-Overflow.",
+      "url": "https://www.awi.de/en/science/climate-sciences/physical-oceanography/main-research-focus/circulation-in-the-arctic-ocean-and-the-nordic-seas.html",
+      "evidenceId": "26c83ab6bafb0d6121c0",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "Alfred Wegener Institute",
+      "ref": "Circulation in the Arctic Ocean and the Nordic Seas — The Shelf Seas",
+      "quote": "forming the Arctic contribution to the dense waters of the Greenland-Shetland-Overflow.",
+      "url": "https://www.awi.de/en/science/climate-sciences/physical-oceanography/main-research-focus/circulation-in-the-arctic-ocean-and-the-nordic-seas.html",
+      "evidenceId": "26c83ab6bafb0d6121c0",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "Original wording inspected. NOAA verifies warm Gulf Stream and wind-driven surface circulation; AWI verifies Arctic shelf dense-water contribution to overflow; ASOF-N verifies unique deep Atlantic-side gateway. Route inference explicitly scoped; no unsupported percentages, instant export or Nordic-only substitution.",
+    "contentHash": "eb3171882af4a6210013579e066604fd6faf899aeba4ad567ec50061f708b266"
+  }
+}

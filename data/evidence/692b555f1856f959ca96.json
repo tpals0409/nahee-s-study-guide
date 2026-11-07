@@ -1,0 +1,21 @@
+{
+  "id": "692b555f1856f959ca96",
+  "kind": "science",
+  "source": "Geoscience Australia",
+  "ref": "Biostratigraphy",
+  "url": "https://www.ga.gov.au/scientific-topics/disciplines/biostratigraphy",
+  "excerpt": "These key index species should be relatively abundant, short-lived taxa",
+  "sourceHash": "a5e3508b63bf0ac6889c2aa0531b946571a79eafc23b7da952a1c2bc729bbe55",
+  "cacheSourceId": "43da970253a375a4fc3e",
+  "retrievedAt": "2026-11-06T22:47:03.579893+00:00",
+  "reviewedMappings": {
+    "2019-3-31:0": "Direct web open lines 20–21: fossil range bases/tops and abundant, short-lived, widespread index taxa. Applied to A and the stated A/B durations, without asserting thickness proportionality. 표의 A/B/C 조건과 대조하여 해당 선지 판단에 적용.",
+    "2019-3-31:1": "Direct web open lines 20–21: fossil range bases/tops and abundant, short-lived, widespread index taxa. Applied to A and the stated A/B durations, without asserting thickness proportionality. 표의 A/B/C 조건과 대조하여 해당 선지 판단에 적용.",
+    "2019-3-31:2": "Direct web open lines 20–21: fossil range bases/tops and abundant, short-lived, widespread index taxa. Applied to A and the stated A/B durations, without asserting thickness proportionality. 표의 A/B/C 조건과 대조하여 해당 선지 판단에 적용.",
+    "2019-3-31:3": "Direct web open lines 20–21: fossil range bases/tops and abundant, short-lived, widespread index taxa. Applied to A and the stated A/B durations, without asserting thickness proportionality. 표의 A/B/C 조건과 대조하여 해당 선지 판단에 적용.",
+    "2019-3-31:4": "Direct web open lines 20–21: fossil range bases/tops and abundant, short-lived, widespread index taxa. Applied to A and the stated A/B durations, without asserting thickness proportionality. 표의 A/B/C 조건과 대조하여 해당 선지 판단에 적용.",
+    "2019-3-31:5": "Direct web open lines 20–21: fossil range bases/tops and abundant, short-lived, widespread index taxa. Applied to A and the stated A/B durations, without asserting thickness proportionality. 표의 A/B/C 조건과 대조하여 해당 선지 판단에 적용."
+  },
+  "retrievalMethod": "Direct web open lines 20–21: fossil range bases/tops and abundant, short-lived, widespread index taxa. Applied to A and the stated A/B durations, without asserting thickness proportionality.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

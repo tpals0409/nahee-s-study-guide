@@ -1,0 +1,20 @@
+{
+  "id": "b12d774d9fc91a3578cf",
+  "kind": "science",
+  "source": "Thermo Fisher Scientific / Ambion",
+  "ref": "Use of Internal and External Standards or Reference RNAs for Accurate Quantitation of RNA Levels",
+  "url": "https://www.thermofisher.com/jp/ja/home/references/ambion-tech-support/northern-analysis/tech-notes/use-of-internal-and-external-standards-or-reference-rnas-for-accurate-quantitation-of-rna-levels.html",
+  "excerpt": "both choosing and authenticating this control are critical to successful relative quantitation.",
+  "sourceHash": "903fa574c568496886e5a3cf79dbb43256c0f8908d293bed2e3e4b08670ab438",
+  "cacheSourceId": "65a201647dd2985c0bb2",
+  "retrievedAt": "2026-11-07T01:12:33.961619+00:00",
+  "reviewedMappings": {
+    "2022-3-28:0": "Relative Quantitation section requires stable internal controls for sample concentration/loading normalization; no universal housekeeping gene is constant across all conditions.",
+    "2022-3-28:1": "Relative Quantitation section requires stable internal controls for sample concentration/loading normalization; no universal housekeeping gene is constant across all conditions.",
+    "2022-3-28:3": "Relative Quantitation section requires stable internal controls for sample concentration/loading normalization; no universal housekeeping gene is constant across all conditions.",
+    "2022-3-28:4": "Relative Quantitation section requires stable internal controls for sample concentration/loading normalization; no universal housekeeping gene is constant across all conditions.",
+    "2022-3-28:5": "Relative Quantitation section requires stable internal controls for sample concentration/loading normalization; no universal housekeeping gene is constant across all conditions."
+  },
+  "retrievalMethod": "Direct web read of manufacturer technical guidance after regional redirect; actual destination URL retained",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

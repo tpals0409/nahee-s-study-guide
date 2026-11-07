@@ -1,0 +1,85 @@
+{
+  "id": "2019-3-04",
+  "summary": "원점에서 전기장 성분은 E_x=k(q₂−q₃)/d², E_y=−kq₁/d²입니다. 합성 전기장이 +y방향이므로 E_x=0, E_y>0이어야 합니다. 따라서 q₁<0, q₂=q₃>0이며 ㄴ과 ㄷ이 옳은 ⑤가 정답입니다.",
+  "choices": [
+    "ㄱ은 틀립니다. 원점 위에 있는 q₁이 양전하이면 원점에서 전기장은 −y방향입니다. +y방향을 만들려면 q₁은 음전하입니다.",
+    "ㄴ은 옳지만 ㄷ도 옳습니다. 수평 전기장이 상쇄되려면 같은 거리에 있는 q₂와 q₃의 전하량이 같아야 합니다.",
+    "ㄴ은 옳지만 ㄱ은 틀립니다. q₁은 음전하이며, 옳은 진술 ㄷ도 빠져 있습니다.",
+    "ㄷ은 옳지만 ㄱ은 틀립니다. q₂=q₃이고 q₃>0이므로 ㄴ도 옳습니다.",
+    "정답입니다. E_x=0에서 q₂=q₃이고, q₃이 양전하이므로 q₂도 양전하입니다. 따라서 ㄴ과 ㄷ이 옳습니다."
+  ],
+  "lawNote": "k는 양의 쿨롱 상수입니다. 전기장 크기만 더하지 말고 각 전하가 원점에 만드는 방향을 포함해 합해야 합니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "5.4 Electric Field — University Physics Volume 2",
+      "quote": "The total electric field, then, is the vector sum of all these fields.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/5-4-electric-field",
+      "evidenceId": "f495cc201f8e8d4b5b7e",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "5.4 Electric Field — University Physics Volume 2",
+      "quote": "The total electric field, then, is the vector sum of all these fields.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/5-4-electric-field",
+      "evidenceId": "f495cc201f8e8d4b5b7e",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "5.4 Electric Field — University Physics Volume 2",
+      "quote": "The total electric field, then, is the vector sum of all these fields.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/5-4-electric-field",
+      "evidenceId": "f495cc201f8e8d4b5b7e",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "5.4 Electric Field — University Physics Volume 2",
+      "quote": "The total electric field, then, is the vector sum of all these fields.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/5-4-electric-field",
+      "evidenceId": "f495cc201f8e8d4b5b7e",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "5.4 Electric Field — University Physics Volume 2",
+      "quote": "The total electric field, then, is the vector sum of all these fields.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/5-4-electric-field",
+      "evidenceId": "f495cc201f8e8d4b5b7e",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "5.4 Electric Field — University Physics Volume 2",
+      "quote": "The total electric field, then, is the vector sum of all these fields.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/5-4-electric-field",
+      "evidenceId": "f495cc201f8e8d4b5b7e",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Direct OpenStax point-charge field and superposition review; independent component calculation for all statements",
+    "contentHash": "81fde0208d56c804bf15bd2acea0f00a47b5d3590850ef4d5c70934e9aa5b1e7"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "cbaaa065812dc59c1986",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e 4.3 Eukaryotic Cells",
+  "url": "https://openstax.org/books/biology-2e/pages/4-3-eukaryotic-cells",
+  "excerpt": "It consists of two phospholipid bilayers: an outer and an inner membrane.",
+  "sourceHash": "974e8a8cd7c214e4d14dd969b12290dc8c04061443e3270c6af304e1eea360b7",
+  "cacheSourceId": "e65e51d9b57a00251791",
+  "retrievedAt": "2026-11-07T04:58:00.700871+00:00",
+  "reviewedMappings": {
+    "2026-3-29:2": "핵막의 내막·외막 구조로 ②를 직접 뒷받침한다.",
+    "2026-3-29:0": "요약의 핵막 이중막 진술을 직접 지지한다. 공식 정답 번호 자체는 별도로 확인한 최종정답 PDF에 근거한다."
+  },
+  "retrievalMethod": "Direct web open",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

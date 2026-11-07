@@ -1,0 +1,17 @@
+{
+  "id": "0fd8aaca9d6b59c04156",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e §19.1 Population Evolution",
+  "url": "https://openstax.org/books/biology-2e/pages/19-1-population-evolution",
+  "excerpt": "When populations are in the Hardy-Weinberg equilibrium, the allelic frequency is stable from generation to generation",
+  "sourceHash": "dd52dc3ade790e5c5ff16019d3498c06ba8aa332a24ae08fefd3036eb3b30d10",
+  "cacheSourceId": "121309e6b0b475ea3975",
+  "retrievedAt": "2026-11-06T21:22:26.968627+00:00",
+  "reviewedMappings": {
+    "2017-3-26:0": "하디-바인베르크 조건과 p², 2pq, q² 식을 본문에서 확인. p²+pq=p로 독립 계산하여 무작위 교배 자체가 대립유전자 빈도 변화의 원인이 아님을 적용.",
+    "2017-3-26:5": "하디-바인베르크 조건과 p², 2pq, q² 식을 본문에서 확인. p²+pq=p로 독립 계산하여 무작위 교배 자체가 대립유전자 빈도 변화의 원인이 아님을 적용."
+  },
+  "retrievalMethod": "Direct web page reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

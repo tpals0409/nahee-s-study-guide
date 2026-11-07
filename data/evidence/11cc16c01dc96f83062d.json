@@ -1,0 +1,19 @@
+{
+  "id": "11cc16c01dc96f83062d",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e §4.3 Eukaryotic Cells",
+  "url": "https://openstax.org/books/biology-2e/pages/4-3-eukaryotic-cells",
+  "excerpt": "the major organic molecule in the plant (and some protists') cell wall is cellulose",
+  "sourceHash": "e74f66c42b319036986155dcb2d63e8e768d4b357e97973bbc787cf5c75d5dc4",
+  "cacheSourceId": "fa9dea047fdf5a2af0a6",
+  "retrievedAt": "2026-11-06T23:30:49.662523+00:00",
+  "reviewedMappings": {
+    "2020-3-30:0": "직접 본문104–106행 식물 세포벽 셀룰로스 확인. 원핵 전체를 펩티도글리칸으로 일반화한 앞부분은 채택하지 않음. ㄱ참 ㄴㄷ거짓으로①.",
+    "2020-3-30:2": "직접 본문104–106행 식물 세포벽 셀룰로스 확인. 원핵 전체를 펩티도글리칸으로 일반화한 앞부분은 채택하지 않음. ② ㄴ: 틀립니다. 일반적인 세균 세포벽의 특징적 성분은 펩티도글리칸입니다. 셀룰로스로 이루어진 세포벽이라는 설명은 식물 세포벽과 혼동한 것입니다.",
+    "2020-3-30:4": "직접 본문104–106행 식물 세포벽 셀룰로스 확인. 원핵 전체를 펩티도글리칸으로 일반화한 앞부분은 채택하지 않음. ④ ㄱ, ㄴ: ㄱ은 옳지만 ㄴ이 틀립니다. 펩티도글리칸 그물망과 식물 세포벽의 셀룰로스를 구별해야 합니다.",
+    "2020-3-30:5": "직접 본문104–106행 식물 세포벽 셀룰로스 확인. 원핵 전체를 펩티도글리칸으로 일반화한 앞부분은 채택하지 않음. ⑤ ㄴ, ㄷ: 둘 다 틀리며 옳은 ㄱ도 빠져 있습니다. 일반적인 세균 세포벽의 성분은 펩티도글리칸이고, 선택적 물질 이동은 원형질막의 기능입니다."
+  },
+  "retrievalMethod": "직접 본문104–106행 식물 세포벽 셀룰로스 확인. 원핵 전체를 펩티도글리칸으로 일반화한 앞부분은 채택하지 않음.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

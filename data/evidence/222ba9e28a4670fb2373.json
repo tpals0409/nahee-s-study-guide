@@ -1,0 +1,21 @@
+{
+  "id": "222ba9e28a4670fb2373",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 2e 3.4 — Mass Percentage",
+  "url": "https://openstax.org/books/chemistry-2e/pages/3-4-other-units-for-solution-concentrations",
+  "excerpt": "the ratio of the component’s mass to the solution’s mass, expressed as a percentage",
+  "sourceHash": "07c50c7349e24baf01b76e8c052483fe2aba908bb14df20851fe8cbdfae63c29",
+  "cacheSourceId": "2350de1635d8161442f6",
+  "retrievedAt": "2026-11-06T17:15:08.899599+00:00",
+  "reviewedMappings": {
+    "2012-3-16:0": "ㄷ의 질량백분율=100/(100+100)×100=50%. 같은 절 밀도/질량/부피 관계 확인. 용매질량과 용액질량 구분.",
+    "2012-3-16:1": "ㄷ의 질량백분율=100/(100+100)×100=50%. 같은 절 밀도/질량/부피 관계 확인. 용매질량과 용액질량 구분.",
+    "2012-3-16:2": "ㄷ의 질량백분율=100/(100+100)×100=50%. 같은 절 밀도/질량/부피 관계 확인. 용매질량과 용액질량 구분.",
+    "2012-3-16:3": "ㄷ의 질량백분율=100/(100+100)×100=50%. 같은 절 밀도/질량/부피 관계 확인. 용매질량과 용액질량 구분.",
+    "2012-3-16:4": "ㄷ의 질량백분율=100/(100+100)×100=50%. 같은 절 밀도/질량/부피 관계 확인. 용매질량과 용액질량 구분.",
+    "2012-3-16:5": "ㄷ의 질량백분율=100/(100+100)×100=50%. 같은 절 밀도/질량/부피 관계 확인. 용매질량과 용액질량 구분."
+  },
+  "retrievalMethod": "web.open and web.find definitions and equations reviewed; selected excerpt retained",
+  "sourceHashScope": "Selected excerpt only; not full page"
+}

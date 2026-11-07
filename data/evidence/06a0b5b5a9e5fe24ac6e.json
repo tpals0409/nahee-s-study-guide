@@ -1,0 +1,16 @@
+{
+  "id": "06a0b5b5a9e5fe24ac6e",
+  "kind": "science",
+  "source": "U.S. Department of Energy",
+  "ref": "Five Fast Facts About Barbara McClintock",
+  "url": "https://www.energy.gov/articles/five-fast-facts-about-barbara-mcclintock",
+  "excerpt": "discovering genetic transposition, when genes change positions on chromosomes.",
+  "sourceHash": "3bee5e88681fec4ccf05edb51fb555ac58c9cad270e4b6edb3d330eeb0a2afce",
+  "cacheSourceId": "4ed8a3e51cd8b9ccd3a8",
+  "retrievedAt": "2026-11-06T15:51:00.012790+00:00",
+  "reviewedMappings": {
+    "2010-3-28:2": "옥수수 연구와 유전요소의 위치 이동을 설명한 본문 대조. 이중나선 구조 단서와 구별."
+  },
+  "retrievalMethod": "web source text reviewed; selected excerpts retained",
+  "sourceHashScope": "Excerpt text only, not full page"
+}

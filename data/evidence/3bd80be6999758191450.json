@@ -1,0 +1,20 @@
+{
+  "id": "3bd80be6999758191450",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "7.3 Lewis Symbols and Structures",
+  "url": "https://openstax.org/books/chemistry-2e/pages/7-3-lewis-symbols-and-structures",
+  "excerpt": "Group 15 elements such as nitrogen have five valence electrons",
+  "sourceHash": "ef189a9ff55ba1a2d978f2a436b49ba32edf7cb316409bc85590a1be44958786",
+  "cacheSourceId": "5d1302eef51a08643683",
+  "retrievedAt": "2026-11-06T22:30:53.168274+00:00",
+  "reviewedMappings": {
+    "2019-3-14:0": "Original-structure count: five N lone pairs; ring edges 6+5-1=10 plus amino attachment 1 and five H bonds gives 16 sigma; five trigonal carbons sp2. Thus ㄱ ㄷ.",
+    "2019-3-14:1": "ㄱ true but ㄷ also true: nitrogen octets give five lone pairs; five carbon centers have three bonding regions.",
+    "2019-3-14:3": "ㄱ and ㄷ true by nitrogen electron accounting and carbon three-region geometry.",
+    "2019-3-14:4": "ㄴ false (16 sigma), ㄷ true; ㄱ also true and omitted.",
+    "2019-3-14:5": "ㄴ false (16 sigma), so all-three selection fails despite ㄱ ㄷ true."
+  },
+  "retrievalMethod": "Direct find lines 61–70 and 83–87: octet, nitrogen valence electrons and lone-pair assignment. Original app/public/images/2019-3-14.webp inspected: fused rings, five N each bond-order sum three, five carbons each three sigma neighbors, four double bonds. Applied general principles to given structure independently.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

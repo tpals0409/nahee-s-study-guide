@@ -1,0 +1,19 @@
+{
+  "id": "0b29d38d13a79fbb0313",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "4.6 Entropy",
+  "url": "https://openstax.org/books/university-physics-volume-2/pages/4-6-entropy",
+  "excerpt": "This equation is valid only if the transition from A to B is reversible.",
+  "sourceHash": "aab88624942398df7ade3c7955625f01c6f6583bce577e20a325701c86efc7e7",
+  "cacheSourceId": "6cf386feb59dfe5eef6e",
+  "retrievedAt": "2026-11-07T04:43:34.644104+00:00",
+  "reviewedMappings": {
+    "2016-3-07:0": "가역 단열 해석일 때만 Q=0에서 ΔS=0을 직접 도출한다.",
+    "2016-3-07:3": "가역 단열이면 엔트로피 증가가 아니므로 ㄴ 제외.",
+    "2016-3-07:4": "④의 ㄴ 제외는 가역 조건을 명시한 경우에 성립.",
+    "2016-3-07:5": "단열만으로 ΔS=0을 단정할 수 없다는 한계. 실제 비가역 사례는 별도4.7 근거."
+  },
+  "retrievalMethod": "Direct web open",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

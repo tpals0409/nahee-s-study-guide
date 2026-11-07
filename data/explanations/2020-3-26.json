@@ -1,0 +1,151 @@
+{
+  "id": "2020-3-26",
+  "summary": "공식 정답은 ⑤입니다. 명반응에서 얻은 ATP와 NADPH를 이용하는 캘빈회로는 스트로마에서 진행됩니다. 다만 직접 순생성물은 G3P이며, 포도당 합성은 탄수화물 생성 전체를 요약한 표현입니다. ③은 틸라코이드 막과 내부 공간을 구별하지 않아, 아래와 같이 해석상의 주의가 필요합니다.",
+  "choices": [
+    "광계 I의 반응중심 색소가 스트로마에 있다는 보기는 틀렸습니다. 광계 I은 엽록소 a로 이루어진 반응중심 P700을 포함한 막단백질 복합체입니다. 이 복합체는 틸라코이드 막에 박혀 있으며, 스트로마라는 액상 기질에 녹아 있는 것이 아닙니다.",
+    "광계 II 반응중심 엽록소가 700 nm 빛을 최대로 흡수한다는 보기는 틀렸습니다. 광계 II 반응중심은 P680으로, 약 680 nm에서 최대로 흡수합니다. 700 nm에서 최대로 흡수하는 것은 광계 I의 반응중심 P700입니다.",
+    "공식 정답에는 포함되지 않은 선지입니다. NADP⁺ 환원은 스트로마 쪽에서 일어나며 틸라코이드 내강에서 일어나는 반응으로 이해하면 틀립니다. 그러나 원문은 내강이라고 한정하지 않았습니다. FNR의 틸라코이드 막 연관성에 관한 연구가 있으므로, 틸라코이드 막과 연관된 환원 반응 자체가 없다고 설명하면 부정확합니다. 이 선지를 배제한 공식 해설은 확인되지 않았습니다.",
+    "캘빈 회로가 틸라코이드에서 일어난다는 보기는 틀렸습니다. 루비스코에 의한 CO₂ 고정, 3PG의 환원, RuBP 재생으로 이루어지는 캘빈 회로는 모두 엽록체의 스트로마에서 일어납니다.",
+    "공식 정답입니다. 스트로마의 캘빈회로가 명반응 산물인 ATP와 NADPH를 이용해 탄소를 동화한다는 점이 핵심입니다. 직접 순생성물은 3탄당 인산인 G3P이며, 이를 이용해 여러 탄수화물을 합성합니다. 따라서 캘빈회로에서 자유 포도당이 곧바로 생성된다는 뜻으로 외우지 않습니다."
+  ],
+  "lawNote": "공식 채점 정답⑤와 선지 표현의 엄밀성을 구분했습니다. ③의 틸라코이드를 내강만으로 한정할 공식 근거는 확인되지 않았습니다. 인용한 FNR 연구는 2021년 Arabidopsis의 막 연관성 관찰로, 2020년 출제 의도나 모든 식물에서의 실시간 촉매 위치를 증명하지 않습니다. ⑤도 탄수화물 합성의 교과서적 요약과 G3P 직접 생성 단계를 구분해야 합니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "OpenStax Biology 2e 8.2",
+      "quote": "two types of which are found embedded in the thylakoid membrane",
+      "url": "https://openstax.org/books/biology-2e/pages/8-2-the-light-dependent-reactions-of-photosynthesis",
+      "evidenceId": "c45dccd5cffe87fd411b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "OpenStax Biology 2e 8.2",
+      "quote": "two types of which are found embedded in the thylakoid membrane",
+      "url": "https://openstax.org/books/biology-2e/pages/8-2-the-light-dependent-reactions-of-photosynthesis",
+      "evidenceId": "c45dccd5cffe87fd411b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "OpenStax Biology 2e 8.3",
+      "quote": "the stroma of the chloroplast—the site of light-independent reactions of photosynthesis",
+      "url": "https://openstax.org/books/biology-2e/pages/8-3-using-light-energy-to-make-organic-molecules",
+      "evidenceId": "ff7c78b590c7cce18d2f",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "OpenStax Biology 2e 8.3",
+      "quote": "the stroma of the chloroplast—the site of light-independent reactions of photosynthesis",
+      "url": "https://openstax.org/books/biology-2e/pages/8-3-using-light-energy-to-make-organic-molecules",
+      "evidenceId": "ff7c78b590c7cce18d2f",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "eLife",
+      "ref": "Kramer et al. (2021), eLife 10:e56088",
+      "quote": "FNR previously assigned as soluble is in fact membrane associated.",
+      "url": "https://elifesciences.org/articles/56088",
+      "evidenceId": "975defb379038bd1f990",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "eLife",
+      "ref": "Kramer et al. (2021), eLife 10:e56088",
+      "quote": "FNR previously assigned as soluble is in fact membrane associated.",
+      "url": "https://elifesciences.org/articles/56088",
+      "evidenceId": "975defb379038bd1f990",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "OpenStax Biology 2e 8.2",
+      "quote": "The reaction center of PSII (called P680)",
+      "url": "https://openstax.org/books/biology-2e/pages/8-2-the-light-dependent-reactions-of-photosynthesis",
+      "evidenceId": "5f532ff9a954cf1cc57c",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "OpenStax Biology 2e 8.2",
+      "quote": "the PSI reaction center (called P700)",
+      "url": "https://openstax.org/books/biology-2e/pages/8-2-the-light-dependent-reactions-of-photosynthesis",
+      "evidenceId": "2e51e39df1fab64f0317",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "OpenStax Biology 2e 8.2",
+      "quote": "the PSI reaction center (called P700)",
+      "url": "https://openstax.org/books/biology-2e/pages/8-2-the-light-dependent-reactions-of-photosynthesis",
+      "evidenceId": "2e51e39df1fab64f0317",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e, 8.3 Using Light Energy to Make Organic Molecules",
+      "quote": "only one of the G3P molecules leaves the Calvin cycle",
+      "url": "https://openstax.org/books/biology-2e/pages/8-3-using-light-energy-to-make-organic-molecules",
+      "evidenceId": "f74e7084b3223e217d34",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e, 8.3 Using Light Energy to Make Organic Molecules",
+      "quote": "only one of the G3P molecules leaves the Calvin cycle",
+      "url": "https://openstax.org/books/biology-2e/pages/8-3-using-light-energy-to-make-organic-molecules",
+      "evidenceId": "f74e7084b3223e217d34",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "NPTEL",
+      "ref": "NPTEL Bioinorganic Chemistry, Module 7, Photosystems",
+      "quote": "PS II optimally absorbs photons of a wavelength of 680 nm",
+      "url": "https://archive.nptel.ac.in/content/storage2/courses/104103069/module7/lec3/1.html",
+      "evidenceId": "c6265a2f7f85cb970aec",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "원본 이미지·공식 최종정답표 직접 대조; 교재 본문과 FNR 연구의 범위를 구분한 조건부 내용 검토. 표현상의 미해결 문제는 공개 해설에 명시.",
+    "contentHash": "5c80b8f7f0aa98a61056298803f6d92f48c0fd928aeb3c1dd10653c08283d4bc"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "5c8a662cf987f1421339",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology2e3.4 Proteins",
+  "url": "https://openstax.org/books/biology-2e/pages/3-4-proteins",
+  "excerpt": "collagen, located in our skin, is a fibrous protein",
+  "sourceHash": "368b2eac97ba85c57e90e98824259fec81bd0923b662a18b0738dd5221f8c70e",
+  "cacheSourceId": "d7c5e8da652b77a067ff",
+  "retrievedAt": "2026-11-07T04:12:40.474209+00:00",
+  "reviewedMappings": {
+    "2026-3-27:0": "Paragraph49 explicitly collagen fibrous protein;53 amino acid monomers;63 peptide bonds. Rejects polysaccharide identity.",
+    "2026-3-27:2": "Paragraph49 explicitly collagen fibrous protein;53 amino acid monomers;63 peptide bonds. Rejects polysaccharide identity."
+  },
+  "retrievalMethod": "Direct web find",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

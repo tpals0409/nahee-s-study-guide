@@ -1,0 +1,18 @@
+{
+  "id": "eb142c4a7b6eb887609f",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e, 42.2 Adaptive Immune Response",
+  "url": "https://openstax.org/books/biology-2e/pages/42-2-adaptive-immune-response",
+  "excerpt": "epitopes are known as “antigenic determinants.”",
+  "sourceHash": "abec644441b37f0ab88ff7e55d79f16512959da8bc76a75ef0d53289df8a9947",
+  "cacheSourceId": "94acbaab13b078ab9f7a",
+  "retrievedAt": "2026-11-07T01:55:29.460243+00:00",
+  "reviewedMappings": {
+    "2023-3-24:0": "T and B Lymphocytes 및 B Lymphocytes 절, 그림42.10·42.13: BCR과 항체의 항원결정부 인식으로 ㄹ 참. 항원 내부 선형 서열도 노출되어 결합 가능하므로 초안의 표면 표현 관련 의혹은 선지의 반례가 아님.",
+    "2023-3-24:4": "T and B Lymphocytes 및 B Lymphocytes 절, 그림42.10·42.13: BCR과 항체의 항원결정부 인식으로 ㄹ 참. 항원 내부 선형 서열도 노출되어 결합 가능하므로 초안의 표면 표현 관련 의혹은 선지의 반례가 아님.",
+    "2023-3-24:5": "T and B Lymphocytes 및 B Lymphocytes 절, 그림42.10·42.13: BCR과 항체의 항원결정부 인식으로 ㄹ 참. 항원 내부 선형 서열도 노출되어 결합 가능하므로 초안의 표면 표현 관련 의혹은 선지의 반례가 아님."
+  },
+  "retrievalMethod": "웹 도구로 원문 직접 열람. 검토 범위: T and B Lymphocytes 및 B Lymphocytes 절, 그림42.10·42.13: BCR과 항체의 항원결정부 인식으로 ㄹ 참. 항원 내부 선형 서열도 노출되어 결합 가능하므로 초안의 표면 표현 관련 의혹은 선지의 반례가 아님.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

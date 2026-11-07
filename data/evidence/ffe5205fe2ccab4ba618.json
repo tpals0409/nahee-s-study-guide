@@ -1,0 +1,17 @@
+{
+  "id": "ffe5205fe2ccab4ba618",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume 1 §17.4 Normal Modes of a Standing Sound Wave",
+  "url": "https://openstax.org/books/university-physics-volume-1/pages/17-4-normal-modes-of-a-standing-sound-wave",
+  "excerpt": "the frequencies of the sound waves that resonate depend on the boundary conditions.",
+  "sourceHash": "26c6ccc1587076d7c81f5a5aabbb8833761370d6b8081abab74f5b3f1268f6f1",
+  "cacheSourceId": "59d82604e858aa07c7f5",
+  "retrievedAt": "2026-11-07T04:30:47.560623+00:00",
+  "reviewedMappings": {
+    "2011-3-01:4": "정상파식의진폭계수A변화는마디위치sin(kx)=0을바꾸지않는다.같은주파수/매질에서크기만변화해도첫공명길이를절반으로줄이지않는다는추론.",
+    "2011-3-01:5": "ㄴ은계산74.2cm로거짓,ㄷ은선형정상파의진폭계수와마디조건분리로거짓. ㄱ참 누락."
+  },
+  "retrievalMethod": "Direct web open",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

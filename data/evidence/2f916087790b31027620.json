@@ -1,0 +1,21 @@
+{
+  "id": "2f916087790b31027620",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume 2, 15.5 Resonance in an AC Circuit",
+  "url": "https://openstax.org/books/university-physics-volume-2/pages/15-5-resonance-in-an-ac-circuit",
+  "excerpt": "at resonance, an RLC circuit is purely resistive",
+  "sourceHash": "a19083a82027bce488a3a215a84f7c809177ceb33ea2dfaef5898d5b050622f9",
+  "cacheSourceId": "ab9dd8b476e676b93878",
+  "retrievedAt": "2026-11-07T00:49:39.714577+00:00",
+  "reviewedMappings": {
+    "2022-3-07:0": "Direct page review: reactance expression and driven current resonance, equations 15.15 and 15.17, lines 30–61. Thus XL/XC=(f0/fr)^2; candidate ratios 4,2,1,1/2,1/4 select option 4. No use of the page’s undriven oscillation claim. 직렬 RLC 회로의 전압 위상자 관계에서 축전기 전압의 최댓값은 120 V입니다. 이로부터 X_L/X_C = 1/2를 얻으며, ω²LC = (f₀/f_r)² 관계를 이용하면 공명 진동수는 √2·f₀입니다.",
+    "2022-3-07:1": "Direct page review: reactance expression and driven current resonance, equations 15.15 and 15.17, lines 30–61. Thus XL/XC=(f0/fr)^2; candidate ratios 4,2,1,1/2,1/4 select option 4. No use of the page’s undriven oscillation claim. f₀/2라면 (f₀/f_r)²=4여야 합니다. 실제 X_L/X_C=1/2이므로 맞지 않습니다.",
+    "2022-3-07:2": "Direct page review: reactance expression and driven current resonance, equations 15.15 and 15.17, lines 30–61. Thus XL/XC=(f0/fr)^2; candidate ratios 4,2,1,1/2,1/4 select option 4. No use of the page’s undriven oscillation claim. f₀/√2라면 (f₀/f_r)²=2여야 합니다. 실제 X_L/X_C=1/2이므로 맞지 않습니다.",
+    "2022-3-07:3": "Direct page review: reactance expression and driven current resonance, equations 15.15 and 15.17, lines 30–61. Thus XL/XC=(f0/fr)^2; candidate ratios 4,2,1,1/2,1/4 select option 4. No use of the page’s undriven oscillation claim. f₀가 공명 진동수라면 X_L=X_C이고 전원 전압의 최댓값과 저항 전압의 최댓값이 같아야 합니다. 주어진 100 V와 80 V가 서로 다르므로 공명이 아닙니다.",
+    "2022-3-07:4": "Direct page review: reactance expression and driven current resonance, equations 15.15 and 15.17, lines 30–61. Thus XL/XC=(f0/fr)^2; candidate ratios 4,2,1,1/2,1/4 select option 4. No use of the page’s undriven oscillation claim. √2·f₀가 옳습니다. I₀=80/40=2 A이고, 100²=80²+(60−V_C)²에서 V_C=120 V입니다. 유한한 양의 C와 진동수에서 I₀가 0이 아니므로 V_C=0인 해는 제외합니다. 따라서 X_L=30 Ω, X_C=60 Ω이고, (f₀/f_r)²=X_L/X_C=1/2이므로 f_r=√2·f₀입니다.",
+    "2022-3-07:5": "Direct page review: reactance expression and driven current resonance, equations 15.15 and 15.17, lines 30–61. Thus XL/XC=(f0/fr)^2; candidate ratios 4,2,1,1/2,1/4 select option 4. No use of the page’s undriven oscillation claim. 2f₀라면 (f₀/f_r)²=1/4이어야 합니다. 실제 X_L/X_C=1/2이므로 맞지 않습니다."
+  },
+  "retrievalMethod": "Direct page review: reactance expression and driven current resonance, equations 15.15 and 15.17, lines 30–61. Thus XL/XC=(f0/fr)^2; candidate ratios 4,2,1,1/2,1/4 select option 4. No use of the page’s undriven oscillation claim.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

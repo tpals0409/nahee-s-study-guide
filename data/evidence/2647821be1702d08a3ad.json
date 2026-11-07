@@ -1,0 +1,17 @@
+{
+  "id": "2647821be1702d08a3ad",
+  "kind": "science",
+  "source": "WHO",
+  "ref": "Yellow fever",
+  "url": "https://www.who.int/news-room/fact-sheets/detail/yellow-fever",
+  "excerpt": "Yellow fever is a mosquito-borne viral disease",
+  "sourceHash": "f52f9534b4d69e44d56dd0f885a66f65a97d557926e256577efcb8ecd133388e",
+  "cacheSourceId": "b1e97799732085e64ad9",
+  "retrievedAt": "2026-11-06T22:45:26.360866+00:00",
+  "reviewedMappings": {
+    "2019-3-29:0": "Yellow fever의 바이러스성 병인을 확인하여 해당 선지는 정답에서 제외.",
+    "2019-3-29:1": "Yellow fever의 바이러스성 병인을 확인하여 해당 선지는 정답에서 제외."
+  },
+  "retrievalMethod": "Direct web open, key facts at 82.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

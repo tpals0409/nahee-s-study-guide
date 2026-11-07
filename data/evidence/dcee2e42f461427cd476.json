@@ -1,0 +1,21 @@
+{
+  "id": "dcee2e42f461427cd476",
+  "kind": "science",
+  "source": "B. Zwiebach / MIT OpenCourseWare",
+  "ref": "Quantum Physics I — Lecture 11, finite square well",
+  "url": "https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2016/a565b327f85c7721b18f1074dbd69ede_MIT8_04S16_LecNotes11.pdf",
+  "excerpt": "They have zero, one, and two nodes, respectively.",
+  "sourceHash": "e5fadb0d5a3d98ed6b633c8ce31a3991d424f44b5254f0d6ba0566379f21ff5d",
+  "cacheSourceId": "ee856c9e851fecb80fce",
+  "retrievedAt": "2026-11-06T21:00:57.800465+00:00",
+  "reviewedMappings": {
+    "2017-3-10:0": "PDF 인쇄 10쪽 460–464행은 유한 우물 E1<E2<E3 파동함수의 마디가 각각 0,1,2임을 명시한다. 원본 A는 마디 2개, B는 원점 마디 1개이므로 E_A>E_B, B는 바닥상태가 아님. ㄴ 참·ㄷ 거짓으로 선지 조합 판정. 무한 우물의 n² 에너지 공식을 유한 우물에 적용하지 않았다.",
+    "2017-3-10:1": "PDF 인쇄 10쪽 460–464행은 유한 우물 E1<E2<E3 파동함수의 마디가 각각 0,1,2임을 명시한다. 원본 A는 마디 2개, B는 원점 마디 1개이므로 E_A>E_B, B는 바닥상태가 아님. ㄴ 참·ㄷ 거짓으로 선지 조합 판정. 무한 우물의 n² 에너지 공식을 유한 우물에 적용하지 않았다.",
+    "2017-3-10:2": "PDF 인쇄 10쪽 460–464행은 유한 우물 E1<E2<E3 파동함수의 마디가 각각 0,1,2임을 명시한다. 원본 A는 마디 2개, B는 원점 마디 1개이므로 E_A>E_B, B는 바닥상태가 아님. ㄴ 참·ㄷ 거짓으로 선지 조합 판정. 무한 우물의 n² 에너지 공식을 유한 우물에 적용하지 않았다.",
+    "2017-3-10:3": "PDF 인쇄 10쪽 460–464행은 유한 우물 E1<E2<E3 파동함수의 마디가 각각 0,1,2임을 명시한다. 원본 A는 마디 2개, B는 원점 마디 1개이므로 E_A>E_B, B는 바닥상태가 아님. ㄴ 참·ㄷ 거짓으로 선지 조합 판정. 무한 우물의 n² 에너지 공식을 유한 우물에 적용하지 않았다.",
+    "2017-3-10:4": "PDF 인쇄 10쪽 460–464행은 유한 우물 E1<E2<E3 파동함수의 마디가 각각 0,1,2임을 명시한다. 원본 A는 마디 2개, B는 원점 마디 1개이므로 E_A>E_B, B는 바닥상태가 아님. ㄴ 참·ㄷ 거짓으로 선지 조합 판정. 무한 우물의 n² 에너지 공식을 유한 우물에 적용하지 않았다.",
+    "2017-3-10:5": "PDF 인쇄 10쪽 460–464행은 유한 우물 E1<E2<E3 파동함수의 마디가 각각 0,1,2임을 명시한다. 원본 A는 마디 2개, B는 원점 마디 1개이므로 E_A>E_B, B는 바닥상태가 아님. ㄴ 참·ㄷ 거짓으로 선지 조합 판정. 무한 우물의 n² 에너지 공식을 유한 우물에 적용하지 않았다."
+  },
+  "retrievalMethod": "Direct source opened; relevant probability-density text or finite-well node and energy ordering text reviewed.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

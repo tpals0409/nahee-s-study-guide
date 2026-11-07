@@ -1,0 +1,20 @@
+{
+  "id": "a9ac919c2b89fc9b6d97",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Anatomy and Physiology 2e 17.2 Hormones",
+  "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/17-2-hormones",
+  "excerpt": "thyroid hormones bind to receptors already bound to DNA.",
+  "sourceHash": "9429252ac873a2eee7b8a8ff91ad2e3abe62f1cb2ef1e7d53370823c7ce60881",
+  "cacheSourceId": "27411e44114b9b7012b6",
+  "retrievedAt": "2026-11-07T05:48:05.165150+00:00",
+  "reviewedMappings": {
+    "2012-3-21:0": "갑상샘호르몬의 전형적 핵수용체 기전 설명. T4 세포막 경로를 배제하거나 출제 의도를 입증하는 근거로 사용하지 않음.",
+    "2012-3-21:2": "갑상샘호르몬의 전형적 핵수용체 기전 설명. T4 세포막 경로를 배제하거나 출제 의도를 입증하는 근거로 사용하지 않음.",
+    "2012-3-21:3": "갑상샘호르몬의 전형적 핵수용체 기전 설명. T4 세포막 경로를 배제하거나 출제 의도를 입증하는 근거로 사용하지 않음.",
+    "2012-3-21:4": "갑상샘호르몬의 전형적 핵수용체 기전 설명. T4 세포막 경로를 배제하거나 출제 의도를 입증하는 근거로 사용하지 않음.",
+    "2012-3-21:5": "갑상샘호르몬의 전형적 핵수용체 기전 설명. T4 세포막 경로를 배제하거나 출제 의도를 입증하는 근거로 사용하지 않음."
+  },
+  "retrievalMethod": "Direct publisher textbook HTML",
+  "sourceHashScope": "Selected short excerpt only; not full source"
+}

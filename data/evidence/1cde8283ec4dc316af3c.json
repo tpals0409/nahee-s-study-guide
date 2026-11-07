@@ -1,0 +1,18 @@
+{
+  "id": "1cde8283ec4dc316af3c",
+  "kind": "science",
+  "source": "NASA / ESA / Hubble Heritage Team",
+  "ref": "Spiral Galaxy NGC 1300",
+  "url": "https://science.nasa.gov/asset/hubble/spiral-galaxy-ngc-1300/",
+  "excerpt": "blue clusters of young stars, pink clouds that are forming new stars, and dark lanes of dust.",
+  "sourceHash": "a6d8a5052aec8889b23502a370ae1fa66a88eff4bdb605888109da89c75f8992",
+  "cacheSourceId": "0d936435e566a7fa2b85",
+  "retrievedAt": "2026-11-07T04:31:51.093466+00:00",
+  "reviewedMappings": {
+    "2009-3-35:1": "본문303은 막대나선은하를 명시하며 막대끝에서 시작하는팔을 설명한다. 원본사진 구조와 일치한다.",
+    "2009-3-35:2": "본문304의 나선팔 내 새별이생기는구름으로 현재 별생성을 확인한다.",
+    "2009-3-35:3": "본문304가 젊은별의청색성단을 나선팔에 위치시킨다."
+  },
+  "retrievalMethod": "Direct web open/find",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

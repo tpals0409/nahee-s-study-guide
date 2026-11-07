@@ -1,0 +1,19 @@
+{
+  "id": "6daaed30b183464b5b23",
+  "kind": "science",
+  "source": "National Human Genome Research Institute",
+  "ref": "NHGRI Genetics Glossary — Translation",
+  "url": "https://www.genome.gov/genetics-glossary/Translation",
+  "excerpt": "Translation takes place on ribosomes in the cell cytoplasm",
+  "sourceHash": "766757a85b30dc1d66f3c5b0f19bd4bb713451bbb15a221c044478e24ce306b6",
+  "cacheSourceId": "f58cd94a51511e8621bd",
+  "retrievedAt": "2026-11-06T19:43:11.499179+00:00",
+  "reviewedMappings": {
+    "2015-3-26:0": "NHGRI 정의는 mRNA 정보가 아미노산 첨가를 지시하고 리보솜에서 읽힘을 명시한다. DNA가 직접 번역 주형이라는 ㄷ을 배제한다.",
+    "2015-3-26:2": "NHGRI 정의는 mRNA 정보가 아미노산 첨가를 지시하고 리보솜에서 읽힘을 명시한다. DNA가 직접 번역 주형이라는 ㄷ을 배제한다.",
+    "2015-3-26:4": "NHGRI 정의는 mRNA 정보가 아미노산 첨가를 지시하고 리보솜에서 읽힘을 명시한다. DNA가 직접 번역 주형이라는 ㄷ을 배제한다.",
+    "2015-3-26:5": "NHGRI 정의는 mRNA 정보가 아미노산 첨가를 지시하고 리보솜에서 읽힘을 명시한다. DNA가 직접 번역 주형이라는 ㄷ을 배제한다."
+  },
+  "retrievalMethod": "Direct glossary definition and narration read; selected short excerpt transcribed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

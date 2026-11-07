@@ -1,0 +1,16 @@
+{
+  "id": "bf3498f4bc39428b0812",
+  "kind": "science",
+  "source": "MedlinePlus Genetics / NLM",
+  "ref": "Do all gene variants affect health and development?",
+  "url": "https://medlineplus.gov/genetics/understanding/mutationsanddisorders/neutralmutations/",
+  "excerpt": "some variants alter a gene's DNA sequence but do not change the function of the protein made from the gene.",
+  "sourceHash": "38b0c5d928539e1eb3acb30dc207f65276bd7db17b9e5b09997db208e2f1c7ff",
+  "cacheSourceId": "5f55f329b33723ab819c",
+  "retrievedAt": "2026-11-07T05:15:01.432469+00:00",
+  "reviewedMappings": {
+    "2019-3-27:4": "49: DNA 변화가 단백질 기능을 바꾸지 않는 경우가 있다. 이 문장만으로 특정 아미노산 치환의 기능 보존을 실험 검증한 것은 아니므로 교재의 위치·잔기 의존 설명과 함께 사용한다."
+  },
+  "retrievalMethod": "Direct web open",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

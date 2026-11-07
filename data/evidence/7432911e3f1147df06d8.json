@@ -1,0 +1,20 @@
+{
+  "id": "7432911e3f1147df06d8",
+  "kind": "science",
+  "source": "Steven Earle / BCcampus",
+  "ref": "Physical Geology – 2nd Edition, 2.3 Mineral Groups",
+  "url": "https://opentextbc.ca/physicalgeology2ed/chapter/2-3-mineral-groups/",
+  "excerpt": "We group minerals into classes on the basis of their predominant anion or anion complex.",
+  "sourceHash": "c1fb7a649e3ec5823c390394b592e96b4866e9d463160c9e9d236cf1f3b615b2",
+  "cacheSourceId": "dc0e204e4e0bea69f281",
+  "retrievedAt": "2026-11-06T23:35:32.428439+00:00",
+  "reviewedMappings": {
+    "2020-3-33:0": "광물 분류 기준과 비규산염 광물의 배제를 지지.",
+    "2020-3-33:1": "황철석은 황화 광물이고 감람석은 규산염.",
+    "2020-3-33:2": "황철석 황화물 및 방해석 탄산염 분류.",
+    "2020-3-33:3": "방해석은 탄산염이므로 ㄷ 제외.",
+    "2020-3-33:5": "방해석 탄산염·강옥 산화물이며 감람석은 규산염."
+  },
+  "retrievalMethod": "Direct web open; reviewed Table 2.4 and lines 339–358, specifically pyrite sulphide, calcite carbonate, corundum oxide, and olivine silicate. No reliance on simplified sulphide anion-charge generalization.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "bab218c9ba05a26c2bec",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 2e, 12.5 Collision Theory",
+  "url": "https://openstax.org/books/chemistry-2e/pages/12-5-collision-theory",
+  "excerpt": "the Arrhenius equation is rearranged to a convenient two-point form",
+  "sourceHash": "eae3dc7fd0c6e6a9fb6e6ee8c3bbb8ca1a945459f4872c4439a0e53f76821b3e",
+  "cacheSourceId": "206d1e7accdb6667e276",
+  "retrievedAt": "2026-11-07T01:41:07.710153+00:00",
+  "reviewedMappings": {
+    "2023-3-13:0": "원문 그래프 절편a,10s값5a·2a를 적분식에 적용하여 k가=0.4a,k나=0.1a,비4. 아레니우스식으로 Ea=6bTln4. 시간차로1/[A]=16a, 그 농도부터 반감되는 시간차120s를 독립 계산.",
+    "2023-3-13:1": "ㄱ은 역농도 직선 및 기울기k에서 참. 두 온도 속도상수비로 ㄴ, 해당 농도에서 적분식으로 ㄷ도 참이므로 ㄱ만으로 부족.",
+    "2023-3-13:2": "ㄷ은 현재 역농도16a에서32a까지 걸리는 시간이40s와160s로 참. ㄱ·ㄴ도 성립하므로 ㄷ만으로 부족.",
+    "2023-3-13:3": "ㄱ·ㄴ 외에 ㄷ도 참: 도달시간37.5s와150s차112.5s, 이후 해당농도에서 절반까지40s와160s차120s. 초기반감기와 구분.",
+    "2023-3-13:4": "ㄴ·ㄷ 외에 ㄱ도 참: 1/[A]=a+kt를 미분하면 −d[A]/dt=k[A]². 원문의 A계수1이므로 반응속도와 일치.",
+    "2023-3-13:5": "ㄱ2차반응, ㄴ통상 양의 활성화에너지 아레니우스모형에서 k큰(가)가1.2T로 Ea=6bTln4, ㄷ현재농도 반감기차120s 모두 참."
+  },
+  "retrievalMethod": "Direct web open/find; second-order integrated rate/half-life and two-point Arrhenius equation reviewed; independently applied to original graph.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

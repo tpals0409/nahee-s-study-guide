@@ -1,0 +1,52 @@
+{
+  "summary": "정답은 ④ 남동쪽 하늘, C입니다. 그림에서 D는 삭, A는 상현, B는 보름달, C는 하현입니다. 새벽에 보이는 반달은 하현이며, 이 문항의 단순화된 일주운동 모형에서 새벽 4시에는 남중하기 전의 남동쪽 하늘에 있습니다.",
+  "choices": [
+    "A는 상현달입니다. 상현달은 정오 무렵 떠서 자정 무렵 지므로, 새벽 4시에 보았다는 반달에 해당하지 않습니다.",
+    "A는 저녁에 보기 좋은 상현달로 자정 무렵 집니다. 따라서 새벽 4시에 북서쪽에서 보이는 반달을 A로 고른 이 조합은 맞지 않습니다.",
+    "B는 지구에서 보아 태양의 반대편에 놓인 보름달입니다. 문제에서 반달을 보았다고 했으므로 B가 될 수 없습니다.",
+    "C는 하현달입니다. 자정 무렵 떠서 아침 무렵 남중하는 것으로 보는 기본 모형에서 새벽 4시는 남중 전입니다. 서울에서 이때의 방향은 남동쪽이므로 이 조합이 정답입니다.",
+    "D는 태양과 같은 쪽에 놓인 삭의 위치입니다. 밝은 면이 대체로 지구 반대쪽을 향하므로, 지구에서 보이는 반달에 해당하지 않습니다."
+  ],
+  "lawNote": "그림의 각 달에 표시된 밝은 반쪽은 우주에서 본 햇빛의 방향을 나타내며, 지구에서 관측되는 위상 자체가 아닙니다. 출몰·남중 시각은 근사이며 실제 날짜와 위치에 따라 달라집니다. 남중은 남쪽 자오선을 지나는 것이지 반드시 머리 바로 위를 지나는 것은 아닙니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "NASA",
+      "ref": "Moon Phases",
+      "quote": "The Moon is opposite the Sun, as viewed from Earth, revealing the Moon’s dayside.",
+      "url": "https://science.nasa.gov/moon/moon-phases/",
+      "evidenceId": "98299c8f6be9aa9237f3",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "National Astronomical Observatory of Japan",
+      "ref": "Rising and Setting",
+      "quote": "Around Last Quarter, the Moon rises around midnight and sets around following noon.",
+      "url": "https://eco.mtk.nao.ac.jp/koyomi/faq/riseset.html.en",
+      "evidenceId": "e352ca8e3361ff35691a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "NASA Night Sky Network",
+      "ref": "Moon Mission: Moon phase observing table",
+      "quote": "Third Quarter",
+      "url": "https://nightsky.jpl.nasa.gov/documents/251/moonmission05.pdf",
+      "evidenceId": "52a579fe6ae74cdbedf9",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "원본2013-3-38_1.webp 태양빛·D→A→B→C 공전·선지 확인. NASA 위상 본문, NAOJ 출몰 본문, NASA Night Sky Network 검색표 대조. 정답④. 남중=머리위 및 정확히6시/시간각-30도 단정 제거.",
+    "contentHash": "0c8750f4e57dd9a7b0b7bf0aed5ae8a7e8d4233d83343c7c7ef52ade51c7c266"
+  }
+}

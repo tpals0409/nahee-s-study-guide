@@ -1,0 +1,30 @@
+{
+  "summary": "정답은 어류를 잡아먹는 조류입니다. 이 문항은 X가 잘 분해·배설되지 않아 먹이사슬을 따라 생물농축되는 잔류물질이라고 보는 문제입니다. 이 전제에서 상위 포식자일수록 먹이를 통해 X를 축적하여 체내 농도가 높아집니다. 단순히 생체 내 축적이 가능하다는 사실만으로 모든 물질이 이 경향을 보이는 것은 아닙니다.",
+  "choices": [
+    "식물성 플랑크톤은 이 먹이사슬의 생산자입니다. X를 흡수할 수 있지만, 문항에서 가정한 영양단계별 농축의 최상위에 해당하지 않습니다.",
+    "동물성 플랑크톤은 식물성 플랑크톤 등을 먹는 소비자입니다. 제시된 먹이사슬에서는 어류와 어식성 조류보다 낮은 단계이므로 정답이 아닙니다.",
+    "잡식성 어류도 먹이를 통해 X를 축적할 수 있습니다. 그러나 문항에서 비교하는 최상위 포식자는 이 어류를 먹는 조류이므로 정답이 아닙니다.",
+    "육식성 어류는 상위 소비자이지만, 이를 잡아먹는 조류가 더 위의 영양단계에 있으므로 정답이 아닙니다.",
+    "정답입니다. 어류를 잡아먹는 조류는 제시된 먹이사슬의 최상위 소비자입니다. X가 먹이사슬을 따라 농축된다는 전제에서 체내 농도가 가장 높다고 판단합니다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax · Biology 2e",
+      "ref": "46.2",
+      "quote": "the increasing concentration of persistent, toxic substances in organisms at each trophic level, from the primary producers to the apex consumers.",
+      "url": "https://openstax.org/books/biology-2e/pages/46-2-energy-flow-through-ecosystems",
+      "evidenceId": "eddb0b21efdbc25f1312",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "문항의 생물 목록을 수생 먹이사슬의 영양단계와 대조. 분해·배설이 어렵고 영양단계별 생물농축을 보이는 잔류물질이라는 시험의 전제에서 어식성 조류가 최상위. 생체축적 자체만으로 모든 물질의 생물농축을 단정하지 않도록 전제 명시.",
+    "contentHash": "a75bf9d38e75a9b66742cf0ea0197d629afc5fe235165bceadf7defeae9fc5d2"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "6e9ae06530b4dda06cc8",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e 7.1 Energy in Living Systems",
+  "url": "https://openstax.org/books/biology-2e/pages/7-1-energy-in-living-systems",
+  "excerpt": "chemiosmosis, which takes place in mitochondria",
+  "sourceHash": "e94f0a5c138c116526bc5078e0330025016c7f694a1c8cd57beb96a719e3ddaf",
+  "cacheSourceId": "1ea0236a18d06634fa8d",
+  "retrievedAt": "2026-11-06T16:58:15.017379+00:00",
+  "reviewedMappings": {
+    "2011-3-22:0": "공통 해설 근거: 진핵세포 포도당 분해의 ATP 생성에서 미토콘드리아의 역할 지지. 공식 정답이 ㄷ을 포함한다는 사실과 과학적 제한을 별도 설명."
+  },
+  "retrievalMethod": "web.search 반환 본문 직접 대조; 전체 페이지 취득 아님",
+  "sourceHashScope": "Selected excerpt only; not full page"
+}

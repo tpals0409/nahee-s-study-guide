@@ -1,0 +1,20 @@
+{
+  "id": "46845ed79e9224ddde06",
+  "kind": "science",
+  "source": "eCampusOntario Pressbooks",
+  "ref": "Organic and Biochemistry Supplement §27.4 Addition Polymerization",
+  "url": "https://ecampusontario.pressbooks.pub/orgbiochemsupplement/chapter/addition-polymerization/",
+  "excerpt": "is a thermoplastic polymer",
+  "sourceHash": "0d4efd6c0c28608f392b6534181fd02ed6ee94293095b337d82122c62e99dfbb",
+  "cacheSourceId": "457f45eedb42de2db885",
+  "retrievedAt": "2026-11-06T19:25:28.099973+00:00",
+  "reviewedMappings": {
+    "2015-3-11:0": "Direct polypropylene classification supports ㄱ false. Original polymer skeleton identified as CH2–CH(CH3); no generic claim that every uncrosslinked polymer must soften before degradation.",
+    "2015-3-11:1": "Direct polypropylene classification supports ㄱ false. Original polymer skeleton identified as CH2–CH(CH3); no generic claim that every uncrosslinked polymer must soften before degradation.",
+    "2015-3-11:3": "Direct polypropylene classification supports ㄱ false. Original polymer skeleton identified as CH2–CH(CH3); no generic claim that every uncrosslinked polymer must soften before degradation.",
+    "2015-3-11:4": "Direct polypropylene classification supports ㄱ false. Original polymer skeleton identified as CH2–CH(CH3); no generic claim that every uncrosslinked polymer must soften before degradation.",
+    "2015-3-11:5": "Direct polypropylene classification supports ㄱ false. Original polymer skeleton identified as CH2–CH(CH3); no generic claim that every uncrosslinked polymer must soften before degradation."
+  },
+  "retrievalMethod": "Direct web.open; addition definition lines 253–256 and polypropylene section 278–284 inspected",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "786544d512bc05e16b56",
+  "kind": "science",
+  "source": "PubMed / original research authors",
+  "ref": "Spieth et al. (1993), Cell 73:521–532, DOI 10.1016/0092-8674(93)90139-H",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/8098272/",
+  "excerpt": "the genes in these clusters are cotranscribed",
+  "sourceHash": "e5d5a90ffff49db5eaf949b6a0049910d945ac2b7a64933f5c4935d5af80fd34",
+  "cacheSourceId": "a6be7efa6b83ee438133",
+  "retrievedAt": "2026-11-06T16:40:15.442324+00:00",
+  "reviewedMappings": {
+    "2011-3-26:2": "1993년 원저 초록: C. elegans의 유전자 공동전사 및 trans-splicing 확인. 진핵생물에는 오페론이 없다는 설명 금지. 원핵의 lac/trp 조절과 동일한 기전이라고 단정할 수도 없으므로 추가 검토 필요."
+  },
+  "retrievalMethod": "web.run PubMed original research abstract reviewed",
+  "sourceHashScope": "Selected abstract excerpt only; not full paper"
+}

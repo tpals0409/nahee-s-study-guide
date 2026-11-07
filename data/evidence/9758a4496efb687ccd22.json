@@ -1,0 +1,16 @@
+{
+  "id": "9758a4496efb687ccd22",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Microbiology, 15.3 Virulence Factors of Bacterial and Viral Pathogens",
+  "url": "https://openstax.org/books/microbiology/pages/15-3-virulence-factors-of-bacterial-and-viral-pathogens",
+  "excerpt": "Lipid A is the toxic component that promotes inflammation and fever.",
+  "sourceHash": "720a2f1bb91b26225c37d0f550f2d02d7f6b04cd5f204d421eaa2acef9dcd45e",
+  "cacheSourceId": "be5c1e61f1df94c1cabd",
+  "retrievedAt": "2026-11-07T01:10:43.540465+00:00",
+  "reviewedMappings": {
+    "2022-3-26:1": "Lipid A is LPS toxic moiety; supports option 1 without claiming equal toxicity for every lipid A variant."
+  },
+  "retrievalMethod": "Indexed official OpenStax web search result: Toxins and Figure 15.13 caption",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

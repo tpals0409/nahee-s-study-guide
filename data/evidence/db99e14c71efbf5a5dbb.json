@@ -1,0 +1,18 @@
+{
+  "id": "db99e14c71efbf5a5dbb",
+  "kind": "reference",
+  "source": "NWS hosted meteorology teaching compilation",
+  "ref": "Divergence/Convergence/Diffluence",
+  "url": "https://www.weather.gov/source/zhu/ZHU_Training_Page/Miscellaneous/Divergence/divergence.html",
+  "excerpt": "causes winds to cross the isobars toward lower pressures.",
+  "sourceHash": "7fe27be1bdc999d097575d4994dd6d1750dee9703b17dc5b3039614cb2d71771",
+  "cacheSourceId": "bf8ab82a78d068157eaf",
+  "retrievedAt": "2026-11-07T06:20:26.804187+00:00",
+  "reviewedMappings": {
+    "2011-3-40:0": "본문 37–39행 직접 확인. 경계층 마찰에 따른 저기압 쪽 흐름과 수렴 및 상승의 연결을 뒷받침한다. 공식 정답의 출제 의도는 증명하지 않는다.",
+    "2011-3-40:2": "본문 37–39행 직접 확인. 경계층 마찰에 따른 저기압 쪽 흐름과 수렴 및 상승의 연결을 뒷받침한다. 공식 정답의 출제 의도는 증명하지 않는다.",
+    "2011-3-40:3": "본문 37–39행 직접 확인. 경계층 마찰에 따른 저기압 쪽 흐름과 수렴 및 상승의 연결을 뒷받침한다. 공식 정답의 출제 의도는 증명하지 않는다."
+  },
+  "retrievalMethod": "web.open direct body review",
+  "sourceHashScope": "reviewed short excerpt only"
+}

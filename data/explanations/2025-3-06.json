@@ -1,0 +1,85 @@
+{
+  "id": "2025-3-06",
+  "summary": "이상적인 직렬 RLC 회로에서 전압의 최댓값은 단순히 더하지 않고 V₀²=V_R²+(V_L−V_C)²로 합성합니다. I₀=80/40=2 A이고 |V_L−30|=60 V입니다. V_L은 음수가 아닌 진폭이므로 V_L=90 V, 따라서 X_L=90/2=45 Ω으로 정답은 ⑤입니다.",
+  "choices": [
+    "15 Ω: 이 값은 X_C = VC / I0 = 30 V / 2 A = 15 Ω에 해당합니다. 코일의 리액턴스로 고른다면 축전기와 혼동한 것이므로 오답입니다. X_L = 15 Ω이라면 VL = 30 V가 되어 VL − VC = 0입니다. 이때 전원 전압이 80 V가 되어 주어진 100 V와 맞지 않습니다.",
+    "20 Ω: X_L = 20 Ω이면 VL = 2 A × 20 Ω = 40 V이고 VL − VC = 10 V입니다. 그러면 V0 = √(80² + 10²) ≈ 80.6 V가 되어 100 V와 맞지 않으므로 오답입니다.",
+    "30 Ω: X_L = 30 Ω이면 VL = 60 V이고 VL − VC = 30 V입니다. 그러면 V0 = √(80² + 30²) ≈ 85.4 V가 되어 100 V와 맞지 않으므로 오답입니다. 30 Ω은 리액턴스 차 X_L − X_C의 값이지 X_L 자체가 아닙니다.",
+    "40 Ω: X_L = 40 Ω이면 VL = 80 V이고 VL − VC = 50 V입니다. 그러면 V0 = √(80² + 50²) ≈ 94.3 V가 되어 100 V와 맞지 않으므로 오답입니다.",
+    "45 Ω: X_L = 45 Ω이면 VL = 90 V이고 VL − VC = 60 V입니다. 이때 V0 = √(80² + 60²) = 100 V로 주어진 조건과 정확히 일치하므로 정답입니다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2, 15.3: RLC Series Circuits with AC",
+      "quote": "the same current flows through each element at all points in time",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/15-3-rlc-series-circuits-with-ac",
+      "evidenceId": "bb4b43ff354b06bb798b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2, 15.3: RLC Series Circuits with AC",
+      "quote": "the same current flows through each element at all points in time",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/15-3-rlc-series-circuits-with-ac",
+      "evidenceId": "bb4b43ff354b06bb798b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2, 15.3: RLC Series Circuits with AC",
+      "quote": "the same current flows through each element at all points in time",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/15-3-rlc-series-circuits-with-ac",
+      "evidenceId": "bb4b43ff354b06bb798b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2, 15.3: RLC Series Circuits with AC",
+      "quote": "the same current flows through each element at all points in time",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/15-3-rlc-series-circuits-with-ac",
+      "evidenceId": "bb4b43ff354b06bb798b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2, 15.3: RLC Series Circuits with AC",
+      "quote": "the same current flows through each element at all points in time",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/15-3-rlc-series-circuits-with-ac",
+      "evidenceId": "bb4b43ff354b06bb798b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2, 15.3: RLC Series Circuits with AC",
+      "quote": "the same current flows through each element at all points in time",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/15-3-rlc-series-circuits-with-ac",
+      "evidenceId": "bb4b43ff354b06bb798b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Original circuit inspected; ideal series RLC phasor derivation reviewed; all five choices numerically substituted; negative amplitude branch rejected; peak values kept consistent.",
+    "contentHash": "94a081423cb8a3f3f99e76189767036271ff04cf93b1bb85f97ba3e7e4ba1260"
+  }
+}

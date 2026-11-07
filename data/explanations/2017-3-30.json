@@ -1,0 +1,86 @@
+{
+  "id": "2017-3-30",
+  "summary": "정답은 ⑤ ㄴ, ㄷ입니다. 생장을 회복시키는 물질을 비교하면 합성 순서는 C → B → A → X이고, I·II·III의 차단 단계는 각각 A → X, C → B, B → A입니다.",
+  "choices": [
+    "ㄱ은 틀립니다. I은 A·B·C를 넣어도 생장하지 않고 X를 넣어야 생장합니다. 마지막 A → X 단계가 막혀 있어 이 중간산물들로 X를 만들지 못합니다.",
+    "ㄴ은 옳지만 ㄷ도 옳으므로 부족한 조합입니다. II는 B를 공급하면 B → A → X로 전환하여 생장할 수 있습니다.",
+    "ㄷ은 옳지만 ㄴ도 옳으므로 부족한 조합입니다. III은 A로만, II는 A·B로 생장이 회복되므로 중간산물의 순서는 C → B → A입니다.",
+    "ㄴ은 옳지만 ㄱ은 틀립니다. II는 B를 이용할 수 있으나 I은 A → X 단계가 막혀 있습니다.",
+    "ㄴ과 ㄷ이 모두 옳습니다. 공급 효과는 C가 없고, B가 II를, A가 II·III을, X가 모두를 회복시킵니다. 따라서 C → B → A → X이며 II는 공급된 B를 이용합니다."
+  ],
+  "lawNote": "문항의 단일 경로·효소 단계 차단 모형에서, 막힌 단계 이후의 물질을 공급하면 생장이 회복된다는 원리를 적용합니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "Cold Spring Harbor Laboratory DNA Learning Center",
+      "ref": "Animation 16: One gene makes one protein — transcript",
+      "quote": "The mutant would be able to grow if we add the enzyme product as a supplement.",
+      "url": "https://dnalc.cshl.edu/view/16360-Animation-16-One-gene-makes-one-protein-.html",
+      "evidenceId": "b15af4de890c8be2ab02",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "Cold Spring Harbor Laboratory DNA Learning Center",
+      "ref": "Animation 16: One gene makes one protein — transcript",
+      "quote": "The mutant would be able to grow if we add the enzyme product as a supplement.",
+      "url": "https://dnalc.cshl.edu/view/16360-Animation-16-One-gene-makes-one-protein-.html",
+      "evidenceId": "b15af4de890c8be2ab02",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "Cold Spring Harbor Laboratory DNA Learning Center",
+      "ref": "Animation 16: One gene makes one protein — transcript",
+      "quote": "The mutant would be able to grow if we add the enzyme product as a supplement.",
+      "url": "https://dnalc.cshl.edu/view/16360-Animation-16-One-gene-makes-one-protein-.html",
+      "evidenceId": "b15af4de890c8be2ab02",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "Cold Spring Harbor Laboratory DNA Learning Center",
+      "ref": "Animation 16: One gene makes one protein — transcript",
+      "quote": "The mutant would be able to grow if we add the enzyme product as a supplement.",
+      "url": "https://dnalc.cshl.edu/view/16360-Animation-16-One-gene-makes-one-protein-.html",
+      "evidenceId": "b15af4de890c8be2ab02",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "Cold Spring Harbor Laboratory DNA Learning Center",
+      "ref": "Animation 16: One gene makes one protein — transcript",
+      "quote": "The mutant would be able to grow if we add the enzyme product as a supplement.",
+      "url": "https://dnalc.cshl.edu/view/16360-Animation-16-One-gene-makes-one-protein-.html",
+      "evidenceId": "b15af4de890c8be2ab02",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "Cold Spring Harbor Laboratory DNA Learning Center",
+      "ref": "Animation 16: One gene makes one protein — transcript",
+      "quote": "The mutant would be able to grow if we add the enzyme product as a supplement.",
+      "url": "https://dnalc.cshl.edu/view/16360-Animation-16-One-gene-makes-one-protein-.html",
+      "evidenceId": "b15af4de890c8be2ab02",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "Original image and CSHL transcript reviewed; exhaustive pathway-order and block-position consistency check",
+    "contentHash": "d9239d7b875d238a7bbaa6bb485e6fce95452fcd6ef38f6140bd6e1da12e80a1"
+  }
+}

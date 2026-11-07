@@ -1,0 +1,18 @@
+{
+  "id": "251e5d9693d029e6044f",
+  "kind": "science",
+  "source": "Clinical and Diagnostic Laboratory Immunology / PMC",
+  "ref": "Kirkeby et al. (2000), Immunoglobulins in Nasal Secretions of Healthy Humans",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC95818/",
+  "excerpt": "In addition to IgA, IgG and IgM were detected in all nasal wash samples.",
+  "sourceHash": "bcd9a98afeb1d505194e31f140e2522fcefcd85833ae0296ad537f2e30e20274",
+  "cacheSourceId": "84016b57f36665296d63",
+  "retrievedAt": "2026-11-07T05:06:50.830292+00:00",
+  "reviewedMappings": {
+    "2022-3-24:0": "건강한 사람의 비강 세척액15시료에서 IgM 검출을 보고한다. IgA보다 대체로 적지만 부재는 아니다. IgM단독 방어효과나 눈물에서의 존재는 이 연구 결과로 확정하지 않는다.",
+    "2022-3-24:2": "건강한 사람의 비강 세척액15시료에서 IgM 검출을 보고한다. IgA보다 대체로 적지만 부재는 아니다. IgM단독 방어효과나 눈물에서의 존재는 이 연구 결과로 확정하지 않는다.",
+    "2022-3-24:4": "건강한 사람의 비강 세척액15시료에서 IgM 검출을 보고한다. IgA보다 대체로 적지만 부재는 아니다. IgM단독 방어효과나 눈물에서의 존재는 이 연구 결과로 확정하지 않는다."
+  },
+  "retrievalMethod": "Direct web open/find",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

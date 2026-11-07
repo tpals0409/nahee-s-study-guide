@@ -1,0 +1,16 @@
+{
+  "id": "fe7090959e525f3ddf40",
+  "kind": "science",
+  "source": "OpenStax Chemistry 2e",
+  "ref": "13.3 Shifting Equilibria: Le Chatelier’s Principle",
+  "url": "https://openstax.org/books/chemistry-2e/pages/13-3-shifting-equilibria-le-chateliers-principle",
+  "excerpt": "without a change in the equilibrium constant",
+  "sourceHash": "17d0b6a1399d599d4c0f4fb0961d60a3b099910245bd9968dee7f614127354af",
+  "cacheSourceId": "a6529d119960da801a28",
+  "retrievedAt": "2026-11-06T18:50:31.375837+00:00",
+  "reviewedMappings": {
+    "2014-3-20:4": "121행 촉매 효과. 복잡한 메커니즘까지 활성화 에너지를 똑같이 낮춘다고 일반화한 초안 표현 삭제."
+  },
+  "retrievalMethod": "web.open; manually reviewed excerpt",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

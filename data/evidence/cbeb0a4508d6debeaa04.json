@@ -1,0 +1,17 @@
+{
+  "id": "cbeb0a4508d6debeaa04",
+  "kind": "science",
+  "source": "NOAA National Weather Service",
+  "ref": "Glossary: Looping",
+  "url": "https://forecast.weather.gov/glossary.php?word=looping",
+  "excerpt": "A pattern of plume dispersion in an unstable atmosphere",
+  "sourceHash": "3a1343d5ab5e47c4d08041ae87bd826b829a41ed513e3879e003a0a07648d5e7",
+  "cacheSourceId": "91992fbc9d21c7f68112",
+  "retrievedAt": "2026-11-06T21:31:56.831764+00:00",
+  "reviewedMappings": {
+    "2017-3-36:0": "정의 전체의 강한 연직 요동·상승 및 하강 흐름을 원본 연기 그림과 대조하여 불안정 대기의 환상형으로 판독.",
+    "2017-3-36:2": "정의 전체의 강한 연직 요동·상승 및 하강 흐름을 원본 연기 그림과 대조하여 불안정 대기의 환상형으로 판독."
+  },
+  "retrievalMethod": "Direct web page reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

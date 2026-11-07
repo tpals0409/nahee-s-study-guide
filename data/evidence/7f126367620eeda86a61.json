@@ -1,0 +1,20 @@
+{
+  "id": "7f126367620eeda86a61",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "22.3 The Process of Breathing",
+  "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/22-3-the-process-of-breathing",
+  "excerpt": "pressure within the lungs becomes greater than the atmospheric pressure.",
+  "sourceHash": "b3af41add9530d1fa6c0943af43caad8e2787b401a6b61b54c9d3ec9533c3f39",
+  "cacheSourceId": "7fbe8c7c5f374c84a0a0",
+  "retrievedAt": "2026-11-06T20:27:57.112827+00:00",
+  "reviewedMappings": {
+    "2016-3-22:0": "본문36,67–73 폐포공기와 대기는 기도로 연결되고 압력차로 날숨 이동. 세포막 능동수송과 구별.",
+    "2016-3-22:2": "ㄴ 거짓: 폐포에서 대기로 CO2 포함 공기가 환기로 배출.",
+    "2016-3-22:3": "ㄴ 거짓: 기도를 통한 압력차 기반 기류이지 세포막 능동수송 아님.",
+    "2016-3-22:4": "ㄴ 거짓이므로 ㄷ과 함께 묶은 선택지는 오답.",
+    "2016-3-22:5": "ㄴ 거짓. 호흡근 에너지사용과 CO2 세포막 능동수송은 같은 개념이 아님."
+  },
+  "retrievalMethod": "Direct web open and targeted find; relevant definition and mechanism reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

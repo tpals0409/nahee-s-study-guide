@@ -1,0 +1,16 @@
+{
+  "id": "8ee42db59ff9a97bfb32",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "OpenStax Organic Chemistry §21.9 Polyamides and Polyesters: Step-Growth Polymers",
+  "url": "https://openstax.org/books/organic-chemistry/pages/21-9-polyamides-and-polyesters-step-growth-polymers",
+  "excerpt": "The second reaction shows a diol reacting with a diacid to form a polyester and water.",
+  "sourceHash": "e32fd3fc963314cc1199008a16a93ef4c4a6998f7348509e8522fe7de69ce055",
+  "cacheSourceId": "923af3e2d4d03f194ef8",
+  "retrievedAt": "2026-11-06T17:55:43.785099+00:00",
+  "reviewedMappings": {
+    "2013-3-11:0": "디올+다이카복실산→폴리에스터+물 반응도 직접 확인. 원본⑤ 주사슬 에스터 결합을 테레프탈산+에틸렌글리콜의 탈수 에스터화로 설명. 이 절의 PET 상업적 예시는 다이메틸 에스터 경로이므로 모든 PET합성이 물을 내놓는다고 일반화하지 않음."
+  },
+  "retrievalMethod": "web.open; reaction descriptions and table directly reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

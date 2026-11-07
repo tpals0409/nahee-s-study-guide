@@ -1,0 +1,18 @@
+{
+  "id": "3cf3cd740787a7e9aba9",
+  "kind": "science",
+  "source": "USGS",
+  "ref": "Are the tectonic plates floating on magma?",
+  "url": "https://www.usgs.gov/faqs/are-tectonic-plates-floating-magma",
+  "excerpt": "it stops S-waves and the velocity of P-waves are sharply reduced",
+  "sourceHash": "70ef3e2641bdffe37591404d36845435644b1a50b9915dcf74bf3b3d50cad74b",
+  "cacheSourceId": "c893b4d4225860c5e606",
+  "retrievedAt": "2026-11-07T02:45:32.140020+00:00",
+  "reviewedMappings": {
+    "2024-3-31:0": "Outer core is the wholly liquid layer and blocks S-wave propagation; mantle is not a global magma ocean. No claim of total energy annihilation at boundary.",
+    "2024-3-31:2": "Outer core is the wholly liquid layer and blocks S-wave propagation; mantle is not a global magma ocean. No claim of total energy annihilation at boundary.",
+    "2024-3-31:4": "Outer core is the wholly liquid layer and blocks S-wave propagation; mantle is not a global magma ocean. No claim of total energy annihilation at boundary."
+  },
+  "retrievalMethod": "Official indexed FAQ reviewed.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

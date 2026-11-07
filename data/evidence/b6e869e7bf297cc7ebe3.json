@@ -1,0 +1,21 @@
+{
+  "id": "b6e869e7bf297cc7ebe3",
+  "kind": "science",
+  "source": "NASA Science",
+  "ref": "Moon Phases",
+  "url": "https://science.nasa.gov/moon/moon-phases/",
+  "excerpt": "The waning crescent Moon rises in the very early morning, before sunrise",
+  "sourceHash": "ea47153c64da477ed0b77e8d0d6391aca0a65d93baad6ca55f067ddff07b0d73",
+  "cacheSourceId": "2ee6dee21a101c01460c",
+  "retrievedAt": "2026-11-07T01:27:06.687647+00:00",
+  "reviewedMappings": {
+    "2022-3-40:0": "NASA의 위상 순서와 새벽 그믐달 관측 조건을 원문 A~E 위치에 적용. E만 그믐달이며 남동쪽은 문제의 단순 모형에 따른 선택으로 한정.",
+    "2022-3-40:1": "삭의 어두운 지구향 면과 태양 근처 위치를 A에 대응시켜 그믐달이 아님을 확인.",
+    "2022-3-40:2": "삭 다음 초승의 위상 순서를 B에 대응시켜 그믐달과 구별.",
+    "2022-3-40:3": "상현 다음 보름 전 waxing gibbous를 C에 대응시킴.",
+    "2022-3-40:4": "보름 다음 하현 전 waning gibbous를 D에 대응시킴.",
+    "2022-3-40:5": "하현 다음 삭 전 waning crescent를 E에 대응시키고 새벽 출현 근거 연결. 날짜별 방위각 변화는 남기며 정확한3시간 선행 출몰을 주장하지 않음."
+  },
+  "retrievalMethod": "Direct NASA page open and find; phase ordering, individual phases, Daytime Moons (lines 389–397) and orbital-inclination discussion checked. Southeast is the exam schematic interpretation, not a universal azimuth established by this source.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "4b364526babbd2e6af1b",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "8.7 Biogeochemical Cycles",
+  "url": "https://openstax.org/books/microbiology/pages/8-7-biogeochemical-cycles",
+  "excerpt": "converting it into nitrogen gas that reenters the atmosphere.",
+  "sourceHash": "5271cd0fdfbdf805a74808a902209318f0b242da8b35cc3b296a8160edbcf50a",
+  "cacheSourceId": "906cf7fc39e131a62549",
+  "retrievedAt": "2026-11-06T22:46:04.301515+00:00",
+  "reviewedMappings": {
+    "2019-3-30:0": "질소고정 N₂→NH₃는 참; 질산화와 탈질산화의 정의가 ㄴ·ㄷ에서 서로 바뀌어 거짓.",
+    "2019-3-30:1": "질소고정은 질소기체를 암모니아로 전환하므로 ㄱ만 참.",
+    "2019-3-30:2": "NO₃⁻→N₂는 질산화가 아니라 탈질산화이므로 ㄷ 거짓.",
+    "2019-3-30:3": "NH₃→NO₃⁻는 질산화이므로 ㄴ 거짓.",
+    "2019-3-30:4": "ㄴ과 ㄷ 모두 두 과정의 방향을 서로 바꾼 오진술.",
+    "2019-3-30:5": "ㄱ만 참이고 ㄴ·ㄷ 거짓이므로 모두 선택 불가."
+  },
+  "retrievalMethod": "Direct web find: nitrogen-cycle prose at 43–49 confirms nitrogen fixation to ammonia, ammonia oxidation via nitrite to nitrate, and nitrate reduction to nitrogen gas. Did not rely on erroneous chemical labels in image alt text. Independently checked nitrogen oxidation states.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

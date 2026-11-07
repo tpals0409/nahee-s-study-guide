@@ -1,0 +1,16 @@
+{
+  "id": "f6bdd69ea8dae57860cf",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e 7.4 Oxidative Phosphorylation",
+  "url": "https://openstax.org/books/biology-2e/pages/7-4-oxidative-phosphorylation",
+  "excerpt": "with the remainder being released as heat.",
+  "sourceHash": "b0fda2cdac4938d2f6551e60764e698c137749a208e1f11fdedbb4383ccdc332",
+  "cacheSourceId": "4c05c578361fdb5104fe",
+  "retrievedAt": "2026-11-06T19:39:26.355249+00:00",
+  "reviewedMappings": {
+    "2015-3-22:5": "ATP 수율 절의 에너지 보존과 열 방출 설명을 확인했다. 초안의 표준 자유에너지 비를 생체 효율로 단정하는 수치 계산은 제거했다."
+  },
+  "retrievalMethod": "Direct web page and relevant paragraphs read; selected short excerpt transcribed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

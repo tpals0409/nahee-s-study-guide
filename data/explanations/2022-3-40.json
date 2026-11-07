@@ -1,0 +1,85 @@
+{
+  "id": "2022-3-40",
+  "summary": "정답은 ⑤, 남동쪽·E입니다. 태양빛이 왼쪽에서 오므로 A는 삭입니다. 공전 화살표를 따라 하현을 지나 다음 삭에 접근하는 E가 그믐달입니다. 그믐달은 해 뜨기 전 동쪽 하늘에서 관측하는 달이며, 문제의 단순화한 일주운동 모형에서 새벽 5시경 방향은 남동쪽으로 판단합니다.",
+  "choices": [
+    "① 오답입니다. A는 태양과 같은 방향에 있는 삭의 위치입니다. 지구를 향한 면에서 햇빛을 받는 부분이 거의 보이지 않으므로 그믐달에 해당하지 않습니다.",
+    "② 오답입니다. B는 삭을 지난 뒤 상현으로 향하는 초승달 위치입니다. 하현을 지나 삭으로 향하는 그믐달과 다릅니다.",
+    "③ 오답입니다. C는 상현과 보름 사이의 차오르는 달입니다. 지구에서 보이는 밝은 부분이 절반보다 많으므로 가늘게 보이는 그믐달이 아닙니다.",
+    "④ 오답입니다. D는 보름과 하현 사이의 기우는 달입니다. 아직 밝은 부분이 절반보다 많으므로 그믐달이 아닙니다.",
+    "⑤ 정답입니다. E는 하현과 삭 사이의 그믐달입니다. 태양보다 서쪽에 있어 해가 뜨기 전에 관측되며, 보기의 남동쪽·E 조합이 문제의 모형에 맞습니다. 실제 방위각과 출몰 시각은 날짜와 달의 적위 등에 따라 달라지므로, 모든 그믐달이 새벽 5시에 정확히 같은 방향에 있는 것은 아닙니다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "NASA Science",
+      "ref": "Moon Phases",
+      "quote": "The waning crescent Moon rises in the very early morning, before sunrise",
+      "url": "https://science.nasa.gov/moon/moon-phases/",
+      "evidenceId": "b6e869e7bf297cc7ebe3",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "NASA Science",
+      "ref": "Moon Phases",
+      "quote": "The waning crescent Moon rises in the very early morning, before sunrise",
+      "url": "https://science.nasa.gov/moon/moon-phases/",
+      "evidenceId": "b6e869e7bf297cc7ebe3",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "NASA Science",
+      "ref": "Moon Phases",
+      "quote": "The waning crescent Moon rises in the very early morning, before sunrise",
+      "url": "https://science.nasa.gov/moon/moon-phases/",
+      "evidenceId": "b6e869e7bf297cc7ebe3",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "NASA Science",
+      "ref": "Moon Phases",
+      "quote": "The waning crescent Moon rises in the very early morning, before sunrise",
+      "url": "https://science.nasa.gov/moon/moon-phases/",
+      "evidenceId": "b6e869e7bf297cc7ebe3",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "NASA Science",
+      "ref": "Moon Phases",
+      "quote": "The waning crescent Moon rises in the very early morning, before sunrise",
+      "url": "https://science.nasa.gov/moon/moon-phases/",
+      "evidenceId": "b6e869e7bf297cc7ebe3",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "NASA Science",
+      "ref": "Moon Phases",
+      "quote": "The waning crescent Moon rises in the very early morning, before sunrise",
+      "url": "https://science.nasa.gov/moon/moon-phases/",
+      "evidenceId": "b6e869e7bf297cc7ebe3",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Original orbital diagram and arrows independently checked against direct NASA phase order and approximate visibility guidance. Removed universal 3-hour moonrise offset, assumed 06:00 sunrise, and absolute direction claims; southeast scoped to exam schematic.",
+    "contentHash": "30323c54f5854a140f4cbb244fed14c034433f431fa11d82ef86ab7e234c6c0c"
+  }
+}

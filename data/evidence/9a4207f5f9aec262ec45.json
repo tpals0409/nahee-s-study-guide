@@ -1,0 +1,27 @@
+{
+  "id": "9a4207f5f9aec262ec45",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics 2 §13.3 Motional Emf",
+  "url": "https://openstax.org/books/university-physics-volume-2/pages/13-3-motional-emf",
+  "excerpt": "The current induced in the circuit is the emf divided by the resistance",
+  "sourceHash": "0493c192597a18ec59fff3a5efb515b5933c7fb235654ef06d61ae5e5f8db739",
+  "cacheSourceId": "6b6d12c1c9629b9ed11b",
+  "retrievedAt": "2026-11-07T01:33:06.507011+00:00",
+  "reviewedMappings": {
+    "2015-3-04:0": "Source gives emf=Blv, I=Blv/R, magnetic force IlB, and Joule power. Original diagram gives perpendicular B, increasing loop area and opposing magnetic force. Independently integrate m dv/dt=−B²l²v/R to obtain decay constant ln(3)/(3 s); each option checked by substitution. R treated as circuit resistance in the ideal circuit model; neglect self-inductance and rail/rod resistance, not claimed explicitly stated in original.",
+    "2015-3-04:1": "Source gives emf=Blv, I=Blv/R, magnetic force IlB, and Joule power. Original diagram gives perpendicular B, increasing loop area and opposing magnetic force. Independently integrate m dv/dt=−B²l²v/R to obtain decay constant ln(3)/(3 s); each option checked by substitution. R treated as circuit resistance in the ideal circuit model; neglect self-inductance and rail/rod resistance, not claimed explicitly stated in original.",
+    "2015-3-04:2": "Source gives emf=Blv, I=Blv/R, magnetic force IlB, and Joule power. Original diagram gives perpendicular B, increasing loop area and opposing magnetic force. Independently integrate m dv/dt=−B²l²v/R to obtain decay constant ln(3)/(3 s); each option checked by substitution. R treated as circuit resistance in the ideal circuit model; neglect self-inductance and rail/rod resistance, not claimed explicitly stated in original.",
+    "2015-3-04:3": "Source gives emf=Blv, I=Blv/R, magnetic force IlB, and Joule power. Original diagram gives perpendicular B, increasing loop area and opposing magnetic force. Independently integrate m dv/dt=−B²l²v/R to obtain decay constant ln(3)/(3 s); each option checked by substitution. R treated as circuit resistance in the ideal circuit model; neglect self-inductance and rail/rod resistance, not claimed explicitly stated in original.",
+    "2015-3-04:4": "Source gives emf=Blv, I=Blv/R, magnetic force IlB, and Joule power. Original diagram gives perpendicular B, increasing loop area and opposing magnetic force. Independently integrate m dv/dt=−B²l²v/R to obtain decay constant ln(3)/(3 s); each option checked by substitution. R treated as circuit resistance in the ideal circuit model; neglect self-inductance and rail/rod resistance, not claimed explicitly stated in original.",
+    "2015-3-04:5": "Source gives emf=Blv, I=Blv/R, magnetic force IlB, and Joule power. Original diagram gives perpendicular B, increasing loop area and opposing magnetic force. Independently integrate m dv/dt=−B²l²v/R to obtain decay constant ln(3)/(3 s); each option checked by substitution. R treated as circuit resistance in the ideal circuit model; neglect self-inductance and rail/rod resistance, not claimed explicitly stated in original.",
+    "2023-3-07:0": "자체 유도 과도현상을 생략하는 문제의 일정 전류 모형에서 I=ε/R. v=L/Δt 대입. 두 세로 변 운동기전력 합2BLv로 독립검산.",
+    "2023-3-07:1": "자체 유도 과도현상을 생략하는 문제의 일정 전류 모형에서 I=ε/R. v=L/Δt 대입. 두 세로 변 운동기전력 합2BLv로 독립검산.",
+    "2023-3-07:2": "자체 유도 과도현상을 생략하는 문제의 일정 전류 모형에서 I=ε/R. v=L/Δt 대입. 두 세로 변 운동기전력 합2BLv로 독립검산.",
+    "2023-3-07:3": "자체 유도 과도현상을 생략하는 문제의 일정 전류 모형에서 I=ε/R. v=L/Δt 대입. 두 세로 변 운동기전력 합2BLv로 독립검산.",
+    "2023-3-07:4": "자체 유도 과도현상을 생략하는 문제의 일정 전류 모형에서 I=ε/R. v=L/Δt 대입. 두 세로 변 운동기전력 합2BLv로 독립검산.",
+    "2023-3-07:5": "자체 유도 과도현상을 생략하는 문제의 일정 전류 모형에서 I=ε/R. v=L/Δt 대입. 두 세로 변 운동기전력 합2BLv로 독립검산."
+  },
+  "retrievalMethod": "Direct chapter open; motional emf and resistive current relation, equations 13.5 and following I=Blv/R.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

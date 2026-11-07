@@ -1,0 +1,74 @@
+{
+  "summary": "공식 정답은 ②(ㄴ·ㄷ)입니다. ㄱ은 흡기 때 횡격막이 수축한다는 점, ㄹ은 폐정맥의 혈액이 좌심방으로 간다는 점에서 틀립니다. ㄷ의 장소 설명에는 아래와 같은 보충이 필요합니다.",
+  "choices": [
+    "ㄴ은 맞지만 ㄱ이 틀립니다. 숨을 들이쉴 때 횡격막은 이완하지 않고 수축합니다.",
+    "공식 정답입니다. ㄴ의 기체 교환은 각 기체의 분압차에 따른 확산입니다. ㄷ에서 미토콘드리아는 세포 호흡의 주요 ATP 생성 장소이나, 모든 단계가 이곳에서 진행되는 것은 아닙니다.",
+    "ㄹ이 틀립니다. 폐에서 기체 교환을 마친 혈액은 폐정맥을 통해 좌심방으로 들어갑니다.",
+    "ㄱ이 포함되어 틀립니다. 흡기 시 횡격막의 수축을 이완으로 바꿔 썼습니다.",
+    "ㄹ이 포함되어 틀립니다. 폐에서 돌아온 혈액의 도착지는 우심방이 아니라 좌심방입니다."
+  ],
+  "lawNote": "ㄷ은 세포 호흡의 장소를 단순화한 표현입니다. 해당과정은 세포질에서 일어나므로, 공식 정답에 포함된 진술을 “세포 호흡의 모든 과정은 미토콘드리아에서 일어난다”로 암기하면 안 됩니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Anatomy and Physiology 22.3 The Process of Breathing",
+      "quote": "stimulating the diaphragm and intercostal muscles to contract, resulting in inspiration.",
+      "url": "https://openstax.org/books/anatomy-and-physiology/pages/22-3-the-process-of-breathing",
+      "evidenceId": "034bf0b2d70af39ddd7e",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Anatomy and Physiology 2e 22.4 Gas Exchange",
+      "quote": "External respiration occurs as a function of partial pressure differences",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/22-4-gas-exchange",
+      "evidenceId": "81792893df39d8d3d7a8",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Anatomy and Physiology 19.1 Heart Anatomy",
+      "quote": "The pulmonary veins conduct blood into the left atrium",
+      "url": "https://openstax.org/books/anatomy-and-physiology/pages/19-1-heart-anatomy",
+      "evidenceId": "cfce11a936da8bf89950",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e 7.2 Glycolysis",
+      "quote": "Glycolysis takes place in the cytoplasm of both prokaryotic and eukaryotic cells.",
+      "url": "https://openstax.org/books/biology-2e/pages/7-2-glycolysis",
+      "evidenceId": "6d3090cbe0e0d8e4c3f5",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e 7.1 Energy in Living Systems",
+      "quote": "chemiosmosis, which takes place in mitochondria",
+      "url": "https://openstax.org/books/biology-2e/pages/7-1-energy-in-living-systems",
+      "evidenceId": "6e9ae06530b4dda06cc8",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "원문정답 PDF 5페이지 A형22번② 시각 확인. 교재 검색반환 내용에서 흡기·분압·폐정맥 경로·해당과정 장소 및 미토콘드리아 역할 대조. 공식 채점결과와 ㄷ의 과학적 제한을 구분해 작성.",
+    "contentHash": "171a11738736dc8fd9185498725a50ad12fa2f8641d18cf2b3b2594774903105"
+  }
+}

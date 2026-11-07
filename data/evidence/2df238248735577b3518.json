@@ -1,0 +1,16 @@
+{
+  "id": "2df238248735577b3518",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "OpenStax University Physics Volume 2 §9.5 Electrical Energy and Power",
+  "url": "https://openstax.org/books/university-physics-volume-2/pages/9-5-electrical-energy-and-power",
+  "excerpt": "The power dissipated by a resistor has the form",
+  "sourceHash": "ead43d4705cc6719e0ba96ffbd190550dac78c826c7b02162eb1f259c250344a",
+  "cacheSourceId": "77d6fd6275146e1e546b",
+  "retrievedAt": "2026-11-06T17:50:51.334946+00:00",
+  "reviewedMappings": {
+    "2013-3-05:0": "§9.5 식9.13 P=I²R=V²/R 및 전력의 에너지 전달률 정의를 직접 확인. 3Ω,5초이므로 E=5V²/3. V=6에서60J; 선택지3,9,12V에서는 각각15,135,240J. ②는 전압과 에너지끼리도 불일치."
+  },
+  "retrievalMethod": "web.open; section text and equations directly reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

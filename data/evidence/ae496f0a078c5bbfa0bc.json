@@ -1,0 +1,20 @@
+{
+  "id": "ae496f0a078c5bbfa0bc",
+  "kind": "reference",
+  "source": "NOAA JetStream",
+  "ref": "How Clouds Form",
+  "url": "https://www.noaa.gov/jetstream/clouds/how-clouds-form",
+  "excerpt": "Once the parcel reaches saturation temperature (100% relative humidity)",
+  "sourceHash": "0ffa8a0859465fc636661023b399e626ea8d06e6a68b96faa7edce7442e84357",
+  "cacheSourceId": "b8a22c3e83193c9a0a90",
+  "retrievedAt": "2026-11-07T06:20:26.803764+00:00",
+  "reviewedMappings": {
+    "2011-3-40:0": "본문 47–56행 직접 확인. 상승·팽창·냉각 및 포화 이후 응결 조건을 뒷받침한다. 각 상승 기작 자체를 증명하는 인용은 아니다.",
+    "2011-3-40:1": "본문 47–56행 직접 확인. 상승·팽창·냉각 및 포화 이후 응결 조건을 뒷받침한다. 각 상승 기작 자체를 증명하는 인용은 아니다.",
+    "2011-3-40:2": "본문 47–56행 직접 확인. 상승·팽창·냉각 및 포화 이후 응결 조건을 뒷받침한다. 각 상승 기작 자체를 증명하는 인용은 아니다.",
+    "2011-3-40:4": "본문 47–56행 직접 확인. 상승·팽창·냉각 및 포화 이후 응결 조건을 뒷받침한다. 각 상승 기작 자체를 증명하는 인용은 아니다.",
+    "2011-3-40:5": "본문 47–56행 직접 확인. 상승·팽창·냉각 및 포화 이후 응결 조건을 뒷받침한다. 각 상승 기작 자체를 증명하는 인용은 아니다."
+  },
+  "retrievalMethod": "web.open direct body review",
+  "sourceHashScope": "reviewed short excerpt only"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "0019fc415b05f2aedc2d",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "OpenStax University Physics Volume 3 §7.4 The Quantum Particle in a Box",
+  "url": "https://openstax.org/books/university-physics-volume-3/pages/7-4-the-quantum-particle-in-a-box",
+  "excerpt": "We impose the normalization condition",
+  "sourceHash": "ab56cbb60b1191a545aa6ad0af53f5917772503c4dd7ffa48c0e416f47ecfed0",
+  "cacheSourceId": "5a445bbd848ba05c055d",
+  "retrievedAt": "2026-11-06T17:54:07.656115+00:00",
+  "reviewedMappings": {
+    "2013-3-09:0": "원본 폭L→L/2와 진폭 선지 확인. §7.4 규격화 적분 Bn² L/2=1 및 식7.43 직접 대조. 새 진폭A′² L/4=1, A²=2/L이므로 (A′/A)²=2. 각 선지 진폭제곱비1,4,1/4,1/2,2에 대해 새 총확률1/2,2,1/8,1/4,1 검산. 고유상태 규격화 진폭 비교이며 같은 좌표의 확률밀도가 일률적으로2배라는 초안 표현은 제거."
+  },
+  "retrievalMethod": "web.open; normalization integral and equation 7.43 directly reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "b94a811ea93cc7403ca3",
+  "kind": "science",
+  "source": "UCLA",
+  "ref": "Chem 20BH lecture recap, p.45: Chelation – Entropy Effect",
+  "url": "https://nano.ucla.edu/wp-content/uploads/2019/03/Chem20Bh19Recap.pdf",
+  "excerpt": "Entropically favored over comparable monodentate ligands",
+  "sourceHash": "775e2cd91c47fc6e9bd26cdb749f3bbac908a302593fca0fe4f865323c1d29d3",
+  "cacheSourceId": "0490c98d69f2c056dd0f",
+  "retrievedAt": "2026-11-06T21:10:35.482531+00:00",
+  "reviewedMappings": {
+    "2017-3-17:0": "부분 검증: p.45의 Ni 암민 및 en 착물 생성상수 4×10^8와 2×10^18은 ㄱ 지지. Cd의 양의 생성 엔트로피 예시를 Ni에 전용하지 않음."
+  },
+  "retrievalMethod": "Direct browser review of source text and figure descriptions",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

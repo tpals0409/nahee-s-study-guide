@@ -1,0 +1,21 @@
+{
+  "id": "8df66dc1642d18af47b7",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "1.4 Heat Transfer, Specific Heat, and Calorimetry",
+  "url": "https://openstax.org/books/university-physics-volume-2/pages/1-4-heat-transfer-specific-heat-and-calorimetry",
+  "excerpt": "A practical approximation for the relationship between heat transfer and temperature change is:",
+  "sourceHash": "46175d4ed01d62e9533a8931e2da7af0a7510dd3c46d84c375c4cfb312649665",
+  "cacheSourceId": "ea22cc38a50c617c1d44",
+  "retrievedAt": "2026-11-06T20:54:17.731795+00:00",
+  "reviewedMappings": {
+    "2017-3-02:0": "본문 54–67행 Q=mcΔT 및 일정 부피 비열 관련 표 주석 확인. 이 문항의 지정 비열 4000, 질량 1, 온도차 50으로 필요 열량 200000 J. 각 저항의 전기에너지를 나누어 최종 온도를 독립 계산하였다.",
+    "2017-3-02:1": "본문 54–67행 Q=mcΔT 및 일정 부피 비열 관련 표 주석 확인. 이 문항의 지정 비열 4000, 질량 1, 온도차 50으로 필요 열량 200000 J. 각 저항의 전기에너지를 나누어 최종 온도를 독립 계산하였다.",
+    "2017-3-02:2": "본문 54–67행 Q=mcΔT 및 일정 부피 비열 관련 표 주석 확인. 이 문항의 지정 비열 4000, 질량 1, 온도차 50으로 필요 열량 200000 J. 각 저항의 전기에너지를 나누어 최종 온도를 독립 계산하였다.",
+    "2017-3-02:3": "본문 54–67행 Q=mcΔT 및 일정 부피 비열 관련 표 주석 확인. 이 문항의 지정 비열 4000, 질량 1, 온도차 50으로 필요 열량 200000 J. 각 저항의 전기에너지를 나누어 최종 온도를 독립 계산하였다.",
+    "2017-3-02:4": "본문 54–67행 Q=mcΔT 및 일정 부피 비열 관련 표 주석 확인. 이 문항의 지정 비열 4000, 질량 1, 온도차 50으로 필요 열량 200000 J. 각 저항의 전기에너지를 나누어 최종 온도를 독립 계산하였다.",
+    "2017-3-02:5": "본문 54–67행 Q=mcΔT 및 일정 부피 비열 관련 표 주석 확인. 이 문항의 지정 비열 4000, 질량 1, 온도차 50으로 필요 열량 200000 J. 각 저항의 전기에너지를 나누어 최종 온도를 독립 계산하였다."
+  },
+  "retrievalMethod": "Direct web page opened; relevant formulas and assumptions reviewed.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

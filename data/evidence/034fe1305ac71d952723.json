@@ -1,0 +1,21 @@
+{
+  "id": "034fe1305ac71d952723",
+  "kind": "science",
+  "source": "PMC / Molecular cloning using polymerase chain reaction",
+  "ref": "Molecular cloning using polymerase chain reaction, an educational guide for cellular engineering",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4350901/",
+  "excerpt": "The end of the coding strand is to be converted into the reverse complement format for the reverse primer design.",
+  "sourceHash": "650893c0b7067edaed4dc18f04af6bb662554dd92aed3508e82bd5b4eee593a4",
+  "cacheSourceId": "bf3d291f76029d552e3f",
+  "retrievedAt": "2026-11-07T01:11:38.493522+00:00",
+  "reviewedMappings": {
+    "2022-3-27:0": "Independent sequence calculation: first18(left)=ATGTTCGAGAGGCTGGCT, reverseComplement(last18(right))=TTAATCCAATTCCGATAA. Only option1 gives inward pair.",
+    "2022-3-27:1": "Both primers correct by exact string and reverse-complement checks.",
+    "2022-3-27:2": "Forward correct; GGAAATAGCCTTAACCTA is direct complement, not reverse complement, of displayed right segment.",
+    "2022-3-27:3": "Second primer equals displayed-strand right segment; binds opposite strand in same extension direction as forward.",
+    "2022-3-27:4": "Both direct-complement choices have wrong orientation at designated flanks.",
+    "2022-3-27:5": "Forward direct complement incorrect; second same-strand right segment does not provide inward reverse primer."
+  },
+  "retrievalMethod": "Indexed PMC article search result; direct page returned browser verification, not full text. Primer rule independently applied to original image sequences.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

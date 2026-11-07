@@ -1,0 +1,21 @@
+{
+  "id": "8de94b7ed0f57e22e9e2",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume 2, 10.1 Electromotive Force",
+  "url": "https://openstax.org/books/university-physics-volume-2/pages/10-1-electromotive-force",
+  "excerpt": "The current through the load resistor is",
+  "sourceHash": "1a3a2a5667f45b87e9de8bdcb84c79e64dff9edcd77e67aaa79c682e6537ffb5",
+  "cacheSourceId": "737729660d82865d10bb",
+  "retrievedAt": "2026-11-06T23:50:23.260704+00:00",
+  "reviewedMappings": {
+    "2021-3-03:0": "Source supports circuit current and resistor power; independent differentiation proves maximum at equivalent load R=4. Summary and unique solution Rprime=20.",
+    "2021-3-03:1": "Source supports circuit current and resistor power; independent differentiation proves maximum at equivalent load R=4. Option 1, Rprime=1 ohms independently checked.",
+    "2021-3-03:2": "Source supports circuit current and resistor power; independent differentiation proves maximum at equivalent load R=4. Option 2, Rprime=4 ohms independently checked.",
+    "2021-3-03:3": "Source supports circuit current and resistor power; independent differentiation proves maximum at equivalent load R=4. Option 3, Rprime=5 ohms independently checked.",
+    "2021-3-03:4": "Source supports circuit current and resistor power; independent differentiation proves maximum at equivalent load R=4. Option 4, Rprime=9 ohms independently checked.",
+    "2021-3-03:5": "Source supports circuit current and resistor power; independent differentiation proves maximum at equivalent load R=4. Option 5, Rprime=20 ohms independently checked."
+  },
+  "retrievalMethod": "Original examination image reviewed: dashed load encloses BOTH 5-ohm and variable parallel resistors. Direct OpenStax 10.1 lines 70–74 and 99–101 reviewed for I=epsilon/(r+R), P=I²R; 10.2 lines 92–97 for parallel equivalent resistance. Independently differentiated P: dP/dR=epsilon²(r-R)/(r+R)^3. Positive Rprime yields 0<R<5; R=4 attainable uniquely at Rprime=20. Exact rational checks of all choices performed.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "b1cfec8b32d3c24fffeb",
+  "kind": "science",
+  "source": "USGS",
+  "ref": "The Science of Earthquakes",
+  "url": "https://www.usgs.gov/programs/earthquake-hazards/science-earthquakes",
+  "excerpt": "P waves are also faster than S waves",
+  "sourceHash": "d81a495141e9366622d390a9f92537cc14fc9a56297e17d4684bf4401814e8bd",
+  "cacheSourceId": "5a106917c2ade8bc1ad6",
+  "retrievedAt": "2026-11-07T03:30:05.367040+00:00",
+  "reviewedMappings": {
+    "2009-3-40:0": "USGS Science of Earthquakes의 P>S파속도와지역별진도차이 확인. NOAA Plate Tectonics 원문128–140에서 섭입대최대지진, 발산경계상대적으로약함, 변환경계도큰지진가능 확인. ㄱ참ㄴㄷ거짓. 지각속도수치·규모8~9절대경계삭제.",
+    "2025-3-31:0": "진원·진앙 정의와 저장 에너지 방출, P/S 도달 시차가 거리와 함께 커지는 설명을 확인. ③ 정의 및 ⑤ 감소 주장을 반박.",
+    "2025-3-31:1": "진원·진앙 정의와 저장 에너지 방출, P/S 도달 시차가 거리와 함께 커지는 설명을 확인. ③ 정의 및 ⑤ 감소 주장을 반박.",
+    "2025-3-31:3": "진원·진앙 정의와 저장 에너지 방출, P/S 도달 시차가 거리와 함께 커지는 설명을 확인. ③ 정의 및 ⑤ 감소 주장을 반박.",
+    "2025-3-31:5": "진원·진앙 정의와 저장 에너지 방출, P/S 도달 시차가 거리와 함께 커지는 설명을 확인. ③ 정의 및 ⑤ 감소 주장을 반박."
+  },
+  "retrievalMethod": "Direct article and indexed location section read",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ba944665d5056026b951",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume 3 6.3 The Compton Effect",
+  "url": "https://openstax.org/books/university-physics-volume-3/pages/6-3-the-compton-effect",
+  "excerpt": "the conservation of total relativistic energy.",
+  "sourceHash": "ab2dac3200d91d2b2929145c57962d40c47f36ffcfa9051540e199e51182d075",
+  "cacheSourceId": "49f0c6bbef6ebfa1b813",
+  "retrievedAt": "2026-11-07T04:44:29.852124+00:00",
+  "reviewedMappings": {
+    "2016-3-09:0": "광자 E=hc/λ 및 상대론적 보존식에서 K=입사−산란 광자 에너지를 도출.",
+    "2016-3-09:1": "정지 전자의 초기 K=0; 계수1−1/2=1/2 독립 계산.",
+    "2016-3-09:2": "1/√2>1/2라서 광자 에너지 감소분보다 커 운동에너지 후보로 불일치.",
+    "2016-3-09:3": "산란 광자에 절반이 남으므로 입사 에너지 전부를 전자 K로 할당할 수 없음.",
+    "2016-3-09:4": "√2>1이므로 처음 정지한 전자에게 전달되는 K로 불가능. 전체 전자 에너지에는 이 비교 적용하지 않음.",
+    "2016-3-09:5": "계수2는 실제 K계수1/2의4배. 전체 전자 에너지에는 정지에너지도 포함됨."
+  },
+  "retrievalMethod": "Direct web open",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

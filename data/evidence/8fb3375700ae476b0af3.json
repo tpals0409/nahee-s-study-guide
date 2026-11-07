@@ -1,0 +1,18 @@
+{
+  "id": "8fb3375700ae476b0af3",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Astronomy 2e 17.2 Colors of Stars",
+  "url": "https://openstax.org/books/astronomy-2e/pages/17-2-colors-of-stars",
+  "excerpt": "apart from the effects of reddening by interstellar dust",
+  "sourceHash": "e79761cd25b52a5ee0d021a7850fa65e6d09c8639fffd94b369a5cbb88b3f67f",
+  "cacheSourceId": "4d3be5480815cc56cc5c",
+  "retrievedAt": "2026-11-07T06:06:20.103620+00:00",
+  "reviewedMappings": {
+    "2011-3-36:2": "Color-temperature comparison assumes intrinsic color or reddening correction; source also gives B-V values at different temperatures. It is not T proportional to 1/(B-V).",
+    "2011-3-36:3": "Color-temperature comparison assumes intrinsic color or reddening correction; source also gives B-V values at different temperatures. It is not T proportional to 1/(B-V).",
+    "2011-3-36:5": "Color-temperature comparison assumes intrinsic color or reddening correction; source also gives B-V values at different temperatures. It is not T proportional to 1/(B-V)."
+  },
+  "retrievalMethod": "web direct text",
+  "sourceHashScope": "Short reviewed excerpt only"
+}

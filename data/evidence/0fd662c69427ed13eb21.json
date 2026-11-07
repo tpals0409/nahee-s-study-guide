@@ -1,0 +1,16 @@
+{
+  "id": "0fd662c69427ed13eb21",
+  "kind": "science",
+  "source": "Addgene",
+  "ref": "Molecular Biology Reference — Plasmid Elements",
+  "url": "https://www.addgene.org/mol-bio-reference/",
+  "excerpt": "Drives transcription of the insert.",
+  "sourceHash": "d58c595b372f36fe7a6fff461f8d5745717bdfadd0734183cf7c6729354bb443",
+  "cacheSourceId": "80fc363ec7762647ec49",
+  "retrievedAt": "2026-11-06T15:48:32.568664+00:00",
+  "reviewedMappings": {
+    "2010-3-26:2": "프로모터가 삽입 유전자의 전사를 유도하며 숙주에 맞아야 한다는 표 설명과 대조."
+  },
+  "retrievalMethod": "web.open and web.find; Plasmid Elements table and Expression Plasmids row read",
+  "sourceHashScope": "Two selected excerpts only; hash does not represent full page"
+}

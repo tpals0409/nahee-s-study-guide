@@ -1,0 +1,14 @@
+{
+  "id": "666fa4c6ef7dee356036",
+  "kind": "science",
+  "source": "OpenStax · University Physics Volume 2",
+  "ref": "13.2 Lenz’s Law",
+  "url": "https://openstax.org/books/university-physics-volume-2/pages/13-2-lenzs-law",
+  "excerpt": "The direction of the induced emf drives current around a wire loop to always oppose the change in magnetic flux that causes the emf.",
+  "sourceHash": "1c8a79222cac484c0699a558584e8b9bb5a57224d456b4be7efcc576176758bc",
+  "cacheSourceId": "da09042fff311e3a8940",
+  "retrievedAt": "2026-11-06T15:26:10.649128+00:00",
+  "reviewedMappings": {
+    "2010-3-03:0": "원본 그림의 5개 그래프 직접 판독. B는 지면 안쪽, 운동은 오른쪽. 진입 시 반시계 전류로 앞변에 왼쪽 힘, 이탈 시 시계 전류로 뒷변에 왼쪽 힘. 완전 내부·외부에서 외부 선속 일정. 자체유도 과도효과를 무시한 기초 모형임을 명시하고 감속량·감속 곡선 정량 주장은 삭제. 일정-감소-일정-감소-일정에 맞는 ① 확인."
+  }
+}

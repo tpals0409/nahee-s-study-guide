@@ -1,0 +1,21 @@
+{
+  "id": "5a3baca0a04e12809f98",
+  "kind": "science",
+  "source": "OpenStax University Physics Volume 2",
+  "ref": "8.2 Capacitors in Series and in Parallel",
+  "url": "https://openstax.org/books/university-physics-volume-2/pages/8-2-capacitors-in-series-and-in-parallel",
+  "excerpt": "These potentials must sum up to the voltage of the battery",
+  "sourceHash": "c750b12d1a7068463f28b1780cc16952da4f9098f1f93a73dd8255270bc3a7ff",
+  "cacheSourceId": "03e7dfe8043f8b56ec3f",
+  "retrievedAt": "2026-11-07T01:31:27.909910+00:00",
+  "reviewedMappings": {
+    "2023-3-05:0": "각 축전기 V=Q/C와 전압 합을 적용. 내부 노드 초기 순전하가0인 통상 예제의 동일전하 결론은 이 문항에 일반화하지 않음.",
+    "2023-3-05:1": "각 축전기 V=Q/C와 전압 합을 적용. 내부 노드 초기 순전하가0인 통상 예제의 동일전하 결론은 이 문항에 일반화하지 않음.",
+    "2023-3-05:2": "각 축전기 V=Q/C와 전압 합을 적용. 내부 노드 초기 순전하가0인 통상 예제의 동일전하 결론은 이 문항에 일반화하지 않음.",
+    "2023-3-05:3": "각 축전기 V=Q/C와 전압 합을 적용. 내부 노드 초기 순전하가0인 통상 예제의 동일전하 결론은 이 문항에 일반화하지 않음.",
+    "2023-3-05:4": "각 축전기 V=Q/C와 전압 합을 적용. 내부 노드 초기 순전하가0인 통상 예제의 동일전하 결론은 이 문항에 일반화하지 않음.",
+    "2023-3-05:5": "각 축전기 V=Q/C와 전압 합을 적용. 내부 노드 초기 순전하가0인 통상 예제의 동일전하 결론은 이 문항에 일반화하지 않음."
+  },
+  "retrievalMethod": "Direct chapter open; individual V=Q/C and series potential sum. Equal-charge special case not applied to a precharged nonneutral interior node.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

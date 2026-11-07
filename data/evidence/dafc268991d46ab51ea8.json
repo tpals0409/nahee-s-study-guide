@@ -1,0 +1,16 @@
+{
+  "id": "dafc268991d46ab51ea8",
+  "kind": "science",
+  "source": "NHGRI",
+  "ref": "Restriction Enzyme",
+  "url": "https://www.genome.gov/genetics-glossary/Restriction-Enzyme",
+  "excerpt": "A restriction enzyme is a protein isolated from bacteria that cleaves DNA sequences at sequence-specific sites",
+  "sourceHash": "e77e32f8ceb9980b4bded4faa952c42dc4125223d2fe6c747926fdeb68b3de5e",
+  "cacheSourceId": "8329b7d4a73b9e297075",
+  "retrievedAt": "2026-11-06T18:51:38.533493+00:00",
+  "reviewedMappings": {
+    "2014-3-21:3": "공식 용어 정의에서 서열 특이적 절단 및 실험 용도 확인. 인간 복제 효소 목록과 대조. 모든 제한효소가 회문만 인식한다는 초안 일반화 삭제."
+  },
+  "retrievalMethod": "web.open",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

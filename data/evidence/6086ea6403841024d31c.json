@@ -1,0 +1,20 @@
+{
+  "id": "6086ea6403841024d31c",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e, 4.5 The Cytoskeleton",
+  "url": "https://openstax.org/books/biology-2e/pages/4-5-the-cytoskeleton",
+  "excerpt": "In animal cells, the centrosome is the microtubule-organizing center.",
+  "sourceHash": "d2674d7efd77c45b138b2fa179e60c0e11bfe336944fc929a11eeeaa77a2187c",
+  "cacheSourceId": "51779e484f2e6f9f6463",
+  "retrievedAt": "2026-11-07T00:12:25.308050+00:00",
+  "reviewedMappings": {
+    "2021-3-22:0": "원본의 중심체에서 뻗은 방추 섬유는 미세소관. 교재 lines54-56의 α/β 튜불린 이량체 및 중심체 기능으로 튜불린 정답.",
+    "2021-3-22:1": "lines37-39: 액틴은 미세섬유 구성 단백질로 미세소관의 튜불린과 다름.",
+    "2021-3-22:2": "lines54-56: 미세소관 벽은 α/β 튜불린 이량체 중합으로 형성. 문제의 단량체 보기에는 튜불린 선택.",
+    "2021-3-22:4": "line39: 미오신은 액틴을 따라 작용하는 운동 단백질. 미세소관 중합 단위가 아님. 모든 섬유의 구성성분이 아니라는 일반화는 하지 않음.",
+    "2021-3-22:5": "lines48-52: 케라틴은 중간섬유 구성 단백질. 방추 미세소관의 구성 단위가 아님."
+  },
+  "retrievalMethod": "Direct lines37-56 reviewed; original image arrow to spindle fibers checked.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

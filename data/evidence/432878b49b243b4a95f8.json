@@ -1,0 +1,21 @@
+{
+  "id": "432878b49b243b4a95f8",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e §19.2 — Genetic Drift, Bottleneck and Founder Effects",
+  "url": "https://openstax.org/books/biology-2e/pages/19-2-population-genetics",
+  "excerpt": "Natural events, such as an earthquake disaster that kills—at random—a large portion of the population, can magnify genetic drift.",
+  "sourceHash": "c6fd34fa524d6f3303fd310ec9697df2834b8c2dccb409c1025d3c25c9685e2d",
+  "cacheSourceId": "01237ce085e26f1b1baf",
+  "retrievedAt": "2026-11-06T21:59:39.276450+00:00",
+  "reviewedMappings": {
+    "2018-3-24:0": "본문 병목·창시자 효과 절 직접 검토. 병목은 소수 생존자가 기존 유전자풀을 대표하게 되고, 창시자 효과는 소수 정착자의 유전적 구성이 새 집단에 반영되는 부동 사례. ㄱㄴ 참 및 각 조합의 누락 판단. 모든 자연재해가 무조건 무작위 선택이라는 일반화는 사용하지 않음.",
+    "2018-3-24:1": "본문 병목·창시자 효과 절 직접 검토. 병목은 소수 생존자가 기존 유전자풀을 대표하게 되고, 창시자 효과는 소수 정착자의 유전적 구성이 새 집단에 반영되는 부동 사례. ㄱㄴ 참 및 각 조합의 누락 판단. 모든 자연재해가 무조건 무작위 선택이라는 일반화는 사용하지 않음.",
+    "2018-3-24:2": "본문 병목·창시자 효과 절 직접 검토. 병목은 소수 생존자가 기존 유전자풀을 대표하게 되고, 창시자 효과는 소수 정착자의 유전적 구성이 새 집단에 반영되는 부동 사례. ㄱㄴ 참 및 각 조합의 누락 판단. 모든 자연재해가 무조건 무작위 선택이라는 일반화는 사용하지 않음.",
+    "2018-3-24:3": "본문 병목·창시자 효과 절 직접 검토. 병목은 소수 생존자가 기존 유전자풀을 대표하게 되고, 창시자 효과는 소수 정착자의 유전적 구성이 새 집단에 반영되는 부동 사례. ㄱㄴ 참 및 각 조합의 누락 판단. 모든 자연재해가 무조건 무작위 선택이라는 일반화는 사용하지 않음.",
+    "2018-3-24:4": "본문 병목·창시자 효과 절 직접 검토. 병목은 소수 생존자가 기존 유전자풀을 대표하게 되고, 창시자 효과는 소수 정착자의 유전적 구성이 새 집단에 반영되는 부동 사례. ㄱㄴ 참 및 각 조합의 누락 판단. 모든 자연재해가 무조건 무작위 선택이라는 일반화는 사용하지 않음.",
+    "2018-3-24:5": "본문 병목·창시자 효과 절 직접 검토. 병목은 소수 생존자가 기존 유전자풀을 대표하게 되고, 창시자 효과는 소수 정착자의 유전적 구성이 새 집단에 반영되는 부동 사례. ㄱㄴ 참 및 각 조합의 누락 판단. 모든 자연재해가 무조건 무작위 선택이라는 일반화는 사용하지 않음."
+  },
+  "retrievalMethod": "Direct web open; relevant sections reviewed; selected verbatim excerpt retained",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

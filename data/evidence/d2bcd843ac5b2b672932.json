@@ -1,0 +1,19 @@
+{
+  "id": "d2bcd843ac5b2b672932",
+  "kind": "science",
+  "source": "Cell / PubMed",
+  "ref": "Hanna et al. (2008), Cell 133:250–264",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/18423197/",
+  "excerpt": "Our study provides definite proof for the direct nuclear reprogramming of terminally differentiated adult cells to pluripotency.",
+  "sourceHash": "8de9aeec1db2ca324ee23b16c3a6e3bbde91f6e224c2d570c91ee21eb3ca18d3",
+  "cacheSourceId": "3fe00711bdfbaa785a4d",
+  "retrievedAt": "2026-11-07T03:27:03.554665+00:00",
+  "reviewedMappings": {
+    "2025-3-28:0": "원저 초록: 성숙 B세포는 네 전사인자 외에 C/EBPalpha 발현 또는 Pax5 억제로 정체성을 조절하여 iPS 세포로 전환됨. 완전 분화 세포의 역프로그래밍 가능성을 직접 입증하여 ㄷ을 지지한다.",
+    "2025-3-28:1": "원저 초록: 성숙 B세포는 네 전사인자 외에 C/EBPalpha 발현 또는 Pax5 억제로 정체성을 조절하여 iPS 세포로 전환됨. 완전 분화 세포의 역프로그래밍 가능성을 직접 입증하여 ㄷ을 지지한다.",
+    "2025-3-28:4": "원저 초록: 성숙 B세포는 네 전사인자 외에 C/EBPalpha 발현 또는 Pax5 억제로 정체성을 조절하여 iPS 세포로 전환됨. 완전 분화 세포의 역프로그래밍 가능성을 직접 입증하여 ㄷ을 지지한다.",
+    "2025-3-28:5": "원저 초록: 성숙 B세포는 네 전사인자 외에 C/EBPalpha 발현 또는 Pax5 억제로 정체성을 조절하여 iPS 세포로 전환됨. 완전 분화 세포의 역프로그래밍 가능성을 직접 입증하여 ㄷ을 지지한다."
+  },
+  "retrievalMethod": "Direct PubMed abstract read",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

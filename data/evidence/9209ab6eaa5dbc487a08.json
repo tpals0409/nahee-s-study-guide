@@ -1,0 +1,18 @@
+{
+  "id": "9209ab6eaa5dbc487a08",
+  "kind": "science",
+  "source": "NASA",
+  "ref": "Differential Rotation of the Sun",
+  "url": "https://soho.nascom.nasa.gov/explore/lessons/diffrot9_12.html",
+  "excerpt": "The Sun rotates in the same direction as Earth.",
+  "sourceHash": "04f0979c06e26bb55b8638839dffba3f101a5690e908e6fe9ae0bbeb797b2eaa",
+  "cacheSourceId": "831ee3aee4917b203d5c",
+  "retrievedAt": "2026-11-06T22:13:45.131738+00:00",
+  "reviewedMappings": {
+    "2018-3-36:0": "각 출처의 핵융합·약11년 흑점주기·흑점 추적·자전방향·차등자전 자료를 종합하여 ②만 거짓. 기록된 관련 본문을 검토하여 해당 선지에 적용.",
+    "2018-3-36:4": "NASA SOHO가 태양과 지구의 자전 방향이 같음을 명시하므로 참. 기록된 관련 본문을 검토하여 해당 선지에 적용.",
+    "2018-3-36:5": "적도에서 자전 주기가 고위도보다 짧아 더 빠른 차등자전이므로 참. 기록된 관련 본문을 검토하여 해당 선지에 적용."
+  },
+  "retrievalMethod": "Direct page reviewed: Teacher Information lines 9–10, same spin direction and latitude-dependent rotation periods.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

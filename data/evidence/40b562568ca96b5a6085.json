@@ -1,0 +1,17 @@
+{
+  "id": "40b562568ca96b5a6085",
+  "kind": "science",
+  "source": "USGS",
+  "ref": "Plate tectonics in a nutshell",
+  "url": "https://volcanoes.usgs.gov/about/edu/dynamicplanet/nutshell.php",
+  "excerpt": "The colder the plate gets, the denser (“heavier”) it becomes.",
+  "sourceHash": "0173e6dad573c459eb32959095c3a48e222406b5eb94cdd1803c542e9b567d95",
+  "cacheSourceId": "45011a8a3b7ef1656c3e",
+  "retrievedAt": "2026-11-06T16:56:18.758087+00:00",
+  "reviewedMappings": {
+    "2011-3-39:3": "검색반환 본문8에서 해령에서 멀어지며 냉각·밀도 증가 확인; 본문 및 Tectonic tidbits의 새 지각 운반 내용은⑤도 지지.",
+    "2011-3-39:5": "USGS 검색반환 본문에서 새 지각이 해령에서 생성되어 판 이동으로 운반됨을 확인. 정상적인 해저 확장 상황의⑤ 참."
+  },
+  "retrievalMethod": "web.search 반환 본문/초록 확인. USGS·ScienceDirect 직접 open은403. 전체 페이지 취득 아님.",
+  "sourceHashScope": "Selected excerpt only; not full page"
+}

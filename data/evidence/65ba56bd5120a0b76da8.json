@@ -1,0 +1,19 @@
+{
+  "id": "65ba56bd5120a0b76da8",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e, 42.2 Adaptive Immune Response",
+  "url": "https://openstax.org/books/biology-2e/pages/42-2-adaptive-immune-response",
+  "excerpt": "Cytotoxic T cells kill infected cells.",
+  "sourceHash": "880b6cf455940072d3059a68da6c7bb158f6c539469756eb2d5ac30225eb11ea",
+  "cacheSourceId": "3d9cc3a4499d7296dbb7",
+  "retrievedAt": "2026-11-07T01:55:29.459724+00:00",
+  "reviewedMappings": {
+    "2023-3-24:0": "그림42.11 및 Cytotoxic T Lymphocytes 절: 감염세포 사멸이 CTL 기능이므로 ㄴ 참.",
+    "2023-3-24:1": "그림42.11 및 Cytotoxic T Lymphocytes 절: 감염세포 사멸이 CTL 기능이므로 ㄴ 참.",
+    "2023-3-24:3": "그림42.11 및 Cytotoxic T Lymphocytes 절: 감염세포 사멸이 CTL 기능이므로 ㄴ 참.",
+    "2023-3-24:4": "그림42.11 및 Cytotoxic T Lymphocytes 절: 감염세포 사멸이 CTL 기능이므로 ㄴ 참."
+  },
+  "retrievalMethod": "웹 도구로 원문 직접 열람. 검토 범위: 그림42.11 및 Cytotoxic T Lymphocytes 절: 감염세포 사멸이 CTL 기능이므로 ㄴ 참.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

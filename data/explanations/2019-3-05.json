@@ -1,0 +1,85 @@
+{
+  "id": "2019-3-05",
+  "summary": "위·아래 변의 힘은 서로 상쇄되고, 가까운 평행변의 인력에서 먼 평행변의 척력을 빼면 알짜 힘이 됩니다. C=μ₀I/(2π)라 두면 F_P=C I_P/2, F_Q=C I_Q/6입니다. 두 힘이 같으므로 I_P/I_Q=1/3, 정답은 ①입니다.",
+  "choices": [
+    "정답입니다. P는 C I_P·d(1/d−1/(2d))=C I_P/2, Q는 C I_Q·(d/2)(1/d−1/(3d/2))=C I_Q/6입니다. 따라서 I_P/2=I_Q/6입니다.",
+    "이 비를 넣으면 F_P/F_Q=3×(2/3)=2이므로 두 힘이 같지 않습니다.",
+    "전류가 같으면 F_P/F_Q=3입니다. 따라서 같은 힘을 받으려면 Q의 전류가 더 커야 합니다.",
+    "이 비를 넣으면 F_P/F_Q=3×(3/2)=9/2이므로 조건에 맞지 않습니다.",
+    "이 비를 넣으면 F_P/F_Q=9입니다. 3은 요구한 비의 역수인 I_Q/I_P의 값입니다."
+  ],
+  "lawNote": "I는 무한 직선도선의 공통 전류입니다. 가까운 변의 힘만 비교하지 말고 먼 변의 반대 방향 힘도 포함해야 합니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "12.3 Magnetic Force between Two Parallel Currents — University Physics Volume 2",
+      "quote": "A similar analysis shows that the force is repulsive between currents in opposite directions.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/12-3-magnetic-force-between-two-parallel-currents",
+      "evidenceId": "d0d5f7376a8d806b9f81",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "12.3 Magnetic Force between Two Parallel Currents — University Physics Volume 2",
+      "quote": "A similar analysis shows that the force is repulsive between currents in opposite directions.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/12-3-magnetic-force-between-two-parallel-currents",
+      "evidenceId": "d0d5f7376a8d806b9f81",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "12.3 Magnetic Force between Two Parallel Currents — University Physics Volume 2",
+      "quote": "A similar analysis shows that the force is repulsive between currents in opposite directions.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/12-3-magnetic-force-between-two-parallel-currents",
+      "evidenceId": "d0d5f7376a8d806b9f81",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "12.3 Magnetic Force between Two Parallel Currents — University Physics Volume 2",
+      "quote": "A similar analysis shows that the force is repulsive between currents in opposite directions.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/12-3-magnetic-force-between-two-parallel-currents",
+      "evidenceId": "d0d5f7376a8d806b9f81",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "12.3 Magnetic Force between Two Parallel Currents — University Physics Volume 2",
+      "quote": "A similar analysis shows that the force is repulsive between currents in opposite directions.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/12-3-magnetic-force-between-two-parallel-currents",
+      "evidenceId": "d0d5f7376a8d806b9f81",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "12.3 Magnetic Force between Two Parallel Currents — University Physics Volume 2",
+      "quote": "A similar analysis shows that the force is repulsive between currents in opposite directions.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/12-3-magnetic-force-between-two-parallel-currents",
+      "evidenceId": "d0d5f7376a8d806b9f81",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Original diagram geometry inspection; direct OpenStax wire-field and force equations; independent net-force derivation and exact fraction check",
+    "contentHash": "24060255aed651cc6069844f0ac6cd1abd19c19640aad2f54eabb13e00fdc97c"
+  }
+}

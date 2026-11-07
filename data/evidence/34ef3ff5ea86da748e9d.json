@@ -1,0 +1,18 @@
+{
+  "id": "34ef3ff5ea86da748e9d",
+  "kind": "science",
+  "source": "US EPA training manual",
+  "ref": "Visible Emission Evaluation Procedures, Fanning, printed p.4-9 (PDF p.53)",
+  "url": "https://www.epa.gov/sites/default/files/2020-08/documents/vecourse.pdf",
+  "excerpt": "Inverted or isothermal lapse rate—stable",
+  "sourceHash": "c4f3a641aaed26ce1972bd38ef4d6da9d1c7c0a78f432b128591ad80116904c2",
+  "cacheSourceId": "c5e30fab5173b360ef5b",
+  "retrievedAt": "2026-11-07T06:24:25.551683+00:00",
+  "reviewedMappings": {
+    "2011-3-34:0": "PDF p53 이미지에서 부채형 연기 조건으로 역전 또는 등온을 명시한 것을 직접 확인. ③ 역전층의 적합성과 ① 등온층을 배제할 수 없음을 뒷받침하며 공식 단독정답의 유일성을 입증하지 않는다.",
+    "2011-3-34:1": "PDF p53 이미지에서 부채형 연기 조건으로 역전 또는 등온을 명시한 것을 직접 확인. ③ 역전층의 적합성과 ① 등온층을 배제할 수 없음을 뒷받침하며 공식 단독정답의 유일성을 입증하지 않는다.",
+    "2011-3-34:3": "PDF p53 이미지에서 부채형 연기 조건으로 역전 또는 등온을 명시한 것을 직접 확인. ③ 역전층의 적합성과 ① 등온층을 배제할 수 없음을 뒷받침하며 공식 단독정답의 유일성을 입증하지 않는다."
+  },
+  "retrievalMethod": "Downloaded original PDF; pdftoppm page 53 rendered and directly viewed",
+  "sourceHashScope": "short excerpt transcribed from directly inspected page image"
+}

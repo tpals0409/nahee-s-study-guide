@@ -1,0 +1,21 @@
+{
+  "id": "f178976047b64afde8e0",
+  "kind": "science",
+  "source": "Thomas Jefferson University Computational Medicine Center",
+  "ref": "DNA and RNA — RNA interference; miRNA biogenesis and function",
+  "url": "https://cm.jefferson.edu/learn/dna-and-rna/",
+  "excerpt": "single-stranded",
+  "sourceHash": "8e2c07431479aae2e0cc7c91d8c4497400b060704c5b6080627f981786d162c6",
+  "cacheSourceId": "f20004c1a9708ce719a7",
+  "retrievedAt": "2026-11-06T17:23:37.728081+00:00",
+  "reviewedMappings": {
+    "2012-3-22:0": "miRNA 정의와 canonical pathway의 guide strand/RISC 적재 설명 대조. 헤어핀 전구체와 성숙 단일가닥 구별로 ㄴ 거짓 판단.",
+    "2012-3-22:1": "miRNA 정의와 canonical pathway의 guide strand/RISC 적재 설명 대조. 헤어핀 전구체와 성숙 단일가닥 구별로 ㄴ 거짓 판단.",
+    "2012-3-22:2": "miRNA 정의와 canonical pathway의 guide strand/RISC 적재 설명 대조. 헤어핀 전구체와 성숙 단일가닥 구별로 ㄴ 거짓 판단.",
+    "2012-3-22:3": "miRNA 정의와 canonical pathway의 guide strand/RISC 적재 설명 대조. 헤어핀 전구체와 성숙 단일가닥 구별로 ㄴ 거짓 판단.",
+    "2012-3-22:4": "miRNA 정의와 canonical pathway의 guide strand/RISC 적재 설명 대조. 헤어핀 전구체와 성숙 단일가닥 구별로 ㄴ 거짓 판단.",
+    "2012-3-22:5": "miRNA 정의와 canonical pathway의 guide strand/RISC 적재 설명 대조. 헤어핀 전구체와 성숙 단일가닥 구별로 ㄴ 거짓 판단."
+  },
+  "retrievalMethod": "web.open and web.find; reviewed RNA interference and canonical/alternative miRNA pathway sections",
+  "sourceHashScope": "Selected excerpts only; not full page"
+}

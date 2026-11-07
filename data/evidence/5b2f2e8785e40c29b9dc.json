@@ -1,0 +1,17 @@
+{
+  "id": "5b2f2e8785e40c29b9dc",
+  "kind": "science",
+  "source": "Alberta Geological Survey",
+  "ref": "Alberta Geological Survey, Transfer of Geothermal Heat",
+  "url": "https://ags.aer.ca/our-science/geothermal-energy/about-geothermal-energy-renewable-resource",
+  "excerpt": "The major form of heat transfer in the crust is conduction",
+  "sourceHash": "3b761eeabe213d79b0afaeb62417096482e28b4f022bb25330a62009f1628a8b",
+  "cacheSourceId": "c039abf962ceaf1c7f19",
+  "retrievedAt": "2026-11-07T06:13:33.956872+00:00",
+  "reviewedMappings": {
+    "2017-3-31:0": "Direct geological-agency statement supports conduction as main crustal heat-transfer mode; same paragraph explicitly retains fluid circulation and magma transport exceptions. Does not determine outer-core conductive fraction.",
+    "2017-3-31:1": "Direct geological-agency statement supports conduction as main crustal heat-transfer mode; same paragraph explicitly retains fluid circulation and magma transport exceptions. Does not determine outer-core conductive fraction."
+  },
+  "retrievalMethod": "web direct agency page",
+  "sourceHashScope": "Short reviewed excerpt only"
+}

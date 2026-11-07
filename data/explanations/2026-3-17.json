@@ -1,1 +1,283 @@
-{"summary": "세 반응은 모두 벤젠의 친전자성 방향족 치환 반응이에요. A는 클로로벤젠, B는 나이트로벤젠, C는 톨루엔이에요. 세 생성물만 정확히 쓰면 ㄱ과 ㄷ이 바로 걸러져요. 옳은 것은 ㄴ뿐이라 ㄴ만 고른 보기가 정답입니다.", "choices": ["틀린 보기예요. 벤젠은 방향족성을 유지하려고 첨가가 아니라 치환 반응을 해요. H 하나가 Cl, NO₂, CH₃로 바뀌는 것이니 ㄱ은 틀린 설명이에요.", "맞는 보기예요. 나이트로벤젠은 극성이 커서 분자 간 힘이 강해요. 끓는점이 약 211 ℃로 톨루엔의 약 111 ℃보다 높아서 ㄴ만 옳습니다.", "틀린 보기예요. ㄱ은 치환 반응이라 틀렸어요. ㄷ도 C인 톨루엔에 Cl이 없어서 틀렸어요.", "틀린 보기예요. ㄴ은 옳지만 ㄷ이 틀렸어요. CH₃Cl의 Cl은 AlCl₃로 빠져나가고 CH₃만 벤젠에 붙어서 C에는 Cl이 없어요.", "틀린 보기예요. 옳은 것은 ㄴ 하나뿐이에요. 벤젠의 반응은 치환이고, 톨루엔에는 Cl이 없으니 ㄱ과 ㄷ이 함께 빠져요."], "lawNote": "", "basis": [], "dropped": 0}
+{
+  "id": "2026-3-17",
+  "summary": "주어진 조건에서 A는 클로로벤젠(C₆H₅Cl), B는 나이트로벤젠(C₆H₅NO₂), C는 톨루엔(C₆H₅CH₃)입니다. 세 반응은 벤젠 고리의 수소를 바꾸는 친전자성 방향족 치환 반응입니다. B의 기준 끓는점이 C보다 높고, C에는 Cl이 없으므로 ㄴ만 옳습니다.",
+  "choices": [
+    "ㄱ: 오답입니다. 주어진 세 반응은 첨가가 아니라 치환입니다. 고리의 H가 각각 Cl, NO₂, CH₃로 바뀝니다.",
+    "ㄴ: 정답입니다. NIST 기준 끓는점 자료에서 나이트로벤젠은 약 484 K(211℃), 톨루엔은 약 383.8 K(110.7℃)이므로 B>C입니다.",
+    "ㄱ·ㄷ: 모두 틀립니다. 주어진 반응은 치환이며, A에는 Cl이 있지만 C인 톨루엔에는 Cl이 없습니다.",
+    "ㄴ·ㄷ: ㄴ은 옳지만 ㄷ은 틀립니다. CH₃Cl/AlCl₃에 의한 알킬화에서는 고리의 H가 CH₃로 치환됩니다. 생성물 C₆H₅CH₃에는 Cl이 없습니다.",
+    "ㄱ·ㄴ·ㄷ: ㄴ만 옳습니다. 주어진 반응은 친전자성 방향족 치환이고, 톨루엔에는 Cl이 없으므로 ㄱ·ㄷ은 틀립니다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Organic Chemistry, 16.2 Other Aromatic Substitutions",
+      "quote": "There are many other kinds of electrophilic aromatic substitutions besides bromination",
+      "url": "https://openstax.org/books/organic-chemistry/pages/16-2-other-aromatic-substitutions",
+      "evidenceId": "197efcda5cc70059154b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Organic Chemistry, 16.2 Other Aromatic Substitutions",
+      "quote": "There are many other kinds of electrophilic aromatic substitutions besides bromination",
+      "url": "https://openstax.org/books/organic-chemistry/pages/16-2-other-aromatic-substitutions",
+      "evidenceId": "197efcda5cc70059154b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Organic Chemistry, 16.2 Other Aromatic Substitutions",
+      "quote": "There are many other kinds of electrophilic aromatic substitutions besides bromination",
+      "url": "https://openstax.org/books/organic-chemistry/pages/16-2-other-aromatic-substitutions",
+      "evidenceId": "197efcda5cc70059154b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Organic Chemistry, 16.2 Other Aromatic Substitutions",
+      "quote": "There are many other kinds of electrophilic aromatic substitutions besides bromination",
+      "url": "https://openstax.org/books/organic-chemistry/pages/16-2-other-aromatic-substitutions",
+      "evidenceId": "197efcda5cc70059154b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Organic Chemistry, 16.2 Other Aromatic Substitutions",
+      "quote": "There are many other kinds of electrophilic aromatic substitutions besides bromination",
+      "url": "https://openstax.org/books/organic-chemistry/pages/16-2-other-aromatic-substitutions",
+      "evidenceId": "197efcda5cc70059154b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Organic Chemistry, 16.2 Other Aromatic Substitutions",
+      "quote": "There are many other kinds of electrophilic aromatic substitutions besides bromination",
+      "url": "https://openstax.org/books/organic-chemistry/pages/16-2-other-aromatic-substitutions",
+      "evidenceId": "197efcda5cc70059154b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Organic Chemistry, 16.3 Friedel–Crafts Reaction",
+      "quote": "alkylation—the introduction of an alkyl group onto the benzene ring",
+      "url": "https://openstax.org/books/organic-chemistry/pages/16-3-alkylation-and-acylation-of-aromatic-rings-the-friedel-crafts-reaction",
+      "evidenceId": "8a5c3d7d5a744a559c21",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Organic Chemistry, 16.3 Friedel–Crafts Reaction",
+      "quote": "alkylation—the introduction of an alkyl group onto the benzene ring",
+      "url": "https://openstax.org/books/organic-chemistry/pages/16-3-alkylation-and-acylation-of-aromatic-rings-the-friedel-crafts-reaction",
+      "evidenceId": "8a5c3d7d5a744a559c21",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Organic Chemistry, 16.3 Friedel–Crafts Reaction",
+      "quote": "alkylation—the introduction of an alkyl group onto the benzene ring",
+      "url": "https://openstax.org/books/organic-chemistry/pages/16-3-alkylation-and-acylation-of-aromatic-rings-the-friedel-crafts-reaction",
+      "evidenceId": "8a5c3d7d5a744a559c21",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Organic Chemistry, 16.3 Friedel–Crafts Reaction",
+      "quote": "alkylation—the introduction of an alkyl group onto the benzene ring",
+      "url": "https://openstax.org/books/organic-chemistry/pages/16-3-alkylation-and-acylation-of-aromatic-rings-the-friedel-crafts-reaction",
+      "evidenceId": "8a5c3d7d5a744a559c21",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Organic Chemistry, 16.3 Friedel–Crafts Reaction",
+      "quote": "alkylation—the introduction of an alkyl group onto the benzene ring",
+      "url": "https://openstax.org/books/organic-chemistry/pages/16-3-alkylation-and-acylation-of-aromatic-rings-the-friedel-crafts-reaction",
+      "evidenceId": "8a5c3d7d5a744a559c21",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Organic Chemistry, 16.3 Friedel–Crafts Reaction",
+      "quote": "alkylation—the introduction of an alkyl group onto the benzene ring",
+      "url": "https://openstax.org/books/organic-chemistry/pages/16-3-alkylation-and-acylation-of-aromatic-rings-the-friedel-crafts-reaction",
+      "evidenceId": "8a5c3d7d5a744a559c21",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "NIST",
+      "ref": "NIST Chemistry WebBook: Nitrobenzene, phase change data",
+      "quote": "484. ± 2.",
+      "url": "https://webbook.nist.gov/cgi/cbook.cgi?ID=C98953&Mask=4",
+      "evidenceId": "b17d1a3596b0a5ecff19",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "NIST",
+      "ref": "NIST Chemistry WebBook: Nitrobenzene, phase change data",
+      "quote": "484. ± 2.",
+      "url": "https://webbook.nist.gov/cgi/cbook.cgi?ID=C98953&Mask=4",
+      "evidenceId": "b17d1a3596b0a5ecff19",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "NIST",
+      "ref": "NIST Chemistry WebBook: Nitrobenzene, phase change data",
+      "quote": "484. ± 2.",
+      "url": "https://webbook.nist.gov/cgi/cbook.cgi?ID=C98953&Mask=4",
+      "evidenceId": "b17d1a3596b0a5ecff19",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "NIST",
+      "ref": "NIST Chemistry WebBook: Nitrobenzene, phase change data",
+      "quote": "484. ± 2.",
+      "url": "https://webbook.nist.gov/cgi/cbook.cgi?ID=C98953&Mask=4",
+      "evidenceId": "b17d1a3596b0a5ecff19",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "NIST",
+      "ref": "NIST Chemistry WebBook: Nitrobenzene, phase change data",
+      "quote": "484. ± 2.",
+      "url": "https://webbook.nist.gov/cgi/cbook.cgi?ID=C98953&Mask=4",
+      "evidenceId": "b17d1a3596b0a5ecff19",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "NIST",
+      "ref": "NIST Chemistry WebBook: Nitrobenzene, phase change data",
+      "quote": "484. ± 2.",
+      "url": "https://webbook.nist.gov/cgi/cbook.cgi?ID=C98953&Mask=4",
+      "evidenceId": "b17d1a3596b0a5ecff19",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "NIST",
+      "ref": "NIST Chemistry WebBook: Toluene, phase change data",
+      "quote": "383.8 ± 0.2",
+      "url": "https://webbook.nist.gov/cgi/cbook.cgi?ID=C108883&Mask=4",
+      "evidenceId": "1fc931ac38dae78c9e3e",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "NIST",
+      "ref": "NIST Chemistry WebBook: Toluene, phase change data",
+      "quote": "383.8 ± 0.2",
+      "url": "https://webbook.nist.gov/cgi/cbook.cgi?ID=C108883&Mask=4",
+      "evidenceId": "1fc931ac38dae78c9e3e",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "NIST",
+      "ref": "NIST Chemistry WebBook: Toluene, phase change data",
+      "quote": "383.8 ± 0.2",
+      "url": "https://webbook.nist.gov/cgi/cbook.cgi?ID=C108883&Mask=4",
+      "evidenceId": "1fc931ac38dae78c9e3e",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "NIST",
+      "ref": "NIST Chemistry WebBook: Toluene, phase change data",
+      "quote": "383.8 ± 0.2",
+      "url": "https://webbook.nist.gov/cgi/cbook.cgi?ID=C108883&Mask=4",
+      "evidenceId": "1fc931ac38dae78c9e3e",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "NIST",
+      "ref": "NIST Chemistry WebBook: Toluene, phase change data",
+      "quote": "383.8 ± 0.2",
+      "url": "https://webbook.nist.gov/cgi/cbook.cgi?ID=C108883&Mask=4",
+      "evidenceId": "1fc931ac38dae78c9e3e",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "NIST",
+      "ref": "NIST Chemistry WebBook: Toluene, phase change data",
+      "quote": "383.8 ± 0.2",
+      "url": "https://webbook.nist.gov/cgi/cbook.cgi?ID=C108883&Mask=4",
+      "evidenceId": "1fc931ac38dae78c9e3e",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Existing uncited explanation substantively audited against original image. Direct textbook chlorination/nitration/alkylation and NIST phase-change tables inspected; replaced unsupported polarity-only rationale with measured values and corrected chloride fate wording. Canonical/local archived final key2 agrees.",
+    "contentHash": "482d3fea8498985e9835c3d7b3ef938c24143085fccc7890825813c7f0ec5190"
+  }
+}

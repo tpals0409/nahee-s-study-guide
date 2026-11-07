@@ -1,0 +1,17 @@
+{
+  "id": "ff7c78b590c7cce18d2f",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "OpenStax Biology 2e 8.3",
+  "url": "https://openstax.org/books/biology-2e/pages/8-3-using-light-energy-to-make-organic-molecules",
+  "excerpt": "the stroma of the chloroplast—the site of light-independent reactions of photosynthesis",
+  "sourceHash": "0a432cecf081e7687457ef16fd41d60d6c678c172aabef1f2db26f48e82a9019",
+  "cacheSourceId": "d54ef03fe2a1473a43c4",
+  "retrievedAt": "2026-11-07T05:12:50.568273+00:00",
+  "reviewedMappings": {
+    "2020-3-26:4": "캘빈회로의 장소는 스트로마이다(33,39).",
+    "2020-3-26:5": "ATP와 NADPH로 G3P를 생성하며 후속 탄수화물 합성과 직접 자유 포도당 생성을 구별한다(53,56–57)."
+  },
+  "retrievalMethod": "Direct web open",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

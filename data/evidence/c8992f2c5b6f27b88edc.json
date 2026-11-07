@@ -1,0 +1,17 @@
+{
+  "id": "c8992f2c5b6f27b88edc",
+  "kind": "science",
+  "source": "National Open University of Nigeria",
+  "ref": "CHM 205 — Nitric oxide, PDF p.68",
+  "url": "https://nou.edu.ng/coursewarecontent/chm%20205.pdf",
+  "excerpt": "This gives a bond order of 2.5.",
+  "sourceHash": "187efb5fe0db302328386482f544732e736eaf622bbf648aa5709e09774c5573",
+  "cacheSourceId": "8cc3a03aebf18e82ea19",
+  "retrievedAt": "2026-11-06T18:45:25.524027+00:00",
+  "reviewedMappings": {
+    "2012-3-12:5": "NO 결합차수2.5, NO+는3이며 CO와 등전자라는 같은 문단 대조. 분자오비탈 원자가전자 계수에서 CO=(8−2)/2=3, NO=(8−3)/2=2.5. ZO가 YO보다 큼을 확인.",
+    "2014-3-17:0": "PDF67페이지(0기준)의 NO π*홀전자1개, 결합차수2.5 및 NO⁺의π*제거·차수3·결합길이감소·CO등전자 설명 대조. NO⁻는 같은π*에 전자추가하여차수2로 직접 도출. 초안의 CO 모든결합성궤도 서술 정정."
+  },
+  "retrievalMethod": "web.open and web.find; direct primary-source text reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

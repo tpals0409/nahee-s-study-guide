@@ -1,0 +1,16 @@
+{
+  "id": "367af8062f723919e9e7",
+  "kind": "science",
+  "source": "OpenStax Anatomy and Physiology 2e",
+  "ref": "17.4 The Thyroid Gland",
+  "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/17-4-the-thyroid-gland",
+  "excerpt": "Stimulate basal metabolic rate",
+  "sourceHash": "2f56f06e34050ffae78329ebde8fe588808d67c61fcfcfbd9a1de22f357b7978",
+  "cacheSourceId": "37f63774c441f60a0c26",
+  "retrievedAt": "2026-11-06T18:58:01.913265+00:00",
+  "reviewedMappings": {
+    "2014-3-27:1": "갑상선 T3/T4의 기초대사 작용과 부신수질 카테콜아민 분비 구분. 심장과 완전히 무관하다고 주장하지 않음."
+  },
+  "retrievalMethod": "web.open; manually reviewed excerpt",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

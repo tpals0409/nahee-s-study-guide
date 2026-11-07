@@ -1,0 +1,41 @@
+{
+  "summary": "정답은 ② √(hλ_c/(2mc))입니다. λ_c를 한계 파장으로 해석하면 일함수는 W=hc/λ_c입니다. 입사 파장이 λ_c/2일 때 최대 운동에너지는 2hc/λ_c−W=hc/λ_c입니다. 비상대론적 관계 p=√(2mK)와 드브로이 관계 λ_d=h/p를 적용하면 최소 파장은 √(hλ_c/(2mc))입니다.",
+  "choices": [
+    "(hλ_c/(4mc))^(1/2): 오답입니다. 이 값이 나오려면 p² = 4mhc/λ_c, 즉 K = 2hc/λ_c여야 합니다. 이는 광자 에너지 전부를 운동에너지로 보고 일함수 hc/λ_c를 빼지 않은 결과이므로 광전 효과 식에 맞지 않습니다.",
+    "(hλ_c/(2mc))^(1/2): 정답입니다. K_max = 2hc/λ_c − hc/λ_c = hc/λ_c입니다. 따라서 p_max = √(2mhc/λ_c)이고, λ_d,min = h/p_max = √(h²λ_c/(2mhc)) = √(hλ_c/(2mc))입니다.",
+    "(hλ_c/(mc))^(1/2): 오답입니다. 이 값은 p² = mhc/λ_c, 즉 K = hc/(2λ_c)에 해당합니다. 실제 최대 운동에너지의 절반이므로 파장이 √2배 길게 계산된 것입니다. 또한 λ_d = h/√(mK)처럼 운동에너지 식 K = p²/2m의 2를 빠뜨려도 같은 값이 나옵니다.",
+    "(2hλ_c/(mc))^(1/2): 오답입니다. 이 값은 K = hc/(4λ_c)에 해당합니다. 실제 최대 운동에너지 hc/λ_c보다 작으므로 최소 파장이 아닙니다.",
+    "(4hλ_c/(mc))^(1/2): 오답입니다. 이 값은 K = hc/(8λ_c)에 해당합니다. 최대 운동에너지보다 훨씬 작은 에너지로 계산한 값이어서 최소 드브로이 파장이 될 수 없습니다."
+  ],
+  "lawNote": "문제의 λ_c는 광전자 방출의 한계 파장으로 해석합니다. 선지들은 전자의 운동에너지 K가 정지에너지 mc²보다 훨씬 작은 비상대론적 근사를 전제로 합니다. 여기서 최소 파장은 최대 운동에너지를 가진 전자에 해당하며, 입사광의 파장 λ_c/2와는 다른 양입니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "OpenStax University Physics Volume 3 §6.2 Photoelectric Effect",
+      "quote": "is called the work function of the metal.",
+      "url": "https://openstax.org/books/university-physics-volume-3/pages/6-2-photoelectric-effect",
+      "evidenceId": "fb05b2615f660969abae",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 3, 6.5 De Broglie’s Matter Waves",
+      "quote": "we use nonrelativistic momentum p.",
+      "url": "https://openstax.org/books/university-physics-volume-3/pages/6-5-de-broglies-matter-waves",
+      "evidenceId": "d2a01dba8905d7cfa0aa",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "원본2014-3-09_1.webp의 한계파장·입사파장·선지 대조. OpenStax 광전효과 및 드브로이 원문 식 검증. Fraction으로 다섯 선지의 에너지비 역산. 비상대론적 근사와 한계파장 해석 명시, 주어지지 않은 수eV 단정 제거.",
+    "contentHash": "6227c7adf4c9286348f0917f0fb5851254ab78577e02951532d5af0032ad510d"
+  }
+}

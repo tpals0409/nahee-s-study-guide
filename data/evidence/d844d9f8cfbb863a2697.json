@@ -1,0 +1,21 @@
+{
+  "id": "d844d9f8cfbb863a2697",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics3 10.3 Radioactive Decay",
+  "url": "https://openstax.org/books/university-physics-volume-3/pages/10-3-radioactive-decay",
+  "excerpt": "the time for half of the original nuclei to decay",
+  "sourceHash": "34bf291525a60fd6334853bb5dd0f9d66c1131b50b137463089a553dbaa08ab2",
+  "cacheSourceId": "1bc5b835776a80be76c3",
+  "retrievedAt": "2026-11-07T04:18:08.879768+00:00",
+  "reviewedMappings": {
+    "2026-3-33:0": "Equation10.12 plus supplied5730-year half-life gives3 half-lives=17190years; exact Fraction and monotonic decay compare every option. Plant age equated to stratum age only as stated problem interpretation.",
+    "2026-3-33:1": "Equation10.12 plus supplied5730-year half-life gives3 half-lives=17190years; exact Fraction and monotonic decay compare every option. Plant age equated to stratum age only as stated problem interpretation.",
+    "2026-3-33:2": "Equation10.12 plus supplied5730-year half-life gives3 half-lives=17190years; exact Fraction and monotonic decay compare every option. Plant age equated to stratum age only as stated problem interpretation.",
+    "2026-3-33:3": "Equation10.12 plus supplied5730-year half-life gives3 half-lives=17190years; exact Fraction and monotonic decay compare every option. Plant age equated to stratum age only as stated problem interpretation.",
+    "2026-3-33:4": "Equation10.12 plus supplied5730-year half-life gives3 half-lives=17190years; exact Fraction and monotonic decay compare every option. Plant age equated to stratum age only as stated problem interpretation.",
+    "2026-3-33:5": "Equation10.12 plus supplied5730-year half-life gives3 half-lives=17190years; exact Fraction and monotonic decay compare every option. Plant age equated to stratum age only as stated problem interpretation."
+  },
+  "retrievalMethod": "Direct web find",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

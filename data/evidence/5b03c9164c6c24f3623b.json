@@ -1,0 +1,20 @@
+{
+  "id": "5b03c9164c6c24f3623b",
+  "kind": "science",
+  "source": "OpenStax Microbiology",
+  "ref": "11.4 Protein Synthesis (Translation)",
+  "url": "https://openstax.org/books/microbiology/pages/11-4-protein-synthesis-translation",
+  "excerpt": "an RNA-based ribozyme that is integrated into the 50S ribosomal subunit",
+  "sourceHash": "fb5822856edb02c548aa1607f113fc17d82c1564d39fa5b1b8ad79e31520630b",
+  "cacheSourceId": "bbe9976241a2cb6129b2",
+  "retrievedAt": "2026-11-07T03:23:25.619296+00:00",
+  "reviewedMappings": {
+    "2025-3-27:0": "tRNA 3′CCA 아미노산 결합, small subunit mRNA 결합, large subunit 촉매 대조.",
+    "2025-3-27:2": "Transfer RNAs 절의 3′CCA amino acid binding end 및 aminoacyl tRNA synthetase charging 문단 확인. EF-Tu가 개시tRNA까지 전달한다는 초안 일반화 제거.",
+    "2025-3-27:3": "Initiation 절 E.coli30S/mRNA 결합 및50S 합류 직접 확인.",
+    "2025-3-27:4": "Elongation 절 peptidyl transferase RNA ribozyme 50S 위치 직접 명시.",
+    "2025-3-27:5": "개시tRNA는 P 자리 직접 진입하고 다음 A자리 tRNA와 peptide bond를 elongation에서 형성하는 단계 확인."
+  },
+  "retrievalMethod": "Direct web reading of tRNA codon recognition, CCA amino acid attachment, E.coli initiation and elongation; 50S ribozyme location.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

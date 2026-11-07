@@ -1,0 +1,33 @@
+{
+  "id": "adf2c22992d304e2f098",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics 2 §3.5 Heat Capacities of an Ideal Gas",
+  "url": "https://openstax.org/books/university-physics-volume-2/pages/3-5-heat-capacities-of-an-ideal-gas",
+  "excerpt": "internal energy is a state function that depends on only the temperature of an ideal gas.",
+  "sourceHash": "44f2ce0aee9e9cd93ef4688d7ddd4dcd12e08b0d45c8c383f187fef8bb5791c4",
+  "cacheSourceId": "3a6973bfa7e4a708c025",
+  "retrievedAt": "2026-11-07T04:49:36.756777+00:00",
+  "reviewedMappings": {
+    "2015-3-08:0": "Source eq 3.9 and table 3.3 give dU=nCv dT and monatomic Cv=3R/2, Cp=5R/2, with ideal-gas equation in derivation. Combine with entropy integral to compute each term and assess all options independently.",
+    "2015-3-08:1": "Source eq 3.9 and table 3.3 give dU=nCv dT and monatomic Cv=3R/2, Cp=5R/2, with ideal-gas equation in derivation. Combine with entropy integral to compute each term and assess all options independently.",
+    "2015-3-08:2": "Source eq 3.9 and table 3.3 give dU=nCv dT and monatomic Cv=3R/2, Cp=5R/2, with ideal-gas equation in derivation. Combine with entropy integral to compute each term and assess all options independently.",
+    "2015-3-08:3": "Source eq 3.9 and table 3.3 give dU=nCv dT and monatomic Cv=3R/2, Cp=5R/2, with ideal-gas equation in derivation. Combine with entropy integral to compute each term and assess all options independently.",
+    "2015-3-08:4": "Source eq 3.9 and table 3.3 give dU=nCv dT and monatomic Cv=3R/2, Cp=5R/2, with ideal-gas equation in derivation. Combine with entropy integral to compute each term and assess all options independently.",
+    "2015-3-08:5": "Source eq 3.9 and table 3.3 give dU=nCv dT and monatomic Cv=3R/2, Cp=5R/2, with ideal-gas equation in derivation. Combine with entropy integral to compute each term and assess all options independently.",
+    "2022-3-08:0": "Reviewed first law, pdV=nRdT and monatomic Cp=5R/2. Original problem n=1 mol, ΔT=T0: ΔU=1.5RT0, W=RT0, Q=2.5RT0. 단원자 이상기체 1몰이 등압 과정에서 T₀에서 2T₀로 가열되면 ΔT = T₀입니다. 이때 공급된 열량은 Q = nCpΔT = (5/2)R·T₀이므로 (5/2)RT₀가 정답입니다.",
+    "2022-3-08:1": "Reviewed first law, pdV=nRdT and monatomic Cp=5R/2. Original problem n=1 mol, ΔT=T0: ΔU=1.5RT0, W=RT0, Q=2.5RT0. (1/2)RT₀는 공급된 열량이 아닙니다. ΔU=(3/2)RT₀에 팽창 일 W=RT₀를 더하면 Q=(5/2)RT₀입니다.",
+    "2022-3-08:2": "Reviewed first law, pdV=nRdT and monatomic Cp=5R/2. Original problem n=1 mol, ΔT=T0: ΔU=1.5RT0, W=RT0, Q=2.5RT0. RT₀: 오답입니다. 이 값은 등압 팽창에서 기체가 외부에 한 일 W = PΔV = nRΔT = RT₀입니다. 공급된 열량 전체가 아니라 그 일부에 해당합니다.",
+    "2022-3-08:3": "Reviewed first law, pdV=nRdT and monatomic Cp=5R/2. Original problem n=1 mol, ΔT=T0: ΔU=1.5RT0, W=RT0, Q=2.5RT0. (3/2)RT₀: 오답입니다. 이 값은 내부에너지 변화 ΔU = (3/2)nRΔT = (3/2)RT₀입니다. 등적 과정이라면 이것이 열량이 되지만, 등압 과정에서는 기체가 한 일 RT₀가 더해져야 합니다.",
+    "2022-3-08:4": "Reviewed first law, pdV=nRdT and monatomic Cp=5R/2. Original problem n=1 mol, ΔT=T0: ΔU=1.5RT0, W=RT0, Q=2.5RT0. 2RT₀는 공급된 열량과 다릅니다. 단원자 이상기체의 정압몰비열은 C_p=C_V+R=(5/2)R이므로 Q=(5/2)RT₀입니다.",
+    "2022-3-08:5": "Reviewed first law, pdV=nRdT and monatomic Cp=5R/2. Original problem n=1 mol, ΔT=T0: ΔU=1.5RT0, W=RT0, Q=2.5RT0. (5/2)RT₀: 정답입니다. Q = ΔU + W = (3/2)RT₀ + RT₀ = (5/2)RT₀이며, 이는 Q = nCpΔT = 1 × (5/2)R × T₀와 같습니다.",
+    "2021-3-09:0": "A의ΔT=3T와 단원자Cv=3R/2; B의ΔT=0.",
+    "2021-3-09:1": "ΔU_A=(3/2)nR(3T)=(9/2)PV로 선지 비교.",
+    "2021-3-09:2": "초기U_A=(3/2)PV와 증가량의 구별.",
+    "2021-3-09:3": "내부에너지변화 Cv와 정압열량 Cp의 적용조건 구별.",
+    "2021-3-09:4": "B 등온 ΔU_B=0 및 A 내부에너지증가.",
+    "2021-3-09:5": "nRT=PV, ΔU_A=9PV/2, ΔU_B=0을 직접 도출. 일반단면적 순일은dW=pdV에서 유도."
+  },
+  "retrievalMethod": "Direct web open",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

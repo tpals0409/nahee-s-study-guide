@@ -1,0 +1,21 @@
+{
+  "id": "db86eb0d6986251d219a",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics 1 §11.2 Angular Momentum",
+  "url": "https://openstax.org/books/university-physics-volume-1/pages/11-2-angular-momentum",
+  "excerpt": "The direction of the angular momentum vector is directed along the axis of rotation",
+  "sourceHash": "33bbe93e7b635c0b94b3869ef471da8107196557d5949461604ae57aac4aa1fc",
+  "cacheSourceId": "06c2cc601f57dd3369bf",
+  "retrievedAt": "2026-11-06T19:16:15.101184+00:00",
+  "reviewedMappings": {
+    "2015-3-03:0": "Equation 11.9 L=I omega applied to original planar body rotating about perpendicular center axis. Sum ring and three rods, giving (2pi+3sqrt(3)/2)mu R^3 omega. Other options differ; no speculation about how distractors were created.",
+    "2015-3-03:1": "Equation 11.9 L=I omega applied to original planar body rotating about perpendicular center axis. Sum ring and three rods, giving (2pi+3sqrt(3)/2)mu R^3 omega. Other options differ; no speculation about how distractors were created.",
+    "2015-3-03:2": "Equation 11.9 L=I omega applied to original planar body rotating about perpendicular center axis. Sum ring and three rods, giving (2pi+3sqrt(3)/2)mu R^3 omega. Other options differ; no speculation about how distractors were created.",
+    "2015-3-03:3": "Equation 11.9 L=I omega applied to original planar body rotating about perpendicular center axis. Sum ring and three rods, giving (2pi+3sqrt(3)/2)mu R^3 omega. Other options differ; no speculation about how distractors were created.",
+    "2015-3-03:4": "Equation 11.9 L=I omega applied to original planar body rotating about perpendicular center axis. Sum ring and three rods, giving (2pi+3sqrt(3)/2)mu R^3 omega. Other options differ; no speculation about how distractors were created.",
+    "2015-3-03:5": "Equation 11.9 L=I omega applied to original planar body rotating about perpendicular center axis. Sum ring and three rods, giving (2pi+3sqrt(3)/2)mu R^3 omega. Other options differ; no speculation about how distractors were created."
+  },
+  "retrievalMethod": "Direct web open; original geometry inspected; direct mass-integral and parallel-axis calculations independently compared.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

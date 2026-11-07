@@ -1,0 +1,63 @@
+{
+  "summary": "ㄱ은 틀리고 ㄴ·ㄷ은 옳으므로 정답은 ⑤입니다. 바람에 의한 흐름은 취송류이며, 지형류는 힘의 평형으로 설명합니다. 쿠로시오는 난류입니다.",
+  "choices": [
+    "ㄱ은 틀립니다. 바다 표면의 바람에 의해 생기는 해류는 취송류(풍성류)입니다. 밀도류는 해수의 밀도 차이에 의해 생기는 흐름입니다.",
+    "ㄴ은 옳습니다. 수압경도력과 전향력의 수평 성분이 평형을 이루는 흐름이 지형류입니다. 하지만 ㄷ도 옳으므로 ㄴ만 고른 이 선지는 오답입니다.",
+    "ㄷ은 옳습니다. 쿠로시오해류는 따뜻한 열대 해수를 북쪽으로 운반하는 난류입니다. 하지만 ㄴ도 옳으므로 ㄷ만 고른 이 선지는 오답입니다.",
+    "ㄴ은 옳지만 ㄱ은 바람에 의한 흐름을 밀도류라고 잘못 설명했습니다. 옳은 보기 ㄷ도 빠져 있으므로 오답입니다.",
+    "옳은 보기 ㄴ·ㄷ을 모두 고른 정답입니다. ㄴ은 지형류의 힘의 평형을, ㄷ은 쿠로시오의 난류 성질을 설명합니다."
+  ],
+  "lawNote": "취송류·밀도류는 구동 원인에 초점을 둔 용어이고, 지형류는 힘의 평형 상태를 설명하는 용어입니다. 이를 서로 배타적인 세 종류로 외우지 않도록 주의하세요.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "NOAA",
+      "ref": "Ocean currents — Surface currents / Deep ocean currents",
+      "quote": "Large-scale surface ocean currents are driven by global wind systems",
+      "url": "https://www.noaa.gov/education/resource-collections/ocean-coasts/ocean-currents",
+      "evidenceId": "e2132e6a4dc207ad0298",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "NOAA",
+      "ref": "Ocean currents — Surface currents / Deep ocean currents",
+      "quote": "Differences in water density",
+      "url": "https://www.noaa.gov/education/resource-collections/ocean-coasts/ocean-currents",
+      "evidenceId": "6da4dc89a41b2d2543fb",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "NOAA",
+      "ref": "Tides and Currents Glossary — geostrophic flow",
+      "quote": "the horizontal component of the Coriolis force is balanced by the horizontal component of the pressure gradient force",
+      "url": "https://tidesandcurrents.noaa.gov/glossary",
+      "evidenceId": "d141c3467be5fcc6e556",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "NOAA",
+      "ref": "KEO Background",
+      "quote": "the Kuroshio Current that carries warm tropical water northward",
+      "url": "https://www.pmel.noaa.gov/ocs/KEO-history/",
+      "evidenceId": "07278273b0ad26c73c14",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "원문 세 보기와 공식 정답 ⑤ 대조. NOAA 해류 교육자료·지형류 정의·KEO 설명의 본문으로 각 판단 검증. 초안의 배타적 분류 및 불필요한 수식·염분·경로 설명 제거.",
+    "contentHash": "7f7620810662e5d76a4142acee6348023c840408d33144e6f4c9ec88f9d939c3"
+  }
+}

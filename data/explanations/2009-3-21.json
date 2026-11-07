@@ -1,0 +1,30 @@
+{
+  "summary": "정답은 RuBP입니다. CO₂만 차단하고 빛과 ATP·NADPH 공급은 유지되는 상황을 가정합니다. CO₂를 받아들이는 RuBP의 소비가 줄어드는 반면, 회로에 남은 중간체로부터 RuBP 재생은 당분간 이어지므로 RuBP가 축적됩니다.",
+  "choices": [
+    "PGA는 RuBP에 CO₂가 고정될 때 만들어지는 물질입니다. CO₂ 공급이 끊기면 이 생성 경로가 제한되고, 기존 PGA는 환원 반응에 이용되므로 문항의 축적 물질이 아닙니다.",
+    "DPGA는 PGA가 인산화되어 생기는 중간체입니다. CO₂ 차단에 따른 직접적인 소비 정체가 일어나는 CO₂ 수용체가 아니며, 회로 내 환원 반응에 이용됩니다.",
+    "PGAL(G3P)은 환원 단계의 산물이며 일부는 RuBP 재생에 사용됩니다. 이 조건에서 축적을 묻는 핵심 물질은 PGAL 자체가 아니라 재생된 RuBP입니다.",
+    "C₆H₁₂O₆는 포도당입니다. CO₂ 공급 중단으로 새로운 탄소 고정이 제한되므로, 이 조건에서 축적되는 회로의 CO₂ 수용체에 해당하지 않습니다.",
+    "정답입니다. RuBP는 Rubisco 반응에서 CO₂를 받아들이는 물질입니다. CO₂ 차단으로 이 반응을 통한 소비가 줄고 기존 중간체로부터 재생이 당분간 이어져 RuBP가 축적됩니다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax · Biology 2e",
+      "ref": "8.3",
+      "quote": "five G3P molecules remain in the cycle and are used to regenerate RuBP",
+      "url": "https://openstax.org/books/biology-2e/pages/8-3-using-light-energy-to-make-organic-molecules",
+      "evidenceId": "49488db4653e5f839814",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "CO2수용체RuBP→3PGA,ATP/NADPH로G3P,ATP로RuBP재생 경로 대조. 빛과 명반응산물 공급이 유지되는 짧은 시간의 CO2차단 실험으로 해석하면 RuBP소비감소·재생지속으로 축적. 각 중간체의 정확한 시간변화나 무한지속은 단정하지 않음.",
+    "contentHash": "85a492888236e454232450dbb788d5644e46d92848289a8728d255d78df5afb5"
+  }
+}

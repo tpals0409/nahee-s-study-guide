@@ -1,0 +1,27 @@
+{
+  "id": "890399cc636104c8883c",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 2e §13.2, gaseous reaction quotient and equilibrium constant",
+  "url": "https://openstax.org/books/chemistry-2e/pages/13-2-equilibrium-constants",
+  "excerpt": "a reaction quotient may be similarly derived using partial pressures",
+  "sourceHash": "4c632178c0a3644d0b8ce60e1afe56fd72ae12ef27c4e12052ecf3d789a20372",
+  "cacheSourceId": "857ba0363b80394a45cc",
+  "retrievedAt": "2026-11-07T04:01:33.874275+00:00",
+  "reviewedMappings": {
+    "2024-3-12:0": "Gas reaction quotient uses stoichiometric powers of partial pressures and equals K at equilibrium. Original mass balance and common pressure give initial 3n moles in 3 L; density gives V1=10/3 L and V2=9/2 L; equilibrium composition yields concentration ratio 4/3.",
+    "2024-3-12:1": "Gas reaction quotient uses stoichiometric powers of partial pressures and equals K at equilibrium. Computed concentration ratio 4/3 excludes 5/4.",
+    "2024-3-12:2": "Gas reaction quotient uses stoichiometric powers of partial pressures and equals K at equilibrium. Kp/P=yB²/(1−yB); y1=1/2 gives K1/P=1/2; K2/P=9/4 yields y2=3/4, yielding concentration ratio 4/3.",
+    "2024-3-12:3": "Gas reaction quotient uses stoichiometric powers of partial pressures and equals K at equilibrium. Mole fraction ratio alone omits total molar concentration change.",
+    "2024-3-12:4": "Gas reaction quotient uses stoichiometric powers of partial pressures and equals K at equilibrium. B amount in equilibrium I is not the requested concentration ratio.",
+    "2024-3-12:5": "Gas reaction quotient uses stoichiometric powers of partial pressures and equals K at equilibrium. Kp ratio involves both species and is not directly the B concentration ratio.",
+    "2026-3-19:0": "Given A+B⇌C and Ptotal1 atm, pressure quotient yields (4-z²)/z²; solutions .5 and1.",
+    "2026-3-19:1": "Given A+B⇌C and Ptotal1 atm, pressure quotient yields (4-z²)/z²; solutions .5 and1.",
+    "2026-3-19:2": "Given A+B⇌C and Ptotal1 atm, pressure quotient yields (4-z²)/z²; solutions .5 and1.",
+    "2026-3-19:3": "Given A+B⇌C and Ptotal1 atm, pressure quotient yields (4-z²)/z²; solutions .5 and1.",
+    "2026-3-19:4": "Given A+B⇌C and Ptotal1 atm, pressure quotient yields (4-z²)/z²; solutions .5 and1.",
+    "2026-3-19:5": "Given A+B⇌C and Ptotal1 atm, pressure quotient yields (4-z²)/z²; solutions .5 and1."
+  },
+  "retrievalMethod": "Direct web open",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

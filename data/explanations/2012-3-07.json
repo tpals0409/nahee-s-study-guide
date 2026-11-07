@@ -1,0 +1,30 @@
+{
+  "summary": "정답은 ④(ㄴ)입니다. 전기력의 크기는 두 입자 모두 eE입니다. 전자는 질량이 작아 먼저 도달하지만, 같은 거리 d에서 전기력이 하는 일은 모두 eEd이므로 최종 운동에너지는 같습니다.",
+  "choices": [
+    "ㄱ이 틀립니다. 전하량의 크기가 같으므로 힘의 크기도 eE로 같고 방향만 반대입니다.",
+    "ㄴ은 맞지만 ㄱ이 틀립니다. 질량 차이는 가속도 차이를 만들며 전기력 크기의 차이를 만들지 않습니다.",
+    "ㄱ·ㄷ이 틀립니다. 힘의 크기가 같고 이동 거리도 같아 두 입자가 얻는 운동에너지도 같습니다.",
+    "ㄴ만 맞습니다. a=eE/m, t=√(2dm/eE)이므로 질량이 작은 전자가 먼저 도달합니다.",
+    "ㄷ이 틀립니다. 정지 상태에서 출발하므로 최종 운동에너지는 전기력이 한 일 eEd와 같으며 두 입자에서 동일합니다."
+  ],
+  "lawNote": "비상대론적 등가속도 모형에서 전자의 도달시간은 양성자의 약 1/√1800입니다. 속도가 다르다는 사실과 운동에너지가 다르다는 주장은 구별해야 합니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "College Physics 2e 19.1 — Electric force and work",
+      "quote": "its electric potential energy is converted to kinetic energy.",
+      "url": "https://openstax.org/books/college-physics-2e/pages/19-1-electric-potential-energy-potential-difference",
+      "evidenceId": "17a4366bf9401610efb1",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "원본 2012-3-07_1.webp 그림·전하·초기조건·세 진술 확인. 교재 전기력과 에너지 관계 대조, 질량 의존 도달시간 독립 도출, 저장정답④ 일치.",
+    "contentHash": "8d38df0d691145a689a886874eb9ec5623640f72eab9df0f43ff50d1a3b1ff17"
+  }
+}

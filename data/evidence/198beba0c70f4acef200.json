@@ -1,0 +1,17 @@
+{
+  "id": "198beba0c70f4acef200",
+  "kind": "science",
+  "source": "OpenStax Biology 2e",
+  "ref": "7.4 Oxidative Phosphorylation",
+  "url": "https://openstax.org/books/biology-2e/pages/7-4-oxidative-phosphorylation",
+  "excerpt": "The number of ATP molecules generated from the catabolism of glucose varies.",
+  "sourceHash": "282e0185cb7deefcb7160ae3f13483dbb1aba79a1be5682b2a363fb17994b32d",
+  "cacheSourceId": "2812983439dba7c6724e",
+  "retrievedAt": "2026-11-07T03:20:43.270304+00:00",
+  "reviewedMappings": {
+    "2025-3-24:0": "유산소 포도당 이화 ATP 대부분이 산화적 인산화 유래임을 확인. 정확한 총수율/배수 일반화 제거.",
+    "2025-3-24:5": "유산소 호흡의 추가 ATP생산을 발효 순2와 비교. 동일 ATP 생산속도 R에서 포도당 처리속도=R/수율이므로 발효 쪽이 큼. ATP수율 종·셔틀에 따른 변동 확인."
+  },
+  "retrievalMethod": "Direct web reading of fermentation reactions, glycolysis ATP investment/payoff and oxidative ATP yield discussion.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

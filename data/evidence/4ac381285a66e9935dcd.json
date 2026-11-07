@@ -1,0 +1,18 @@
+{
+  "id": "4ac381285a66e9935dcd",
+  "kind": "science",
+  "source": "USGS",
+  "ref": "Inside the Earth: This Dynamic Earth",
+  "url": "https://pubs.usgs.gov/gip/dynamic/inside.html",
+  "excerpt": "liquid outer core",
+  "sourceHash": "59fc370e859d66ec9d884925989c2d417d2fde7a75a563d584a95c27c3c3a44b",
+  "cacheSourceId": "f336fe4b56fa3bf821db",
+  "retrievedAt": "2026-11-07T02:45:32.140264+00:00",
+  "reviewedMappings": {
+    "2024-3-31:0": "Explicit distinction between liquid outer core and solid inner core resolves physical state claims and diagram labels.",
+    "2024-3-31:3": "Explicit distinction between liquid outer core and solid inner core resolves physical state claims and diagram labels.",
+    "2024-3-31:4": "Explicit distinction between liquid outer core and solid inner core resolves physical state claims and diagram labels."
+  },
+  "retrievalMethod": "Official indexed structure description reviewed.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

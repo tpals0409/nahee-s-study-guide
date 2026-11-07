@@ -1,0 +1,18 @@
+{
+  "id": "503de0a567aab36895fa",
+  "kind": "science",
+  "source": "Nature / arXiv",
+  "ref": "Pozzo et al. (2012), Thermal and electrical conductivity of iron at Earth’s core conditions",
+  "url": "https://arxiv.org/abs/1203.4970",
+  "excerpt": "any convection in the upper core driven by chemical convection",
+  "sourceHash": "356799f3babe3ace67afe7464a65dde7058974cac48f46bb0ecd9a0e8743c7ff",
+  "cacheSourceId": "6268f27879c29ab2fdb9",
+  "retrievedAt": "2026-11-07T06:14:11.768948+00:00",
+  "reviewedMappings": {
+    "2017-3-31:0": "DFT liquid-iron-mixture study estimates high conductivities and thermally stratified upper core with possible compositional convection. Demonstrates why convection existence alone cannot determine global thermal-flux fractions. Not a measurement of the convection/conduction percentage or definitive proof of ㄷ.",
+    "2017-3-31:3": "DFT liquid-iron-mixture study estimates high conductivities and thermally stratified upper core with possible compositional convection. Demonstrates why convection existence alone cannot determine global thermal-flux fractions. Not a measurement of the convection/conduction percentage or definitive proof of ㄷ.",
+    "2017-3-31:5": "DFT liquid-iron-mixture study estimates high conductivities and thermally stratified upper core with possible compositional convection. Demonstrates why convection existence alone cannot determine global thermal-flux fractions. Not a measurement of the convection/conduction percentage or definitive proof of ㄷ."
+  },
+  "retrievalMethod": "web direct author preprint abstract",
+  "sourceHashScope": "Short reviewed excerpt only"
+}

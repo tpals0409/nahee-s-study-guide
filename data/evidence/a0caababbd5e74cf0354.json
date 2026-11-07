@@ -1,0 +1,21 @@
+{
+  "id": "a0caababbd5e74cf0354",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume 2 8.2 Capacitors in Series and in Parallel",
+  "url": "https://openstax.org/books/university-physics-volume-2/pages/8-2-capacitors-in-series-and-in-parallel",
+  "excerpt": "This occurs due to the conservation of charge in the circuit.",
+  "sourceHash": "d1ba710a7acd35fe3e29813949065ee150e56c7d013875dc96966e362ad26e1d",
+  "cacheSourceId": "3ef42899e1f3d87d7d9f",
+  "retrievedAt": "2026-11-06T20:08:10.338423+00:00",
+  "reviewedMappings": {
+    "2016-3-04:0": "본문 32~53행의 직렬 전하·전압 관계와 75~91행의 병렬 전압·전하 관계를 확인. 원문 b 위치에서 B,C는 직렬이고 이 조합과 A는 병렬. 고립된 상단 도체의 전하 C₀V₀를 보존하면 V=2V₀/3.",
+    "2016-3-04:1": "B,C의 직렬 등가용량 C₀/2와 최종 V=2V₀/3에서 각 B,C 전하 크기는 C₀V₀/3. 이는 A의 전하가 아니므로 ① 오답.",
+    "2016-3-04:2": "직렬 용량은 C₀/2이고 A 용량은 C₀이므로 전하가 같은 크기로 나뉘지 않는다. 병렬 공통 전압과 상단 전하 보존에서 A는 2/3을 갖는다.",
+    "2016-3-04:3": "Q=CV, 직렬 역수 합, 병렬 공통 전압으로 C₀V₀=(C₀+C₀/2)V. 따라서 QA=2C₀V₀/3으로 ③ 정답.",
+    "2016-3-04:4": "QA=3C₀V₀/4라면 V=3V₀/4, 직렬 가지 전하는 3C₀V₀/8. 상단 총전하 9C₀V₀/8로 초기값과 달라 전하 보존 위반.",
+    "2016-3-04:5": "QA=C₀V₀라면 V=V₀이고 직렬 가지에도 C₀V₀/2가 필요해 상단 총전하가 초기값보다 커진다. 전지 양극과의 연결은 끊겼으므로 불가."
+  },
+  "retrievalMethod": "web open: directly reviewed source text and equations",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

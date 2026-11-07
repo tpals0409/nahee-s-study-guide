@@ -1,0 +1,20 @@
+{
+  "id": "bfd766dd57bc54e7f8ff",
+  "kind": "science",
+  "source": "NOAA",
+  "ref": "Tropical Cyclone Structure",
+  "url": "https://www.noaa.gov/jetstream/tropical/tropical-cyclone-introduction/tropical-cyclone-structure",
+  "excerpt": "The eyewall consists of a ring of tall thunderstorms that produce heavy rains and usually the strongest winds.",
+  "sourceHash": "940ea8baaac5034ba6c8cda508be2e6aa9d111590a7e319797f6c911135db13a",
+  "cacheSourceId": "bc1721fb673b7d9044eb",
+  "retrievedAt": "2026-11-06T22:14:45.941909+00:00",
+  "reviewedMappings": {
+    "2018-3-37:0": "ㄱ 열대저기압 비전선성, ㄴ 눈 중심 약풍/눈벽 강풍으로 거짓; ㄷ 북반구 진행 오른쪽 위험반원 참. 종합②. 해당 출처의 정의 또는 풍속 구조를 다른 연결 자료와 함께 적용.",
+    "2018-3-37:2": "ㄱㄴ 거짓, ㄷ 진행방향 오른쪽의 합성 풍속 증가 참으로 ㄷ만 고른②. 해당 출처의 정의 또는 풍속 구조를 다른 연결 자료와 함께 적용.",
+    "2018-3-37:3": "전선 ㄱ과 눈 중심 최대풍속 ㄴ 모두 거짓. 해당 출처의 정의 또는 풍속 구조를 다른 연결 자료와 함께 적용.",
+    "2018-3-37:4": "ㄷ 참이나 눈 중심 최대풍속 ㄴ 거짓. 해당 출처의 정의 또는 풍속 구조를 다른 연결 자료와 함께 적용.",
+    "2018-3-37:5": "ㄷ만 참이므로 ㄱㄴ까지 포함한⑤ 거짓. 해당 출처의 정의 또는 풍속 구조를 다른 연결 자료와 함께 적용."
+  },
+  "retrievalMethod": "Direct web open: eye/light winds lines 54–64 and eyewall maximum winds lines 81–86 reviewed. No claim of strictly monotonic radial winds or guaranteed zero wind in eye.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

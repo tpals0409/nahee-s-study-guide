@@ -1,0 +1,16 @@
+{
+  "id": "07278273b0ad26c73c14",
+  "kind": "science",
+  "source": "NOAA",
+  "ref": "KEO Background",
+  "url": "https://www.pmel.noaa.gov/ocs/KEO-history/",
+  "excerpt": "the Kuroshio Current that carries warm tropical water northward",
+  "sourceHash": "2460844eac8ffa9d21faf16068db1199cfcc5ae6afca36b0b5e9cefbdacbe281",
+  "cacheSourceId": "be9266443ac514a1e43e",
+  "retrievedAt": "2026-11-06T16:05:49.194671+00:00",
+  "reviewedMappings": {
+    "2010-3-36:0": "ㄷ: 쿠로시오가 따뜻한 열대 해수를 북쪽으로 운반하는 난류임을 확인."
+  },
+  "retrievalMethod": "web.open and web.find: publisher page read and selected excerpts transcribed",
+  "sourceHashScope": "Selected excerpts only; not full page"
+}

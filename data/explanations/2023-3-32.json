@@ -1,0 +1,118 @@
+{
+  "id": "2023-3-32",
+  "summary": "ㄱ·ㄷ이 옳으므로 정답은 ④이다. 대서양 양쪽 해안선의 대응과 산맥 지질구조의 연속성은 대륙 이동의 증거이다. 빙하 증거는 남극과 북극의 연결이 아니라 남쪽 여러 대륙의 과거 빙하 흔적 분포를 복원하는 것이다.",
+  "choices": [
+    "ㄱ은 옳지만 ㄷ이 빠져 오답이다. 남아메리카 동쪽과 아프리카 서쪽의 윤곽이 맞물리는 점은 대륙 이동의 증거이다.",
+    "ㄴ은 틀리다. 고생대 말 빙하 퇴적물과 이동 흔적은 남극·아프리카·남아메리카·인도·오스트레일리아 등을 과거 남극 부근에 모아 놓을 때 설명된다. 남극 빙하가 북극 빙하와 연결된다는 내용이 아니다.",
+    "ㄷ은 옳지만 ㄱ이 빠져 오답이다. 북아메리카와 유럽 등에 분리된 옛 산맥의 지질구조는 대륙을 재결합하면 연속된 산맥대로 이어진다.",
+    "ㄱ·ㄷ을 모두 고르고 틀린 ㄴ을 제외했으므로 정답이다. 해안선의 대응과 산맥대의 연속성이 핵심이다.",
+    "ㄱ·ㄷ은 옳지만 ㄴ이 틀려 오답이다. 빙하 증거에서 복원하는 것은 과거 남극 부근에 모여 있던 대륙들의 빙하 분포이다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "The Geological Society",
+      "ref": "Jigsaw Fit",
+      "quote": "coastlines of eastern South America and West Africa",
+      "url": "https://www.geolsoc.org.uk/Plate-Tectonics/Chap1-Pioneers-of-Plate-Tectonics/Alfred-Wegener/Jigsaw-Fit.html",
+      "evidenceId": "859324bf2e8eca8be2a4",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "The Geological Society",
+      "ref": "Jigsaw Fit",
+      "quote": "coastlines of eastern South America and West Africa",
+      "url": "https://www.geolsoc.org.uk/Plate-Tectonics/Chap1-Pioneers-of-Plate-Tectonics/Alfred-Wegener/Jigsaw-Fit.html",
+      "evidenceId": "859324bf2e8eca8be2a4",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "The Geological Society",
+      "ref": "Jigsaw Fit",
+      "quote": "coastlines of eastern South America and West Africa",
+      "url": "https://www.geolsoc.org.uk/Plate-Tectonics/Chap1-Pioneers-of-Plate-Tectonics/Alfred-Wegener/Jigsaw-Fit.html",
+      "evidenceId": "859324bf2e8eca8be2a4",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "The Geological Society",
+      "ref": "Tectonic Fit",
+      "quote": "the mountain belt forms a continuous linear feature",
+      "url": "https://www.geolsoc.org.uk/Plate-Tectonics/Chap1-Pioneers-of-Plate-Tectonics/Alfred-Wegener/Tectonic-Fit-of-Coastlines.html",
+      "evidenceId": "ca94862dfc28beb5a0ca",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "The Geological Society",
+      "ref": "Tectonic Fit",
+      "quote": "the mountain belt forms a continuous linear feature",
+      "url": "https://www.geolsoc.org.uk/Plate-Tectonics/Chap1-Pioneers-of-Plate-Tectonics/Alfred-Wegener/Tectonic-Fit-of-Coastlines.html",
+      "evidenceId": "ca94862dfc28beb5a0ca",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "The Geological Society",
+      "ref": "Tectonic Fit",
+      "quote": "the mountain belt forms a continuous linear feature",
+      "url": "https://www.geolsoc.org.uk/Plate-Tectonics/Chap1-Pioneers-of-Plate-Tectonics/Alfred-Wegener/Tectonic-Fit-of-Coastlines.html",
+      "evidenceId": "ca94862dfc28beb5a0ca",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "The Geological Society",
+      "ref": "Glacial Deposits",
+      "quote": "re-assembled near the south pole",
+      "url": "https://www.geolsoc.org.uk/Plate-Tectonics/Chap1-Pioneers-of-Plate-Tectonics/Alfred-Wegener/Glacial-Deposits-from-Permo-Carboniferous-Glaciation.html",
+      "evidenceId": "6be77e71427ec4028d44",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "The Geological Society",
+      "ref": "Glacial Deposits",
+      "quote": "re-assembled near the south pole",
+      "url": "https://www.geolsoc.org.uk/Plate-Tectonics/Chap1-Pioneers-of-Plate-Tectonics/Alfred-Wegener/Glacial-Deposits-from-Permo-Carboniferous-Glaciation.html",
+      "evidenceId": "6be77e71427ec4028d44",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "The Geological Society",
+      "ref": "Glacial Deposits",
+      "quote": "re-assembled near the south pole",
+      "url": "https://www.geolsoc.org.uk/Plate-Tectonics/Chap1-Pioneers-of-Plate-Tectonics/Alfred-Wegener/Glacial-Deposits-from-Permo-Carboniferous-Glaciation.html",
+      "evidenceId": "6be77e71427ec4028d44",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "원문 이미지와 Geological Society의 Wegener 증거 세 하위 페이지 직접 대조. ㄱ·ㄷ 참,ㄴ 거짓. 역사 전체에 제시된 적 없다는 부재 단정 및 불필요한 증거 개수 고정 삭제.",
+    "contentHash": "5f5c0806cb4a471111ba3e45ed8be015f5d10c0d0bf8346680a9b7fbc44acd12"
+  }
+}

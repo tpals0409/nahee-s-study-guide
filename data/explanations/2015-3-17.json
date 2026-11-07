@@ -1,0 +1,86 @@
+{
+  "id": "2015-3-17",
+  "summary": "정답은 ④ ㄱ, ㄴ, ㄹ입니다. A는 산소에 결합한 CH₂(약 4ppm, 사중선), B는 CH₃–C(=O)–의 메틸(약 2ppm, 단일선), C는 에틸기의 말단 CH₃(약 1.2ppm, 삼중선)에 대응합니다. 면적비 2:3:3과 분자량 88은 CH₃COOCH₂CH₃와 일치합니다.",
+  "choices": [
+    "오답입니다. A의 CH₂와 C의 CH₃는 서로 커플링하므로 ㄱ은 옳습니다. 그러나 ㄴ과 ㄹ도 옳아 이 선택지는 불완전합니다.",
+    "오답입니다. ㄱ과 ㄴ은 옳지만 ㄹ도 포함해야 합니다. 아세트산 에틸의 수소 환경과 분자량이 제시 자료에 맞습니다.",
+    "오답입니다. ㄷ의 판단 근거가 틀립니다. 이 스펙트럼에서 삼중선은 이웃한 두 수소와의 커플링을 뜻합니다. C의 CH₃ 배정은 적분 면적과 전체 구조를 함께 보고 판단합니다.",
+    "정답입니다. A와 C는 인접한 CH₂–CH₃의 수소로 서로 커플링합니다(ㄱ). B의 메틸 탄소는 수소가 없는 카보닐 탄소에 결합합니다(ㄴ). 세 신호와 면적비는 CH₃COOCH₂CH₃의 구조에 부합합니다(ㄹ).",
+    "오답입니다. ㄴ과 ㄹ은 옳지만 ㄷ의 ‘세 갈래이므로 CH₃’라는 추론은 옳지 않습니다. 옳은 ㄱ도 빠져 있습니다."
+  ],
+  "lawNote": "간단한 1차 스펙트럼에서 n+1 규칙의 n은 커플링하는 이웃 등가 수소의 수입니다. 신호 자체의 수소 수는 적분 면적으로 판단합니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "Yale University",
+      "ref": "Open Yale Courses CHEM 125b Lecture 23 — Multiplicity in Spin-Spin Splitting",
+      "quote": "It integrates for two. That's how many protons are being involved.",
+      "url": "https://oyc.yale.edu/chemistry/chem-125b/lecture-23",
+      "evidenceId": "eb9b66c5592a331d1398",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "Yale University",
+      "ref": "Open Yale Courses CHEM 125b Lecture 23 — Multiplicity in Spin-Spin Splitting",
+      "quote": "It integrates for two. That's how many protons are being involved.",
+      "url": "https://oyc.yale.edu/chemistry/chem-125b/lecture-23",
+      "evidenceId": "eb9b66c5592a331d1398",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "Yale University",
+      "ref": "Open Yale Courses CHEM 125b Lecture 23 — Multiplicity in Spin-Spin Splitting",
+      "quote": "It integrates for two. That's how many protons are being involved.",
+      "url": "https://oyc.yale.edu/chemistry/chem-125b/lecture-23",
+      "evidenceId": "eb9b66c5592a331d1398",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "Yale University",
+      "ref": "Open Yale Courses CHEM 125b Lecture 23 — Multiplicity in Spin-Spin Splitting",
+      "quote": "It integrates for two. That's how many protons are being involved.",
+      "url": "https://oyc.yale.edu/chemistry/chem-125b/lecture-23",
+      "evidenceId": "eb9b66c5592a331d1398",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "Yale University",
+      "ref": "Open Yale Courses CHEM 125b Lecture 23 — Multiplicity in Spin-Spin Splitting",
+      "quote": "It integrates for two. That's how many protons are being involved.",
+      "url": "https://oyc.yale.edu/chemistry/chem-125b/lecture-23",
+      "evidenceId": "eb9b66c5592a331d1398",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "Yale University",
+      "ref": "Open Yale Courses CHEM 125b Lecture 23 — Multiplicity in Spin-Spin Splitting",
+      "quote": "It integrates for two. That's how many protons are being involved.",
+      "url": "https://oyc.yale.edu/chemistry/chem-125b/lecture-23",
+      "evidenceId": "eb9b66c5592a331d1398",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "Original peak multiplicities, approximate shifts and integration inspected; Yale primary lecture ethyl-acetate example matched. Formula mass and neighbor splitting checked. Removed DBE1-implies-carbonyl and integration-alone-implies-formula claims; corrected n+1 equivalence condition.",
+    "contentHash": "48e6ca94638901b29733c92ed9ed028ed65fa5c5c189a9b446702fe67e5e7952"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "460eabe14f2e6692b9bb",
+  "kind": "science",
+  "source": "NASA",
+  "ref": "Hubble Reveals Dynamic Atmospheres of Uranus, Neptune",
+  "url": "https://science.nasa.gov/missions/hubble/hubble-reveals-dynamic-atmospheres-of-uranus-neptune/",
+  "excerpt": "Atmospheric methane absorbs red light but allows blue-green light to be scattered back into space",
+  "sourceHash": "f88a0bd8632e4f815c3808464e5ae0382b7f4e2382920124380ac1e38ec4b7b6",
+  "cacheSourceId": "e441f871ad39b764f3d8",
+  "retrievedAt": "2026-11-07T02:56:28.402298+00:00",
+  "reviewedMappings": {
+    "2024-3-40:4": "메탄의 적색광 흡수와 청록색 산란을 확인. 메탄 자체가 푸른빛을 방출한다고 설명하지 않음."
+  },
+  "retrievalMethod": "Direct paragraph on both ice giants reviewed.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

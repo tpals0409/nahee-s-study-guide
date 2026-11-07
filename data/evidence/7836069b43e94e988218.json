@@ -1,0 +1,21 @@
+{
+  "id": "7836069b43e94e988218",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 2e, 3.4 Other Units for Solution Concentrations",
+  "url": "https://openstax.org/books/chemistry-2e/pages/3-4-other-units-for-solution-concentrations",
+  "excerpt": "the ratio of the component’s mass to the solution’s mass",
+  "sourceHash": "45fec67edf65e38e5afe0138feff22a4422c6dffe929eac8eedd6ecca214de45",
+  "cacheSourceId": "b8297db8d9792f246cf2",
+  "retrievedAt": "2026-11-07T01:38:54.833257+00:00",
+  "reviewedMappings": {
+    "2023-3-11:0": "몰농도 n/V(L), 질량 퍼센트 100m_A/m_용액과 밀도를 사용. 원문 100mL, 몰질량100 및 증발 없음에 따라 x=ad₂/d₁, y=10a/d₁, x/y=d₂/10을 독립 계산.",
+    "2023-3-11:1": "20℃ 부피는 100d₁/d₂ mL이므로 최종 몰농도에 d₂가 반영된다. d₁/10은 초기 온도의 몰농도와 질량 퍼센트의 비로 최종 일반식이 아니다.",
+    "2023-3-11:2": "정의에 따른 x=ad₂/d₁ 및 y=10a/d₁를 나누면 d₂/10이다. 별도로 20℃ 용액1L 기준 용질질량10d₂y g을 100g/mol로 나눠 x=d₂y/10 검산.",
+    "2023-3-11:3": "농도 정의와 밀도 환산을 결합한 x/y=10d₂/100과 비교하면 d₁/5는 온도에 맞는 밀도 및 계수 모두 다르다.",
+    "2023-3-11:4": "질량 퍼센트의100과 mL/L의1000, 몰질량100을 함께 환산하면 계수1/10이다. d₂/5는 두 배다.",
+    "2023-3-11:5": "x와 y에 공통으로 있는 a/d₁이 약분된다. 최종식에는 d₂만 남으므로 d₁d₂/5는 일반식이 아니다."
+  },
+  "retrievalMethod": "Direct web open; molarity definition and mass-percentage definition/density conversion example 3.23 reviewed. Applied to original question independently.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

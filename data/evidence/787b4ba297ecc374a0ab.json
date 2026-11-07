@@ -1,0 +1,16 @@
+{
+  "id": "787b4ba297ecc374a0ab",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume 2 §1.5 Phase Changes",
+  "url": "https://openstax.org/books/university-physics-volume-2/pages/1-5-phase-changes",
+  "excerpt": "However, in a phase transition, heat transfer does not cause any temperature change.",
+  "sourceHash": "be78bbe86f9874bd75da53d260a5557fe9b2450079e30a46db90c834210e6ca4",
+  "cacheSourceId": "13e6d4882e5523646cff",
+  "retrievedAt": "2026-11-06T16:21:39.411207+00:00",
+  "reviewedMappings": {
+    "2011-3-06:0": "기화에 필요한 에너지는 질량×단위질량 기화열. 문제의 값으로 .06×2.3e6=138000J. 초기·최종 온도가 같아 별도의 온도 상승 항 없음."
+  },
+  "retrievalMethod": "web.run; relevant equations and paragraphs manually reviewed",
+  "sourceHashScope": "Selected excerpt only; not full page"
+}

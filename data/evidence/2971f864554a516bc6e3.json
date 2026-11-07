@@ -1,0 +1,17 @@
+{
+  "id": "2971f864554a516bc6e3",
+  "kind": "science",
+  "source": "The Geological Society",
+  "ref": "Oceanic/Continental: The Andes",
+  "url": "https://www.geolsoc.org.uk/Plate-Tectonics/Chap3-Plate-Margins/Convergent/Oceanic-continental.html",
+  "excerpt": "lowering the melting point of the mantle and causing partial melting.",
+  "sourceHash": "5c6d5f298c4431c84646dbfee4b9291fb5ad53dee1e0e6b713feadfaf94f078e",
+  "cacheSourceId": "0b48f6eaaad5f4fceafe",
+  "retrievedAt": "2026-11-06T19:51:11.593499+00:00",
+  "reviewedMappings": {
+    "2015-3-31:0": "원문 46행은 섭입판에서 방출된 물이 맨틀 용융점을 낮추어 부분용융 및 마그마 상승을 일으킴을 설명한다. 해양판 자체가 전부 녹는다고 설명하지 않는다.",
+    "2015-3-31:3": "원문 46행은 섭입판에서 방출된 물이 맨틀 용융점을 낮추어 부분용융 및 마그마 상승을 일으킴을 설명한다. 해양판 자체가 전부 녹는다고 설명하지 않는다."
+  },
+  "retrievalMethod": "Direct web open; source line 46 reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

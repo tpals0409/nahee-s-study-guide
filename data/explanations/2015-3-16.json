@@ -1,0 +1,195 @@
+{
+  "id": "2015-3-16",
+  "summary": "최종정답은⑤(ㄱ·ㄴ·ㄷ)입니다. 중간체는Cl과HS이고, 주어진 속도식에서H₂S의 지수는1입니다. ㄴ은 가장 큰 국소 활성화 장벽 E_a3를 갖는 단계Ⅲ이 속도를 제한한다고 보는 단순화된 에너지 도표 해석에 따릅니다.",
+  "choices": [
+    "①(ㄱ): Cl은 단계Ⅰ에서 생성되어Ⅱ·Ⅲ에서 소모되고,HS는Ⅱ에서 생성되어Ⅲ에서 소모됩니다. 전체 반응식에서 두 종이 소거되므로ㄱ은 옳습니다. 그러나 주어진 속도식으로 확인되는ㄷ도 포함해야 합니다.",
+    "②(ㄷ): v=k[Cl₂][H₂S]에서H₂S의 지수가1이므로ㄷ은 옳습니다. 다만 중간체 두 종류라는ㄱ도 옳으므로ㄷ만 고를 수 없습니다.",
+    "③(ㄱ·ㄴ): 도표를 단순화해 가장 큰 활성화 장벽의 단계를 속도 결정 단계로 보면ㄴ도 옳습니다. 하지만 명시된 속도식에서H₂S에 대한1차 반응임을 확인할 수 있어ㄷ을 빠뜨린③은 불완전합니다.",
+    "④(ㄴ·ㄷ): 단계Ⅲ을 속도 결정 단계로 보는 도표 해석과H₂S에 대한1차 반응 설명을 골랐지만,Cl·HS가 중간체라는ㄱ을 빠뜨렸습니다.",
+    "⑤(ㄱ·ㄴ·ㄷ): 최종정답표의 답입니다. ㄱ은 단계별 생성·소모,ㄷ은 제시된 속도식에서 직접 확인합니다. ㄴ은 E_a3가 가장 크므로 단계Ⅲ이 느리다고 보는 도표의 단순화된 해석입니다. 이를 모든 반응 조건에서 자동으로 성립하는 일반 법칙으로 확대하지 않습니다."
+  ],
+  "lawNote": "해석 주의: 활성화 에너지는 각 단계의 출발점에서 해당 전이상태까지의 높이입니다. 실제 속도 비교에는 빈도 인자와 농도도 영향을 줍니다. 또한 앞의 두 가역 단계를 모두 빠른 평형으로 가정하면 [Cl]²=K₁[Cl₂], [HS]=K₂[Cl][H₂S]/[HCl]이므로 단계Ⅲ의 속도는 k₃K₁K₂[Cl₂][H₂S]/[HCl]이 됩니다. 이는 주어진 속도식과 다릅니다. 따라서 그러한 추가 가정을 이용해 제시된 속도식이 검증되었다고 주장하지 않으며,ㄷ은 문제에 주어진 식 자체로 판단합니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §12.6 Reaction Mechanisms",
+      "quote": "Species that are produced in one step and consumed in a subsequent step are called intermediates.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/12-6-reaction-mechanisms",
+      "evidenceId": "b00304c51125179c80f0",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §12.6 Reaction Mechanisms",
+      "quote": "Species that are produced in one step and consumed in a subsequent step are called intermediates.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/12-6-reaction-mechanisms",
+      "evidenceId": "b00304c51125179c80f0",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §12.6 Reaction Mechanisms",
+      "quote": "Species that are produced in one step and consumed in a subsequent step are called intermediates.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/12-6-reaction-mechanisms",
+      "evidenceId": "b00304c51125179c80f0",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §12.6 Reaction Mechanisms",
+      "quote": "Species that are produced in one step and consumed in a subsequent step are called intermediates.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/12-6-reaction-mechanisms",
+      "evidenceId": "b00304c51125179c80f0",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §12.6 Reaction Mechanisms",
+      "quote": "Species that are produced in one step and consumed in a subsequent step are called intermediates.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/12-6-reaction-mechanisms",
+      "evidenceId": "b00304c51125179c80f0",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §12.6 Reaction Mechanisms",
+      "quote": "Species that are produced in one step and consumed in a subsequent step are called intermediates.",
+      "url": "https://openstax.org/books/chemistry-2e/pages/12-6-reaction-mechanisms",
+      "evidenceId": "b00304c51125179c80f0",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §12.3 Rate Laws",
+      "quote": "The exponents m and n are the reaction orders",
+      "url": "https://openstax.org/books/chemistry-2e/pages/12-3-rate-laws",
+      "evidenceId": "ec2727ddcf570a6899f5",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §12.3 Rate Laws",
+      "quote": "The exponents m and n are the reaction orders",
+      "url": "https://openstax.org/books/chemistry-2e/pages/12-3-rate-laws",
+      "evidenceId": "ec2727ddcf570a6899f5",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §12.3 Rate Laws",
+      "quote": "The exponents m and n are the reaction orders",
+      "url": "https://openstax.org/books/chemistry-2e/pages/12-3-rate-laws",
+      "evidenceId": "ec2727ddcf570a6899f5",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §12.3 Rate Laws",
+      "quote": "The exponents m and n are the reaction orders",
+      "url": "https://openstax.org/books/chemistry-2e/pages/12-3-rate-laws",
+      "evidenceId": "ec2727ddcf570a6899f5",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §12.3 Rate Laws",
+      "quote": "The exponents m and n are the reaction orders",
+      "url": "https://openstax.org/books/chemistry-2e/pages/12-3-rate-laws",
+      "evidenceId": "ec2727ddcf570a6899f5",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §12.3 Rate Laws",
+      "quote": "The exponents m and n are the reaction orders",
+      "url": "https://openstax.org/books/chemistry-2e/pages/12-3-rate-laws",
+      "evidenceId": "ec2727ddcf570a6899f5",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e 12.5 Collision Theory",
+      "quote": "using an alternate version of the Arrhenius equation that takes the form of a linear equation",
+      "url": "https://openstax.org/books/chemistry-2e/pages/12-5-collision-theory",
+      "evidenceId": "03daca046ac94bb7bdf7",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e 12.5 Collision Theory",
+      "quote": "using an alternate version of the Arrhenius equation that takes the form of a linear equation",
+      "url": "https://openstax.org/books/chemistry-2e/pages/12-5-collision-theory",
+      "evidenceId": "03daca046ac94bb7bdf7",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e 12.5 Collision Theory",
+      "quote": "using an alternate version of the Arrhenius equation that takes the form of a linear equation",
+      "url": "https://openstax.org/books/chemistry-2e/pages/12-5-collision-theory",
+      "evidenceId": "03daca046ac94bb7bdf7",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e 12.5 Collision Theory",
+      "quote": "using an alternate version of the Arrhenius equation that takes the form of a linear equation",
+      "url": "https://openstax.org/books/chemistry-2e/pages/12-5-collision-theory",
+      "evidenceId": "03daca046ac94bb7bdf7",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Verified explicit simplified diagram interpretation with kinetic limitation retained. Original image and 2015 final-key PDF p3 A-form16=5 viewed. Intermediate cancellation and supplied-law exponent verified; pre-equilibrium mismatch disclosed rather than claimed resolved.",
+    "contentHash": "5902c81c0790e612a6375073c6ca37e9cdd379b38dee072a644a3c1013410a64"
+  }
+}

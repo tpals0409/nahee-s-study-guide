@@ -1,0 +1,21 @@
+{
+  "id": "14bfdddd527d880b5aa0",
+  "kind": "science",
+  "source": "U.S. Environmental Protection Agency",
+  "ref": "APTI Course SI:409 Basic Air Pollution Meteorology Student Guidebook",
+  "url": "https://nepis.epa.gov/Exe/ZyPURL.cgi?Dockey=20011ROL.TXT",
+  "excerpt": "As the air mass rises, cooler air moves underneath.",
+  "sourceHash": "d14a57ac82c3b3a911a87a114b0db7e0cf50cda3b9ea277f2d0cde4da7df095f",
+  "cacheSourceId": "2ef04ce207d79f17d0c8",
+  "retrievedAt": "2026-11-06T22:54:11.583105+00:00",
+  "reviewedMappings": {
+    "2019-3-36:0": "원본 (가)의 가는 수평 연기와 (나)의 상하 굴곡을 각각 fanning/looping에 대응하고 건조 안정도 및 상향 열수송으로 ㄴ 단독을 판정했다.",
+    "2019-3-36:1": "부채형이 안정한 조건에서 생긴다는 설명과 (가)를 대조했다.",
+    "2019-3-36:2": "건조 상승 공기보다 환경의 감률이 클 때 부력이 강화된다는 설명을 (나)의 불안정 모형에 적용했다.",
+    "2019-3-36:3": "따뜻한 하층 공기 상승과 열의 상향 운반이 지표 가열을 완화하는 효과를 추론했다. 총 열수지에 따른 실제 기온 추세를 단정하지 않는다.",
+    "2019-3-36:4": "부채형은 안정, 환상형은 불안정이므로 ㄱ을 배제하고 ㄴ을 인정했다.",
+    "2019-3-36:5": "건조 불안정 조건의 ㄴ은 참이나 상향 열수송의 효과와 반대인 ㄷ은 거짓이다."
+  },
+  "retrievalMethod": "Direct web open/find of EPA-hosted guidebook: reviewed lines 1052–1057 and 1478–1484 heat transport, 2494–2513 dry unstable parcels, 2591–2603 dry assumption versus conditional instability, 2921–2942 looping/fanning. Excerpt whitespace normalized; OCR-corrupted equations not quoted. Original 2019-3-36.webp visually inspected.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

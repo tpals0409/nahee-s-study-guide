@@ -1,0 +1,16 @@
+{
+  "id": "bd7722239ba43cce7556",
+  "kind": "science",
+  "source": "NOAA / National Weather Service",
+  "ref": "Appendix 1 — Plume Characteristics",
+  "url": "https://www.weather.gov/media/wrh/online_publications/TMs/TM-214.pdf",
+  "excerpt": "Looping is associated with unstable (A-, B-, or C-stabilities) atmospheric conditions.",
+  "sourceHash": "c4ff2d572bfd52c2f9afed727afb6d1044f6492270dc241028d16e19df1d80fc",
+  "cacheSourceId": "0580457dbd9efa46464f",
+  "retrievedAt": "2026-11-07T03:36:31.696031+00:00",
+  "reviewedMappings": {
+    "2025-3-38:3": "전 높이에서 단열선보다 기온 감소가 큰 ③은 불안정에 따른 환상형. 상층 역전 차단이 없어 훈증형 그림과 다름."
+  },
+  "retrievalMethod": "Search-indexed NWS technical memorandum excerpt read",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

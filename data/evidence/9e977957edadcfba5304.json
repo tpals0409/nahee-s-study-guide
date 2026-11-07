@@ -1,0 +1,20 @@
+{
+  "id": "9e977957edadcfba5304",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Astronomy 2e 22.3 Checking Out the Theory",
+  "url": "https://openstax.org/books/astronomy-2e/pages/22-3-checking-out-the-theory",
+  "excerpt": "The older the cluster, the lower the point on the main sequence",
+  "sourceHash": "83f772a953887f9ec2ba22e149af3ae66dac0641ab99f500810d16e6789f25b4",
+  "cacheSourceId": "81c5bda0316506c3e221",
+  "retrievedAt": "2026-11-07T06:07:22.972847+00:00",
+  "reviewedMappings": {
+    "2011-3-36:0": "Age-turnoff relation directly supports ㄱ reasoning; exact cluster ages require models. Does not imply minimum member mass.",
+    "2011-3-36:1": "Age-turnoff relation directly supports ㄱ reasoning; exact cluster ages require models. Does not imply minimum member mass.",
+    "2011-3-36:3": "Age-turnoff relation directly supports ㄱ reasoning; exact cluster ages require models. Does not imply minimum member mass.",
+    "2011-3-36:4": "Age-turnoff relation directly supports ㄱ reasoning; exact cluster ages require models. Does not imply minimum member mass.",
+    "2011-3-36:5": "Age-turnoff relation directly supports ㄱ reasoning; exact cluster ages require models. Does not imply minimum member mass."
+  },
+  "retrievalMethod": "web direct text",
+  "sourceHashScope": "Short reviewed excerpt only"
+}

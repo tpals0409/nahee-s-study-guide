@@ -1,0 +1,19 @@
+{
+  "id": "ce6cf99b9e9f991370b6",
+  "kind": "science",
+  "source": "CDC",
+  "ref": "CDC Technical Information: E. coli infection",
+  "url": "https://www.cdc.gov/ecoli/php/technical-info/index.html",
+  "excerpt": "Pathogenic E. coli are categorized into pathotypes based on their virulence genes.",
+  "sourceHash": "9316659dd9275e0994419cccda6029cfaa56fe0f5ad1d596f6e6f5611a85568a",
+  "cacheSourceId": "8cc4f4000547162b8ca2",
+  "retrievedAt": "2026-11-07T05:23:14.964342+00:00",
+  "reviewedMappings": {
+    "2014-3-26:0": "O157은 표면 항원 분류이며 병원성 분류는 독력 유전자에 따른다. STEC O157의 위해성은 확인되지만 O157 표기만으로 모든 균주의 독력을 단정하지 않는다.",
+    "2014-3-26:2": "ㄴ은 병원성 STEC O157을 지칭할 때 지지된다. ㄱ 포함 조합의 판정은 별도 문제다.",
+    "2014-3-26:4": "ㄴ의 통상적인 병원성 O157 설명에 근거가 있다. O157과 O157:H7을 완전한 동의어로 사용하지 않는다.",
+    "2014-3-26:1": "CDC 본문32–47,58 재확인. ㄴ을 병원성 STEC O157로 읽을 때 위해성을 설명하되 O항원 혈청군과 독력유전자 분류를 구분한다. ㄱ만 고른 조합은 이 해석에서 ㄴ을 누락한다."
+  },
+  "retrievalMethod": "Direct web open",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

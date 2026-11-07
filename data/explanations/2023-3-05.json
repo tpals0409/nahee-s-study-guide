@@ -1,0 +1,151 @@
+{
+  "id": "2023-3-05",
+  "summary": "정답은 ①입니다. D=Q_A0−Q_B0라 두면 가운데 연결 도체의 전하 보존에서 Q_B=Q_A−D입니다. 전지의 위쪽이 양극이므로 Q_A/C_A+Q_B/C_B=ℰ입니다. 두 식을 풀면 Q_A=C_AC_Bℰ/(C_A+C_B)+DC_A/(C_A+C_B)입니다.",
+  "choices": [
+    "① 정답입니다. 가운데 연결 도체의 초기 전하는 −Q_A0+Q_B0이고 최종 전하는 −Q_A+Q_B입니다. 이를 보존하면서 전압 합을 ℰ로 놓으면 제시된 식이 나옵니다.",
+    "② 오답입니다. D=Q_A0−Q_B0라 하면 Q_B=Q_A−D입니다. 전압 식에 대입하면 Q_A(1/C_A+1/C_B)=ℰ+D/C_B이므로 초기 전하 항 앞에는 더하기 부호가 와야 합니다.",
+    "③ 오답입니다. Q_A(1/C_A+1/C_B)=ℰ+D/C_B를 풀면 D의 계수는 C_A/(C_A+C_B)입니다. C_B/(C_A+C_B)가 아니며, 직렬 연결이라고 두 축전기의 전압이 같아지는 것은 아닙니다.",
+    "④ 오답입니다. 초기 전하 차이 D에 곱해지는 계수는 +C_A/(C_A+C_B)입니다. 이 보기는 부호와 분자가 모두 달라 일반적인 해가 아닙니다.",
+    "⑤ 오답입니다. 가운데 도체에 남는 초기 순전하의 효과를 빠뜨렸습니다. Q_A0=Q_B0이면 이 식으로 줄어들지만, 문제에서 두 초기 전하가 같다는 조건은 주어지지 않았습니다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax University Physics Volume 2",
+      "ref": "8.2 Capacitors in Series and in Parallel",
+      "quote": "These potentials must sum up to the voltage of the battery",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/8-2-capacitors-in-series-and-in-parallel",
+      "evidenceId": "5a3baca0a04e12809f98",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax University Physics Volume 2",
+      "ref": "8.2 Capacitors in Series and in Parallel",
+      "quote": "These potentials must sum up to the voltage of the battery",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/8-2-capacitors-in-series-and-in-parallel",
+      "evidenceId": "5a3baca0a04e12809f98",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax University Physics Volume 2",
+      "ref": "8.2 Capacitors in Series and in Parallel",
+      "quote": "These potentials must sum up to the voltage of the battery",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/8-2-capacitors-in-series-and-in-parallel",
+      "evidenceId": "5a3baca0a04e12809f98",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax University Physics Volume 2",
+      "ref": "8.2 Capacitors in Series and in Parallel",
+      "quote": "These potentials must sum up to the voltage of the battery",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/8-2-capacitors-in-series-and-in-parallel",
+      "evidenceId": "5a3baca0a04e12809f98",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax University Physics Volume 2",
+      "ref": "8.2 Capacitors in Series and in Parallel",
+      "quote": "These potentials must sum up to the voltage of the battery",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/8-2-capacitors-in-series-and-in-parallel",
+      "evidenceId": "5a3baca0a04e12809f98",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax University Physics Volume 2",
+      "ref": "8.2 Capacitors in Series and in Parallel",
+      "quote": "These potentials must sum up to the voltage of the battery",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/8-2-capacitors-in-series-and-in-parallel",
+      "evidenceId": "5a3baca0a04e12809f98",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax University Physics Volume 2",
+      "ref": "Chapter 5 Summary",
+      "quote": "the net charge of a closed system is constant.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/5-summary",
+      "evidenceId": "5339f49df37e169342f9",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax University Physics Volume 2",
+      "ref": "Chapter 5 Summary",
+      "quote": "the net charge of a closed system is constant.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/5-summary",
+      "evidenceId": "5339f49df37e169342f9",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax University Physics Volume 2",
+      "ref": "Chapter 5 Summary",
+      "quote": "the net charge of a closed system is constant.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/5-summary",
+      "evidenceId": "5339f49df37e169342f9",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax University Physics Volume 2",
+      "ref": "Chapter 5 Summary",
+      "quote": "the net charge of a closed system is constant.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/5-summary",
+      "evidenceId": "5339f49df37e169342f9",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax University Physics Volume 2",
+      "ref": "Chapter 5 Summary",
+      "quote": "the net charge of a closed system is constant.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/5-summary",
+      "evidenceId": "5339f49df37e169342f9",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax University Physics Volume 2",
+      "ref": "Chapter 5 Summary",
+      "quote": "the net charge of a closed system is constant.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/5-summary",
+      "evidenceId": "5339f49df37e169342f9",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Original battery long upper plate and signed capacitor labels verified; isolated-node charge conservation and voltage-sum derivation independently checked with exact rational substitutions. Corrected false equal-voltage claim and broadened zero-correction condition to equal initial charges.",
+    "contentHash": "64537370582211a5d84d7d52d9cbd0cc80bf29cc25420d252b81035de4187226"
+  }
+}

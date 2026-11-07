@@ -1,0 +1,27 @@
+{
+  "id": "e9506697938a3593bd20",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 2e §9.3, ideal gas law, Dalton’s law and Example 9.14",
+  "url": "https://openstax.org/books/chemistry-2e/pages/9-3-stoichiometry-of-gaseous-substances-mixtures-and-reactions",
+  "excerpt": "The gases behave independently",
+  "sourceHash": "7beb3752b93f47aaac1323a240992cd5668d87c810d00cc516e480db2957e8df",
+  "cacheSourceId": "80fe2c4c08a7343c7d52",
+  "retrievedAt": "2026-11-07T02:26:04.209889+00:00",
+  "reviewedMappings": {
+    "2024-3-11:0": "Dalton sum and mole fractions give water vapor 2/3 mol and liquid remainder 1/3; final equal mole amounts give He 0.25 atm; PV=nRT yields T2/T1=5/4.",
+    "2024-3-11:1": "Mass equals molar amount times molar mass; 12g vapor and 6g liquid make ㄱ true, with ㄴ and ㄷ false.",
+    "2024-3-11:2": "Fixed helium amount obeys pHe V/T constant; ratio 5/4 contradicts ㄷ.",
+    "2024-3-11:3": "Final helium mole fraction 1/2 gives 0.25 atm, contradicting ㄴ.",
+    "2024-3-11:4": "Partial pressure and gas-law calculations disprove both ㄴ and ㄷ.",
+    "2024-3-11:5": "Only ㄱ agrees with pressure, mass-balance and ideal-gas calculations.",
+    "2024-3-12:0": "PV=nRT, density and molar mass, partial pressure as mole fraction times total pressure. Original mass balance and common pressure give initial 3n moles in 3 L; density gives V1=10/3 L and V2=9/2 L; equilibrium composition yields concentration ratio 4/3.",
+    "2024-3-12:1": "PV=nRT, density and molar mass, partial pressure as mole fraction times total pressure. Computed concentration ratio 4/3 excludes 5/4.",
+    "2024-3-12:2": "PV=nRT, density and molar mass, partial pressure as mole fraction times total pressure. Kp/P=yB²/(1−yB); y1=1/2 gives K1/P=1/2; K2/P=9/4 yields y2=3/4, yielding concentration ratio 4/3.",
+    "2024-3-12:3": "PV=nRT, density and molar mass, partial pressure as mole fraction times total pressure. Mole fraction ratio alone omits total molar concentration change.",
+    "2024-3-12:4": "PV=nRT, density and molar mass, partial pressure as mole fraction times total pressure. B amount in equilibrium I is not the requested concentration ratio.",
+    "2024-3-12:5": "PV=nRT, density and molar mass, partial pressure as mole fraction times total pressure. Kp ratio involves both species and is not directly the B concentration ratio."
+  },
+  "retrievalMethod": "Direct OpenStax page reviewed: PV=nRT, density and molar mass, partial pressure as mole fraction times total pressure",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

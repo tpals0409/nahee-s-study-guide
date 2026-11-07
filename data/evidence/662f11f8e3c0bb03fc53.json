@@ -1,0 +1,17 @@
+{
+  "id": "662f11f8e3c0bb03fc53",
+  "kind": "science",
+  "source": "국토지리정보원",
+  "ref": "대한민국 국가지도집: 지질과 암석",
+  "url": "https://nationalatlas.ngii.go.kr/pages/page_668.php",
+  "excerpt": "Most coal mines in Korea locate in the Pyeongan Supergroup.",
+  "sourceHash": "85a8bbc0653b9fec4062f2030a835378df5a7a449b28c9c9a897ed002566e15b",
+  "cacheSourceId": "8dc3924912dc68fe3cd0",
+  "retrievedAt": "2026-11-07T02:50:38.168784+00:00",
+  "reviewedMappings": {
+    "2024-3-36:0": "Supports major coal-mine association, NOT numerical ranking of coal content by weight/volume. Gyeongsang terrestrial lake deposits support option 3.",
+    "2024-3-36:4": "Supports major coal-mine association, NOT numerical ranking of coal content by weight/volume. Gyeongsang terrestrial lake deposits support option 3."
+  },
+  "retrievalMethod": "Official indexed text reviewed; direct open failed 400. Other indexed paragraphs describe Chosun marine limestone and Gyeongsang nonmarine lake sediments.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

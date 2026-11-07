@@ -1,0 +1,14 @@
+{
+  "id": "f78d437f1fa61da06167",
+  "kind": "science",
+  "source": "OpenStax · Biology 2e",
+  "ref": "45.6",
+  "url": "https://openstax.org/books/biology-2e/pages/45-6-community-ecology",
+  "excerpt": "The number of species occupying the same habitat and their relative abundance is known as species diversity.",
+  "sourceHash": "f05f78b82bb7eb9ae8d9e890c827e4694ac02ff6a5dd4f67e1cce12692a708eb",
+  "cacheSourceId": "80ac23240e761e607733",
+  "retrievedAt": "2026-11-06T15:02:23.456318+00:00",
+  "reviewedMappings": {
+    "2009-3-29:0": "원본 2009-3-29.webp 표와 보기 대조. A와B 각각100개체·5종; A의I90%우점, B18~22%로균등. 같은종풍부도에서B다양도높음. ㄱㄷ만참."
+  }
+}

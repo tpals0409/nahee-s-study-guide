@@ -1,0 +1,184 @@
+{
+  "id": "2024-3-22",
+  "summary": "정답은 ③, ㄱ·ㄷ입니다. C₄ 경로는 루비스코 주변에 CO₂를 농축해 광호흡 손실을 줄입니다. C₃ 식물의 주된 광합성 탄소 고정 장소는 엽육세포이며, 유관속초세포에 캘빈 회로가 집중되는 것은 전형적인 C₄ 식물의 특징입니다. CAM 식물은 밤에 CO₂를 흡수해 유기산에 저장하고 낮에 이를 이용합니다.",
+  "choices": [
+    "ㄱ은 옳지만 ㄷ도 옳으므로 불완전한 조합입니다. C₄의 CO₂ 농축은 광호흡을 억제하며, CAM의 특징은 야간 CO₂ 흡수·고정입니다.",
+    "ㄴ은 옳지 않습니다. C₃ 식물의 광합성 탄소 고정은 주로 엽육세포 엽록체에서 일어납니다. 유관속초세포에 캘빈 회로가 집중되는 전형적 C₄ 경로와 구분해야 합니다.",
+    "ㄱ과 ㄷ이 옳습니다. C₄는 CO₂ 농축으로 광호흡 손실을 줄이고, CAM은 밤에 흡수한 CO₂를 저장했다가 낮에 캘빈 회로에 공급합니다.",
+    "ㄷ은 옳지만 ㄴ은 옳지 않고, 옳은 ㄱ도 빠졌습니다. C₃와 전형적인 C₄의 주요 탄소 고정 장소를 바꾸어 설명한 것이 ㄴ입니다.",
+    "ㄴ이 옳지 않으므로 세 진술을 모두 고를 수 없습니다. ㄱ과 ㄷ만 옳습니다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e §8.3, Calvin cycle and nocturnal carbon storage",
+      "quote": "until it reaches the mesophyll cells",
+      "url": "https://openstax.org/books/biology-2e/pages/8-3-using-light-energy-to-make-organic-molecules",
+      "evidenceId": "11ebd23378726e2825ae",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e §8.3, Calvin cycle and nocturnal carbon storage",
+      "quote": "until it reaches the mesophyll cells",
+      "url": "https://openstax.org/books/biology-2e/pages/8-3-using-light-energy-to-make-organic-molecules",
+      "evidenceId": "11ebd23378726e2825ae",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e §8.3, Calvin cycle and nocturnal carbon storage",
+      "quote": "until it reaches the mesophyll cells",
+      "url": "https://openstax.org/books/biology-2e/pages/8-3-using-light-energy-to-make-organic-molecules",
+      "evidenceId": "11ebd23378726e2825ae",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e §8.3, Calvin cycle and nocturnal carbon storage",
+      "quote": "until it reaches the mesophyll cells",
+      "url": "https://openstax.org/books/biology-2e/pages/8-3-using-light-energy-to-make-organic-molecules",
+      "evidenceId": "11ebd23378726e2825ae",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e §8.3, Calvin cycle and nocturnal carbon storage",
+      "quote": "until it reaches the mesophyll cells",
+      "url": "https://openstax.org/books/biology-2e/pages/8-3-using-light-energy-to-make-organic-molecules",
+      "evidenceId": "11ebd23378726e2825ae",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e §8.3, Calvin cycle and nocturnal carbon storage",
+      "quote": "until it reaches the mesophyll cells",
+      "url": "https://openstax.org/books/biology-2e/pages/8-3-using-light-energy-to-make-organic-molecules",
+      "evidenceId": "11ebd23378726e2825ae",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "NCBI Bookshelf / Garland Science",
+      "ref": "Molecular Biology of the Cell, Chloroplasts and Photosynthesis",
+      "quote": "specialized bundle-sheath cells",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK26819/",
+      "evidenceId": "3050d73d92cc6fd2dcfe",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "NCBI Bookshelf / Garland Science",
+      "ref": "Molecular Biology of the Cell, Chloroplasts and Photosynthesis",
+      "quote": "specialized bundle-sheath cells",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK26819/",
+      "evidenceId": "3050d73d92cc6fd2dcfe",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "NCBI Bookshelf / Garland Science",
+      "ref": "Molecular Biology of the Cell, Chloroplasts and Photosynthesis",
+      "quote": "specialized bundle-sheath cells",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK26819/",
+      "evidenceId": "3050d73d92cc6fd2dcfe",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "NCBI Bookshelf / Garland Science",
+      "ref": "Molecular Biology of the Cell, Chloroplasts and Photosynthesis",
+      "quote": "specialized bundle-sheath cells",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK26819/",
+      "evidenceId": "3050d73d92cc6fd2dcfe",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "Journal of Experimental Botany",
+      "ref": "Photorespiration connects C3 and C4 photosynthesis (2016), abstract",
+      "quote": "The oxygenase reaction and, accordingly, photorespiration are largely suppressed.",
+      "url": "https://academic.oup.com/jxb/article/67/10/2953/1749173",
+      "evidenceId": "82a774cff380796c3181",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "Journal of Experimental Botany",
+      "ref": "Photorespiration connects C3 and C4 photosynthesis (2016), abstract",
+      "quote": "The oxygenase reaction and, accordingly, photorespiration are largely suppressed.",
+      "url": "https://academic.oup.com/jxb/article/67/10/2953/1749173",
+      "evidenceId": "82a774cff380796c3181",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "Journal of Experimental Botany",
+      "ref": "Photorespiration connects C3 and C4 photosynthesis (2016), abstract",
+      "quote": "The oxygenase reaction and, accordingly, photorespiration are largely suppressed.",
+      "url": "https://academic.oup.com/jxb/article/67/10/2953/1749173",
+      "evidenceId": "82a774cff380796c3181",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "Journal of Experimental Botany",
+      "ref": "Photorespiration connects C3 and C4 photosynthesis (2016), abstract",
+      "quote": "The oxygenase reaction and, accordingly, photorespiration are largely suppressed.",
+      "url": "https://academic.oup.com/jxb/article/67/10/2953/1749173",
+      "evidenceId": "82a774cff380796c3181",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "Journal of Experimental Botany",
+      "ref": "Photorespiration connects C3 and C4 photosynthesis (2016), abstract",
+      "quote": "The oxygenase reaction and, accordingly, photorespiration are largely suppressed.",
+      "url": "https://academic.oup.com/jxb/article/67/10/2953/1749173",
+      "evidenceId": "82a774cff380796c3181",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Original statements inspected; mesophyll/C4 bundle-sheath distinction, photorespiration suppression and CAM temporal separation checked against textbook and publisher sources",
+    "contentHash": "1a0b6e47d0674a8709fb09ade9670bcaa834db23a93f4e9aac5f9df2eec20b22"
+  }
+}

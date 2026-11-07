@@ -1,0 +1,14 @@
+{
+  "id": "46d1ad1e4134d2b47646",
+  "kind": "science",
+  "source": "OpenStax · Chemistry: Atoms First 2e",
+  "ref": "3.1",
+  "url": "https://openstax.org/books/chemistry-atoms-first-2e/pages/3-1-electromagnetic-energy",
+  "excerpt": "This phenomenon of X-ray diffraction is the basis for very powerful techniques enabling the determination of molecular structure.",
+  "sourceHash": "cdf3128ab46b596413338f44e8fd9e4467d2f47610ad61f49ca5fbc48a5986a7",
+  "cacheSourceId": "777601cfe676691e16b4",
+  "retrievedAt": "2026-11-06T15:19:39.553901+00:00",
+  "reviewedMappings": {
+    "2009-3-18:2": "MS분자량12.2, XRD원자위치ChemAtomsFirst3.1, IR작용기12.7,1HNMR화학환경13.4,UV공액14.8원문대조. MS는분자이온확인조건, XRD는핵스핀측정아님. 초안의탄소13만스핀존재단정·자연존재비·불필요IR수치삭제."
+  }
+}

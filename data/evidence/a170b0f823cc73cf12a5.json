@@ -1,0 +1,16 @@
+{
+  "id": "a170b0f823cc73cf12a5",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume 1, 9.4 Types of Collisions",
+  "url": "https://openstax.org/books/university-physics-volume-1/pages/9-4-types-of-collisions",
+  "excerpt": "Thus, kinetic energy is not conserved, but momentum is.",
+  "sourceHash": "fe8c035592483b8afce4fd482863e9eb9a93b9e3a7f7ca5654fb3e0a98f98b13",
+  "cacheSourceId": "7462a81711e63023c5b7",
+  "retrievedAt": "2026-11-06T18:33:37.655010+00:00",
+  "reviewedMappings": {
+    "2014-3-03:0": "완전비탄성충돌에서 붙은 두 공의 질량 합과 공통 속력을 사용한다. 원본의 최저점 기하에서 수평 외력이 없으므로 Mv=4MV. 운동에너지 비는 4(V/v)²=1/4로 독립 계산."
+  },
+  "retrievalMethod": "web.open; direct primary-source page reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

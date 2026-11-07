@@ -1,0 +1,21 @@
+{
+  "id": "4e7c3f24490b67609d3f",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume 1 §9.3 Conservation of Linear Momentum",
+  "url": "https://openstax.org/books/university-physics-volume-1/pages/9-3-conservation-of-linear-momentum",
+  "excerpt": "The net external force on the system must be zero.",
+  "sourceHash": "e1b7a0bee8642b5d6ecf4dfed8f0f4a1ddcae1ae8a82c1a6c9df538c5a86e34f",
+  "cacheSourceId": "9613e020d0aecbcfe30f",
+  "retrievedAt": "2026-11-06T23:02:58.064370+00:00",
+  "reviewedMappings": {
+    "2020-3-02:0": "수평 운동량 60(0.30)+90v=0으로 v=-0.20 m/s.",
+    "2020-3-02:1": "v=-0.15이면 총운동량 +4.5로 초기 0과 불일치.",
+    "2020-3-02:2": "v=-0.15이면 총운동량 +4.5로 초기 0과 불일치.",
+    "2020-3-02:3": "v=-0.20이면 총운동량 0으로 일치.",
+    "2020-3-02:4": "속도 -0.20은 운동량 보존 만족.",
+    "2020-3-02:5": "v=-0.25이면 총운동량 -4.5로 초기 0과 불일치."
+  },
+  "retrievalMethod": "Direct web retrieval; reviewed equations 9.10–9.17 and Requirements for Momentum Conservation, lines 32–118.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

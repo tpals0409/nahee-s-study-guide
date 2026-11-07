@@ -1,0 +1,24 @@
+{
+  "id": "a9be9b377cb02e81fce5",
+  "kind": "science",
+  "source": "OpenStax Chemistry 2e",
+  "ref": "6.4 Electronic Structure of Atoms (Electron Configurations)",
+  "url": "https://openstax.org/books/chemistry-2e/pages/6-4-electronic-structure-of-atoms-electron-configurations",
+  "excerpt": "These three electrons have unpaired spins.",
+  "sourceHash": "318c850e79674eaad3d195e2c92e8a6f6fc57f0279227e78ba88e62489c1f217",
+  "cacheSourceId": "45eaf5ef2537ececfa2e",
+  "retrievedAt": "2026-11-07T03:16:48.874824+00:00",
+  "reviewedMappings": {
+    "2025-3-16:0": "Be=1s²2s²、N=1s²2s²2p³、Ne=1s²2s²2p⁶의 바닥상태를 본문·오비탈 그림 설명과 대조. a=3,b=0,Z가=4; N/Ne 점유 오비탈 각각 5개이므로 ㄱㄷ.",
+    "2025-3-16:1": "Hund 규칙과 N/Ne 배치로 a+b=3 참; 두 원자의 점유 오비탈 5개로 ㄷ도 참이므로 ㄱ만은 불충분.",
+    "2025-3-16:2": "N/Ne의 1s,2s,세 2p 오비탈 점유로 ㄷ 참; 홀전자 3과 0으로 ㄱ도 참.",
+    "2025-3-16:3": "Be 원자번호 4·배치와 B 원자번호 5·2p¹ 본문 비교; ㄴ 거짓.",
+    "2025-3-16:4": "N의 2p³은 세 오비탈 단일 점유, Ne의 2p⁶은 세 오비탈 이중 점유. 1s와2s 포함 모두 5개; a+b=3, Be Z4.",
+    "2025-3-16:5": "ㄷ은 참이나 Be Z4이므로 ㄴ 거짓이며 옳은 ㄱ을 누락.",
+    "2025-3-20:0": "이 대화에서 직접 읽은 C/O/Na/Al 배치 및 Hund 규칙 적용: C4/2=2,O6/2=3,Na1/1=1,Al3/1=3. 그래프 x값 대응.",
+    "2025-3-20:1": "C/O/Na/Al 전자배치로 x값3인 후보가 O와Al임을 확정.",
+    "2025-3-20:2": "Al 원자가3과 Ne 핵심10의 총13, O 총8로 원자번호 비교."
+  },
+  "retrievalMethod": "Previously read directly in this conversation; retained excerpt, with C/O/Na/Al configurations and Hund rule applied.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

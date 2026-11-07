@@ -1,0 +1,18 @@
+{
+  "id": "118bd5243a78a9e36a84",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e, 11.1 The Process of Meiosis",
+  "url": "https://openstax.org/books/biology-2e/pages/11-1-the-process-of-meiosis",
+  "excerpt": "exchange of chromosomal segments between homologous nonsister chromatids",
+  "sourceHash": "0efe693440ca1c616de38412dfe74dd49e1bdeee574aca49c268a521d9cb8c04",
+  "cacheSourceId": "acd974bff0330a980949",
+  "retrievedAt": "2026-11-07T01:57:26.514001+00:00",
+  "reviewedMappings": {
+    "2023-3-26:0": "Prophase I 절 직접 확인. 상동염색체 비자매 염색분체의 교차 시기가 감수분열 I 전기이므로 ㄱ 참.",
+    "2023-3-26:1": "Prophase I 절 직접 확인. 상동염색체 비자매 염색분체의 교차 시기가 감수분열 I 전기이므로 ㄱ 참.",
+    "2023-3-26:4": "Prophase I 절 직접 확인. 상동염색체 비자매 염색분체의 교차 시기가 감수분열 I 전기이므로 ㄱ 참."
+  },
+  "retrievalMethod": "Prophase I 절 직접 확인. 상동염색체 비자매 염색분체의 교차 시기가 감수분열 I 전기이므로 ㄱ 참.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

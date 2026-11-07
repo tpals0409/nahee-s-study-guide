@@ -1,0 +1,21 @@
+{
+  "id": "ef313947763e83d482fb",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume 1, 6.1: Solving Problems with Newton’s Laws",
+  "url": "https://openstax.org/books/university-physics-volume-1/pages/6-1-solving-problems-with-newtons-laws",
+  "excerpt": "the net external force is zero along each axis because acceleration is zero",
+  "sourceHash": "bc3b80dfff14af9a485e53a06ff4c53d6c5d12d9f975be93aabc29287b817a78",
+  "cacheSourceId": "cba4818803b10e9f524e",
+  "retrievedAt": "2026-11-07T02:57:10.285394+00:00",
+  "reviewedMappings": {
+    "2025-3-01:0": "그림의 각은 수평 기준. 물체와 매듭점의 정적 평형으로 T′=mg, 2T sinθ=mg를 독립 도출.",
+    "2025-3-01:1": "두 상부 줄의 연직 성분을 합하면 2T sinθ이므로 ①은 실제 장력의 두 배.",
+    "2025-3-01:2": "같은 각도에서 수평 평형으로 양쪽 장력이 같으며 연직 평형을 풀면 ②.",
+    "2025-3-01:3": "수평 기준 각도의 연직 성분은 sinθ이고 지지 줄은 두 가닥이므로 ③은 일반식이 아님.",
+    "2025-3-01:4": "④는 각을 연직 기준으로 오인한 식으로 그림 조건의 일반식이 아님.",
+    "2025-3-01:5": "⑤는 독립 도출 장력에 cosθ를 곱한 수평 성분이지 장력의 크기가 아님."
+  },
+  "retrievalMethod": "Direct OpenStax section and Example 6.1 force-component equations reviewed.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

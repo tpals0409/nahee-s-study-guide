@@ -1,0 +1,18 @@
+{
+  "id": "4f32ec939ee23d3699e6",
+  "kind": "science",
+  "source": "NOAA",
+  "ref": "Ocean currents",
+  "url": "https://www.noaa.gov/education/resource-collections/ocean-coasts/ocean-currents",
+  "excerpt": "are driven by global wind systems",
+  "sourceHash": "64b7317bf64c01234e88e6270ec48a95ea26ae2f69faf26eb0c8c7bffa9a4188",
+  "cacheSourceId": "5c3b74f56bbcecb32894",
+  "retrievedAt": "2026-11-06T19:11:21.252357+00:00",
+  "reviewedMappings": {
+    "2014-3-38:0": "NOAA Surface currents section identifies wind as driver of large-scale surface currents, refuting ㄴ. This does not claim density affects only deep water.",
+    "2014-3-38:3": "NOAA Surface currents section identifies wind as driver of large-scale surface currents, refuting ㄴ. This does not claim density affects only deep water.",
+    "2014-3-38:4": "NOAA Surface currents section identifies wind as driver of large-scale surface currents, refuting ㄴ. This does not claim density affects only deep water."
+  },
+  "retrievalMethod": "Direct web open; relevant primary institutional science paragraphs read and applied to original Korean statements.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

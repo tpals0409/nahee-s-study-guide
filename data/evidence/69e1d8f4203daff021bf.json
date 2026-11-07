@@ -1,0 +1,19 @@
+{
+  "id": "69e1d8f4203daff021bf",
+  "kind": "science",
+  "source": "NASA",
+  "ref": "Sun: Facts",
+  "url": "https://science.nasa.gov/sun/facts/",
+  "excerpt": "hot enough to sustain nuclear fusion.",
+  "sourceHash": "bb65b438b323abdc9b65f8cf2c884a7a4dc4bd55d61a3c5f4d9a133c29087d4e",
+  "cacheSourceId": "0343f81a6ce3bc3096e3",
+  "retrievedAt": "2026-11-06T20:47:31.023874+00:00",
+  "reviewedMappings": {
+    "2016-3-38:0": "태양의 구조, 위도별 자전주기, 핵융합 설명을 확인. ②③ 거짓, ⑤ 참.",
+    "2016-3-38:2": "적도 자전주기 약25일, 극 부근 약36일로 고위도 쪽이 더 느리다. 모든 위도에 같은 주기를 적용하지 않는다.",
+    "2016-3-38:3": "본문 Structure: 핵→복사층→대류층→광구 순서. 광구는 가시적 표면층이지 핵과 복사층 사이가 아니다.",
+    "2016-3-38:5": "본문은 핵의 온도가 핵융합을 유지할 만큼 높다고 명시. 핵에서 핵융합이 일어난다는 ⑤가 참."
+  },
+  "retrievalMethod": "Direct web open; rotation, core fusion and Structure sections reviewed.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

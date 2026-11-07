@@ -1,0 +1,16 @@
+{
+  "id": "ae3805b14bb8535888cd",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Microbiology, 3.3 Unique Characteristics of Prokaryotic Cells",
+  "url": "https://openstax.org/books/microbiology/pages/3-3-unique-characteristics-of-prokaryotic-cells",
+  "excerpt": "The major component of bacterial cell walls is called peptidoglycan",
+  "sourceHash": "29b4f6b86c85206ee2e8ba3531e64a6ab2678f1f936a8c81c852585763ad22a0",
+  "cacheSourceId": "c59a2550be9a2e9d3d58",
+  "retrievedAt": "2026-11-07T00:24:53.887592+00:00",
+  "reviewedMappings": {
+    "2021-3-30:4": "Cell Wall section: typical bacterial peptidoglycan; also explicitly acknowledges species lacking cell walls. Do not extend to all prokaryotes."
+  },
+  "retrievalMethod": "Direct textbook page review: Cell Wall section.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

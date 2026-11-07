@@ -1,0 +1,18 @@
+{
+  "id": "12fe9e61fc44cce98025",
+  "kind": "science",
+  "source": "U.S. Geological Survey",
+  "ref": "The Science of Earthquakes",
+  "url": "https://www.usgs.gov/programs/earthquake-hazards/science-earthquakes",
+  "excerpt": "where the earthquake starts is called the hypocenter",
+  "sourceHash": "7a1266c878f8e5e52f523673570cf1097372e721793cf1fa01c80586564aa244",
+  "cacheSourceId": "5d8f8388c8619945f2c0",
+  "retrievedAt": "2026-11-06T20:39:08.929797+00:00",
+  "reviewedMappings": {
+    "2016-3-31:0": "진원은 지진 시작점이며 저장 에너지 방출과 연결된다. 같은 지진의 진도는 위치에 따라 달라져 ③만 옳다.",
+    "2016-3-31:3": "본문의 지하 지진 시작점=hypocenter 및 단층의 저장 에너지 방출 설명을 결합하면 최초 파괴·에너지 방출 지점인 진원의 정의와 일치한다. 지표의 epicenter와 구별.",
+    "2016-3-31:5": "본문은 동일 지진에서도 intensity가 관측 위치에 따라 달라진다고 명시하므로 모든 지역에서 같다는 ⑤는 틀리다."
+  },
+  "retrievalMethod": "Direct web open; hypocenter, energy release and intensity sections reviewed.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

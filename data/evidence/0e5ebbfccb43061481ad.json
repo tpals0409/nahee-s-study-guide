@@ -1,0 +1,27 @@
+{
+  "id": "0e5ebbfccb43061481ad",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 2e §14.3 — Acid Ionization Constants",
+  "url": "https://openstax.org/books/chemistry-2e/pages/14-3-relative-strengths-of-acids-and-bases",
+  "excerpt": "The equilibrium constant for an acid is called the acid-ionization constant",
+  "sourceHash": "dc87a3476d12299c1a80f51fef0a4c44d7504613c11a0148ac1838f78d7c6567",
+  "cacheSourceId": "62b5eca08bff54941a13",
+  "retrievedAt": "2026-11-07T04:02:25.362888+00:00",
+  "reviewedMappings": {
+    "2018-3-17:0": "본문 HA 해리평형 및 Ka=[H3O+][A-]/[HA] 식 직접 확인. 문항의 비휘발성 조건에서 총 산 몰수 보존을 독립 적용. 물 자동이온화 무시 및 분석농도 해석을 명시: h=4Ka=5e-5,C=5h=2.5e-4,V=.4L,제거600mL. 각 선택지의 C=n/V를 이차방정식 h²+Ka*h-Ka*C=0에 대입한 비율은 [0.37015621187164244, 0.34277184284764217, 0.31391680484369977, 0.28319555463432966, 0.25]. 출처에 문제 수치 자체가 실린 것으로 주장하지 않음.",
+    "2018-3-17:1": "본문 HA 해리평형 및 Ka=[H3O+][A-]/[HA] 식 직접 확인. 문항의 비휘발성 조건에서 총 산 몰수 보존을 독립 적용. 물 자동이온화 무시 및 분석농도 해석을 명시: h=4Ka=5e-5,C=5h=2.5e-4,V=.4L,제거600mL. 각 선택지의 C=n/V를 이차방정식 h²+Ka*h-Ka*C=0에 대입한 비율은 [0.37015621187164244, 0.34277184284764217, 0.31391680484369977, 0.28319555463432966, 0.25]. 출처에 문제 수치 자체가 실린 것으로 주장하지 않음.",
+    "2018-3-17:2": "본문 HA 해리평형 및 Ka=[H3O+][A-]/[HA] 식 직접 확인. 문항의 비휘발성 조건에서 총 산 몰수 보존을 독립 적용. 물 자동이온화 무시 및 분석농도 해석을 명시: h=4Ka=5e-5,C=5h=2.5e-4,V=.4L,제거600mL. 각 선택지의 C=n/V를 이차방정식 h²+Ka*h-Ka*C=0에 대입한 비율은 [0.37015621187164244, 0.34277184284764217, 0.31391680484369977, 0.28319555463432966, 0.25]. 출처에 문제 수치 자체가 실린 것으로 주장하지 않음.",
+    "2018-3-17:3": "본문 HA 해리평형 및 Ka=[H3O+][A-]/[HA] 식 직접 확인. 문항의 비휘발성 조건에서 총 산 몰수 보존을 독립 적용. 물 자동이온화 무시 및 분석농도 해석을 명시: h=4Ka=5e-5,C=5h=2.5e-4,V=.4L,제거600mL. 각 선택지의 C=n/V를 이차방정식 h²+Ka*h-Ka*C=0에 대입한 비율은 [0.37015621187164244, 0.34277184284764217, 0.31391680484369977, 0.28319555463432966, 0.25]. 출처에 문제 수치 자체가 실린 것으로 주장하지 않음.",
+    "2018-3-17:4": "본문 HA 해리평형 및 Ka=[H3O+][A-]/[HA] 식 직접 확인. 문항의 비휘발성 조건에서 총 산 몰수 보존을 독립 적용. 물 자동이온화 무시 및 분석농도 해석을 명시: h=4Ka=5e-5,C=5h=2.5e-4,V=.4L,제거600mL. 각 선택지의 C=n/V를 이차방정식 h²+Ka*h-Ka*C=0에 대입한 비율은 [0.37015621187164244, 0.34277184284764217, 0.31391680484369977, 0.28319555463432966, 0.25]. 출처에 문제 수치 자체가 실린 것으로 주장하지 않음.",
+    "2018-3-17:5": "본문 HA 해리평형 및 Ka=[H3O+][A-]/[HA] 식 직접 확인. 문항의 비휘발성 조건에서 총 산 몰수 보존을 독립 적용. 물 자동이온화 무시 및 분석농도 해석을 명시: h=4Ka=5e-5,C=5h=2.5e-4,V=.4L,제거600mL. 각 선택지의 C=n/V를 이차방정식 h²+Ka*h-Ka*C=0에 대입한 비율은 [0.37015621187164244, 0.34277184284764217, 0.31391680484369977, 0.28319555463432966, 0.25]. 출처에 문제 수치 자체가 실린 것으로 주장하지 않음.",
+    "2026-3-20:0": "Textbook Ka=[H+][A-]/[HA] and quadratic treatment; given nonvolatile3mmol gives totals15mM and10mM. Ratio1/5 fixes2.5/12.5mM =>Ka.0005; exact quadratic under negligible water ionization yields2/8mM=>n.25,result500. No small acid-dissociation approximation used.",
+    "2026-3-20:1": "Textbook Ka=[H+][A-]/[HA] and quadratic treatment; given nonvolatile3mmol gives totals15mM and10mM. Ratio1/5 fixes2.5/12.5mM =>Ka.0005; exact quadratic under negligible water ionization yields2/8mM=>n.25,result500. No small acid-dissociation approximation used.",
+    "2026-3-20:2": "Textbook Ka=[H+][A-]/[HA] and quadratic treatment; given nonvolatile3mmol gives totals15mM and10mM. Ratio1/5 fixes2.5/12.5mM =>Ka.0005; exact quadratic under negligible water ionization yields2/8mM=>n.25,result500. No small acid-dissociation approximation used.",
+    "2026-3-20:3": "Textbook Ka=[H+][A-]/[HA] and quadratic treatment; given nonvolatile3mmol gives totals15mM and10mM. Ratio1/5 fixes2.5/12.5mM =>Ka.0005; exact quadratic under negligible water ionization yields2/8mM=>n.25,result500. No small acid-dissociation approximation used.",
+    "2026-3-20:4": "Textbook Ka=[H+][A-]/[HA] and quadratic treatment; given nonvolatile3mmol gives totals15mM and10mM. Ratio1/5 fixes2.5/12.5mM =>Ka.0005; exact quadratic under negligible water ionization yields2/8mM=>n.25,result500. No small acid-dissociation approximation used.",
+    "2026-3-20:5": "Textbook Ka=[H+][A-]/[HA] and quadratic treatment; given nonvolatile3mmol gives totals15mM and10mM. Ratio1/5 fixes2.5/12.5mM =>Ka.0005; exact quadratic under negligible water ionization yields2/8mM=>n.25,result500. No small acid-dissociation approximation used."
+  },
+  "retrievalMethod": "Direct web open",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

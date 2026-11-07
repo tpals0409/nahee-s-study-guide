@@ -1,0 +1,17 @@
+{
+  "id": "73e292d3f6dab85486d3",
+  "kind": "science",
+  "source": "Cretaceous Research; RERO repository",
+  "ref": "Dinosaur track-bearing deposits in the Cretaceous Jindong Formation, Korea: occurrence, palaeoenvironments and preservation",
+  "url": "https://doc.rero.ch/record/14495/files/PAL_E1690.pdf",
+  "excerpt": "The Cretaceous non-marine deposits of the Gyeongsang Basin comprise the Gyeongsang Supergroup",
+  "sourceHash": "d85ddebfa78e3f09e0bacc759f7304ddb7b3aaedd6c53901b552f79d2d32a99c",
+  "cacheSourceId": "5be491e43bbd4c736bee",
+  "retrievedAt": "2026-11-06T20:42:30.345315+00:00",
+  "reviewedMappings": {
+    "2016-3-34:0": "경상분지 백악기 비해성 퇴적층이 경상누층군임을 확인. 진동층 공룡발자국 연구의 층서 맥락을 보강.",
+    "2016-3-34:2": "경상분지 백악기 비해성 퇴적층이 경상누층군임을 확인. 진동층 공룡발자국 연구의 층서 맥락을 보강."
+  },
+  "retrievalMethod": "Indexed search excerpt reviewed; full source text not retrieved for this evidence record.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

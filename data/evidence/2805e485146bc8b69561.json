@@ -1,0 +1,26 @@
+{
+  "id": "2805e485146bc8b69561",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e 5.2 — Passive Transport",
+  "url": "https://openstax.org/books/biology-2e/pages/5-2-passive-transport",
+  "excerpt": "Osmosis is the movement of free water molecules through a semipermeable membrane",
+  "sourceHash": "cedc0f9f0ca2ccc27fa3fb8821dd3ca20fdcd0a9249620b55a4205913bb17d37",
+  "cacheSourceId": "99b0970b4f05d394d635",
+  "retrievedAt": "2026-11-06T20:27:57.112080+00:00",
+  "reviewedMappings": {
+    "2015-3-21:0": "Osmosis definition and selective membrane explanation support ㄱ and ㄹ; original statement combination independently checked.",
+    "2015-3-21:1": "Mechanism and tonicity paragraphs establish net water movement toward higher nonpenetrating solute concentration; dilution/concentration change independently checked, without claiming concentration equality is always reached.",
+    "2015-3-21:2": "Osmosis definition, aquaporin paragraph and selective membrane mechanism directly support ㄱ and ㄹ.",
+    "2015-3-21:3": "Source distinguishes water osmosis from solute diffusion; no blanket assertion of zero permeability to every solute.",
+    "2015-3-21:4": "Same definition and mechanism reject ㄴ/ㄷ; the combination omits true ㄹ.",
+    "2015-3-21:5": "Same definition and mechanism reject ㄴ/ㄷ; the combination omits true ㄱ.",
+    "2016-3-22:0": "본문82 삼투는 물의 이동.39 CO2 막투과는 단순확산. 폐포-대기 환기는 별도 출처로 구분.",
+    "2016-3-22:1": "ㄱ은 용질이라고 하여 거짓; 삼투의 이동 물질은 물.",
+    "2016-3-22:2": "ㄱ 거짓: 용질 확산이 아니라 물 이동.",
+    "2016-3-22:3": "ㄱ 거짓. CO2 세포막 단순확산은 능동수송이 아님. 실제 문구의 폐포-대기는 환기 출처와 함께 판단.",
+    "2016-3-22:5": "ㄱ 거짓이므로 세 항 모두를 고를 수 없음."
+  },
+  "retrievalMethod": "Direct web open and targeted find; relevant definition and mechanism reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

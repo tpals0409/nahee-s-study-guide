@@ -1,0 +1,17 @@
+{
+  "id": "f2e27d3f75d7952099f3",
+  "kind": "science",
+  "source": "McMaster University — Richard F. W. Bader",
+  "ref": "Molecular Orbitals for Heteronuclear Molecules",
+  "url": "https://www.chemistry.mcmaster.ca/esam/Chapter_8/section_5.html",
+  "excerpt": "Both atomic orbitals must have approximately the same orbital energy",
+  "sourceHash": "196a5317b2e14e21aa900188fd8bc882a875623521df440cc0efd86587c90aa6",
+  "cacheSourceId": "829603b7be26a624734b",
+  "retrievedAt": "2026-11-06T23:14:34.086239+00:00",
+  "reviewedMappings": {
+    "2020-3-15:0": "H1s and F2p electronic configurations agree with original HF diagram.",
+    "2020-3-15:4": "Table H1s=-0.5 and F2p=-0.73au corroborates relative energy ordering read in diagram."
+  },
+  "retrievalMethod": "Direct web retrieval; reviewed qualitative energy/symmetry requirements lines26–32 and H/F orbital-energy and configurations table38–46. Used to support diagram interpretation, not an absolute cross-orbital electronegativity rule.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

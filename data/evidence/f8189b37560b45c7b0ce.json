@@ -1,0 +1,21 @@
+{
+  "id": "f8189b37560b45c7b0ce",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "8.3 Multiple Bonds",
+  "url": "https://openstax.org/books/chemistry-2e/pages/8-3-multiple-bonds",
+  "excerpt": "The three bonding regions form a trigonal planar electron-pair geometry.",
+  "sourceHash": "1e528efd22f664a57add4e669d1a8255dca53f4e9cc97f59b99afc4e0374e019",
+  "cacheSourceId": "775a90abebb2d45fd6a0",
+  "retrievedAt": "2026-11-06T22:30:53.168741+00:00",
+  "reviewedMappings": {
+    "2019-3-14:0": "Original-structure count: five N lone pairs; ring edges 6+5-1=10 plus amino attachment 1 and five H bonds gives 16 sigma; five trigonal carbons sp2. Thus ㄱ ㄷ.",
+    "2019-3-14:1": "ㄱ true but ㄷ also true: nitrogen octets give five lone pairs; five carbon centers have three bonding regions.",
+    "2019-3-14:2": "ㄴ false: independent count gives 16 sigma bonds, not 12, applying one sigma per connected atom pair.",
+    "2019-3-14:3": "ㄱ and ㄷ true by nitrogen electron accounting and carbon three-region geometry.",
+    "2019-3-14:4": "ㄴ false (16 sigma), ㄷ true; ㄱ also true and omitted.",
+    "2019-3-14:5": "ㄴ false (16 sigma), so all-three selection fails despite ㄱ ㄷ true."
+  },
+  "retrievalMethod": "Direct open lines 29–38: sp2 carbon with three bonding regions, sigma/pi decomposition of double bonds. Original app/public/images/2019-3-14.webp inspected: fused rings, five N each bond-order sum three, five carbons each three sigma neighbors, four double bonds. Applied general principles to given structure independently.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

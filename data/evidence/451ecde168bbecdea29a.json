@@ -1,0 +1,20 @@
+{
+  "id": "451ecde168bbecdea29a",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 2e §8.2 Hybrid Atomic Orbitals",
+  "url": "https://openstax.org/books/chemistry-2e/pages/8-2-hybrid-atomic-orbitals",
+  "excerpt": "hybridization was devised to rationalize experimentally observed molecular geometries",
+  "sourceHash": "27834f4c7654572b33df528430d01b080a03476f5703a52937fc4fb75b64c5d7",
+  "cacheSourceId": "de7dea0966742ec96a07",
+  "retrievedAt": "2026-11-06T23:20:50.444493+00:00",
+  "reviewedMappings": {
+    "2020-3-19:0": "직접 열람 97–121행: PCl5 삼각쌍뿔, 전자 영역5와 sp3d 대응표, 혼성 모형의 설명 목적과 한계. I3−의 독립 Lewis 전자수 계산에 이 교과서 대응을 적용한 추론이며 실제 d기여 측정 주장 아님. ㄱ거짓 ㄴ거짓 ㄷ교과서모형에서 참으로 ② 선택.",
+    "2020-3-19:2": "직접 열람 97–121행: PCl5 삼각쌍뿔, 전자 영역5와 sp3d 대응표, 혼성 모형의 설명 목적과 한계. I3−의 독립 Lewis 전자수 계산에 이 교과서 대응을 적용한 추론이며 실제 d기여 측정 주장 아님. I3− AX2E3 전자영역5, 직선형; 교과서 혼성 대응으로 ㄷ 선택.",
+    "2020-3-19:3": "직접 열람 97–121행: PCl5 삼각쌍뿔, 전자 영역5와 sp3d 대응표, 혼성 모형의 설명 목적과 한계. I3−의 독립 Lewis 전자수 계산에 이 교과서 대응을 적용한 추론이며 실제 d기여 측정 주장 아님. SF4 극성과 PCl5 AX5 삼각쌍뿔로 ㄱㄴ 배제.",
+    "2020-3-19:4": "직접 열람 97–121행: PCl5 삼각쌍뿔, 전자 영역5와 sp3d 대응표, 혼성 모형의 설명 목적과 한계. I3−의 독립 Lewis 전자수 계산에 이 교과서 대응을 적용한 추론이며 실제 d기여 측정 주장 아님. PCl5 삼각쌍뿔로 ㄴ 배제, ㄷ만 참.",
+    "2020-3-19:5": "직접 열람 97–121행: PCl5 삼각쌍뿔, 전자 영역5와 sp3d 대응표, 혼성 모형의 설명 목적과 한계. I3−의 독립 Lewis 전자수 계산에 이 교과서 대응을 적용한 추론이며 실제 d기여 측정 주장 아님. ㄱㄴ거짓이므로 모두 선택 불가."
+  },
+  "retrievalMethod": "직접 열람 97–121행: PCl5 삼각쌍뿔, 전자 영역5와 sp3d 대응표, 혼성 모형의 설명 목적과 한계. I3−의 독립 Lewis 전자수 계산에 이 교과서 대응을 적용한 추론이며 실제 d기여 측정 주장 아님.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

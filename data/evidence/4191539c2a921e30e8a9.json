@@ -1,0 +1,17 @@
+{
+  "id": "4191539c2a921e30e8a9",
+  "kind": "science",
+  "source": "U.S. National Park Service",
+  "ref": "Inner Earth Model",
+  "url": "https://www.nps.gov/subjects/geology/plate-tectonics-inner-earth-model.htm",
+  "excerpt": "The crust and outermost mantle are so cold they form the solid lithosphere.",
+  "sourceHash": "bc80c0e4c0e8edf14562b975de1cd88c0cea4eeaeda350aaf310aaef0976908c",
+  "cacheSourceId": "08a6c6e4c8553bf33bba",
+  "retrievedAt": "2026-11-06T19:55:34.615902+00:00",
+  "reviewedMappings": {
+    "2015-3-34:0": "본문 32–43행은 지각과 최외곽 맨틀이 강성의 암석권을 이루고 아래 연약권 위에서 이동함을 설명한다. ⑤의 구성과 물성을 지지한다. 암석권 두께를 고정하지 않는다.",
+    "2015-3-34:5": "본문 32–43행은 지각과 최외곽 맨틀이 강성의 암석권을 이루고 아래 연약권 위에서 이동함을 설명한다. ⑤의 구성과 물성을 지지한다. 암석권 두께를 고정하지 않는다."
+  },
+  "retrievalMethod": "Direct web open; Physical States of Earth’s Layers reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

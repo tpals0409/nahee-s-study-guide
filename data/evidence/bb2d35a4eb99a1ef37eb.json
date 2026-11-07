@@ -1,0 +1,18 @@
+{
+  "id": "bb2d35a4eb99a1ef37eb",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 2e 12.5 Collision Theory",
+  "url": "https://openstax.org/books/chemistry-2e/pages/12-5-collision-theory",
+  "excerpt": "A is a constant called the frequency factor",
+  "sourceHash": "d1ba0fc611c69efe4fbc6f698ef04f53ffe2a41281e158202784a889c825557c",
+  "cacheSourceId": "c9a3e042d0fef5b65891",
+  "retrievedAt": "2026-11-06T19:37:33.762703+00:00",
+  "reviewedMappings": {
+    "2015-3-20:0": "아레니우스 식과 ln k 대 1/T의 기울기식을 확인했다. 두 온도의 ln(kr/kf) 차 식을 독립 유도하여 역반응 활성화 에너지가 더 큼을 판정한다.",
+    "2015-3-20:3": "아레니우스 식과 ln k 대 1/T의 기울기식을 확인했다. 두 온도의 ln(kr/kf) 차 식을 독립 유도하여 역반응 활성화 에너지가 더 큼을 판정한다.",
+    "2015-3-20:4": "아레니우스 식과 ln k 대 1/T의 기울기식을 확인했다. 두 온도의 ln(kr/kf) 차 식을 독립 유도하여 역반응 활성화 에너지가 더 큼을 판정한다."
+  },
+  "retrievalMethod": "Direct web page opened; relevant equations and paragraphs read; selected short excerpt transcribed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "b7011fb0f535456586be",
+  "kind": "science",
+  "source": "OpenStax · Biology 2e",
+  "ref": "17.1 Biotechnology",
+  "url": "https://openstax.org/books/biology-2e/pages/17-1-biotechnology",
+  "excerpt": "This process is called reverse transcription.",
+  "sourceHash": "23c4b143a0cb39e5e277ad9af71d61527c112a7aad7c73b48adf08e09cc1e9eb",
+  "cacheSourceId": "e6c2188ab29f8f685d0b",
+  "retrievedAt": "2026-11-06T15:43:49.459416+00:00",
+  "reviewedMappings": {
+    "2010-3-26:3": "RT-PCR 문단의 mRNA로부터 cDNA를 만드는 설명과 대조."
+  }
+}

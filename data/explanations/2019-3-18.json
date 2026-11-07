@@ -1,0 +1,151 @@
+{
+  "id": "2019-3-18",
+  "summary": "반쪽 반응을 더해 새로운 반쪽 반응을 만들 때 표준 환원 전위는 그대로 더할 수 없습니다. 상태함수인 ΔG°(= −nFE°)를 더한 뒤 전체 전자 수로 나누어야 합니다. x = (1×0.16 + 1×0.52)/2 = 0.34 V이므로 정답은 0.34입니다.",
+  "choices": [
+    "0.34: 정답입니다. 두 단계의 ΔG°를 더하면 −F(0.16) + (−F)(0.52) = −0.68F이고, 이것이 −2F·x와 같으므로 x = 0.34 V입니다.",
+    "0.42 V를 넣으면 ΔG°=−0.84F가 되어 두 단계의 합 −0.68F와 일치하지 않습니다.",
+    "0.60 V를 넣으면 ΔG°=−1.20F가 되어 두 단계의 합 −0.68F와 일치하지 않습니다.",
+    "0.68 V는 두 전위를 단순히 더한 값입니다. 전체 반응의 전자 수가 2이므로 −2Fx=−0.68F에서 x=0.34 V를 얻어야 합니다.",
+    "1.34 V를 넣으면 ΔG°=−2.68F가 되어 두 단계의 합 −0.68F와 일치하지 않습니다."
+  ],
+  "lawNote": "전위 자체가 아니라 ΔG°를 합합니다. 이 문제는 두 단계의 전자 수가 각각 1이므로 결과가 두 전위의 산술평균과 같습니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §17.4 Potential, Free Energy, and Equilibrium",
+      "quote": "where n is the number of moles of electrons transferred",
+      "url": "https://openstax.org/books/chemistry-2e/pages/17-4-potential-free-energy-and-equilibrium",
+      "evidenceId": "ed8ad4f8d000ac991075",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §17.4 Potential, Free Energy, and Equilibrium",
+      "quote": "where n is the number of moles of electrons transferred",
+      "url": "https://openstax.org/books/chemistry-2e/pages/17-4-potential-free-energy-and-equilibrium",
+      "evidenceId": "ed8ad4f8d000ac991075",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §17.4 Potential, Free Energy, and Equilibrium",
+      "quote": "where n is the number of moles of electrons transferred",
+      "url": "https://openstax.org/books/chemistry-2e/pages/17-4-potential-free-energy-and-equilibrium",
+      "evidenceId": "ed8ad4f8d000ac991075",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §17.4 Potential, Free Energy, and Equilibrium",
+      "quote": "where n is the number of moles of electrons transferred",
+      "url": "https://openstax.org/books/chemistry-2e/pages/17-4-potential-free-energy-and-equilibrium",
+      "evidenceId": "ed8ad4f8d000ac991075",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §17.4 Potential, Free Energy, and Equilibrium",
+      "quote": "where n is the number of moles of electrons transferred",
+      "url": "https://openstax.org/books/chemistry-2e/pages/17-4-potential-free-energy-and-equilibrium",
+      "evidenceId": "ed8ad4f8d000ac991075",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §17.4 Potential, Free Energy, and Equilibrium",
+      "quote": "where n is the number of moles of electrons transferred",
+      "url": "https://openstax.org/books/chemistry-2e/pages/17-4-potential-free-energy-and-equilibrium",
+      "evidenceId": "ed8ad4f8d000ac991075",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 16.4 Free Energy",
+      "quote": "Free energy is a state function",
+      "url": "https://openstax.org/books/chemistry-2e/pages/16-4-free-energy",
+      "evidenceId": "9d7e8a1d59ca8ae957f5",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 16.4 Free Energy",
+      "quote": "Free energy is a state function",
+      "url": "https://openstax.org/books/chemistry-2e/pages/16-4-free-energy",
+      "evidenceId": "9d7e8a1d59ca8ae957f5",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 16.4 Free Energy",
+      "quote": "Free energy is a state function",
+      "url": "https://openstax.org/books/chemistry-2e/pages/16-4-free-energy",
+      "evidenceId": "9d7e8a1d59ca8ae957f5",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 16.4 Free Energy",
+      "quote": "Free energy is a state function",
+      "url": "https://openstax.org/books/chemistry-2e/pages/16-4-free-energy",
+      "evidenceId": "9d7e8a1d59ca8ae957f5",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 16.4 Free Energy",
+      "quote": "Free energy is a state function",
+      "url": "https://openstax.org/books/chemistry-2e/pages/16-4-free-energy",
+      "evidenceId": "9d7e8a1d59ca8ae957f5",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 16.4 Free Energy",
+      "quote": "Free energy is a state function",
+      "url": "https://openstax.org/books/chemistry-2e/pages/16-4-free-energy",
+      "evidenceId": "9d7e8a1d59ca8ae957f5",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Direct OpenStax free-energy state-function and potential relation review; independent electron-balanced combination and exact candidate checks",
+    "contentHash": "b385161b215fb4d0232098468af9a400e01154e2aa2cbf2cba4a53879fb59d1f"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "784850d8e3b522a1e509",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Astronomy 2e §5.2 — Stefan–Boltzmann law",
+  "url": "https://openstax.org/books/astronomy-2e/pages/5-2-the-electromagnetic-spectrum",
+  "excerpt": "proportional to the fourth power of its absolute temperature.",
+  "sourceHash": "7ead648d7c701c042e3bfb64f16cd81b6fb35cf717be03f722504c562c16e1d7",
+  "cacheSourceId": "c834b3ec57a64275fa9e",
+  "retrievedAt": "2026-11-06T19:12:22.126234+00:00",
+  "reviewedMappings": {
+    "2014-3-39:5": "Source identifies total emitted blackbody power per unit area F=sigma T^4. Correct missing per-time qualifier in draft; not spectral-line displacement."
+  },
+  "retrievalMethod": "Direct web open; relevant section reviewed and original question image inspected.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

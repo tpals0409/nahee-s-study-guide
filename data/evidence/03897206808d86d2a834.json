@@ -1,0 +1,17 @@
+{
+  "id": "03897206808d86d2a834",
+  "kind": "science",
+  "source": "NASA",
+  "ref": "The Sunspot Cycle",
+  "url": "https://solarscience.msfc.nasa.gov/SunspotCycle.shtml",
+  "excerpt": "the number of sunspots visible on the sun waxes and wanes with an approximate 11-year cycle.",
+  "sourceHash": "8f313a5a0c989a320ef2027057b8de645e25b44d34a933ba3266d8234f71ef26",
+  "cacheSourceId": "7dd9999b0b12ab4dd17c",
+  "retrievedAt": "2026-11-06T22:13:45.131383+00:00",
+  "reviewedMappings": {
+    "2018-3-36:0": "각 출처의 핵융합·약11년 흑점주기·흑점 추적·자전방향·차등자전 자료를 종합하여 ②만 거짓. 기록된 관련 본문을 검토하여 해당 선지에 적용.",
+    "2018-3-36:2": "흑점수 증감 주기는 약11년이므로 평균23년 진술 거짓. 기록된 관련 본문을 검토하여 해당 선지에 적용."
+  },
+  "retrievalMethod": "Direct page reviewed: Sunspot Numbers, lines 74–79. Approximate cycle, not a fixed duration.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

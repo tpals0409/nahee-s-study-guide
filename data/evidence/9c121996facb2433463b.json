@@ -1,0 +1,16 @@
+{
+  "id": "9c121996facb2433463b",
+  "kind": "science",
+  "source": "한국관광공사",
+  "ref": "태백 장성 오르도비스기 화석산지",
+  "url": "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=7dccbd09-067b-4e1f-8259-d7a9fe02154b",
+  "excerpt": "전기고생 조선누층군 중 직운산층",
+  "sourceHash": "97d644193e2f57e9205dfc4194cd987755528b8f88b2f76bd7be7bca12758b2e",
+  "cacheSourceId": "f6fd132d4ec7313f1cff",
+  "retrievedAt": "2026-11-06T15:59:49.012958+00:00",
+  "reviewedMappings": {
+    "2010-3-34:2": "공공기관 검색 제공 본문에서 조선누층군 직운산층의 삼엽충 등 해양 무척추 화석 산출을 직접 확인. 상세 지층시대 일반화 없이 해당 사례만 설명."
+  },
+  "retrievalMethod": "web.search returned publisher excerpt read; full web.open failed (timeout/cache miss)",
+  "sourceHashScope": "Search-returned selected excerpt only; not full page"
+}

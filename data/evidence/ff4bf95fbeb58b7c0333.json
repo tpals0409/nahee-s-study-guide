@@ -1,0 +1,14 @@
+{
+  "id": "ff4bf95fbeb58b7c0333",
+  "kind": "science",
+  "source": "OpenStax · Chemistry 2e",
+  "ref": "4.2",
+  "url": "https://openstax.org/books/chemistry-2e/pages/4-2-classifying-chemical-reactions",
+  "excerpt": "Oxidation-reduction (redox) reactions are those in which one or more elements involved undergo a change in oxidation number.",
+  "sourceHash": "0ea2ab4d17b0cc54340efe7ef09980f6c6851652c65296afab01162506bfa5cf",
+  "cacheSourceId": "2cdeb69d1f4c11c11fd7",
+  "retrievedAt": "2026-11-06T14:50:05.236068+00:00",
+  "reviewedMappings": {
+    "2009-3-12:0": "원문 Example4.7과 독립 반쪽반응 검산. Cr: +6→+3 두개로6전자 수용, Fe:+2→+3 여섯개. 계수6,14,2,6,7. 좌우 Cr2,Fe6,O7,H14 및 전하+24 일치. c:d=1:3, 양변계수합20>15."
+  }
+}

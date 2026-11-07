@@ -1,0 +1,16 @@
+{
+  "id": "48a2de3d1ea1fa807701",
+  "kind": "science",
+  "source": "NatureServe",
+  "ref": "Biotics help: Dominant",
+  "url": "https://help.natureserve.org/biotics/content/Record_Management/Element_Files/Characterization_Abstracts/ECHAR_Dominant_flocomp.htm",
+  "excerpt": "Dominant species can be defined in terms of biomass, density, height, coverage",
+  "sourceHash": "3e1e44fd41e2ddc365fac7ae64276021e60571c11eaabaff5b2a07e892e557cf",
+  "cacheSourceId": "907377a9d81fbc63677d",
+  "retrievedAt": "2026-11-06T16:42:27.378602+00:00",
+  "reviewedMappings": {
+    "2011-3-28:0": "ㄷ의 높은 생체량·개체수는 우점종 판단 기준에 해당. 지표종을 뜻하는 정의가 아님."
+  },
+  "retrievalMethod": "web.run publisher/agency page reviewed",
+  "sourceHashScope": "Selected excerpt only; not full page"
+}

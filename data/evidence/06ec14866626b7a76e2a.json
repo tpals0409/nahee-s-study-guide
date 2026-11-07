@@ -1,0 +1,16 @@
+{
+  "id": "06ec14866626b7a76e2a",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Astronomy 2e 18.3 Diameters of Stars",
+  "url": "https://openstax.org/books/astronomy-2e/pages/18-3-diameters-of-stars",
+  "excerpt": "The speed multiplied by the time interval from the first to second contact gives the diameter of the smaller star.",
+  "sourceHash": "f9cb40f99f7e020524e63a54858618ad91bbae0543ba8fed96e8d7231988a97e",
+  "cacheSourceId": "543afabd464d9aa7ce2c",
+  "retrievedAt": "2026-11-06T18:28:58.953649+00:00",
+  "reviewedMappings": {
+    "2013-3-40:0": "식쌍성의 주/부극소와 접촉시간, 도플러속도·궤도기하와함께크기추정. 전체식시간을단일지름으로곱하는오류배제."
+  },
+  "retrievalMethod": "web.open: publisher textbook sections and relevant figures text reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

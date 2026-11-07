@@ -1,0 +1,21 @@
+{
+  "id": "a4cc2190d4db3e37371b",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume 2, 6.2: Explaining Gauss’s Law",
+  "url": "https://openstax.org/books/university-physics-volume-2/pages/6-2-explaining-gausss-law",
+  "excerpt": "all surfaces enclosing the same charge have the same flux",
+  "sourceHash": "0c9e08f9152d81175be5776f1891fda2659ebfca557b7c39acc96c81b980bf39",
+  "cacheSourceId": "20a6ca471721fbdb542c",
+  "retrievedAt": "2026-11-07T02:59:32.862628+00:00",
+  "reviewedMappings": {
+    "2025-3-04:0": "닫힌 곡면의 총 선속=포함된 알짜 전하/ε0를 다섯 공 전체를 감싸는 면에 적용. 전하 계수 1,2,2,3,3과 Q>0에서 순서 도출.",
+    "2025-3-04:1": "①은 선속 계수 1<2=2<3=3과 일치.",
+    "2025-3-04:2": "②는 같은 전하량을 갖는 두 쌍의 선속을 다르게 두어 틀림.",
+    "2025-3-04:3": "③은 3Q인 라·마의 총 선속을 다르게 두어 틀림.",
+    "2025-3-04:4": "④는 2Q인 나·다를 다르게 두고 2Q인 다와 3Q인 마를 같게 두어 틀림.",
+    "2025-3-04:5": "⑤는 2Q인 나·다 및 3Q인 라·마의 선속에 각각 대소를 두어 틀림."
+  },
+  "retrievalMethod": "Direct Figure 6.15 discussion and Gauss law equation 6.5 reviewed.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

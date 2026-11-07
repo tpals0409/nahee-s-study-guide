@@ -1,0 +1,19 @@
+{
+  "id": "de6a6910959f06e88c3a",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e, 42.2 Adaptive Immune Response",
+  "url": "https://openstax.org/books/biology-2e/pages/42-2-adaptive-immune-response",
+  "excerpt": "thymus for maturation",
+  "sourceHash": "8046d433b2b01aa2df66cddccf037c42869ade55f5a78745ffc02918f18ba926",
+  "cacheSourceId": "e8675d653c88c9128939",
+  "retrievedAt": "2026-11-07T01:55:29.459967+00:00",
+  "reviewedMappings": {
+    "2023-3-24:0": "Primary Centers of the Immune System 절: 골수 유래와 흉선 성숙을 구분. ㄷ 거짓.",
+    "2023-3-24:2": "Primary Centers of the Immune System 절: 골수 유래와 흉선 성숙을 구분. ㄷ 거짓.",
+    "2023-3-24:3": "Primary Centers of the Immune System 절: 골수 유래와 흉선 성숙을 구분. ㄷ 거짓.",
+    "2023-3-24:5": "Primary Centers of the Immune System 절: 골수 유래와 흉선 성숙을 구분. ㄷ 거짓."
+  },
+  "retrievalMethod": "웹 도구로 원문 직접 열람. 검토 범위: Primary Centers of the Immune System 절: 골수 유래와 흉선 성숙을 구분. ㄷ 거짓.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

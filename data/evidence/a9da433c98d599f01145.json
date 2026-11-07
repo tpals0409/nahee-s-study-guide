@@ -1,0 +1,21 @@
+{
+  "id": "a9da433c98d599f01145",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 2e §11.3 Solubility",
+  "url": "https://openstax.org/books/chemistry-2e/pages/11-3-solubility",
+  "excerpt": "Some liquids may be mixed in any proportions to yield solutions",
+  "sourceHash": "e0ad2af5e11fb6cc3034185bc3bde81c4bd1c739f84e3d2d2f333975ed2c0ded",
+  "cacheSourceId": "df03228d0927b696e468",
+  "retrievedAt": "2026-11-06T23:12:14.293802+00:00",
+  "reviewedMappings": {
+    "2020-3-13:0": "Identified ethanol completely miscible with water, ㄱ true.",
+    "2020-3-13:1": "Included ㄱ true; other true statements omitted.",
+    "2020-3-13:2": "Included ㄱ true.",
+    "2020-3-13:3": "Included ㄱ true.",
+    "2020-3-13:4": "Omitted ㄱ true because ethanol completely miscible with water.",
+    "2020-3-13:5": "ㄱ true; ethanol water miscibility explicit."
+  },
+  "retrievalMethod": "Direct web retrieval; reviewed ethanol explicitly completely miscible with water and hydrogen-bonding explanation, lines119–125.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

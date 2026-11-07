@@ -1,0 +1,16 @@
+{
+  "id": "c5eded573e9b035fb860",
+  "kind": "science",
+  "source": "American Journal of Human Genetics / PubMed",
+  "ref": "Lo et al. (2023), The functional impact of 1,570 individual amino acid substitutions in human OTC",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37146589/",
+  "excerpt": "amorphic, hypomorphic, and functionally unimpaired assay ranges",
+  "sourceHash": "e6d54be56d1ee4566bcb4d42891965de59218684485c4cd5955f2ad534c5b0f7",
+  "cacheSourceId": "31bad2d7225e0b0041a0",
+  "retrievedAt": "2026-11-07T05:56:34.051503+00:00",
+  "reviewedMappings": {
+    "2019-3-27:4": "④의 기능 보존 가능성을 뒷받침하는 후대 기능분석 사례. 손상 없음 분류는 측정 범위의 분류이며 수학적 동일성 또는 모든 생물학적 성질 동일성의 증명 아님."
+  },
+  "retrievalMethod": "Direct PubMed abstract and original figure captions",
+  "sourceHashScope": "Selected short excerpt only; not full source"
+}

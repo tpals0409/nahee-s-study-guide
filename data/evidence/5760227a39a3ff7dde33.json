@@ -1,0 +1,21 @@
+{
+  "id": "5760227a39a3ff7dde33",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume 1, 3.5 Free Fall",
+  "url": "https://openstax.org/books/university-physics-volume-1/pages/3-5-free-fall",
+  "excerpt": "If an object is dropped, we know the initial velocity is zero",
+  "sourceHash": "9a96dd3f0d82eb50c2bca8a549979657ff1d48d544da3b05dead0b14dca067dc",
+  "cacheSourceId": "6054e81555b92f46b96c",
+  "retrievedAt": "2026-11-07T00:42:54.155470+00:00",
+  "reviewedMappings": {
+    "2022-3-02:0": "초기속도0 자유낙하 y=H−gt²/2, v=gt. H=gt₀²/2이므로 낙하거리/H=(t/t₀)². 각 후보를 독립 대입.",
+    "2022-3-02:1": "초기속도0 자유낙하 y=H−gt²/2, v=gt. H=gt₀²/2이므로 낙하거리/H=(t/t₀)². 각 후보를 독립 대입.",
+    "2022-3-02:2": "초기속도0 자유낙하 y=H−gt²/2, v=gt. H=gt₀²/2이므로 낙하거리/H=(t/t₀)². 각 후보를 독립 대입.",
+    "2022-3-02:3": "초기속도0 자유낙하 y=H−gt²/2, v=gt. H=gt₀²/2이므로 낙하거리/H=(t/t₀)². 각 후보를 독립 대입.",
+    "2022-3-02:4": "초기속도0 자유낙하 y=H−gt²/2, v=gt. H=gt₀²/2이므로 낙하거리/H=(t/t₀)². 각 후보를 독립 대입.",
+    "2022-3-02:5": "초기속도0 자유낙하 y=H−gt²/2, v=gt. H=gt₀²/2이므로 낙하거리/H=(t/t₀)². 각 후보를 독립 대입."
+  },
+  "retrievalMethod": "Direct OpenStax page: free fall definition and equations 3.15–3.17 reviewed.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

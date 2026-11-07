@@ -1,0 +1,16 @@
+{
+  "id": "0a0c27f06018de78663d",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume 3 2.8 Microscopes and Telescopes",
+  "url": "https://openstax.org/books/university-physics-volume-3/pages/2-8-microscopes-and-telescopes",
+  "excerpt": "The eyepiece forms a virtual, inverted image that is magnified.",
+  "sourceHash": "6a45e70e589249d1bb77411134254c17c7e6d779d8bb6914b99b09f235e37fd6",
+  "cacheSourceId": "7d229dfc001056667367",
+  "retrievedAt": "2026-11-06T16:55:12.006058+00:00",
+  "reviewedMappings": {
+    "2011-3-38:1": "본문 그림2.40(b)와 원문 (가)의 두 볼록렌즈 구조 대조. 대물렌즈 도립 실상을 접안렌즈로 보며 최종상도 도립. 모든 굴절망원경에 일반화하지 않음."
+  },
+  "retrievalMethod": "web.open 본문 직접 대조; 저장은 짧은 발췌만",
+  "sourceHashScope": "Selected excerpt only; not full page"
+}

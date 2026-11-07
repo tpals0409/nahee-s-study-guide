@@ -1,0 +1,17 @@
+{
+  "id": "1026ace428119b33b234",
+  "kind": "science",
+  "source": "Sam Noble Oklahoma Museum of Natural History, University of Oklahoma",
+  "ref": "Carboniferous terrestrial communities",
+  "url": "https://samnoblemuseum.ou.edu/common-fossils-of-oklahoma/paleocommunities/terrestrial-communities/carboniferous/",
+  "excerpt": "Coal deposits in Oklahoma originated as these equatorial peat swamps",
+  "sourceHash": "7e4b8d4a4d54183260eb7b7a898850d6d8c8eeddfb81ce87a4e0b85491e8a8ca",
+  "cacheSourceId": "6df0a44fa1e6abc0cc90",
+  "retrievedAt": "2026-11-07T00:28:16.054878+00:00",
+  "reviewedMappings": {
+    "2021-3-32:1": "석탄기 적도 습지의 식물 잔해와 이탄에서 유래한 오클라호마 석탄층 사례를 직접 확인.",
+    "2021-3-32:5": "Pangaea forms 절에서 석탄기 판 운동에 따른 대륙 합체 확인. 고생대 후기 판게아 형성 판단에 적용하며 분열 시기까지 확대하지 않음."
+  },
+  "retrievalMethod": "Direct museum page review: Pangaea forms and Peat Swamps flourished sections, lines 55–65.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

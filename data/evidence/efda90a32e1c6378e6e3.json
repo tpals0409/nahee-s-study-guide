@@ -1,0 +1,19 @@
+{
+  "id": "efda90a32e1c6378e6e3",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e §41.2 The Kidneys and Osmoregulatory Organs",
+  "url": "https://openstax.org/books/biology-2e/pages/41-2-the-kidneys-and-osmoregulatory-organs",
+  "excerpt": "Because salt but not water is lost, the filtrate becomes more dilute as it travels up the limb.",
+  "sourceHash": "0f7d33c05027a7defa83013b8fb2152dbf0ba27223d7d0b9972db2cf3dd10de6",
+  "cacheSourceId": "2f84782132e688c6c5b5",
+  "retrievedAt": "2026-11-06T21:15:36.443450+00:00",
+  "reviewedMappings": {
+    "2017-3-22:0": "Figure41.6–41.7의 하행지/가는·굵은 상행지/집합관 구성을 원본에 대응.",
+    "2017-3-22:1": "Figure41.7 설명(3): 하행지 아쿠아포린을 통해 관강 물이 간질로 이동.",
+    "2017-3-22:2": "Figure41.7 설명(4): 상행지에서 염만 빠지고 물은 남아 올라갈수록 여과액 희석. 나→다 농도 감소.",
+    "2017-3-22:5": "Figure41.7 설명(4): 가는 상행지인 나에서 Na+와Cl−가 간질로 확산하므로 재흡수 없음이라는 선지 오류."
+  },
+  "retrievalMethod": "Direct browser review of nephron figure descriptions, transport table and collecting duct section",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

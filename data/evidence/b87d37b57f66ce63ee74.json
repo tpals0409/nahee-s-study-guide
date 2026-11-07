@@ -1,0 +1,16 @@
+{
+  "id": "b87d37b57f66ce63ee74",
+  "kind": "science",
+  "source": "NWCG",
+  "ref": "Fire Weather: 3. Atmospheric Moisture",
+  "url": "https://www.nwcg.gov/publications/pms425-1/3-atmospheric-moisture",
+  "excerpt": "The vapor pressure at the evaporating surface varies with the temperature of that surface.",
+  "sourceHash": "40b2ac4412fd969fc9d2596ed4de7e95b67d8f830edc9a27dc6699c39a3154ad",
+  "cacheSourceId": "68bc0868842ff010e18d",
+  "retrievedAt": "2026-11-06T18:20:59.578627+00:00",
+  "reviewedMappings": {
+    "2013-3-33:0": "온도·대기 수증기압·바람·표면 수분에 따라 증발이 달라짐. 밤이라는 이유만으로 육지 증발 우세를 일반화할 수 없고 반대의 무조건적 단정도 하지 않음."
+  },
+  "retrievalMethod": "web.search_query: indexed official excerpt; direct page returned 403",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "5b76edbfb0cd93b94090",
+  "kind": "science",
+  "source": "NASA",
+  "ref": "NASA Moon Phases — phase sequence",
+  "url": "https://science.nasa.gov/moon/moon-phases/",
+  "excerpt": "new Moon, waxing crescent, first quarter, waxing gibbous, full Moon, waning gibbous, third quarter, and waning crescent.",
+  "sourceHash": "6359e454600a9a5724f40dbf588777f2d48e0dcb26ff417b62d5875b41c0b23a",
+  "cacheSourceId": "4d929b6c0397225bbc05",
+  "retrievedAt": "2026-11-07T05:37:06.459268+00:00",
+  "reviewedMappings": {
+    "2025-3-37:0": "직접 확인한 위상 순서를 원본의 왼쪽 태양빛과 A→B→C→D 운동에 적용. A삭 B상현 C망 D하현이므로 북반구 상현이나 가는 초승·그믐을 배제. 이는 원본 도식에 대한 기하학적 해석이며 해당 시험에 대한 NASA의 답안은 아니다.",
+    "2025-3-37:1": "직접 확인한 위상 순서를 원본의 왼쪽 태양빛과 A→B→C→D 운동에 적용. A삭 B상현 C망 D하현이므로 북반구 상현이나 가는 초승·그믐을 배제. 이는 원본 도식에 대한 기하학적 해석이며 해당 시험에 대한 NASA의 답안은 아니다.",
+    "2025-3-37:3": "직접 확인한 위상 순서를 원본의 왼쪽 태양빛과 A→B→C→D 운동에 적용. A삭 B상현 C망 D하현이므로 북반구 상현이나 가는 초승·그믐을 배제. 이는 원본 도식에 대한 기하학적 해석이며 해당 시험에 대한 NASA의 답안은 아니다.",
+    "2025-3-37:5": "직접 확인한 위상 순서를 원본의 왼쪽 태양빛과 A→B→C→D 운동에 적용. A삭 B상현 C망 D하현이므로 북반구 상현이나 가는 초승·그믐을 배제. 이는 원본 도식에 대한 기하학적 해석이며 해당 시험에 대한 NASA의 답안은 아니다."
+  },
+  "retrievalMethod": "Previously directly read NASA page; phase sequence excerpt selected",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

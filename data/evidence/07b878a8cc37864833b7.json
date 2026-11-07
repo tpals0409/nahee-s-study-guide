@@ -1,0 +1,17 @@
+{
+  "id": "07b878a8cc37864833b7",
+  "kind": "science",
+  "source": "European Southern Observatory",
+  "ref": "Wide-field view of the centre of the Milky Way",
+  "url": "https://www.eso.org/public/images/galactic-centre-a/",
+  "excerpt": "constellation of Sagittarius (the Archer)",
+  "sourceHash": "d3c83321157e3c49111834e4c4ef3f3fcc68fa902432f69a42dcdf82eb3d901f",
+  "cacheSourceId": "b633d9df58377e1b8ce8",
+  "retrievedAt": "2026-11-07T02:13:57.190610+00:00",
+  "reviewedMappings": {
+    "2023-3-40:0": "은하 중심 방향 사진 설명과 대상의 별자리 Sagittarius 표기를 직접 대조하여 황소자리 주장을 배제했다.",
+    "2023-3-40:2": "은하 중심 방향 사진 설명과 대상의 별자리 Sagittarius 표기를 직접 대조하여 황소자리 주장을 배제했다."
+  },
+  "retrievalMethod": "Direct web open; reviewed Milky Way structure, location and stellar populations",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

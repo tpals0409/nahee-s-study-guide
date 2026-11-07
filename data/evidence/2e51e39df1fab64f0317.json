@@ -1,0 +1,17 @@
+{
+  "id": "2e51e39df1fab64f0317",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "OpenStax Biology 2e 8.2",
+  "url": "https://openstax.org/books/biology-2e/pages/8-2-the-light-dependent-reactions-of-photosynthesis",
+  "excerpt": "the PSI reaction center (called P700)",
+  "sourceHash": "b22408d6a0d97583eaffb7ddaff675e5fd4c87fafac9937cd22a58c26949a7c2",
+  "cacheSourceId": "a545649cf10aab2e661c",
+  "retrievedAt": "2026-11-07T05:44:40.637166+00:00",
+  "reviewedMappings": {
+    "2020-3-26:1": "P680/P700 반응중심 구분 직접 대조; 파장 수치 자체의 직접 인용은 아님.",
+    "2020-3-26:2": "P680/P700 반응중심 구분 직접 대조; 파장 수치 자체의 직접 인용은 아님."
+  },
+  "retrievalMethod": "Direct textbook HTML open",
+  "sourceHashScope": "Selected short excerpt only; not full source"
+}

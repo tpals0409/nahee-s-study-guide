@@ -1,0 +1,21 @@
+{
+  "id": "10583cbe098caa61fb10",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume 1, 7.2 Kinetic Energy",
+  "url": "https://openstax.org/books/university-physics-volume-1/pages/7-2-kinetic-energy",
+  "excerpt": "The kinetic energy of a particle is one-half the product of the particle’s mass m and the square of its speed v:",
+  "sourceHash": "ff0451527e234b1689413feb5e603c05034a808417824101b4fc335e844196ca",
+  "cacheSourceId": "deda3af6fb2c5d91ee07",
+  "retrievedAt": "2026-11-07T03:44:49.748758+00:00",
+  "reviewedMappings": {
+    "2026-3-05:0": "The problem uses classical mechanics: P=mv²/2 gives v=sqrt(2P/m). Combined with a=qvB/m, coefficients relative to the answer are 1/2,1/sqrt(2),1,sqrt(2),2; only choice 3 agrees.",
+    "2026-3-05:1": "The problem uses classical mechanics: P=mv²/2 gives v=sqrt(2P/m). Combined with a=qvB/m, coefficients relative to the answer are 1/2,1/sqrt(2),1,sqrt(2),2; only choice 3 agrees.",
+    "2026-3-05:2": "The problem uses classical mechanics: P=mv²/2 gives v=sqrt(2P/m). Combined with a=qvB/m, coefficients relative to the answer are 1/2,1/sqrt(2),1,sqrt(2),2; only choice 3 agrees.",
+    "2026-3-05:3": "The problem uses classical mechanics: P=mv²/2 gives v=sqrt(2P/m). Combined with a=qvB/m, coefficients relative to the answer are 1/2,1/sqrt(2),1,sqrt(2),2; only choice 3 agrees.",
+    "2026-3-05:4": "The problem uses classical mechanics: P=mv²/2 gives v=sqrt(2P/m). Combined with a=qvB/m, coefficients relative to the answer are 1/2,1/sqrt(2),1,sqrt(2),2; only choice 3 agrees.",
+    "2026-3-05:5": "The problem uses classical mechanics: P=mv²/2 gives v=sqrt(2P/m). Combined with a=qvB/m, coefficients relative to the answer are 1/2,1/sqrt(2),1,sqrt(2),2; only choice 3 agrees."
+  },
+  "retrievalMethod": "Direct web open",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

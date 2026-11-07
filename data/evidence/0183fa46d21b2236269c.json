@@ -1,0 +1,16 @@
+{
+  "id": "0183fa46d21b2236269c",
+  "kind": "science",
+  "source": "FEMS Microbiology Reviews",
+  "ref": "Rauhut and Klug (1999), mRNA degradation in bacteria",
+  "url": "https://academic.oup.com/femsre/article/23/3/353/579400",
+  "excerpt": "Messenger RNAs in prokaryotes exhibit short half-lives when compared with eukaryotic mRNAs.",
+  "sourceHash": "a398d241037e4e4ef91cd342c62f5eebae2a01775504cecb9ea112f264a6aa76",
+  "cacheSourceId": "405afad7e0380d1e8de2",
+  "retrievedAt": "2026-11-07T05:08:42.933928+00:00",
+  "reviewedMappings": {
+    "2020-3-27:2": "세균 mRNA의 반감기가 일반적으로 짧다는 비교를 뒷받침한다. 개별 전사체와 조건에 따른 예외를 유지하며, poly(A)의 부재를 원인으로 주장하지 않는다."
+  },
+  "retrievalMethod": "Direct web open",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

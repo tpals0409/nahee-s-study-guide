@@ -1,0 +1,16 @@
+{
+  "id": "52a579fe6ae74cdbedf9",
+  "kind": "science",
+  "source": "NASA Night Sky Network",
+  "ref": "Moon Mission: Moon phase observing table",
+  "url": "https://nightsky.jpl.nasa.gov/documents/251/moonmission05.pdf",
+  "excerpt": "Third Quarter",
+  "sourceHash": "efb5ee86ad0443f2fb2820e320f42966c22acb9f2b4dfa9c1648c59edfe64620",
+  "cacheSourceId": "9b40af347d62c456538d",
+  "retrievedAt": "2026-11-06T18:26:54.798503+00:00",
+  "reviewedMappings": {
+    "2013-3-38:0": "검색결과 표 Third Quarter 행: rises midnight, Eastern night(am), highest sunrise, Western morning, sets noon. 시험 단순화에서 새벽4시는 남중전 동쪽 하늘→서울 남동쪽 판정. 실제 정밀방위·남중시각을 제시한 것으로 해석하지 않음."
+  },
+  "retrievalMethod": "web.search_query: indexed PDF table; direct PDF unavailable",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

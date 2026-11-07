@@ -1,0 +1,16 @@
+{
+  "id": "5cb54668441d7041c6bb",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume 1, 15.1 Simple Harmonic Motion",
+  "url": "https://openstax.org/books/university-physics-volume-1/pages/15-1-simple-harmonic-motion",
+  "excerpt": "The angular frequency depends only on the force constant and the mass, and not the amplitude.",
+  "sourceHash": "5a37ecd04744e35a48eeab98022efeb2fceba565fe3294de468e48896b57a471",
+  "cacheSourceId": "f2896cb7253aebe779de",
+  "retrievedAt": "2026-11-06T18:37:56.019490+00:00",
+  "reviewedMappings": {
+    "2014-3-08:0": "식15.9 ω=√(k/m), 식15.11 f=√(k/m)/(2π) 및 운동방정식 직접 대조. 두 진동수가 같으므로 각진동수도 동일. 선지①②의 역수와⑤의√2계수 배제."
+  },
+  "retrievalMethod": "web.open and web.find; direct primary-source equations reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

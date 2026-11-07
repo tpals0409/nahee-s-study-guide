@@ -1,0 +1,17 @@
+{
+  "id": "a121ea8b4ea229c1532c",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e, 16.3 Eukaryotic Epigenetic Gene Regulation",
+  "url": "https://openstax.org/books/biology-2e/pages/16-3-eukaryotic-epigenetic-gene-regulation",
+  "excerpt": "the charge becomes less positive, and the binding of DNA to the histones is relaxed",
+  "sourceHash": "685a9712ce222ad96fc3ed17852ee772701737a918adf25ddee29f0a09ab2832",
+  "cacheSourceId": "12eaf190dd06c9413923",
+  "retrievedAt": "2026-11-07T00:16:48.845000+00:00",
+  "reviewedMappings": {
+    "2021-3-27:0": "lines40-45: 히스톤 꼬리 아세틸화가 전하 및 염색질 접근성을 변화시키므로 ④의 구조변화 주장은 타당. 다른 선지 최종검증은 별도.",
+    "2021-3-27:4": "lines44-45: 아세틸화에 따른 양전하 감소와 DNA 결합 이완. 항상 이질염색질이 완전히 진정염색질로 전환된다고 일반화하지 않음."
+  },
+  "retrievalMethod": "Direct textbook sections reviewed: lines40-45: 히스톤 꼬리 아세틸화가 전하 및 염색질 접근성을 변화시키므로 ④의 구조변화 주장은 타당. 다른 선지 최종검증은 별도.; lines44-45: 아세틸화에 따른 양전하 감소와 DNA 결합 이완. 항상 이질염색질이 완전히 진정염색질로 전환된다고 일반화하지 않음.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

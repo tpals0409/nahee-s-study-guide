@@ -1,0 +1,17 @@
+{
+  "id": "bd52eb286a452f2d0472",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e 9.1 — Signaling Molecules and Cellular Receptors",
+  "url": "https://openstax.org/books/biology-2e/pages/9-1-signaling-molecules-and-cellular-receptors",
+  "excerpt": "Ligands that interact with cell-surface receptors do not have to enter the cell that they affect.",
+  "sourceHash": "efb63f5837a5ab7639c42c0904426c6c6026a1a344be91d056c70269fb155c74",
+  "cacheSourceId": "5caf3878af5a31cb62ad",
+  "retrievedAt": "2026-11-06T19:40:26.930353+00:00",
+  "reviewedMappings": {
+    "2015-3-23:0": "Cell-Surface Receptors 문단은 세포 밖 리간드 결합이 세포 내 신호로 전환됨을 명시한다. 리간드가 들어오지 않아도 신호전달 가능하다는 근거로 일반적 수송체 설명을 배제하며, 모든 수용체 내재화를 부정하지 않는다.",
+    "2015-3-23:5": "Cell-Surface Receptors 문단은 세포 밖 리간드 결합이 세포 내 신호로 전환됨을 명시한다. 리간드가 들어오지 않아도 신호전달 가능하다는 근거로 일반적 수송체 설명을 배제하며, 모든 수용체 내재화를 부정하지 않는다."
+  },
+  "retrievalMethod": "Direct web page and relevant receptor sections read; selected short excerpt transcribed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

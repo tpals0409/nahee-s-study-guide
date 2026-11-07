@@ -1,0 +1,16 @@
+{
+  "id": "b8a7c72c0493be137746",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology2e19.3 Adaptive Evolution",
+  "url": "https://openstax.org/books/biology-2e/pages/19-3-adaptive-evolution",
+  "excerpt": "Negative frequency-dependent selection serves to increase the population’s genetic variability by selecting for rare phenotypes",
+  "sourceHash": "e5443e4847656eeb78e390b32075d6aa2eacea99f90198bc67ea38246dc9a00b",
+  "cacheSourceId": "e49608aca83aa830d5ed",
+  "retrievedAt": "2026-11-07T04:07:09.845014+00:00",
+  "reviewedMappings": {
+    "2026-3-25:5": "19.3 distinguishes negative frequency dependence maintaining variation from positive frequency dependence reducing it."
+  },
+  "retrievalMethod": "Direct web open",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

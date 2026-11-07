@@ -1,0 +1,85 @@
+{
+  "id": "2024-3-18",
+  "summary": "정답은 ⑤, ㄱ·ㄴ·ㄷ입니다. 정사면체 염화 착이온의 홀전자 수 2개와 3개로부터 X=Ni, Y=Co이고, 정팔면체에서 홀전자 5개인 Z³⁺는 Fe³⁺입니다. 문제의 결정장 모형에서 I⁻를 약한 장으로 적용하면 Co³⁺의 고스핀 d⁶ 배치는 t₂g⁴e_g²이고 |CFSE|=0.4Δo입니다. [Fe(CN)₆]⁴⁻는 저스핀 d⁶으로 반자기성입니다.",
+  "choices": [
+    "'ㄱ'만 고른 선지: ㄱ(X는 Ni)은 옳습니다. 그러나 ㄴ과 ㄷ도 옳으므로 이 선지는 불완전하여 오답입니다.",
+    "'ㄴ'만 고른 선지: ㄴ은 옳습니다. 그러나 ㄱ(X=Ni)과 ㄷ([Fe(CN)₆]⁴⁻의 반자기성)도 옳으므로 오답입니다.",
+    "'ㄱ, ㄷ'을 고른 선지: 문제의 약한 장 결정장 모형에서 [CoI₆]³⁻은 Co³⁺ d⁶에 약한 장 리간드 I⁻가 결합한 고스핀 착물입니다. 배치는 t2g⁴eg²이고 CFSE = 4(−0.4Δo) + 2(+0.6Δo) = −0.4Δo이므로 절댓값 0.4Δo인 ㄴ도 옳습니다. ㄴ이 빠졌으므로 오답입니다.",
+    "'ㄴ, ㄷ'을 고른 선지: [XCl₄]²⁻의 홀전자 2개는 정사면체 d⁸ 배치(e⁴t₂⁴)인 Ni²⁺에만 해당하므로 ㄱ도 옳습니다. ㄱ이 빠졌으므로 오답입니다.",
+    "'ㄱ, ㄴ, ㄷ'을 고른 선지: 세 보기가 모두 옳으므로 정답입니다. X=Ni이고, [CoI₆]³⁻의 |CFSE| = 0.4Δo이며, [Fe(CN)₆]⁴⁻은 Fe²⁺ 저스핀 d⁶(t2g⁶)으로 홀전자가 0개라서 반자기성입니다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §19.3, crystal-field splitting, Example 19.8 and magnetic properties",
+      "quote": "those on the right cause larger splittings and are strong-field ligands",
+      "url": "https://openstax.org/books/chemistry-2e/pages/19-3-spectroscopic-and-magnetic-properties-of-coordination-compounds",
+      "evidenceId": "1d751c1c27e9e4046e77",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §19.3, crystal-field splitting, Example 19.8 and magnetic properties",
+      "quote": "those on the right cause larger splittings and are strong-field ligands",
+      "url": "https://openstax.org/books/chemistry-2e/pages/19-3-spectroscopic-and-magnetic-properties-of-coordination-compounds",
+      "evidenceId": "1d751c1c27e9e4046e77",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §19.3, crystal-field splitting, Example 19.8 and magnetic properties",
+      "quote": "those on the right cause larger splittings and are strong-field ligands",
+      "url": "https://openstax.org/books/chemistry-2e/pages/19-3-spectroscopic-and-magnetic-properties-of-coordination-compounds",
+      "evidenceId": "1d751c1c27e9e4046e77",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §19.3, crystal-field splitting, Example 19.8 and magnetic properties",
+      "quote": "those on the right cause larger splittings and are strong-field ligands",
+      "url": "https://openstax.org/books/chemistry-2e/pages/19-3-spectroscopic-and-magnetic-properties-of-coordination-compounds",
+      "evidenceId": "1d751c1c27e9e4046e77",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §19.3, crystal-field splitting, Example 19.8 and magnetic properties",
+      "quote": "those on the right cause larger splittings and are strong-field ligands",
+      "url": "https://openstax.org/books/chemistry-2e/pages/19-3-spectroscopic-and-magnetic-properties-of-coordination-compounds",
+      "evidenceId": "1d751c1c27e9e4046e77",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e §19.3, crystal-field splitting, Example 19.8 and magnetic properties",
+      "quote": "those on the right cause larger splittings and are strong-field ligands",
+      "url": "https://openstax.org/books/chemistry-2e/pages/19-3-spectroscopic-and-magnetic-properties-of-coordination-compounds",
+      "evidenceId": "1d751c1c27e9e4046e77",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Original table, charges and CFT scope inspected; d-electron populations and CFSE exact fraction checked; direct OpenStax ligand-field and ferrocyanide evidence",
+    "contentHash": "a3adcaf77bff651fc4f86f8db47be81900927fe7fa9e9ec4ceec9d247f09386a"
+  }
+}

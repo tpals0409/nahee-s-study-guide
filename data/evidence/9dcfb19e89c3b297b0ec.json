@@ -1,0 +1,21 @@
+{
+  "id": "9dcfb19e89c3b297b0ec",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e §22.2 — Structure of Prokaryotes: Bacteria and Archaea",
+  "url": "https://openstax.org/books/biology-2e/pages/22-2-structure-of-prokaryotes-bacteria-and-archaea",
+  "excerpt": "Streptomycin inhibition",
+  "sourceHash": "2e2cf7971ab3a92cc7c50bca1e7ff13ef862d48f8d3667a3dbc50db609a56f1c",
+  "cacheSourceId": "033daeb39b261a557006",
+  "retrievedAt": "2026-11-06T22:07:24.600818+00:00",
+  "reviewedMappings": {
+    "2018-3-30:0": "미토콘드리아 있는 C=효모, 원핵생물 A/B 중 표의 감수성으로 A=대장균 B=메탄생성균. 세 종류 모두 리보솜 보유. 짧은 발췌만이 아니라 기록된 본문·표를 검토하고 두 출처를 함께 적용.",
+    "2018-3-30:1": "A 대장균 B 메탄생성균 C 효모 조합이 표와 일치. 짧은 발췌만이 아니라 기록된 본문·표를 검토하고 두 출처를 함께 적용.",
+    "2018-3-30:2": "B 효모와 C 메탄생성균 배치는 미토콘드리아 유무와 반대. 짧은 발췌만이 아니라 기록된 본문·표를 검토하고 두 출처를 함께 적용.",
+    "2018-3-30:3": "A 효모와 C 메탄생성균 배치가 미토콘드리아 유무와 반대. 짧은 발췌만이 아니라 기록된 본문·표를 검토하고 두 출처를 함께 적용.",
+    "2018-3-30:4": "C 효모는 맞으나 A/B가 표의 스트렙토마이신 감수성과 반대로 배치. 짧은 발췌만이 아니라 기록된 본문·표를 검토하고 두 출처를 함께 적용.",
+    "2018-3-30:5": "B 효모와 C 대장균 배치가 미토콘드리아 유무와 반대. 짧은 발췌만이 아니라 기록된 본문·표를 검토하고 두 출처를 함께 적용."
+  },
+  "retrievalMethod": "Direct open and find: reviewed Table 22.2 streptomycin sensitivity columns, lines 29–39 organelles/ribosomes, Figure 22.12 E. coli and Figure 22.14 methanogens. Table used as conventional comparison, not universal strain-level susceptibility.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

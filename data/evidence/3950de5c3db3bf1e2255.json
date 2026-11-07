@@ -1,0 +1,16 @@
+{
+  "id": "3950de5c3db3bf1e2255",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 2e, 5.1 Energy Basics",
+  "url": "https://openstax.org/books/chemistry-2e/pages/5-1-energy-basics",
+  "excerpt": "The specific heat of a substance varies somewhat with temperature.",
+  "sourceHash": "37b1d86a669b0fc150ffdf16a346df0c5758afa7c926e73d459824354da1e64f",
+  "cacheSourceId": "22b7d79b3f03e1108127",
+  "retrievedAt": "2026-11-06T23:59:03.897528+00:00",
+  "reviewedMappings": {
+    "2021-3-13:1": "For equal one-mole sample on temperature-versus-heat plot, slope is 1/Cp; original A slope greater than C so Cp(A)<Cp(C). No fixed heat capacity asserted for all temperatures."
+  },
+  "retrievalMethod": "Direct review lines 85–108: C=q/deltaT and temperature dependence; original diagram A steeper than C.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

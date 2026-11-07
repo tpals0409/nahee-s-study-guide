@@ -1,0 +1,16 @@
+{
+  "id": "de860114c459995cd38d",
+  "kind": "science",
+  "source": "Genome Biology and Evolution",
+  "ref": "Inferring Balancing Selection From Genome-Scale Data, Table 1",
+  "url": "https://academic.oup.com/gbe/article/15/3/evad032/7055906",
+  "excerpt": "Heterozygous genotype(s) have higher fitness than homozygotes.",
+  "sourceHash": "5feb335f68bf94735165504e20c297de36168bcfeb8b2dfd364b13b90aee137d",
+  "cacheSourceId": "88e9178eb977e32676e5",
+  "retrievedAt": "2026-11-07T04:10:37.723410+00:00",
+  "reviewedMappings": {
+    "2026-3-25:5": "Table1 explicitly labels heterosis or heterozygote advantage as balancing selection, alongside negative frequency dependence; contextual interpretation only, not universal equivalence of all hybrid vigor mechanisms."
+  },
+  "retrievalMethod": "Direct web find, publisher redirected full article",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

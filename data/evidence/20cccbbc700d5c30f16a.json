@@ -1,0 +1,20 @@
+{
+  "id": "20cccbbc700d5c30f16a",
+  "kind": "science",
+  "source": "Taipei Medical University research portal",
+  "ref": "Bergh et al. 2005, Endocrinology 146:2864–2871",
+  "url": "https://hub.tmu.edu.tw/en/publications/integrin-%CE%B1subvsub%CE%B2sub3sub-contains-a-cell-surface-receptor-site-f/",
+  "excerpt": "treatment of these cells with physiological concentrations of T4 activates the MAPK pathway",
+  "sourceHash": "6eef49fd3c5df678915c908455fb9b56effbfe0300af656e6f4a89166c14b4f8",
+  "cacheSourceId": "4157b38dec48a4e33f3d",
+  "retrievedAt": "2026-11-07T05:47:16.998649+00:00",
+  "reviewedMappings": {
+    "2012-3-21:0": "초록23–25 및 동일 초록의 서지 텍스트76 직접 대조. CV-1 세포의 T4 유도 MAPK 활성과 integrin 차단·knockdown 관찰. 실험 전문은 읽지 않았으며 모든 조직의 주요 경로라고 일반화하지 않음.",
+    "2012-3-21:2": "초록23–25 및 동일 초록의 서지 텍스트76 직접 대조. CV-1 세포의 T4 유도 MAPK 활성과 integrin 차단·knockdown 관찰. 실험 전문은 읽지 않았으며 모든 조직의 주요 경로라고 일반화하지 않음.",
+    "2012-3-21:3": "초록23–25 및 동일 초록의 서지 텍스트76 직접 대조. CV-1 세포의 T4 유도 MAPK 활성과 integrin 차단·knockdown 관찰. 실험 전문은 읽지 않았으며 모든 조직의 주요 경로라고 일반화하지 않음.",
+    "2012-3-21:4": "초록23–25 및 동일 초록의 서지 텍스트76 직접 대조. CV-1 세포의 T4 유도 MAPK 활성과 integrin 차단·knockdown 관찰. 실험 전문은 읽지 않았으며 모든 조직의 주요 경로라고 일반화하지 않음.",
+    "2012-3-21:5": "초록23–25 및 동일 초록의 서지 텍스트76 직접 대조. CV-1 세포의 T4 유도 MAPK 활성과 integrin 차단·knockdown 관찰. 실험 전문은 읽지 않았으며 모든 조직의 주요 경로라고 일반화하지 않음."
+  },
+  "retrievalMethod": "Direct author institution abstract or publisher textbook HTML",
+  "sourceHashScope": "Selected short excerpt only; not full source"
+}

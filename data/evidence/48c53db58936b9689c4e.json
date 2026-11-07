@@ -1,0 +1,20 @@
+{
+  "id": "48c53db58936b9689c4e",
+  "kind": "science",
+  "source": "Scientific Reports",
+  "ref": "Cheng (2016), Fractal density and singularity analysis of heat flow over ocean ridges",
+  "url": "https://www.nature.com/articles/srep19167",
+  "excerpt": "Peak heat flow occurs at mid-ocean ridges and decreases with the age of the oceanic lithosphere.",
+  "sourceHash": "2612ba9ff74fcdd8da7fc3652b670838f359884d042efaf9a5343856b4841c72",
+  "cacheSourceId": "3dbfa5c64bed028ef969",
+  "retrievedAt": "2026-11-07T05:43:41.362099+00:00",
+  "reviewedMappings": {
+    "2016-3-36:0": "ㄱ의 해령 높은 열류량 일반 경향. 해구의 지역 관측과 함께 해석하며 개별 측정값 전체의 대소관계로 일반화하지 않음.",
+    "2016-3-36:1": "ㄱ의 해령 높은 열류량 일반 경향. 해구의 지역 관측과 함께 해석하며 개별 측정값 전체의 대소관계로 일반화하지 않음.",
+    "2016-3-36:2": "ㄱ의 해령 높은 열류량 일반 경향. 해구의 지역 관측과 함께 해석하며 개별 측정값 전체의 대소관계로 일반화하지 않음.",
+    "2016-3-36:4": "ㄱ의 해령 높은 열류량 일반 경향. 해구의 지역 관측과 함께 해석하며 개별 측정값 전체의 대소관계로 일반화하지 않음.",
+    "2016-3-36:5": "ㄱ의 해령 높은 열류량 일반 경향. 해구의 지역 관측과 함께 해석하며 개별 측정값 전체의 대소관계로 일반화하지 않음."
+  },
+  "retrievalMethod": "Direct publisher HTML full-text open",
+  "sourceHashScope": "Selected short excerpt only; not full source"
+}

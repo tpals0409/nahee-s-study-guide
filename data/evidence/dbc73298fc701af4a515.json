@@ -1,0 +1,21 @@
+{
+  "id": "dbc73298fc701af4a515",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume 3, 3.4: Interference in Thin Films",
+  "url": "https://openstax.org/books/university-physics-volume-3/pages/3-4-interference-in-thin-films",
+  "excerpt": "No phase change takes place when reflecting from a medium of lower refractive index",
+  "sourceHash": "05c60c1533de3d9f01a230ba60ef78c56c11d0d1f5359bb19ace6ab6b8c896bb",
+  "cacheSourceId": "1ee79c7dbde58ee95866",
+  "retrievedAt": "2026-11-07T03:02:19.794268+00:00",
+  "reviewedMappings": {
+    "2025-3-08:0": "상위 굴절률 경계에서 π 반전한다는 인접 본문과 예제 3.3을 확인. 두 반사 모두 반전하므로 상대 반사위상 0, 왕복 광경로는 2nd.",
+    "2025-3-08:1": "①은 2nd/λ=1/2이며 최소 양의 두께 100 nm.",
+    "2025-3-08:2": "②는 2nd/λ=0.69로 반정수 조건 불충족.",
+    "2025-3-08:3": "③은 2nd/λ=0.75로 반정수 조건 불충족.",
+    "2025-3-08:4": "④는 2nd/λ=1로 두 반사의 상대위상이 같을 때 보강 조건.",
+    "2025-3-08:5": "⑤는 2nd/λ=1.38로 반정수 조건 불충족; 다음 소멸 두께는 300 nm."
+  },
+  "retrievalMethod": "Direct reflection-phase section and Example 3.3 (same three refractive indices) reviewed; wavelength changed to original question 552 nm.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

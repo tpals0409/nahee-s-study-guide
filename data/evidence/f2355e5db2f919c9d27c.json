@@ -1,0 +1,14 @@
+{
+  "id": "f2355e5db2f919c9d27c",
+  "kind": "science",
+  "source": "OpenStax · Chemistry 2e",
+  "ref": "3.2 Determining Empirical and Molecular Formulas",
+  "url": "https://openstax.org/books/chemistry-2e/pages/3-2-determining-empirical-and-molecular-formulas",
+  "excerpt": "Dividing each element’s molar amount by the smallest molar amount",
+  "sourceHash": "ccbe172665b3aefaa0aa4cab0f908f84b0e2834c064e5c7a59c43a19d16e1492",
+  "cacheSourceId": "788d7ae2a4754038dcdd",
+  "retrievedAt": "2026-11-06T15:36:19.541651+00:00",
+  "reviewedMappings": {
+    "2010-3-16:0": "100 g 기준 C 7.70 mol, H 7.60 mol로 근사 1:1. M≈26과 식량13의 비2로 C₂H₂ 도출. 구성비가 이론값과 완전히 일치한다는 초안의 오류 수정. CH가 기체로 존재하지 않는다는 불필요한 주장 제거."
+  }
+}

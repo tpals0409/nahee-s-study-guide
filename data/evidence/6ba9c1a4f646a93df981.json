@@ -1,0 +1,18 @@
+{
+  "id": "6ba9c1a4f646a93df981",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e 16.3 Eukaryotic Epigenetic Gene Regulation",
+  "url": "https://openstax.org/books/biology-2e/pages/16-3-eukaryotic-epigenetic-gene-regulation",
+  "excerpt": "These tags are not permanent, but may be added or removed as needed.",
+  "sourceHash": "a673d97cff0f04d5245de65cf85505b16b49458b997dbdcc98b29abf0bf2e4e0",
+  "cacheSourceId": "0feac2271dac22236afc",
+  "retrievedAt": "2026-11-07T05:01:19.913141+00:00",
+  "reviewedMappings": {
+    "2023-3-28:1": "43·51행은 표지의 추가·제거 가능성을 명시하여 복원 불가라는①을 반박한다.",
+    "2023-3-28:3": "46행은 프로모터 CpG 메틸화의 통상적 침묵과 다른 조절 효과 가능성을 함께 명시한다. DNA 메틸화가 언제나 전사를 억제한다고 확대하지 않는다.",
+    "2023-3-28:5": "35·44행은 DNA의 히스톤 주위 포장과 음전하 DNA/양전하 히스톤의 상호작용을 직접 설명한다."
+  },
+  "retrievalMethod": "Direct web open",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

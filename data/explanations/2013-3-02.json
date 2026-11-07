@@ -1,0 +1,41 @@
+{
+  "summary": "직선도선의 전류는 I₁ = JA, 도선고리의 전류는 I₂ = JA/2입니다. 고리의 가까운 변(거리 d)은 직선도선과 같은 방향의 전류가 흘러 인력을 받고, 먼 변(거리 d+a)은 반대 방향의 전류가 흘러 척력을 받습니다. 가까운 변의 인력이 더 크므로 알짜힘은 인력이며, 크기는 μ₀laA²J²/(4πd(d+a))입니다.",
+  "choices": [
+    "인력, μ₀laA²J²/(4πd(d+a)): 정답입니다. 가까운 변의 인력 μ₀I₁I₂l/(2πd)에서 먼 변의 척력 μ₀I₁I₂l/(2π(d+a))를 빼면 μ₀I₁I₂la/(2πd(d+a))가 됩니다. 여기에 I₁I₂ = A²J²/2를 대입하면 이 식이 나옵니다.",
+    "척력, μ₀laA²J²/(4πd(d+a)): 오답입니다. 크기는 맞지만 방향이 틀렸습니다. 같은 방향 전류가 흐르는 가까운 변이 더 가까이 있어 더 큰 힘을 받으므로 알짜힘은 인력입니다.",
+    "인력, μ₀ldA²J²/(4πa(d+a)): 오답입니다. 방향은 맞지만 분자와 분모에서 d와 a가 뒤바뀌었습니다. 1/d − 1/(d+a) = a/(d(d+a))이지 d/(a(d+a))가 아닙니다.",
+    "척력, μ₀ldA²J²/(4πa(d+a)): 오답입니다. 방향과 크기가 모두 틀렸습니다.",
+    "인력, μ₀ldA²J²/(8πa(d+a)): 오답입니다. d와 a의 위치가 뒤바뀌었고, 계수도 1/(8π)가 아니라 1/(4π)여야 합니다."
+  ],
+  "lawNote": "A는 고리가 둘러싼 면적이 아니라 도선의 단면적입니다. 위·아래 변에는 같은 거리별 자기장이 작용하고 전류 방향이 반대이므로 두 변의 힘은 상쇄됩니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax · University Physics Volume 2",
+      "ref": "12.3",
+      "quote": "The force is attractive if the currents are in the same direction and repulsive if they are in opposite directions.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/12-3-magnetic-force-between-two-parallel-currents",
+      "evidenceId": "68e78d1cceb5755b0681",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "OpenStax University Physics Volume 2 §9.2 Model of Conduction in Metals",
+      "quote": "the magnitude of the current density, which is the current divided by the area",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/9-2-model-of-conduction-in-metals",
+      "evidenceId": "69da863cb91149f5d90f",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "원본 2013-3-02_1.webp의 가까운 변 전류 화살표·d,a,l·단면적 확인. OpenStax §12.3 자기장/힘 식 및 §9.2 J=I/A 대조. 1/d−1/(d+a)=a/[d(d+a)]와 I1I2=A²J²/2 검산. 그림이 모호하여 정답으로 방향을 가정했다는 초안 주석을 대신해 원본 방향 직접 확인. 정답① 일치.",
+    "contentHash": "ffdc45b254b7428288144ee6d4827031baf26386e021073f07a7e58d13ae414c"
+  }
+}

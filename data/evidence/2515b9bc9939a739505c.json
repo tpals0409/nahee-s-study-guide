@@ -1,0 +1,21 @@
+{
+  "id": "2515b9bc9939a739505c",
+  "kind": "science",
+  "source": "Scottish Qualifications Authority",
+  "ref": "Chemistry Higher and Advanced Higher Data Booklet (1999), printed p.10",
+  "url": "https://www.sqa.org.uk/files/nq/chemdata_h_ah.pdf",
+  "excerpt": "IONISATION ENERGIES AND ELECTRONEGATIVITIES OF SELECTED ELEMENTS",
+  "sourceHash": "c38c199318bc48ee7411a7fe09064045abcbd0e5accf28379b55d081c0c12a3f",
+  "cacheSourceId": "f04dadd256b9e2597d1d",
+  "retrievedAt": "2026-11-07T02:29:03.215903+00:00",
+  "reviewedMappings": {
+    "2024-3-15:0": "Direct PDF text table reviewed: IE1 Na502 Mg744 N1410 F1690; IE2 Mg1460 N2860 F3380 Na4560 kJ/mol; EN N3.0 F4.0. Values used only to establish order. Ordering identifies A Mg, B N, C F, D Na; ㄱ and ㄴ true, ㄷ false.",
+    "2024-3-15:1": "Direct PDF text table reviewed: IE1 Na502 Mg744 N1410 F1690; IE2 Mg1460 N2860 F3380 Na4560 kJ/mol; EN N3.0 F4.0. Values used only to establish order. ㄱ alone omits true ㄴ because F electronegativity exceeds N.",
+    "2024-3-15:2": "Direct PDF text table reviewed: IE1 Na502 Mg744 N1410 F1690; IE2 Mg1460 N2860 F3380 Na4560 kJ/mol; EN N3.0 F4.0. Values used only to establish order. ㄷ claims Mg radius greater than Na, opposite the same-period size relation.",
+    "2024-3-15:3": "Direct PDF text table reviewed: IE1 Na502 Mg744 N1410 F1690; IE2 Mg1460 N2860 F3380 Na4560 kJ/mol; EN N3.0 F4.0. Values used only to establish order. Third bar from left in IE1 is nitrogen B, and F is more electronegative than N.",
+    "2024-3-15:4": "Direct PDF text table reviewed: IE1 Na502 Mg744 N1410 F1690; IE2 Mg1460 N2860 F3380 Na4560 kJ/mol; EN N3.0 F4.0. Values used only to establish order. ㄴ true but ㄷ false; ㄱ also true.",
+    "2024-3-15:5": "Direct PDF text table reviewed: IE1 Na502 Mg744 N1410 F1690; IE2 Mg1460 N2860 F3380 Na4560 kJ/mol; EN N3.0 F4.0. Values used only to establish order. All three cannot hold because Mg radius is smaller than Na."
+  },
+  "retrievalMethod": "Direct PDF text table reviewed: IE1 Na502 Mg744 N1410 F1690; IE2 Mg1460 N2860 F3380 Na4560 kJ/mol; EN N3.0 F4.0. Values used only to establish order.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

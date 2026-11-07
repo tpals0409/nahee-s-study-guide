@@ -1,0 +1,30 @@
+{
+  "summary": "자기장 자체가 아니라 시간에 따른 변화율을 구해야 합니다. t=1초에서 dB/dt=8×10⁻³ T/s이므로, 유도 기전력의 크기는 200×1×8×10⁻³=1.6V로 ③입니다.",
+  "choices": [
+    "0.8V는 틀립니다. 한 바퀴의 기전력은 0.008V이고, 200회를 감았으므로 전체는 1.6V입니다.",
+    "1.2V는 틀립니다. 이 값을 얻으려면 변화율이 0.006 T/s이어야 하지만, t=1초에서 실제 변화율은 0.008 T/s입니다.",
+    "1.6V가 맞습니다. 단면적 A=1²=1m², 감은 횟수 N=200이고, dB/dt=10⁻³(10−2t)에 t=1을 대입하면 |ε|=NA|dB/dt|=1.6V입니다.",
+    "2.0V는 틀립니다. −t² 항도 미분해야 하므로 변화율은 0.010 T/s가 아니라 0.008 T/s입니다.",
+    "2.4V는 틀립니다. −t²의 미분은 +2t가 아니라 −2t입니다. 따라서 t=1에서 변화율은 0.012 T/s가 아니라 0.008 T/s입니다."
+  ],
+  "lawNote": "그림에서 자기장은 코일 단면에 수직이고 단면적은 일정합니다. 기전력의 크기를 묻기 때문에 패러데이 법칙의 부호 대신 절댓값을 사용합니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2 §13.1 Faraday’s Law, equations 13.1–13.3 and Example 13.1",
+      "quote": "Each turn experiences the same magnetic flux.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/13-1-faradays-law",
+      "evidenceId": "6867d87d844fabb27428",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "원본 그림·자기장 식·200회·1m 단면 확인. 패러데이 법칙 및 정사각 코일 예제로 대조, 시간 미분과 단위 독립 검산. 저장 정답 ③과 일치.",
+    "contentHash": "6f5397b13e16047692d8016455afa35e7360ee9886821948f5accba105ed7221"
+  }
+}

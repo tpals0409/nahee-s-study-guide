@@ -1,0 +1,16 @@
+{
+  "id": "2bbab7b4abd38fcae9db",
+  "kind": "science",
+  "source": "한국과학창의재단 · 사이언스올",
+  "ref": "중생대 지층 설명",
+  "url": "https://www.scienceall.com/brd/board/390/L/menu/317?bbsSn=173789&brdType=R&thisPage=1",
+  "excerpt": "하부의 대동 누층군과 상부의 경상 누층군",
+  "sourceHash": "e25568e8d8f66d86dddfd5cf7461179550be795aaf9a0a31493dedee9786d41c",
+  "cacheSourceId": "a7c4f22ebf3cd8b2c080",
+  "retrievedAt": "2026-11-06T15:59:49.013420+00:00",
+  "reviewedMappings": {
+    "2010-3-34:4": "공식 과학포털 검색 제공 본문에서 하부 대동·상부 경상 및 그 사이 지층 설명 대조. 원문 전체를 가져오지 못한 한계를 기록하고 상대 순서만 해설에 반영."
+  },
+  "retrievalMethod": "web.search returned publisher excerpt read; full web.open failed (timeout/cache miss)",
+  "sourceHashScope": "Search-returned selected excerpt only; not full page"
+}

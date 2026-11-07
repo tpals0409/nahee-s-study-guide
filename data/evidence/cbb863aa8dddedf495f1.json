@@ -1,0 +1,21 @@
+{
+  "id": "cbb863aa8dddedf495f1",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "12.1 The Biot-Savart Law",
+  "url": "https://openstax.org/books/university-physics-volume-2/pages/12-1-the-biot-savart-law",
+  "excerpt": "contributions from different current elements may not point in the same direction.",
+  "sourceHash": "c7e6a3edd7d27affc77893e34cfa7f677c0e9c8f05230c3ec7cf7df27a5be6d4",
+  "cacheSourceId": "7ea6edca63a8f83ed413",
+  "retrievedAt": "2026-11-06T20:09:48.411184+00:00",
+  "reviewedMappings": {
+    "2016-3-06:0": "본문 31~55행의 비오-사바르 외적과 벡터 적분을 원문에 적용한다. 중심과 일직선인 연결 도선은 dl과 r이 평행 또는 반평행이어서 기여 0. (가) 반원 둘은 반시계, (나) 바깥 반원은 반시계·안쪽은 시계이므로 가는 합, 나는 차.",
+    "2016-3-06:1": "본문 31~55행의 비오-사바르 외적과 벡터 적분을 원문에 적용한다. 중심과 일직선인 연결 도선은 dl과 r이 평행 또는 반평행이어서 기여 0. (가) 반원 둘은 반시계, (나) 바깥 반원은 반시계·안쪽은 시계이므로 가는 합, 나는 차.",
+    "2016-3-06:2": "본문 31~55행의 비오-사바르 외적과 벡터 적분을 원문에 적용한다. 중심과 일직선인 연결 도선은 dl과 r이 평행 또는 반평행이어서 기여 0. (가) 반원 둘은 반시계, (나) 바깥 반원은 반시계·안쪽은 시계이므로 가는 합, 나는 차.",
+    "2016-3-06:3": "본문 31~55행의 비오-사바르 외적과 벡터 적분을 원문에 적용한다. 중심과 일직선인 연결 도선은 dl과 r이 평행 또는 반평행이어서 기여 0. (가) 반원 둘은 반시계, (나) 바깥 반원은 반시계·안쪽은 시계이므로 가는 합, 나는 차.",
+    "2016-3-06:4": "본문 31~55행의 비오-사바르 외적과 벡터 적분을 원문에 적용한다. 중심과 일직선인 연결 도선은 dl과 r이 평행 또는 반평행이어서 기여 0. (가) 반원 둘은 반시계, (나) 바깥 반원은 반시계·안쪽은 시계이므로 가는 합, 나는 차.",
+    "2016-3-06:5": "본문 31~55행의 비오-사바르 외적과 벡터 적분을 원문에 적용한다. 중심과 일직선인 연결 도선은 dl과 r이 평행 또는 반평행이어서 기여 0. (가) 반원 둘은 반시계, (나) 바깥 반원은 반시계·안쪽은 시계이므로 가는 합, 나는 차."
+  },
+  "retrievalMethod": "web open: directly reviewed source text and equations",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

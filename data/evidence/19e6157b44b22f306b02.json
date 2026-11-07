@@ -1,0 +1,16 @@
+{
+  "id": "19e6157b44b22f306b02",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Concepts of Biology §6.2 The Cell Cycle",
+  "url": "https://openstax.org/books/concepts-biology/pages/6-2-the-cell-cycle",
+  "excerpt": "G1 involves cell growth and protein synthesis",
+  "sourceHash": "f5641175cd22831d25e01bb32d8b714e51a75a86b5e57824ddc8970d4327f919",
+  "cacheSourceId": "f643d71638bb7e4d9227",
+  "retrievedAt": "2026-11-06T16:36:27.982788+00:00",
+  "reviewedMappings": {
+    "2011-3-23:0": "그림6.3 설명에서 G1 성장·단백질합성과 S DNA복제 확인(ㄴ·ㄹ 참). G1은 단백질 합성의 유일한 시기라는 의미가 아님. 본문의 유사분열 단계와 간기를 구별하여 다섯 조합 검토."
+  },
+  "retrievalMethod": "web.run official textbook page reviewed",
+  "sourceHashScope": "Selected excerpt only; not full page"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "ad88adf0aa32ace1d8af",
+  "kind": "science",
+  "source": "NASA",
+  "ref": "Jupiter Facts",
+  "url": "https://science.nasa.gov/jupiter/jupiter-facts/",
+  "excerpt": "taking about 9.9 hours to spin around once on its axis.",
+  "sourceHash": "b86c7d1dae3f6d82062116ab5f09eed7fffb0e3a4aa177541b8b205d8bb90cd4",
+  "cacheSourceId": "a1f7cad11081b53c7ee8",
+  "retrievedAt": "2026-11-06T22:55:06.099809+00:00",
+  "reviewedMappings": {
+    "2019-3-37:4": "해당 행성의 자전 주기를 NASA 본문과 대조하여 243일 조건을 충족하지 않음을 확인했다."
+  },
+  "retrievalMethod": "Direct open/find; introduction line 242 and Orbit and Rotation 287.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

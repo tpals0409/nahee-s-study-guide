@@ -1,0 +1,16 @@
+{
+  "id": "da5e1fa5761af98e6190",
+  "kind": "science",
+  "source": "U.S. National Library of Medicine",
+  "ref": "Laminin — MeSH D007797",
+  "url": "https://www.ncbi.nlm.nih.gov/mesh/68007797",
+  "excerpt": "It is localized in the basement membrane lamina lucida",
+  "sourceHash": "332d889f290535afc52da229ea17753246ccfd2f9acc51ffeb78649da8507b2b",
+  "cacheSourceId": "e3b55dd8ae7e078d17b1",
+  "retrievedAt": "2026-11-07T00:12:25.308484+00:00",
+  "reviewedMappings": {
+    "2021-3-22:3": "MeSH 정의상 라미닌은 기저막에 위치하는 당단백질/세포외기질 단백질. 중심체에서 뻗는 미세소관의 튜불린 구성단위와 구별."
+  },
+  "retrievalMethod": "Direct MeSH descriptor line54 and extracellular matrix classification line124 reviewed.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

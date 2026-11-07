@@ -1,0 +1,21 @@
+{
+  "id": "6d0731dc04a2ae4d0c87",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "6.1 Solving Problems with Newton’s Laws",
+  "url": "https://openstax.org/books/university-physics-volume-1/pages/6-1-solving-problems-with-newtons-laws",
+  "excerpt": "the tension is the same throughout the string.",
+  "sourceHash": "f2955603e07b5274c0f665fa2cab3fe7c69c5d9deffff25b8bae1a3bc3710dbe",
+  "cacheSourceId": "cf9de8fb1093ce4971cd",
+  "retrievedAt": "2026-11-06T20:05:33.864869+00:00",
+  "reviewedMappings": {
+    "2016-3-01:0": "원문 그림의 수평 실과 연직 실이 고정 도르래로 연결되어 있다. 질량 없는 실과 마찰 없는 도르래의 장력 전달을 적용한다. 본 문항은 정지 상태이므로 도르래의 회전 가속도에 의한 장력 차도 없다.",
+    "2016-3-01:1": "원문 그림의 수평 실과 연직 실이 고정 도르래로 연결되어 있다. 질량 없는 실과 마찰 없는 도르래의 장력 전달을 적용한다. 본 문항은 정지 상태이므로 도르래의 회전 가속도에 의한 장력 차도 없다.",
+    "2016-3-01:2": "원문 그림의 수평 실과 연직 실이 고정 도르래로 연결되어 있다. 질량 없는 실과 마찰 없는 도르래의 장력 전달을 적용한다. 본 문항은 정지 상태이므로 도르래의 회전 가속도에 의한 장력 차도 없다.",
+    "2016-3-01:3": "원문 그림의 수평 실과 연직 실이 고정 도르래로 연결되어 있다. 질량 없는 실과 마찰 없는 도르래의 장력 전달을 적용한다. 본 문항은 정지 상태이므로 도르래의 회전 가속도에 의한 장력 차도 없다.",
+    "2016-3-01:4": "원문 그림의 수평 실과 연직 실이 고정 도르래로 연결되어 있다. 질량 없는 실과 마찰 없는 도르래의 장력 전달을 적용한다. 본 문항은 정지 상태이므로 도르래의 회전 가속도에 의한 장력 차도 없다.",
+    "2016-3-01:5": "원문 그림의 수평 실과 연직 실이 고정 도르래로 연결되어 있다. 질량 없는 실과 마찰 없는 도르래의 장력 전달을 적용한다. 본 문항은 정지 상태이므로 도르래의 회전 가속도에 의한 장력 차도 없다."
+  },
+  "retrievalMethod": "web open: directly reviewed page text",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

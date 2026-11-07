@@ -1,0 +1,16 @@
+{
+  "id": "94a16f8a0ea40a7e169c",
+  "kind": "science",
+  "source": "Fan et al. — Nature (2019)",
+  "ref": "Structures of influenza A virus RNA polymerase offer insight into viral genome replication",
+  "url": "https://www.nature.com/articles/s41586-019-1530-7",
+  "excerpt": "Influenza A viruses contain a segmented negative-sense RNA genome",
+  "sourceHash": "93aa6cbc02b6c5c28d954dbe51c4b19b5446eec28fcefcdd80aef703739f8eef",
+  "cacheSourceId": "c3e048ef135b4ba23e88",
+  "retrievedAt": "2026-11-06T18:55:11.444115+00:00",
+  "reviewedMappings": {
+    "2014-3-24:0": "원본 ㄱ의 DNA 전제는 음성가닥 RNA 유전체와 충돌. 색인 초록은 바이러스 RdRp 및 cRNA 중간체를 통한 복제를 설명하므로 ㄷ 역전사 전제를 지지하지 않는다. 저장 정답⑤는 유지하고 문항 오류/정답 정정 여부를 추가 확인해야 한다."
+  },
+  "retrievalMethod": "web.search_query indexed article abstract; direct open failed publisher authentication redirect",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "d247915086b75235225d",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "12.7 Interpreting Infrared Spectra",
+  "url": "https://openstax.org/books/organic-chemistry/pages/12-7-interpreting-infrared-spectra",
+  "excerpt": "Most functional groups have characteristic IR absorption bands",
+  "sourceHash": "4ea9d0285d53ee76e1d00a8c36185b3a8037f31d49e8f113815eaa9499d79806",
+  "cacheSourceId": "3dfc1dd217450b0eb6df",
+  "retrievedAt": "2026-11-06T22:37:13.792362+00:00",
+  "reviewedMappings": {
+    "2019-3-19:0": "원문 구조의 알킬 C–H, 에스터 C=O, C–O를 표12.1과 지문영역 설명에 대조해 가>다>나 판정.",
+    "2019-3-19:1": "C–O는 C=O보다 낮아 나>다는 거짓.",
+    "2019-3-19:2": "C–H 약2900, 에스터 C=O 약1740, C–O 1500 미만으로 순서 확인.",
+    "2019-3-19:3": "실제 순서 가>다>나를 뒤집은 배열.",
+    "2019-3-19:4": "C=O는 C–H보다 낮으므로 다>가는 거짓.",
+    "2019-3-19:5": "C–H가 가장 높으므로 가를 최하위에 둔 배열은 거짓."
+  },
+  "retrievalMethod": "Direct web open: Table 12.1 alkane C–H 2850–2960 and ester carbonyl 1735; lines 60–65 place C–O single-bond modes below 1500 and explain hydrogen-bonded atom mass trend. Original question image inspected to identify CH3CH2OC(O)CH3 and labels.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,86 @@
+{
+  "id": "2017-3-23",
+  "summary": "통상적인 배아줄기세포의 유래는 포배에 해당하는 배반포의 내세포괴입니다. 이를 낭배 단계라고 한 ④가 옳지 않은 설명입니다.",
+  "choices": [
+    "옳은 설명입니다. 여기서 생식세포는 생식세포 계열의 세포라는 뜻으로 읽습니다. 정확히는 정모세포·난모세포가 감수분열을 거쳐 배우자 형성에 참여하며, 성숙 정자가 다시 감수분열한다는 뜻은 아닙니다.",
+    "옳은 설명입니다. 상처 부위의 세포와 조직 줄기세포 등이 체세포분열로 증식하여 손상된 조직의 수복에 기여합니다. 모든 조직이 완전히 재생된다는 뜻은 아닙니다.",
+    "옳은 설명입니다. 감수분열 I 전기에 상동염색체의 비자매 염색분체 사이에서 교차가 일어나 새로운 유전자 조합이 생길 수 있습니다.",
+    "옳지 않은 설명이므로 정답입니다. 일반적으로 배아줄기세포는 낭배가 아니라 배반포의 내세포괴에서 얻습니다. 포배 단계와 낭배 단계를 혼동한 선지입니다.",
+    "옳은 설명입니다. 2n=8인 생물의 체세포분열 중기에는 염색체가 8개입니다. 2n=16인 생물은 감수분열 I에서 상동염색체가 분리되어 감수분열 II 중기에 n=8개입니다. 두 경우 모두 자매 염색분체는 아직 붙어 있습니다."
+  ],
+  "lawNote": "염색체 수와 염색분체 수를 구별해야 합니다. ⑤의 두 세포는 각각 염색체 8개, 염색분체 16개입니다. ①의 생식세포는 이 문제에서 생식세포 계열을 가리키는 표현으로 해석합니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "NIH",
+      "ref": "Stem Cell Basics",
+      "quote": "cells of the inner cell mass, and cells of the trophectoderm.",
+      "url": "https://stemcells.nih.gov/info/basics/stc-basics",
+      "evidenceId": "af8a91999e75f31465bf",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "NIH",
+      "ref": "Stem Cell Basics",
+      "quote": "cells of the inner cell mass, and cells of the trophectoderm.",
+      "url": "https://stemcells.nih.gov/info/basics/stc-basics",
+      "evidenceId": "af8a91999e75f31465bf",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "NIH",
+      "ref": "Stem Cell Basics",
+      "quote": "cells of the inner cell mass, and cells of the trophectoderm.",
+      "url": "https://stemcells.nih.gov/info/basics/stc-basics",
+      "evidenceId": "af8a91999e75f31465bf",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e §11.1 The Process of Meiosis",
+      "quote": "The crossover events are the first source of genetic variation in the nuclei produced by meiosis.",
+      "url": "https://openstax.org/books/biology-2e/pages/11-1-the-process-of-meiosis",
+      "evidenceId": "6f9136bf195d44d10a7c",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e §11.1 The Process of Meiosis",
+      "quote": "The crossover events are the first source of genetic variation in the nuclei produced by meiosis.",
+      "url": "https://openstax.org/books/biology-2e/pages/11-1-the-process-of-meiosis",
+      "evidenceId": "6f9136bf195d44d10a7c",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e §43.3 Human Reproductive Anatomy and Gametogenesis",
+      "quote": "Meiosis starts with a cell called a primary spermatocyte.",
+      "url": "https://openstax.org/books/biology-2e/pages/43-3-human-reproductive-anatomy-and-gametogenesis",
+      "evidenceId": "74c3ff6be23ab31978be",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "Original option wording inspected; NIH blastocyst stem-cell source and textbook meiosis/gametogenesis directly reviewed; chromosome versus chromatid counts checked; germ-cell terminology and conventional ESC origin qualified.",
+    "contentHash": "ed893d616b2e932a07a2a4b4429c62257ed1bdbcd720115fb84da796560e5d05"
+  }
+}

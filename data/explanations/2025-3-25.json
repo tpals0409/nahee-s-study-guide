@@ -1,0 +1,85 @@
+{
+  "id": "2025-3-25",
+  "summary": "정답은 ⑤ ㄱ, ㄴ, ㄷ입니다. 형질전환은 환경의 외부 DNA를 받아들이는 과정, 형질도입은 박테리오파지가 매개하는 전달, 접합은 직접 접촉한 공여세포에서 수용세포로의 DNA 전달입니다.",
+  "choices": [
+    "오답입니다. ㄱ은 옳습니다. 형질전환으로 받아들인 DNA가 염색체에 재조합되거나 플라스미드로 유지되면 유전적 구성이 달라지고 새로운 형질이 나타날 수 있습니다. 그러나 ㄴ과 ㄷ도 옳으므로 ㄱ만 고르면 부족합니다.",
+    "오답입니다. ㄷ은 옳습니다. 접합에서는 공여세포와 수용세포가 직접 접촉하여 DNA를 전달합니다. 대장균의 F 플라스미드 전달이 대표적인 예입니다. ㄱ과 ㄴ도 옳으므로 ㄷ만 고르면 부족합니다.",
+    "오답입니다. 빠진 ㄴ도 옳습니다. 형질도입에서는 세균을 감염시키는 바이러스인 박테리오파지가 한 세균의 DNA를 다른 세균으로 운반합니다. 따라서 ㄱ과 ㄷ만으로는 충분하지 않습니다.",
+    "오답입니다. 빠진 ㄱ도 옳습니다. 외부 DNA의 도입과 유전적 유지·발현으로 유전자형과 표현형이 바뀔 수 있습니다. 반드시 모든 DNA 도입이 표현형 변화를 일으킨다는 뜻은 아닙니다.",
+    "정답입니다. ㄱ은 외부 DNA를 받아들이는 형질전환, ㄴ은 바이러스 매개의 형질도입, ㄷ은 세포 간 직접 접촉을 통한 접합의 설명으로 모두 옳습니다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax Microbiology",
+      "ref": "11.6 How Asexual Prokaryotes Achieve Genetic Diversity",
+      "quote": "the bacterial cell may gain new phenotypic properties",
+      "url": "https://openstax.org/books/microbiology/pages/11-6-how-asexual-prokaryotes-achieve-genetic-diversity",
+      "evidenceId": "6c6e2ff359ecd053b4d4",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax Microbiology",
+      "ref": "11.6 How Asexual Prokaryotes Achieve Genetic Diversity",
+      "quote": "the bacterial cell may gain new phenotypic properties",
+      "url": "https://openstax.org/books/microbiology/pages/11-6-how-asexual-prokaryotes-achieve-genetic-diversity",
+      "evidenceId": "6c6e2ff359ecd053b4d4",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax Microbiology",
+      "ref": "11.6 How Asexual Prokaryotes Achieve Genetic Diversity",
+      "quote": "the bacterial cell may gain new phenotypic properties",
+      "url": "https://openstax.org/books/microbiology/pages/11-6-how-asexual-prokaryotes-achieve-genetic-diversity",
+      "evidenceId": "6c6e2ff359ecd053b4d4",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax Microbiology",
+      "ref": "11.6 How Asexual Prokaryotes Achieve Genetic Diversity",
+      "quote": "the bacterial cell may gain new phenotypic properties",
+      "url": "https://openstax.org/books/microbiology/pages/11-6-how-asexual-prokaryotes-achieve-genetic-diversity",
+      "evidenceId": "6c6e2ff359ecd053b4d4",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax Microbiology",
+      "ref": "11.6 How Asexual Prokaryotes Achieve Genetic Diversity",
+      "quote": "the bacterial cell may gain new phenotypic properties",
+      "url": "https://openstax.org/books/microbiology/pages/11-6-how-asexual-prokaryotes-achieve-genetic-diversity",
+      "evidenceId": "6c6e2ff359ecd053b4d4",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax Microbiology",
+      "ref": "11.6 How Asexual Prokaryotes Achieve Genetic Diversity",
+      "quote": "the bacterial cell may gain new phenotypic properties",
+      "url": "https://openstax.org/books/microbiology/pages/11-6-how-asexual-prokaryotes-achieve-genetic-diversity",
+      "evidenceId": "6c6e2ff359ecd053b4d4",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Original image and canonical choices compared; all three HGT statements independently matched to primary textbook definitions. Removed unnecessary mechanistic detail and avoided making F-plasmid/sex-pilus mechanism universal.",
+    "contentHash": "54ff8909291723dbc6823741988195e347ec640162045f8984d9ac37f1272355"
+  }
+}

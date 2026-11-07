@@ -1,0 +1,21 @@
+{
+  "id": "fefc92909d91b99a7b61",
+  "kind": "science",
+  "source": "University of Minnesota Extension",
+  "ref": "University of Minnesota Extension — Soil biology",
+  "url": "https://extension.umn.edu/natural-resources/conservation/agricultural-soil-and-water/soil-biology",
+  "excerpt": "the host plant supplies the rhizobium with simple carbohydrates.",
+  "sourceHash": "513997710635404874d450de0ec65a58a1c97cfd4472482df331fd3cd0daf146",
+  "cacheSourceId": "fef1aa5f2ca6f09f4fb3",
+  "retrievedAt": "2026-11-06T17:30:04.326127+00:00",
+  "reviewedMappings": {
+    "2012-3-30:0": "ㄹ: clover 포함 콩과식물, 질소고정에 의한 ammonium 제공과 식물의 탄수화물 제공 원문 대조.",
+    "2012-3-30:1": "ㄹ: clover 포함 콩과식물, 질소고정에 의한 ammonium 제공과 식물의 탄수화물 제공 원문 대조.",
+    "2012-3-30:2": "ㄹ: clover 포함 콩과식물, 질소고정에 의한 ammonium 제공과 식물의 탄수화물 제공 원문 대조.",
+    "2012-3-30:3": "ㄹ: clover 포함 콩과식물, 질소고정에 의한 ammonium 제공과 식물의 탄수화물 제공 원문 대조.",
+    "2012-3-30:4": "ㄹ: clover 포함 콩과식물, 질소고정에 의한 ammonium 제공과 식물의 탄수화물 제공 원문 대조.",
+    "2012-3-30:5": "ㄹ: clover 포함 콩과식물, 질소고정에 의한 ammonium 제공과 식물의 탄수화물 제공 원문 대조."
+  },
+  "retrievalMethod": "web.open/web.find; relevant institutional section directly reviewed",
+  "sourceHashScope": "Selected search excerpt only; not full page"
+}

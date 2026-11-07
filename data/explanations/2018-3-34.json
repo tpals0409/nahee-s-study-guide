@@ -1,0 +1,239 @@
+{
+  "id": "2018-3-34",
+  "summary": "공룡 발자국과 알 화석은 이 지층을 중생대의 육성 퇴적층으로 해석하는 단서입니다. 제주도·울릉도의 화산섬 형성은 신생대이며, 필석 화석은 고생대를 가리키므로 ㄴ과 ㄷ은 틀립니다. ㄱ만 옳은 ①이 정답입니다.",
+  "choices": [
+    "정답입니다. 공룡이 활동하고 산란한 흔적은 육성 퇴적 환경을 지시합니다. 우리나라 공룡 발자국·알 화석은 백악기 육성 퇴적층에서 잘 알려져 있습니다.",
+    "ㄴ은 틀립니다. 제주도와 울릉도는 신생대 화산활동으로 형성된 섬이므로 공룡 화석층의 중생대와 시기가 다릅니다.",
+    "ㄷ은 틀립니다. 고생대 해양 생물인 필석을 이 공룡 화석층과 같은 시대의 화석으로 보는 것이 맞지 않습니다. 이 판단은 고사리 화석이 없다는 주장에 근거하지 않습니다.",
+    "ㄱ은 옳지만 두 화산섬의 형성 시기를 공룡 화석층의 생성 시기와 같게 본 ㄴ이 틀립니다.",
+    "ㄴ은 화산섬의 형성 시기가 다르고, ㄷ은 필석의 지질 시대가 맞지 않아 모두 틀립니다."
+  ],
+  "lawNote": "문제의 화석만으로 특정 지층명까지 확정하지 않습니다. 필석은 오르도비스기·실루리아기의 대표적인 표준화석이지만, 화석 필석 전체의 생존 범위를 그 두 시기로만 제한하면 안 됩니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "National Geographic Information Institute",
+      "ref": "National Atlas of Korea — Dinosaur fossils",
+      "quote": "The Cretaceous terrestrial (non-marine) sedimentary layers on the Korean Peninsula contain abundant dinosaur fossils, including footprints and egg and bone fossils.",
+      "url": "https://nationalatlas.ngii.go.kr/pages/page_1417.php",
+      "evidenceId": "42b7f9b770c50b039077",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "National Geographic Information Institute",
+      "ref": "National Atlas of Korea — Dinosaur fossils",
+      "quote": "The Cretaceous terrestrial (non-marine) sedimentary layers on the Korean Peninsula contain abundant dinosaur fossils, including footprints and egg and bone fossils.",
+      "url": "https://nationalatlas.ngii.go.kr/pages/page_1417.php",
+      "evidenceId": "42b7f9b770c50b039077",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "National Geographic Information Institute",
+      "ref": "National Atlas of Korea — Dinosaur fossils",
+      "quote": "The Cretaceous terrestrial (non-marine) sedimentary layers on the Korean Peninsula contain abundant dinosaur fossils, including footprints and egg and bone fossils.",
+      "url": "https://nationalatlas.ngii.go.kr/pages/page_1417.php",
+      "evidenceId": "42b7f9b770c50b039077",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "National Geographic Information Institute",
+      "ref": "National Atlas of Korea — Dinosaur fossils",
+      "quote": "The Cretaceous terrestrial (non-marine) sedimentary layers on the Korean Peninsula contain abundant dinosaur fossils, including footprints and egg and bone fossils.",
+      "url": "https://nationalatlas.ngii.go.kr/pages/page_1417.php",
+      "evidenceId": "42b7f9b770c50b039077",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "National Geographic Information Institute",
+      "ref": "National Atlas of Korea — Dinosaur fossils",
+      "quote": "The Cretaceous terrestrial (non-marine) sedimentary layers on the Korean Peninsula contain abundant dinosaur fossils, including footprints and egg and bone fossils.",
+      "url": "https://nationalatlas.ngii.go.kr/pages/page_1417.php",
+      "evidenceId": "42b7f9b770c50b039077",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "National Geographic Information Institute",
+      "ref": "National Atlas of Korea — Dinosaur fossils",
+      "quote": "The Cretaceous terrestrial (non-marine) sedimentary layers on the Korean Peninsula contain abundant dinosaur fossils, including footprints and egg and bone fossils.",
+      "url": "https://nationalatlas.ngii.go.kr/pages/page_1417.php",
+      "evidenceId": "42b7f9b770c50b039077",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "UNESCO",
+      "ref": "Jeju Island UNESCO Global Geopark",
+      "quote": "The geopark is a Quaternary shield volcanic island",
+      "url": "https://www.unesco.org/en/iggp/jeju-island-unesco-global-geopark",
+      "evidenceId": "f366459b1c294092b13f",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "UNESCO",
+      "ref": "Jeju Island UNESCO Global Geopark",
+      "quote": "The geopark is a Quaternary shield volcanic island",
+      "url": "https://www.unesco.org/en/iggp/jeju-island-unesco-global-geopark",
+      "evidenceId": "f366459b1c294092b13f",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "UNESCO",
+      "ref": "Jeju Island UNESCO Global Geopark",
+      "quote": "The geopark is a Quaternary shield volcanic island",
+      "url": "https://www.unesco.org/en/iggp/jeju-island-unesco-global-geopark",
+      "evidenceId": "f366459b1c294092b13f",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "UNESCO",
+      "ref": "Jeju Island UNESCO Global Geopark",
+      "quote": "The geopark is a Quaternary shield volcanic island",
+      "url": "https://www.unesco.org/en/iggp/jeju-island-unesco-global-geopark",
+      "evidenceId": "f366459b1c294092b13f",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "UNESCO",
+      "ref": "Jeju Island UNESCO Global Geopark",
+      "quote": "The geopark is a Quaternary shield volcanic island",
+      "url": "https://www.unesco.org/en/iggp/jeju-island-unesco-global-geopark",
+      "evidenceId": "f366459b1c294092b13f",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "경북동해안 국가지질공원",
+      "ref": "울릉도·독도 지질공원",
+      "quote": "우리나라 대표적인 신생대 화산섬",
+      "url": "https://bdgeopark.kr/bbs/board.php?bo_table=m01_01_a&wr_id=28",
+      "evidenceId": "f94df10ee489376a42be",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "경북동해안 국가지질공원",
+      "ref": "울릉도·독도 지질공원",
+      "quote": "우리나라 대표적인 신생대 화산섬",
+      "url": "https://bdgeopark.kr/bbs/board.php?bo_table=m01_01_a&wr_id=28",
+      "evidenceId": "f94df10ee489376a42be",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "경북동해안 국가지질공원",
+      "ref": "울릉도·독도 지질공원",
+      "quote": "우리나라 대표적인 신생대 화산섬",
+      "url": "https://bdgeopark.kr/bbs/board.php?bo_table=m01_01_a&wr_id=28",
+      "evidenceId": "f94df10ee489376a42be",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "경북동해안 국가지질공원",
+      "ref": "울릉도·독도 지질공원",
+      "quote": "우리나라 대표적인 신생대 화산섬",
+      "url": "https://bdgeopark.kr/bbs/board.php?bo_table=m01_01_a&wr_id=28",
+      "evidenceId": "f94df10ee489376a42be",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "경북동해안 국가지질공원",
+      "ref": "울릉도·독도 지질공원",
+      "quote": "우리나라 대표적인 신생대 화산섬",
+      "url": "https://bdgeopark.kr/bbs/board.php?bo_table=m01_01_a&wr_id=28",
+      "evidenceId": "f94df10ee489376a42be",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "British Geological Survey",
+      "ref": "Graptolites",
+      "quote": "They lived between the Cambrian and Carboniferous periods, about 520 to 350 million years ago.",
+      "url": "https://www.bgs.ac.uk/discovering-geology/fossils-and-geological-time/graptolites/",
+      "evidenceId": "f0befba7beecca4658de",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "British Geological Survey",
+      "ref": "Graptolites",
+      "quote": "They lived between the Cambrian and Carboniferous periods, about 520 to 350 million years ago.",
+      "url": "https://www.bgs.ac.uk/discovering-geology/fossils-and-geological-time/graptolites/",
+      "evidenceId": "f0befba7beecca4658de",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "British Geological Survey",
+      "ref": "Graptolites",
+      "quote": "They lived between the Cambrian and Carboniferous periods, about 520 to 350 million years ago.",
+      "url": "https://www.bgs.ac.uk/discovering-geology/fossils-and-geological-time/graptolites/",
+      "evidenceId": "f0befba7beecca4658de",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "British Geological Survey",
+      "ref": "Graptolites",
+      "quote": "They lived between the Cambrian and Carboniferous periods, about 520 to 350 million years ago.",
+      "url": "https://www.bgs.ac.uk/discovering-geology/fossils-and-geological-time/graptolites/",
+      "evidenceId": "f0befba7beecca4658de",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Official Korean atlas/geopark and UNESCO indexed passages with access scope recorded; direct BGS graptolite review; all-choice age/environment comparison",
+    "contentHash": "022ef039fa39d52bc1a347c699f1d2394969e950bcc8d9b8c4283a8f49cc36f5"
+  }
+}

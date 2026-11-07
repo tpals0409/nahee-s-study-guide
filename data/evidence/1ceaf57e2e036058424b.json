@@ -1,0 +1,17 @@
+{
+  "id": "1ceaf57e2e036058424b",
+  "kind": "science",
+  "source": "NPTEL",
+  "ref": "Lecture 27: Understanding of Molecular Orbital",
+  "url": "https://archive.nptel.ac.in/content/storage2/courses/115101003/modules/module3/lec27/1.9.html",
+  "excerpt": "So these are nonbonding orbital.",
+  "sourceHash": "f37e22768204ad341c744046bdf078b4147989f9feb07c22f36f93e707a80b7e",
+  "cacheSourceId": "41eba26515e47991c8c5",
+  "retrievedAt": "2026-11-06T23:14:34.085831+00:00",
+  "reviewedMappings": {
+    "2020-3-15:0": "HF transverse F2p pair nonbonding; in question diagram these are highest occupied.",
+    "2020-3-15:5": "Occupied highest pair retains F2p level and is nonbonding, while empty upper σ* is antibonding; statement5 false."
+  },
+  "retrievalMethod": "Direct web retrieval; reviewed HF example at line8: transverse fluorine2p orbitals do not interact with H1s by symmetry. Mapped to original question diagram, where the two filled transverse orbitals are highest occupied; axis naming is conventional.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

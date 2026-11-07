@@ -1,0 +1,21 @@
+{
+  "id": "36059bc6c1051c0f02d9",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume 1 §6.1 Solving Problems with Newton’s Laws",
+  "url": "https://openstax.org/books/university-physics-volume-1/pages/6-1-solving-problems-with-newtons-laws",
+  "excerpt": "Apply Newton’s second law to solve the problem.",
+  "sourceHash": "2b98b388eea90e7a3bbaabfce157887347925c2c67a441f07b2984a4b68ac6bb",
+  "cacheSourceId": "68e043e7ddee94a378ba",
+  "retrievedAt": "2026-11-06T22:59:22.926712+00:00",
+  "reviewedMappings": {
+    "2020-3-01:0": "A의 오른쪽과 B의 아래쪽을 각각 양의 방향으로 잡아 T−f=4,20−T=8을 풀었다. 선지별 가상 마찰력과 가속도를 역산했다.",
+    "2020-3-01:1": "A의 오른쪽과 B의 아래쪽을 각각 양의 방향으로 잡아 T−f=4,20−T=8을 풀었다. 선지별 가상 마찰력과 가속도를 역산했다.",
+    "2020-3-01:2": "A의 오른쪽과 B의 아래쪽을 각각 양의 방향으로 잡아 T−f=4,20−T=8을 풀었다. 선지별 가상 마찰력과 가속도를 역산했다.",
+    "2020-3-01:3": "A의 오른쪽과 B의 아래쪽을 각각 양의 방향으로 잡아 T−f=4,20−T=8을 풀었다. 선지별 가상 마찰력과 가속도를 역산했다.",
+    "2020-3-01:4": "A의 오른쪽과 B의 아래쪽을 각각 양의 방향으로 잡아 T−f=4,20−T=8을 풀었다. 선지별 가상 마찰력과 가속도를 역산했다.",
+    "2020-3-01:5": "A의 오른쪽과 B의 아래쪽을 각각 양의 방향으로 잡아 T−f=4,20−T=8을 풀었다. 선지별 가상 마찰력과 가속도를 역산했다."
+  },
+  "retrievalMethod": "Direct open lines 37–56 Newton law in components; original 2020-3-01.webp visually inspected: horizontal A and suspended B, F removed.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "a96c2deb786b9de1c947",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics 2 §8.1 Capacitors and Capacitance",
+  "url": "https://openstax.org/books/university-physics-volume-2/pages/8-1-capacitors-and-capacitance",
+  "excerpt": "From symmetry, the electrical field between the shells is directed radially outward.",
+  "sourceHash": "085566f088beb3c3161ffc20c0673a9f3a22232da8448b27aff9531750959401",
+  "cacheSourceId": "4300b50d25ebd114d831",
+  "retrievedAt": "2026-11-06T19:20:28.292769+00:00",
+  "reviewedMappings": {
+    "2015-3-05:0": "Spherical capacitor derivation (Gauss law, radial potential integral, C=Q/V), equation 8.4 inspected. Apply separately to radial regions seen in original diagram; algebra and distractor checks independently derived.",
+    "2015-3-05:1": "Spherical capacitor derivation (Gauss law, radial potential integral, C=Q/V), equation 8.4 inspected. Apply separately to radial regions seen in original diagram; algebra and distractor checks independently derived.",
+    "2015-3-05:2": "Spherical capacitor derivation (Gauss law, radial potential integral, C=Q/V), equation 8.4 inspected. Apply separately to radial regions seen in original diagram; algebra and distractor checks independently derived.",
+    "2015-3-05:3": "Spherical capacitor derivation (Gauss law, radial potential integral, C=Q/V), equation 8.4 inspected. Apply separately to radial regions seen in original diagram; algebra and distractor checks independently derived.",
+    "2015-3-05:4": "Spherical capacitor derivation (Gauss law, radial potential integral, C=Q/V), equation 8.4 inspected. Apply separately to radial regions seen in original diagram; algebra and distractor checks independently derived.",
+    "2015-3-05:5": "Spherical capacitor derivation (Gauss law, radial potential integral, C=Q/V), equation 8.4 inspected. Apply separately to radial regions seen in original diagram; algebra and distractor checks independently derived."
+  },
+  "retrievalMethod": "Direct web.open; surrounding equations inspected",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "2e23f0f877c603a553f1",
+  "kind": "science",
+  "source": "NOAA",
+  "ref": "Weather Glossary: L’s — Lapse Rate",
+  "url": "https://www.noaa.gov/jetstream/appendix/weather-glossary-l",
+  "excerpt": "The global average rate of temperature change with height in the atmosphere is 6.5°C/km.",
+  "sourceHash": "ee08b8767f16fd97aac0131cb4f5c945c7cdcd9abb810bae8d0bd3308a27767b",
+  "cacheSourceId": "477ef69b8f5956d06f48",
+  "retrievedAt": "2026-11-06T21:35:35.138231+00:00",
+  "reviewedMappings": {
+    "2017-3-37:1": "Lapse Rate 항목의 평균6.5°C/km와 Layers 페이지 대류권 기온 감소를 결합. 실제 모든 층의 불변값으로 해석하지 않음."
+  },
+  "retrievalMethod": "Direct web page opened and relevant sections reviewed; selected excerpt retained",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "eb6bada5d7cae40e85b9",
+  "kind": "science",
+  "source": "UC IPM",
+  "ref": "UC IPM — Natural Enemies Gallery",
+  "url": "https://ipm.ucanr.edu/natural-enemies/natenemiesorderfam.html",
+  "excerpt": "Larval stages of insect parasitoids feed on or inside of other insects, killing their hosts.",
+  "sourceHash": "293ac627e649d8cf5dc6a183aaff01d90798050d55566e5fdc02680cf2a2b411",
+  "cacheSourceId": "f8c14c1a4cfd144f4555",
+  "retrievedAt": "2026-11-06T17:30:04.326207+00:00",
+  "reviewedMappings": {
+    "2012-3-30:0": "ㄷ: 유충의 숙주 내외 섭식과 숙주 사망을 설명하는 포식기생 정의 원문 대조. 기생파리의 숙주 기록은 별도 원저로 확인.",
+    "2012-3-30:1": "ㄷ: 유충의 숙주 내외 섭식과 숙주 사망을 설명하는 포식기생 정의 원문 대조. 기생파리의 숙주 기록은 별도 원저로 확인.",
+    "2012-3-30:2": "ㄷ: 유충의 숙주 내외 섭식과 숙주 사망을 설명하는 포식기생 정의 원문 대조. 기생파리의 숙주 기록은 별도 원저로 확인.",
+    "2012-3-30:3": "ㄷ: 유충의 숙주 내외 섭식과 숙주 사망을 설명하는 포식기생 정의 원문 대조. 기생파리의 숙주 기록은 별도 원저로 확인.",
+    "2012-3-30:4": "ㄷ: 유충의 숙주 내외 섭식과 숙주 사망을 설명하는 포식기생 정의 원문 대조. 기생파리의 숙주 기록은 별도 원저로 확인.",
+    "2012-3-30:5": "ㄷ: 유충의 숙주 내외 섭식과 숙주 사망을 설명하는 포식기생 정의 원문 대조. 기생파리의 숙주 기록은 별도 원저로 확인."
+  },
+  "retrievalMethod": "web.open/web.find; relevant institutional section directly reviewed",
+  "sourceHashScope": "Selected search excerpt only; not full page"
+}

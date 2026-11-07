@@ -1,0 +1,31 @@
+{
+  "id": "d5f7f8adaaa64a8623db",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 2e 12.1 Chemical Reaction Rates",
+  "url": "https://openstax.org/books/chemistry-2e/pages/12-1-chemical-reaction-rates",
+  "excerpt": "these rate expressions are all related simply to one another according to the reaction stoichiometry.",
+  "sourceHash": "cee7e15ff91db837b286935d7343c2361881f2d8ea51e6066b2e272886acbb03",
+  "cacheSourceId": "4f9fd812c75242356e4b",
+  "retrievedAt": "2026-11-07T00:53:49.314036+00:00",
+  "reviewedMappings": {
+    "2012-3-13:0": "반응계수2:1에서 [A]=2−2[B]. v=−(1/2)d[A]/dt이면 k=k_A/2=.0025. 두 속도상수 정의를 구별해 ㄴ의.00125가 둘 다 아님 확인.",
+    "2012-3-13:1": "반응계수2:1에서 [A]=2−2[B]. v=−(1/2)d[A]/dt이면 k=k_A/2=.0025. 두 속도상수 정의를 구별해 ㄴ의.00125가 둘 다 아님 확인.",
+    "2012-3-13:2": "반응계수2:1에서 [A]=2−2[B]. v=−(1/2)d[A]/dt이면 k=k_A/2=.0025. 두 속도상수 정의를 구별해 ㄴ의.00125가 둘 다 아님 확인.",
+    "2012-3-13:3": "반응계수2:1에서 [A]=2−2[B]. v=−(1/2)d[A]/dt이면 k=k_A/2=.0025. 두 속도상수 정의를 구별해 ㄴ의.00125가 둘 다 아님 확인.",
+    "2012-3-13:4": "반응계수2:1에서 [A]=2−2[B]. v=−(1/2)d[A]/dt이면 k=k_A/2=.0025. 두 속도상수 정의를 구별해 ㄴ의.00125가 둘 다 아님 확인.",
+    "2012-3-13:5": "반응계수2:1에서 [A]=2−2[B]. v=−(1/2)d[A]/dt이면 k=k_A/2=.0025. 두 속도상수 정의를 구별해 ㄴ의.00125가 둘 다 아님 확인.",
+    "2019-3-20:0": "직선 기울기로 k가=1/t₁, k나=1/(2t₁). 비교 시점의 농도가 같고 Y계수2를 반영하면 생성 속도도 같음.",
+    "2019-3-20:2": "동일 농도 c에서 vX=k가c, vY=2k나c로 같으므로 ㄷ 거짓.",
+    "2019-3-20:4": "ㄴ은 참이나 계수2를 반영한 생성 속도는 같아 ㄷ은 거짓이며 ㄱ 누락.",
+    "2019-3-20:5": "ㄱ·ㄴ은 참이나 생성 속도비가 1이므로 ㄷ 거짓.",
+    "2022-3-12:0": "Direct review lines 72–95: species rates related by stoichiometry. For A+2B→C+2D, -Bprime=2r, Cprime=r, Dprime=2r. Independent rate ratio is 25/8. 정답은 ①, ㄱ입니다. [A]를 일정하게 두면 1/[B]가 시간에 대해 거의 직선으로 증가하여 m=2입니다. 기울기 2k[A]₀를 비교하면 k₂/k₁=8이고, ㄷ의 C·D 생성 속도비는 25/8입니다.",
+    "2022-3-12:1": "Direct review lines 72–95: species rates related by stoichiometry. For A+2B→C+2D, -Bprime=2r, Cprime=r, Dprime=2r. Independent rate ratio is 25/8. ㄱ만 옳습니다. 1/[B]와 시간의 선형 관계로 m=2이며, ㄴ의 실제 값은 8, ㄷ의 실제 값은 25/8입니다.",
+    "2022-3-12:2": "Direct review lines 72–95: species rates related by stoichiometry. For A+2B→C+2D, -Bprime=2r, Cprime=r, Dprime=2r. Independent rate ratio is 25/8. ㄴ은 틀립니다. 1/[B]의 기울기는 T₁에서 25, T₂에서 100 M⁻¹min⁻¹입니다. 기울기는 2k[A]₀이므로 k₂/k₁=(100/25)×(20/10)=8입니다.",
+    "2022-3-12:3": "Direct review lines 72–95: species rates related by stoichiometry. For A+2B→C+2D, -Bprime=2r, Cprime=r, Dprime=2r. Independent rate ratio is 25/8. ㄱ, ㄷ을 고른 선지: 오답입니다. ㄱ은 옳습니다. 그러나 ㄷ을 계산하면 T₁, 2 min의 C 생성 속도는 k₁[A][B]² = 0.625×20×(0.010)² = 1.25×10⁻³ M/min입니다. T₂, 4 min의 D 생성 속도는 2k₂[A][B]² = 2×5×10×(0.0020)² = 4.0×10⁻⁴ M/min입니다. 비는 3.125, 즉 25/8이므로 ㄷ은 틀립니다.",
+    "2022-3-12:4": "Direct review lines 72–95: species rates related by stoichiometry. For A+2B→C+2D, -Bprime=2r, Cprime=r, Dprime=2r. Independent rate ratio is 25/8. ㄴ, ㄷ을 고른 선지: 오답입니다. k₂/k₁=8이므로 ㄴ이 틀리고, 속도비가 25/8이므로 ㄷ도 틀립니다. 옳은 ㄱ도 빠져 있습니다.",
+    "2022-3-12:5": "Direct review lines 72–95: species rates related by stoichiometry. For A+2B→C+2D, -Bprime=2r, Cprime=r, Dprime=2r. Independent rate ratio is 25/8. ㄱ, ㄴ, ㄷ을 모두 고른 선지: 오답입니다. ㄴ(실제 값 8)과 ㄷ(실제 값 25/8)이 틀립니다."
+  },
+  "retrievalMethod": "Direct review lines 72–95: species rates related by stoichiometry. For A+2B→C+2D, -Bprime=2r, Cprime=r, Dprime=2r. Independent rate ratio is 25/8.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

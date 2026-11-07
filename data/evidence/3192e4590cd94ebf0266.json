@@ -1,0 +1,20 @@
+{
+  "id": "3192e4590cd94ebf0266",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e, 13.1 Chromosomal Theory and Genetic Linkage",
+  "url": "https://openstax.org/books/biology-2e/pages/13-1-chromosomal-theory-and-genetic-linkage",
+  "excerpt": "recombination frequency = 0.5",
+  "sourceHash": "d4e05197aba47c9463afe0a930aa6a45a83aafa6b38411b716ed5e8e0a56cf3d",
+  "cacheSourceId": "ae1cadd20572e7b71cd9",
+  "retrievedAt": "2026-11-07T01:57:26.514492+00:00",
+  "reviewedMappings": {
+    "2023-3-26:0": "Homologous Recombination 및 Genetic Maps 절 직접 확인. 정상 연관 모형의 재조합률 범위0~0.5와 부모형·재조합형 구분을 적용. RL/rl이면 rl=(1-c)/2>=1/4, rrll>=1/16>0.01이라 불가. Rl/rL 부모형 결합은 빨간 큰 꽃의 반례. 수치 계산은 교재 인용값이 아닌 독립 적용.",
+    "2023-3-26:2": "Homologous Recombination 및 Genetic Maps 절 직접 확인. 정상 연관 모형의 재조합률 범위0~0.5와 부모형·재조합형 구분을 적용. RL/rl이면 rl=(1-c)/2>=1/4, rrll>=1/16>0.01이라 불가. Rl/rL 부모형 결합은 빨간 큰 꽃의 반례. 수치 계산은 교재 인용값이 아닌 독립 적용.",
+    "2023-3-26:3": "Homologous Recombination 및 Genetic Maps 절 직접 확인. 정상 연관 모형의 재조합률 범위0~0.5와 부모형·재조합형 구분을 적용. RL/rl이면 rl=(1-c)/2>=1/4, rrll>=1/16>0.01이라 불가. Rl/rL 부모형 결합은 빨간 큰 꽃의 반례. 수치 계산은 교재 인용값이 아닌 독립 적용.",
+    "2023-3-26:4": "Homologous Recombination 및 Genetic Maps 절 직접 확인. 정상 연관 모형의 재조합률 범위0~0.5와 부모형·재조합형 구분을 적용. RL/rl이면 rl=(1-c)/2>=1/4, rrll>=1/16>0.01이라 불가. Rl/rL 부모형 결합은 빨간 큰 꽃의 반례. 수치 계산은 교재 인용값이 아닌 독립 적용.",
+    "2023-3-26:5": "Homologous Recombination 및 Genetic Maps 절 직접 확인. 정상 연관 모형의 재조합률 범위0~0.5와 부모형·재조합형 구분을 적용. RL/rl이면 rl=(1-c)/2>=1/4, rrll>=1/16>0.01이라 불가. Rl/rL 부모형 결합은 빨간 큰 꽃의 반례. 수치 계산은 교재 인용값이 아닌 독립 적용."
+  },
+  "retrievalMethod": "Homologous Recombination 및 Genetic Maps 절 직접 확인. 정상 연관 모형의 재조합률 범위0~0.5와 부모형·재조합형 구분을 적용. RL/rl이면 rl=(1-c)/2>=1/4, rrll>=1/16>0.01이라 불가. Rl/rL 부모형 결합은 빨간 큰 꽃의 반례. 수치 계산은 교재 인용값이 아닌 독립 적용.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

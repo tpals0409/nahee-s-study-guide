@@ -1,0 +1,19 @@
+{
+  "id": "626d95143947de2e8dec",
+  "kind": "science",
+  "source": "U.S. Geological Survey",
+  "ref": "Seismicity of the Earth 1900–2007, Nazca Plate and South America",
+  "url": "https://pubs.usgs.gov/publication/ofr20101083E",
+  "excerpt": "the active volcanic chain present along much of this deformation front.",
+  "sourceHash": "13ce144c03467f1bdacd6c6f69094760bcfac400f9c46b7b31ff6b0c01161bab",
+  "cacheSourceId": "d71a1ad8f64129f59be1",
+  "retrievedAt": "2026-11-06T19:51:11.593688+00:00",
+  "reviewedMappings": {
+    "2015-3-31:0": "USGS 보고서의 검색 색인 초록은 나스카판이 남미판 아래 섭입하는 해구 경계와 안데스의 화산열을 설명한다. Geological Society 본문 35행의 페루–칠레 해구와 46–48행의 화산활동 설명도 대조했다. 대륙 화산호의 예이며 모든 구간에서 화산이 반드시 활동한다고 일반화하지 않는다.",
+    "2015-3-31:2": "USGS 보고서의 검색 색인 초록은 나스카판이 남미판 아래 섭입하는 해구 경계와 안데스의 화산열을 설명한다. Geological Society 본문 35행의 페루–칠레 해구와 46–48행의 화산활동 설명도 대조했다. 대륙 화산호의 예이며 모든 구간에서 화산이 반드시 활동한다고 일반화하지 않는다.",
+    "2015-3-31:4": "USGS 보고서의 검색 색인 초록은 나스카판이 남미판 아래 섭입하는 해구 경계와 안데스의 화산열을 설명한다. Geological Society 본문 35행의 페루–칠레 해구와 46–48행의 화산활동 설명도 대조했다. 대륙 화산호의 예이며 모든 구간에서 화산이 반드시 활동한다고 일반화하지 않는다.",
+    "2015-3-31:5": "USGS 보고서의 검색 색인 초록은 나스카판이 남미판 아래 섭입하는 해구 경계와 안데스의 화산열을 설명한다. Geological Society 본문 35행의 페루–칠레 해구와 46–48행의 화산활동 설명도 대조했다. 대륙 화산호의 예이며 모든 구간에서 화산이 반드시 활동한다고 일반화하지 않는다."
+  },
+  "retrievalMethod": "Search-indexed USGS abstract reviewed; direct page open returned 403",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

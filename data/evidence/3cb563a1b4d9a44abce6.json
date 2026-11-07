@@ -1,0 +1,16 @@
+{
+  "id": "3cb563a1b4d9a44abce6",
+  "kind": "science",
+  "source": "Texas A&M University — M. Darensbourg",
+  "ref": "M. Darensbourg, Texas A&M Chemistry 362, Lecture 14 (2017), PDF pages 20 and 26",
+  "url": "https://www.chem.tamu.edu/rgroup/marcetta/chem362/lectures/Lecture%2014%20MO%20theory.pdf",
+  "excerpt": "All electrons paired - therefore DIAMAGNETIC",
+  "sourceHash": "6a73eb76b30e3e5e3aa20f13cd1d5860345ed37866a7cf9bf0322799b4cdc7bd",
+  "cacheSourceId": "b9a1ac76007f814d58d7",
+  "retrievedAt": "2026-11-06T16:13:39.070796+00:00",
+  "reviewedMappings": {
+    "2010-3-13:5": "⑤ 탄산 이온 부분: PDF p26의 CO3²⁻ π궤도 그림과 반자기성 명시 확인. 중성 CO3와 구별."
+  },
+  "retrievalMethod": "PDF downloaded; pdftoppm rendered pages 20 and 26; diagrams visually inspected and short text excerpts transcribed",
+  "sourceHashScope": "Selected visual text excerpts only; not full PDF"
+}

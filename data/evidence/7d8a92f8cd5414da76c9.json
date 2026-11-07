@@ -1,0 +1,16 @@
+{
+  "id": "7d8a92f8cd5414da76c9",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Microbiology, 14.3 Mechanisms of Antibacterial Drugs",
+  "url": "https://openstax.org/books/microbiology/pages/14-3-mechanisms-of-antibacterial-drugs",
+  "excerpt": "block the crosslinking of peptide chains",
+  "sourceHash": "10183b515ac185dd9034b719190db13d57b08c48acde2e63c8c136a8068d2e18",
+  "cacheSourceId": "a25e4860d3b192443412",
+  "retrievedAt": "2026-11-07T01:10:43.540124+00:00",
+  "reviewedMappings": {
+    "2022-3-26:2": "Beta-lactams including penicillin block transpeptidase/PBP-mediated new peptidoglycan crosslinks."
+  },
+  "retrievalMethod": "Direct web read: Inhibitors of Cell Wall Biosynthesis",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

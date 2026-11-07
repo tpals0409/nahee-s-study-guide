@@ -1,0 +1,17 @@
+{
+  "id": "7937d68b4c4aa958bf51",
+  "kind": "science",
+  "source": "OpenStax Biology 2e",
+  "ref": "7.2 Glycolysis",
+  "url": "https://openstax.org/books/biology-2e/pages/7-2-glycolysis",
+  "excerpt": "The second half of glycolysis involves phosphorylation without ATP investment (step 6) and produces two NADH and four ATP molecules per glucose.",
+  "sourceHash": "0768b843d043b910e544ec735eb588f61f97743aa8d5055fd25c3de40f1e0814",
+  "cacheSourceId": "bd31c56f593daa567914",
+  "retrievedAt": "2026-11-07T03:20:43.270120+00:00",
+  "reviewedMappings": {
+    "2025-3-24:0": "초기 ATP2 소비/후반 ATP4 생성으로 순2 계산.",
+    "2025-3-24:4": "ATP 투자2와 회수4를 대조하여 순2. 발효의 NAD 재생 단계와 구별."
+  },
+  "retrievalMethod": "Direct web reading of fermentation reactions, glycolysis ATP investment/payoff and oxidative ATP yield discussion.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

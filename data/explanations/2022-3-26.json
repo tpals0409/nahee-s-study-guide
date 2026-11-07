@@ -1,0 +1,96 @@
+{
+  "id": "2022-3-26",
+  "summary": "정답은 ④입니다. 세균 세포벽의 대표적 기능은 형태 유지와 삼투압에 대한 보호입니다. 세포 안팎의 분자 이동을 선택적으로 조절하는 주된 장벽은 세포막입니다.",
+  "choices": [
+    "① 옳습니다. 그람음성균 외막의 지질다당체(LPS)에서 지질 A가 내독소의 독성 작용을 담당합니다.",
+    "② 옳습니다. 페니실린은 펩티도글리칸의 펩티드 교차연결을 만드는 효소인 트랜스펩티다아제에 작용하여 새 세포벽의 합성을 방해합니다.",
+    "③ 옳습니다. 전형적인 세균 세포벽은 펩티도글리칸을 포함하지만, 곰팡이의 세포벽은 키틴 등을 포함하므로 조성이 다릅니다.",
+    "④ 옳지 않습니다. 선택적 투과를 통해 세포 내부와 외부 사이의 물질 이동을 조절하는 주된 장벽은 세포막입니다. 세포벽의 구조적 지지 기능과 구별해야 합니다.",
+    "⑤ 옳습니다. 세포벽의 펩티도글리칸 구조는 세균의 형태를 유지하고, 저장성 환경에서 삼투압에 의한 파열을 막는 데 기여합니다."
+  ],
+  "lawNote": "그람음성균의 외막도 물질 투과에 영향을 주는 장벽입니다. ④를 틀렸다고 하는 것은 세포벽이나 외막이 투과에 전혀 영향을 주지 않는다는 뜻이 아니라, 주된 선택적 투과 기능을 세포막과 구별하는 것입니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Microbiology, 3.3 Unique Characteristics of Prokaryotic Cells",
+      "quote": "that exhibits selective permeability",
+      "url": "https://openstax.org/books/microbiology/pages/3-3-unique-characteristics-of-prokaryotic-cells",
+      "evidenceId": "f39341118079e55958a8",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Microbiology, 3.3 Unique Characteristics of Prokaryotic Cells",
+      "quote": "that exhibits selective permeability",
+      "url": "https://openstax.org/books/microbiology/pages/3-3-unique-characteristics-of-prokaryotic-cells",
+      "evidenceId": "f39341118079e55958a8",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Microbiology, 3.3 Unique Characteristics of Prokaryotic Cells",
+      "quote": "that exhibits selective permeability",
+      "url": "https://openstax.org/books/microbiology/pages/3-3-unique-characteristics-of-prokaryotic-cells",
+      "evidenceId": "f39341118079e55958a8",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Microbiology, 3.3 Unique Characteristics of Prokaryotic Cells",
+      "quote": "that exhibits selective permeability",
+      "url": "https://openstax.org/books/microbiology/pages/3-3-unique-characteristics-of-prokaryotic-cells",
+      "evidenceId": "f39341118079e55958a8",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Microbiology, 14.3 Mechanisms of Antibacterial Drugs",
+      "quote": "block the crosslinking of peptide chains",
+      "url": "https://openstax.org/books/microbiology/pages/14-3-mechanisms-of-antibacterial-drugs",
+      "evidenceId": "7d8a92f8cd5414da76c9",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Microbiology, 5.3 Fungi",
+      "quote": "Fungal cell walls contain chitin",
+      "url": "https://openstax.org/books/microbiology/pages/5-3-fungi",
+      "evidenceId": "1274d6a42823b830c90b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Microbiology, 15.3 Virulence Factors of Bacterial and Viral Pathogens",
+      "quote": "Lipid A is the toxic component that promotes inflammation and fever.",
+      "url": "https://openstax.org/books/microbiology/pages/15-3-virulence-factors-of-bacterial-and-viral-pathogens",
+      "evidenceId": "9758a4496efb687ccd22",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Original image and all five statements checked; textbook support for membrane/wall distinction, lipid A, penicillin crosslink inhibition and fungal chitin; avoid denying outer-membrane barrier function",
+    "contentHash": "3c06ed778fadd2703c298a26cef7e4f843d432d3e25f9c6a679b6e543f81fa6a"
+  }
+}

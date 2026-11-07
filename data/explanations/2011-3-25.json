@@ -1,0 +1,30 @@
+{
+  "summary": "옳은 것은 ㄱ뿐이므로 정답은 ①입니다. 다른 조건이 같을 때 산소 분압이 높아지면 헤모글로빈의 산소포화도가 증가합니다. 산소 결합은 협동적이며, pH 상승은 산소 해리를 억제합니다.",
+  "choices": [
+    "ㄱ은 옳습니다. 산소 분압이 높으면 산소 결합이 유리해져, 문항에서 말하는 산소의 해리 정도는 감소합니다.",
+    "ㄴ은 틀립니다. 산소가 결합하면서 생기는 구조 변화는 다음 산소의 결합을 촉진합니다. 친화력이 점차 감소한다는 설명은 이 협동성과 반대입니다.",
+    "ㄷ은 틀립니다. 같은 산소 분압에서 pH가 높아지면 산소 친화력이 커지고 해리가 억제됩니다.",
+    "ㄱ은 맞지만 ㄴ이 틀려 정답이 아닙니다. 산소 결합은 후속 결합을 촉진합니다.",
+    "ㄱ은 맞지만 ㄷ이 틀려 정답이 아닙니다. pH 상승은 산소 해리를 증가시키지 않습니다."
+  ],
+  "lawNote": "산소해리곡선의 세로축인 산소포화도와 산소가 떨어져 나오는 정도를 구별하세요. pH 효과는 산소 분압과 온도 등 다른 조건을 같게 두고 비교합니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Anatomy and Physiology 2e §22.5 Transport of Gases",
+      "quote": "a higher, or more basic, pH inhibits oxygen dissociation from hemoglobin.",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/22-5-transport-of-gases",
+      "evidenceId": "356e70b7aca318ddd453",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "세 진술 및 다섯 조합을 교재 §22.5 본문과 대조하고 저장정답① 확인. 초안의 힐계수·특정 포화도 수치와 T/R 상세를 제거하고 비교조건 명시.",
+    "contentHash": "5cb77186c41c35dfdfd9113fb04874b2062150b94f8e379d97eb5f0d5c303abf"
+  }
+}

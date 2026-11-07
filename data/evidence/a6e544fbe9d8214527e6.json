@@ -1,0 +1,16 @@
+{
+  "id": "a6e544fbe9d8214527e6",
+  "kind": "science",
+  "source": "LMU Munich",
+  "ref": "LMU Munich — Tropical Cyclones: Climatology and tracks",
+  "url": "https://www.meteo.physik.uni-muenchen.de/~roger/Tropics/TCs_RegionsOccurrence.html",
+  "excerpt": "The Northwest Pacific Ocean region is the most active region",
+  "sourceHash": "5603df9332771dc56de73b706beb932a725f8f232b78685c286ed07724cb6292",
+  "cacheSourceId": "ef338de9e9feea54d6a0",
+  "retrievedAt": "2026-11-06T17:38:59.753254+00:00",
+  "reviewedMappings": {
+    "2012-3-35:0": "네 진술의 공통 검토: 북서태평양 최다/북동태평양도 발생, 주요 저위도 분포와 적도 예외, 북반구 우세, 따뜻한 해양·습윤 하층 및 충분조건 아님을 각 출처의 해당 절로 대조."
+  },
+  "retrievalMethod": "web.open; relevant sections reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

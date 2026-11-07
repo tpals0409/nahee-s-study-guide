@@ -1,0 +1,19 @@
+{
+  "id": "1b547da80ddc783af135",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 2e, 16.2 Entropy",
+  "url": "https://openstax.org/books/chemistry-2e/pages/16-2-entropy",
+  "excerpt": "the processes of vaporization and sublimation likewise involve increases in entropy",
+  "sourceHash": "53cfd24768b36cfb7fe3bf23d8b5fec27d738f56a73b5bd961e7091fae1f4aff",
+  "cacheSourceId": "8eb158e02d67eb26edda",
+  "retrievedAt": "2026-11-07T03:12:28.660935+00:00",
+  "reviewedMappings": {
+    "2021-3-13:3": "C to D involves positive-temperature liquid heating followed by partial vaporization, both increase S, so S_C<S_D. For isothermal equilibrium D-to-E vaporization deltaS=qrev/T, supporting deltaG=deltaH-TdeltaS=0 with existing free-energy source.",
+    "2021-3-13:4": "C to D involves positive-temperature liquid heating followed by partial vaporization, both increase S, so S_C<S_D. For isothermal equilibrium D-to-E vaporization deltaS=qrev/T, supporting deltaG=deltaH-TdeltaS=0 with existing free-energy source.",
+    "2025-3-15:3": "상태함수 정의와 Sgas>Sliquid>Ssolid 문단 대조: e-b=Sgas-Sliquid>0.",
+    "2025-3-15:4": "융해 엔트로피 증가 문단 대조하여 b>0 확인."
+  },
+  "retrievalMethod": "Direct web open and relevant section reading; selected excerpt retained only.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

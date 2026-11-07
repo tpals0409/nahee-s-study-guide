@@ -1,0 +1,30 @@
+{
+  "summary": "정사각형을 한 면으로 하는 한 변 L의 정육면체를 생각하면 점전하는 그 중심에 놓입니다. 전체 선속 Q/ε₀가 대칭적인 여섯 면에 똑같이 나뉘므로, 정답은 ② Q/(6ε₀)입니다.",
+  "choices": [
+    "Q/(8ε₀)는 틀립니다. 전하를 중심에 둔 정육면체의 전체 선속을 나누는 면은 여덟 개가 아니라 여섯 개입니다.",
+    "Q/(6ε₀)가 맞습니다. 정육면체 전체에 가우스 법칙을 적용하면 6Φ=Q/ε₀이므로 한 면의 선속은 Q/(6ε₀)입니다.",
+    "Q/(4ε₀)는 틀립니다. 네 면이 아니라 서로 대칭인 여섯 면의 선속을 모두 더해야 Q/ε₀가 됩니다.",
+    "Q/(2ε₀)는 틀립니다. 이 값은 정육면체 전체 선속의 절반이지만, 주어진 정사각형 한 면이 차지하는 몫은 1/6입니다.",
+    "Q/ε₀는 전하를 둘러싼 정육면체 여섯 면 전체의 선속입니다. 문제에서 묻는 한 면의 선속은 그 1/6입니다."
+  ],
+  "lawNote": "한 면 안에서도 전기장의 크기와 면의 법선 방향 성분은 위치에 따라 달라집니다. 면 전체에서 전기장이 일정하다고 가정하는 대신, 여섯 면의 선속 적분이 대칭성으로 같다는 점을 이용합니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2 §6.2 Explaining Gauss’s Law",
+      "quote": "From Gauss’s law, the flux through each surface is given by",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/6-2-explaining-gausss-law",
+      "evidenceId": "fb7c10032a46617aa4fd",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "원본 이미지의 수직 표시·거리 L/2·변 L 확인. 가우스 법칙과 정육면체 회전 대칭으로 독립 유도하여 저장 정답 ②와 대조. 불필요한 꼭짓점 전하·입체각 공식 관련 초안 설명 제거.",
+    "contentHash": "bdbe024dfc4b1b41048228941788e761dc1f21a8e7496879d4eb40522507ce71"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "1ddd411811920c21e883",
+  "kind": "science",
+  "source": "NASA",
+  "ref": "Mars Facts",
+  "url": "https://science.nasa.gov/mars/facts/",
+  "excerpt": "it completes one rotation every 24.6 hours",
+  "sourceHash": "4adeabcc78a6fe5ddd537f704b72f55135f5669ee9df230e3f44d04959de4651",
+  "cacheSourceId": "2f251e9ccb6bb8027d6a",
+  "retrievedAt": "2026-11-06T22:55:06.099637+00:00",
+  "reviewedMappings": {
+    "2019-3-37:3": "해당 행성의 자전 주기를 NASA 본문과 대조하여 243일 조건을 충족하지 않음을 확인했다."
+  },
+  "retrievalMethod": "Direct open/find; Orbit and Rotation line 283.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

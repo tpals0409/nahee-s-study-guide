@@ -1,0 +1,21 @@
+{
+  "id": "b492344736209ebd7537",
+  "kind": "science",
+  "source": "NOAA",
+  "ref": "Layers of the Atmosphere",
+  "url": "https://www.noaa.gov/jetstream/atmosphere/layers-of-atmosphere",
+  "excerpt": "almost all weather occurs in this region.",
+  "sourceHash": "1e6ecd0efe949d3ff9c9277fa4a6dc87a59a2de4299b1793a7a7f0eceed13208",
+  "cacheSourceId": "fa7bcd3a55d44daf261e",
+  "retrievedAt": "2026-11-06T22:55:55.602256+00:00",
+  "reviewedMappings": {
+    "2019-3-38:0": "대류권계면 정의와 위도별 높이 차이 및 대류권에서 대부분의 기상현상이 발생한다는 본문으로 ㄱ·ㄴ을 확인했다.",
+    "2019-3-38:1": "대류권계면 정의와 위도별 높이 차이 및 대류권에서 대부분의 기상현상이 발생한다는 본문으로 ㄱ·ㄴ을 확인했다.",
+    "2019-3-38:2": "대류권계면 정의와 위도별 높이 차이 및 대류권에서 대부분의 기상현상이 발생한다는 본문으로 ㄱ·ㄴ을 확인했다.",
+    "2019-3-38:3": "대류권계면 정의와 위도별 높이 차이 및 대류권에서 대부분의 기상현상이 발생한다는 본문으로 ㄱ·ㄴ을 확인했다.",
+    "2019-3-38:4": "대류권계면 정의와 위도별 높이 차이 및 대류권에서 대부분의 기상현상이 발생한다는 본문으로 ㄱ·ㄴ을 확인했다.",
+    "2019-3-38:5": "대류권계면 정의와 위도별 높이 차이 및 대류권에서 대부분의 기상현상이 발생한다는 본문으로 ㄱ·ㄴ을 확인했다."
+  },
+  "retrievalMethod": "Direct open: lines 74–78, tropopause definition and equator-to-pole tropospheric height contrast; exact heights omitted because only relative comparison is required.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

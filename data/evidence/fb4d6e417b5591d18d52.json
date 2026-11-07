@@ -1,0 +1,21 @@
+{
+  "id": "fb4d6e417b5591d18d52",
+  "kind": "science",
+  "source": "US National Park Service",
+  "ref": "Mass Extinctions Through Geologic Time",
+  "url": "https://www.nps.gov/subjects/fossils/mass-extinctions-through-geologic-time.htm",
+  "excerpt": "All trilobites, rugose and tabulate corals, and blastoids died out",
+  "sourceHash": "873da77d14cc8f24b5e8efa64e9f1ecb15b6b7d855a2f62a2d5ee35e1e8773bb",
+  "cacheSourceId": "a614b2bf69f7cf86d233",
+  "retrievedAt": "2026-11-07T02:49:14.448037+00:00",
+  "reviewedMappings": {
+    "2024-3-35:0": "Original timeline states chronological Big Five; NPS list maps A–E. C largest and trilobites extinct at C, not D. A linked to glaciation/retreat; impact assigned to E.",
+    "2024-3-35:1": "Only ㄱ true based on largest End-Permian; ㄴ and ㄷ mismatched events.",
+    "2024-3-35:2": "End-Ordovician explanation concerns glaciation/retreat and sea-level change, whereas End-Cretaceous has Chicxulub impact; avoids absolute single-cause certainty.",
+    "2024-3-35:3": "All trilobites died at End-Permian C, before End-Triassic D; ㄱ true, ㄴ false.",
+    "2024-3-35:4": "Both ㄴ and ㄷ use wrong event assignments; correct assignments C trilobites, A glacial/climatic changes.",
+    "2024-3-35:5": "Only ㄱ is supported; ㄴ and ㄷ false by event mapping."
+  },
+  "retrievalMethod": "Direct Big Five list and each event subsection reviewed: End-Ordovician glaciation/retreat, largest End-Permian and trilobite extinction, End-Triassic, End-Cretaceous Chicxulub impact.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

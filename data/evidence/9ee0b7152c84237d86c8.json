@@ -1,0 +1,21 @@
+{
+  "id": "9ee0b7152c84237d86c8",
+  "kind": "science",
+  "source": "NPTEL",
+  "ref": "Lecture 17 — Aromaticity",
+  "url": "https://archive.nptel.ac.in/content/storage2/courses/104103071/module7/lec17/2.html",
+  "excerpt": "Cyclopropene is not aromatic because one of its ring atoms is",
+  "sourceHash": "4dfaa4fac943f01d7f376d6372da767152f9b47be2b95953c5b644ffcdde02e2",
+  "cacheSourceId": "0891fa8f3a733f4197fe",
+  "retrievedAt": "2026-11-06T17:14:27.928149+00:00",
+  "reviewedMappings": {
+    "2012-3-15:0": "ㄴ: 본문sp³ 원자의 공액 단절 확인. allene은 비고리형이어서 고리형 공액 조건 불충족. 둘 다 비방향족.",
+    "2012-3-15:1": "ㄴ: 본문sp³ 원자의 공액 단절 확인. allene은 비고리형이어서 고리형 공액 조건 불충족. 둘 다 비방향족.",
+    "2012-3-15:2": "ㄴ: 본문sp³ 원자의 공액 단절 확인. allene은 비고리형이어서 고리형 공액 조건 불충족. 둘 다 비방향족.",
+    "2012-3-15:3": "ㄴ: 본문sp³ 원자의 공액 단절 확인. allene은 비고리형이어서 고리형 공액 조건 불충족. 둘 다 비방향족.",
+    "2012-3-15:4": "ㄴ: 본문sp³ 원자의 공액 단절 확인. allene은 비고리형이어서 고리형 공액 조건 불충족. 둘 다 비방향족.",
+    "2012-3-15:5": "ㄴ: 본문sp³ 원자의 공액 단절 확인. allene은 비고리형이어서 고리형 공액 조건 불충족. 둘 다 비방향족."
+  },
+  "retrievalMethod": "web.open reviewed; selected excerpt retained",
+  "sourceHashScope": "Selected excerpt only; not full page"
+}

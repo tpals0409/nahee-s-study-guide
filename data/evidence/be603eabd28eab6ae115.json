@@ -1,0 +1,16 @@
+{
+  "id": "be603eabd28eab6ae115",
+  "kind": "science",
+  "source": "Swiss Seismological Service, ETH Zurich",
+  "ref": "Switzerland: Causes of earthquakes",
+  "url": "https://seismo.ethz.ch/en/knowledge/causes-of-earthquakes/Switzerland/",
+  "excerpt": "the continental parts of the European and the Adriatic/African plates collided, initiating the formation of the Alps.",
+  "sourceHash": "c2b6cd570a4491eaf97b052ee89c7ed2d164444429bc978d579461a5f966a754",
+  "cacheSourceId": "b7c51ce5d59c82dc041b",
+  "retrievedAt": "2026-11-06T18:23:38.840483+00:00",
+  "reviewedMappings": {
+    "2013-3-35:0": "ㄱ 알프스는 해양 섭입 이후 대륙부 충돌로 형성된 조산대."
+  },
+  "retrievalMethod": "web.open",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,195 @@
+{
+  "id": "2019-3-09",
+  "summary": "최종정답은⑤(ㄱ·ㄴ·ㄷ)입니다. 두 물체가 정지 상태에서 출발한다고 놓으면 B의 이동 시간은 A의2배, A의 운동에너지는 B의2배이며 두 운동량과 드브로이 파장은 같습니다. 아래 풀이는 이 정지 출발 가정에 따른 것입니다.",
+  "choices": [
+    "정지 출발을 가정하면 ㄱ은 옳지만 ㄴ·ㄷ도 옳으므로 ㄱ만 고른①은 오답입니다. a_A=2qE/m, a_B=qE/(2m)이므로 a_A=4a_B입니다. 같은 거리d에 대해 t=√(2d/a)이므로 t_B=2t_A입니다.",
+    "정지 출발을 가정하면 ㄷ은 옳지만 ㄱ·ㄴ도 옳으므로②는 오답입니다. K_A=2qEd, K_B=qEd와 p=√(2mK)를 적용하면 p_A=p_B=√(4mqEd)입니다. 따라서 λ=h/p도 같습니다.",
+    "정지 출발을 가정하면 ㄱ·ㄴ뿐 아니라 ㄷ도 옳으므로③은 오답입니다. B가 더 오래 이동하고 A의 운동에너지가 더 크지만, A의 작은 질량과 큰 운동에너지가 상쇄되어 두 운동량은 같습니다. 단, 정지 출발 조건을 빼면③이 성립하는 경우도 있습니다.",
+    "정지 출발을 가정하면 ㄴ·ㄷ은 옳지만 ㄱ도 옳으므로④는 오답입니다. B의 가속도가 A의1/4이므로 같은 거리를 이동하는 데2배의 시간이 걸립니다. 동시 도착하려면 B가 먼저 출발해야 합니다.",
+    "최종정답표의 정답입니다. 정지 출발이면 ㄱ: t_B=2t_A, ㄴ: K_A=2qEd>K_B=qEd, ㄷ: p_A=p_B이므로 λ_A=λ_B가 모두 성립합니다. K를 전기력이 한 일과 바로 같게 놓는 데에는 초기 운동에너지0이라는 조건이 필요합니다."
+  ],
+  "lawNote": "문항 조건 주의: 원문은 서로 다른 시각에 출발했다고만 하며 초속도0을 명시하지 않습니다. 초속도가 있으면 최종 운동에너지에 초기 운동에너지를 더해야 하고, 동시 도착만으로 두 초속도가0이라고 결론낼 수 없습니다. 예를 들어 m=q=E=d=1인 SI 값에서 두 초속도를1m/s로 두면 K_A=2.5J, K_B=2J이지만 p_A²=5, p_B²=8로 파장이 달라집니다. B를 먼저 출발시키면 동시 도착도 가능하므로,⑤는 정지 출발 해석 아래의 답으로 구분해야 합니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume2 §7.2 Electric Potential and Potential Difference",
+      "quote": "A loss of U for a charged particle becomes an increase in its K.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/7-2-electric-potential-and-potential-difference",
+      "evidenceId": "1c1c1259dd835db596ac",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume2 §7.2 Electric Potential and Potential Difference",
+      "quote": "A loss of U for a charged particle becomes an increase in its K.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/7-2-electric-potential-and-potential-difference",
+      "evidenceId": "1c1c1259dd835db596ac",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume2 §7.2 Electric Potential and Potential Difference",
+      "quote": "A loss of U for a charged particle becomes an increase in its K.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/7-2-electric-potential-and-potential-difference",
+      "evidenceId": "1c1c1259dd835db596ac",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume2 §7.2 Electric Potential and Potential Difference",
+      "quote": "A loss of U for a charged particle becomes an increase in its K.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/7-2-electric-potential-and-potential-difference",
+      "evidenceId": "1c1c1259dd835db596ac",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume2 §7.2 Electric Potential and Potential Difference",
+      "quote": "A loss of U for a charged particle becomes an increase in its K.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/7-2-electric-potential-and-potential-difference",
+      "evidenceId": "1c1c1259dd835db596ac",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume2 §7.2 Electric Potential and Potential Difference",
+      "quote": "A loss of U for a charged particle becomes an increase in its K.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/7-2-electric-potential-and-potential-difference",
+      "evidenceId": "1c1c1259dd835db596ac",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume1 §3.4 Motion with Constant Acceleration",
+      "quote": "If the dragster were given an initial velocity, this would add another term to the distance equation.",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/3-4-motion-with-constant-acceleration",
+      "evidenceId": "5a75e64d00db9704bb81",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume1 §3.4 Motion with Constant Acceleration",
+      "quote": "If the dragster were given an initial velocity, this would add another term to the distance equation.",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/3-4-motion-with-constant-acceleration",
+      "evidenceId": "5a75e64d00db9704bb81",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume1 §3.4 Motion with Constant Acceleration",
+      "quote": "If the dragster were given an initial velocity, this would add another term to the distance equation.",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/3-4-motion-with-constant-acceleration",
+      "evidenceId": "5a75e64d00db9704bb81",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume1 §3.4 Motion with Constant Acceleration",
+      "quote": "If the dragster were given an initial velocity, this would add another term to the distance equation.",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/3-4-motion-with-constant-acceleration",
+      "evidenceId": "5a75e64d00db9704bb81",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume1 §3.4 Motion with Constant Acceleration",
+      "quote": "If the dragster were given an initial velocity, this would add another term to the distance equation.",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/3-4-motion-with-constant-acceleration",
+      "evidenceId": "5a75e64d00db9704bb81",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 3, 6.5 De Broglie’s Matter Waves",
+      "quote": "we use nonrelativistic momentum p.",
+      "url": "https://openstax.org/books/university-physics-volume-3/pages/6-5-de-broglies-matter-waves",
+      "evidenceId": "d2a01dba8905d7cfa0aa",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 3, 6.5 De Broglie’s Matter Waves",
+      "quote": "we use nonrelativistic momentum p.",
+      "url": "https://openstax.org/books/university-physics-volume-3/pages/6-5-de-broglies-matter-waves",
+      "evidenceId": "d2a01dba8905d7cfa0aa",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 3, 6.5 De Broglie’s Matter Waves",
+      "quote": "we use nonrelativistic momentum p.",
+      "url": "https://openstax.org/books/university-physics-volume-3/pages/6-5-de-broglies-matter-waves",
+      "evidenceId": "d2a01dba8905d7cfa0aa",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 3, 6.5 De Broglie’s Matter Waves",
+      "quote": "we use nonrelativistic momentum p.",
+      "url": "https://openstax.org/books/university-physics-volume-3/pages/6-5-de-broglies-matter-waves",
+      "evidenceId": "d2a01dba8905d7cfa0aa",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 3, 6.5 De Broglie’s Matter Waves",
+      "quote": "we use nonrelativistic momentum p.",
+      "url": "https://openstax.org/books/university-physics-volume-3/pages/6-5-de-broglies-matter-waves",
+      "evidenceId": "d2a01dba8905d7cfa0aa",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Verified conditional explanation, not unconditional uniqueness: original image, final key, constant acceleration and energy/de Broglie derivation plus compatible nonzero-speed counterexample.",
+    "contentHash": "9fb7d4d0416d49cbf6cc1395642e3479fbd6a77978e2bf4c3e9a8febc7299c13"
+  }
+}

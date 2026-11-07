@@ -1,0 +1,22 @@
+{
+  "id": "dba70de7248e24782a33",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 2e §6.5 Periodic Variations in Element Properties",
+  "url": "https://openstax.org/books/chemistry-2e/pages/6-5-periodic-variations-in-element-properties",
+  "excerpt": "The general trend is that radii increase down a group and decrease across a period.",
+  "sourceHash": "c53b20b98250f207dd3c9a48acdeb4548fd3cdd6d9e77af2dfa85801ca9a358f",
+  "cacheSourceId": "8fc5ab1703c01c33728e",
+  "retrievedAt": "2026-11-07T00:57:28.704973+00:00",
+  "reviewedMappings": {
+    "2011-3-11:0": "①귀족기체 폐각의 전자 첨가 어려움 문단152. ②그림6.34의 K420<Na490<Cl1250<Ne2080 kJ/mol 순위 확인. ③동일3주기 Na→Cl의 반지름 감소. 불필요한 정확한 수치와 전자친화도 부호 표기 삭제.",
+    "2022-3-16:0": "Direct page review lines 35–63, 107–117,135: radius and effective charge trends, first-ionization ordering Na<C<N<F, sodium core-electron removal. 정답은 ③, ㄱ·ㄷ입니다. 제1 이온화 에너지 순서로 W=Na, X=C, Y=N, Z=F입니다. 원자 반지름은 Na>C이고, 2p 전자의 유효 핵전하는 N<F입니다. 제2 이온화 에너지는 Na>F입니다.",
+    "2022-3-16:1": "Direct page review lines 35–63, 107–117,135: radius and effective charge trends, first-ionization ordering Na<C<N<F, sodium core-electron removal. ㄱ은 옳지만 ㄷ도 옳으므로 불완전합니다. Na는 C보다 주기율표에서 왼쪽·아래쪽에 있어 원자 반지름이 큽니다. 제2 이온화 에너지도 Na가 F보다 큽니다.",
+    "2022-3-16:2": "Direct page review lines 35–63, 107–117,135: radius and effective charge trends, first-ionization ordering Na<C<N<F, sodium core-electron removal. ㄴ은 틀립니다. 같은 2주기에서 N에서 F로 갈수록 핵전하 증가를 가림 효과가 완전히 상쇄하지 못하므로 2p 전자의 유효 핵전하는 F가 더 큽니다.",
+    "2022-3-16:3": "Direct page review lines 35–63, 107–117,135: radius and effective charge trends, first-ionization ordering Na<C<N<F, sodium core-electron removal. ㄱ·ㄷ이 옳습니다. 원자 반지름은 Na>C입니다. Na⁺는 [Ne] 전자 배치여서 두 번째 이온화에서 안쪽 2p 전자를 제거합니다. NIST 값은 Na의 제2 이온화 에너지가 약 47.29 eV, F는 약 34.97 eV로 Na가 더 큽니다.",
+    "2022-3-16:4": "Direct page review lines 35–63, 107–117,135: radius and effective charge trends, first-ionization ordering Na<C<N<F, sodium core-electron removal. ㄷ은 옳지만 ㄴ은 틀리고 ㄱ이 빠져 있습니다. 제2 이온화 에너지는 Na>F이며, 2p 전자의 유효 핵전하는 N<F입니다.",
+    "2022-3-16:5": "Direct page review lines 35–63, 107–117,135: radius and effective charge trends, first-ionization ordering Na<C<N<F, sodium core-electron removal. ㄴ이 틀리므로 모두 고를 수 없습니다. 옳은 진술은 원자 반지름 Na>C인 ㄱ과 제2 이온화 에너지 Na>F인 ㄷ입니다."
+  },
+  "retrievalMethod": "Direct page review lines 35–63, 107–117,135: radius and effective charge trends, first-ionization ordering Na<C<N<F, sodium core-electron removal.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

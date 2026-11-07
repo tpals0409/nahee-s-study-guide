@@ -1,0 +1,86 @@
+{
+  "id": "2015-3-23",
+  "summary": "옳지 않은 것은 ⑤입니다. 호르몬 수용체의 일반적인 역할은 호르몬을 특이적으로 인식하고 세포 반응을 유도하는 것입니다. 막수용체는 호르몬 자체가 세포 안으로 들어오지 않아도 신호를 전달할 수 있으므로, 이를 호르몬 수송체로 설명하는 것은 부적절합니다.",
+  "choices": [
+    "옳습니다. 호르몬 수용체는 호르몬과 결합하는 단백질입니다. 세포막에 있는 수용체와 세포 안에 있는 수용체가 있습니다.",
+    "옳습니다. 호르몬이 수용체에 결합하면 세포 내 신호전달이 시작되어 효소 활성이나 유전자 발현 등이 바뀔 수 있습니다. 구체적인 반응은 수용체와 표적 세포에 따라 다릅니다.",
+    "옳습니다. 일부 스테로이드 호르몬 수용체는 세포질에 있습니다. 호르몬이 막을 통과한 뒤 이 수용체와 결합하여 유전자 발현 조절로 이어질 수 있습니다. 핵 안에 존재하는 수용체도 있습니다.",
+    "옳습니다. 수용체의 결합 부위는 호르몬의 입체 구조와 화학적 성질에 맞는 분자를 선택적으로 인식합니다. 크기와 형태만이 아니라 작용기 등도 결합의 특이성에 관여합니다.",
+    "옳지 않으므로 정답입니다. 세포막 수용체는 세포 밖 호르몬의 결합을 세포 안의 신호로 바꾸는 역할을 합니다. 호르몬 자체를 막 너머로 운반해야 신호가 전달되는 것은 아닙니다. 호르몬의 인식·신호전달과 물질의 막 수송을 구분해야 합니다."
+  ],
+  "lawNote": "⑤는 호르몬 수용체의 일반적인 신호전달 기능을 묻는 설명으로 판단합니다. 수용체와 리간드가 세포 내로 들어가는 현상이 어떤 경우에도 없다는 뜻으로 확대하지 않습니다. 또한 모든 지용성 호르몬이 동일한 방식으로 막을 통과한다고 일반화하지 않습니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Anatomy and Physiology 2e 17.2 — Hormones",
+      "quote": "Hormone receptors recognize molecules with specific shapes and side groups",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/17-2-hormones",
+      "evidenceId": "fd96c873369b1ee7730b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Anatomy and Physiology 2e 17.2 — Hormones",
+      "quote": "Hormone receptors recognize molecules with specific shapes and side groups",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/17-2-hormones",
+      "evidenceId": "fd96c873369b1ee7730b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Anatomy and Physiology 2e 17.2 — Hormones",
+      "quote": "Hormone receptors recognize molecules with specific shapes and side groups",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/17-2-hormones",
+      "evidenceId": "fd96c873369b1ee7730b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Anatomy and Physiology 2e 17.2 — Hormones",
+      "quote": "Hormone receptors recognize molecules with specific shapes and side groups",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/17-2-hormones",
+      "evidenceId": "fd96c873369b1ee7730b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e 9.1 — Signaling Molecules and Cellular Receptors",
+      "quote": "Ligands that interact with cell-surface receptors do not have to enter the cell that they affect.",
+      "url": "https://openstax.org/books/biology-2e/pages/9-1-signaling-molecules-and-cellular-receptors",
+      "evidenceId": "bd52eb286a452f2d0472",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e 9.1 — Signaling Molecules and Cellular Receptors",
+      "quote": "Ligands that interact with cell-surface receptors do not have to enter the cell that they affect.",
+      "url": "https://openstax.org/books/biology-2e/pages/9-1-signaling-molecules-and-cellular-receptors",
+      "evidenceId": "bd52eb286a452f2d0472",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "Original image checked. Receptor protein identity, selective binding, cytoplasmic location and signal transduction matched to textbook sections. Removed universal lipid-soluble diffusion claim and restrictive endocytosis-only-for-clearance assertion; distinguished general receptor function from ligand entry.",
+    "contentHash": "b78a0c8a7f0fb53efc1be0c16d879b6e843cfd9ba41fee00e80e7a0ab483fb8b"
+  }
+}

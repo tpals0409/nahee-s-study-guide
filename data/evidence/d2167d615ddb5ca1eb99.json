@@ -1,0 +1,18 @@
+{
+  "id": "d2167d615ddb5ca1eb99",
+  "kind": "science",
+  "source": "NASA",
+  "ref": "Types of Solar Eclipses",
+  "url": "https://science.nasa.gov/eclipses/types/",
+  "excerpt": "completely blocking the face of the Sun.",
+  "sourceHash": "26f9eb03ec103111119ea0711d5aa0f630dbd4d780551a09c3b2cb75813bcb29",
+  "cacheSourceId": "05b6c299ba9371613bd0",
+  "retrievedAt": "2026-11-06T19:13:26.143570+00:00",
+  "reviewedMappings": {
+    "2014-3-40:0": "Total solar eclipse paragraph reviewed: Moon covers photosphere and totality is restricted to shadow path; matches original (가).",
+    "2014-3-40:1": "Total solar eclipse paragraph reviewed: Moon covers photosphere and totality is restricted to shadow path; matches original (가).",
+    "2014-3-40:3": "Total solar eclipse paragraph reviewed: Moon covers photosphere and totality is restricted to shadow path; matches original (가)."
+  },
+  "retrievalMethod": "Direct web open; relevant NASA eclipse-type, geometry and visibility sections reviewed against original image.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

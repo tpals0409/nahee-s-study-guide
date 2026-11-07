@@ -1,0 +1,25 @@
+{
+  "id": "9a7a9765c90e50b07947",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 2e §7.4 Formal Charges and Resonance",
+  "url": "https://openstax.org/books/chemistry-2e/pages/7-4-formal-charges-and-resonance",
+  "excerpt": "subtract the nonbonding electrons",
+  "sourceHash": "6c36f9065dabca75f819d37ac678e252e1afa0880c3e68f7290798e26309c863",
+  "cacheSourceId": "b785cbde9e14cd24aeb6",
+  "retrievedAt": "2026-11-07T02:30:46.990927+00:00",
+  "reviewedMappings": {
+    "2024-3-14:0": "Direct page review: formal charge valence-minus-nonbonding-minus-half-bonding rule and neutral molecule charge sum; original diagram N+ has four bond pairs and O− one bond pair, with zero and three lone pairs respectively. 31 sigma plus 7 lone pairs yields 38.",
+    "2024-3-14:3": "Direct page review: formal charge valence-minus-nonbonding-minus-half-bonding rule and neutral molecule charge sum; original diagram N+ has four bond pairs and O− one bond pair, with zero and three lone pairs respectively. 31 omits the seven lone pairs.",
+    "2024-3-14:4": "Direct page review: formal charge valence-minus-nonbonding-minus-half-bonding rule and neutral molecule charge sum; original diagram N+ has four bond pairs and O− one bond pair, with zero and three lone pairs respectively. 35 differs from 31+7; N-oxide formal-charge accounting retains three oxygen lone pairs.",
+    "2024-3-14:5": "Direct page review: formal charge valence-minus-nonbonding-minus-half-bonding rule and neutral molecule charge sum; original diagram N+ has four bond pairs and O− one bond pair, with zero and three lone pairs respectively. 38 agrees with both direct bond count and full valence-electron accounting.",
+    "2024-3-17:0": "Formal charge formula and neutrality rules; iodine has seven valence electrons, four nonbonding electrons and respectively two/three/four bonds giving +1/0/−1. Three statements true under specified Lewis/VSEPR/hybrid model.",
+    "2024-3-17:1": "Formal charge formula and neutrality rules; iodine has seven valence electrons, four nonbonding electrons and respectively two/three/four bonds giving +1/0/−1. ㄱ true but ㄴ and ㄷ also true.",
+    "2024-3-17:2": "Formal charge formula and neutrality rules; iodine has seven valence electrons, four nonbonding electrons and respectively two/three/four bonds giving +1/0/−1. ㄷ true but ㄱ and ㄴ also true.",
+    "2024-3-17:3": "Formal charge formula and neutrality rules; iodine has seven valence electrons, four nonbonding electrons and respectively two/three/four bonds giving +1/0/−1. ㄱ and ㄴ true but ㄷ also true.",
+    "2024-3-17:4": "Formal charge formula and neutrality rules; iodine has seven valence electrons, four nonbonding electrons and respectively two/three/four bonds giving +1/0/−1. ㄴ and ㄷ true but ㄱ also true.",
+    "2024-3-17:5": "Formal charge formula and neutrality rules; iodine has seven valence electrons, four nonbonding electrons and respectively two/three/four bonds giving +1/0/−1. All three agree: AX2E2 bent; formal charge +1>0; model s fraction 1/5>1/6."
+  },
+  "retrievalMethod": "Direct OpenStax page reviewed. Formal charge formula and neutrality rules; iodine has seven valence electrons, four nonbonding electrons and respectively two/three/four bonds giving +1/0/−1.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

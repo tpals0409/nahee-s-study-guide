@@ -1,0 +1,107 @@
+{
+  "id": "2023-3-26",
+  "summary": "옳은 것은 ㄱ뿐이므로 정답은 ①이다. 정상적인 분리와 무작위 수정을 전제로 P의 배열은 Rl/rL이다. 빨간색 큰 꽃은 비재조합 생식세포 Rl과 rL의 결합으로도 생긴다.",
+  "choices": [
+    "ㄱ은 옳다. 상동염색체의 비자매 염색분체 사이에서 감수분열 I 전기에 교차가 일어나 재조합형 염색체가 만들어진다.",
+    "ㄴ은 틀리다. 비재조합 생식세포 Rl과 rL이 수정되어도 RrLl, 즉 빨간색 큰 꽃이 된다. 따라서 해당 표현형을 모두 재조합 자손이라고 할 수 없다.",
+    "ㄷ은 틀리다. RL/rl 배열이면 두 생식세포 집단에서 rl 빈도는 각각 최소 1/4이므로 rrll 비율이 최소 1/16이다. 표의 0.01보다 크므로 이 배열은 맞지 않는다. P는 Rl/rL 배열이다.",
+    "ㄱ은 옳지만 ㄴ이 틀리다. 교차 시기는 감수분열 I 전기이며, 빨간색 큰 꽃에는 비재조합 생식세포끼리 결합한 자손도 포함된다.",
+    "ㄴ·ㄷ 모두 틀리다. P는 Rl/rL 배열이고, 이 두 비재조합 생식세포의 결합만으로도 빨간색 큰 꽃이 생긴다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e, 11.1 The Process of Meiosis",
+      "quote": "exchange of chromosomal segments between homologous nonsister chromatids",
+      "url": "https://openstax.org/books/biology-2e/pages/11-1-the-process-of-meiosis",
+      "evidenceId": "118bd5243a78a9e36a84",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e, 11.1 The Process of Meiosis",
+      "quote": "exchange of chromosomal segments between homologous nonsister chromatids",
+      "url": "https://openstax.org/books/biology-2e/pages/11-1-the-process-of-meiosis",
+      "evidenceId": "118bd5243a78a9e36a84",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e, 11.1 The Process of Meiosis",
+      "quote": "exchange of chromosomal segments between homologous nonsister chromatids",
+      "url": "https://openstax.org/books/biology-2e/pages/11-1-the-process-of-meiosis",
+      "evidenceId": "118bd5243a78a9e36a84",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e, 13.1 Chromosomal Theory and Genetic Linkage",
+      "quote": "recombination frequency = 0.5",
+      "url": "https://openstax.org/books/biology-2e/pages/13-1-chromosomal-theory-and-genetic-linkage",
+      "evidenceId": "3192e4590cd94ebf0266",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e, 13.1 Chromosomal Theory and Genetic Linkage",
+      "quote": "recombination frequency = 0.5",
+      "url": "https://openstax.org/books/biology-2e/pages/13-1-chromosomal-theory-and-genetic-linkage",
+      "evidenceId": "3192e4590cd94ebf0266",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e, 13.1 Chromosomal Theory and Genetic Linkage",
+      "quote": "recombination frequency = 0.5",
+      "url": "https://openstax.org/books/biology-2e/pages/13-1-chromosomal-theory-and-genetic-linkage",
+      "evidenceId": "3192e4590cd94ebf0266",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e, 13.1 Chromosomal Theory and Genetic Linkage",
+      "quote": "recombination frequency = 0.5",
+      "url": "https://openstax.org/books/biology-2e/pages/13-1-chromosomal-theory-and-genetic-linkage",
+      "evidenceId": "3192e4590cd94ebf0266",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e, 13.1 Chromosomal Theory and Genetic Linkage",
+      "quote": "recombination frequency = 0.5",
+      "url": "https://openstax.org/books/biology-2e/pages/13-1-chromosomal-theory-and-genetic-linkage",
+      "evidenceId": "3192e4590cd94ebf0266",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "원문 이미지·표 대조. OpenStax11.1·13.1 직접 확인. 정상 분리 모형에서 상인 배열의 rrll 최소1/16로 배제. 암수 재조합률 동일 가정하에 생식세포0.4,0.4,0.1,0.1의16조합을 Fraction으로 독립 검산, 표의 네 비율 일치. 검산기록 work/2023-3-26-check.json.",
+    "contentHash": "d32a93adb2b2888b95509a0db200723e5e071a48accddb6044d37cc4479cfe9e"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "fa143b1826e4063a4f05",
+  "kind": "science",
+  "source": "OpenStax · Chemistry 2e",
+  "ref": "19.2",
+  "url": "https://openstax.org/books/chemistry-2e/pages/19-2-coordination-chemistry-of-transition-metals",
+  "excerpt": "its cis isomer exists as a pair of optical isomers",
+  "sourceHash": "ef0c4216ac0e75ee38f150d9cce68ce466a494f4f1ed53f63edf5c58c687e181",
+  "cacheSourceId": "cb53cdd47c69eea5b8c1",
+  "retrievedAt": "2026-11-07T03:58:50.401508+00:00",
+  "reviewedMappings": {
+    "2009-3-14:0": "본문 [Co(en)2Cl2]+의 총3형태: trans1개,cis거울상2개 및 en의 두질소주개 확인. 전하식 x−2=1로Co+3. trans는문항의 배위배치에서거울상겹침.",
+    "2020-3-12:0": "A cis/trans with cis enantiomers; B tris-identical-chelate enantiomers without separate geometric isomers; ㄱㄴ true.",
+    "2020-3-12:1": "ㄱ true, but omitted ㄴ also true through tris-en enantiomer pair.",
+    "2020-3-12:2": "Even aside from false field comparison, true ㄱㄴ omitted.",
+    "2020-3-12:3": "Exact A example supports cis/trans and cis optical pair; B identical tris-chelate has Δ/Λ pair.",
+    "2020-3-12:4": "ㄴ true but ㄱ also true and omitted.",
+    "2020-3-12:5": "ㄱㄴ both true; ㄷ independently checked against ligand field source.",
+    "2026-3-16:0": "en two donors establishes coordination6 for the listed octahedral PtIV/CoIII complexes; explicit cis Co(en)2Cl2 optical pair refutes ㄴ. Using textbook octahedral cis/trans framework, independently enumerated Ma2b3c=3 and M(en)b3c=2 geometric classes (48-symmetry orbit check artifact); ㄱㄷ true, answer4.",
+    "2026-3-16:1": "en two donors establishes coordination6 for the listed octahedral PtIV/CoIII complexes; explicit cis Co(en)2Cl2 optical pair refutes ㄴ. Using textbook octahedral cis/trans framework, independently enumerated Ma2b3c=3 and M(en)b3c=2 geometric classes (48-symmetry orbit check artifact); ㄱㄷ true, answer4.",
+    "2026-3-16:2": "en two donors establishes coordination6 for the listed octahedral PtIV/CoIII complexes; explicit cis Co(en)2Cl2 optical pair refutes ㄴ. Using textbook octahedral cis/trans framework, independently enumerated Ma2b3c=3 and M(en)b3c=2 geometric classes (48-symmetry orbit check artifact); ㄱㄷ true, answer4.",
+    "2026-3-16:3": "en two donors establishes coordination6 for the listed octahedral PtIV/CoIII complexes; explicit cis Co(en)2Cl2 optical pair refutes ㄴ. Using textbook octahedral cis/trans framework, independently enumerated Ma2b3c=3 and M(en)b3c=2 geometric classes (48-symmetry orbit check artifact); ㄱㄷ true, answer4.",
+    "2026-3-16:4": "en two donors establishes coordination6 for the listed octahedral PtIV/CoIII complexes; explicit cis Co(en)2Cl2 optical pair refutes ㄴ. Using textbook octahedral cis/trans framework, independently enumerated Ma2b3c=3 and M(en)b3c=2 geometric classes (48-symmetry orbit check artifact); ㄱㄷ true, answer4.",
+    "2026-3-16:5": "en two donors establishes coordination6 for the listed octahedral PtIV/CoIII complexes; explicit cis Co(en)2Cl2 optical pair refutes ㄴ. Using textbook octahedral cis/trans framework, independently enumerated Ma2b3c=3 and M(en)b3c=2 geometric classes (48-symmetry orbit check artifact); ㄱㄷ true, answer4."
+  },
+  "retrievalMethod": "Direct web open",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

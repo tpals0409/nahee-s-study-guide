@@ -1,0 +1,17 @@
+{
+  "id": "710290f1f7ce46a38454",
+  "kind": "science",
+  "source": "NASA",
+  "ref": "Sun: Facts",
+  "url": "https://science.nasa.gov/sun/facts/",
+  "excerpt": "Nuclear reactions here – where hydrogen is fused to form helium – power the Sun’s heat and light.",
+  "sourceHash": "78944100a9e1dd1afe3d195054a0512fd34880268eb185c46f1a0e8c6973d3e4",
+  "cacheSourceId": "bacf0ac6509947159358",
+  "retrievedAt": "2026-11-06T22:13:45.130904+00:00",
+  "reviewedMappings": {
+    "2018-3-36:0": "각 출처의 핵융합·약11년 흑점주기·흑점 추적·자전방향·차등자전 자료를 종합하여 ②만 거짓. 기록된 관련 본문을 검토하여 해당 선지에 적용.",
+    "2018-3-36:1": "태양 핵에서 수소가 헬륨으로 융합하여 에너지를 공급하므로 참. 기록된 관련 본문을 검토하여 해당 선지에 적용."
+  },
+  "retrievalMethod": "Direct page and find reviewed: Structure/core paragraph, line 330; nuclear fusion in solar core.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

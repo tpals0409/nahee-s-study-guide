@@ -1,0 +1,17 @@
+{
+  "id": "3970ee5772c8c49579a5",
+  "kind": "science",
+  "source": "Purdue University Extension",
+  "ref": "HO-77: Chrysanthemums",
+  "url": "https://ag.purdue.edu/department/hla/extension/extension-publications-library/ext-pubs/ho-77.html",
+  "excerpt": "Chrysanthemum flowering is determined by a combination of day-length and temperature.",
+  "sourceHash": "2690eef1d31ab6375c42a76dc8c66839212085bcf1f9370cafbebfe0aa67208b",
+  "cacheSourceId": "88da0fd1f94d98ad3026",
+  "retrievedAt": "2026-11-06T19:46:19.414178+00:00",
+  "reviewedMappings": {
+    "2015-3-29:0": "Blooming Time 절에서 국화의 개화가 일장과 온도 조합에 의해 정해지고 품종별 반응 차이도 있음을 확인했다. 광주기 반응 자체는 지지하지만 온도 요인 배제나 붓꽃 일반화는 지지하지 않는다.",
+    "2015-3-29:4": "Blooming Time 절에서 국화의 개화가 일장과 온도 조합에 의해 정해지고 품종별 반응 차이도 있음을 확인했다. 광주기 반응 자체는 지지하지만 온도 요인 배제나 붓꽃 일반화는 지지하지 않는다."
+  },
+  "retrievalMethod": "Direct university extension page read; selected short excerpt transcribed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

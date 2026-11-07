@@ -1,0 +1,21 @@
+{
+  "id": "dbfb4dc7bb9b06886ec8",
+  "kind": "science",
+  "source": "NASA Goddard Space Flight Center",
+  "ref": "Navigation — Lesson Plan #8",
+  "url": "https://pwg.gsfc.nasa.gov/stargaze/Lnavigat.htm",
+  "excerpt": "The noontime Sun's altitude above the horizon is (90°+ 23.5°)– λ.",
+  "sourceHash": "3d33e0367fd2423e9fea4667325bedcb5b9e9c5950a2ed3333e4313243406e04",
+  "cacheSourceId": "a5ac315d0c1f58f5f179",
+  "retrievedAt": "2026-11-07T03:40:47.934851+00:00",
+  "reviewedMappings": {
+    "2025-3-40:0": "All candidate latitudes exceed 23.5 N, so the reviewed summer-solstice formula applies. Solving 78=113.5-latitude gives 35.5 N.",
+    "2025-3-40:1": "Independent substitution into the cited formula: 90 - 35.5 + 23.5 = 78.0 degrees; only choice 1 equals 78.",
+    "2025-3-40:2": "Independent substitution into the cited formula: 90 - 36.5 + 23.5 = 77.0 degrees; only choice 1 equals 78.",
+    "2025-3-40:3": "Independent substitution into the cited formula: 90 - 37.5 + 23.5 = 76.0 degrees; only choice 1 equals 78.",
+    "2025-3-40:4": "Independent substitution into the cited formula: 90 - 38.5 + 23.5 = 75.0 degrees; only choice 1 equals 78.",
+    "2025-3-40:5": "Independent substitution into the cited formula: 90 - 39.5 + 23.5 = 74.0 degrees; only choice 1 equals 78."
+  },
+  "retrievalMethod": "Direct web open; reviewed summer-solstice question and latitude limitation",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

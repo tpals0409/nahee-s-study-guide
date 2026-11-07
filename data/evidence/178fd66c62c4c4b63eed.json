@@ -1,0 +1,21 @@
+{
+  "id": "178fd66c62c4c4b63eed",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume 3, 10.1: Properties of Nuclei",
+  "url": "https://openstax.org/books/university-physics-volume-3/pages/10-1-properties-of-nuclei",
+  "excerpt": "The total number of nucleons is the mass number",
+  "sourceHash": "88787bd538991a4277ddbf5404df9fb94b1c96ab0bf16f8c09025432f755a395",
+  "cacheSourceId": "ae2951544a1dfa8bf7d2",
+  "retrievedAt": "2026-11-07T03:04:12.883973+00:00",
+  "reviewedMappings": {
+    "2025-3-10:0": "질량수 A가 핵자 수임을 확인. 원문 반응의 A 합은 2+3=4+1=5. 주어진 17.6 MeV를 5로 나누어 평균 3.52 MeV 도출.",
+    "2025-3-10:1": "①은 반응 참여 핵자 5개로 나눈 17.6/5와 일치.",
+    "2025-3-10:2": "②의 분모 4는 생성 헬륨만 세고 중성자 한 개를 빠뜨림.",
+    "2025-3-10:3": "③의 분모 3은 삼중수소만 세고 중수소 핵자 2개를 빠뜨림.",
+    "2025-3-10:4": "④는 분모 2로 계산한 값이며 반응 전체 핵자 수 5와 다름.",
+    "2025-3-10:5": "⑤는 반응 한 번의 총에너지로 핵자당 평균이 아님."
+  },
+  "retrievalMethod": "Direct Counts of Nucleons section, A=Z+N, nuclear notation, deuterium and tritium compositions reviewed. Energy 17.6 MeV is given in original question.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

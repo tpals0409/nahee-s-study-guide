@@ -1,0 +1,85 @@
+{
+  "id": "2021-3-32",
+  "summary": "화폐석(Nummulites)은 신생대 고진기에 살았던 유공충으로, 특히 에오세에 번성했습니다. 따라서 고생대 화석으로 제시한 설명이 옳지 않습니다. 석탄층·석회암층·삼엽충 화석과 판게아 형성은 고생대에 해당하는 사례가 있습니다.",
+  "choices": [
+    "고생대 석탄기에는 식물 잔해가 축적되는 넓은 습지가 발달했고, 이탄이 매몰되어 석탄층으로 이어졌습니다. 오클라호마의 석탄기 석탄층이 그 사례이므로 고생대 석탄층이 발견된다는 설명은 옳습니다.",
+    "고생대에는 해양에서 석회암층이 형성되었습니다. 예를 들어 미국 인디애나의 석회암은 석탄기 전기에 해당하는 미시시피기에 퇴적되었습니다. 따라서 고생대 석회암층이 발견된다는 설명은 옳습니다.",
+    "삼엽충은 캄브리아기에 출현하여 페름기 말에 멸종한 동물군입니다. 이 생존 범위가 고생대에 해당하므로 고생대 지층에서 삼엽충 화석이 산출된다는 설명은 옳습니다.",
+    "화폐석은 유공충에 속하며 신생대 고진기의 팔레오세부터 올리고세에 걸쳐 살았고, 특히 에오세에 번성했습니다. 고생대를 대표하는 화석이 아니므로 이 설명이 옳지 않습니다.",
+    "고생대 후기에는 판 운동으로 대륙들이 합쳐져 초대륙 판게아가 형성되었습니다. 따라서 판게아의 형성을 고생대의 사건으로 설명한 것은 옳습니다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "British Geological Survey",
+      "ref": "Trilobites",
+      "quote": "Trilobites appeared in the Cambrian Period and became extinct at the end of the Permian Period.",
+      "url": "https://www.bgs.ac.uk/discovering-geology/fossils-and-geological-time/trilobites/",
+      "evidenceId": "43f75e13a56a5c640eaf",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "Sam Noble Oklahoma Museum of Natural History, University of Oklahoma",
+      "ref": "Carboniferous terrestrial communities",
+      "quote": "Coal deposits in Oklahoma originated as these equatorial peat swamps",
+      "url": "https://samnoblemuseum.ou.edu/common-fossils-of-oklahoma/paleocommunities/terrestrial-communities/carboniferous/",
+      "evidenceId": "1026ace428119b33b234",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "Sam Noble Oklahoma Museum of Natural History, University of Oklahoma",
+      "ref": "Carboniferous terrestrial communities",
+      "quote": "Coal deposits in Oklahoma originated as these equatorial peat swamps",
+      "url": "https://samnoblemuseum.ou.edu/common-fossils-of-oklahoma/paleocommunities/terrestrial-communities/carboniferous/",
+      "evidenceId": "1026ace428119b33b234",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "U.S. National Park Service",
+      "ref": "Mississippian Period",
+      "quote": "Indiana limestone that was deposited during the Mississippian Period.",
+      "url": "https://www.nps.gov/articles/000/mississippian-period.htm",
+      "evidenceId": "768f59d66055b05f563f",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "ISPRA",
+      "ref": "Nummulites intermedia (Foraminifero)",
+      "quote": "Le nummuliti sono vissute dal Paleocene all'Oligocene",
+      "url": "https://www.isprambiente.gov.it/it/attivita/museo/collezioni-paleontologiche/paleo-reperti/nummulites-intermedia-foraminifero",
+      "evidenceId": "53e0ac01efd2d6fea87e",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "ISPRA",
+      "ref": "Nummulites intermedia (Foraminifero)",
+      "quote": "Le nummuliti sono vissute dal Paleocene all'Oligocene",
+      "url": "https://www.isprambiente.gov.it/it/attivita/museo/collezioni-paleontologiche/paleo-reperti/nummulites-intermedia-foraminifero",
+      "evidenceId": "53e0ac01efd2d6fea87e",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Manual geological-age comparison against geological survey, park service and museum references",
+    "contentHash": "654991ce5e923db97e1508ca7ed5ac01e1717cf2d368cad3e09567347c542a8b"
+  }
+}

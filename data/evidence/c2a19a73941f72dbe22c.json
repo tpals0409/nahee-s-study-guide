@@ -1,0 +1,16 @@
+{
+  "id": "c2a19a73941f72dbe22c",
+  "kind": "science",
+  "source": "National Weather Service",
+  "ref": "Flight Environment — The Jet Stream",
+  "url": "https://www.weather.gov/source/zhu/ZHU_Training_Page/winds/Wx_Terms/Flight_Environment.htm",
+  "excerpt": "Because the troposphere is deeper in summer than in winter,",
+  "sourceHash": "acb2e3c90e0abbe2aa9110f5cb89b78941191f03c0d485ab2098fd82be90d833",
+  "cacheSourceId": "4804b02939ec609fbdb4",
+  "retrievedAt": "2026-11-06T21:35:35.138440+00:00",
+  "reviewedMappings": {
+    "2017-3-37:4": "The Jet Stream 절의 여름 대류권이 겨울보다 깊다는 설명으로 계절 차이를 확인."
+  },
+  "retrievalMethod": "Direct web page opened and relevant sections reviewed; selected excerpt retained",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

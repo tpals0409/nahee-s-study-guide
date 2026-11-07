@@ -1,0 +1,20 @@
+{
+  "id": "a79b382819fca947944b",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "7.1 Wave Functions",
+  "url": "https://openstax.org/books/university-physics-volume-3/pages/7-1-wave-functions",
+  "excerpt": "also called the probability density.",
+  "sourceHash": "41830be5743ee16a68e78ec3914d9fa8f21ed8818b394f568840152da56594ce",
+  "cacheSourceId": "5650f5e69f543d3b7ef7",
+  "retrievedAt": "2026-11-06T21:00:57.800002+00:00",
+  "reviewedMappings": {
+    "2017-3-10:0": "본문 46–54행 확률밀도 |ψ|²와 구간 확률 적분 해석 확인. 원본 ψ_B는 x=0에서 0이므로 해당 확률밀도가 0. ㄱ 참으로 판단하되 한 점 확률과 밀도의 구별을 해설에 명시한다.",
+    "2017-3-10:1": "본문 46–54행 확률밀도 |ψ|²와 구간 확률 적분 해석 확인. 원본 ψ_B는 x=0에서 0이므로 해당 확률밀도가 0. ㄱ 참으로 판단하되 한 점 확률과 밀도의 구별을 해설에 명시한다.",
+    "2017-3-10:3": "본문 46–54행 확률밀도 |ψ|²와 구간 확률 적분 해석 확인. 원본 ψ_B는 x=0에서 0이므로 해당 확률밀도가 0. ㄱ 참으로 판단하되 한 점 확률과 밀도의 구별을 해설에 명시한다.",
+    "2017-3-10:4": "본문 46–54행 확률밀도 |ψ|²와 구간 확률 적분 해석 확인. 원본 ψ_B는 x=0에서 0이므로 해당 확률밀도가 0. ㄱ 참으로 판단하되 한 점 확률과 밀도의 구별을 해설에 명시한다.",
+    "2017-3-10:5": "본문 46–54행 확률밀도 |ψ|²와 구간 확률 적분 해석 확인. 원본 ψ_B는 x=0에서 0이므로 해당 확률밀도가 0. ㄱ 참으로 판단하되 한 점 확률과 밀도의 구별을 해설에 명시한다."
+  },
+  "retrievalMethod": "Direct source opened; relevant probability-density text or finite-well node and energy ordering text reviewed.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

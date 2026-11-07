@@ -1,0 +1,19 @@
+{
+  "id": "42c7671e5cb87e90fcf5",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 2e §19.3 Spectroscopic and Magnetic Properties of Coordination Compounds",
+  "url": "https://openstax.org/books/chemistry-2e/pages/19-3-spectroscopic-and-magnetic-properties-of-coordination-compounds",
+  "excerpt": "Different ligands produce different crystal field splittings.",
+  "sourceHash": "dc6302fc8c05369d5e701633c6010f0da4ca9f507c17e18756d000ec09dcd6c1",
+  "cacheSourceId": "b9ed380e83822b0504d0",
+  "retrievedAt": "2026-11-06T23:11:10.332230+00:00",
+  "reviewedMappings": {
+    "2020-3-12:0": "Both Co+3: A charge+1 with2Cl− gives+3; B charge+3 and neutral en gives+3. Cl− weaker than en, so qualitative Δo A<B and ㄷ false.",
+    "2020-3-12:2": "ㄷ reverses ligand-field trend: A N4Cl2, B N6, same CoIII; B stronger splitting.",
+    "2020-3-12:4": "ㄷ false because en stronger than Cl− and same metal oxidation state.",
+    "2020-3-12:5": "Adding ㄷ makes option incorrect because claimed A>B reverses qualitative splitting trend."
+  },
+  "retrievalMethod": "Direct web retrieval; reviewed factors controlling splitting and explicit Cl− < NH3 < en order, lines55–58. Inferred qualitative A<B for same Co(III), six-coordinate comparison with two chloride donors replaced by en nitrogen donors.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

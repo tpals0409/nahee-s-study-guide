@@ -1,0 +1,16 @@
+{
+  "id": "c622a3ee9602e910c60c",
+  "kind": "science",
+  "source": "BCcampus · Laboratory Manual for Earth Science",
+  "ref": "7 · Strike and Dip",
+  "url": "https://pressbooks.bccampus.ca/geolmanual/chapter/overview-of-strike-dip-and-structural-cross-sections/",
+  "excerpt": "The top of the T is stretched out along the strike direction, and the vertical part points in the dip direction.",
+  "sourceHash": "24f08a403d1a9271e2e2746e1c72fc191ddce2e86bd773bad0c0a08c23aad0b1",
+  "cacheSourceId": "4568f6be4c2edbdd9a04",
+  "retrievedAt": "2026-11-06T15:17:00.678432+00:00",
+  "reviewedMappings": {
+    "2009-3-39:0": "원본2009-3-39.webp 직접확인. 셰일-이암-석회암-사암-석회암-이암-셰일 대칭, 양익경사바깥30도, 중앙사암수평기호. 정상퇴적층가정에서배사중심사암최고기. 석회암긴주향선북쪽과평행(NS);30은경사각. 수평사암에NS주향부여하는초안문구수정."
+  },
+  "retrievalMethod": "web tool open/find; chapter8 lines162–184, chapter7 lines182–198 inspected",
+  "sourceHashScope": "reviewed excerpt only; hash is excerpt hash"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "41b7b5f36ccb21cd636b",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e §8.3 Using Light Energy to Make Organic Molecules",
+  "url": "https://openstax.org/books/biology-2e/pages/8-3-using-light-energy-to-make-organic-molecules",
+  "excerpt": "The light-independent reactions of the Calvin cycle can be organized into three basic stages: fixation, reduction, and regeneration.",
+  "sourceHash": "2dff65dc0b621e348fdf0a4d499a8f93cc3191988234c05dda9fa7646072f84e",
+  "cacheSourceId": "def88460c8fa39e7a6ce",
+  "retrievedAt": "2026-11-06T21:25:15.293718+00:00",
+  "reviewedMappings": {
+    "2017-3-29:5": "Calvin Cycle 및 Stage 1 Fixation 절 검토. CO₂ 고정은 명반응 자체가 아닌 탄소 고정 반응이며 명반응은 ATP·NADPH를 제공한다는 구분으로 ㄹ 배제."
+  },
+  "retrievalMethod": "Direct web page reviewed; chemical subscripts normalized",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

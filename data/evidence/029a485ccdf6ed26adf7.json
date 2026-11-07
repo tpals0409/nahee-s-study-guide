@@ -1,0 +1,17 @@
+{
+  "id": "029a485ccdf6ed26adf7",
+  "kind": "science",
+  "source": "OpenStax · Biology 2e",
+  "ref": "14.4 DNA Replication in Prokaryotes",
+  "url": "https://openstax.org/books/biology-2e/pages/14-4-dna-replication-in-prokaryotes",
+  "excerpt": "The problem is solved with the help of a primer that provides the free 3'-OH end.",
+  "sourceHash": "3091609378cd82a4da9126bd574aad5fe6d5b9c5992a864cbc7bddf1a1a5fa79",
+  "cacheSourceId": "8d84d8acff153d670559",
+  "retrievedAt": "2026-11-06T15:42:09.971826+00:00",
+  "reviewedMappings": {
+    "2010-3-24:1": "본문 primer/primase의 3′-OH 제공 및 DNA polymerase 연장, ligase의 nick 연결 역할 확인. 결손의 직접 결과와 재조합·연결효소 자체 활성에 대한 과도한 추론 구분.",
+    "2010-3-24:3": "본문 primer/primase의 3′-OH 제공 및 DNA polymerase 연장, ligase의 nick 연결 역할 확인. 결손의 직접 결과와 재조합·연결효소 자체 활성에 대한 과도한 추론 구분.",
+    "2010-3-24:4": "본문 primer/primase의 3′-OH 제공 및 DNA polymerase 연장, ligase의 nick 연결 역할 확인. 결손의 직접 결과와 재조합·연결효소 자체 활성에 대한 과도한 추론 구분.",
+    "2010-3-24:5": "본문 primer/primase의 3′-OH 제공 및 DNA polymerase 연장, ligase의 nick 연결 역할 확인. 결손의 직접 결과와 재조합·연결효소 자체 활성에 대한 과도한 추론 구분."
+  }
+}

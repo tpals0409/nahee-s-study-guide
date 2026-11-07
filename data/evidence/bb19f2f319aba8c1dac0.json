@@ -1,0 +1,16 @@
+{
+  "id": "bb19f2f319aba8c1dac0",
+  "kind": "science",
+  "source": "NCBI Bookshelf / Garland Science",
+  "ref": "Molecular Biology of the Cell, The Plant Cell Wall",
+  "url": "https://www.ncbi.nlm.nih.gov/books/NBK26928/",
+  "excerpt": "matrix of pectin polysaccharides",
+  "sourceHash": "3d5224fc71d2f1b3ef8ef3a0ec7c88100ef4babd44a3e379c04d53ff8b22cbc8",
+  "cacheSourceId": "3170e1b4d98fd7efd707",
+  "retrievedAt": "2026-11-07T02:34:18.275037+00:00",
+  "reviewedMappings": {
+    "2024-3-21:3": "Pectin is a plant-wall matrix polysaccharide, while the required common structure is chitin."
+  },
+  "retrievalMethod": "Official search-index excerpt reviewed: cellulose network embedded in pectin polysaccharide matrix.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "307e692d2e11a09e3ccf",
+  "kind": "science",
+  "source": "NHGRI",
+  "ref": "Northern Blot",
+  "url": "https://www.genome.gov/genetics-glossary/Northern-Blot",
+  "excerpt": "Northern blot is a laboratory analysis method used to study RNA.",
+  "sourceHash": "5f54d32d2e4cf8327d7644392a4a53a13bc6d4027961fb1f42c4f355750d5c58",
+  "cacheSourceId": "37606509e15b712edfee",
+  "retrievedAt": "2026-11-07T02:41:00.983104+00:00",
+  "reviewedMappings": {
+    "2024-3-26:0": "RNA rather than protein is the Northern blot analyte; complementary probes detect the RNA.",
+    "2024-3-26:1": "RNA rather than protein is the Northern blot analyte; complementary probes detect the RNA."
+  },
+  "retrievalMethod": "Official glossary indexed definition and complementary-probe excerpt reviewed; direct page returned heading only.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "77b6fe4dd5f47e2018b4",
+  "kind": "science",
+  "source": "Oregon State University — Volcano World",
+  "ref": "What is lava made of?",
+  "url": "https://volcano.oregonstate.edu/faq/what-lava-made",
+  "excerpt": "CaO  | 9.47  | 6.79  | 4.32  | 1.14  | 2.34",
+  "sourceHash": "cf04f4e92bbd0ceee1449d9802fbae37d451f4c0be448b9a9b83d01de8acfe24",
+  "cacheSourceId": "16af97cbc41e56e0c812",
+  "retrievedAt": "2026-11-06T19:56:53.970431+00:00",
+  "reviewedMappings": {
+    "2015-3-35:0": "표의 열은 Basalt, Andesite, Dacite, Rhyolite, Trachyte 순이다. 현무암 CaO 9.47와 유문암 1.14를 비교하면 감소하므로 ④의 CaO 증가 주장은 거짓이다. SiO2 49.20→72.82, Na2O 2.91→3.55도 확인하되 Na2O가 모든 중간 조성에서 단조 증가한다고 주장하지 않는다.",
+    "2015-3-35:4": "표의 열은 Basalt, Andesite, Dacite, Rhyolite, Trachyte 순이다. 현무암 CaO 9.47와 유문암 1.14를 비교하면 감소하므로 ④의 CaO 증가 주장은 거짓이다. SiO2 49.20→72.82, Na2O 2.91→3.55도 확인하되 Na2O가 모든 중간 조성에서 단조 증가한다고 주장하지 않는다."
+  },
+  "retrievalMethod": "Direct web open; composition table header and rows reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "0da92239fe2172076359",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Physics Chapter 6 Key Equations",
+  "url": "https://openstax.org/books/physics/pages/6-key-equations",
+  "excerpt": "Tangential speed:  | $v=r\\omega $",
+  "sourceHash": "98e5a3f2648354e6c01ecf98ace86ab1374639014ba372012baef4852909bfea",
+  "cacheSourceId": "62e997b4cc7d57d9aa1e",
+  "retrievedAt": "2026-11-06T20:06:18.368343+00:00",
+  "reviewedMappings": {
+    "2016-3-02:0": "본문 27·31·32행의 v=rω와 Fc=mrω²를 확인했다. 동일한 m,ω에서 rB>rA이므로 ㄱ·ㄴ 모두 B가 크다. 선지 ①②③④는 참인 보기를 누락하고 ⑤만 모두 포함한다.",
+    "2016-3-02:1": "본문 27·31·32행의 v=rω와 Fc=mrω²를 확인했다. 동일한 m,ω에서 rB>rA이므로 ㄱ·ㄴ 모두 B가 크다. 선지 ①②③④는 참인 보기를 누락하고 ⑤만 모두 포함한다.",
+    "2016-3-02:2": "본문 27·31·32행의 v=rω와 Fc=mrω²를 확인했다. 동일한 m,ω에서 rB>rA이므로 ㄱ·ㄴ 모두 B가 크다. 선지 ①②③④는 참인 보기를 누락하고 ⑤만 모두 포함한다.",
+    "2016-3-02:3": "본문 27·31·32행의 v=rω와 Fc=mrω²를 확인했다. 동일한 m,ω에서 rB>rA이므로 ㄱ·ㄴ 모두 B가 크다. 선지 ①②③④는 참인 보기를 누락하고 ⑤만 모두 포함한다.",
+    "2016-3-02:4": "본문 27·31·32행의 v=rω와 Fc=mrω²를 확인했다. 동일한 m,ω에서 rB>rA이므로 ㄱ·ㄴ 모두 B가 크다. 선지 ①②③④는 참인 보기를 누락하고 ⑤만 모두 포함한다.",
+    "2016-3-02:5": "본문 27·31·32행의 v=rω와 Fc=mrω²를 확인했다. 동일한 m,ω에서 rB>rA이므로 ㄱ·ㄴ 모두 B가 크다. 선지 ①②③④는 참인 보기를 누락하고 ⑤만 모두 포함한다."
+  },
+  "retrievalMethod": "web open: directly reviewed source text and equations",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

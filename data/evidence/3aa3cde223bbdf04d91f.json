@@ -1,0 +1,17 @@
+{
+  "id": "3aa3cde223bbdf04d91f",
+  "kind": "science",
+  "source": "WHO",
+  "ref": "Measles",
+  "url": "https://www.who.int/news-room/fact-sheets/detail/measles",
+  "excerpt": "Measles is a highly contagious, serious airborne disease caused by a virus",
+  "sourceHash": "39d54509067cebebb93e54774e6dfed4577cfd1e17b1bd0b7ae222ebfba6b6a8",
+  "cacheSourceId": "5f736dfa44aab0567ecb",
+  "retrievedAt": "2026-11-06T22:45:26.361504+00:00",
+  "reviewedMappings": {
+    "2019-3-29:0": "Measles의 바이러스성 병인을 확인하여 해당 선지는 정답에서 제외.",
+    "2019-3-29:3": "Measles의 바이러스성 병인을 확인하여 해당 선지는 정답에서 제외."
+  },
+  "retrievalMethod": "Direct web open, key facts at 87.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "5844ef1c5515b7520d29",
+  "kind": "science",
+  "source": "태백시",
+  "ref": "태백 장성 오르도비스기 화석산지",
+  "url": "https://tour.taebaek.go.kr/tour/go/culture?cid=8210&mode=read",
+  "excerpt": "‘태백 장성 오르도비스기 화석산지’에서 발견되는 삼엽충화석은 5속 15종으로 분류되며",
+  "sourceHash": "2000545f1c03b5c3ad622e333c09afe8a8e457d81c9f1ff8fd9de49796599d19",
+  "cacheSourceId": "21469655e47b7bc4b537",
+  "retrievedAt": "2026-11-06T23:37:26.334502+00:00",
+  "reviewedMappings": {
+    "2020-3-34:5": "태백 장성 오르도비스기 지층에서 삼엽충 산출. 오르도비스기는 고생대에 속하므로 ⑤ 지지."
+  },
+  "retrievalMethod": "Direct web open and find; reviewed travel-guide paragraph at line 372; used fossil occurrence and Ordovician age only, not regional primacy or precise taxon counts.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

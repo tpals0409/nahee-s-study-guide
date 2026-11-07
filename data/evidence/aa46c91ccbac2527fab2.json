@@ -1,0 +1,21 @@
+{
+  "id": "aa46c91ccbac2527fab2",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 2e, 14.6: Buffers",
+  "url": "https://openstax.org/books/chemistry-2e/pages/14-6-buffers",
+  "excerpt": "A solution containing appreciable amounts of a weak conjugate acid-base pair is called a buffer solution",
+  "sourceHash": "007fa7cbec765738640f62442ae46b6c5905e93c06d5d117e33de0c5b6a46546",
+  "cacheSourceId": "e6406d15803ed94fa645",
+  "retrievedAt": "2026-11-07T03:05:11.772836+00:00",
+  "reviewedMappings": {
+    "2025-3-11:0": "중화 후 HA와 A−의 분석적 양이 각 1mmol인 완충계. Henderson–Hasselbalch 식과 작은 해리량 근사를 확인하여 ㄴ pH≈4.52 도출.",
+    "2025-3-11:1": "중화 후 HA와 A−의 분석적 양이 각 1mmol인 완충계. Henderson–Hasselbalch 식과 작은 해리량 근사를 확인하여 ㄴ pH≈4.52 도출.",
+    "2025-3-11:2": "중화 후 HA와 A−의 분석적 양이 각 1mmol인 완충계. Henderson–Hasselbalch 식과 작은 해리량 근사를 확인하여 ㄴ pH≈4.52 도출.",
+    "2025-3-11:3": "중화 후 HA와 A−의 분석적 양이 각 1mmol인 완충계. Henderson–Hasselbalch 식과 작은 해리량 근사를 확인하여 ㄴ pH≈4.52 도출.",
+    "2025-3-11:4": "중화 후 HA와 A−의 분석적 양이 각 1mmol인 완충계. Henderson–Hasselbalch 식과 작은 해리량 근사를 확인하여 ㄴ pH≈4.52 도출.",
+    "2025-3-11:5": "중화 후 HA와 A−의 분석적 양이 각 1mmol인 완충계. Henderson–Hasselbalch 식과 작은 해리량 근사를 확인하여 ㄴ pH≈4.52 도출."
+  },
+  "retrievalMethod": "Direct relevant equilibrium definitions, equations and calculation examples reviewed; numerical constants taken from question.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

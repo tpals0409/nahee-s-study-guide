@@ -1,0 +1,20 @@
+{
+  "id": "11891b3c891113bff06e",
+  "kind": "science",
+  "source": "IUPAC",
+  "ref": "Gold Book: rate of reaction, R05156",
+  "url": "https://goldbook.iupac.org/terms/view/R05156",
+  "excerpt": "the reciprocal of its coefficient in the stoichiometric equation",
+  "sourceHash": "25d4fccfcd5434a0528a223f1425fb595ae16326364a35ba1c1f2bd79d4e5f8c",
+  "cacheSourceId": "0b462c04cbc170126d53",
+  "retrievedAt": "2026-11-07T02:27:05.546505+00:00",
+  "reviewedMappings": {
+    "2024-3-13:0": "For 2A→2B+C the stoichiometric reaction rate is half A disappearance rate. The two mean-rate ratios are 1 and 2 respectively; source does not establish the exam convention.",
+    "2024-3-13:1": "For 2A→2B+C the stoichiometric reaction rate is half A disappearance rate. The two mean-rate ratios are 1 and 2 respectively; source does not establish the exam convention.",
+    "2024-3-13:3": "For 2A→2B+C the stoichiometric reaction rate is half A disappearance rate. The two mean-rate ratios are 1 and 2 respectively; source does not establish the exam convention.",
+    "2024-3-13:4": "For 2A→2B+C the stoichiometric reaction rate is half A disappearance rate. The two mean-rate ratios are 1 and 2 respectively; source does not establish the exam convention.",
+    "2024-3-13:5": "For 2A→2B+C the stoichiometric reaction rate is half A disappearance rate. The two mean-rate ratios are 1 and 2 respectively; source does not establish the exam convention."
+  },
+  "retrievalMethod": "Official search-index excerpt and indexed plain definition reviewed; direct HTML request returned 403",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

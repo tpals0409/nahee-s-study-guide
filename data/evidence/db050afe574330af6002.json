@@ -1,0 +1,16 @@
+{
+  "id": "db050afe574330af6002",
+  "kind": "science",
+  "source": "Island Arc",
+  "ref": "Maruyama et al. (1997), Paleogeographic maps of the Japanese Islands",
+  "url": "https://okayama.elsevierpure.com/en/publications/paleogeographic-maps-of-the-japanese-islands-plate-tectonic-synth/",
+  "excerpt": "the Miocene back-arc opening of the Japan Sea that separated Japan as an island arc (25-15 Ma)",
+  "sourceHash": "c52fd5e9e0f23343ef2c1433bfcb41a026b6f8cfbfc69d24d1622428241a53c8",
+  "cacheSourceId": "5a5c60c6a5657fe83100",
+  "retrievedAt": "2026-11-06T17:42:58.228641+00:00",
+  "reviewedMappings": {
+    "2012-3-39:0": "ㅁ 동해 개방 25–15Ma로 신생대이며 백두산 원추체 형성보다 앞섬."
+  },
+  "retrievalMethod": "web.open; original conference abstract / institutional author abstract reviewed",
+  "sourceHashScope": "Selected abstract excerpt only; not full paper"
+}

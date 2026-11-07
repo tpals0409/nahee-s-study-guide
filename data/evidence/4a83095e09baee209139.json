@@ -1,0 +1,16 @@
+{
+  "id": "4a83095e09baee209139",
+  "kind": "science",
+  "source": "USGS",
+  "ref": "Volcanism in a Plate Tectonics Perspective",
+  "url": "https://pubs.usgs.gov/gip/19/downloads/Appendixes/I_Volcanism%20in%20a%20Plate%20Tectonics%20Perspective.pdf",
+  "excerpt": "Although the mantle is nearly everywhere completely solid, the rock is hot enough that it is soft and pliable.",
+  "sourceHash": "6db6c41054b147a99c9b64839d3658831e9902a8f1d5313effe54c5a4e13c30e",
+  "cacheSourceId": "31785a9e113dbf66fda0",
+  "retrievedAt": "2026-11-07T03:30:05.368214+00:00",
+  "reviewedMappings": {
+    "2025-3-31:2": "맨틀이 거의 모든 곳에서 고체라는 명시적 설명으로 ②의 물질 상태를 뒷받침."
+  },
+  "retrievalMethod": "Search-indexed USGS PDF excerpt read",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

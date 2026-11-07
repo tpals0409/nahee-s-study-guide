@@ -1,0 +1,19 @@
+{
+  "id": "2b4b1033f58663efcf4f",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e, 3.3 Lipids",
+  "url": "https://openstax.org/books/biology-2e/pages/3-3-lipids",
+  "excerpt": "Long straight fatty acids with single bonds generally pack tightly",
+  "sourceHash": "1f52abed728dfeae8da16d53addebdf5b357e825e4be39d6819c9466fe25bc2c",
+  "cacheSourceId": "a8c9ba3cd7dcded9b0be",
+  "retrievedAt": "2026-11-07T01:06:01.093064+00:00",
+  "reviewedMappings": {
+    "2022-3-21:0": "Source saturated-chain packing and cis kink comparison supports general melting-point tendency; avoid universal ordering across unrelated chain lengths.",
+    "2022-3-21:1": "Fats and Oils describes animal saturated fats and generally plant-origin unsaturated seed oils; no claim all plant fats unsaturated.",
+    "2022-3-21:3": "Packing explanation in Fats and Oils: saturated chains pack tightly, cis kink prevents close packing; scope comparison to similar chain lengths.",
+    "2022-3-21:4": "Fats and Oils defines saturation by only single bonds between neighboring carbons; carboxyl C=O is not C=C."
+  },
+  "retrievalMethod": "Direct web read of Fats and Oils, Trans Fats and Figure 3.16; original problem image inspected",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

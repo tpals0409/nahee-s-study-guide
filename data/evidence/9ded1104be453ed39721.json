@@ -1,0 +1,17 @@
+{
+  "id": "9ded1104be453ed39721",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e 15.2 Prokaryotic Transcription",
+  "url": "https://openstax.org/books/biology-2e/pages/15-2-prokaryotic-transcription",
+  "excerpt": "the processes of transcription, translation, and mRNA degradation can all occur simultaneously.",
+  "sourceHash": "10c0bcd8a63aa8a355891b86edfeb1ee0cd6262d855e15d763870ef41d22aa8d",
+  "cacheSourceId": "5442250f5ddba6f41f81",
+  "retrievedAt": "2026-11-07T05:07:54.320600+00:00",
+  "reviewedMappings": {
+    "2020-3-27:3": "세균의 핵막 부재와 세포질 전사·번역, 기본 RNA중합효소 체계의 근거. 세부 소단위 구성이나 모든 전사의 필수적 동시번역은 주장하지 않는다.",
+    "2020-3-27:4": "세균의 핵막 부재와 세포질 전사·번역, 기본 RNA중합효소 체계의 근거. 세부 소단위 구성이나 모든 전사의 필수적 동시번역은 주장하지 않는다."
+  },
+  "retrievalMethod": "Direct web open/find",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

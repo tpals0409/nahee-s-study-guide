@@ -1,0 +1,21 @@
+{
+  "id": "668daa4fa65954ebe0c6",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "First Law of Thermodynamics",
+  "url": "https://openstax.org/books/university-physics-volume-2/pages/3-3-first-law-of-thermodynamics",
+  "excerpt": "the change in the internal energy of the system between A and B is path independent",
+  "sourceHash": "87214a53a572e5392b5bbe58be34326bc1132d2020ca490f6ed40beab2a2ee5d",
+  "cacheSourceId": "a948af878548db54d927",
+  "retrievedAt": "2026-11-07T03:01:38.929321+00:00",
+  "reviewedMappings": {
+    "2025-3-07:0": "동일한 끝점의 ΔU는 같고 Q−W=ΔU라는 식 3.7을 확인. 일의 차이가 곧 순흡수 열량의 차이이므로 ㄱ·ㄴ 참, ㄷ 거짓.",
+    "2025-3-07:1": "동일한 끝점의 ΔU는 같고 Q−W=ΔU라는 식 3.7을 확인. 일의 차이가 곧 순흡수 열량의 차이이므로 ㄱ·ㄴ 참, ㄷ 거짓.",
+    "2025-3-07:2": "동일한 끝점의 ΔU는 같고 Q−W=ΔU라는 식 3.7을 확인. 일의 차이가 곧 순흡수 열량의 차이이므로 ㄱ·ㄴ 참, ㄷ 거짓.",
+    "2025-3-07:3": "동일한 끝점의 ΔU는 같고 Q−W=ΔU라는 식 3.7을 확인. 일의 차이가 곧 순흡수 열량의 차이이므로 ㄱ·ㄴ 참, ㄷ 거짓.",
+    "2025-3-07:4": "동일한 끝점의 ΔU는 같고 Q−W=ΔU라는 식 3.7을 확인. 일의 차이가 곧 순흡수 열량의 차이이므로 ㄱ·ㄴ 참, ㄷ 거짓.",
+    "2025-3-07:5": "동일한 끝점의 ΔU는 같고 Q−W=ΔU라는 식 3.7을 확인. 일의 차이가 곧 순흡수 열량의 차이이므로 ㄱ·ㄴ 참, ㄷ 거짓."
+  },
+  "retrievalMethod": "Direct relevant work/internal-energy or first-law equations reviewed.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

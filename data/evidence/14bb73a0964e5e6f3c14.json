@@ -1,0 +1,17 @@
+{
+  "id": "14bb73a0964e5e6f3c14",
+  "kind": "science",
+  "source": "NASA",
+  "ref": "Solar System Facts",
+  "url": "https://science.nasa.gov/solar-system/solar-system-facts/",
+  "excerpt": "Our Sun is in a small, partial arm of the Milky Way called the Orion Arm, or Orion Spur",
+  "sourceHash": "89e5354d47f637da000967eb73b0f3a5f67676b04d2ed262b4c2d2e6c16c6c16",
+  "cacheSourceId": "37e6bacb6a8731bba03e",
+  "retrievedAt": "2026-11-07T04:28:40.573874+00:00",
+  "reviewedMappings": {
+    "2026-3-40:1": "태양의 오리온 팔/스퍼 위치를 직접 명시하여 나선팔 위치 진술을 뒷받침한다.",
+    "2026-3-40:4": "같은 문단의 barred spiral galaxy라는 분류로 나선은하 계열임을 확인한다."
+  },
+  "retrievalMethod": "Direct web open/find",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

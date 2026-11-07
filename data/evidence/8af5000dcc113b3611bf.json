@@ -1,0 +1,16 @@
+{
+  "id": "8af5000dcc113b3611bf",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "OpenStax Chemistry 2e §9.5 The Kinetic-Molecular Theory",
+  "url": "https://openstax.org/books/chemistry-2e/pages/9-5-the-kinetic-molecular-theory",
+  "excerpt": "This molecular speed distribution is known as a Maxwell-Boltzmann distribution",
+  "sourceHash": "4262138c0aade99f357cd73369144919a7b38fe505015373d6b244921335e31d",
+  "cacheSourceId": "6dc2de2e9a15bce49e9e",
+  "retrievedAt": "2026-11-06T18:02:06.376928+00:00",
+  "reviewedMappings": {
+    "2013-3-17:0": "분자속력분포와 온도·분자질량 의존성 문단 직접 확인. 동일CH4에 온도불변이므로 평균속력불변. rms속력과 평균속력을 동일공식으로 혼동하지 않고 설명. 진술판정ㄱ참ㄴ거짓ㄷ거짓을 각선지조합에 대조."
+  },
+  "retrievalMethod": "web.open and web.find; relevant equations and paragraphs directly reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

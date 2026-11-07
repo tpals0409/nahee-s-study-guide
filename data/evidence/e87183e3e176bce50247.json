@@ -1,0 +1,18 @@
+{
+  "id": "e87183e3e176bce50247",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e, 4.3 Eukaryotic Cells",
+  "url": "https://openstax.org/books/biology-2e/pages/4-3-eukaryotic-cells",
+  "excerpt": "Glyoxysomes, which are specialized peroxisomes in plants",
+  "sourceHash": "19c34673695193a57387f6c2431de0a1e8724fbc2363443e2036ae43ccf2e595",
+  "cacheSourceId": "18e1ed8a00638fdd598d",
+  "retrievedAt": "2026-11-07T01:49:53.264739+00:00",
+  "reviewedMappings": {
+    "2023-3-21:0": "리소좀효소의 산성작용과 식물글리옥시좀의 존재를 확인하여②④거짓.",
+    "2023-3-21:2": "Lysosomes 절: 산성 내부에서 효소가 작용. 중성에서만이라는②거짓. 모든효소의정확한최적pH나세포질방출안전성으로확대하지않음.",
+    "2023-3-21:4": "Peroxisomes 절은 식물의 특수퍼옥시좀 글리옥시좀을 명시. 식물에서발견되므로 동물세포에서만이라는④거짓."
+  },
+  "retrievalMethod": "Direct web open/find; relevant cytoskeleton dimensions, lysosomes/peroxisomes, SER and Golgi transport sections reviewed.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "e376c1d2ea78dffcc4fc",
+  "kind": "science",
+  "source": "Utah Geological Survey / Mark Milligan",
+  "ref": "How Do Geologists Know How Old a Rock Is?",
+  "url": "https://geology.utah.gov/map-pub/survey-notes/glad-you-asked/glad-you-asked-how-do-geologists-know-how-old-a-rock-is/",
+  "excerpt": "igneous intrusions or faults are younger than the units they cut across",
+  "sourceHash": "c16db8b90a42740b5fa13cbbbca283ad3dcb67c9df1bef87d751238d3c010fad",
+  "cacheSourceId": "575d06385748d878066e",
+  "retrievedAt": "2026-11-07T01:17:14.532308+00:00",
+  "reviewedMappings": {
+    "2022-3-33:0": "Relative/absolute dating sections directly read: crosscutting, unconformities, half-life and age bracketing. Original image shows B intrudes C, D overlies erosional surface of B/C, A cuts B/D. Graph 50% at 100Ma and25% at200Ma independently checked.",
+    "2022-3-33:1": "Relative/absolute dating sections directly read: crosscutting, unconformities, half-life and age bracketing. Original image shows B intrudes C, D overlies erosional surface of B/C, A cuts B/D. Graph 50% at 100Ma and25% at200Ma independently checked.",
+    "2022-3-33:2": "Relative/absolute dating sections directly read: crosscutting, unconformities, half-life and age bracketing. Original image shows B intrudes C, D overlies erosional surface of B/C, A cuts B/D. Graph 50% at 100Ma and25% at200Ma independently checked.",
+    "2022-3-33:3": "Relative/absolute dating sections directly read: crosscutting, unconformities, half-life and age bracketing. Original image shows B intrudes C, D overlies erosional surface of B/C, A cuts B/D. Graph 50% at 100Ma and25% at200Ma independently checked.",
+    "2022-3-33:4": "Relative/absolute dating sections directly read: crosscutting, unconformities, half-life and age bracketing. Original image shows B intrudes C, D overlies erosional surface of B/C, A cuts B/D. Graph 50% at 100Ma and25% at200Ma independently checked.",
+    "2022-3-33:5": "Relative/absolute dating sections directly read: crosscutting, unconformities, half-life and age bracketing. Original image shows B intrudes C, D overlies erosional surface of B/C, A cuts B/D. Graph 50% at 100Ma and25% at200Ma independently checked."
+  },
+  "retrievalMethod": "Direct source page read; original cross-section and decay graph visually inspected; independent half-life calculation",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "a770a271a7178a28edd2",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume 2, 11.6 The Hall Effect",
+  "url": "https://openstax.org/books/university-physics-volume-2/pages/11-6-the-hall-effect",
+  "excerpt": "the electric force on the electrons in one direction is balanced by the magnetic force",
+  "sourceHash": "146c6e73d43b1e0916385a7a53c8f7cdcd35242c2bc80771f1437f0c8a2332dd",
+  "cacheSourceId": "e5a5e1db36b79c455866",
+  "retrievedAt": "2026-11-07T02:16:57.295609+00:00",
+  "reviewedMappings": {
+    "2024-3-04:0": "원문 그림의 선폭 d와 두께 t를 구분했다. 본문 E=v_dB, I=n|q|v_d A, V=Ed를 대조하고 A=dt를 적용해 V=IB/(n|q|t)를 유도했다. d′=2d,B′=4B,I′=I에서 v_d′/v_d=1/2,E′/E=2,V′/V=4로 독립 검산했다.",
+    "2024-3-04:1": "원문 그림의 선폭 d와 두께 t를 구분했다. 본문 E=v_dB, I=n|q|v_d A, V=Ed를 대조하고 A=dt를 적용해 V=IB/(n|q|t)를 유도했다. d′=2d,B′=4B,I′=I에서 v_d′/v_d=1/2,E′/E=2,V′/V=4로 독립 검산했다.",
+    "2024-3-04:2": "원문 그림의 선폭 d와 두께 t를 구분했다. 본문 E=v_dB, I=n|q|v_d A, V=Ed를 대조하고 A=dt를 적용해 V=IB/(n|q|t)를 유도했다. d′=2d,B′=4B,I′=I에서 v_d′/v_d=1/2,E′/E=2,V′/V=4로 독립 검산했다.",
+    "2024-3-04:3": "원문 그림의 선폭 d와 두께 t를 구분했다. 본문 E=v_dB, I=n|q|v_d A, V=Ed를 대조하고 A=dt를 적용해 V=IB/(n|q|t)를 유도했다. d′=2d,B′=4B,I′=I에서 v_d′/v_d=1/2,E′/E=2,V′/V=4로 독립 검산했다.",
+    "2024-3-04:4": "원문 그림의 선폭 d와 두께 t를 구분했다. 본문 E=v_dB, I=n|q|v_d A, V=Ed를 대조하고 A=dt를 적용해 V=IB/(n|q|t)를 유도했다. d′=2d,B′=4B,I′=I에서 v_d′/v_d=1/2,E′/E=2,V′/V=4로 독립 검산했다.",
+    "2024-3-04:5": "원문 그림의 선폭 d와 두께 t를 구분했다. 본문 E=v_dB, I=n|q|v_d A, V=Ed를 대조하고 A=dt를 적용해 V=IB/(n|q|t)를 유도했다. d′=2d,B′=4B,I′=I에서 v_d′/v_d=1/2,E′/E=2,V′/V=4로 독립 검산했다."
+  },
+  "retrievalMethod": "Direct web open; reviewed equations 11.24–11.30 and ribbon cross-section example",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

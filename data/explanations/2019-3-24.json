@@ -1,0 +1,173 @@
+{
+  "id": "2019-3-24",
+  "summary": "명반응은 ATP와 NADPH를 만들고 물을 분해하여 O₂를 방출합니다. 포도당을 직접 합성하는 과정은 아닙니다. 산소 호흡의 전자전달계에서는 O₂가 최종 전자수용체로 작용합니다. 따라서 ㄴ과 ㄷ이 옳습니다.",
+  "choices": [
+    "ㄴ은 옳지만 ㄱ은 틀립니다. 광합성의 명반응에서는 광인산화로 ATP가 생성됩니다.",
+    "ㄷ은 옳지만 ㄱ은 틀립니다. 광합성에서도 ATP를 생성하므로 이 조합은 정답이 아닙니다.",
+    "정답입니다. 명반응은 포도당을 직접 합성하지 않습니다. 명반응에서 얻은 ATP와 NADPH는 캘빈 회로의 G3P 생성에 쓰이고, G3P는 당 합성의 재료가 됩니다. 산소 호흡에서는 O₂가 최종적으로 전자를 받아 물로 환원됩니다.",
+    "ㄴ은 옳지만 ㄹ은 틀립니다. 방출되는 O₂는 CO₂가 아니라 명반응의 물 분해에서 유래합니다.",
+    "ㄷ은 옳지만 ㄹ은 틀립니다. 광합성의 O₂ 방출은 탄소고정에서 CO₂가 분해되는 과정이 아닙니다."
+  ],
+  "lawNote": "ㄷ은 산소를 사용하는 호흡을 뜻합니다. 또한 캘빈 회로에서 순생성되는 G3P와, 이를 재료로 만드는 포도당을 구별하면 명반응과 당 합성의 역할이 명확해집니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "8.2 The Light-Dependent Reactions of Photosynthesis",
+      "quote": "ATP synthase uses this electrochemical gradient to make ATP.",
+      "url": "https://openstax.org/books/biology-2e/pages/8-2-the-light-dependent-reactions-of-photosynthesis",
+      "evidenceId": "4907f190e2e9fe6c52a1",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "8.2 The Light-Dependent Reactions of Photosynthesis",
+      "quote": "ATP synthase uses this electrochemical gradient to make ATP.",
+      "url": "https://openstax.org/books/biology-2e/pages/8-2-the-light-dependent-reactions-of-photosynthesis",
+      "evidenceId": "4907f190e2e9fe6c52a1",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "8.2 The Light-Dependent Reactions of Photosynthesis",
+      "quote": "ATP synthase uses this electrochemical gradient to make ATP.",
+      "url": "https://openstax.org/books/biology-2e/pages/8-2-the-light-dependent-reactions-of-photosynthesis",
+      "evidenceId": "4907f190e2e9fe6c52a1",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "8.2 The Light-Dependent Reactions of Photosynthesis",
+      "quote": "ATP synthase uses this electrochemical gradient to make ATP.",
+      "url": "https://openstax.org/books/biology-2e/pages/8-2-the-light-dependent-reactions-of-photosynthesis",
+      "evidenceId": "4907f190e2e9fe6c52a1",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "8.2 The Light-Dependent Reactions of Photosynthesis",
+      "quote": "ATP synthase uses this electrochemical gradient to make ATP.",
+      "url": "https://openstax.org/books/biology-2e/pages/8-2-the-light-dependent-reactions-of-photosynthesis",
+      "evidenceId": "4907f190e2e9fe6c52a1",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "8.2 The Light-Dependent Reactions of Photosynthesis",
+      "quote": "ATP synthase uses this electrochemical gradient to make ATP.",
+      "url": "https://openstax.org/books/biology-2e/pages/8-2-the-light-dependent-reactions-of-photosynthesis",
+      "evidenceId": "4907f190e2e9fe6c52a1",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "8.3 Using Light Energy to Make Organic Molecules",
+      "quote": "ATP and NADPH are used to convert the six molecules of 3-PGA",
+      "url": "https://openstax.org/books/biology-2e/pages/8-3-using-light-energy-to-make-organic-molecules",
+      "evidenceId": "54820509ed232777d058",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "8.3 Using Light Energy to Make Organic Molecules",
+      "quote": "ATP and NADPH are used to convert the six molecules of 3-PGA",
+      "url": "https://openstax.org/books/biology-2e/pages/8-3-using-light-energy-to-make-organic-molecules",
+      "evidenceId": "54820509ed232777d058",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "8.3 Using Light Energy to Make Organic Molecules",
+      "quote": "ATP and NADPH are used to convert the six molecules of 3-PGA",
+      "url": "https://openstax.org/books/biology-2e/pages/8-3-using-light-energy-to-make-organic-molecules",
+      "evidenceId": "54820509ed232777d058",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "8.3 Using Light Energy to Make Organic Molecules",
+      "quote": "ATP and NADPH are used to convert the six molecules of 3-PGA",
+      "url": "https://openstax.org/books/biology-2e/pages/8-3-using-light-energy-to-make-organic-molecules",
+      "evidenceId": "54820509ed232777d058",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e §7.4 Oxidative Phosphorylation",
+      "quote": "oxygen is the final electron acceptor in the electron transport chain.",
+      "url": "https://openstax.org/books/biology-2e/pages/7-4-oxidative-phosphorylation",
+      "evidenceId": "8c0a7d542f941281f6a1",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e §7.4 Oxidative Phosphorylation",
+      "quote": "oxygen is the final electron acceptor in the electron transport chain.",
+      "url": "https://openstax.org/books/biology-2e/pages/7-4-oxidative-phosphorylation",
+      "evidenceId": "8c0a7d542f941281f6a1",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e §7.4 Oxidative Phosphorylation",
+      "quote": "oxygen is the final electron acceptor in the electron transport chain.",
+      "url": "https://openstax.org/books/biology-2e/pages/7-4-oxidative-phosphorylation",
+      "evidenceId": "8c0a7d542f941281f6a1",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e §7.4 Oxidative Phosphorylation",
+      "quote": "oxygen is the final electron acceptor in the electron transport chain.",
+      "url": "https://openstax.org/books/biology-2e/pages/7-4-oxidative-phosphorylation",
+      "evidenceId": "8c0a7d542f941281f6a1",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Direct OpenStax light reactions, Calvin-cycle G3P, and aerobic electron-transport review; independent statement evaluation",
+    "contentHash": "28eba1508f0f944acbab465363d32f597271f7570671e7da0fa6a04b37e3a6b8"
+  }
+}

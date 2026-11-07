@@ -1,0 +1,16 @@
+{
+  "id": "2b7a86efb4b5ae3efb0e",
+  "kind": "science",
+  "source": "Cooper — The Cell, NCBI Bookshelf",
+  "ref": "The Eukaryotic Cell Cycle",
+  "url": "https://www.ncbi.nlm.nih.gov/books/NBK9876/",
+  "excerpt": "The cell grows at a steady rate throughout interphase",
+  "sourceHash": "2d74bba22b0acc68c2bb81933a3dbff2eeebb1c42bf25a7fbc760786de62af61",
+  "cacheSourceId": "da4abdda8e958f5f2b48",
+  "retrievedAt": "2026-11-06T19:00:36.394113+00:00",
+  "reviewedMappings": {
+    "2014-3-30:3": "검색 허용 교재 발췌는 간기 전체 성장과 두 유사분열 사이의 크기2배, G2 지속성장을 설명. G1만으로 RNA/리보솜/효소가 거의2배라는 정량명제까지 입증하지 않음."
+  },
+  "retrievalMethod": "web.search_query indexed textbook excerpt; book states accessible by search feature",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

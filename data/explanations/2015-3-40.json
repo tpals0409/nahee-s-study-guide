@@ -1,0 +1,174 @@
+{
+  "id": "2015-3-40",
+  "summary": "옳은 보기는 ㄴ, ㄷ이므로 정답은 ④입니다. 상현달은 자정 무렵 서쪽으로 지므로 그림처럼 자정에 남쪽 하늘 높이 보이는 달과 맞지 않습니다. 동짓날 태양의 적경은 18h이고, 자정에 남중하는 반대 방향은 약 6h입니다. 한 달 뒤 같은 시각에는 더 동쪽의 별자리가 남중하므로 그림의 황도 12궁 모형에서는 게자리가 남중합니다.",
+  "choices": [
+    "ㄱ은 틀립니다. 상현달은 대략 정오에 떠서 해 질 무렵 남중하고 자정 무렵 집니다. 그림 (나)의 달은 자정에 쌍둥이자리 가까이 높은 하늘에 있으므로 상현달로 볼 수 없습니다.",
+    "ㄴ은 옳지만 ㄷ도 옳으므로 불완전한 조합입니다. 동지 태양의 적경 18h에서 12h 떨어진 자정 남중 방향은 약 6h이며, 그림의 쌍둥이자리가 이 방향에 있습니다.",
+    "ㄴ은 옳지만 ㄱ이 틀리고 ㄷ이 빠져 있습니다. 자정에 높은 하늘에 있는 달은 상현달의 관측 시각과 맞지 않습니다.",
+    "ㄴ과 ㄷ이 모두 옳습니다. 동지 자정의 남중 적경은 (18h+12h)를 24h 주기로 환산한 6h입니다. 별은 매일 약 4분씩 일찍 같은 위치에 오므로 한 달 뒤 같은 자정에는 약 2h 더 큰 적경의 방향이 남중합니다. 그림 (가)의 황도 12궁 배열에 적용하면 쌍둥이자리 다음인 게자리에 해당합니다.",
+    "ㄴ과 ㄷ은 옳지만 ㄱ이 틀리므로 세 보기를 모두 고를 수 없습니다. 상현달은 자정 무렵 지는 달이지, 그림처럼 남쪽 하늘 높이 보이는 달이 아닙니다."
+  ],
+  "lawNote": "문제의 자정과 황도 12궁 그림을 이용한 근사 판단입니다. 실제 별자리는 폭이 있고 경계가 불균등하므로 전체 별자리에 하나의 정확한 적경을 부여하지 않습니다. 그림에는 각도 눈금이 없어 달의 정확한 적경·이각·월령을 확정할 수 없습니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Astronomy 2e 4.5 Phases and Motions of the Moon",
+      "quote": "rising around noon and setting around midnight.",
+      "url": "https://openstax.org/books/astronomy-2e/pages/4-5-phases-and-motions-of-the-moon",
+      "evidenceId": "dc482ef2fa76abc27b18",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Astronomy 2e 4.5 Phases and Motions of the Moon",
+      "quote": "rising around noon and setting around midnight.",
+      "url": "https://openstax.org/books/astronomy-2e/pages/4-5-phases-and-motions-of-the-moon",
+      "evidenceId": "dc482ef2fa76abc27b18",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Astronomy 2e 4.5 Phases and Motions of the Moon",
+      "quote": "rising around noon and setting around midnight.",
+      "url": "https://openstax.org/books/astronomy-2e/pages/4-5-phases-and-motions-of-the-moon",
+      "evidenceId": "dc482ef2fa76abc27b18",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Astronomy 2e 4.5 Phases and Motions of the Moon",
+      "quote": "rising around noon and setting around midnight.",
+      "url": "https://openstax.org/books/astronomy-2e/pages/4-5-phases-and-motions-of-the-moon",
+      "evidenceId": "dc482ef2fa76abc27b18",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "University of Iowa",
+      "ref": "Exploring the Sky II - Star Charts and Stellarium",
+      "quote": "RA = 18h during the Winter Solstice",
+      "url": "https://itu.physics.uiowa.edu/labs/foundational/exploring-sky-ii-star-charts-and-stellarium",
+      "evidenceId": "5fbd086e41402f4cce02",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "University of Iowa",
+      "ref": "Exploring the Sky II - Star Charts and Stellarium",
+      "quote": "RA = 18h during the Winter Solstice",
+      "url": "https://itu.physics.uiowa.edu/labs/foundational/exploring-sky-ii-star-charts-and-stellarium",
+      "evidenceId": "5fbd086e41402f4cce02",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "University of Iowa",
+      "ref": "Exploring the Sky II - Star Charts and Stellarium",
+      "quote": "RA = 18h during the Winter Solstice",
+      "url": "https://itu.physics.uiowa.edu/labs/foundational/exploring-sky-ii-star-charts-and-stellarium",
+      "evidenceId": "5fbd086e41402f4cce02",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "University of Iowa",
+      "ref": "Exploring the Sky II - Star Charts and Stellarium",
+      "quote": "RA = 18h during the Winter Solstice",
+      "url": "https://itu.physics.uiowa.edu/labs/foundational/exploring-sky-ii-star-charts-and-stellarium",
+      "evidenceId": "5fbd086e41402f4cce02",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "University of Iowa",
+      "ref": "Exploring the Sky II - Star Charts and Stellarium",
+      "quote": "RA = 18h during the Winter Solstice",
+      "url": "https://itu.physics.uiowa.edu/labs/foundational/exploring-sky-ii-star-charts-and-stellarium",
+      "evidenceId": "5fbd086e41402f4cce02",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Astronomy 2e 4.3 Keeping Time",
+      "quote": "stars rise 4 minutes earlier each day.",
+      "url": "https://openstax.org/books/astronomy-2e/pages/4-3-keeping-time",
+      "evidenceId": "553628207b14cb757bf8",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Astronomy 2e 4.3 Keeping Time",
+      "quote": "stars rise 4 minutes earlier each day.",
+      "url": "https://openstax.org/books/astronomy-2e/pages/4-3-keeping-time",
+      "evidenceId": "553628207b14cb757bf8",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Astronomy 2e 4.3 Keeping Time",
+      "quote": "stars rise 4 minutes earlier each day.",
+      "url": "https://openstax.org/books/astronomy-2e/pages/4-3-keeping-time",
+      "evidenceId": "553628207b14cb757bf8",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Astronomy 2e 4.3 Keeping Time",
+      "quote": "stars rise 4 minutes earlier each day.",
+      "url": "https://openstax.org/books/astronomy-2e/pages/4-3-keeping-time",
+      "evidenceId": "553628207b14cb757bf8",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Astronomy 2e 4.3 Keeping Time",
+      "quote": "stars rise 4 minutes earlier each day.",
+      "url": "https://openstax.org/books/astronomy-2e/pages/4-3-keeping-time",
+      "evidenceId": "553628207b14cb757bf8",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "Original question image reviewed; source text checked; independent celestial geometry and choice mapping",
+    "contentHash": "089c9bf199b27eab4dfdb2f0649f76074ed76d8f799e8a8c3bc8541f61f6be73"
+  }
+}

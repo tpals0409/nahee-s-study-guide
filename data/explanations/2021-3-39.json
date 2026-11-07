@@ -1,0 +1,107 @@
+{
+  "id": "2021-3-39",
+  "summary": "옳지 않은 설명은 성층권에서 오존층의 기온이 가장 높다는 진술입니다. 성층권의 기온은 일반적인 연직 분포에서 높이에 따라 증가해 약 50km의 성층권계면 부근에서 가장 높습니다. 오존이 밀집한 약 15–35km 영역과 기온이 가장 높은 고도는 다릅니다.",
+  "choices": [
+    "옳습니다. 구름과 비 등 대부분의 기상현상은 지표에 접한 대류권에서 나타납니다.",
+    "옳습니다. 대류권 상단인 대류권계면의 높이는 위도에 따라 달라지며, 일반적으로 적도 부근에서 높고 극지방에서 낮습니다.",
+    "옳지 않습니다. 오존이 태양 자외선을 흡수하여 성층권을 가열하지만, 오존이 밀집한 영역과 기온이 가장 높은 고도는 같지 않습니다. 통상 오존층은 약 15–35km에 있으며, 성층권의 기온은 일반적인 연직 분포에서 위로 갈수록 높아져 약 50km의 성층권계면 부근에서 가장 높습니다.",
+    "옳습니다. 중간권에서도 국지적인 대류 불안정과 공기의 연직 뒤섞임이 발생할 수 있으며, 관측 연구에서도 확인되었습니다. 다만 높이에 따라 기온이 낮아진다는 사실만으로 중간권 전체가 항상 대류적으로 불안정하다고 단정해서는 안 됩니다.",
+    "옳습니다. 태양 복사에 의해 기체가 전리된 전리층은 열권과 겹쳐 존재합니다. 전리층은 중간권과 외기권에도 걸쳐 있으므로, 열권에만 한정된 층이라는 뜻은 아닙니다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "NOAA",
+      "ref": "Layers of the Atmosphere",
+      "quote": "almost all weather occurs in this region",
+      "url": "https://www.noaa.gov/jetstream/atmosphere/layers-of-atmosphere",
+      "evidenceId": "bff69a630047678695c5",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "NOAA",
+      "ref": "Layers of the Atmosphere",
+      "quote": "almost all weather occurs in this region",
+      "url": "https://www.noaa.gov/jetstream/atmosphere/layers-of-atmosphere",
+      "evidenceId": "bff69a630047678695c5",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "NASA Space Place",
+      "ref": "Ionosphere",
+      "quote": "the ionosphere overlaps the mesosphere, thermosphere, and exosphere.",
+      "url": "https://spaceplace.nasa.gov/ionosphere/en/",
+      "evidenceId": "3efda7771d20e80fdec6",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "US EPA",
+      "ref": "Information on Ozone and Ozone Depletion",
+      "quote": "about 9 to 22 miles (15 – 35 km) above the surface",
+      "url": "https://www.epa.gov/ozone-layer-protection/information-ozone-and-ozone-depletion",
+      "evidenceId": "34e65e4178bdffdbc59d",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "US EPA",
+      "ref": "Information on Ozone and Ozone Depletion",
+      "quote": "about 9 to 22 miles (15 – 35 km) above the surface",
+      "url": "https://www.epa.gov/ozone-layer-protection/information-ozone-and-ozone-depletion",
+      "evidenceId": "34e65e4178bdffdbc59d",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "UCAR Center for Science Education",
+      "ref": "The Stratosphere",
+      "quote": "Temperatures rise as one moves upward through the stratosphere.",
+      "url": "https://scied.ucar.edu/learning-zone/atmosphere/stratosphere",
+      "evidenceId": "ed61b75f341aa12d6abe",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "UCAR Center for Science Education",
+      "ref": "The Stratosphere",
+      "quote": "Temperatures rise as one moves upward through the stratosphere.",
+      "url": "https://scied.ucar.edu/learning-zone/atmosphere/stratosphere",
+      "evidenceId": "ed61b75f341aa12d6abe",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "Journal of Geophysical Research: Atmospheres / AGU",
+      "ref": "Lidar Observations of Instability and Estimates of Vertical Eddy Diffusivity Induced by Gravity Wave Breaking in the Arctic Mesosphere",
+      "quote": "a layer of convective instability coincide with this overturning",
+      "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020JD033450",
+      "evidenceId": "a3d012abc410527316e4",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Manual NOAA, NASA, EPA and UCAR comparison with published mesospheric convective-instability observations",
+    "contentHash": "ea99877c8e34ebe6b8a515505efb1c0f0b5670564818d62312b341a7f25a627c"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "32b5d46f618eceb6420f",
+  "kind": "science",
+  "source": "Paul Webb / Roger Williams University",
+  "ref": "Introduction to Oceanography §10.1 Wave Basics",
+  "url": "https://rwu.pressbooks.pub/webboceanography/chapter/10-1-wave-basics/",
+  "excerpt": "Shallow water waves occur when the depth is less than 1/20 of the wavelength.",
+  "sourceHash": "273f317bb11f05f673a2c9477f9ba26edef93e65fa5a193ec7c82af0a5f412ab",
+  "cacheSourceId": "e74f808c033213d66e25",
+  "retrievedAt": "2026-11-06T22:57:15.097023+00:00",
+  "reviewedMappings": {
+    "2019-3-39:0": "원본의 수심 표시를 심해·천해 조건과 대조하고 D에서 원형 궤도가 아니라는 점을 확인했다.",
+    "2019-3-39:1": "원본의 수심 표시를 심해·천해 조건과 대조하고 D에서 원형 궤도가 아니라는 점을 확인했다.",
+    "2019-3-39:2": "원본의 수심 표시를 심해·천해 조건과 대조하고 D에서 원형 궤도가 아니라는 점을 확인했다.",
+    "2019-3-39:3": "원본의 수심 표시를 심해·천해 조건과 대조하고 D에서 원형 궤도가 아니라는 점을 확인했다.",
+    "2019-3-39:4": "원본의 수심 표시를 심해·천해 조건과 대조하고 D에서 원형 궤도가 아니라는 점을 확인했다.",
+    "2019-3-39:5": "원본의 수심 표시를 심해·천해 조건과 대조하고 D에서 원형 궤도가 아니라는 점을 확인했다."
+  },
+  "retrievalMethod": "Direct open: lines 280–294, depth/wavelength classification and flattened shallow-water orbits. Original exam image 2019-3-39.webp visually checked for A–D depth brackets.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

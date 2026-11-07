@@ -1,0 +1,21 @@
+{
+  "id": "672f360299e494664e35",
+  "kind": "science",
+  "source": "University of Mosul / Mohammad Jassim and Amera Faris Al-Sarraj",
+  "ref": "Inorganic Chemistry, First Course (2021–2022), pp. 78–79: Square planar crystal field",
+  "url": "https://uomosul.edu.iq/science/wp-content/uploads/sites/12/2025/04/%D9%86%D9%87%D8%A7%D8%A6%D9%8A-3-11-2021_compressed.pdf",
+  "excerpt": "A square planar arrangement of ligands can be formally derived from octahedral array by removal of two trans-ligands.",
+  "sourceHash": "21642e2f6a3fea57e7b48dbaba71c65fd2e1c014f68bbf81d67fb3395f2266f1",
+  "cacheSourceId": "3159af007cb923d68d8e",
+  "retrievedAt": "2026-11-07T01:00:59.406515+00:00",
+  "reviewedMappings": {
+    "2022-3-18:0": "Direct PDF extracted table reviewed at PDF pages 88–89 (printed 78–79), lines 2535–2557: dxy +2.28 Dq versus dz2 −4.28 Dq and Ni(CN)4 2− square-planar d8 occupancy. Screenshot requested but returned no image to inspect; conclusion uses explicit numeric table and text, not the erroneous OpenStax alt text. 정답은 ⑤, ㄱ·ㄴ·ㄷ입니다. (가)는 저스핀 정팔면체 Fe²⁺(d⁶), (나)는 정사면체 Co²⁺(d⁷), (다)는 사각 평면 Ni²⁺(d⁸)입니다. 각 결정장 모형에 전자를 채우면 세 진술이 모두 성립합니다.",
+    "2022-3-18:1": "Direct PDF extracted table reviewed at PDF pages 88–89 (printed 78–79), lines 2535–2557: dxy +2.28 Dq versus dz2 −4.28 Dq and Ni(CN)4 2− square-planar d8 occupancy. Screenshot requested but returned no image to inspect; conclusion uses explicit numeric table and text, not the erroneous OpenStax alt text. ㄱ은 옳지만 ㄴ·ㄷ도 옳으므로 불완전합니다. Co²⁺의 정사면체 배치는 e⁴t₂³이며, 낮은 e에 속하는 d_z²에는 전자 2개가 있습니다.",
+    "2022-3-18:2": "Direct PDF extracted table reviewed at PDF pages 88–89 (printed 78–79), lines 2535–2557: dxy +2.28 Dq versus dz2 −4.28 Dq and Ni(CN)4 2− square-planar d8 occupancy. Screenshot requested but returned no image to inspect; conclusion uses explicit numeric table and text, not the erroneous OpenStax alt text. ㄴ은 옳지만 ㄱ·ㄷ도 옳으므로 불완전합니다. 이 문제의 사각 평면 결정장 모형에서는 d_xy가 d_z²보다 에너지가 높습니다.",
+    "2022-3-18:3": "Direct PDF extracted table reviewed at PDF pages 88–89 (printed 78–79), lines 2535–2557: dxy +2.28 Dq versus dz2 −4.28 Dq and Ni(CN)4 2− square-planar d8 occupancy. Screenshot requested but returned no image to inspect; conclusion uses explicit numeric table and text, not the erroneous OpenStax alt text. ㄱ·ㄷ은 옳지만 ㄴ도 옳습니다. 사각 평면의 통상적인 결정장 분리에서 d_xy>d_z²이므로 ㄴ을 제외할 수 없습니다.",
+    "2022-3-18:4": "Direct PDF extracted table reviewed at PDF pages 88–89 (printed 78–79), lines 2535–2557: dxy +2.28 Dq versus dz2 −4.28 Dq and Ni(CN)4 2− square-planar d8 occupancy. Screenshot requested but returned no image to inspect; conclusion uses explicit numeric table and text, not the erroneous OpenStax alt text. ㄴ·ㄷ은 옳지만 ㄱ도 옳습니다. 정사면체 Co²⁺의 e⁴t₂³에서 e의 두 궤도 d_z²와 d_x²−y²에 각각 전자 2개가 들어갑니다.",
+    "2022-3-18:5": "Direct PDF extracted table reviewed at PDF pages 88–89 (printed 78–79), lines 2535–2557: dxy +2.28 Dq versus dz2 −4.28 Dq and Ni(CN)4 2− square-planar d8 occupancy. Screenshot requested but returned no image to inspect; conclusion uses explicit numeric table and text, not the erroneous OpenStax alt text. 모두 옳습니다. ㄱ: (나)의 d_z² 전자는 2개입니다. ㄴ: (다)의 사각 평면 결정장 모형에서 d_xy>d_z²입니다. ㄷ: (가)의 t₂g⁶에서 d_xy 전자는 2개, (나)의 e⁴t₂³에서 d_xy 전자는 1개이므로 (가)>(나)입니다."
+  },
+  "retrievalMethod": "Direct PDF extracted table reviewed at PDF pages 88–89 (printed 78–79), lines 2535–2557: dxy +2.28 Dq versus dz2 −4.28 Dq and Ni(CN)4 2− square-planar d8 occupancy. Screenshot requested but returned no image to inspect; conclusion uses explicit numeric table and text, not the erroneous OpenStax alt text.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

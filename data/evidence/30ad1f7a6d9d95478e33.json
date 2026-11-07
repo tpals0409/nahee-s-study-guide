@@ -1,0 +1,21 @@
+{
+  "id": "30ad1f7a6d9d95478e33",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 2e, 14.3 Relative Strengths of Acids and Bases",
+  "url": "https://openstax.org/books/chemistry-2e/pages/14-3-relative-strengths-of-acids-and-bases",
+  "excerpt": "If the ionization reaction is essentially complete, the acid or base is termed strong",
+  "sourceHash": "eb55e24197694481bdc969f2452d307a054003a7cd76dde9babb0e14c8994596",
+  "cacheSourceId": "02347c895ca789681633",
+  "retrievedAt": "2026-11-07T00:10:27.018709+00:00",
+  "reviewedMappings": {
+    "2021-3-20:0": "lines32-34,42: HCl은 완전 이온화하는 강산. 물의 이온화를 제외하지 않고 Cl 농도만 분석농도1e−8과 같게 둠. 이 전제와 Kw/전하보존을 결합하여 Cl<OH<H를 판정.",
+    "2021-3-20:1": "lines32-34,42: HCl은 완전 이온화하는 강산. 물의 이온화를 제외하지 않고 Cl 농도만 분석농도1e−8과 같게 둠. 이 전제와 Kw/전하보존을 결합하여 Cl<OH<H를 판정.",
+    "2021-3-20:2": "lines32-34,42: HCl은 완전 이온화하는 강산. 물의 이온화를 제외하지 않고 Cl 농도만 분석농도1e−8과 같게 둠. 이 전제와 Kw/전하보존을 결합하여 Cl<OH<H를 판정.",
+    "2021-3-20:3": "lines32-34,42: HCl은 완전 이온화하는 강산. 물의 이온화를 제외하지 않고 Cl 농도만 분석농도1e−8과 같게 둠. 이 전제와 Kw/전하보존을 결합하여 Cl<OH<H를 판정.",
+    "2021-3-20:4": "lines32-34,42: HCl은 완전 이온화하는 강산. 물의 이온화를 제외하지 않고 Cl 농도만 분석농도1e−8과 같게 둠. 이 전제와 Kw/전하보존을 결합하여 Cl<OH<H를 판정.",
+    "2021-3-20:5": "lines32-34,42: HCl은 완전 이온화하는 강산. 물의 이온화를 제외하지 않고 Cl 농도만 분석농도1e−8과 같게 둠. 이 전제와 Kw/전하보존을 결합하여 Cl<OH<H를 판정."
+  },
+  "retrievalMethod": "Direct textbook page reviewed; lines32-34,42: HCl은 완전 이온화하는 강산. 물의 이온화를 제외하지 않고 Cl 농도만 분석농도1e−8과 같게 둠. 이 전제와 Kw/전하보존을 결합하여 Cl<OH<H를 판정.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

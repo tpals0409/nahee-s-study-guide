@@ -1,0 +1,17 @@
+{
+  "id": "590b6dfb61888ab6a8af",
+  "kind": "science",
+  "source": "Geological Survey of Georgia",
+  "ref": "The Clay Deposits of Georgia, p.18",
+  "url": "https://epd.georgia.gov/sites/epd.georgia.gov/files/related_files/site_page/B-18.pdf",
+  "excerpt": "2KAlSi₃O₈ + 2H₂O + CO₂ = H₄Al₂Si₂O₉ + 4SiO₂ + K₂CO₃.",
+  "sourceHash": "0c9bc58563d65ec73e417b5aa7cdd3c8f189a65ac40b0ee6d22edfb4d70c4c21",
+  "cacheSourceId": "6f7e118226f213811713",
+  "retrievedAt": "2026-11-06T21:29:05.167735+00:00",
+  "reviewedMappings": {
+    "2017-3-33:0": "공식 지질 보고서 검색 색인의 반응식과 ⑤를 대조. H4Al2Si2O9와 Al2Si2O5(OH)4의 원자 조성이 동일함을 독립 확인. 간략한 총괄식으로만 적용하며 실제 용액 종의 존재 형태를 단정하지 않음.",
+    "2017-3-33:5": "공식 지질 보고서 검색 색인의 반응식과 ⑤를 대조. H4Al2Si2O9와 Al2Si2O5(OH)4의 원자 조성이 동일함을 독립 확인. 간략한 총괄식으로만 적용하며 실제 용액 종의 존재 형태를 단정하지 않음."
+  },
+  "retrievalMethod": "Search-indexed official report excerpt reviewed; direct PDF open returned 410",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

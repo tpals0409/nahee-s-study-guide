@@ -1,0 +1,21 @@
+{
+  "id": "7b1cf07ea0f919634f9c",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 2e, 15.1 Precipitation and Dissolution",
+  "url": "https://openstax.org/books/chemistry-2e/pages/15-1-precipitation-and-dissolution",
+  "excerpt": "only gases and solutes are represented in equilibrium constant expressions",
+  "sourceHash": "e01cbf2a782fcfc6b84825454402ab83e483d2cbe798d0a138a3b7ee1a87cae2",
+  "cacheSourceId": "d899f3a689714d5d175b",
+  "retrievedAt": "2026-11-07T01:01:52.739265+00:00",
+  "reviewedMappings": {
+    "2022-3-19:0": "Direct review lines 31–55: solubility equilibrium and pure-solid omission. Apply given reactions to Ksp=[M3+][OH−]^3 and x=[complex]/[OH−]. Metal balance follows problem limiting dissolved forms to these two species. 정답은 ④, 40입니다. 주어진 K_w와 pH에서 [OH⁻]=10⁻⁴ M입니다. [M³⁺]=K_sp/[OH⁻]³=2.0×10⁻²⁰ M이므로 총 용해도는 사실상 [M(OH)₄⁻]와 같습니다. 따라서 x=[M(OH)₄⁻]/[OH⁻]≈40입니다.",
+    "2022-3-19:1": "Direct review lines 31–55: solubility equilibrium and pure-solid omission. Apply given reactions to Ksp=[M3+][OH−]^3 and x=[complex]/[OH−]. Metal balance follows problem limiting dissolved forms to these two species. 10은 오답입니다. x가 10이라면 [M(OH)₄⁻] = 10×1.0×10⁻⁴ = 1.0×10⁻³ M가 됩니다. 여기에 [M³⁺] 2.0×10⁻²⁰ M를 더해도 용해도는 약 1.0×10⁻³ mol/L로, 주어진 4.0×10⁻³ mol/L보다 작습니다.",
+    "2022-3-19:2": "Direct review lines 31–55: solubility equilibrium and pure-solid omission. Apply given reactions to Ksp=[M3+][OH−]^3 and x=[complex]/[OH−]. Metal balance follows problem limiting dissolved forms to these two species. 20은 오답입니다. x가 20이라면 [M(OH)₄⁻] = 2.0×10⁻³ M이고, 용해도도 약 2.0×10⁻³ mol/L가 되어 주어진 값과 맞지 않습니다.",
+    "2022-3-19:3": "Direct review lines 31–55: solubility equilibrium and pure-solid omission. Apply given reactions to Ksp=[M3+][OH−]^3 and x=[complex]/[OH−]. Metal balance follows problem limiting dissolved forms to these two species. 30은 오답입니다. x가 30이라면 [M(OH)₄⁻] = 3.0×10⁻³ M이고, 용해도도 약 3.0×10⁻³ mol/L가 되어 주어진 값과 맞지 않습니다.",
+    "2022-3-19:4": "Direct review lines 31–55: solubility equilibrium and pure-solid omission. Apply given reactions to Ksp=[M3+][OH−]^3 and x=[complex]/[OH−]. Metal balance follows problem limiting dissolved forms to these two species. 40은 정답입니다. 먼저 S = [M³⁺] + [M(OH)₄⁻]입니다. [M³⁺] = 2.0×10⁻³² / (1.0×10⁻⁴)³ = 2.0×10⁻²⁰ M이므로 무시할 수 있습니다. 따라서 [M(OH)₄⁻] ≈ 4.0×10⁻³ M이고, x = [M(OH)₄⁻] / [OH⁻] = 4.0×10⁻³ / 1.0×10⁻⁴ = 40입니다.",
+    "2022-3-19:5": "Direct review lines 31–55: solubility equilibrium and pure-solid omission. Apply given reactions to Ksp=[M3+][OH−]^3 and x=[complex]/[OH−]. Metal balance follows problem limiting dissolved forms to these two species. 50은 오답입니다. x가 50이라면 [M(OH)₄⁻] = 5.0×10⁻³ M이고, 용해도도 약 5.0×10⁻³ mol/L가 되어 주어진 값보다 큽니다."
+  },
+  "retrievalMethod": "Direct review lines 31–55: solubility equilibrium and pure-solid omission. Apply given reactions to Ksp=[M3+][OH−]^3 and x=[complex]/[OH−]. Metal balance follows problem limiting dissolved forms to these two species.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "5e972c600453911f5d32",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Astronomy 2e §2.2 Ancient Astronomy",
+  "url": "https://openstax.org/books/astronomy-2e/pages/2-2-ancient-astronomy",
+  "excerpt": "Thus, the distance between the two cities must be 1/50 the circumference of Earth.",
+  "sourceHash": "ca721e1c92559e3b37733252e803a611396abb4ea578d281b7cae3dfb0dedaad",
+  "cacheSourceId": "41e2d7bcaaeb993f994c",
+  "retrievedAt": "2026-11-07T03:37:16.612862+00:00",
+  "reviewedMappings": {
+    "2025-3-39:0": "Measurement of Earth by Eratosthenes 본문과 그림 설명의 평행 태양빛·천정 태양·중심각과 거리의 비례를 원문 모식도에 적용. θ=hA−hB, ℓ/(2πR)=θ/360°. 각도만이면 길이 규모 미정, 경도만으로 일반적 중심각을 정할 수 없음. A가 태양 직하점인 그림 자체로 충분하므로 경도가 같아야만 가능하다는 초안의 불필요한 일반화 제거.",
+    "2025-3-39:1": "Measurement of Earth by Eratosthenes 본문과 그림 설명의 평행 태양빛·천정 태양·중심각과 거리의 비례를 원문 모식도에 적용. θ=hA−hB, ℓ/(2πR)=θ/360°. 각도만이면 길이 규모 미정, 경도만으로 일반적 중심각을 정할 수 없음. A가 태양 직하점인 그림 자체로 충분하므로 경도가 같아야만 가능하다는 초안의 불필요한 일반화 제거.",
+    "2025-3-39:2": "Measurement of Earth by Eratosthenes 본문과 그림 설명의 평행 태양빛·천정 태양·중심각과 거리의 비례를 원문 모식도에 적용. θ=hA−hB, ℓ/(2πR)=θ/360°. 각도만이면 길이 규모 미정, 경도만으로 일반적 중심각을 정할 수 없음. A가 태양 직하점인 그림 자체로 충분하므로 경도가 같아야만 가능하다는 초안의 불필요한 일반화 제거.",
+    "2025-3-39:3": "Measurement of Earth by Eratosthenes 본문과 그림 설명의 평행 태양빛·천정 태양·중심각과 거리의 비례를 원문 모식도에 적용. θ=hA−hB, ℓ/(2πR)=θ/360°. 각도만이면 길이 규모 미정, 경도만으로 일반적 중심각을 정할 수 없음. A가 태양 직하점인 그림 자체로 충분하므로 경도가 같아야만 가능하다는 초안의 불필요한 일반화 제거.",
+    "2025-3-39:4": "Measurement of Earth by Eratosthenes 본문과 그림 설명의 평행 태양빛·천정 태양·중심각과 거리의 비례를 원문 모식도에 적용. θ=hA−hB, ℓ/(2πR)=θ/360°. 각도만이면 길이 규모 미정, 경도만으로 일반적 중심각을 정할 수 없음. A가 태양 직하점인 그림 자체로 충분하므로 경도가 같아야만 가능하다는 초안의 불필요한 일반화 제거.",
+    "2025-3-39:5": "Measurement of Earth by Eratosthenes 본문과 그림 설명의 평행 태양빛·천정 태양·중심각과 거리의 비례를 원문 모식도에 적용. θ=hA−hB, ℓ/(2πR)=θ/360°. 각도만이면 길이 규모 미정, 경도만으로 일반적 중심각을 정할 수 없음. A가 태양 직하점인 그림 자체로 충분하므로 경도가 같아야만 가능하다는 초안의 불필요한 일반화 제거."
+  },
+  "retrievalMethod": "Search-indexed textbook section and figure description read",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

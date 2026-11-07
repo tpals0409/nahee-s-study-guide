@@ -1,0 +1,17 @@
+{
+  "id": "b7cdb791641773b35028",
+  "kind": "science",
+  "source": "American Journal of Human Genetics / PubMed",
+  "ref": "Lee et al. (2017), Systematic Computational Identification of Variants That Activate Exonic and Intronic Cryptic Splice Sites",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/28475858/",
+  "excerpt": "showed deletion of the last 97 exonic nucleotides",
+  "sourceHash": "1e0cb71108a918c6681918ad8ba75b21b53a9e8e932eb5579d22e39c33ee49ad",
+  "cacheSourceId": "440305c87b0d00a0c1ef",
+  "retrievedAt": "2026-11-07T05:55:00.686296+00:00",
+  "reviewedMappings": {
+    "2019-3-27:0": "엑손 염기 치환이 RNA 가공을 바꾸어97nt 결실을 일으킨 실험 관찰. 직접 코돈 치환과 간접 해독틀 변화를 구별; 안정한 변이 단백질 축적까지 직접 입증하지 않음.",
+    "2019-3-27:5": "엑손 염기 치환이 RNA 가공을 바꾸어97nt 결실을 일으킨 실험 관찰. 직접 코돈 치환과 간접 해독틀 변화를 구별; 안정한 변이 단백질 축적까지 직접 입증하지 않음."
+  },
+  "retrievalMethod": "Direct PubMed abstract and original figure captions",
+  "sourceHashScope": "Selected short excerpt only; not full source"
+}

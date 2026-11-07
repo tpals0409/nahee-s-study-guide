@@ -1,0 +1,18 @@
+{
+  "id": "68c11bf2a77012ca8e9f",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 2e 19.2, Table 19.5",
+  "url": "https://openstax.org/books/chemistry-2e/pages/19-2-coordination-chemistry-of-transition-metals",
+  "excerpt": "tetrahedral(d^{0} or d^{10}), low oxidation states for M",
+  "sourceHash": "acd0e65e5d38a0f03e36b8c074e7eb1d52f42ae29f7218be27015390befc3ac3",
+  "cacheSourceId": "e8d86c5886cdb397b5b9",
+  "retrievedAt": "2026-11-07T06:05:09.655787+00:00",
+  "reviewedMappings": {
+    "2010-3-18:0": "Table row for coordination number 4 gives d0/d10 tetrahedral trend. Supports conditional textbook prediction only, not an experimental geometry determination of [Zn(H2O)3Cl]+.",
+    "2010-3-18:2": "Table row for coordination number 4 gives d0/d10 tetrahedral trend. Supports conditional textbook prediction only, not an experimental geometry determination of [Zn(H2O)3Cl]+.",
+    "2010-3-18:5": "Table row for coordination number 4 gives d0/d10 tetrahedral trend. Supports conditional textbook prediction only, not an experimental geometry determination of [Zn(H2O)3Cl]+."
+  },
+  "retrievalMethod": "web direct text inspected in previous goal turn",
+  "sourceHashScope": "Short reviewed table-cell excerpt only"
+}

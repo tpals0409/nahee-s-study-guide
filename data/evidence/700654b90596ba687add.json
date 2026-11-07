@@ -1,0 +1,18 @@
+{
+  "id": "700654b90596ba687add",
+  "kind": "science",
+  "source": "Steven Earle / BCcampus",
+  "ref": "Physical Geology – 2nd Edition: 18.1 The Topography of the Sea Floor",
+  "url": "https://opentextbc.ca/physicalgeology2ed/chapter/18-1-the-topography-of-the-sea-floor/",
+  "excerpt": "Continental shelves are typically less than 200 metres in depth",
+  "sourceHash": "e5007ccffcf0d9c666803ca8d2db43e522b82044adc5e8c512afbe48ba15cdb3",
+  "cacheSourceId": "15baf17e2d6cda391a8b",
+  "retrievedAt": "2026-11-06T23:41:40.080957+00:00",
+  "reviewedMappings": {
+    "2020-3-37:0": "대륙붕·심해저평원·해령·해구의 상대 수심.",
+    "2020-3-37:2": "해령과 깊은 섭입대 해구 구분.",
+    "2020-3-37:3": "얕은 대륙붕과 수천 m 심해저평원의 깊이 비교."
+  },
+  "retrievalMethod": "Direct web open; reviewed lines 339–346: shallow shelves, deep abyssal plains, elevated ridge and trenches at subduction zones. Excluded unrelated photic-depth and crust composition generalizations.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

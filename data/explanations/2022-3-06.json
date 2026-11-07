@@ -1,0 +1,85 @@
+{
+  "id": "2022-3-06",
+  "summary": "중앙의 이상적인 도선으로 연결된 위·아래 꼭짓점을 같은 마디 C로 묶습니다. A–C 사이의 두 저항은 병렬이므로 R/2이고, C–B 사이도 R/2입니다. 이 두 부분이 직렬이므로 A–B 사이의 등가저항은 R입니다.",
+  "choices": [
+    "R/4는 네 저항이 모두 같은 두 마디 사이에 병렬 연결되어 있을 때의 값입니다. 이 회로에는 A–C와 C–B라는 서로 다른 두 병렬 부분이 있어 R/4가 아닙니다.",
+    "R/2는 A–C 또는 C–B 한 부분의 등가저항입니다. 두 부분이 직렬로 이어져 전체 저항은 R/2+R/2=R입니다.",
+    "R이 옳습니다. 중앙 도선의 양 끝을 하나의 마디로 보면 (R∥R)+(R∥R)=R/2+R/2=R입니다.",
+    "2R은 조건과 맞지 않습니다. 중앙 도선으로 연결된 마디를 기준으로 각각 R/2인 두 병렬 부분을 직렬로 합치면 R이 됩니다.",
+    "4R은 네 저항이 모두 직렬일 때의 값입니다. 이 회로에는 두 저항씩 병렬인 부분이 두 개 있고, 그 등가저항 R/2끼리 직렬로 연결되어 전체는 R입니다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2, 10.2 Resistors in Series and Parallel",
+      "quote": "The potential drop across each resistor is the same.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/10-2-resistors-in-series-and-parallel",
+      "evidenceId": "92358849dd91feeb1e1d",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2, 10.2 Resistors in Series and Parallel",
+      "quote": "The potential drop across each resistor is the same.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/10-2-resistors-in-series-and-parallel",
+      "evidenceId": "92358849dd91feeb1e1d",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2, 10.2 Resistors in Series and Parallel",
+      "quote": "The potential drop across each resistor is the same.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/10-2-resistors-in-series-and-parallel",
+      "evidenceId": "92358849dd91feeb1e1d",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2, 10.2 Resistors in Series and Parallel",
+      "quote": "The potential drop across each resistor is the same.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/10-2-resistors-in-series-and-parallel",
+      "evidenceId": "92358849dd91feeb1e1d",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2, 10.2 Resistors in Series and Parallel",
+      "quote": "The potential drop across each resistor is the same.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/10-2-resistors-in-series-and-parallel",
+      "evidenceId": "92358849dd91feeb1e1d",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2, 10.2 Resistors in Series and Parallel",
+      "quote": "The potential drop across each resistor is the same.",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/10-2-resistors-in-series-and-parallel",
+      "evidenceId": "92358849dd91feeb1e1d",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Original circuit node identification, series/parallel reduction and independent KCL verification with OpenStax reference",
+    "contentHash": "1a8ffd70514fd8e2737c22046f8e9f4cfb5973c0b87308eca8454cfd5c427a38"
+  }
+}

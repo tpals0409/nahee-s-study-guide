@@ -1,0 +1,27 @@
+{
+  "id": "d091d27bf1816590072b",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "10.3 Kirchhoff’s Rules",
+  "url": "https://openstax.org/books/university-physics-volume-2/pages/10-3-kirchhoffs-rules",
+  "excerpt": "The algebraic sum of changes in potential around any closed circuit path (loop) must be zero:",
+  "sourceHash": "48202fe88b1169033fcd36c7d02ff9138f1103408f8a928fa1af908cfeb1d43f",
+  "cacheSourceId": "2f19b24bb16bc2a52194",
+  "retrievedAt": "2026-11-06T23:04:54.238456+00:00",
+  "reviewedMappings": {
+    "2016-3-05:0": "본문 43~45행 고리 법칙 및 85~86행 전압원 부호 규칙을 원문에 적용: 시계방향으로 3V는 +에서 −로, 6V와 V₀는 −에서 +로 통과. 따라서 V₀+6−3−5=0. 후보 1~5V 중 2V만 만족한다.",
+    "2016-3-05:1": "본문 43~45행 고리 법칙 및 85~86행 전압원 부호 규칙을 원문에 적용: 시계방향으로 3V는 +에서 −로, 6V와 V₀는 −에서 +로 통과. 따라서 V₀+6−3−5=0. 후보 1~5V 중 2V만 만족한다.",
+    "2016-3-05:2": "본문 43~45행 고리 법칙 및 85~86행 전압원 부호 규칙을 원문에 적용: 시계방향으로 3V는 +에서 −로, 6V와 V₀는 −에서 +로 통과. 따라서 V₀+6−3−5=0. 후보 1~5V 중 2V만 만족한다.",
+    "2016-3-05:3": "본문 43~45행 고리 법칙 및 85~86행 전압원 부호 규칙을 원문에 적용: 시계방향으로 3V는 +에서 −로, 6V와 V₀는 −에서 +로 통과. 따라서 V₀+6−3−5=0. 후보 1~5V 중 2V만 만족한다.",
+    "2016-3-05:4": "본문 43~45행 고리 법칙 및 85~86행 전압원 부호 규칙을 원문에 적용: 시계방향으로 3V는 +에서 −로, 6V와 V₀는 −에서 +로 통과. 따라서 V₀+6−3−5=0. 후보 1~5V 중 2V만 만족한다.",
+    "2016-3-05:5": "본문 43~45행 고리 법칙 및 85~86행 전압원 부호 규칙을 원문에 적용: 시계방향으로 3V는 +에서 −로, 6V와 V₀는 −에서 +로 통과. 따라서 V₀+6−3−5=0. 후보 1~5V 중 2V만 만족한다.",
+    "2020-3-04:0": "초기 C 전압 0·L 전류 0에서 Ii=15/(2+3)=3 A, 정상 C 전류 0·L 전압 0에서 If=(15-3)/(2+4)=2 A; 비 2/3.",
+    "2020-3-04:1": "정상 회로의 두 전지는 반대 기전력으로 작용하여 If=2 A≠0.",
+    "2020-3-04:2": "두 극한 등가회로와 KVL로 Ii=3, If=2; 비 2/3.",
+    "2020-3-04:3": "Ii=3 A이나 If=2 A로 서로 다름.",
+    "2020-3-04:4": "If/Ii=2/3이며 3/2는 역비.",
+    "2020-3-04:5": "Ii=3 A≠0이고 If=2 A로 비는 유한."
+  },
+  "retrievalMethod": "Direct web retrieval; reviewed junction and loop rules and resistor/source voltage signs, lines 35–60. Both battery polarities independently verified from original question image.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

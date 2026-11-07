@@ -1,0 +1,140 @@
+{
+  "id": "2024-3-37",
+  "summary": "고도에 따른 기온 변화로 구분하는 네 주요 층은 대류권·성층권·중간권·열권입니다(ㄱ). 대류권은 일반적으로 극지방보다 적도에서 두껍습니다(ㄴ). 성층권은 오존의 태양 자외선 흡수로 고도가 높아질수록 기온이 증가하는 층이므로 ㄷ은 틀립니다. 정답은 ㄱ, ㄴ인 ④입니다. 외기권을 별도로 포함하는 구분과는 기준을 구별해야 합니다.",
+  "choices": [
+    "'ㄱ'만 고른 선지: ㄱ은 옳지만 ㄴ도 옳으므로 옳은 것을 모두 고르지 못해 오답입니다.",
+    "'ㄴ'만 고른 선지: ㄴ은 옳지만 ㄱ도 옳으므로 옳은 것을 모두 고르지 못해 오답입니다.",
+    "'ㄷ'만 고른 선지: 성층권에서는 오존층이 태양 자외선을 흡수해 고도가 높아질수록 기온이 올라갑니다. ㄷ은 틀린 설명이므로 오답입니다.",
+    "'ㄱ, ㄴ' 선지: 기온 분포에 따라 4개 층으로 나눈다는 ㄱ과, 적도의 대류권이 극지방보다 두껍다는 ㄴ이 모두 옳고 ㄷ만 틀렸으므로 정답입니다.",
+    "'ㄴ, ㄷ' 선지: ㄷ이 틀렸고 옳은 진술인 ㄱ이 빠져 있으므로 오답입니다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "Royal Belgian Institute for Space Aeronomy",
+      "ref": "Layers of Earth’s atmosphere, order and characteristics",
+      "quote": "divided into four layers or ‘spheres’",
+      "url": "https://iasb.be/en/encyclopedia/layers-earths-atmosphere-order-and-characteristics",
+      "evidenceId": "97748208fb91b08cdd33",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "Royal Belgian Institute for Space Aeronomy",
+      "ref": "Layers of Earth’s atmosphere, order and characteristics",
+      "quote": "divided into four layers or ‘spheres’",
+      "url": "https://iasb.be/en/encyclopedia/layers-earths-atmosphere-order-and-characteristics",
+      "evidenceId": "97748208fb91b08cdd33",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "Royal Belgian Institute for Space Aeronomy",
+      "ref": "Layers of Earth’s atmosphere, order and characteristics",
+      "quote": "divided into four layers or ‘spheres’",
+      "url": "https://iasb.be/en/encyclopedia/layers-earths-atmosphere-order-and-characteristics",
+      "evidenceId": "97748208fb91b08cdd33",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "Royal Belgian Institute for Space Aeronomy",
+      "ref": "Layers of Earth’s atmosphere, order and characteristics",
+      "quote": "divided into four layers or ‘spheres’",
+      "url": "https://iasb.be/en/encyclopedia/layers-earths-atmosphere-order-and-characteristics",
+      "evidenceId": "97748208fb91b08cdd33",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "Royal Belgian Institute for Space Aeronomy",
+      "ref": "Layers of Earth’s atmosphere, order and characteristics",
+      "quote": "divided into four layers or ‘spheres’",
+      "url": "https://iasb.be/en/encyclopedia/layers-earths-atmosphere-order-and-characteristics",
+      "evidenceId": "97748208fb91b08cdd33",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "Royal Belgian Institute for Space Aeronomy",
+      "ref": "Layers of Earth’s atmosphere, order and characteristics",
+      "quote": "divided into four layers or ‘spheres’",
+      "url": "https://iasb.be/en/encyclopedia/layers-earths-atmosphere-order-and-characteristics",
+      "evidenceId": "97748208fb91b08cdd33",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "NASA",
+      "ref": "Earth’s Atmosphere: A Multi-layered Cake",
+      "quote": "with its height lower at Earth’s poles and higher at the equator",
+      "url": "https://science.nasa.gov/earth/earth-atmosphere/earths-atmosphere-a-multi-layered-cake/",
+      "evidenceId": "ddec7c8b930b48a5a2d2",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "NASA",
+      "ref": "Earth’s Atmosphere: A Multi-layered Cake",
+      "quote": "with its height lower at Earth’s poles and higher at the equator",
+      "url": "https://science.nasa.gov/earth/earth-atmosphere/earths-atmosphere-a-multi-layered-cake/",
+      "evidenceId": "ddec7c8b930b48a5a2d2",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "NASA",
+      "ref": "Earth’s Atmosphere: A Multi-layered Cake",
+      "quote": "with its height lower at Earth’s poles and higher at the equator",
+      "url": "https://science.nasa.gov/earth/earth-atmosphere/earths-atmosphere-a-multi-layered-cake/",
+      "evidenceId": "ddec7c8b930b48a5a2d2",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "NASA",
+      "ref": "Earth’s Atmosphere: A Multi-layered Cake",
+      "quote": "with its height lower at Earth’s poles and higher at the equator",
+      "url": "https://science.nasa.gov/earth/earth-atmosphere/earths-atmosphere-a-multi-layered-cake/",
+      "evidenceId": "ddec7c8b930b48a5a2d2",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "NASA",
+      "ref": "Earth’s Atmosphere: A Multi-layered Cake",
+      "quote": "with its height lower at Earth’s poles and higher at the equator",
+      "url": "https://science.nasa.gov/earth/earth-atmosphere/earths-atmosphere-a-multi-layered-cake/",
+      "evidenceId": "ddec7c8b930b48a5a2d2",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Original image inspected; four thermal layers distinguished from classifications including exosphere; official atmospheric sources support latitude difference and ozone-driven stratospheric warming.",
+    "contentHash": "ae067e7e8dc10defdb4d27e28939bad0c0f6ff82cff9ebcf60b7104990daef91"
+  }
+}

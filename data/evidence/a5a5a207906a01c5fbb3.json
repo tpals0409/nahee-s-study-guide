@@ -1,0 +1,21 @@
+{
+  "id": "a5a5a207906a01c5fbb3",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e 20.1 Organizing Life on Earth",
+  "url": "https://openstax.org/books/biology-2e/pages/20-1-organizing-life-on-earth",
+  "excerpt": "In a rooted tree, the branching indicates evolutionary relationships",
+  "sourceHash": "c042e28b6d628dcd705b1ba1a9ee064a46a3b2948a1d7130eab51d4cd8475af5",
+  "cacheSourceId": "0caccc597ea65001ef72",
+  "retrievedAt": "2026-11-06T19:47:18.691300+00:00",
+  "reviewedMappings": {
+    "2015-3-30:0": "분기점과 공통조상 해석 원리를 원문의 실제 가지 구조에 적용했다. 자포-탈피 MRCA는 진정후생 계통, 해면-자포 MRCA는 더 기저의 뿌리이며 가지 길이로 연대를 계산하지 않는다.",
+    "2015-3-30:1": "분기점과 공통조상 해석 원리를 원문의 실제 가지 구조에 적용했다. 자포-탈피 MRCA는 진정후생 계통, 해면-자포 MRCA는 더 기저의 뿌리이며 가지 길이로 연대를 계산하지 않는다.",
+    "2015-3-30:2": "분기점과 공통조상 해석 원리를 원문의 실제 가지 구조에 적용했다. 자포-탈피 MRCA는 진정후생 계통, 해면-자포 MRCA는 더 기저의 뿌리이며 가지 길이로 연대를 계산하지 않는다.",
+    "2015-3-30:3": "분기점과 공통조상 해석 원리를 원문의 실제 가지 구조에 적용했다. 자포-탈피 MRCA는 진정후생 계통, 해면-자포 MRCA는 더 기저의 뿌리이며 가지 길이로 연대를 계산하지 않는다.",
+    "2015-3-30:4": "분기점과 공통조상 해석 원리를 원문의 실제 가지 구조에 적용했다. 자포-탈피 MRCA는 진정후생 계통, 해면-자포 MRCA는 더 기저의 뿌리이며 가지 길이로 연대를 계산하지 않는다.",
+    "2015-3-30:5": "분기점과 공통조상 해석 원리를 원문의 실제 가지 구조에 적용했다. 자포-탈피 MRCA는 진정후생 계통, 해면-자포 MRCA는 더 기저의 뿌리이며 가지 길이로 연대를 계산하지 않는다."
+  },
+  "retrievalMethod": "Direct page relevant sections read; short excerpt transcribed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

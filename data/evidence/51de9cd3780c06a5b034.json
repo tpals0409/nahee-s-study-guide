@@ -1,0 +1,21 @@
+{
+  "id": "51de9cd3780c06a5b034",
+  "kind": "science",
+  "source": "Endotext",
+  "ref": "Hyperglycemic Crises: Diabetic Ketoacidosis and Hyperglycemic Hyperosmolar State (2021)",
+  "url": "https://endotext.org/wp-content/uploads/pdfs/hyperglycemic-crises-diabetic-ketoacidosis-dka-and-hyperglycemic.pdf",
+  "excerpt": "Osmotic diuresis and ketonuria also promote a total body sodium deficit via urinary losses",
+  "sourceHash": "c8f6e4f2f062eb89b72b7adf8036ade9dfd5fb1ebf4d73929155a47376866db0",
+  "cacheSourceId": "e0eff51ed1453452dbcf",
+  "retrievedAt": "2026-11-06T21:57:57.779943+00:00",
+  "reviewedMappings": {
+    "2018-3-22:0": "원출판사 저자 장 PDF 병태생리와 케톤생성(p4), 수분·Na 손실(p10), 혼합 산염기 장애 설명을 직접 검토. 심한 인슐린결핍의 전형적 변화와 각 선지를 대조하여 pH 증가②만 반대 방향.",
+    "2018-3-22:1": "p4 KETOGENESIS: 지방분해의 FFA가 간 케톤체 생성 기질이며 insulinopenia/길항호르몬 변화가 촉진. 불필요한 효소 세부와 모든 케톤체가 산이라는 일반화 제거.",
+    "2018-3-22:2": "p4 케톤산 생성이 완충능력을 넘으면 high anion gap metabolic acidosis. pH 증가 선지는 전형적 경과와 반대. 실제 모든 환자의 pH를 단정하지 않으며 혼합 장애 가능성 명시.",
+    "2018-3-22:3": "p10 glucose-mediated osmotic diuresis가 수분 결핍의 주원인이라는 문단: 소변 수분 손실 증가를 지지. 불필요한 고정 신장역치 수치 제외.",
+    "2018-3-22:4": "p4 insulinopenia와 catecholamines가 지방조직 triglyceride breakdown 촉진. 지방 분해 증가 선지 지지.",
+    "2018-3-22:5": "p10 직접 인용: 삼투성 이뇨·케톤뇨가 urinary sodium losses 및 total-body deficit 야기. 혈중농도와 배설량을 구분."
+  },
+  "retrievalMethod": "Direct publisher PDF opened; pathogenesis/ketogenesis p4 and water/sodium losses p10 reviewed; selected verbatim excerpt retained",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

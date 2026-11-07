@@ -1,0 +1,17 @@
+{
+  "id": "23671517192793809087",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "4.6 Connections between Cells and Cellular Activities",
+  "url": "https://openstax.org/books/biology-2e/pages/4-6-connections-between-cells-and-cellular-activities",
+  "excerpt": "Collagen fibers are interwoven with proteoglycans,",
+  "sourceHash": "59bffb3fe8bcbbc750736abd0e0688548ebcd3e22a641f08167f39b314aa25b0",
+  "cacheSourceId": "bc1768cdc51bf8c8eae9",
+  "retrievedAt": "2026-11-06T20:26:55.122596+00:00",
+  "reviewedMappings": {
+    "2016-3-21:0": "본문31–35 동물 세포외기질 콜라겐과 세포안 미세섬유를 구분.",
+    "2016-3-21:1": "콜라겐은 동물 세포외기질 섬유성 단백질로 세포내 세포골격 필라멘트의 중합 단위가 아님."
+  },
+  "retrievalMethod": "Direct web open; extracellular matrix section reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

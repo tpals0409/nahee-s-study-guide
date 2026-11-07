@@ -1,0 +1,21 @@
+{
+  "id": "e76c53c85c966498fe51",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume 1, 10.5 Calculating Moments of Inertia",
+  "url": "https://openstax.org/books/university-physics-volume-1/pages/10-5-calculating-moments-of-inertia",
+  "excerpt": "the moment of inertia for any object depends on the chosen axis",
+  "sourceHash": "52d9e979fc72d909a2432675147bff3d6cad38f3097063b225758c479a8a2a5a",
+  "cacheSourceId": "19307028d9da1cff6710",
+  "retrievedAt": "2026-11-06T23:51:04.246253+00:00",
+  "reviewedMappings": {
+    "2021-3-04:0": "I=integral(r²dm) gives ring inertia mR² and additive combined inertia; use given sphere inertia 2MR²/5. Solving gives M/m=5/6.",
+    "2021-3-04:1": "I=integral(r²dm) gives ring inertia mR² and additive combined inertia; use given sphere inertia 2MR²/5. Option M/m=3/5 yields inertia ratio 31/6; compare with required 4.",
+    "2021-3-04:2": "I=integral(r²dm) gives ring inertia mR² and additive combined inertia; use given sphere inertia 2MR²/5. Option M/m=5/6 yields inertia ratio 4; compare with required 4.",
+    "2021-3-04:3": "I=integral(r²dm) gives ring inertia mR² and additive combined inertia; use given sphere inertia 2MR²/5. Option M/m=6/5 yields inertia ratio 37/12; compare with required 4.",
+    "2021-3-04:4": "I=integral(r²dm) gives ring inertia mR² and additive combined inertia; use given sphere inertia 2MR²/5. Option M/m=5/4 yields inertia ratio 3; compare with required 4.",
+    "2021-3-04:5": "I=integral(r²dm) gives ring inertia mR² and additive combined inertia; use given sphere inertia 2MR²/5. Option M/m=5/3 yields inertia ratio 5/2; compare with required 4."
+  },
+  "retrievalMethod": "Original exam figure reviewed: sphere and horizontal thin ring rotate about the same vertical central axis in place, not rolling. Direct OpenStax 10.8 lines 48–75 and 99–105 reviewed for torque work and rotational kinetic energy; 10.5 lines 32–49 for I=integral(r² dm). Ring elements all have radius R, giving mR²; integral additivity gives combined inertia. Sphere formula supplied in exam. Independently verified I_b/I_a=4 from equal work and angular speeds 2omega/omega, and all five mass-ratio substitutions with exact fractions.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,85 @@
+{
+  "id": "2022-3-36",
+  "summary": "정답은 ④, ㄴ·ㄷ입니다. 그림에서 A는 대류권, B는 성층권입니다. 대류권계면은 일반적으로 적도에서 높고 극에서 낮으므로 ㄱ은 틀립니다. 구름·비 등 대부분의 기상현상은 대류권에서 일어나며, 성층권에서는 오존의 자외선 흡수로 기온이 높이에 따라 상승합니다.",
+  "choices": [
+    "① 오답입니다. ㄱ은 대류권계면 높이의 위도별 경향을 반대로 설명했습니다. 일반적으로 적도에서 높고 극에서 낮습니다.",
+    "② 오답입니다. ㄴ은 옳습니다. A는 대류권으로, 대기 중 수증기 대부분이 존재하며 구름·비 등 대부분의 기상현상이 일어납니다. 그러나 ㄷ도 옳으므로 ㄴ만으로는 부족합니다.",
+    "③ 오답입니다. ㄷ은 옳지만 ㄱ은 틀립니다. 성층권의 오존은 자외선을 흡수하지만, 대류권계면은 적도에서 낮고 극에서 높은 것이 아닙니다.",
+    "④ 정답입니다. 지표에서 약 10 km까지의 A는 대류권이므로 ㄴ이 옳습니다. 그 위 약 50 km까지의 B는 성층권이며 오존의 자외선 흡수가 고도에 따른 기온 상승을 설명하므로 ㄷ도 옳습니다. 높이는 제시된 그림 기준입니다.",
+    "⑤ 오답입니다. ㄴ·ㄷ은 옳지만 ㄱ은 틀립니다. 대류권계면이 적도에서 높고 극에서 낮다는 일반적인 경향과 반대되는 ㄱ을 포함했기 때문입니다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "NASA / Alan Buis",
+      "ref": "Earth’s Atmosphere: A Multi-layered Cake",
+      "quote": "with its height lower at Earth’s poles and higher at the equator.",
+      "url": "https://science.nasa.gov/earth/earth-atmosphere/earths-atmosphere-a-multi-layered-cake/",
+      "evidenceId": "5277a0b970e31f9606af",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "NASA / Alan Buis",
+      "ref": "Earth’s Atmosphere: A Multi-layered Cake",
+      "quote": "with its height lower at Earth’s poles and higher at the equator.",
+      "url": "https://science.nasa.gov/earth/earth-atmosphere/earths-atmosphere-a-multi-layered-cake/",
+      "evidenceId": "5277a0b970e31f9606af",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "NASA / Alan Buis",
+      "ref": "Earth’s Atmosphere: A Multi-layered Cake",
+      "quote": "with its height lower at Earth’s poles and higher at the equator.",
+      "url": "https://science.nasa.gov/earth/earth-atmosphere/earths-atmosphere-a-multi-layered-cake/",
+      "evidenceId": "5277a0b970e31f9606af",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "NASA / Alan Buis",
+      "ref": "Earth’s Atmosphere: A Multi-layered Cake",
+      "quote": "with its height lower at Earth’s poles and higher at the equator.",
+      "url": "https://science.nasa.gov/earth/earth-atmosphere/earths-atmosphere-a-multi-layered-cake/",
+      "evidenceId": "5277a0b970e31f9606af",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "NASA / Alan Buis",
+      "ref": "Earth’s Atmosphere: A Multi-layered Cake",
+      "quote": "with its height lower at Earth’s poles and higher at the equator.",
+      "url": "https://science.nasa.gov/earth/earth-atmosphere/earths-atmosphere-a-multi-layered-cake/",
+      "evidenceId": "5277a0b970e31f9606af",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "NASA / Alan Buis",
+      "ref": "Earth’s Atmosphere: A Multi-layered Cake",
+      "quote": "with its height lower at Earth’s poles and higher at the equator.",
+      "url": "https://science.nasa.gov/earth/earth-atmosphere/earths-atmosphere-a-multi-layered-cake/",
+      "evidenceId": "5277a0b970e31f9606af",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Original atmospheric-temperature diagram checked against direct NASA layer descriptions; removed fixed global tropopause heights and unconditional convection claim from decreasing temperature alone; weather phrasing scoped to most phenomena.",
+    "contentHash": "df2a7fec66985d12a9ca56df891800748b29fe2faf928547f9d2ed84084b6d98"
+  }
+}

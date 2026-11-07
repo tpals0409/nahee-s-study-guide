@@ -1,0 +1,52 @@
+{
+  "summary": "동물의 전형적인 miRNA 경로에서 전구체는 세포질로 이동한 뒤 Dicer에 의해 절단됩니다. 성숙한 한 가닥은 RISC에 실려 표적 mRNA의 번역을 억제합니다. 따라서 ㄱ·ㄹ이 옳아 정답은 ③입니다.",
+  "choices": [
+    "ㄱ은 옳지만 ㄴ은 틀립니다. 헤어핀 전구체와 달리, 기능하는 성숙 miRNA는 RISC에 실린 한 가닥입니다.",
+    "ㄱ·ㄹ은 옳지만 ㄷ은 틀립니다. 전형적 경로의 Dicer 가공은 세포질에서 진행되므로 핵 안에서 완료되지 않습니다.",
+    "ㄱ·ㄹ이 맞습니다. Dicer의 전구체 절단과 miRNA의 표적 mRNA 번역 억제를 설명합니다.",
+    "ㄴ·ㄷ 모두 틀립니다. 성숙 miRNA와 헤어핀 전구체를 구별해야 하며, 가공은 세포질에서도 진행됩니다.",
+    "ㄹ은 옳지만 ㄷ은 틀립니다. 또한 옳은 ㄱ을 빠뜨렸습니다."
+  ],
+  "lawNote": "전형적인 동물 경로를 기준으로 판단합니다. Dicer를 거치지 않는 예외도 있으므로 모든 miRNA의 필수 과정으로 일반화하지 않습니다. 번역 억제 외에 표적 mRNA 분해도 가능합니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "Thomas Jefferson University Computational Medicine Center",
+      "ref": "DNA and RNA — RNA interference; miRNA biogenesis and function",
+      "quote": "into the cytoplasm, where it is further processed by Dicer",
+      "url": "https://cm.jefferson.edu/learn/dna-and-rna/",
+      "evidenceId": "6c4004b57b7b340e22b3",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "Thomas Jefferson University Computational Medicine Center",
+      "ref": "DNA and RNA — RNA interference; miRNA biogenesis and function",
+      "quote": "either via degradation or translational inhibition",
+      "url": "https://cm.jefferson.edu/learn/dna-and-rna/",
+      "evidenceId": "6bad7cda932b13d96952",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "Thomas Jefferson University Computational Medicine Center",
+      "ref": "DNA and RNA — RNA interference; miRNA biogenesis and function",
+      "quote": "single-stranded",
+      "url": "https://cm.jefferson.edu/learn/dna-and-rna/",
+      "evidenceId": "f178976047b64afde8e0",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "원본 2012-3-22.webp의 보기·선지 대조. Jefferson 연구센터 자료의 canonical/alternative 경로와 기능 절 직접 검토. 동물의 전형적 경로로 범위를 한정하고 3′UTR 전용·Dicer 필수 일반화를 제거. ㄱ·ㄹ 및 저장 정답③ 일치.",
+    "contentHash": "a16ac7f5bac795ffc4c480442ccf80fa4a95c376f3072f4c75c222dfe9cddaec"
+  }
+}

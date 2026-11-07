@@ -1,0 +1,21 @@
+{
+  "id": "39c1813e0976fb4afe26",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "3.3 Alkyl Groups",
+  "url": "https://openstax.org/books/organic-chemistry/pages/3-3-alkyl-groups",
+  "excerpt": "Two 3-carbon alkyl groups and four 4-carbon alkyl groups are possible",
+  "sourceHash": "0091bef67f26a47972ea55c98889d84016769aa824f8b186f572a308d0c33aba",
+  "cacheSourceId": "7cb92415327f4001fb6f",
+  "retrievedAt": "2026-11-06T22:28:43.585629+00:00",
+  "reviewedMappings": {
+    "2019-3-12:0": "Ether linkage and alkyl-group structures support exhaustive partition count: methyl+butyl gives four, ethyl+propyl gives two, total six.",
+    "2019-3-12:1": "Option value 3 compared with independently enumerated total 4+2=6; incorrect.",
+    "2019-3-12:2": "Option value 4 compared with independently enumerated total 4+2=6; incorrect.",
+    "2019-3-12:3": "Option value 5 compared with independently enumerated total 4+2=6; incorrect.",
+    "2019-3-12:4": "Option value 6 compared with independently enumerated total 4+2=6; correct.",
+    "2019-3-12:5": "Option value 7 compared with independently enumerated total 4+2=6; incorrect."
+  },
+  "retrievalMethod": "Direct web open lines 24–37: methyl/ethyl, two propyl and four butyl attachment structures. Independently enumerated unordered carbon partitions 1+4 and 2+3; four plus two distinct connectivities. Formula has zero unsaturation.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

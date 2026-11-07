@@ -1,0 +1,16 @@
+{
+  "id": "99f4e123325ee0eddb65",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e: RNA Processing in Eukaryotes",
+  "url": "https://openstax.org/books/biology-2e/pages/15-4-rna-processing-in-eukaryotes",
+  "excerpt": "introns must be precisely removed and exons joined",
+  "sourceHash": "9bfb8edb5738fddeca7d4789dc5aaf0e6398510f4b1274a11bc828542e5a7191",
+  "cacheSourceId": "9b1298c79ebe01bd01cb",
+  "retrievedAt": "2026-11-07T02:41:51.304769+00:00",
+  "reviewedMappings": {
+    "2024-3-27:4": "Direct pre-mRNA processing text and Figure 15.11 explicitly show introns in primary transcript and their removal; not the erroneous exon-removal alt text in section 15.1."
+  },
+  "retrievalMethod": "Direct pre-mRNA processing text and Figure 15.11 explicitly show introns in primary transcript and their removal; not the erroneous exon-removal alt text in section 15.1.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

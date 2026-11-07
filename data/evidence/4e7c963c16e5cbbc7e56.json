@@ -1,0 +1,14 @@
+{
+  "id": "4e7c963c16e5cbbc7e56",
+  "kind": "science",
+  "source": "OpenStax · University Physics Volume 1",
+  "ref": "10.7 Newton’s Second Law for Rotation",
+  "url": "https://openstax.org/books/university-physics-volume-1/pages/10-7-newtons-second-law-for-rotation",
+  "excerpt": "τ=Iα.",
+  "sourceHash": "e6a945cf225481d38523f754259ffa6027e4ad72125683c544ac0d57c633f711",
+  "cacheSourceId": "806084e904b34cd65329",
+  "retrievedAt": "2026-11-06T14:47:38.800185+00:00",
+  "reviewedMappings": {
+    "2010-3-02:0": "원본에서 세 힘 모두 최하단 접선 방향, 지레팔 R. 따라서 τ=FR이며 α=FR/I. 같은 돌림힘에서 관성모멘트 역순으로 각가속도 비교."
+  }
+}

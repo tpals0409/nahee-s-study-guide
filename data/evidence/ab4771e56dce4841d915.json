@@ -1,0 +1,16 @@
+{
+  "id": "ab4771e56dce4841d915",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "OpenStax Anatomy and Physiology §17.9 The Endocrine Pancreas",
+  "url": "https://openstax.org/books/anatomy-and-physiology/pages/17-9-the-endocrine-pancreas",
+  "excerpt": "Excessive blood glucose draws water into the urine",
+  "sourceHash": "acf7296820a4d768ffb5ea7c8a08ec8d15825b15e2f6bdf84c898f62eb8e2d02",
+  "cacheSourceId": "79cf6f9461fdf17084a3",
+  "retrievedAt": "2026-11-06T18:08:19.233690+00:00",
+  "reviewedMappings": {
+    "2013-3-21:0": "§17.9 β세포 인슐린분비, Table17.7 인슐린 혈당하강/글루카곤 혈당상승, 당뇨와 다뇨 문단 대조. 간에 수용체가 없다는 해당 교재의 부정확한 문장은 채택하지 않고 Endotext와 교차검증."
+  },
+  "retrievalMethod": "web.open",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

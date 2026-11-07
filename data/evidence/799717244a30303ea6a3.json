@@ -1,0 +1,20 @@
+{
+  "id": "799717244a30303ea6a3",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e 42.3 Antibodies",
+  "url": "https://openstax.org/books/biology-2e/pages/42-3-antibodies",
+  "excerpt": "typically plasma cells first secrete IgM into the blood.",
+  "sourceHash": "67a78803bc2539029ccbcd2411b996babedaac737a30a15ba47666b924f8adab",
+  "cacheSourceId": "3787c079f9c8a2d36e26",
+  "retrievedAt": "2026-11-07T06:01:49.204756+00:00",
+  "reviewedMappings": {
+    "2022-3-24:0": "Direct line 43 supports statement ㄱ / early IgM response; does not decide ㄴ.",
+    "2022-3-24:1": "Direct line 43 supports statement ㄱ / early IgM response; does not decide ㄴ.",
+    "2022-3-24:2": "Direct line 43 supports statement ㄱ / early IgM response; does not decide ㄴ.",
+    "2022-3-24:4": "Direct line 43 supports statement ㄱ / early IgM response; does not decide ㄴ.",
+    "2022-3-24:5": "Direct line 43 supports statement ㄱ / early IgM response; does not decide ㄴ."
+  },
+  "retrievalMethod": "web open, direct page text",
+  "sourceHashScope": "Short reviewed excerpt only"
+}

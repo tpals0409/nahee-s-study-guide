@@ -1,0 +1,19 @@
+{
+  "id": "36f0e14f909d76c29209",
+  "kind": "science",
+  "source": "U.S. Geological Survey",
+  "ref": "Geologic time table based on the 2016 International Chronostratigraphic Chart",
+  "url": "https://pubs.usgs.gov/ds/1052/ds20171052_appendix3.pdf",
+  "excerpt": "Cenozoic",
+  "sourceHash": "5eaccb787f7819cce7bafc60b5f98eb49ab5af7fc5ef57627c6568b238485f91",
+  "cacheSourceId": "9b0fafca0945541dc8fb",
+  "retrievedAt": "2026-11-06T20:43:30.501943+00:00",
+  "reviewedMappings": {
+    "2016-3-35:0": "검색에 추출된 표에서 Cenozoic은 0~66 Ma. D는 200~300 Ma이므로 신생대에 속하지 않는다.",
+    "2016-3-35:2": "신생대 0~66 Ma와 D의 200~300 Ma가 겹치지 않아 ㄷ은 거짓.",
+    "2016-3-35:4": "ㄷ의 신생대 제3기라는 시대 배정을 배제.",
+    "2016-3-35:5": "ㄷ이 거짓이므로 세 진술을 모두 고르는 조합은 틀림."
+  },
+  "retrievalMethod": "Indexed PDF table excerpt reviewed: Phanerozoic / Cenozoic / 0 / 66. Full PDF not opened.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

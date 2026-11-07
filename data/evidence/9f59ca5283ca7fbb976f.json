@@ -1,0 +1,16 @@
+{
+  "id": "9f59ca5283ca7fbb976f",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 2e §16.4 Free Energy: Temperature Dependence of Spontaneity",
+  "url": "https://openstax.org/books/chemistry-2e/pages/16-4-free-energy",
+  "excerpt": "the value of T for which ΔG is zero",
+  "sourceHash": "f24133d81bbc85ddd1d4ec65b4026de109e487f7f47fbdef8eb4be3a18f164d4",
+  "cacheSourceId": "ed48af34ce99251929a1",
+  "retrievedAt": "2026-11-06T16:31:50.702862+00:00",
+  "reviewedMappings": {
+    "2011-3-20:0": "원본 표의 엔탈피0,−810,0과 엔트로피30,90,200 및 반응계수2→4+3 확인. 생성물−반응물 합으로 ΔH=1620kJ,ΔS=540J/K=.540kJ/K. ΔG=ΔH−TΔS와 경계T=ΔH/ΔS 근거에 따라3000K. 각온도의 ΔG810,540,270,0,−270kJ 독립검산. 표준상태 모형의 경계와 엄밀한 자발조건T>3000 구분."
+  },
+  "retrievalMethod": "web.run; Gibbs relation and threshold temperature derivation reviewed",
+  "sourceHashScope": "Selected excerpt only; not full page"
+}

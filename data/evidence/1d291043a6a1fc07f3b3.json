@@ -1,0 +1,18 @@
+{
+  "id": "1d291043a6a1fc07f3b3",
+  "kind": "science",
+  "source": "Monterey Bay Aquarium Research Institute",
+  "ref": "Gulf of California 2015, Leg 5 – Volcanoes and Seamounts – Log 4",
+  "url": "https://www.mbari.org/news/gulf-of-california-2015-leg-5-volcanoes-and-seamounts-log-4/",
+  "excerpt": "rhyolite lava is significantly cooler (about 800 degrees Celsius), pasty, and thick, with high silica content.",
+  "sourceHash": "02c46cbd112f9836c61bd3ba0376893c495221e59585afaaed9bfb3b2fe9e118",
+  "cacheSourceId": "f450fa618d0be2c9fce8",
+  "retrievedAt": "2026-11-06T19:56:53.969971+00:00",
+  "reviewedMappings": {
+    "2015-3-35:0": "탐사 기록 129–130행은 현무암질 용암의 약 1100–1200°C 및 유동성과 유문암질 용암의 약 800°C 및 높은 점성을 대비한다. 표의 염기성–산성 마그마 일반 비교에서 ②는 거짓, ③은 참이다. 모든 마그마의 온도가 이 수치로 고정된다고 해석하지 않는다.",
+    "2015-3-35:2": "탐사 기록 129–130행은 현무암질 용암의 약 1100–1200°C 및 유동성과 유문암질 용암의 약 800°C 및 높은 점성을 대비한다. 표의 염기성–산성 마그마 일반 비교에서 ②는 거짓, ③은 참이다. 모든 마그마의 온도가 이 수치로 고정된다고 해석하지 않는다.",
+    "2015-3-35:3": "탐사 기록 129–130행은 현무암질 용암의 약 1100–1200°C 및 유동성과 유문암질 용암의 약 800°C 및 높은 점성을 대비한다. 표의 염기성–산성 마그마 일반 비교에서 ②는 거짓, ③은 참이다. 모든 마그마의 온도가 이 수치로 고정된다고 해석하지 않는다."
+  },
+  "retrievalMethod": "Direct web open; relevant text reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

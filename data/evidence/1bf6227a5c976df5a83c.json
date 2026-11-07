@@ -1,0 +1,20 @@
+{
+  "id": "1bf6227a5c976df5a83c",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Astronomy 2e — 2.1 The Sky Above",
+  "url": "https://openstax.org/books/astronomy-2e/pages/2-1-the-sky-above",
+  "excerpt": "the sky appears to turn in the opposite direction around those celestial poles",
+  "sourceHash": "8de38cde0eaee87c13a8db60eaa1321ac9c05ea1483d6f5e6f5863926af7582c",
+  "cacheSourceId": "8a3ae2f01818da30349f",
+  "retrievedAt": "2026-11-06T20:49:20.328640+00:00",
+  "reviewedMappings": {
+    "2016-3-40:0": "본문은 별의 일주 겉보기 운동을 지구 자전, 태양의 연간 황도상 운동을 지구 공전으로 설명. ㄱ만 자전 결과.",
+    "2016-3-40:1": "ㄱ 참: 지구가 축을 중심으로 회전하므로 하늘은 반대 방향으로 도는 것처럼 보임.",
+    "2016-3-40:3": "ㄱ은 자전 효과이나 ㄷ은 배경 별에 대한 태양 위치의 연간 변화로 공전 효과. 잘못된 조합.",
+    "2016-3-40:4": "ㄷ의 원인은 공전이며 자전 결과인 ㄱ이 빠짐.",
+    "2016-3-40:5": "ㄷ은 공전 효과여서 모든 보기를 자전 효과로 묶을 수 없음."
+  },
+  "retrievalMethod": "Direct web open; daily/annual motion or annual parallax sections reviewed.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

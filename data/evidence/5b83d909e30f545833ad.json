@@ -1,0 +1,18 @@
+{
+  "id": "5b83d909e30f545833ad",
+  "kind": "science",
+  "source": "OpenStax · Biology 2e",
+  "ref": "15.2 Prokaryotic Transcription",
+  "url": "https://openstax.org/books/biology-2e/pages/15-2-prokaryotic-transcription",
+  "excerpt": "Prokaryotes use the same RNA polymerase to transcribe all of their genes.",
+  "sourceHash": "8faaff190e44c55af1a9c9ac706274705389a8c5c61a72af44ecb4b39c85bed6",
+  "cacheSourceId": "3ba307215196be1c0199",
+  "retrievedAt": "2026-11-07T01:09:44.367628+00:00",
+  "reviewedMappings": {
+    "2010-3-24:2": "전사용 RNA polymerase 기능을 확인하고 복제 프라이머 합성 효소 결손과 전사 전체 억제를 구분.",
+    "2022-3-25:0": "E. coli transcription uses a single transcription RNA polymerase; scope excludes replication primase and avoids archaea-wide claims.",
+    "2022-3-25:1": "E. coli transcription uses a single transcription RNA polymerase; scope excludes replication primase and avoids archaea-wide claims."
+  },
+  "retrievalMethod": "Direct web read of relevant text and table; original problem image inspected",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

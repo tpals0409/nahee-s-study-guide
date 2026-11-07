@@ -1,0 +1,21 @@
+{
+  "id": "9c02aefcad8ce06ae12e",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "11.3 Conservation of Angular Momentum",
+  "url": "https://openstax.org/books/university-physics-volume-1/pages/11-3-conservation-of-angular-momentum",
+  "excerpt": "if there is no net external torque around that point",
+  "sourceHash": "5b790ce144bcdbc19a290de3664d358e6b9c13cf593cff050cead9ffc6d8a6a5",
+  "cacheSourceId": "421d672e9dca4ecc9d61",
+  "retrievedAt": "2026-11-06T20:07:17.891180+00:00",
+  "reviewedMappings": {
+    "2016-3-03:0": "본문 31~44행. 축의 충격력은 축에 대한 모멘트가 없으며 충돌 동안 다른 외부 각충격량을 무시하는 모형에서 막대+입자 각운동량 보존. 충돌 후 정지이므로 초기 합도 0. 선운동량 보존을 대신 적용할 수 없다.",
+    "2016-3-03:1": "본문 31~44행. 축의 충격력은 축에 대한 모멘트가 없으며 충돌 동안 다른 외부 각충격량을 무시하는 모형에서 막대+입자 각운동량 보존. 충돌 후 정지이므로 초기 합도 0. 선운동량 보존을 대신 적용할 수 없다.",
+    "2016-3-03:2": "본문 31~44행. 축의 충격력은 축에 대한 모멘트가 없으며 충돌 동안 다른 외부 각충격량을 무시하는 모형에서 막대+입자 각운동량 보존. 충돌 후 정지이므로 초기 합도 0. 선운동량 보존을 대신 적용할 수 없다.",
+    "2016-3-03:3": "본문 31~44행. 축의 충격력은 축에 대한 모멘트가 없으며 충돌 동안 다른 외부 각충격량을 무시하는 모형에서 막대+입자 각운동량 보존. 충돌 후 정지이므로 초기 합도 0. 선운동량 보존을 대신 적용할 수 없다.",
+    "2016-3-03:4": "본문 31~44행. 축의 충격력은 축에 대한 모멘트가 없으며 충돌 동안 다른 외부 각충격량을 무시하는 모형에서 막대+입자 각운동량 보존. 충돌 후 정지이므로 초기 합도 0. 선운동량 보존을 대신 적용할 수 없다.",
+    "2016-3-03:5": "본문 31~44행. 축의 충격력은 축에 대한 모멘트가 없으며 충돌 동안 다른 외부 각충격량을 무시하는 모형에서 막대+입자 각운동량 보존. 충돌 후 정지이므로 초기 합도 0. 선운동량 보존을 대신 적용할 수 없다."
+  },
+  "retrievalMethod": "web open: directly reviewed source text and equations in current conversation",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

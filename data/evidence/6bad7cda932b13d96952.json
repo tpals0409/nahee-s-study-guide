@@ -1,0 +1,21 @@
+{
+  "id": "6bad7cda932b13d96952",
+  "kind": "science",
+  "source": "Thomas Jefferson University Computational Medicine Center",
+  "ref": "DNA and RNA — RNA interference; miRNA biogenesis and function",
+  "url": "https://cm.jefferson.edu/learn/dna-and-rna/",
+  "excerpt": "either via degradation or translational inhibition",
+  "sourceHash": "8e2c07431479aae2e0cc7c91d8c4497400b060704c5b6080627f981786d162c6",
+  "cacheSourceId": "f20004c1a9708ce719a7",
+  "retrievedAt": "2026-11-06T17:23:37.728081+00:00",
+  "reviewedMappings": {
+    "2012-3-22:0": "RNA interference 절의 번역 억제·분해와 miRNA function 절 대조. ㄹ 참 및 조합 판단을 뒷받침.",
+    "2012-3-22:1": "RNA interference 절의 번역 억제·분해와 miRNA function 절 대조. ㄹ 참 및 조합 판단을 뒷받침.",
+    "2012-3-22:2": "RNA interference 절의 번역 억제·분해와 miRNA function 절 대조. ㄹ 참 및 조합 판단을 뒷받침.",
+    "2012-3-22:3": "RNA interference 절의 번역 억제·분해와 miRNA function 절 대조. ㄹ 참 및 조합 판단을 뒷받침.",
+    "2012-3-22:4": "RNA interference 절의 번역 억제·분해와 miRNA function 절 대조. ㄹ 참 및 조합 판단을 뒷받침.",
+    "2012-3-22:5": "RNA interference 절의 번역 억제·분해와 miRNA function 절 대조. ㄹ 참 및 조합 판단을 뒷받침."
+  },
+  "retrievalMethod": "web.open and web.find; reviewed RNA interference and canonical/alternative miRNA pathway sections",
+  "sourceHashScope": "Selected excerpts only; not full page"
+}

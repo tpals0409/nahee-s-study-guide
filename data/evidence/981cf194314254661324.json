@@ -1,0 +1,16 @@
+{
+  "id": "981cf194314254661324",
+  "kind": "science",
+  "source": "British Geological Survey",
+  "ref": "BGS — Trilobites",
+  "url": "https://www.bgs.ac.uk/discovering-geology/fossils-and-geological-time/trilobites/",
+  "excerpt": "They appeared abruptly in the early part of the Cambrian Period",
+  "sourceHash": "f5766e2972e505235249c7a81b6cc7a99b06fc6fa0d664153fe5a05806d7ca17",
+  "cacheSourceId": "b48beb77c9b882481b66",
+  "retrievedAt": "2026-11-06T17:42:25.868000+00:00",
+  "reviewedMappings": {
+    "2012-3-39:0": "ㄱ 삼엽충 화석의 초기 캄브리아기 출현."
+  },
+  "retrievalMethod": "web.open; relevant institutional page / author abstract directly reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

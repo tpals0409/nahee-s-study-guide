@@ -1,0 +1,20 @@
+{
+  "id": "c1f342280fdc8fed02b9",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 2e, 17.3 Electrode and Cell Potentials",
+  "url": "https://openstax.org/books/chemistry-2e/pages/17-3-electrode-and-cell-potentials",
+  "excerpt": "assigning it a potential of exactly 0 V",
+  "sourceHash": "eebae73efb773845038f6ed746c0567b17cc45ba18f88b5e925a42b9f509022f",
+  "cacheSourceId": "ce1cd0fffcdc21ecbb5e",
+  "retrievedAt": "2026-11-07T01:47:53.288805+00:00",
+  "reviewedMappings": {
+    "2023-3-19:0": "전체반응 A+2H+→A2++H2, n2. Q=0.01, E=E°−0.03logQ로 E°cell0.76 및 E°A−0.76. 다른조건유지pH3이면Q100,E0.70. ㄱ만참.",
+    "2023-3-19:1": "H+가 전자를 받아 H2로 환원되므로 산화제. E°A−0.76과 pH3 E0.70으로 ㄴㄷ거짓,①성립.",
+    "2023-3-19:2": "SHE표준전위0과 E°cell=E°환원−E°산화 및 Q보정으로 E°A−0.76V이므로 ㄴ거짓.",
+    "2023-3-19:4": "ㄴ−0.70V는 실제표준환원전위−0.76V와 다르고 ㄷ역시0.70V<0.76이라거짓.④불성립.",
+    "2023-3-19:5": "ㄱ참,ㄴㄷ거짓이므로⑤불성립. 비표준수소전극을0V로 놓지 않고 표준값과 실제값 구별."
+  },
+  "retrievalMethod": "Direct web open and indexed Nernst equation checked; SHE zero and half-cell subtraction definitions reviewed. Applied supplied 0.06 coefficient and atm convention.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

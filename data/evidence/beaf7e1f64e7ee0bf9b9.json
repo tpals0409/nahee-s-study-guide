@@ -1,0 +1,18 @@
+{
+  "id": "beaf7e1f64e7ee0bf9b9",
+  "kind": "science",
+  "source": "Journal of Experimental Medicine / PMC",
+  "ref": "Dawson (1930), The transformation of pneumococcal types I",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2131798/",
+  "excerpt": "apparently loses this property when heated for 15' at 100°C.",
+  "sourceHash": "110294263fd1b1c8802ad005f7e0d7defb9211393ec190d76e15075c8899c45a",
+  "cacheSourceId": "2cb4c6291ee3c1384dab",
+  "retrievedAt": "2026-11-07T05:49:54.186049+00:00",
+  "reviewedMappings": {
+    "2012-3-29:0": "ㄷ 가열 조건의 일반화 제한: TypeI은100°C15분에서 활성 소실, TypeII/III는 해당 조건에서 유지라는 원저 초록. 문제의30분·불특정 혈청형 결과를 직접 확정하지 않음.",
+    "2012-3-29:3": "ㄷ 가열 조건의 일반화 제한: TypeI은100°C15분에서 활성 소실, TypeII/III는 해당 조건에서 유지라는 원저 초록. 문제의30분·불특정 혈청형 결과를 직접 확정하지 않음.",
+    "2012-3-29:5": "ㄷ 가열 조건의 일반화 제한: TypeI은100°C15분에서 활성 소실, TypeII/III는 해당 조건에서 유지라는 원저 초록. 문제의30분·불특정 혈청형 결과를 직접 확정하지 않음."
+  },
+  "retrievalMethod": "Direct PMC original article abstract",
+  "sourceHashScope": "Selected short excerpt only; not full source"
+}

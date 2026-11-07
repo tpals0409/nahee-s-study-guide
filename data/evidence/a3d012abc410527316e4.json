@@ -1,0 +1,16 @@
+{
+  "id": "a3d012abc410527316e4",
+  "kind": "science",
+  "source": "Journal of Geophysical Research: Atmospheres / AGU",
+  "ref": "Lidar Observations of Instability and Estimates of Vertical Eddy Diffusivity Induced by Gravity Wave Breaking in the Arctic Mesosphere",
+  "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020JD033450",
+  "excerpt": "a layer of convective instability coincide with this overturning",
+  "sourceHash": "dd3e7e384a24d4014f23c422a1661e5d90a42bf5887c85a965e9f5c9584f7556",
+  "cacheSourceId": "4ccbc9bd9075581295db",
+  "retrievedAt": "2026-11-07T00:39:54.468875+00:00",
+  "reviewedMappings": {
+    "2021-3-39:4": "2018년 중간권 나트륨층 관측에서 overturning과 대류 불안정이 동반됨. 대류가 발생할 수 있다는 진술 지지. 중간권 전체가 항상 불안정하거나 기온 하강만으로 대류한다는 일반화는 제거."
+  },
+  "retrievalMethod": "Official publisher search excerpt of abstract reviewed; direct abstract URL returned 403. Abstract reports mesospheric sodium-layer overturning with coincident convective instability; first published 22 December 2020.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

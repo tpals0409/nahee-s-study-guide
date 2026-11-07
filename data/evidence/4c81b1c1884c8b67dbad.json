@@ -1,0 +1,16 @@
+{
+  "id": "4c81b1c1884c8b67dbad",
+  "kind": "science",
+  "source": "NOAA",
+  "ref": "Ocean Circulations — Great Ocean Conveyor",
+  "url": "https://www.noaa.gov/jetstream/ocean/circulations",
+  "excerpt": "This motion drives a slowly southward flowing deep-ocean current.",
+  "sourceHash": "70ca7eaa17d50ed6fe388e5f672b2d8b27cc496d5b6bb8583750272211223d55",
+  "cacheSourceId": "4fd1e62083d184765a50",
+  "retrievedAt": "2026-11-06T15:11:04.859603+00:00",
+  "reviewedMappings": {
+    "2009-3-34:0": "NOAA Ocean Circulations 원문64–71행 확인: 북대서양의 냉각·해빙결빙시염분배출·밀도증가·침강과느린심층흐름,1000–1200년재상승시간. 문제의 결빙조건은고위도,순환은느림. 특정시간을모든심층수에일반화하지않음.웹조회원문검증,캐시는짧은인용만보관."
+  },
+  "retrievalMethod": "web tool open; source lines64–71 inspected; urllib403",
+  "sourceHashScope": "reviewed excerpt only; hash is excerpt hash, not full article"
+}

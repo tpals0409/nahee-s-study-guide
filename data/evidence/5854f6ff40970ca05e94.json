@@ -1,0 +1,16 @@
+{
+  "id": "5854f6ff40970ca05e94",
+  "kind": "science",
+  "source": "MAUSAM",
+  "ref": "Srivastava et al. (2002), MAUSAM 53(4), 439–446",
+  "url": "https://mausamjournal.imd.gov.in/index.php/MAUSAM/article/view/1658",
+  "excerpt": "seasonal variations in tropopause height and temperature across each 5° latitude over India",
+  "sourceHash": "21446b1332bbe235156300dc903c353fd271371addedbd19c6d85bac386777e8",
+  "cacheSourceId": "91d7671f751c029a8df6",
+  "retrievedAt": "2026-11-06T17:41:11.122476+00:00",
+  "reviewedMappings": {
+    "2012-3-37:0": "공통 보기 대조: NOAA 열권 고도별 온도 상승과 대류권 두께의 위도 차이; NASA 성층권 오존 ppm 수준 및 15ppm=0.0015%; MAUSAM 2002 원저 초록의 대류권계면 높이 계절 변화 관측. 세 자료를 결합하여 ㄱㄴ 거짓, ㄷ 참 판단."
+  },
+  "retrievalMethod": "web.open; publisher abstract reviewed",
+  "sourceHashScope": "Selected abstract excerpt only; not full paper"
+}

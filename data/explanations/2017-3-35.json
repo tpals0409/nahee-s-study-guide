@@ -1,0 +1,97 @@
+{
+  "id": "2017-3-35",
+  "summary": "정답은 ④입니다. 같은 위도에서 다른 조건이 같다면 풍속이 커질수록 바람에 작용하는 전향력도 커집니다.",
+  "choices": [
+    "틀린 설명입니다. 같은 기압차를 나타내는 등압선의 간격이 좁으면 단위 거리당 기압 변화가 커집니다. 다른 조건이 같을 때 기압경도력은 작아지는 것이 아니라 커집니다.",
+    "틀린 설명입니다. 기압경도력은 등압선에 수직으로 고기압 쪽에서 저기압 쪽을 향합니다.",
+    "틀린 설명입니다. 북반구에서 수평으로 움직이는 공기에 작용하는 전향력은 진행 방향의 오른쪽입니다.",
+    "옳은 설명입니다. 같은 위도에서 풍속이 증가하면 전향력의 크기도 증가합니다. 위도를 바꾸는 비교와 구분해야 합니다.",
+    "틀린 설명입니다. 풍속이 같으면 전향력의 수평 성분은 저위도보다 고위도에서 커집니다. 감소한다는 서술은 반대입니다."
+  ],
+  "lawNote": "수평 바람에 대한 비교입니다. ①은 등압선 사이 기압차와 공기 밀도가 같다는 조건, ④는 위도 등 다른 조건이 같다는 조건에서 판단합니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "NOAA",
+      "ref": "Origin of Wind",
+      "quote": "Pressure gradient force extends from high pressure to low pressure.",
+      "url": "https://www.noaa.gov/jetstream/synoptic/origin-of-wind",
+      "evidenceId": "8376b056b9a9a7914ef0",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "NOAA",
+      "ref": "Origin of Wind",
+      "quote": "Pressure gradient force extends from high pressure to low pressure.",
+      "url": "https://www.noaa.gov/jetstream/synoptic/origin-of-wind",
+      "evidenceId": "8376b056b9a9a7914ef0",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "NOAA",
+      "ref": "Origin of Wind",
+      "quote": "Pressure gradient force extends from high pressure to low pressure.",
+      "url": "https://www.noaa.gov/jetstream/synoptic/origin-of-wind",
+      "evidenceId": "8376b056b9a9a7914ef0",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "Penn State",
+      "ref": "Getting a Handle on the Wind — METEO 3",
+      "quote": "the magnitude of the Coriolis force increases as speed increases.",
+      "url": "https://courses.ems.psu.edu/meteo3/node/2226",
+      "evidenceId": "187627f227a2feef1fe0",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "Penn State",
+      "ref": "Getting a Handle on the Wind — METEO 3",
+      "quote": "the magnitude of the Coriolis force increases as speed increases.",
+      "url": "https://courses.ems.psu.edu/meteo3/node/2226",
+      "evidenceId": "187627f227a2feef1fe0",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "Penn State",
+      "ref": "Getting a Handle on the Wind — METEO 3",
+      "quote": "the magnitude of the Coriolis force increases as speed increases.",
+      "url": "https://courses.ems.psu.edu/meteo3/node/2226",
+      "evidenceId": "187627f227a2feef1fe0",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "Penn State",
+      "ref": "Getting a Handle on the Wind — METEO 3",
+      "quote": "the magnitude of the Coriolis force increases as speed increases.",
+      "url": "https://courses.ems.psu.edu/meteo3/node/2226",
+      "evidenceId": "187627f227a2feef1fe0",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "Original image and NOAA/Penn State meteorology explanations reviewed; all choices compared",
+    "contentHash": "794f0ac6436e51020cb10c582938b2a9f0ff96e66d801a320a5130ca545a41c8"
+  }
+}

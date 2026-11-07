@@ -1,0 +1,19 @@
+{
+  "id": "ddf70f0ac9003905ecde",
+  "kind": "science",
+  "source": "Taipei Medical University research portal",
+  "ref": "Bergh et al. 2005, Endocrinology 146:2864–2871",
+  "url": "https://hub.tmu.edu.tw/en/publications/integrin-%CE%B1subvsub%CE%B2sub3sub-contains-a-cell-surface-receptor-site-f/",
+  "excerpt": "CV-1 cells lack nuclear thyroid hormone receptor",
+  "sourceHash": "91c7838cea94c08a0fb5f8e5f85a4ef9ebc95b4203f135da91857eba2ed7c335",
+  "cacheSourceId": "645242e363118a4d2da2",
+  "retrievedAt": "2026-11-07T05:16:11.556039+00:00",
+  "reviewedMappings": {
+    "2012-3-21:0": "저자 기관에 수록된 원저 초록 직접 확인: T4의 integrin αvβ3 결합과 핵 갑상샘호르몬 수용체가 없는 CV-1 세포의 MAPK 활성화 보고. ㄹ의 세포막 수용체 경로를 절대 부정할 수 없으며, 공식정답의 독립 확정 근거가 아니다.",
+    "2012-3-21:2": "저자 기관에 수록된 원저 초록 직접 확인: T4의 integrin αvβ3 결합과 핵 갑상샘호르몬 수용체가 없는 CV-1 세포의 MAPK 활성화 보고. ㄹ의 세포막 수용체 경로를 절대 부정할 수 없으며, 공식정답의 독립 확정 근거가 아니다.",
+    "2012-3-21:4": "저자 기관에 수록된 원저 초록 직접 확인: T4의 integrin αvβ3 결합과 핵 갑상샘호르몬 수용체가 없는 CV-1 세포의 MAPK 활성화 보고. ㄹ의 세포막 수용체 경로를 절대 부정할 수 없으며, 공식정답의 독립 확정 근거가 아니다.",
+    "2012-3-21:5": "저자 기관에 수록된 원저 초록 직접 확인: T4의 integrin αvβ3 결합과 핵 갑상샘호르몬 수용체가 없는 CV-1 세포의 MAPK 활성화 보고. ㄹ의 세포막 수용체 경로를 절대 부정할 수 없으며, 공식정답의 독립 확정 근거가 아니다."
+  },
+  "retrievalMethod": "Direct web open of author institutional publication record",
+  "sourceHashScope": "Selected short excerpt only; not full article"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "ecf10a03d100502153cb",
+  "kind": "science",
+  "source": "NOAA",
+  "ref": "Questions about the oceans",
+  "url": "https://library.oarcloud.noaa.gov/noaa_documents.lib/NESDIS/NODC/general_series/publication_G-13.pdf",
+  "excerpt": "Turbidity currents occur when sediments on the continental slope are dislodged by earthquakes and begin sliding down the slope.",
+  "sourceHash": "1754df55fc55e656cb86fa18586969d7ac1fb0558089975cfb4234baa10eb4c0",
+  "cacheSourceId": "d929f8847d5a475bfce6",
+  "retrievedAt": "2026-11-06T23:41:40.080484+00:00",
+  "reviewedMappings": {
+    "2020-3-37:0": "대륙사면에서 저탁류가 시작되어 아래로 흐르는 대표적 과정.",
+    "2020-3-37:1": "대륙사면 저탁류와 심해저평원까지 이어질 수 있는 운반을 직접 설명."
+  },
+  "retrievalMethod": "Official NOAA PDF search excerpt reviewed: continental-slope initiation, continued downslope entrainment, long-distance transport and abyssal-plain deposition. Full PDF not reviewed.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

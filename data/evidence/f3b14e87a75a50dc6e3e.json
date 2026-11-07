@@ -1,0 +1,18 @@
+{
+  "id": "f3b14e87a75a50dc6e3e",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Microbiology12.1 Microbes and the Tools of Genetic Engineering",
+  "url": "https://openstax.org/books/microbiology/pages/12-1-microbes-and-the-tools-of-genetic-engineering",
+  "excerpt": "mRNA must be used as a template by the retroviral enzyme reverse transcriptase to make complementary DNA (cDNA).",
+  "sourceHash": "24e58971b689bea702a6936301132cbab9adc4b2f0ae5f217f8526c7192df3ba",
+  "cacheSourceId": "811474940a2723f835a5",
+  "retrievedAt": "2026-11-07T04:05:39.609132+00:00",
+  "reviewedMappings": {
+    "2026-3-24:0": "Direct cDNA-from-mRNA and sticky/blunt restriction paragraphs support choices1 and5.",
+    "2026-3-24:1": "Direct cDNA-from-mRNA and sticky/blunt restriction paragraphs support choices1 and5.",
+    "2026-3-24:5": "Direct cDNA-from-mRNA and sticky/blunt restriction paragraphs support choices1 and5."
+  },
+  "retrievalMethod": "Direct web open",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

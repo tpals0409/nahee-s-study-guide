@@ -1,0 +1,16 @@
+{
+  "id": "b9ab4fafe83c7c09a0bc",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "OpenStax Chemistry 2e §12.5 Collision Theory",
+  "url": "https://openstax.org/books/chemistry-2e/pages/12-5-collision-theory",
+  "excerpt": "the energy difference between the reactants and the transition state",
+  "sourceHash": "fb3c0f283d59f31c51e450016cd5eceeef8c213bf3b230943a7920127a366c11",
+  "cacheSourceId": "886a8a00144df67b3542",
+  "retrievedAt": "2026-11-06T18:00:05.509120+00:00",
+  "reviewedMappings": {
+    "2013-3-15:0": "활성화에너지정의 및 농도상승시 충돌빈도 증가 문단 직접 대조. 동일 반응경로에서 A첨가가 에너지장벽 증가를 뜻하지 않음. 촉매만이 Ea변경가능하다는 초안 단정 삭제."
+  },
+  "retrievalMethod": "web.open and web.find; relevant equations and paragraphs directly reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

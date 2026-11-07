@@ -1,0 +1,21 @@
+{
+  "id": "ce98e632f7dca45524d3",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 2e, 21.2 Nuclear Equations",
+  "url": "https://openstax.org/books/chemistry-2e/pages/21-2-nuclear-equations",
+  "excerpt": "The sum of the mass numbers of the reactants equals the sum of the mass numbers of the products.",
+  "sourceHash": "d45c30534650e687984ad381bdc42f29364295be27296c15d28437afad6d9698",
+  "cacheSourceId": "70d3a690de6fec62cad6",
+  "retrievedAt": "2026-11-06T23:55:47.646450+00:00",
+  "reviewedMappings": {
+    "2021-3-10:0": "Neutron A=1, Z=0; helium A=4,Z=2. Balance mass numbers 2+x=5 gives x=3 and charges 1+1=2+0.",
+    "2021-3-10:1": "x=1 gives initial A sum 3 instead of 5.",
+    "2021-3-10:2": "x=2 gives initial A sum 4 instead of 5.",
+    "2021-3-10:3": "x=3 gives initial A sum 5 matching products; charge also balanced.",
+    "2021-3-10:4": "x=4 gives initial A sum 6 instead of 5.",
+    "2021-3-10:5": "x=5 gives initial A sum 7 instead of 5."
+  },
+  "retrievalMethod": "Original examination image checked: superscript x on H, helium-4 and one neutron on product side. Direct OpenStax Chemistry 2e 21.2 lines 30–34 and 44–48 reviewed: neutron mass number 1 and charge 0, helium nucleus mass number 4 and charge 2; mass-number and charge balancing. Independently balance 2+x=4+1 and 1+1=2+0. Removed unsupported auxiliary reaction branches, unstable isotope claims and unnecessary atomic mass data from draft.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "f94df10ee489376a42be",
+  "kind": "science",
+  "source": "경북동해안 국가지질공원",
+  "ref": "울릉도·독도 지질공원",
+  "url": "https://bdgeopark.kr/bbs/board.php?bo_table=m01_01_a&wr_id=28",
+  "excerpt": "우리나라 대표적인 신생대 화산섬",
+  "sourceHash": "9b651c43055f5fbb2199a8778e06077693011a86d7d5f1d60b804c99e24fc1b2",
+  "cacheSourceId": "119f87f900247c589909",
+  "retrievedAt": "2026-11-06T22:11:54.380534+00:00",
+  "reviewedMappings": {
+    "2018-3-34:0": "공룡 발자국·알의 중생대 육성 퇴적 맥락, 신생대 화산섬 및 고생대 필석을 비교하여 ㄱ만=①. 해당 출처의 환경 또는 시대 근거를 다른 연결 자료와 종합 적용.",
+    "2018-3-34:1": "ㄱ 육성층 참, ㄴ 섬 형성 시기 불일치, ㄷ 필석 시대 불일치로 ㄱ만 선택. 해당 출처의 환경 또는 시대 근거를 다른 연결 자료와 종합 적용.",
+    "2018-3-34:2": "공룡 화석층 중생대와 제주도·울릉도 화산섬 형성 신생대가 다르므로 ㄴ 거짓. 해당 출처의 환경 또는 시대 근거를 다른 연결 자료와 종합 적용.",
+    "2018-3-34:4": "육성층 ㄱ 참이나 섬 형성 시기 ㄴ 거짓. 해당 출처의 환경 또는 시대 근거를 다른 연결 자료와 종합 적용.",
+    "2018-3-34:5": "ㄴ 시기 불일치와 ㄷ 필석 시기 불일치로 둘 다 거짓. 해당 출처의 환경 또는 시대 근거를 다른 연결 자료와 종합 적용."
+  },
+  "retrievalMethod": "Search-indexed geopark description reviewed for Cenozoic volcanic-island classification; live page not opened. No precise formation date asserted.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

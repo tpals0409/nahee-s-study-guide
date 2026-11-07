@@ -1,0 +1,283 @@
+{
+  "id": "2023-3-14",
+  "summary": "아세틸렌의 C≡C는 σ결합1개와 π결합2개다(ㄱ). 공액 trans-폴리아세틸렌은 도핑으로 전도성을 크게 높이는 대표적인 전도성 고분자다(ㄴ). 통상적인 Hg²⁺/산 촉매 수화에서는 아세트알데하이드가 생성되어 약1730cm⁻¹의 강한 C=O 흡수를 보인다(ㄷ). 이 반응 조건으로 해석하면 정답은 ⑤이다.",
+  "choices": [
+    "오답. ㄱ은 옳지만 ㄴ·ㄷ도 포함해야 한다. 탄소간 삼중결합에는 π결합이2개 있다.",
+    "오답. ㄷ의 약1730cm⁻¹ 피크는 수화 생성물 아세트알데하이드의 C=O 신축에 해당한다. ㄱ·ㄴ도 옳다.",
+    "오답. ㄷ도 옳다. Hg²⁺/산 촉매 수화에서 생긴 엔올 CH₂=CHOH는 CH₃CHO로 호변이성화한다. 이 포화 알데하이드는 약1730cm⁻¹에서 강하게 흡수한다.",
+    "오답. ㄱ도 옳다. 각 탄소의 sp 오비탈로 σ결합이, 남은 두 p 오비탈로 서로 직교하는 두 π결합이 형성된다.",
+    "정답. ㄱ·ㄴ·ㄷ이 모두 옳다. 다만 ㄴ은 전도성 고분자라는 분류이며 높은 전도도에는 도핑이 중요하다. ㄷ은 통상 Hg²⁺를 함께 쓰는 산성 수화 조건을 뜻하며 산만으로 쉽게 수화된다는 의미는 아니다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 8.3 Multiple Bonds",
+      "quote": "one σ bond and two π bonds",
+      "url": "https://openstax.org/books/chemistry-2e/pages/8-3-multiple-bonds",
+      "evidenceId": "0972f8523b476a82a3a2",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 8.3 Multiple Bonds",
+      "quote": "one σ bond and two π bonds",
+      "url": "https://openstax.org/books/chemistry-2e/pages/8-3-multiple-bonds",
+      "evidenceId": "0972f8523b476a82a3a2",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 8.3 Multiple Bonds",
+      "quote": "one σ bond and two π bonds",
+      "url": "https://openstax.org/books/chemistry-2e/pages/8-3-multiple-bonds",
+      "evidenceId": "0972f8523b476a82a3a2",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 8.3 Multiple Bonds",
+      "quote": "one σ bond and two π bonds",
+      "url": "https://openstax.org/books/chemistry-2e/pages/8-3-multiple-bonds",
+      "evidenceId": "0972f8523b476a82a3a2",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 8.3 Multiple Bonds",
+      "quote": "one σ bond and two π bonds",
+      "url": "https://openstax.org/books/chemistry-2e/pages/8-3-multiple-bonds",
+      "evidenceId": "0972f8523b476a82a3a2",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Chemistry 2e, 8.3 Multiple Bonds",
+      "quote": "one σ bond and two π bonds",
+      "url": "https://openstax.org/books/chemistry-2e/pages/8-3-multiple-bonds",
+      "evidenceId": "0972f8523b476a82a3a2",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "NobelPrize.org",
+      "ref": "The Nobel Prize in Chemistry 2000: Advanced Information",
+      "quote": "polyacetylene, can be made conductive almost like a metal.",
+      "url": "https://www.nobelprize.org/uploads/2018/06/advanced-chemistryprize2000.pdf",
+      "evidenceId": "1fa2c270611eb89176a3",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "NobelPrize.org",
+      "ref": "The Nobel Prize in Chemistry 2000: Advanced Information",
+      "quote": "polyacetylene, can be made conductive almost like a metal.",
+      "url": "https://www.nobelprize.org/uploads/2018/06/advanced-chemistryprize2000.pdf",
+      "evidenceId": "1fa2c270611eb89176a3",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "NobelPrize.org",
+      "ref": "The Nobel Prize in Chemistry 2000: Advanced Information",
+      "quote": "polyacetylene, can be made conductive almost like a metal.",
+      "url": "https://www.nobelprize.org/uploads/2018/06/advanced-chemistryprize2000.pdf",
+      "evidenceId": "1fa2c270611eb89176a3",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "NobelPrize.org",
+      "ref": "The Nobel Prize in Chemistry 2000: Advanced Information",
+      "quote": "polyacetylene, can be made conductive almost like a metal.",
+      "url": "https://www.nobelprize.org/uploads/2018/06/advanced-chemistryprize2000.pdf",
+      "evidenceId": "1fa2c270611eb89176a3",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "NobelPrize.org",
+      "ref": "The Nobel Prize in Chemistry 2000: Advanced Information",
+      "quote": "polyacetylene, can be made conductive almost like a metal.",
+      "url": "https://www.nobelprize.org/uploads/2018/06/advanced-chemistryprize2000.pdf",
+      "evidenceId": "1fa2c270611eb89176a3",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "NobelPrize.org",
+      "ref": "The Nobel Prize in Chemistry 2000: Advanced Information",
+      "quote": "polyacetylene, can be made conductive almost like a metal.",
+      "url": "https://www.nobelprize.org/uploads/2018/06/advanced-chemistryprize2000.pdf",
+      "evidenceId": "1fa2c270611eb89176a3",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Organic Chemistry, 9.4 Hydration of Alkynes",
+      "quote": "Alkynes don’t react directly with aqueous acid",
+      "url": "https://openstax.org/books/organic-chemistry/pages/9-4-hydration-of-alkynes",
+      "evidenceId": "08bfda7f2c337addb8c5",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Organic Chemistry, 9.4 Hydration of Alkynes",
+      "quote": "Alkynes don’t react directly with aqueous acid",
+      "url": "https://openstax.org/books/organic-chemistry/pages/9-4-hydration-of-alkynes",
+      "evidenceId": "08bfda7f2c337addb8c5",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Organic Chemistry, 9.4 Hydration of Alkynes",
+      "quote": "Alkynes don’t react directly with aqueous acid",
+      "url": "https://openstax.org/books/organic-chemistry/pages/9-4-hydration-of-alkynes",
+      "evidenceId": "08bfda7f2c337addb8c5",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Organic Chemistry, 9.4 Hydration of Alkynes",
+      "quote": "Alkynes don’t react directly with aqueous acid",
+      "url": "https://openstax.org/books/organic-chemistry/pages/9-4-hydration-of-alkynes",
+      "evidenceId": "08bfda7f2c337addb8c5",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Organic Chemistry, 9.4 Hydration of Alkynes",
+      "quote": "Alkynes don’t react directly with aqueous acid",
+      "url": "https://openstax.org/books/organic-chemistry/pages/9-4-hydration-of-alkynes",
+      "evidenceId": "08bfda7f2c337addb8c5",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Organic Chemistry, 9.4 Hydration of Alkynes",
+      "quote": "Alkynes don’t react directly with aqueous acid",
+      "url": "https://openstax.org/books/organic-chemistry/pages/9-4-hydration-of-alkynes",
+      "evidenceId": "08bfda7f2c337addb8c5",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Organic Chemistry, 19.14 Spectroscopy of Aldehydes and Ketones",
+      "quote": "saturated aldehydes usually show carbonyl absorptions near 1730",
+      "url": "https://openstax.org/books/organic-chemistry/pages/19-14-spectroscopy-of-aldehydes-and-ketones",
+      "evidenceId": "7fe0912fb3fb0bb6d91d",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Organic Chemistry, 19.14 Spectroscopy of Aldehydes and Ketones",
+      "quote": "saturated aldehydes usually show carbonyl absorptions near 1730",
+      "url": "https://openstax.org/books/organic-chemistry/pages/19-14-spectroscopy-of-aldehydes-and-ketones",
+      "evidenceId": "7fe0912fb3fb0bb6d91d",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Organic Chemistry, 19.14 Spectroscopy of Aldehydes and Ketones",
+      "quote": "saturated aldehydes usually show carbonyl absorptions near 1730",
+      "url": "https://openstax.org/books/organic-chemistry/pages/19-14-spectroscopy-of-aldehydes-and-ketones",
+      "evidenceId": "7fe0912fb3fb0bb6d91d",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Organic Chemistry, 19.14 Spectroscopy of Aldehydes and Ketones",
+      "quote": "saturated aldehydes usually show carbonyl absorptions near 1730",
+      "url": "https://openstax.org/books/organic-chemistry/pages/19-14-spectroscopy-of-aldehydes-and-ketones",
+      "evidenceId": "7fe0912fb3fb0bb6d91d",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Organic Chemistry, 19.14 Spectroscopy of Aldehydes and Ketones",
+      "quote": "saturated aldehydes usually show carbonyl absorptions near 1730",
+      "url": "https://openstax.org/books/organic-chemistry/pages/19-14-spectroscopy-of-aldehydes-and-ketones",
+      "evidenceId": "7fe0912fb3fb0bb6d91d",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Organic Chemistry, 19.14 Spectroscopy of Aldehydes and Ketones",
+      "quote": "saturated aldehydes usually show carbonyl absorptions near 1730",
+      "url": "https://openstax.org/books/organic-chemistry/pages/19-14-spectroscopy-of-aldehydes-and-ketones",
+      "evidenceId": "7fe0912fb3fb0bb6d91d",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "원문 아세틸렌 구조·ㄱㄴㄷ 대조. OpenStax 결합·수화·IR 표와 Nobel 공식 자료의 검색 색인 본문을 확인. 도핑과 Hg²⁺촉매 조건을 명시해 초안의 무조건적 표현을 수정. 수화→엔올→아세트알데하이드의 구조 및 원자수 보존 독립 확인. ㄷ은 통상 수화 조건이라는 해석을 본문에 공개.",
+    "contentHash": "0e6b97492b1eddaf13bdb635812e576e6fea4c2ec6d0b470f7772f0dc78f83b4"
+  }
+}

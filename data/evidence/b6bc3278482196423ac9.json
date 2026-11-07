@@ -1,0 +1,21 @@
+{
+  "id": "b6bc3278482196423ac9",
+  "kind": "science",
+  "source": "OpenStax University Physics Volume 2",
+  "ref": "13.1 Faraday’s Law",
+  "url": "https://openstax.org/books/university-physics-volume-2/pages/13-1-faradays-law",
+  "excerpt": "the negative change in the magnetic flux",
+  "sourceHash": "d2dffaf5c4e73470a29d903abc875d8acdbd2326d3d4d96a844002aa3118cdd5",
+  "cacheSourceId": "5122a2ac6aefcb721896",
+  "retrievedAt": "2026-11-07T01:33:06.506525+00:00",
+  "reviewedMappings": {
+    "2023-3-07:0": "면 법선을+z로 정하고 왼쪽+BL(L−s),오른쪽−BLs를 합산. 부호반전으로 전체 변화크기2BL²이며 등속도이므로 미분값 일정.",
+    "2023-3-07:1": "면 법선을+z로 정하고 왼쪽+BL(L−s),오른쪽−BLs를 합산. 부호반전으로 전체 변화크기2BL²이며 등속도이므로 미분값 일정.",
+    "2023-3-07:2": "면 법선을+z로 정하고 왼쪽+BL(L−s),오른쪽−BLs를 합산. 부호반전으로 전체 변화크기2BL²이며 등속도이므로 미분값 일정.",
+    "2023-3-07:3": "면 법선을+z로 정하고 왼쪽+BL(L−s),오른쪽−BLs를 합산. 부호반전으로 전체 변화크기2BL²이며 등속도이므로 미분값 일정.",
+    "2023-3-07:4": "면 법선을+z로 정하고 왼쪽+BL(L−s),오른쪽−BLs를 합산. 부호반전으로 전체 변화크기2BL²이며 등속도이므로 미분값 일정.",
+    "2023-3-07:5": "면 법선을+z로 정하고 왼쪽+BL(L−s),오른쪽−BLs를 합산. 부호반전으로 전체 변화크기2BL²이며 등속도이므로 미분값 일정."
+  },
+  "retrievalMethod": "Direct chapter open; signed surface flux and Faraday equations 13.1–13.2.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

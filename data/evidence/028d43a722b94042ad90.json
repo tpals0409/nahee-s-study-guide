@@ -1,0 +1,21 @@
+{
+  "id": "028d43a722b94042ad90",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "OpenStax Biology 2e 19.3 Adaptive Evolution",
+  "url": "https://openstax.org/books/biology-2e/pages/19-3-adaptive-evolution",
+  "excerpt": "If natural selection favors an average phenotype, selecting against extreme variation, the population will undergo stabilizing selection",
+  "sourceHash": "dc23987d0cc5fbeb8e1827ca8eb65318f2240ade2c163b04676ca4e91998e5c9",
+  "cacheSourceId": "b8b4a88a655836df5d76",
+  "retrievedAt": "2026-11-07T05:18:10.849523+00:00",
+  "reviewedMappings": {
+    "2012-3-24:0": "35–36 평균 표현형 선호;38–40 방향성 이동;45–53 분단성 변이 증가. 대부분 종의 전체 진화속도 감소를 입증하지 않는다.",
+    "2012-3-24:1": "ㄴ·ㄷ은 자료가 지지하며 ㄱ만 고르는 것은 이를 빠뜨린다. ㄱ의 일반 진화속도 주장은 미확정.",
+    "2012-3-24:2": "교과서의 세 선택 모형을 설명하지만 ㄱ의 대부분 종·진화속도까지 직접 입증하지 않아 공식②의 무조건적 독립검증 근거는 아니다.",
+    "2012-3-24:3": "38–40의 방향성 선택은 ㄴ을 지지하므로 ㄴ을 제외하지 않는다.",
+    "2012-3-24:4": "ㄴ·ㄷ은 각각38–40과45–53이 지지한다. ㄱ의 포함 여부가 남은 쟁점이다.",
+    "2012-3-24:5": "ㄷ 외에 ㄴ도 지지되므로 ㄷ만 고르는 것은 부족하다."
+  },
+  "retrievalMethod": "Direct web open",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

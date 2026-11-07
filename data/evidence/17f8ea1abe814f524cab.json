@@ -1,0 +1,21 @@
+{
+  "id": "17f8ea1abe814f524cab",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e 42.3 Antibodies",
+  "url": "https://openstax.org/books/biology-2e/pages/42-3-antibodies",
+  "excerpt": "Antibodies synthesized by the mucosal immune system include IgA and IgM.",
+  "sourceHash": "79941f240a49221ec44beb7aefa1a9f072ac345d148e53a2e46d96bbb18a7583",
+  "cacheSourceId": "d26d14957701b93a98d4",
+  "retrievedAt": "2026-11-07T05:05:50.582695+00:00",
+  "reviewedMappings": {
+    "2022-3-24:0": "IgM초기분비와 점막IgM 존재를 함께 설명하여 ㄴ을 IgA독점으로 처리할 수 없음을 확인.",
+    "2022-3-24:1": "43행은 IgM이 초기 분비됨을 지지하지만71행은 ㄴ의 무조건적 배제를 막는다.",
+    "2022-3-24:2": "48·71행은 점막 IgM 분비와 방어를 지지한다. IgA의 우세가 IgM 부재를 뜻하지 않는다. ㄱ도 맞으므로 ㄴ만 선택한 조합은 불완전하다.",
+    "2022-3-24:3": "50행은 IgE의 대표적 알레르기 매개 역할을 설명한다. 모든 과민반응에서 IgM을 제외하는 근거로 쓰지 않는다.",
+    "2022-3-24:4": "43·71행의 IgM초기분비 및 점막방어를 함께 읽으면 ㄱㄴ 조합의 가능성이 있어 보류해야 한다.",
+    "2022-3-24:5": "43·50행의 IgM초기반응과 대표적 IgE알레르기 구분. 모든 과민반응에 대한 일반화는 하지 않는다."
+  },
+  "retrievalMethod": "Direct web open",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "ab37e12665de9470eca2",
+  "kind": "science",
+  "source": "UC San Diego / Lynne Talley",
+  "ref": "SIO 210: South Pacific subtropical circulation",
+  "url": "https://talleylab.ucsd.edu/ltalley/sio210/Wind_circulation_NAtl_SHem/index.html",
+  "excerpt": "The eastern boundary current is the Peru Current.",
+  "sourceHash": "7a5e9a42af9a57953e3138f254f148a5bf24591e11949d266a884ea910b5e3c3",
+  "cacheSourceId": "35028ff8eb32fbe25f5f",
+  "retrievedAt": "2026-11-07T02:08:49.138584+00:00",
+  "reviewedMappings": {
+    "2023-3-35:0": "South Pacific subtropical circulation 절에서 페루가 해당 아열대 환류의 동쪽 경계류임을 확인했다. 북대서양 subpolar circulation 절은 반시계 방향으로 명시되어 있어 일반 환류로의 과잉 일반화를 제거했다.",
+    "2023-3-35:2": "South Pacific subtropical circulation 절에서 페루가 해당 아열대 환류의 동쪽 경계류임을 확인했다. 북대서양 subpolar circulation 절은 반시계 방향으로 명시되어 있어 일반 환류로의 과잉 일반화를 제거했다."
+  },
+  "retrievalMethod": "Direct web open; reviewed relevant circulation sections",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

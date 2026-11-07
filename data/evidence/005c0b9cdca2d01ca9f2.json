@@ -1,0 +1,19 @@
+{
+  "id": "005c0b9cdca2d01ca9f2",
+  "kind": "science",
+  "source": "OCR / University of Cambridge Local Examinations Syndicate",
+  "ref": "G492/01 June 2016 Insert, Measuring the speed of sound, p.4",
+  "url": "https://www.ocr.org.uk/Images/409061-question-paper-unit-g492-01-understanding-processes-experimentation-and-data-handling-insert.pdf",
+  "excerpt": "which removes the need to measure or know the value for the end correction c.",
+  "sourceHash": "6195813461445363baabc825b157d249735121a570096ac799696f35b583c191",
+  "cacheSourceId": "325ebc2224e7f592be10",
+  "retrievedAt": "2026-11-07T04:30:47.560220+00:00",
+  "reviewedMappings": {
+    "2011-3-01:0": "끝보정소거와 반파장 간격에 원본14.2/44.2cm를 적용한다. 계산은별도Fraction검산.",
+    "2011-3-01:1": "반파장30cm로 파장0.6m를 얻고340m/s를 적용하면566.7Hz<600, ㄱ참.",
+    "2011-3-01:2": "동일반파장간격을 더해74.2cm>70이므로 ㄴ거짓.",
+    "2011-3-01:3": "ㄱ참·ㄴ거짓 계산으로 조합을 배제."
+  },
+  "retrievalMethod": "Direct web open",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

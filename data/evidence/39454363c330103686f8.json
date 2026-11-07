@@ -1,0 +1,19 @@
+{
+  "id": "39454363c330103686f8",
+  "kind": "science",
+  "source": "The Geological Society of London",
+  "ref": "Continental/Continental: The Himalayas",
+  "url": "https://www.geolsoc.org.uk/Plate-Tectonics/Chap3-Plate-Margins/Convergent/Continental-Collision.html",
+  "excerpt": "collision between the Indian Plate and Eurasian Plate",
+  "sourceHash": "25e226511993e5ea40c1cdb84f0f490a6ebcd359fdc2e4be8d79b3f75d53e8f7",
+  "cacheSourceId": "8d12f021e97e50888968",
+  "retrievedAt": "2026-11-07T01:15:23.835162+00:00",
+  "reviewedMappings": {
+    "2022-3-31:0": "Himalaya continental collision, not present oceanic-continental volcanic arc; read caveat on simplified figure and underthrust/subducted crust. Avoid absolute no-subduction/no-magma claim.",
+    "2022-3-31:3": "Himalaya continental collision, not present oceanic-continental volcanic arc; read caveat on simplified figure and underthrust/subducted crust. Avoid absolute no-subduction/no-magma claim.",
+    "2022-3-31:4": "Himalaya continental collision, not present oceanic-continental volcanic arc; read caveat on simplified figure and underthrust/subducted crust. Avoid absolute no-subduction/no-magma claim.",
+    "2022-3-31:5": "Himalaya continental collision, not present oceanic-continental volcanic arc; read caveat on simplified figure and underthrust/subducted crust. Avoid absolute no-subduction/no-magma claim."
+  },
+  "retrievalMethod": "Direct source page read; original problem image inspected",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

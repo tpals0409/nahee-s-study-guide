@@ -1,0 +1,85 @@
+{
+  "id": "2009-3-35",
+  "summary": "정답은⑤입니다. NGC1300은 막대나선은하로, 나선팔에서 별이 생성되며 젊은 별들이 관측됩니다. 질량 비교에서 헤일로는 암흑물질까지 포함하는 넓은 성분으로 해석하며, 중앙팽대부가 그보다 무겁다는 설명은 맞지 않습니다.",
+  "choices": [
+    "옳습니다. 원본 사진과 NASA 설명에서 중심을 가로지르는 막대 및 그 양 끝에서 뻗는 나선팔을 확인할 수 있습니다. NGC 1300은 막대나선은하입니다.",
+    "옳습니다. NASA의 NGC 1300 관측 설명은 나선팔에서 새 별이 형성되는 구름과 먼지띠를 확인합니다. 성간 가스와 먼지로부터 별이 생성되는 은하입니다.",
+    "옳습니다. NASA는 NGC 1300의 나선팔에 젊은 별들의 청색 성단이 있다고 설명합니다. 이 문항의 젊은 별 분포 설명과 부합합니다.",
+    "옳습니다. 나선은하의 중앙팽대부는 주로 오래된 항성종족으로 설명합니다. 이는 모든 별이 같은 나이이거나 젊은 별이 전혀 없다는 뜻은 아닙니다. NGC1300의 근적외선 동역학 연구도 오래된 원반·팽대부 별들의 빛을 질량 분포를 추적하는 데 사용합니다.",
+    "옳지 않습니다. 여기서 헤일로는 눈에 보이는 별들만이 아니라 암흑물질까지 포함하는 은하의 넓은 헤일로를 뜻합니다. NGC1300의 관측을 설명하는 동역학 모형에는 팽대부보다 큰 질량의 암흑물질 헤일로가 필요하므로, 중앙팽대부의 질량이 더 크다는 비교는 맞지 않습니다. 사진에서 중앙이 밝다는 사실만으로 질량이 더 크다고 판단할 수는 없습니다."
+  ],
+  "lawNote": "",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "NASA / ESA / Hubble Heritage Team",
+      "ref": "Spiral Galaxy NGC 1300",
+      "quote": "blue clusters of young stars, pink clouds that are forming new stars, and dark lanes of dust.",
+      "url": "https://science.nasa.gov/asset/hubble/spiral-galaxy-ngc-1300/",
+      "evidenceId": "1cde8283ec4dc316af3c",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "NASA / ESA / Hubble Heritage Team",
+      "ref": "Spiral Galaxy NGC 1300",
+      "quote": "blue clusters of young stars, pink clouds that are forming new stars, and dark lanes of dust.",
+      "url": "https://science.nasa.gov/asset/hubble/spiral-galaxy-ngc-1300/",
+      "evidenceId": "1cde8283ec4dc316af3c",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "NASA / ESA / Hubble Heritage Team",
+      "ref": "Spiral Galaxy NGC 1300",
+      "quote": "blue clusters of young stars, pink clouds that are forming new stars, and dark lanes of dust.",
+      "url": "https://science.nasa.gov/asset/hubble/spiral-galaxy-ngc-1300/",
+      "evidenceId": "1cde8283ec4dc316af3c",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "Kalapotharakos et al. / arXiv author manuscript",
+      "ref": "Kalapotharakos, Patsis & Grosbøl, NGC 1300 Dynamics I (2010), §§2,4 and Table1",
+      "quote": "some additional mass component exists besides the luminous component.",
+      "url": "https://arxiv.org/pdf/1009.0376",
+      "evidenceId": "3c22119f58ba0d12d850",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "Kalapotharakos et al. / arXiv author manuscript",
+      "ref": "Kalapotharakos, Patsis & Grosbøl, NGC 1300 Dynamics I (2010), §§2,4 and Table1",
+      "quote": "some additional mass component exists besides the luminous component.",
+      "url": "https://arxiv.org/pdf/1009.0376",
+      "evidenceId": "3c22119f58ba0d12d850",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Astronomy 2e §25.1 The Architecture of the Galaxy",
+      "quote": "The bulge and the fainter bar both appear yellowish because the brightest stars in them are mostly old yellow and red giants.",
+      "url": "https://openstax.org/books/astronomy-2e/pages/25-1-the-architecture-of-the-galaxy",
+      "evidenceId": "1edcbeac1fbf3608f084",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Original image, local final answer A35=5, NASA observations, textbook populations and NGC1300 author mass models reviewed. Halo includes dark matter; model values distinguished from direct measurements.",
+    "contentHash": "4ce368ad8bfafb21e68ce6ff8a9b3105b81bebb282add1a9d2a85e5e7a7205bf"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "f495cc201f8e8d4b5b7e",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "5.4 Electric Field — University Physics Volume 2",
+  "url": "https://openstax.org/books/university-physics-volume-2/pages/5-4-electric-field",
+  "excerpt": "The total electric field, then, is the vector sum of all these fields.",
+  "sourceHash": "91242922429126d4f285767102ee675bc691e75d14a6cbbec85bd7575ebc240c",
+  "cacheSourceId": "1e9e1993d3f3ace3544e",
+  "retrievedAt": "2026-11-06T22:22:54.703359+00:00",
+  "reviewedMappings": {
+    "2019-3-04:0": "At origin E=(k/d²)(q2-q3,-q1). Positive y direction requires q1<0 and q2=q3>0; hence ㄴ and ㄷ.",
+    "2019-3-04:1": "P1=(0,d), so E1y=-kq1/d². Positive y requires negative q1; ㄱ false.",
+    "2019-3-04:2": "q3>0 at right produces negative x field; cancellation requires q2=q3>0 at left, so both ㄴ and ㄷ are true.",
+    "2019-3-04:3": "ㄱ false because q1<0; ㄴ true but ㄷ also required by Ex=0.",
+    "2019-3-04:4": "Equal distances and zero horizontal field yield q2=q3, but ㄱ false and ㄴ true.",
+    "2019-3-04:5": "Ex=k(q2-q3)/d²=0 gives q2=q3>0. Ey=-kq1/d²>0 gives q1<0. Thus only ㄴ ㄷ."
+  },
+  "retrievalMethod": "Direct web open: point-charge vector sum equation 5.4 lines 44–50, superposition lines 67–70, positive/negative source directions lines 72–77. Independently applied to coordinates explicitly stated in canonical question.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

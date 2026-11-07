@@ -1,0 +1,17 @@
+{
+  "id": "aed0bcaee0446a2fde9a",
+  "kind": "science",
+  "source": "NASA",
+  "ref": "Venus Facts",
+  "url": "https://science.nasa.gov/venus/venus-facts/",
+  "excerpt": "The atmosphere is mostly carbon dioxide",
+  "sourceHash": "83a65929d1b8a4bc63c8e08d29f9d9b4f17d94803650a044cb51b4050ecf0171",
+  "cacheSourceId": "bd2df0a2d638212630c0",
+  "retrievedAt": "2026-11-06T22:55:06.099000+00:00",
+  "reviewedMappings": {
+    "2019-3-37:0": "금성의 밝기·243일 자전·CO2 대기를 각각 본문에서 대조하여 세 조건 충족을 확인했다.",
+    "2019-3-37:2": "금성의 밝기·243일 자전·CO2 대기를 각각 본문에서 대조하여 세 조건 충족을 확인했다."
+  },
+  "retrievalMethod": "Direct open/find: introduction line 273 brightness, orbit and rotation 295–297 period 243 Earth days, atmosphere 335–336 CO2. Did not reuse the page’s unrelated solar-day wording.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

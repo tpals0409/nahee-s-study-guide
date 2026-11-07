@@ -1,0 +1,16 @@
+{
+  "id": "ed652f1523bee2d296d3",
+  "kind": "science",
+  "source": "USGS",
+  "ref": "USGS — Pāhoehoe",
+  "url": "https://volcanoes.usgs.gov/volcanic_ash/glossary/pahoehoe.html",
+  "excerpt": "Basaltic lava that has a smooth, hummocky, or ropy surface.",
+  "sourceHash": "8081f343f8f1adbac016a796bad662425d8e815cc4646cb14f5acdaa3430c73e",
+  "cacheSourceId": "87cc2c296e77c3a3e6b5",
+  "retrievedAt": "2026-11-06T17:33:25.910541+00:00",
+  "reviewedMappings": {
+    "2012-3-33:4": "파호이호이의 매끈하고 밧줄 모양인 표면 정의."
+  },
+  "retrievalMethod": "web.open; relevant section reviewed; subscript/degree markup normalized where applicable",
+  "sourceHashScope": "Selected excerpt only; not full page"
+}

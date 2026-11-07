@@ -1,0 +1,18 @@
+{
+  "id": "cfc02a49b06562ff5518",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 2e 17.4 — Potential, Free Energy, and Equilibrium",
+  "url": "https://openstax.org/books/chemistry-2e/pages/17-4-potential-free-energy-and-equilibrium",
+  "excerpt": "the reaction mixture composition as reflected in Q.",
+  "sourceHash": "8d0606c857a9fb53d6cfd6e847a7aec6fa3203609358969f2f19a598d1b54749",
+  "cacheSourceId": "c52c899a1cfa49fb2538",
+  "retrievedAt": "2026-11-06T19:35:15.864109+00:00",
+  "reviewedMappings": {
+    "2015-3-18:0": "네른스트 식과 표준 환원 전위의 차를 원문 수치에 적용한다.",
+    "2015-3-18:1": "원문 Q=0.2, n=2를 식에 대입하여 E>E°를 판정한다.",
+    "2015-3-18:3": "자유 Cu²⁺ 감소로 Q 증가, 일정 온도에서 E 감소를 판정한다."
+  },
+  "retrievalMethod": "Direct web page opened and relevant section read; short excerpt transcribed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

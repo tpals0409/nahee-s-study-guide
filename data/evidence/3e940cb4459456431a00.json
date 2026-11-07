@@ -1,0 +1,21 @@
+{
+  "id": "3e940cb4459456431a00",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e, 7.4 Oxidative Phosphorylation",
+  "url": "https://openstax.org/books/biology-2e/pages/7-4-oxidative-phosphorylation",
+  "excerpt": "both concentration and electrical gradients",
+  "sourceHash": "e8ef26bb7f20658239e5360df098b5edfebc631e662bb97d604bbc8b4a7f683a",
+  "cacheSourceId": "ab8710c405e5d8efec16",
+  "retrievedAt": "2026-11-07T01:53:39.591717+00:00",
+  "reviewedMappings": {
+    "2023-3-22:0": "ㄱ은 참: 전자전달에 의해 형성된 H⁺ 전기화학적 기울기를 ATP 합성효소가 이용한다. 광인산화와 산화적 인산화에 공통이다. 판단 조합은 ㄱ·ㄴ, 선택지④.",
+    "2023-3-22:1": "ㄱ은 참: 전자전달에 의해 형성된 H⁺ 전기화학적 기울기를 ATP 합성효소가 이용한다. 광인산화와 산화적 인산화에 공통이다. 판단 조합은 ㄱ·ㄴ, 선택지④.",
+    "2023-3-22:2": "ㄱ은 참: 전자전달에 의해 형성된 H⁺ 전기화학적 기울기를 ATP 합성효소가 이용한다. 광인산화와 산화적 인산화에 공통이다. 판단 조합은 ㄱ·ㄴ, 선택지④.",
+    "2023-3-22:3": "ㄱ은 참: 전자전달에 의해 형성된 H⁺ 전기화학적 기울기를 ATP 합성효소가 이용한다. 광인산화와 산화적 인산화에 공통이다. 판단 조합은 ㄱ·ㄴ, 선택지④.",
+    "2023-3-22:4": "ㄱ은 참: 전자전달에 의해 형성된 H⁺ 전기화학적 기울기를 ATP 합성효소가 이용한다. 광인산화와 산화적 인산화에 공통이다. 판단 조합은 ㄱ·ㄴ, 선택지④.",
+    "2023-3-22:5": "ㄱ은 참: 전자전달에 의해 형성된 H⁺ 전기화학적 기울기를 ATP 합성효소가 이용한다. 광인산화와 산화적 인산화에 공통이다. 판단 조합은 ㄱ·ㄴ, 선택지④."
+  },
+  "retrievalMethod": "직접 열람: Chemiosmosis 절, 전기화학적 기울기·ATP synthase 및 두 인산화 과정의 공통 기전.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

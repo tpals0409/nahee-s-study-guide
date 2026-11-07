@@ -1,0 +1,41 @@
+{
+  "summary": "하강 직후 진흙의 속력은 v=√(2gh)=7 m/s입니다. 충돌 시 O축에 대한 각운동량은 L=mvr=3.5 kg·m²/s입니다. 충돌 후 관성모멘트는 두 구슬과 진흙을 합쳐 I=3×1×0.5²=0.75 kg·m²이므로 ω=L/I≈4.7 rad/s, 정답은 ②입니다.",
+  "choices": [
+    "3.8 rad/s이면 충돌 후 각운동량은 0.75×3.8=2.85 kg·m²/s로, 충돌 전 3.5보다 작습니다.",
+    "4.7 rad/s가 계산값 3.5/0.75=4.666… rad/s를 소수 첫째 자리로 반올림한 값입니다.",
+    "5.6 rad/s이면 각운동량은 4.20 kg·m²/s로, 충돌 전 값과 다릅니다.",
+    "6.3 rad/s이면 각운동량은 4.725 kg·m²/s로, 보존 조건을 만족하지 않습니다.",
+    "7.8 rad/s이면 각운동량은 5.85 kg·m²/s입니다. 붙은 진흙까지 포함한 전체 관성모멘트로 계산해야 합니다."
+  ],
+  "lawNote": "막대 길이 1 m의 절반인 0.5 m가 회전 반지름입니다. 충돌 전 하강에는 역학적 에너지 보존을 쓰지만, 진흙이 달라붙는 충돌에는 O축에 대한 각운동량 보존을 씁니다. 충돌 과정에서 운동에너지는 보존되지 않습니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1 11.3 — Example 11.9",
+      "quote": "Thus, the angular momentum along this axis is conserved.",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/11-3-conservation-of-angular-momentum",
+      "evidenceId": "d5bc53454f2f76f010f3",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 1 8.3 — Conservation of Energy",
+      "quote": "The mechanical energy of a particle does not change if all the non-conservative forces that may act on it do no work.",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/8-3-conservation-of-energy",
+      "evidenceId": "c87e61f770c4551bdd3b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    }
+  ],
+  "dropped": 0,
+  "review": {
+    "status": "verified",
+    "method": "원본 2012-3-10.webp에서 길이·질량·낙차·충돌 방향·수평 회전 확인. OpenStax 두 절 대조. v=7, L=3.5, I=0.75 독립 계산과 다섯 선지 대입, 저장 정답② 일치. 초안의 근거 없는 오답 발생 원인 추측 삭제.",
+    "contentHash": "735dbdc6b0e8f8927024943886cda3d0bb75efc67d8eed0c4c91ed063f838b11"
+  }
+}

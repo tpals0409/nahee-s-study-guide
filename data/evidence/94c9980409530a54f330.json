@@ -1,0 +1,16 @@
+{
+  "id": "94c9980409530a54f330",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Astronomy 2e §25.2 Spiral Structure",
+  "url": "https://openstax.org/books/astronomy-2e/pages/25-2-spiral-structure",
+  "excerpt": "radio waves of 21-cm wavelength pass right through the dust",
+  "sourceHash": "1c40968ca9f74d25e06f0a8c75034a6b858b1d3d1dc9c1f87df11af58fefc8c2",
+  "cacheSourceId": "9a2d1db30e48bb4d0ee7",
+  "retrievedAt": "2026-11-07T04:28:40.574371+00:00",
+  "reviewedMappings": {
+    "2026-3-40:2": "중성수소21cm 관측이 티끌에 가려진 은하의 나선구조 지도화에 기여한다는 본문을 확인한다. 유일한 거리결정 등 추가 주장은 하지 않는다."
+  },
+  "retrievalMethod": "Direct web open/find",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

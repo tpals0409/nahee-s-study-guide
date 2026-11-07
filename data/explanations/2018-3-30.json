@@ -1,0 +1,151 @@
+{
+  "id": "2018-3-30",
+  "summary": "미토콘드리아가 있는 C는 효모입니다. 나머지 두 원핵생물 중 표에서 스트렙토마이신 감수성이 있는 A는 대장균, 없는 B는 메탄생성균입니다. 따라서 정답은 ①입니다.",
+  "choices": [
+    "정답입니다. A는 세균인 대장균, B는 고세균인 메탄생성균, C는 진핵생물인 효모입니다. 세 생물 모두 리보솜을 가지므로 마지막 행과도 일치합니다.",
+    "효모를 B에, 메탄생성균을 C에 놓으면 미토콘드리아 유무가 표와 반대가 됩니다.",
+    "효모는 미토콘드리아가 있으므로 A가 될 수 없고, 메탄생성균은 미토콘드리아가 없으므로 C가 될 수 없습니다.",
+    "C가 효모인 것은 맞지만 A와 B가 뒤바뀌었습니다. 표의 감수성 차이에 따르면 A가 대장균, B가 메탄생성균입니다.",
+    "B의 효모는 미토콘드리아가 있고 C의 대장균은 미토콘드리아가 없으므로 표에 맞지 않습니다."
+  ],
+  "lawNote": "이 문제는 표에 주어진 감수성 결과와 세 생물의 대표적인 특성을 대응시키는 문제입니다. 이를 모든 균주의 항생제 반응에 대한 절대적인 규칙으로 확대하지 않습니다. 리보솜 유무만으로는 세 생물을 구별할 수 없습니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e §22.2 — Structure of Prokaryotes: Bacteria and Archaea",
+      "quote": "Streptomycin inhibition",
+      "url": "https://openstax.org/books/biology-2e/pages/22-2-structure-of-prokaryotes-bacteria-and-archaea",
+      "evidenceId": "9dcfb19e89c3b297b0ec",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e §22.2 — Structure of Prokaryotes: Bacteria and Archaea",
+      "quote": "Streptomycin inhibition",
+      "url": "https://openstax.org/books/biology-2e/pages/22-2-structure-of-prokaryotes-bacteria-and-archaea",
+      "evidenceId": "9dcfb19e89c3b297b0ec",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e §22.2 — Structure of Prokaryotes: Bacteria and Archaea",
+      "quote": "Streptomycin inhibition",
+      "url": "https://openstax.org/books/biology-2e/pages/22-2-structure-of-prokaryotes-bacteria-and-archaea",
+      "evidenceId": "9dcfb19e89c3b297b0ec",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e §22.2 — Structure of Prokaryotes: Bacteria and Archaea",
+      "quote": "Streptomycin inhibition",
+      "url": "https://openstax.org/books/biology-2e/pages/22-2-structure-of-prokaryotes-bacteria-and-archaea",
+      "evidenceId": "9dcfb19e89c3b297b0ec",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e §22.2 — Structure of Prokaryotes: Bacteria and Archaea",
+      "quote": "Streptomycin inhibition",
+      "url": "https://openstax.org/books/biology-2e/pages/22-2-structure-of-prokaryotes-bacteria-and-archaea",
+      "evidenceId": "9dcfb19e89c3b297b0ec",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e §22.2 — Structure of Prokaryotes: Bacteria and Archaea",
+      "quote": "Streptomycin inhibition",
+      "url": "https://openstax.org/books/biology-2e/pages/22-2-structure-of-prokaryotes-bacteria-and-archaea",
+      "evidenceId": "9dcfb19e89c3b297b0ec",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e §24.1 — Characteristics of Fungi",
+      "quote": "Fungal cells also contain mitochondria",
+      "url": "https://openstax.org/books/biology-2e/pages/24-1-characteristics-of-fungi",
+      "evidenceId": "38128d8a1377399365b8",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e §24.1 — Characteristics of Fungi",
+      "quote": "Fungal cells also contain mitochondria",
+      "url": "https://openstax.org/books/biology-2e/pages/24-1-characteristics-of-fungi",
+      "evidenceId": "38128d8a1377399365b8",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e §24.1 — Characteristics of Fungi",
+      "quote": "Fungal cells also contain mitochondria",
+      "url": "https://openstax.org/books/biology-2e/pages/24-1-characteristics-of-fungi",
+      "evidenceId": "38128d8a1377399365b8",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e §24.1 — Characteristics of Fungi",
+      "quote": "Fungal cells also contain mitochondria",
+      "url": "https://openstax.org/books/biology-2e/pages/24-1-characteristics-of-fungi",
+      "evidenceId": "38128d8a1377399365b8",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e §24.1 — Characteristics of Fungi",
+      "quote": "Fungal cells also contain mitochondria",
+      "url": "https://openstax.org/books/biology-2e/pages/24-1-characteristics-of-fungi",
+      "evidenceId": "38128d8a1377399365b8",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "Biology 2e §24.1 — Characteristics of Fungi",
+      "quote": "Fungal cells also contain mitochondria",
+      "url": "https://openstax.org/books/biology-2e/pages/24-1-characteristics-of-fungi",
+      "evidenceId": "38128d8a1377399365b8",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "Direct textbook taxonomy, organelle and streptomycin-comparison table review; independent all-choice matching with strain-level generalization removed",
+    "contentHash": "b49ceba79996e8820acff2c9df8b1f2f463de95d0fa905ca6a2c4c92fd73f54a"
+  }
+}

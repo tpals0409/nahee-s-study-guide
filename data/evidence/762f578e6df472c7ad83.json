@@ -1,0 +1,17 @@
+{
+  "id": "762f578e6df472c7ad83",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Biology 2e: Human Reproductive Anatomy and Gametogenesis",
+  "url": "https://openstax.org/books/biology-2e/pages/43-3-human-reproductive-anatomy-and-gametogenesis",
+  "excerpt": "One egg is produced from each meiotic process",
+  "sourceHash": "2891d5d38c8778a41f6247f04b4cadac7edd33a9b45c58420c398b0b80b6de32",
+  "cacheSourceId": "59790cffcd12574b0d72",
+  "retrievedAt": "2026-11-07T02:42:41.701985+00:00",
+  "reviewedMappings": {
+    "2024-3-28:0": "Direct Oogenesis subsection reviewed; unequal cytokinesis yields one functional egg with polar bodies, qualifying the generic four-daughter-cell model.",
+    "2024-3-28:1": "Direct Oogenesis subsection reviewed; unequal cytokinesis yields one functional egg with polar bodies, qualifying the generic four-daughter-cell model."
+  },
+  "retrievalMethod": "Direct Oogenesis subsection reviewed; unequal cytokinesis yields one functional egg with polar bodies, qualifying the generic four-daughter-cell model.",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}

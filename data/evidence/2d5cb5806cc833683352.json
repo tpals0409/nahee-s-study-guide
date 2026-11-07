@@ -1,0 +1,20 @@
+{
+  "id": "2d5cb5806cc833683352",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "18.1 Overview of Specific Adaptive Immunity",
+  "url": "https://openstax.org/books/microbiology/pages/18-1-overview-of-specific-adaptive-immunity",
+  "excerpt": "IgG is a monomer",
+  "sourceHash": "bb724e8ec7deec17f23d9228e863cb3fb843060633f449d66a3afd5ba6de9079",
+  "cacheSourceId": "dbad5dfa8d22e44a2e7a",
+  "retrievedAt": "2026-11-06T20:28:55.717922+00:00",
+  "reviewedMappings": {
+    "2016-3-23:0": "본문90 IgG단량체·태반통과,91분비IgM오량체,92초기IgM,93–94분비IgA,96–97IgE저농도알레르기 대조. IgD비분비 단정이나 IgA결합 사슬 관련 부정확한 부연은 채택하지 않음.",
+    "2016-3-23:1": "본문92의 1차 반응 초기IgM분비와91의 분비형오량체/막형단량체를 적용. 2차반응 전체에 대한 부연은 사용하지 않음.",
+    "2016-3-23:2": "본문90 및 그림18.6에 IgG단량체와태반통과;91분비IgM오량체. 선지의 두 주장 모두거짓.",
+    "2016-3-23:3": "본문93–94에 눈물·침·점액의IgA와점막방어를 직접 확인.",
+    "2016-3-23:4": "본문96–97에 혈청IgE최저농도와비만세포/호염기구매개알레르기 확인."
+  },
+  "retrievalMethod": "Direct web open and targeted find; antibody-class section reviewed",
+  "sourceHashScope": "Selected short excerpt only; not full page"
+}
