@@ -665,3 +665,15 @@ dialog.chat-sheet { top: var(--chat-top, auto); bottom: auto; height: var(--chat
  .page-stats .radar-value { font-size: 13px; gap: 8px; }
  .page-stats .radar-result strong { font-size: 21px; }
 }
+
+.home-ai { margin: 0 0 16px; gap: 14px; }
+.chat-attachments { grid-column: 1 / -1; display: flex; flex-wrap: wrap; align-items: center; gap: 8px; }
+.chat-photo { max-width: 100%; max-height: 220px; object-fit: contain; border-radius: 12px; margin-top: 8px; }
+.chat-sources { font-size: 12px; margin-top: 12px; }
+.chat-sources a, .chat-sources span { display: block; overflow-wrap: anywhere; margin-top: 4px; }
+
+.chat-prompts[hidden] { display: none; }
+
+#pending-photos { display: flex; gap: 8px; width: 100%; }
+#pending-photos:empty { display: none; }
+#pending-photos .chat-photo { width: 64px; height: 64px; object-fit: cover; margin: 0; }

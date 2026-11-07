@@ -339,3 +339,23 @@ ctx.navigator.onLine=true;
 run(`post = async () => {throw new Error('offline')};`);
 assert.equal((await run("fetchExplain({id:'science'})")).summary,'old');
 console.log('explanation refresh and offline fallback ok');
+
+// Home tutor owns a separate conversation, including image-only input.
+ctx.document.getElementById = (id) => id === "ai-chat" ? chatDialog : id === "photo-status" ? chatSend : null;
+chatDialog.close = function() { this.open=false; };
+run('session=null; openChat(true);');
+assert.match(chatDialog.innerHTML,/사진·텍스트로 자유롭게/);
+assert.match(chatDialog.innerHTML,/id="chat-photo"/);
+assert.match(chatDialog.innerHTML,/새 대화/);
+assert.match(run('chatMessagesHtml(null,freeChat)'),/문제를 입력하거나 사진을 첨부/);
+run(`let tutorPayload; post=async(path,body)=>{tutorPayload={path,body}; return new Response('근거 설명',{headers:{'x-tutor-sources':encodeURIComponent(JSON.stringify([{number:1,title:'민법',url:'https://www.law.go.kr',collected:'20261106'}]))}});}; freeChat.attachments=[{media_type:'image/jpeg',data:'AAAA'}];`);
+chatInput.value='';
+await listeners.submit(submitEvent);
+assert.equal(run('tutorPayload.path'),'/api/tutor');
+assert.equal(run('tutorPayload.body.messages[0].images.length'),1);
+assert.equal(run('freeChat.attachments.length'),0);
+assert.equal(run('freeChat.chat[1].sources[0].title'),'민법');
+assert.equal(run('session'),null);
+run(`ACTIONS['chat-new']();`);
+assert.equal(run('freeChat.chat.length'),0);
+console.log('home tutor image-only requests and separate conversations ok');

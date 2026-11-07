@@ -18,6 +18,8 @@ export default defineConfig(() => ({
 			ADDITIONAL_ALLOWED_EMAIL: bindings.text("tpals0409dev@gmail.com"),
 			AUTH_LIMIT: bindings.rateLimit({ namespace: "1001", simple: { limit: 10, period: 60 } }),
 			ANTHROPIC_API_KEY: bindings.secret(),
+			LAW_OC: bindings.secret(),
+			TUTOR_LIMIT: bindings.rateLimit({ namespace: "1002", simple: { limit: 10, period: 60 } }),
 			STORE: bindings.kv(),
 			DB: bindings.d1({ id: "f4043927-ef1d-477e-b86f-c5b024cefb32", name: "hapgyeok-note" }),
 		},

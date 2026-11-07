@@ -29,3 +29,11 @@ Node.js 24와 `app/package-lock.json`의 의존성을 사용한다. `cf deploy -
 [Actions 실행 목록](https://github.com/tpals0409/nahee-s-study-guide/actions/workflows/cloudflare.yml)에서 배포 성공을 확인한 뒤 [서비스](https://note.leo0409.work/)에서 Google 로그인을 확인한다. HTTP 확인 단계는 페이지 응답만 검사하며 로그인 성공을 검증하지 않는다.
 
 인증 정보가 누락되면 배포 직전 단계에서 누락된 secret 이름을 표시하고 실패한다. 등록을 마친 뒤 실패한 실행을 재실행하거나 `Run workflow`를 사용한다.
+
+## 자유 질문 챗봇
+
+홈의 AI 질문은 `/api/tutor`를 사용한다. 사진은 브라우저에서 JPEG로 축소하며 최대 2장씩 첨부한다. 자유 대화와 사진은 브라우저 메모리에만 유지하고 새 대화 또는 새로고침으로 초기화한다. 답변 생성을 위해 텍스트·사진은 Anthropic에 전송된다.
+
+`app/build-knowledge.py`가 수집 법령의 시행 구간과 검토된 과학·판례 발췌를 서버 전용 검색 자료로 만든다. 키워드·한국어 부분 문자열 검색이며 벡터 인덱스는 사용하지 않는다. 부분 해설은 검색 근거에 넣지 않는다. 법령은 질문의 적용일로 버전을 제한하고, 사진 판독이 불명확하면 풀이 대신 확인 질문을 반환한다.
+
+배포에는 GitHub Actions의 `LAW_OC` Secret이 추가로 필요하다. `tools/configure-law-secret.py`가 기존 Worker의 동일 이름 Secret에 등록하며 값은 출력하지 않는다. 국가법령정보 공동활용에 등록된 서버 IP·도메인 조건이 맞아야 실시간 API를 사용할 수 있다. 조회 실패 시 수집일이 표시된 저장 자료로 답변하며 현행 확인 성공으로 처리하지 않는다. 수집일 이후 법령 개정과 판례 변경 여부는 별도 검토 대상이다.

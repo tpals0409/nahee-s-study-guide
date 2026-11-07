@@ -217,6 +217,7 @@ function home() {
 	const review = extraReview();
 	const finished = done === ids.length;
 	shell("home", `<h1>오늘의 학습</h1>
+	<button class="btn quiet home-ai" data-act="ai-free-open" aria-haspopup="dialog">AI에게 질문하기 <span class="small">사진으로도 물어보세요</span></button>
 	<div class="home">
 		<section class="card hero">
 			<div class="row"><h2>오늘의 기출</h2><strong>${num(done)} / ${ids.length}</strong></div>
@@ -556,12 +557,19 @@ function explainHtml(q) {
 }
 
 function chatMessagesHtml(q, s) {
-	return `${s.pastChat && !q.fixed ? '<p class="small muted">이전 대화 · 당시 보기 번호 기준</p>' : ""}
-	${s.chat.length ? s.chat.map((m, index) => `<div data-chat-index="${index}" class="say ${m.role === "user" ? "me" : ""}"><span class="chat-speaker">${m.role === "user" ? "나" : "AI"}</span><div class="chat-text">${esc(m.content)}</div></div>`).join("") : '<div class="chat-empty"><h3>어떤 부분이 궁금한가요?</h3><p class="muted">현재 문제와 해설을 바탕으로 답변해 드려요.</p><div class="chat-prompts"><button class="chip" data-act="chat-prompt" data-keep-open="true" data-prompt="정답의 핵심 근거를 쉽게 설명해 주세요.">정답의 핵심 근거</button><button class="chip" data-act="chat-prompt" data-keep-open="true" data-prompt="제가 고른 답과 정답의 차이를 설명해 주세요.">내 답과 정답 비교</button></div></div>'}
+	return `${s.pastChat && !q?.fixed ? '<p class="small muted">이전 대화 · 당시 보기 번호 기준</p>' : ""}
+	${s.chat.length ? s.chat.map((m, index) => `<div data-chat-index="${index}" class="say ${m.role === "user" ? "me" : ""}"><span class="chat-speaker">${m.role === "user" ? "나" : "AI"}</span><div class="chat-text">${esc(m.content)}</div>${(m.images ?? []).map(img => `<img class="chat-photo" src="data:${esc(img.media_type)};base64,${esc(img.data)}" alt="질문에 첨부한 사진">`).join("")}${chatSourcesHtml(m.sources)}</div>`).join("") : `<div class="chat-empty"><h3>어떤 부분이 궁금한가요?</h3><p class="muted">${q ? "현재 문제와 해설을 바탕으로 답변해 드려요." : "문제를 입력하거나 사진을 첨부해 주세요. 근거를 찾아 함께 설명해 드려요."}</p><div class="chat-prompts" ${q ? "" : "hidden"}><button class="chip" data-act="chat-prompt" data-keep-open="true" data-prompt="정답의 핵심 근거를 쉽게 설명해 주세요.">정답의 핵심 근거</button><button class="chip" data-act="chat-prompt" data-keep-open="true" data-prompt="제가 고른 답과 정답의 차이를 설명해 주세요.">내 답과 정답 비교</button></div></div>`}
 	${s.asking ? '<p class="small muted" role="status">답변 작성 중…</p>' : ""}
 	${s.askError ? '<p class="error" role="alert">답변을 받지 못했어요. 다시 전송해 주세요.</p>' : ""}`;
 }
 
+const freeChat = { chat: [], askDraft: "", attachments: [] };
+let freeChatMode = false;
+const chatState = () => freeChatMode ? freeChat : session;
+const chatQuestion = () => freeChatMode ? null : current();
+function chatSourcesHtml(sources = []) {
+ return sources.length ? `<details class="chat-sources"><summary>검색 근거 ${sources.length}개</summary>${sources.filter(s => /^https:\/\//.test(s.url)).map(s => `<a href="${esc(s.url)}" target="_blank" rel="noopener noreferrer">[${s.number}] ${esc(s.title)}</a><span class="small muted">수집 ${esc(s.collected)}</span>`).join("")}</details>` : "";
+}
 let chatDocked = false;
 let chatBaseHeight = 0;
 let chatBaseWidth = 0;
@@ -569,11 +577,11 @@ let chatFollowBottom = true;
 
 function paintChat() {
 	const dialog = document.getElementById("ai-chat");
-	if (!dialog?.open || !session) return;
+	if (!dialog?.open || !chatState()) return;
 	const messages = dialog.querySelector(".chat-messages");
 	const atBottom = chatFollowBottom;
-	messages.innerHTML = chatMessagesHtml(current(), session);
-	dialog.querySelector('button[type="submit"]').disabled = !!session.asking;
+	messages.innerHTML = chatMessagesHtml(chatQuestion(), chatState());
+	dialog.querySelector('button[type="submit"]').disabled = !!chatState().asking;
 	if (atBottom) messages.scrollTop = messages.scrollHeight;
 }
 
@@ -587,18 +595,21 @@ function paintChatReply(reply, index) {
 	if (chatFollowBottom) messages.scrollTop = messages.scrollHeight;
 }
 
-function openChat() {
+function openChat(free = false) {
 	dismissToast();
-	const s = session;
-	if (!s?.revealed || !s.explain || typeof s.explain !== "object") return;
-	const q = current();
+	const modeChanged = freeChatMode !== (free === true);
+	freeChatMode = free === true;
+	const s = chatState();
+	if (!freeChatMode && (!s?.revealed || !s.explain || typeof s.explain !== "object")) return;
+	const q = chatQuestion();
 	const dialog = document.getElementById("ai-chat");
+	if (dialog.open && modeChanged) dialog.close();
 	if (dialog.open) { dialog.querySelector("textarea").focus({ preventScroll: true }); return; }
 	dialog.innerHTML = `<div class="round-grab" aria-hidden="true"><span></span></div>
-	<header class="chat-header"><div><h2 id="ai-chat-title">AI 질문</h2><p class="small muted">${q.year}년 · ${esc(q.subject)} · ${q.number}번</p></div><button class="iconbtn" data-act="dialog-close" aria-label="AI 질문 닫기">${icon("close")}</button></header>
+	<header class="chat-header"><div><h2 id="ai-chat-title">AI 질문</h2><p class="small muted">${q ? `${q.year}년 · ${esc(q.subject)} · ${q.number}번` : "사진·텍스트로 자유롭게 질문하세요"}</p></div>${freeChatMode ? `<button class="chip" data-act="chat-new" data-keep-open="true">새 대화</button>` : ""}<button class="iconbtn" data-act="dialog-close" aria-label="AI 질문 닫기">${icon("close")}</button></header>
 	<div class="chat-messages" role="log" aria-live="off" aria-label="문제에 대한 대화">${chatMessagesHtml(q, s)}</div>
 	<button class="chat-latest chip" data-act="chat-latest" data-keep-open="true" hidden>최신 답변 보기 ↓</button>
-	<form data-form="ask" class="chat-compose"><label class="sr" for="ask">AI에게 질문</label><textarea id="ask" class="field" enterkeyhint="enter" rows="2" placeholder="궁금한 내용을 입력하세요" required>${esc(s.askDraft ?? "")}</textarea><button type="submit" class="btn" ${s.asking ? "disabled" : ""}>전송</button><p class="small muted">AI 답변에는 오류가 있을 수 있어요. <span class="keyboard-hint">⌘ / Ctrl + Enter로 전송</span></p><span class="sr chat-status" role="status"></span></form>`;
+	<form data-form="ask" class="chat-compose"><label class="sr" for="ask">AI에게 질문</label><textarea id="ask" class="field" enterkeyhint="enter" rows="2" placeholder="궁금한 내용을 입력하세요">${esc(s.askDraft ?? "")}</textarea><button type="submit" class="btn" ${s.asking ? "disabled" : ""}>전송</button>${freeChatMode ? `<div class="chat-attachments"><label class="chip">사진 첨부<input id="chat-photo" type="file" accept="image/jpeg,image/png,image/webp" multiple hidden></label><button type="button" class="chip" data-act="chat-photo-clear" data-keep-open="true">사진 지우기</button><span id="photo-status" class="small muted" role="status">${(s.attachments ?? []).length} / 2장</span><div id="pending-photos">${(s.attachments ?? []).map(img => `<img class="chat-photo" src="data:${img.media_type};base64,${img.data}" alt="전송할 사진">`).join("")}</div></div>` : ""}<p class="small muted">AI 답변에는 오류가 있을 수 있어요. <span class="keyboard-hint">⌘ / Ctrl + Enter로 전송</span></p><span class="sr chat-status" role="status"></span></form>`;
 	chatBaseHeight = innerHeight;
 	chatBaseWidth = innerWidth;
 	chatFollowBottom = true;
@@ -975,10 +986,13 @@ const ACTIONS = {
 		save();
 		document.querySelector('[data-act="flag"]').setAttribute("aria-pressed", state.flags[id].on);
 	},
-	"ai-chat-open": openChat,
+	"ai-chat-open": () => openChat(),
+	"ai-free-open": () => openChat(true),
+	"chat-new"() { if (freeChat.asking || freeChat.processing) return; Object.assign(freeChat, {chat: [], attachments: [], askDraft: "", askError: false}); document.getElementById("ai-chat").close(); openChat(true); },
+	"chat-photo-clear"() { if (freeChat.asking || freeChat.processing) return; freeChat.attachments = []; document.getElementById("photo-status").textContent = "0 / 2장"; document.getElementById("pending-photos").innerHTML = ""; },
 	"chat-prompt"(d) {
-		if (!session) return;
-		session.askDraft = d.prompt;
+		if (!chatState()) return;
+		chatState().askDraft = d.prompt;
 		const input = document.getElementById("ask");
 		input.value = d.prompt;
 		input.focus({ preventScroll: true });
@@ -1145,6 +1159,7 @@ document.addEventListener("pointerdown", (e) => {
 });
 
 document.addEventListener("change", (e) => {
+	if (e.target.id === "chat-photo") { handleChatPhoto(e); return; }
 	if (e.target.name === "c" && session && !session.revealed && session.mode !== "mock-result") {
 		session.picks[current().id] = Number(e.target.value);
 		e.target.closest(".choice").classList.add("picked");
@@ -1197,28 +1212,62 @@ document.addEventListener("pointerover", (e) => {
 });
 
 document.addEventListener("input", (e) => {
-	if (e.target.id === "ask" && session) session.askDraft = e.target.value;
+	if (e.target.id === "ask" && chatState()) chatState().askDraft = e.target.value;
 });
+
+async function handleChatPhoto(e) {
+ if (e.target.id !== "chat-photo" || freeChat.asking || freeChat.processing) return;
+ const status = document.getElementById("photo-status");
+ const files = [...e.target.files];
+ if (files.length + freeChat.attachments.length > 2) { status.textContent = "사진은 최대 2장까지 첨부할 수 있어요."; e.target.value = ""; return; }
+ freeChat.processing = true;
+ status.textContent = "사진 준비 중…";
+ try {
+  const added = [];
+  for (const file of files) {
+   if (!["image/jpeg","image/png","image/webp"].includes(file.type) || file.size > 20000000) throw new Error("JPEG·PNG·WebP 사진(20MB 이하)을 선택해 주세요.");
+   const url = URL.createObjectURL(file);
+   try {
+    const img = new Image(); img.src=url; await img.decode();
+    const scale=Math.min(1,1600/Math.max(img.width,img.height));
+    const canvas=document.createElement("canvas"); canvas.width=Math.round(img.width*scale); canvas.height=Math.round(img.height*scale);
+    const ctx=canvas.getContext("2d"); ctx.fillStyle="#fff"; ctx.fillRect(0,0,canvas.width,canvas.height); ctx.drawImage(img,0,0,canvas.width,canvas.height);
+    const data=canvas.toDataURL("image/jpeg",0.82).split(",")[1];
+    if(data.length>1800000) throw new Error("사진 크기를 줄여 다시 첨부해 주세요.");
+    added.push({media_type:"image/jpeg",data});
+   } finally { URL.revokeObjectURL(url); }
+  }
+  freeChat.attachments.push(...added);
+  status.textContent=`${freeChat.attachments.length} / 2장 준비됨`;
+  document.getElementById("pending-photos").innerHTML=freeChat.attachments.map(img=>`<img class="chat-photo" src="data:${img.media_type};base64,${img.data}" alt="전송할 사진">`).join("");
+ } catch(error) { status.textContent=error.message; }
+ finally {freeChat.processing=false; e.target.value="";}
+}
 
 document.addEventListener("submit", async (e) => {
 	e.preventDefault();
-	if (e.target.dataset.form !== "ask" || !session || session.asking) return;
-	const s = session;
-	const q = current();
+	if (e.target.dataset.form !== "ask" || !chatState() || chatState().asking || chatState().processing) return;
+	const s = chatState();
+	const free = freeChatMode;
+	const q = chatQuestion();
 	const text = e.target.querySelector("textarea").value.trim();
-	if (!text) return;
+	const images = free ? [...s.attachments] : [];
+	if (!text && !images.length) return;
+	if (s.chat.length >= 28) { toast("대화가 길어졌어요. 새 대화를 시작해 주세요."); return; }
 	const chat = s.chat;
-	const shown = () => session === s && current() === q && document.getElementById("ai-chat")?.open;
+	const shown = () => chatState() === s && chatQuestion() === q && document.getElementById("ai-chat")?.open;
+	if (free && JSON.stringify([...chat, {role:"user",content:text,images}]).length > 3500000) { toast("사진이 많아졌어요. 새 대화에서 이어서 질문해 주세요."); return; }
 	const before = chat.length;
-	chat.push({ role: "user", content: text });
+	chat.push({ role: "user", content: text, ...(images.length ? { images } : {}) });
 	Object.assign(s, { asking: true, askError: false, askDraft: "" });
 	e.target.querySelector("textarea").value = "";
 	chatFollowBottom = true;
 	paintChat();
 	try {
-		const res = await post("/api/ask", { question: q, explanation: s.explain, messages: chat, order: s.orders.get(q.id), pick: s.picks[q.id] });
+		const res = free ? await post("/api/tutor", { messages: chat.map(({role, content, images}) => ({role, content, ...(images ? {images} : {})})) }) : await post("/api/ask", { question: q, explanation: s.explain, messages: chat, order: s.orders.get(q.id), pick: s.picks[q.id] });
 		const reader = res.body.pipeThrough(new TextDecoderStream()).getReader();
-		const reply = { role: "assistant", content: "" };
+		const refs = res.headers.get("x-tutor-sources");
+		const reply = { role: "assistant", content: "", ...(refs ? { sources: JSON.parse(decodeURIComponent(refs)) } : {}) };
 		const replyIndex = chat.length;
 		chat.push(reply);
 		if (shown()) paintChat();
@@ -1229,7 +1278,8 @@ document.addEventListener("submit", async (e) => {
 			if (shown()) paintChatReply(reply, replyIndex);
 		}
 		if (!reply.content) throw new Error("빈 답변");
-		write(`chat:${q.id}`, chat);
+		if (free) { s.attachments = []; if (shown()) { document.getElementById("photo-status").textContent = "0 / 2장"; const previews=document.getElementById("pending-photos"); if(previews) previews.innerHTML=""; } }
+		else write(`chat:${q.id}`, chat);
 	} catch {
 		chat.length = before;
 		Object.assign(s, { askError: true, askDraft: text });
