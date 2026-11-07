@@ -1,0 +1,19 @@
+{
+  "id": "a5e04e64df5dc4cccd77",
+  "kind": "science",
+  "source": "Journal of Chemical Physics / author-hosted PDF",
+  "ref": "Beu et al. (1997), Table II, hydrazine geometry",
+  "url": "https://phys.ubbcluj.ro/~titus.beu/e-Papers/JCP_1997_106_6795.pdf",
+  "excerpt": "dihedral angle between amino groups 88.05°",
+  "sourceHash": "0200f1e64d52bf93abef50450a4d71f7b3a58c9fcc65a612573a56ebb20d647c",
+  "cacheSourceId": "cf4f99ef8dc825ef7c5f",
+  "retrievedAt": "2026-11-07T07:05:26.462850+00:00",
+  "reviewedMappings": {
+    "2009-3-16:0": "PDF p3 Table II의 아미노기 사이 이면각 88.05° 및 Table III 좌표를 직접 읽음. 논문에서 사용하는 비평면 히드라진 구조를 근거로 ㄷ 배제. 새로운 단량체 실험 측정으로 주장하지 않는다.",
+    "2009-3-16:2": "PDF p3 Table II의 아미노기 사이 이면각 88.05° 및 Table III 좌표를 직접 읽음. 논문에서 사용하는 비평면 히드라진 구조를 근거로 ㄷ 배제. 새로운 단량체 실험 측정으로 주장하지 않는다.",
+    "2009-3-16:4": "PDF p3 Table II의 아미노기 사이 이면각 88.05° 및 Table III 좌표를 직접 읽음. 논문에서 사용하는 비평면 히드라진 구조를 근거로 ㄷ 배제. 새로운 단량체 실험 측정으로 주장하지 않는다.",
+    "2009-3-16:5": "PDF p3 Table II의 아미노기 사이 이면각 88.05° 및 Table III 좌표를 직접 읽음. 논문에서 사용하는 비평면 히드라진 구조를 근거로 ㄷ 배제. 새로운 단량체 실험 측정으로 주장하지 않는다."
+  },
+  "retrievalMethod": "direct source body or rendered original PDF page review",
+  "sourceHashScope": "short reviewed excerpt only"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "8d389c5480a3894b9b11",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume 2: Heat Capacity and Equipartition of Energy",
+  "url": "https://openstax.org/books/university-physics-volume-2/pages/2-3-heat-capacity-and-equipartition-of-energy",
+  "excerpt": "We use the equation",
+  "sourceHash": "79187c90d4ec7b6b57a6dc60afc7fdc2fc245d981cf85b7eb1835301f3d389f0",
+  "cacheSourceId": "63af7d0472b4f71a0bdc",
+  "retrievedAt": "2026-11-07T06:50:40.103620+00:00",
+  "reviewedMappings": {
+    "2008-3-06:0": "43행 단원자 이상기체 U=3nRT/2 및 ΔU=3nRΔT/2 직접 확인. 이상기체 상태방정식으로 ΔU=3Δ(PV)/2 계산.",
+    "2008-3-06:1": "43행 단원자 이상기체 U=3nRT/2 및 ΔU=3nRΔT/2 직접 확인. 이상기체 상태방정식으로 ΔU=3Δ(PV)/2 계산.",
+    "2008-3-06:2": "43행 단원자 이상기체 U=3nRT/2 및 ΔU=3nRΔT/2 직접 확인. 이상기체 상태방정식으로 ΔU=3Δ(PV)/2 계산.",
+    "2008-3-06:3": "43행 단원자 이상기체 U=3nRT/2 및 ΔU=3nRΔT/2 직접 확인. 이상기체 상태방정식으로 ΔU=3Δ(PV)/2 계산.",
+    "2008-3-06:4": "43행 단원자 이상기체 U=3nRT/2 및 ΔU=3nRΔT/2 직접 확인. 이상기체 상태방정식으로 ΔU=3Δ(PV)/2 계산.",
+    "2008-3-06:5": "43행 단원자 이상기체 U=3nRT/2 및 ΔU=3nRΔT/2 직접 확인. 이상기체 상태방정식으로 ΔU=3Δ(PV)/2 계산."
+  },
+  "retrievalMethod": "web.open direct body review",
+  "sourceHashScope": "short reviewed excerpt only"
+}

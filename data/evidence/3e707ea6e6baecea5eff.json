@@ -1,0 +1,20 @@
+{
+  "id": "3e707ea6e6baecea5eff",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume 2: Work, Heat, and Internal Energy",
+  "url": "https://openstax.org/books/university-physics-volume-2/pages/3-2-work-heat-and-internal-energy",
+  "excerpt": "the area under the pV curve",
+  "sourceHash": "db10dda424b425d8517414c59b3f045e980fccc7feac1b5ee19c05d2482aca8c",
+  "cacheSourceId": "60753836dbc8f8cc0ede",
+  "retrievedAt": "2026-11-07T06:50:40.103812+00:00",
+  "reviewedMappings": {
+    "2008-3-06:0": "38–49행 W=∫p dV 및 준정적 경로 아래 넓이 직접 확인. 원문의 직선 경로에서 사다리꼴 넓이로 W=3P₀V₀/2 계산.",
+    "2008-3-06:1": "38–49행 W=∫p dV 및 준정적 경로 아래 넓이 직접 확인. 원문의 직선 경로에서 사다리꼴 넓이로 W=3P₀V₀/2 계산.",
+    "2008-3-06:3": "38–49행 W=∫p dV 및 준정적 경로 아래 넓이 직접 확인. 원문의 직선 경로에서 사다리꼴 넓이로 W=3P₀V₀/2 계산.",
+    "2008-3-06:4": "38–49행 W=∫p dV 및 준정적 경로 아래 넓이 직접 확인. 원문의 직선 경로에서 사다리꼴 넓이로 W=3P₀V₀/2 계산.",
+    "2008-3-06:5": "38–49행 W=∫p dV 및 준정적 경로 아래 넓이 직접 확인. 원문의 직선 경로에서 사다리꼴 넓이로 W=3P₀V₀/2 계산."
+  },
+  "retrievalMethod": "web.open direct body review",
+  "sourceHashScope": "short reviewed excerpt only"
+}

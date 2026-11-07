@@ -1,0 +1,21 @@
+{
+  "id": "c0492a105c46f692293b",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume 2: First Law of Thermodynamics",
+  "url": "https://openstax.org/books/university-physics-volume-2/pages/3-3-first-law-of-thermodynamics",
+  "excerpt": "W is positive when work is done by the system",
+  "sourceHash": "8e3ca31a53401c05105b53c313a53add99e6d43b5630fcd53a995ecfb8890df6",
+  "cacheSourceId": "e8a6ad8dcdfc6394d600",
+  "retrievedAt": "2026-11-07T06:50:40.103132+00:00",
+  "reviewedMappings": {
+    "2008-3-06:0": "31–39행 제1법칙 ΔU=Q−W 및 일 부호를 직접 확인. 계산된 ΔU와 W를 더해 각 선택지와 비교.",
+    "2008-3-06:1": "31–39행 제1법칙 ΔU=Q−W 및 일 부호를 직접 확인. 계산된 ΔU와 W를 더해 각 선택지와 비교.",
+    "2008-3-06:2": "31–39행 제1법칙 ΔU=Q−W 및 일 부호를 직접 확인. 계산된 ΔU와 W를 더해 각 선택지와 비교.",
+    "2008-3-06:3": "31–39행 제1법칙 ΔU=Q−W 및 일 부호를 직접 확인. 계산된 ΔU와 W를 더해 각 선택지와 비교.",
+    "2008-3-06:4": "31–39행 제1법칙 ΔU=Q−W 및 일 부호를 직접 확인. 계산된 ΔU와 W를 더해 각 선택지와 비교.",
+    "2008-3-06:5": "31–39행 제1법칙 ΔU=Q−W 및 일 부호를 직접 확인. 계산된 ΔU와 W를 더해 각 선택지와 비교."
+  },
+  "retrievalMethod": "web.open direct body review",
+  "sourceHashScope": "short reviewed excerpt only"
+}

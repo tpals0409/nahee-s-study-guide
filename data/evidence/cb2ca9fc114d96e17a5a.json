@@ -1,0 +1,19 @@
+{
+  "id": "cb2ca9fc114d96e17a5a",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "University Physics Volume 2: Thermodynamic Systems",
+  "url": "https://openstax.org/books/university-physics-volume-2/pages/3-1-thermodynamic-systems",
+  "excerpt": "an equation of state for an ideal gas",
+  "sourceHash": "12d6ed05f748a0e379da8a0306b5800d46ab64181f055d9021a6d3b746232dd4",
+  "cacheSourceId": "1ad893f3d4e85b02dd6c",
+  "retrievedAt": "2026-11-07T06:50:40.103970+00:00",
+  "reviewedMappings": {
+    "2008-3-06:0": "61행 pV−nRT=0 직접 확인. U=3nRT/2에 결합하여 내부에너지 변화를 계산.",
+    "2008-3-06:2": "61행 pV−nRT=0 직접 확인. U=3nRT/2에 결합하여 내부에너지 변화를 계산.",
+    "2008-3-06:3": "61행 pV−nRT=0 직접 확인. U=3nRT/2에 결합하여 내부에너지 변화를 계산.",
+    "2008-3-06:5": "61행 pV−nRT=0 직접 확인. U=3nRT/2에 결합하여 내부에너지 변화를 계산."
+  },
+  "retrievalMethod": "web.open direct body review",
+  "sourceHashScope": "short reviewed excerpt only"
+}

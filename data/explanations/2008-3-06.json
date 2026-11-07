@@ -1,0 +1,254 @@
+{
+  "id": "2008-3-06",
+  "summary": "정답은 ⑤ 6P₀V₀입니다. 압력–부피 그래프의 직선 경로에서 A=(V₀,P₀), B=(2V₀,2P₀)입니다. 기체가 한 일은 W=[(P₀+2P₀)/2](2V₀−V₀)=(3/2)P₀V₀이고, 단원자 이상기체의 내부에너지 증가는 ΔU=(3/2)Δ(PV)=(9/2)P₀V₀입니다. 따라서 흡수한 열량은 Q=ΔU+W=6P₀V₀입니다.",
+  "choices": [
+    "① (3/2)P₀V₀는 경로 아래 사다리꼴 넓이, 즉 기체가 한 일 W입니다. 내부에너지 증가량을 더해야 하므로 흡수 열량과 다릅니다.",
+    "② 3P₀V₀는 P_BV_B−P_AV_A입니다. 단원자 이상기체의 내부에너지 변화에는 3/2를 곱해야 하고, 흡수 열량에는 팽창 일도 더해야 합니다.",
+    "③ (9/2)P₀V₀는 내부에너지 증가량 ΔU입니다. 부피가 증가하며 기체가 한 일 (3/2)P₀V₀를 빠뜨린 값입니다.",
+    "④ (11/2)P₀V₀는 계산된 흡수 열량 6P₀V₀와 다릅니다. 압력이 P₀로 일정하다고 보고 W=P₀ΔV로 계산하면 이 값이 나오지만, 실제 경로에서는 압력이 P₀에서 2P₀까지 직선적으로 증가합니다.",
+    "⑤ 기체가 한 일 (3/2)P₀V₀와 내부에너지 증가 (9/2)P₀V₀를 합하면 6P₀V₀입니다. Q가 양수이므로 기체가 이 열량을 흡수합니다."
+  ],
+  "lawNote": "기체가 외부에 한 일을 양수로 두어 ΔU=Q−W를 적용합니다. 일은 A→B 경로 아래의 넓이이며 원점부터 B까지의 전체 넓이가 아닙니다.",
+  "basis": [
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2: First Law of Thermodynamics",
+      "quote": "W is positive when work is done by the system",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/3-3-first-law-of-thermodynamics",
+      "evidenceId": "c0492a105c46f692293b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2: First Law of Thermodynamics",
+      "quote": "W is positive when work is done by the system",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/3-3-first-law-of-thermodynamics",
+      "evidenceId": "c0492a105c46f692293b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2: First Law of Thermodynamics",
+      "quote": "W is positive when work is done by the system",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/3-3-first-law-of-thermodynamics",
+      "evidenceId": "c0492a105c46f692293b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2: First Law of Thermodynamics",
+      "quote": "W is positive when work is done by the system",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/3-3-first-law-of-thermodynamics",
+      "evidenceId": "c0492a105c46f692293b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2: First Law of Thermodynamics",
+      "quote": "W is positive when work is done by the system",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/3-3-first-law-of-thermodynamics",
+      "evidenceId": "c0492a105c46f692293b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2: First Law of Thermodynamics",
+      "quote": "W is positive when work is done by the system",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/3-3-first-law-of-thermodynamics",
+      "evidenceId": "c0492a105c46f692293b",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2: Heat Capacity and Equipartition of Energy",
+      "quote": "We use the equation",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/2-3-heat-capacity-and-equipartition-of-energy",
+      "evidenceId": "8d389c5480a3894b9b11",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2: Heat Capacity and Equipartition of Energy",
+      "quote": "We use the equation",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/2-3-heat-capacity-and-equipartition-of-energy",
+      "evidenceId": "8d389c5480a3894b9b11",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2: Heat Capacity and Equipartition of Energy",
+      "quote": "We use the equation",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/2-3-heat-capacity-and-equipartition-of-energy",
+      "evidenceId": "8d389c5480a3894b9b11",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2: Heat Capacity and Equipartition of Energy",
+      "quote": "We use the equation",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/2-3-heat-capacity-and-equipartition-of-energy",
+      "evidenceId": "8d389c5480a3894b9b11",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2: Heat Capacity and Equipartition of Energy",
+      "quote": "We use the equation",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/2-3-heat-capacity-and-equipartition-of-energy",
+      "evidenceId": "8d389c5480a3894b9b11",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2: Heat Capacity and Equipartition of Energy",
+      "quote": "We use the equation",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/2-3-heat-capacity-and-equipartition-of-energy",
+      "evidenceId": "8d389c5480a3894b9b11",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2: Work, Heat, and Internal Energy",
+      "quote": "the area under the pV curve",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/3-2-work-heat-and-internal-energy",
+      "evidenceId": "3e707ea6e6baecea5eff",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2: Work, Heat, and Internal Energy",
+      "quote": "the area under the pV curve",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/3-2-work-heat-and-internal-energy",
+      "evidenceId": "3e707ea6e6baecea5eff",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 1
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2: Work, Heat, and Internal Energy",
+      "quote": "the area under the pV curve",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/3-2-work-heat-and-internal-energy",
+      "evidenceId": "3e707ea6e6baecea5eff",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2: Work, Heat, and Internal Energy",
+      "quote": "the area under the pV curve",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/3-2-work-heat-and-internal-energy",
+      "evidenceId": "3e707ea6e6baecea5eff",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 4
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2: Work, Heat, and Internal Energy",
+      "quote": "the area under the pV curve",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/3-2-work-heat-and-internal-energy",
+      "evidenceId": "3e707ea6e6baecea5eff",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2: Thermodynamic Systems",
+      "quote": "an equation of state for an ideal gas",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/3-1-thermodynamic-systems",
+      "evidenceId": "cb2ca9fc114d96e17a5a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 0
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2: Thermodynamic Systems",
+      "quote": "an equation of state for an ideal gas",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/3-1-thermodynamic-systems",
+      "evidenceId": "cb2ca9fc114d96e17a5a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 2
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2: Thermodynamic Systems",
+      "quote": "an equation of state for an ideal gas",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/3-1-thermodynamic-systems",
+      "evidenceId": "cb2ca9fc114d96e17a5a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 3
+    },
+    {
+      "kind": "science",
+      "source": "OpenStax",
+      "ref": "University Physics Volume 2: Thermodynamic Systems",
+      "quote": "an equation of state for an ideal gas",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/3-1-thermodynamic-systems",
+      "evidenceId": "cb2ca9fc114d96e17a5a",
+      "verification": "source-matched",
+      "changed": false,
+      "choice": 5
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "method": "공개 원문 변환의 벡터 그래프 직접 확인 및 HWP 수식 대조; 열역학 교재 본문 확인; 정확 분수 계산으로 다섯 선지 검산",
+    "independentAnswer": [
+      5
+    ],
+    "answerAgrees": true,
+    "contentHash": "a9a817ab4eb8315324e69903a4b31e0ab50701127b781e2591010ef0a409abe0"
+  }
+}

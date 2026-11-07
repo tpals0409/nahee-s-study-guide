@@ -1,0 +1,26 @@
+{
+  "id": "2015-3-12",
+  "summary": "정답표 기준 답은 ④입니다. 세 유기산의 구조식이 원본 자료에서 누락되어 현재는 산성도 순서를 독립적으로 설명할 수 없습니다. 정답표의 선택지를 먼저 제공합니다.",
+  "choices": [
+    "정답표에서 정답으로 지정하지 않은 선지입니다. 개별 판단 근거가 미확인인 부분은 위 핵심 설명과 참고 사항을 확인해 주세요.",
+    "정답표에서 정답으로 지정하지 않은 선지입니다. 개별 판단 근거가 미확인인 부분은 위 핵심 설명과 참고 사항을 확인해 주세요.",
+    "정답표에서 정답으로 지정하지 않은 선지입니다. 개별 판단 근거가 미확인인 부분은 위 핵심 설명과 참고 사항을 확인해 주세요.",
+    "정답표에서 정답으로 지정한 선지입니다. 개별 판단 근거가 미확인인 부분은 위 핵심 설명과 참고 사항을 확인해 주세요.",
+    "정답표에서 정답으로 지정하지 않은 선지입니다. 개별 판단 근거가 미확인인 부분은 위 핵심 설명과 참고 사항을 확인해 주세요."
+  ],
+  "lawNote": "부분 해설: 정답표와 현재까지 확인한 설명을 제공합니다. 일부 선지의 근거나 문항 조건은 아직 확인 중입니다.",
+  "basis": [],
+  "review": {
+    "status": "partial",
+    "method": "사용자 요청에 따라 정답표와 현재까지 확인한 설명을 우선 공개. 미확인 선지의 참·거짓은 정답표 지정과 구분함.",
+    "answerAgrees": null,
+    "answerKey": [
+      4
+    ],
+    "remainingChecks": [
+      "Recover all three original structures from an intact exam scan or verified original source.",
+      "Confirm exact substituent positions, especially third structure; do not infer from answer key.",
+      "Verify acid strength with primary/textbook data including ortho effects, then independently assess all options."
+    ]
+  }
+}

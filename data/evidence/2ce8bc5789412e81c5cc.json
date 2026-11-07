@@ -1,0 +1,20 @@
+{
+  "id": "2ce8bc5789412e81c5cc",
+  "kind": "science",
+  "source": "OpenStax",
+  "ref": "Chemistry 2e §7.5, Table 7.2",
+  "url": "https://openstax.org/books/chemistry-2e/pages/7-5-strengths-of-ionic-and-covalent-bonds",
+  "excerpt": "N–N 160",
+  "sourceHash": "6de1eea72954623137574527375332c312fef634c1b9b37232d08f3b016c5b3a",
+  "cacheSourceId": "b86889bb976af65e337e",
+  "retrievedAt": "2026-11-07T07:05:26.462346+00:00",
+  "reviewedMappings": {
+    "2009-3-16:0": "표7.2의 평균 결합에너지 N–N160 및 C≡C837 kJ/mol을 직접 확인. 평균값에 따른 일반화학 비교이며 특정 분자의 정확한 해리에너지 측정값으로 표시하지 않는다.",
+    "2009-3-16:1": "표7.2의 평균 결합에너지 N–N160 및 C≡C837 kJ/mol을 직접 확인. 평균값에 따른 일반화학 비교이며 특정 분자의 정확한 해리에너지 측정값으로 표시하지 않는다.",
+    "2009-3-16:3": "표7.2의 평균 결합에너지 N–N160 및 C≡C837 kJ/mol을 직접 확인. 평균값에 따른 일반화학 비교이며 특정 분자의 정확한 해리에너지 측정값으로 표시하지 않는다.",
+    "2009-3-16:4": "표7.2의 평균 결합에너지 N–N160 및 C≡C837 kJ/mol을 직접 확인. 평균값에 따른 일반화학 비교이며 특정 분자의 정확한 해리에너지 측정값으로 표시하지 않는다.",
+    "2009-3-16:5": "표7.2의 평균 결합에너지 N–N160 및 C≡C837 kJ/mol을 직접 확인. 평균값에 따른 일반화학 비교이며 특정 분자의 정확한 해리에너지 측정값으로 표시하지 않는다."
+  },
+  "retrievalMethod": "direct source body or rendered original PDF page review",
+  "sourceHashScope": "short reviewed excerpt only"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "867cd883bd31b99e25bc",
+  "kind": "science",
+  "source": "NIST",
+  "ref": "JANAF Fourth Edition (1998), printed pp.1125–1126 (PDF pp.75–76)",
+  "url": "https://janaf.nist.gov/pdf/JANAF-FourthEd-1998-Fluorine.pdf",
+  "excerpt": "Bond Angle: F–N–N = 114.5 ± 0.5°",
+  "sourceHash": "59d952d2ef24321121a389b1ea9197d657a31ef30e2e3e6a9abe299707a77078",
+  "cacheSourceId": "309f375048f4da6487cd",
+  "retrievedAt": "2026-11-07T07:05:26.463161+00:00",
+  "reviewedMappings": {
+    "2009-3-16:0": "PDF75 직접 시각 확인: cis-N2F2의 FNN각114.5±0.5°. PDF76 trans표는115°와1947Bauer 출처를 명시하며 표 자체 검토시점은1965. 후속1967연구와의 비교 미완료이므로 이 과거값만으로 ㄱ을 보편적으로 증명하지 않는다.",
+    "2009-3-16:1": "PDF75 직접 시각 확인: cis-N2F2의 FNN각114.5±0.5°. PDF76 trans표는115°와1947Bauer 출처를 명시하며 표 자체 검토시점은1965. 후속1967연구와의 비교 미완료이므로 이 과거값만으로 ㄱ을 보편적으로 증명하지 않는다.",
+    "2009-3-16:3": "PDF75 직접 시각 확인: cis-N2F2의 FNN각114.5±0.5°. PDF76 trans표는115°와1947Bauer 출처를 명시하며 표 자체 검토시점은1965. 후속1967연구와의 비교 미완료이므로 이 과거값만으로 ㄱ을 보편적으로 증명하지 않는다.",
+    "2009-3-16:4": "PDF75 직접 시각 확인: cis-N2F2의 FNN각114.5±0.5°. PDF76 trans표는115°와1947Bauer 출처를 명시하며 표 자체 검토시점은1965. 후속1967연구와의 비교 미완료이므로 이 과거값만으로 ㄱ을 보편적으로 증명하지 않는다.",
+    "2009-3-16:5": "PDF75 직접 시각 확인: cis-N2F2의 FNN각114.5±0.5°. PDF76 trans표는115°와1947Bauer 출처를 명시하며 표 자체 검토시점은1965. 후속1967연구와의 비교 미완료이므로 이 과거값만으로 ㄱ을 보편적으로 증명하지 않는다."
+  },
+  "retrievalMethod": "direct source body or rendered original PDF page review",
+  "sourceHashScope": "short reviewed excerpt only"
+}

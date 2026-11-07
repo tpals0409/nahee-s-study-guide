@@ -13,9 +13,13 @@ PUT = "INSERT INTO explanations (id, body) VALUES (?, ?) ON CONFLICT (id) DO UPD
 
 def rows():
     questions = {q["id"]: q for q in json.loads((ROOT / "app/public/questions.json").read_text())}
+    source_questions = {q["id"]: q for q in json.loads((ROOT / "data/questions.json").read_text())["questions"]}
     dates = json.loads((ROOT / 'data/exam_dates.json').read_text())
     for path in sorted((ROOT / "data/explanations").glob("*.json")):
         body = json.loads(path.read_text())
+        # Keep partial notes for source questions whose missing figures prevent serving them.
+        if path.stem not in questions and body.get('review', {}).get('status') == 'partial' and path.stem in source_questions:
+            questions[path.stem] = source_questions[path.stem]
         if (path.stem not in questions or not isinstance(body.get("summary"), str)
                 or not body["summary"].strip() or not isinstance(body.get("choices"), list)
                 or len(body["choices"]) != len(questions[path.stem]["choices"])

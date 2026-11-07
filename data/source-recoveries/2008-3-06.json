@@ -1,0 +1,56 @@
+{
+  "id": "2008-3-06",
+  "originalQuestion": {
+    "id": "2008-3-06",
+    "year": 2008,
+    "round": 45,
+    "session": 3,
+    "subject": "자연과학개론",
+    "form": "A",
+    "number": 6,
+    "stem": "그래프는 일정량의 단원자 이상기체의 상태가 A → B를 따라 변화할 때, 압력과 부피의 관계를 나타낸 것이다. A → B과정에서 이 기체가 흡수한 열량은?",
+    "choices": [
+      "(3/2)P₀V₀",
+      "3P₀V₀",
+      "(9/2)P₀V₀",
+      "(11/2)P₀V₀",
+      "6P₀V₀"
+    ],
+    "answer": [
+      5
+    ],
+    "text_source": "hwp",
+    "images": [],
+    "source_file": "raw_x/문제/2008_1001904/변리사(자연과학개론)A형.hwp",
+    "source_page": 1,
+    "issues": [
+      "figures_not_available",
+      "review_unsure"
+    ],
+    "reviewed": true,
+    "review_note": "그래프의 좌표값(2P₀, P₀, V₀, 2V₀ 등)과 A,B 위치는 그림이라 확정 못함"
+  },
+  "sourcePageUrl": "https://ace.jnu.ac.kr/bbs/ace/2128/439559/artclView.do",
+  "renderedPageUrl": "https://ace.jnu.ac.kr/viewer/result/ace/2128/201009/bbsAtch_2128_439559_3.files/4.html",
+  "downloadUrl": "https://ace.jnu.ac.kr/bbs/ace/2128/361113/download.do",
+  "downloadSha256": "a849203cbe9c02fbf2616ed791c0aa7bf200c54da14a1e24a317a284944833e2",
+  "originalSha256": "6b28e58708665670425ef0e8a2241e9f34153595ffca9a909ca01b1a15584b2e",
+  "method": "공개 사본과 로컬 원본은 파일 해시가 다르지만 6번 지문·수식·선지 기록 일치 확인. Synap 벡터 도형은 svg: 접두사만 표준 HTML SVG로 정규화해 시각 확인. 수식 GIF는 제공 URL에서 404이므로 수식 레코드로 대조. 복원한 좌표·직선 경로를 앱 본문에 명시.",
+  "coordinates": {
+    "A": [
+      1,
+      1
+    ],
+    "B": [
+      2,
+      2
+    ],
+    "axes": "V/V0, P/P0"
+  },
+  "calculation": {
+    "W/P0V0": "3/2",
+    "deltaU/P0V0": "9/2",
+    "Q/P0V0": "6"
+  },
+  "sourceHtmlSha256": "56273d2c5c1451b1f83d2c3e363e94b0ae6ecb8adf04fbba6c9f76109465a464"
+}
