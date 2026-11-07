@@ -763,11 +763,12 @@ dialog.chat-sheet { top: var(--chat-top, auto); bottom: auto; height: var(--chat
 .tutor-page .chat-messages .say.me { width:fit-content; align-self:flex-end; }
 @media (min-width:768px) { .tutor-page { height:var(--chat-height,calc(100dvh - 64px)); } }
 @media (max-width:767px) {
- .page-ask { padding-inline:12px; gap:12px; }
- .tutor-page { border-radius:20px; }
- .tutor-page .chat-header { padding:12px; }
+ .page-ask { padding:0; gap:0; max-width:none; }
+ .page-ask > .topbrand, .shell:has(.tutor-page) > .nav { display:none; }
+ .tutor-page { height:var(--chat-height,100dvh); border-radius:0; border:0; }
+ .tutor-page .chat-header { padding:calc(12px + env(safe-area-inset-top)) 12px 12px; }
  .tutor-page .chat-messages { padding:16px; }
- .tutor-page .chat-compose { padding:10px 12px 12px; }
+ .tutor-page .chat-compose { padding:10px 12px max(12px,env(safe-area-inset-bottom)); }
  .tutor-page .chat-header p { display:none; }
  .shell:has(.tutor-page.keyboard-open) > .nav { display:none; }
  .tutor-page.keyboard-open .chat-intro-icon { display:none; }

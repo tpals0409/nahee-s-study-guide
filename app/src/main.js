@@ -1205,7 +1205,7 @@ function updateChatViewport() {
     if (freeChatMode) {
       const keyboard = chatBaseHeight - visibleHeight > 100;
       const top = dialog.getBoundingClientRect?.()?.top ?? 0;
-      dialog.style.setProperty("--chat-height", `${Math.max(200, offset + visibleHeight - top - (innerWidth >= 768 ? 32 : keyboard ? 16 : 88))}px`);
+      dialog.style.setProperty("--chat-height", `${Math.max(200, offset + visibleHeight - top - (innerWidth >= 768 ? 32 : 0))}px`);
       dialog.classList.toggle("keyboard-open", keyboard);
       return;
     }
