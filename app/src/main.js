@@ -12,6 +12,10 @@ const ICONS = {
 	logout: '<path d="M9 4H4v16h5M10 12h10m-4-4 4 4-4 4"/>',
 	home: '<rect x="3" y="5" width="18" height="16" rx="3"/><path d="M3 10h18M8 3v4M16 3v4"/>',
 	layers: '<path d="m12 3 9 5-9 5-9-5 9-5Z"/><path d="m3 13 9 5 9-5"/>',
+	plus: '<path d="M12 5v14M5 12h14"/>',
+	camera: '<path d="M8 5l2-2h4l2 2h4v15H4V5Z"/><circle cx="12" cy="12" r="4"/>',
+	compose: '<path d="M14 4H5v16h15v-9M12 12l-1 4 4-1 7-7-3-3-7 7Z"/>',
+	up: '<path d="M12 19V5M6 11l6-6 6 6"/>',
 	bookmark: '<path d="M6 3h12v18l-6-4-6 4V3Z"/>',
 	chart: '<path d="M4 20v-7h4v7M10 20V9h4v11M16 20V4h4v16"/>',
 	note: '<rect x="5" y="3" width="15" height="18" rx="3"/><path d="M3 8h4M3 12h4M3 16h4M11 8h5M11 12h5"/>',
@@ -182,7 +186,7 @@ function shell(tab, body) {
 	app.innerHTML = `<div class="shell ${motion}">
 		<nav class="nav" aria-label="주요 메뉴">
 			<div class="brand">${icon("note")}<span>나희의<br>합격노트</span></div>
-			${TABS.map(([id, label, ic]) => `<a href="#${id}" data-tab="${id}" ${id === tab ? 'aria-current="page"' : ""}>${icon(ic)}<span>${label}</span></a>`).join("")}
+			${TABS.map(([id, label, ic]) => `<a href="#${id}" data-tab="${id}" ${(id === tab || (tab === "ask" && id === "home")) ? 'aria-current="page"' : ""}>${icon(ic)}<span>${label}</span></a>`).join("")}
 			<button class="nav-logout" data-act="logout">${icon("logout")}<span>로그아웃</span></button>
 		</nav>
 		<main class="main page-${tab}"><header class="topbrand"><div class="brand">${icon("note")}<span>나희의 합격노트</span></div><button class="top-logout" data-act="logout">${icon("logout")}<span>로그아웃</span></button></header>${body}</main>
@@ -217,7 +221,7 @@ function home() {
 	const review = extraReview();
 	const finished = done === ids.length;
 	shell("home", `<h1>오늘의 학습</h1>
-	<button class="btn quiet home-ai" data-act="ai-free-open" aria-haspopup="dialog">AI에게 질문하기 <span class="small">사진으로도 물어보세요</span></button>
+	<button class="home-ai" data-act="ai-free-open"><span class="home-ai-icon">${icon("note")}</span><span class="home-ai-copy"><strong>AI에게 질문하기</strong><span>막히는 문제는 사진으로, 궁금한 개념은 글로</span></span><span class="home-ai-arrow">${icon("arrow")}</span></button>
 	<div class="home">
 		<section class="card hero">
 			<div class="row"><h2>오늘의 기출</h2><strong>${num(done)} / ${ids.length}</strong></div>
@@ -558,7 +562,7 @@ function explainHtml(q) {
 
 function chatMessagesHtml(q, s) {
 	return `${s.pastChat && !q?.fixed ? '<p class="small muted">이전 대화 · 당시 보기 번호 기준</p>' : ""}
-	${s.chat.length ? s.chat.map((m, index) => `<div data-chat-index="${index}" class="say ${m.role === "user" ? "me" : ""}"><span class="chat-speaker">${m.role === "user" ? "나" : "AI"}</span><div class="chat-text">${esc(m.content)}</div>${(m.images ?? []).map(img => `<img class="chat-photo" src="data:${esc(img.media_type)};base64,${esc(img.data)}" alt="질문에 첨부한 사진">`).join("")}${chatSourcesHtml(m.sources)}</div>`).join("") : `<div class="chat-empty"><h3>어떤 부분이 궁금한가요?</h3><p class="muted">${q ? "현재 문제와 해설을 바탕으로 답변해 드려요." : "문제를 입력하거나 사진을 첨부해 주세요. 근거를 찾아 함께 설명해 드려요."}</p><div class="chat-prompts" ${q ? "" : "hidden"}><button class="chip" data-act="chat-prompt" data-keep-open="true" data-prompt="정답의 핵심 근거를 쉽게 설명해 주세요.">정답의 핵심 근거</button><button class="chip" data-act="chat-prompt" data-keep-open="true" data-prompt="제가 고른 답과 정답의 차이를 설명해 주세요.">내 답과 정답 비교</button></div></div>`}
+	${s.chat.length ? s.chat.map((m, index) => `<div data-chat-index="${index}" class="say ${m.role === "user" ? "me" : ""}"><span class="chat-speaker">${m.role === "user" ? "나" : "AI"}</span><div class="chat-text">${esc(m.content)}</div>${(m.images ?? []).map(img => `<img class="chat-photo" src="data:${esc(img.media_type)};base64,${esc(img.data)}" alt="질문에 첨부한 사진">`).join("")}${chatSourcesHtml(m.sources)}</div>`).join("") : `<div class="chat-empty"><span class="chat-intro-icon">${icon("note")}</span><h3>${q ? "어떤 부분이 궁금한가요?" : "막힌 문제,\n함께 풀어볼까요?"}</h3><p class="muted">${q ? "현재 문제와 해설을 바탕으로 답변해 드려요." : "문제를 입력하거나 사진을 첨부해 주세요.\n풀이부터 근거까지 차근차근 설명해 드려요."}</p>${q ? `<div class="chat-prompts"><button class="chip" data-act="chat-prompt" data-keep-open="true" data-prompt="정답의 핵심 근거를 쉽게 설명해 주세요.">정답의 핵심 근거</button><button class="chip" data-act="chat-prompt" data-keep-open="true" data-prompt="제가 고른 답과 정답의 차이를 설명해 주세요.">내 답과 정답 비교</button></div>` : `<div class="chat-start-actions"><button data-act="chat-photo-pick" data-keep-open="true">${icon("camera")}<strong>사진으로 질문</strong><span>문제를 찍거나 불러오기</span></button><button data-act="chat-type" data-keep-open="true">${icon("compose")}<strong>직접 입력</strong><span>개념부터 풀이까지</span></button></div>`}</div>`}
 	${s.asking ? '<p class="small muted" role="status">답변 작성 중…</p>' : ""}
 	${s.askError ? '<p class="error" role="alert">답변을 받지 못했어요. 다시 전송해 주세요.</p>' : ""}`;
 }
@@ -567,8 +571,12 @@ const freeChat = { chat: [], askDraft: "", attachments: [] };
 let freeChatMode = false;
 const chatState = () => freeChatMode ? freeChat : session;
 const chatQuestion = () => freeChatMode ? null : current();
+const chatElement = () => document.getElementById(freeChatMode ? "tutor-chat" : "ai-chat");
 function chatSourcesHtml(sources = []) {
- return sources.length ? `<details class="chat-sources"><summary>검색 근거 ${sources.length}개</summary>${sources.filter(s => /^https:\/\//.test(s.url)).map(s => `<a href="${esc(s.url)}" target="_blank" rel="noopener noreferrer">[${s.number}] ${esc(s.title)}</a><span class="small muted">수집 ${esc(s.collected)}</span>`).join("")}</details>` : "";
+ return sources.length ? `<details class="chat-sources"><summary>참고한 근거 <span>${sources.length}</span></summary>${sources.filter(s => /^https:\/\//.test(s.url)).map(s => `<a href="${esc(s.url)}" class="source-chip" target="_blank" rel="noopener noreferrer">[${s.number}] ${esc(s.title)}</a><span class="small muted">수집 ${esc(s.collected)}</span>`).join("")}</details>` : "";
+}
+function pendingPhotosHtml(s) {
+ return (s.attachments ?? []).map((img,i) => `<div class="pending-photo"><img src="data:${esc(img.media_type)};base64,${esc(img.data)}" alt="전송할 사진 ${i+1}"><button type="button" data-act="chat-photo-remove" data-index="${i}" data-keep-open="true" aria-label="사진 ${i+1} 삭제">${icon("close")}</button></div>`).join("");
 }
 let chatDocked = false;
 let chatBaseHeight = 0;
@@ -576,7 +584,7 @@ let chatBaseWidth = 0;
 let chatFollowBottom = true;
 
 function paintChat() {
-	const dialog = document.getElementById("ai-chat");
+	const dialog = chatElement();
 	if (!dialog?.open || !chatState()) return;
 	const messages = dialog.querySelector(".chat-messages");
 	const atBottom = chatFollowBottom;
@@ -586,7 +594,7 @@ function paintChat() {
 }
 
 function paintChatReply(reply, index) {
-	const dialog = document.getElementById("ai-chat");
+	const dialog = chatElement();
 	if (!dialog?.open) return;
 	const messages = dialog.querySelector(".chat-messages");
 	const text = messages.querySelector(`[data-chat-index="${index}"] .chat-text`);
@@ -602,19 +610,25 @@ function openChat(free = false) {
 	const s = chatState();
 	if (!freeChatMode && (!s?.revealed || !s.explain || typeof s.explain !== "object")) return;
 	const q = chatQuestion();
-	const dialog = document.getElementById("ai-chat");
-	if (dialog.open && modeChanged) dialog.close();
-	if (dialog.open) { dialog.querySelector("textarea").focus({ preventScroll: true }); return; }
-	dialog.innerHTML = `<div class="round-grab" aria-hidden="true"><span></span></div>
-	<header class="chat-header"><div><h2 id="ai-chat-title">AI 질문</h2><p class="small muted">${q ? `${q.year}년 · ${esc(q.subject)} · ${q.number}번` : "사진·텍스트로 자유롭게 질문하세요"}</p></div>${freeChatMode ? `<button class="chip" data-act="chat-new" data-keep-open="true">새 대화</button>` : ""}<button class="iconbtn" data-act="dialog-close" aria-label="AI 질문 닫기">${icon("close")}</button></header>
+	if (freeChatMode) { document.getElementById("ai-chat")?.close(); shell("ask", `<section id="tutor-chat" class="chat-sheet free-chat tutor-page" aria-labelledby="ai-chat-title"></section>`); }
+	const dialog = chatElement();
+	if (!freeChatMode && dialog.open && modeChanged) dialog.close();
+	if (!freeChatMode && dialog.open) { dialog.querySelector("textarea").focus({ preventScroll: true }); return; }
+	dialog.classList.toggle("free-chat", freeChatMode);
+	dialog.innerHTML = `${freeChatMode ? "" : `<div class="round-grab" aria-hidden="true"><span></span></div>`}
+	<header class="chat-header">${freeChatMode ? `<a class="iconbtn" href="#home" aria-label="홈으로 돌아가기">${icon("left")}</a>` : ""}<div>${freeChatMode ? `<h1 id="ai-chat-title">AI 질문</h1>` : `<h2 id="ai-chat-title" tabindex="-1" autofocus>AI 질문</h2>`}<p class="small muted">${q ? `${q.year}년 · ${esc(q.subject)} · ${q.number}번` : "궁금한 순간, 나희의 학습 도우미"}</p></div>${freeChatMode ? `<button class="iconbtn chat-new" data-act="chat-new" data-keep-open="true" aria-label="새 대화" title="새 대화">${icon("compose")}</button>` : ""}${freeChatMode ? "" : `<button class="iconbtn" data-act="dialog-close" aria-label="AI 질문 닫기">${icon("close")}</button>`}</header>
 	<div class="chat-messages" role="log" aria-live="off" aria-label="문제에 대한 대화">${chatMessagesHtml(q, s)}</div>
 	<button class="chat-latest chip" data-act="chat-latest" data-keep-open="true" hidden>최신 답변 보기 ↓</button>
-	<form data-form="ask" class="chat-compose"><label class="sr" for="ask">AI에게 질문</label><textarea id="ask" class="field" enterkeyhint="enter" rows="2" placeholder="궁금한 내용을 입력하세요">${esc(s.askDraft ?? "")}</textarea><button type="submit" class="btn" ${s.asking ? "disabled" : ""}>전송</button>${freeChatMode ? `<div class="chat-attachments"><label class="chip">사진 첨부<input id="chat-photo" type="file" accept="image/jpeg,image/png,image/webp" multiple hidden></label><button type="button" class="chip" data-act="chat-photo-clear" data-keep-open="true">사진 지우기</button><span id="photo-status" class="small muted" role="status">${(s.attachments ?? []).length} / 2장</span><div id="pending-photos">${(s.attachments ?? []).map(img => `<img class="chat-photo" src="data:${img.media_type};base64,${img.data}" alt="전송할 사진">`).join("")}</div></div>` : ""}<p class="small muted">AI 답변에는 오류가 있을 수 있어요. <span class="keyboard-hint">⌘ / Ctrl + Enter로 전송</span></p><span class="sr chat-status" role="status"></span></form>`;
+	<form data-form="ask" class="chat-compose">
+    ${freeChatMode ? `<div id="pending-photos">${pendingPhotosHtml(s)}</div><input id="chat-photo" type="file" accept="image/jpeg,image/png,image/webp" multiple hidden>` : ""}
+    <div class="chat-input-box"><label class="sr" for="ask">AI에게 질문</label><textarea id="ask" rows="2" enterkeyhint="enter" placeholder="궁금한 내용을 편하게 물어보세요">${esc(s.askDraft ?? "")}</textarea><div class="chat-input-tools">${freeChatMode ? `<button type="button" class="iconbtn chat-attach" data-act="chat-photo-pick" data-keep-open="true" aria-label="사진 첨부" title="사진 첨부">${icon("plus")}</button><span id="photo-status" class="small muted" role="status">${s.attachments?.length ? `${s.attachments.length}장 첨부됨` : "사진 최대 2장"}</span>` : `<span class="small muted">현재 문제와 함께 질문해요</span>`}<button type="submit" class="chat-send" aria-label="질문 전송" ${s.asking ? "disabled" : ""}>${icon("up")}</button></div></div>
+    <p class="chat-disclaimer">AI 답변은 중요한 근거를 한 번 더 확인해 주세요.</p><span class="sr chat-status" role="status"></span></form>`;
 	chatBaseHeight = innerHeight;
 	chatBaseWidth = innerWidth;
 	chatFollowBottom = true;
-	chatDocked = innerWidth >= 1024;
-	if (chatDocked) dialog.show(); else dialog.showModal();
+	chatDocked = !freeChatMode && innerWidth >= 1024;
+	if (freeChatMode) dialog.open = true;
+	else if (chatDocked) dialog.show(); else dialog.showModal();
 	updateChatViewport();
 	const messages = dialog.querySelector(".chat-messages");
 	messages.scrollTop = messages.scrollHeight;
@@ -987,9 +1001,12 @@ const ACTIONS = {
 		document.querySelector('[data-act="flag"]').setAttribute("aria-pressed", state.flags[id].on);
 	},
 	"ai-chat-open": () => openChat(),
-	"ai-free-open": () => openChat(true),
-	"chat-new"() { if (freeChat.asking || freeChat.processing) return; Object.assign(freeChat, {chat: [], attachments: [], askDraft: "", askError: false}); document.getElementById("ai-chat").close(); openChat(true); },
-	"chat-photo-clear"() { if (freeChat.asking || freeChat.processing) return; freeChat.attachments = []; document.getElementById("photo-status").textContent = "0 / 2장"; document.getElementById("pending-photos").innerHTML = ""; },
+	"ai-free-open": () => { location.hash = "#ask"; },
+	"chat-new"() { if (freeChat.asking || freeChat.processing) return; Object.assign(freeChat, {chat: [], attachments: [], askDraft: "", askError: false}); openChat(true); },
+	"chat-photo-pick"() { if (!freeChat.asking && !freeChat.processing) document.getElementById("chat-photo")?.click(); },
+    "chat-type"() { document.getElementById("ask")?.focus({preventScroll:true}); },
+    "chat-photo-remove"(d) { if (freeChat.asking || freeChat.processing) return; freeChat.attachments.splice(Number(d.index),1); document.getElementById("pending-photos").innerHTML=pendingPhotosHtml(freeChat); document.getElementById("photo-status").textContent=freeChat.attachments.length ? `${freeChat.attachments.length}장 첨부됨` : "사진 최대 2장"; },
+    "chat-photo-clear"() { if (freeChat.asking || freeChat.processing) return; freeChat.attachments = []; document.getElementById("photo-status").textContent = "사진 최대 2장"; document.getElementById("pending-photos").innerHTML = ""; },
 	"chat-prompt"(d) {
 		if (!chatState()) return;
 		chatState().askDraft = d.prompt;
@@ -998,7 +1015,7 @@ const ACTIONS = {
 		input.focus({ preventScroll: true });
 	},
 	"chat-latest"() {
-		const dialog = document.getElementById("ai-chat");
+		const dialog = chatElement();
 		chatFollowBottom = true;
 		const messages = dialog.querySelector(".chat-messages");
 		messages.scrollTop = messages.scrollHeight;
@@ -1182,10 +1199,18 @@ function updateChatViewport() {
 	const offset = viewport?.offsetTop ?? 0;
 	if (viewport && Math.abs(viewport.scale - 1) > .01) return;
 	document.documentElement.style.setProperty("--kb", `${Math.max(0, innerHeight - visibleHeight - offset)}px`);
-	const dialog = document.getElementById("ai-chat");
+	const dialog = chatElement();
 	if (!dialog?.open) return;
+    if (chatBaseWidth !== innerWidth) { chatBaseWidth = innerWidth; chatBaseHeight = innerHeight; }
+    if (freeChatMode) {
+      const keyboard = chatBaseHeight - visibleHeight > 100;
+      const top = dialog.getBoundingClientRect?.()?.top ?? 0;
+      dialog.style.setProperty("--chat-height", `${Math.max(200, offset + visibleHeight - top - (innerWidth >= 768 ? 32 : keyboard ? 16 : 88))}px`);
+      dialog.classList.toggle("keyboard-open", keyboard);
+      return;
+    }
 	if (chatBaseWidth !== innerWidth) { chatBaseWidth = innerWidth; chatBaseHeight = innerHeight; }
-	const docked = innerWidth >= 1024;
+	const docked = !freeChatMode && innerWidth >= 1024;
 	if (docked !== chatDocked) {
 		const focused = document.activeElement;
 		dialog.close();
@@ -1194,6 +1219,7 @@ function updateChatViewport() {
 		if (dialog.contains(focused)) focused.focus({ preventScroll: true });
 	}
 	const layout = chatViewportLayout(chatBaseHeight, visibleHeight, offset, innerWidth);
+	if (freeChatMode && innerWidth >= 768) { layout.height = Math.min(780, visibleHeight - 48); layout.top = offset + (visibleHeight - layout.height) / 2; }
 	dialog.style.setProperty("--chat-top", `${layout.top}px`);
 	dialog.style.setProperty("--chat-height", `${layout.height}px`);
 	dialog.classList.toggle("keyboard-open", layout.keyboard);
@@ -1239,7 +1265,7 @@ async function handleChatPhoto(e) {
   }
   freeChat.attachments.push(...added);
   status.textContent=`${freeChat.attachments.length} / 2장 준비됨`;
-  document.getElementById("pending-photos").innerHTML=freeChat.attachments.map(img=>`<img class="chat-photo" src="data:${img.media_type};base64,${img.data}" alt="전송할 사진">`).join("");
+  document.getElementById("pending-photos").innerHTML=pendingPhotosHtml(freeChat);
  } catch(error) { status.textContent=error.message; }
  finally {freeChat.processing=false; e.target.value="";}
 }
@@ -1255,7 +1281,7 @@ document.addEventListener("submit", async (e) => {
 	if (!text && !images.length) return;
 	if (s.chat.length >= 28) { toast("대화가 길어졌어요. 새 대화를 시작해 주세요."); return; }
 	const chat = s.chat;
-	const shown = () => chatState() === s && chatQuestion() === q && document.getElementById("ai-chat")?.open;
+	const shown = () => chatState() === s && chatQuestion() === q && chatElement()?.open;
 	if (free && JSON.stringify([...chat, {role:"user",content:text,images}]).length > 3500000) { toast("사진이 많아졌어요. 새 대화에서 이어서 질문해 주세요."); return; }
 	const before = chat.length;
 	chat.push({ role: "user", content: text, ...(images.length ? { images } : {}) });
@@ -1278,17 +1304,17 @@ document.addEventListener("submit", async (e) => {
 			if (shown()) paintChatReply(reply, replyIndex);
 		}
 		if (!reply.content) throw new Error("빈 답변");
-		if (free) { s.attachments = []; if (shown()) { document.getElementById("photo-status").textContent = "0 / 2장"; const previews=document.getElementById("pending-photos"); if(previews) previews.innerHTML=""; } }
+		if (free) { s.attachments = []; if (shown()) { document.getElementById("photo-status").textContent = "사진 최대 2장"; const previews=document.getElementById("pending-photos"); if(previews) previews.innerHTML=""; } }
 		else write(`chat:${q.id}`, chat);
 	} catch {
 		chat.length = before;
 		Object.assign(s, { askError: true, askDraft: text });
-		if (shown()) document.getElementById("ai-chat").querySelector("textarea").value = text;
+		if (shown()) chatElement().querySelector("textarea").value = text;
 	} finally {
 		s.asking = false;
 		if (shown()) {
 			paintChat();
-			document.getElementById("ai-chat").querySelector(".chat-status").textContent = s.askError ? "답변을 받지 못했어요. 질문을 다시 전송해 주세요." : "AI 답변이 완료됐어요.";
+			chatElement().querySelector(".chat-status").textContent = s.askError ? "답변을 받지 못했어요. 질문을 다시 전송해 주세요." : "AI 답변이 완료됐어요.";
 		}
 	}
 });
@@ -1332,7 +1358,7 @@ function loginScreen(message = "") {
 	</div>`;
 }
 
-const ROUTES = { home, exam, notes, stats };
+const ROUTES = { home, exam, notes, stats, ask: () => openChat(true) };
 
 /* 이전 화면이 바로 사라지지 않게 겹쳐서 넘긴다. 풀이를 닫을 때는 아래로 내려간다. */
 function paint() {

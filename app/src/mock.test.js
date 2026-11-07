@@ -341,10 +341,16 @@ assert.equal((await run("fetchExplain({id:'science'})")).summary,'old');
 console.log('explanation refresh and offline fallback ok');
 
 // Home tutor owns a separate conversation, including image-only input.
-ctx.document.getElementById = (id) => id === "ai-chat" ? chatDialog : id === "photo-status" ? chatSend : null;
+ctx.document.getElementById = (id) => (id === "ai-chat" || id === "tutor-chat") ? chatDialog : id === "photo-status" ? chatSend : null;
 chatDialog.close = function() { this.open=false; };
+chatDialog.showModal = () => { throw new Error('Free tutor must be a page, not a modal'); };
 run('session=null; openChat(true);');
-assert.match(chatDialog.innerHTML,/사진·텍스트로 자유롭게/);
+assert.match(app.innerHTML, /id="tutor-chat"/);
+assert.doesNotMatch(chatDialog.innerHTML, /AI 질문 닫기/);
+run("ACTIONS['ai-free-open']();");
+assert.equal(ctx.location.hash, '#ask');
+assert.equal(run('typeof ROUTES.ask'), 'function');
+assert.match(chatDialog.innerHTML,/나희의 학습 도우미/);
 assert.match(chatDialog.innerHTML,/id="chat-photo"/);
 assert.match(chatDialog.innerHTML,/새 대화/);
 assert.match(run('chatMessagesHtml(null,freeChat)'),/문제를 입력하거나 사진을 첨부/);
