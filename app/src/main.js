@@ -181,7 +181,8 @@ function pageMotion(key) {
 
 /* 각 화면의 제목 머리글은 화면 위에 붙어 있다(styles.css). 스크롤했을 때만 흐림 배경을 깔아 상태표시줄 뒤로 글자가 비치지 않게 한다 */
 function markStuckHeader() {
-	document.querySelector?.(".main > :first-child")?.classList.toggle("stuck", scrollY > 0);
+	// 맨 위에서 살짝 튕길 때 배경이 깜빡이지 않게 조금 내려간 뒤에 깐다
+	document.querySelector?.(".main > :first-child")?.classList.toggle("stuck", scrollY > 8);
 }
 addEventListener("scroll", markStuckHeader, { passive: true });
 
