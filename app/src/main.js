@@ -1,4 +1,4 @@
-import {
+import { mathHtml,
 	basisHtml, esc, stemHtml, chatSegments, chatTextHtml, chatViewportLayout,
 	DAILY_SIZE, MOCK_MINUTES, SUBJECTS, addDays, choiceOrder, dayComplete, dayIds, dayKey, emptyState, isCorrect,
 	merge, mockHistory, pickDaily, progress, reviewIds, shuffle, solvedOn, streak, weekStart,
@@ -189,7 +189,7 @@ function shell(tab, body) {
 			${TABS.map(([id, label, ic]) => `<a href="#${id}" data-tab="${id}" ${(id === tab || (tab === "ask" && id === "home")) ? 'aria-current="page"' : ""}>${icon(ic)}<span>${label}</span></a>`).join("")}
 			<button class="nav-logout" data-act="logout">${icon("logout")}<span>로그아웃</span></button>
 		</nav>
-		<main class="main page-${tab}"><header class="topbrand"><div class="brand">${icon("note")}<span>나희의 합격노트</span></div><button class="top-logout" data-act="logout">${icon("logout")}<span>로그아웃</span></button></header>${body}</main>
+		<main class="main page-${tab}">${body}</main>
 	</div>`;
 	if (!motion) return;
 	dismissToast();
@@ -376,10 +376,13 @@ function notesFlagged(flagged) {
 	<section class="card"><div class="list">${flagged.length ? flagged.map((q) => notesItem(q, q.subject)).join("") : '<p class="muted">개정 의심으로 표시한 문제가 없어요.</p><a class="btn quiet" href="#notes">오답노트로 돌아가기</a>'}</div></section>`);
 }
 
+/* 네 칸 세그먼트에 들어가도록 줄인 과목 이름. 선택된 이름은 카드 제목에 전체로 나온다. */
+const SHORT_SUBJECT = { 산업재산권법: "산업재산권", 민법개론: "민법", 자연과학개론: "자연과학" };
+
 function radarCard() {
 	const views = radarViews(state.log, byId, today());
 	return `<section class="card stats-chart" aria-labelledby="accuracy-title"><h2 id="accuracy-title" class="sr">과목별 정답률</h2>
-	<div class="stats-subjects" role="group" aria-label="정답률 과목 선택">${views.map((view, i) => `<button class="chip" data-act="radar-select" data-index="${i}" aria-pressed="${i === radarIndex}">${view.title}</button>`).join("")}</div>
+	<div class="stats-subjects" role="group" aria-label="정답률 과목 선택">${views.map((view, i) => `<button class="chip" data-act="radar-select" data-index="${i}" aria-pressed="${i === radarIndex}">${SHORT_SUBJECT[view.title] ?? view.title}</button>`).join("")}</div>
 	<button class="radar-card" id="radar-card" data-act="radar-next" aria-label="${views[radarIndex].title} 정답률, 다음 분류 보기"><span class="radar-face">${radarFace(views[radarIndex], radarIndex)}</span></button>
 	<p class="small muted">최근 7일 · 반복 풀이 포함 · 격자 한 칸은 약 33%</p>
 	<span class="sr" id="radar-status" role="status" aria-live="polite"></span></section>`;
@@ -444,7 +447,8 @@ function statsPanel() {
 function stats() {
 	shell("stats", `<h1>학습 기록</h1>
 	<div class="record-views" role="group" aria-label="학습 기록 화면 선택">${[["accuracy", "정답률"], ["calendar", "학습 달력"]].map(([value, label]) => `<button data-act="stats-view" data-view="${value}" aria-pressed="${statsView === value}">${label}</button>`).join("")}</div>
-	<div class="stats-layout" id="stats-panel">${statsPanel()}</div>`);
+	<div class="stats-layout" id="stats-panel">${statsPanel()}</div>
+	<button class="btn quiet stats-logout" data-act="logout">${icon("logout")}<span>로그아웃</span></button>`);
 }
 
 /* 풀이 */
@@ -522,7 +526,7 @@ function choiceHtml(q) {
 		const correct = isCorrect(q, orig);
 		const cls = s.revealed ? (correct ? "right" : picked === orig ? "wrong" : "") : "";
 		const mark = s.revealed ? (correct ? "정답" : picked === orig ? "내 답" : "") : "";
-		return `<label class="choice ${cls}"><input type="radio" name="c" value="${orig}" ${picked === orig ? "checked" : ""} ${s.revealed ? "disabled" : ""}><span aria-hidden="true">${NUM[pos]}</span><span>${esc(q.choices[orig])}</span>${mark ? `<span class="mark">${mark}</span>` : ""}</label>`;
+		return `<label class="choice ${cls}"><input type="radio" name="c" value="${orig}" ${picked === orig ? "checked" : ""} ${s.revealed ? "disabled" : ""}><span aria-hidden="true">${NUM[pos]}</span><span>${mathHtml(q.choices[orig])}</span>${mark ? `<span class="mark">${mark}</span>` : ""}</label>`;
 	}).join("")}</fieldset>`;
 }
 

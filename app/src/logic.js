@@ -255,3 +255,70 @@ export function chatViewportLayout(baseHeight, visibleHeight, offsetTop = 0, wid
 	const top = Math.max(offsetTop + 8, Math.min(restingTop, bottom - 240));
 	return { top, height: Math.max(0, bottom - top), keyboard: baseHeight - visibleHeight > 100 };
 }
+
+/* 보기의 글자 수식(1/(2π), √(3LC), C_A)을 MathML 분수·루트·아래첨자로 그린다.
+   한글이 섞였거나 분수·루트·첨자가 하나도 안 생기면 글자 그대로 둔다.
+   m/s, J/mol처럼 분모가 문자뿐인 단위는 쌓지 않는다. */
+const SUP = "⁰¹²³⁴⁵⁶⁷⁸⁹⁺⁻";
+const MATH_TOKEN = new RegExp(`\\d+(?:\\.\\d+)?[${SUP}]*|[A-Za-zΑ-Ωα-ωµℏℰ][₀-₉${SUP}]*(?:_[A-Za-z0-9]+)?|\\s+|.`, "gu");
+const OPS = new Set(["+", "-", "−", "·", "×", "=", ",", "±", ":"]);
+
+function mathTree(tokens) {
+	const seq = [];
+	while (tokens.length) {
+		const t = tokens.shift();
+		if (t === ")") break;
+		if (t === "(") seq.push({ group: mathTree(tokens) });
+		else if (t === "√") seq.push({ sqrt: true });
+		else if (/^\s+$/.test(t)) seq.push({ space: true });
+		else seq.push({ t });
+	}
+	for (let i = seq.length - 2; i > 0; i--) if (seq[i].t === "^") seq.splice(i - 1, 3, { sup: [seq[i - 1], seq[i + 1]] });
+	// √ 는 바로 뒤 한 덩어리를 덮고, a^b 는 위첨자가 된다
+	for (let i = seq.length - 2; i >= 0; i--) if (seq[i].sqrt && !seq[i].arg) seq.splice(i, 2, { sqrt: true, arg: seq[i + 1] });
+	return seq;
+}
+
+const isBreak = (n) => n.space || (n.t && (OPS.has(n.t) || n.t === "/"));
+const isWord = (n) => n.t && /^[^\d]/.test(n.t) && !OPS.has(n.t);
+
+function fracs(seq) {
+	const out = [];
+	for (let i = 0; i < seq.length; i++) {
+		const n = seq[i];
+		if (n.t !== "/") { out.push(n); continue; }
+		let a = out.length;
+		while (a > 0 && !isBreak(out[a - 1])) a--;
+		let b = i + 1;
+		while (b < seq.length && !isBreak(seq[b])) b++;
+		const left = out.slice(a), right = seq.slice(i + 1, b);
+		if (!left.length || !right.length || right.every(isWord)) { out.push(n); continue; }
+		out.splice(a, out.length - a, { frac: [left, right] });
+		i = b - 1;
+	}
+	return out;
+}
+
+function mathMl(seq) {
+	const out = fracs(seq);
+	const part = (items) => items.length === 1 && items[0].group ? mathMl(items[0].group) : mathMl(items);
+	return out.map((n) => {
+		if (n.frac) return `<mfrac><mrow>${part(n.frac[0])}</mrow><mrow>${part(n.frac[1])}</mrow></mfrac>`;
+		if (n.sup) return `<msup><mrow>${part([n.sup[0]])}</mrow><mrow>${part([n.sup[1]])}</mrow></msup>`;
+		if (n.sqrt) return `<msqrt>${n.arg ? part([n.arg]) : ""}</msqrt>`;
+		// 분수 하나만 감싼 괄호는 늘어나지 않아 어색하므로 뺀다. 뜻은 같다
+		if (n.group) return fracs(n.group).length === 1 && fracs(n.group)[0].frac ? mathMl(n.group) : `<mrow><mo>(</mo>${mathMl(n.group)}<mo>)</mo></mrow>`;
+		if (n.space) return "";
+		if (/^\d/.test(n.t)) return `<mn>${esc(n.t)}</mn>`;
+		if (OPS.has(n.t) || n.t === "/") return `<mo>${esc(n.t)}</mo>`;
+		const [base, sub] = n.t.split("_");
+		return sub ? `<msub><mi>${esc(base)}</mi><mi>${esc(sub)}</mi></msub>` : `<mi>${esc(base)}</mi>`;
+	}).join("");
+}
+
+export function mathHtml(text) {
+	if (/[가-힣]/.test(text) || !/[\/√_^]/.test(text)) return esc(text);
+	const ml = mathMl(mathTree(text.match(MATH_TOKEN) ?? []));
+	if (!/<m(frac|sqrt|sub|sup)>/.test(ml)) return esc(text);
+	return `<math aria-label="${esc(text)}">${ml}</math>`;
+}

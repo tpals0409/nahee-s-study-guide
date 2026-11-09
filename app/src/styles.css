@@ -60,8 +60,6 @@ svg.i { width: 24px; height: 24px; fill: none; stroke: currentColor; stroke-widt
 .nav a, .nav-logout { display: grid; justify-items: center; gap: 2px; min-height: 56px; align-content: center; font-size: 12px; line-height: 18px; border-radius: 26px; }
 .nav a, .nav-logout { position: relative; z-index: 1; }
 .nav-logout { display: none; }
-.topbrand { display: flex; align-items: center; justify-content: space-between; gap: var(--sp-md); }
-.top-logout { display: flex; align-items: center; gap: var(--sp-xs); min-height: 44px; padding: 0 var(--sp-md); flex-shrink: 0; font-size: 14px; border-radius: var(--r-md); }
 .nav a[aria-current="page"] { background: var(--primary); }
 
 @media (min-width: 768px) {
@@ -75,7 +73,6 @@ svg.i { width: 24px; height: 24px; fill: none; stroke: currentColor; stroke-widt
 	.nav-logout { margin-top: auto; flex-shrink: 0; }
 	.main { grid-column: 2; padding: calc(var(--sp-xxl) + env(safe-area-inset-top)) var(--sp-xxl) var(--sp-xxl); }
 	.nav { padding-top: calc(var(--sp-xl) + env(safe-area-inset-top)); padding-bottom: calc(var(--sp-xl) + env(safe-area-inset-bottom)); }
-	.topbrand { display: none; }
 	h1 { font-size: 36px; line-height: 54px; }
 	h2 { font-size: 22px; line-height: 33px; }
 }
@@ -429,9 +426,10 @@ dialog[open].closing::backdrop { animation: unfade 160ms ease-in both; }
 .stats-metrics dd { margin: 8px 0 0; font-size: clamp(18px, 3vw, 28px); font-weight: 700; line-height: 1.4; }
 .stats-metrics dd span { margin-left: 4px; font-size: 14px; font-weight: 400; }
 .stats-layout, .stats-chart, .calendar-content { display: grid; gap: 16px; min-width: 0; align-content: start; }
-.stats-subjects { display: flex; flex-wrap: wrap; gap: 6px; }
-.stats-subjects .chip { padding-inline: 12px; }
-.stats-subjects .chip[aria-pressed="true"] { background: var(--primary); }
+/* 앱 전체의 선택 탭은 오답노트와 같은 세그먼트 한 가지 모양이다 */
+.stats-subjects { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 4px; padding: 4px; border-radius: var(--r-lg); background: var(--surface2); }
+.stats-subjects .chip { justify-content: center; min-height: 40px; padding: 0 4px; border-radius: 14px; background: none; font-size: 13px; white-space: nowrap; }
+.stats-subjects .chip[aria-pressed="true"] { background: var(--surface); box-shadow: var(--card-shadow); font-weight: 700; }
 .stats-chart .radar-card { max-width: none; }
 .radar-face { display: grid; gap: 8px; width: 100%; min-width: 0; }
 .calendar .cell { height: 62px; min-width: 0; border: 2px solid transparent; }
@@ -509,18 +507,12 @@ dialog[open].closing::backdrop { animation: unfade 160ms ease-in both; }
 }
 
 /* A single quiet panel gives the custom radar room to breathe. */
-.page-stats .record-views { display: flex; gap: 28px; padding: 0; border-radius: 0; background: none; border-bottom: 1px solid var(--border); }
-.page-stats .record-views button { min-height: 48px; padding: 10px 2px; border-radius: 0; border-bottom: 3px solid transparent; color: var(--muted); }
-.page-stats .record-views button[aria-pressed="true"] { background: none; box-shadow: none; border-color: var(--chart); color: var(--text); }
 .page-stats .stats-summary { display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 8px 20px; padding: 8px 0; font-size: 14px; }
 .summary-period { display: flex; flex-wrap: wrap; gap: 6px 12px; font-weight: 600; }
 .summary-period .muted { font-weight: 400; }
 .summary-inline { display: flex; flex-wrap: wrap; gap: 8px 18px; color: var(--muted); }
 .summary-inline strong { color: var(--text); margin-left: 4px; font-weight: 600; }
-.page-stats .stats-chart { padding: 20px; background: var(--surface); box-shadow: 0 8px 32px rgb(47 127 181 / .05); gap: 8px; }
-.page-stats .stats-subjects { gap: 4px; padding-bottom: 12px; border-bottom: 1px solid var(--border); }
-.page-stats .stats-subjects .chip { background: transparent; min-height: 44px; padding-inline: 12px; color: var(--muted); }
-.page-stats .stats-subjects .chip[aria-pressed="true"] { background: var(--primarySoft); color: var(--chart); }
+.page-stats .stats-chart { padding: 20px; background: var(--glass-card); box-shadow: var(--card-shadow); gap: 8px; }
 .page-stats .radar-card { display: block; padding: 8px 0; background: none; box-shadow: none; border-radius: 0; }
 .page-stats .radar-face { gap: 12px 24px; align-items: center; }
 .page-stats .radar-heading { grid-column: 1 / -1; padding: 0 4px; }
@@ -684,7 +676,7 @@ dialog.chat-sheet { top: var(--chat-top, auto); bottom: auto; height: var(--chat
 .chat-empty h3 { white-space:pre-line; font-size:28px; line-height:1.35; letter-spacing:-.9px; font-weight:650; }
 .chat-empty > p { white-space:pre-line; font-size:14px; line-height:1.8; }
 .chat-start-actions { display:grid; grid-template-columns:1fr 1fr; gap:12px; margin-top:20px; }
-.chat-start-actions button { display:grid; justify-items:start; gap:6px; padding:18px; border:1px solid var(--border); border-radius:16px; background:var(--surface); color:var(--text); text-align:left; cursor:pointer; }
+.chat-start-actions button { display:grid; justify-items:start; gap:6px; padding:18px; border:0; border-radius:var(--r-lg); background:var(--glass-card); box-shadow:var(--card-shadow); color:var(--text); text-align:left; cursor:pointer; }
 .chat-start-actions button:hover { background:var(--primarySoft); border-color:var(--primary); }
 .chat-start-actions svg { color:#255977; margin-bottom:10px; }
 .chat-start-actions strong { font-size:14px; font-weight:600; }
@@ -751,7 +743,7 @@ dialog.chat-sheet { top: var(--chat-top, auto); bottom: auto; height: var(--chat
 }
 
 /* Free questions have their own route; the four primary tabs stay unchanged. */
-.tutor-page { display:flex; flex-direction:column; height:var(--chat-height,calc(100dvh - 160px)); min-height:200px; background:var(--surface); border:1px solid var(--glass-line); border-radius:24px; overflow:hidden; }
+.tutor-page { display:flex; flex-direction:column; height:var(--chat-height,calc(100dvh - 160px)); min-height:200px; background:var(--glass-card); box-shadow:var(--card-shadow); border-radius:24px; overflow:hidden; }
 .tutor-page .chat-header { padding:18px 20px; }
 .tutor-page .chat-header > a { text-decoration:none; flex:none; color:var(--muted); }
 .page-ask { max-width:1100px; }
@@ -764,8 +756,8 @@ dialog.chat-sheet { top: var(--chat-top, auto); bottom: auto; height: var(--chat
 @media (min-width:768px) { .tutor-page { height:var(--chat-height,calc(100dvh - 64px)); } }
 @media (max-width:767px) {
  .page-ask { padding:0; gap:0; max-width:none; }
- .page-ask > .topbrand, .shell:has(.tutor-page) > .nav { display:none; }
- .tutor-page { height:var(--chat-height,100dvh); border-radius:0; border:0; }
+ .shell:has(.tutor-page) > .nav { display:none; }
+ .tutor-page { height:var(--chat-height,100dvh); border-radius:0; background:none; box-shadow:none; }
  .tutor-page .chat-header { padding:calc(12px + env(safe-area-inset-top)) 12px 12px; }
  .tutor-page .chat-messages { padding:16px; }
  .tutor-page .chat-compose { padding:10px 12px max(12px,env(safe-area-inset-bottom)); }
@@ -801,3 +793,11 @@ dialog.chat-sheet { top: var(--chat-top, auto); bottom: auto; height: var(--chat
 .flow-branches { display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 6px; }
 .flow-branch { padding: 7px 10px; border: 1px dashed var(--borderStrong); border-radius: var(--r-md); background: var(--surface); }
 .flow-label { display: inline-block; margin-right: 6px; font-weight: 600; color: #255977; }
+
+.choice math { font-size: 1.1em; math-style: normal; }
+.choice span:has(> math) { min-width: 0; overflow-x: auto; overflow-y: hidden; padding-block: 2px; }
+.stats-logout { justify-self: center; display: flex; align-items: center; gap: var(--sp-xs); color: var(--muted); }
+@media (min-width: 768px) { .stats-logout { display: none; } }
+/* 홈 AI 질문 화면은 앱 배경 위에 떠 있는 입력창만 남긴다 */
+.tutor-page .chat-compose { background: none; }
+.tutor-page .chat-input-box { background: var(--surface); border-color: var(--glass-line); box-shadow: var(--card-shadow); }

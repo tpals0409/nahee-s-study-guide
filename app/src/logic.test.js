@@ -1,5 +1,5 @@
 import assert from "node:assert/strict";
-import { splitStatements, stemHtml, chatViewportLayout } from "./logic.js";
+import { mathHtml, splitStatements, stemHtml, chatViewportLayout } from "./logic.js";
 import { mockHistory, basisHtml, addDays, choiceOrder, dayComplete, dayIds, dayKey, dueIds, emptyState, isCorrect, merge, pickDaily, progress, reviewIds, streak, weekStart, dailyAccuracy } from "./logic.js";
 
 const at = (day, h = 12) => new Date(`${day}T${String(h).padStart(2, "0")}:00:00`).getTime();
@@ -226,3 +226,19 @@ assert.match(basisHtml({subject:'자연과학개론'},{basis:[source]},0),/rel="
 assert.doesNotMatch(basisHtml({}, {basis:[{...source,url:'javascript:alert(1)'}]},0),/href=/);
 assert.equal(basisHtml({}, {basis:[source]},1),'', 'common evidence is not incorrectly marked missing on every choice');
 assert.match(basisHtml({}, {basis:[{...source,kind:'precedent',verification:undefined}]},0),/원문 미확인/);
+assert.equal(mathHtml("26m/s"), "26m/s", "units stay inline");
+assert.equal(mathHtml("J/mol"), "J/mol");
+assert.equal(mathHtml("민법 1/2"), "민법 1/2", "Korean text stays text");
+assert.match(mathHtml("1/10"), /<mfrac><mrow><mn>1<\/mn><\/mrow><mrow><mn>10<\/mn><\/mrow><\/mfrac>/);
+assert.match(mathHtml("(1/2π)·(1/√(3LC))"), /<msqrt><mn>3<\/mn><mi>L<\/mi><mi>C<\/mi><\/msqrt>/);
+assert.equal((mathHtml("(1/2π)·(1/√(3LC))").match(/<mfrac>/g) ?? []).length, 2);
+assert.match(mathHtml("Q/(2ε₀)"), /<mfrac><mrow><mi>Q<\/mi><\/mrow><mrow><mn>2<\/mn><mi>ε₀<\/mi><\/mrow><\/mfrac>/, "outer parens dropped in denominator");
+assert.match(mathHtml("C_A·C_B/(C_A+C_B)"), /<msub><mi>C<\/mi><mi>A<\/mi><\/msub>/);
+assert.match(mathHtml("qB√(2P/m³)"), /<msqrt>.*<mo>\/<\/mo>.*<\/msqrt>/, "unit-like slash inside root stays inline");
+assert.match(mathHtml("3/2·<b>"), /&#60;/, "escaped");
+console.log("math choices ok");
+assert.match(mathHtml("T₀^(2/3)"), /<msup><mrow><mi>T₀<\/mi><\/mrow><mrow><mfrac>/);
+console.log("math powers ok");
+assert.doesNotMatch(mathHtml("(1/2π)·(1/√(3LC))"), /<mo>\(<\/mo>/, "parens around a lone fraction dropped");
+assert.match(mathHtml("(1/2 + 1/3)x"), /<mo>\(<\/mo>/, "parens around a sum kept");
+console.log("math parens ok");
