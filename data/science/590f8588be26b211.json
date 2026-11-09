@@ -1,0 +1,11 @@
+{
+ "url": "https://openstax.org/books/chemistry-2e/pages/11-4-colligative-properties",
+ "title": "Chemistry 2e §11.4 Colligative Properties: Boiling Point Elevation",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "The mole fraction, X, of a component is the ratio of its molar amount to the total number of moles of all solution components:\nRecalling that the total pressure of a gaseous mixture is equal to the sum of partial pressures for all its components (Dalton’s law of partial pressures), the total vapor pressure exerted by a solution containing i components is\nSolutions whose components have significantly different vapor pressures may be separated by a selective vaporization process known as distillation. Consider the simple case of a mixture of two volatile liquids, A and B, with A being the more volatile liquid. Raoult’s law can be used to show that the vapor above the solution is enriched in component A, that is, the mole fraction of A in the vapor is greater than the mole fraction of A in the liquid (see end-of-chapter Exercise 65). By appropriately heating the mixture, component A may be vaporized, condensed, and collected—effectively separating it from component B.\nAs described in the chapter on liquids and solids, the boiling point of a liquid is the temperature at which its vapor pressure is equal to ambient atmospheric pressure. Since the vapor pressure of a solution is lowered due to the presence of nonvolatile solutes, it stands to reason that the solution’s boiling point will subsequently be increased. Vapor pressure increases with temperature, and so a solution will require a higher temperature than will pure solvent to achieve any given vapor pressure, including one e",
+ "missingExcerpts": [
+  "Assuming complete dissociation and ideal solution behavior",
+  "Since the solvent is the only volatile component of this solution, its vapor pressure may be computed per Raoult’s law as:"
+ ]
+}

@@ -1,0 +1,10 @@
+{
+ "url": "https://openstax.org/books/biology-2e/pages/7-3-oxidation-of-pyruvate-and-the-citric-acid-cycle",
+ "title": "Biology 2e 7.3 — Oxidation of Pyruvate and the Citric Acid Cycle",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "Like the conversion of pyruvate to acetyl CoA, the citric acid cycle takes place in the matrix of mitochondria. Almost all of the enzymes of the citric acid cycle are soluble, with the single exception of the enzyme succinate dehydrogenase, which is embedded in the inner membrane of the mitochondrion. Unlike glycolysis, the citric acid cycle is a closed loop: the last part of the pathway regenerates the compound used in the first step. The eight steps of the cycle are a series of redox, dehydration, hydration, and decarboxylation reactions that produce two carbon dioxide molecules, one GTP/ATP, and the reduced carriers NADH and FADH_2 (Figure 7.11). This is considered an aerobic pathway because the NADH and FADH_2 produced must transfer their electrons to the next pathway in the system, which will use oxygen. If this transfer does not occur, the oxidation steps of the citric acid cycle also do not occur. Note that the citric acid cycle produces very little ATP directly and does not directly consume oxygen.\nStep 5. In step five, a carboxyl group is substituted for coenzyme A, and a high-energy bond is formed. This energy is used in substrate-level phosphorylation (during the conversion of the succinyl group to succinate) to form either guanosine triphosphate (GTP) or ATP. There are two forms of the enzyme, called isoenzymes, for this step, depending upon the type of animal tissue in which they are found. One form is found in tissues that use large amounts of ATP, such as heart",
+ "missingExcerpts": [
+  "three NAD+ molecules are reduced to NADH"
+ ]
+}

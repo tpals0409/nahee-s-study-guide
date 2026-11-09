@@ -1,0 +1,11 @@
+{
+ "url": "https://openstax.org/books/university-physics-volume-3/pages/6-5-de-broglies-matter-waves",
+ "title": "University Physics Volume 3 §6.5, equations 6.53–6.58 and Example 6.11",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "According to de Broglie’s hypothesis, massless photons as well as massive particles must satisfy one common set of relations that connect the energy E with the frequency f, and the linear momentum p with the wavelength λ.λ. We have discussed these relations for photons in the context of Compton’s effect. We are recalling them now in a more general context. Any particle that has energy and momentum is a de Broglie wave of frequency f and wavelength λ:λ:\nFor the basketball, the kinetic energy is K=mu2/2=(0.65kg)(10m/s)2/2=32.5JK=mu2/2=(0.65kg)(10m/s)2/2=32.5J and the rest mass energy is E0=mc2=(0.65kg)(2.998×108m/s)2=5.84×1016J.E0=mc2=(0.65kg)(2.998×108m/s)2=5.84×1016J. We see that K/(K+E0)≪1K/(K+E0)≪1 and use p=mu=(0.65kg)(10m/s)=6.5J·s/m:p=mu=(0.65kg)(10m/s)=6.5J·s/m: λ=hp=6.626×10−34J·s6.5J·s/m=1.02×10−34m.λ=hp=6.626×10−34J·s6.5J·s/m=1.02×10−34m.\nFor the nonrelativistic electron, E0=mc2=(9.109×10−31kg)(2.998×108m/s)2=511keVE0=mc2=(9.109×10−31kg)(2.998×108m/s)2=511keV and when K=1.0eV,K=1.0eV, we have K/(K+E0)=(1/512)×10−3≪1,K/(K+E0)=(1/512)×10−3≪1, so we can use the nonrelativistic formula. However, it is simpler here to use Equation 6.58: λ=hp=hcK(K+2E0)=1.241eV·μm(1.0eV)[1.0eV+2(511keV)]=1.23nm.λ=hp=hcK(K+2E0)=1.241eV·μm(1.0eV)[1.0eV+2(511keV)]=1.23nm. If we use nonrelativistic momentum, we obtain the same result because 1 eV is much smaller than the rest mass of the electron.\nUsing the concept of the electron matter wave, de Broglie provided a rationale for the quantizati",
+ "missingExcerpts": [
+  "When the problem involves a nonrelativistic object moving with a nonrelativistic speed u,",
+  "we use nonrelativistic momentum p."
+ ]
+}

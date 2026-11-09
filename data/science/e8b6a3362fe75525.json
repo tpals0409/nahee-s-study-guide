@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/university-physics-volume-3/pages/3-2-mathematics-of-interference",
+ "title": "University Physics Volume 3 3.2 Mathematics of Interference",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "where d is the distance between the slits. Combining this result with Equation 3.1, we obtain constructive interference for a double slit when the path length difference is an integral multiple of the wavelength, or\nSimilarly, to obtain destructive interference for a double slit, the path length difference must be a half-integral multiple of the wavelength, or\nwhere λλ is the wavelength of the light, d is the distance between slits, and θθ is the angle from the original direction of the beam as discussed above. We call m the order of the interference. For example, m=4m=4 is fourth-order interference.",
+ "missingExcerpts": []
+}

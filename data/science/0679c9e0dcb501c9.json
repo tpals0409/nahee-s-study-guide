@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/university-physics-volume-1/pages/3-6-finding-velocity-and-displacement-from-acceleration",
+ "title": "University Physics Volume 1 §3.6 — Eqs. 3.18–3.19",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "Find the functional form of position versus time given the velocity function.\nThis section assumes you have enough background in calculus to be familiar with integration. In Instantaneous Velocity and Speed and Average and Instantaneous Acceleration we introduced the kinematic functions of velocity and acceleration using the derivative. By taking the derivative of the position function we found the velocity function, and likewise by taking the derivative of the velocity function we found the acceleration function. Using integral calculus, we can work backward and calculate the velocity function from the acceleration function, and the position function from the velocity function.\nLet’s begin with a particle with an acceleration a(t) which is a known function of time. Since the time derivative of the velocity function is acceleration,",
+ "missingExcerpts": []
+}

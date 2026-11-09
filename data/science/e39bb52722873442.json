@@ -1,0 +1,8 @@
+{
+ "url": "https://solarscience.msfc.nasa.gov/interior.shtml",
+ "title": "The Solar Interior",
+ "license": "U.S. federal government work (public domain)",
+ "collected": "2026-11-09",
+ "text": "The Sun's core is the central region where nuclear reactions consume hydrogen to form helium. These reactions release the energy that ultimately leaves the surface as visible light. These reactions are highly sensitive to temperature and density. The individual hydrogen nuclei must collide with enough energy to give a reasonable probability of overcoming the repulsive electrical force between these two positively charged particles. The temperature at the very center of the Sun is about 15,000,000° C (27,000,000° F) and the density is about 150 g/cm³ (approximately 10 times the density of gold, 19.3 g/cm³ or lead, 11.3 g/cm³). Both the temperature and the density decrease as one moves outward from the center of the Sun. The nuclear burning is almost completely shut off beyond the outer edge of the core (about 25% of the distance to the surface or 175,000 km from the center). At that point the temperature is only half its central value and the density drops to about 20 g/cm³.\nIn stars like the Sun the nuclear burning takes place through a three step process called the proton-proton or pp chain. In the first step two protons collide to produce deuterium, a positron, and a neutrino. In the second step a proton collides with the deuterium to produce a helium-3 nucleus and a gamma ray. In the third step two helium-3s collide to produce a normal helium-4 nucleus with the release of two protons.",
+ "missingExcerpts": []
+}

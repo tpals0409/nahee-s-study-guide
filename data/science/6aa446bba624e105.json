@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/university-physics-volume-3/pages/7-1-wave-functions",
+ "title": "7.1 Wave Functions",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "Visit this interactive simulation to learn more about quantum wave interference.\nThe square of the matter wave |Ψ|2|Ψ|2 in one dimension has a similar interpretation as the square of the electric field |E|2|E|2. It gives the probability that a particle will be found at a particular position and time per unit length, also called the probability density. The probability (P) a particle is found in a narrow interval (x, x + dx) at time t is therefore\n(Later, we define the magnitude squared for the general case of a function with “imaginary parts.”) This probabilistic interpretation of the wave function is called the Born interpretation. Examples of wave functions and their squares for a particular time t are given in Figure 7.3.\nThe function in the integral is a sine function with a wavelength equal to the width of the well, L—an odd function about x=L/2x=L/2. As a result, the integral vanishes.\nThe expectation value of kinetic energy in the x-direction requires the associated operator to act on the wave function:\nThus, the expectation value of the kinetic energy is",
+ "missingExcerpts": []
+}

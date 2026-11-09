@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/university-physics-volume-1/pages/10-7-newtons-second-law-for-rotation",
+ "title": "OpenStax University Physics Volume 1 §10.7 Newton’s Second Law for Rotation",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "By the end of this section, you will be able to:\nCalculate the torques on rotating systems about a fixed axis to find the angular acceleration\nNote that the left side of this equation is the torque about the axis of rotation, where r is the lever arm and F is the force, perpendicular to r. Recall that the moment of inertia for a point particle isI=mr2I=mr2. The torque applied perpendicularly to the point mass in Figure 10.37 is therefore\nThe torque on the particle is equal to the moment of inertia about the rotation axis times the angular acceleration. We can generalize this equation to a rigid body rotating about a fixed axis.\nIf more than one torque acts on a rigid body about a fixed axis, then the sum of the torques equals the moment of inertia times the angular acceleration:\nThe term IαIα is a scalar quantity and can be positive or negative (counterclockwise or clockwise) depending upon the sign of the net torque. Remember the convention that counterclockwise angular acceleration is positive. Thus, if a rigid body is rotating clockwise and experiences a positive torque (counterclockwise), the angular acceleration is positive.",
+ "missingExcerpts": []
+}

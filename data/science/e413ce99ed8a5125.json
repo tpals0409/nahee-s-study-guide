@@ -1,0 +1,10 @@
+{
+ "url": "https://openstax.org/books/university-physics-volume-2/pages/10-3-kirchhoffs-rules",
+ "title": "University Physics Volume 2 §10.3, Figure 10.23 and voltage graph",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "Even though this circuit cannot be analyzed using the methods already learned, two circuit analysis rules can be used to analyze any circuit, simple or complex. The rules are known as Kirchhoff’s rules, after their inventor Gustav Kirchhoff (1824–1887).\nKirchhoff’s first rule—the junction rule. The sum of all currents entering a junction must equal the sum of all currents leaving the junction: ∑Iin=∑ Iout.∑Iin=∑ Iout. 10.4\nKirchhoff’s second rule—the loop rule. The algebraic sum of changes in potential around any closed circuit path (loop) must be zero: ∑ V=0.∑ V=0. 10.5\nWe now provide explanations of these two rules, followed by problem-solving hints for applying them and a worked example that uses them.",
+ "missingExcerpts": [
+  "from the positive terminal to the negative terminal, subtract the potential drop."
+ ]
+}

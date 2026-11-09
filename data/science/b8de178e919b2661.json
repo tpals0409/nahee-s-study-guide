@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/university-physics-volume-2/pages/1-2-thermometers-and-temperature-scales",
+ "title": "1.2 Thermometers and Temperature Scales",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "The definition of temperature in terms of molecular motion suggests that there should be a lowest possible temperature, where the average kinetic energy of molecules is zero (or the minimum allowed by quantum mechanics). Experiments confirm the existence of such a temperature, called absolute zero. An absolute temperature scale is one whose zero point is absolute zero. Such scales are convenient in science because several physical quantities, such as the volume of an ideal gas, are directly related to absolute temperature.\nThe Kelvin scale is the absolute temperature scale that is commonly used in science. The SI temperature unit is the kelvin, which is abbreviated K (not accompanied by a degree sign). Thus 0 K is absolute zero. The freezing and boiling points of water are 273.15 K and 373.15 K, respectively. Therefore, temperature differences are the same in units of kelvins and degrees Celsius, or ΔTC=ΔTK.ΔTC=ΔTK.\nThe relationships between the three common temperature scales are shown in Figure 1.4. Temperatures on these scales can be converted using the equations in Table 1.1.",
+ "missingExcerpts": []
+}

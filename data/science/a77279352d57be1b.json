@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/chemistry-2e/pages/5-3-enthalpy",
+ "title": "Chemistry 2e 5.3 Enthalpy — Hess’s law",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "as shown in Figure 5.19. This is one version of the first law of thermodynamics, and it shows that the internal energy of a system changes through heat flow into or out of the system (positive q is heat flow in; negative q is heat flow out) or work done on or by the system. The work, w, is positive if it is done on the system and negative if it is done by the system.\nThis type of calculation usually involves the use of Hess’s law, which states: If a process can be written as the sum of several stepwise processes, the enthalpy change of the total process equals the sum of the enthalpy changes of the various steps. Hess’s law is valid because enthalpy is a state function: Enthalpy changes depend only on where a chemical process starts and ends, but not on the path it takes from start to finish. For example, we can think of the reaction of carbon with oxygen to form carbon dioxide as occurring either directly or by a two-step process. The direct process is written:",
+ "missingExcerpts": []
+}

@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/biology-2e/pages/12-3-laws-of-inheritance",
+ "title": "Biology 2e §12.3 — Laws of Inheritance",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "For the F2 generation, the law of segregation requires that each gamete receive either an R allele or an r allele along with either a Y allele or a y allele. The law of independent assortment states that a gamete into which an r allele sorted would be equally likely to contain either a Y allele or a y allele. Thus, there are four equally likely gametes that can be formed when the YyRr heterozygote is self-crossed, as follows: YR, Yr, yR, and yr. Arranging these gametes along the top and left of a 4 × 4 Punnett square (Figure 12.16) gives us 16 equally likely genotypic combinations. From these genotypes, we infer a phenotypic ratio of 9 round/yellow:3 round/green:3 wrinkled/yellow:1 wrinkled/green (Figure 12.16). These are the offspring ratios we would expect, assuming we performed the crosses with a large enough sample size.",
+ "missingExcerpts": []
+}

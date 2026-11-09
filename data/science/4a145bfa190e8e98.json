@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/chemistry-2e/pages/6-3-development-of-quantum-theory",
+ "title": "Chemistry 2e 6.3 Development of Quantum Theory",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "An electron in an atom is completely described by four quantum numbers: n, l, m_l, and m_s. The first three quantum numbers define the orbital and the fourth quantum number describes the intrinsic electron property called spin. An Austrian physicist Wolfgang Pauli formulated a general principle that gives the last piece of information that we need to understand the general behavior of electrons in atoms. The Pauli exclusion principle can be formulated as follows: No two electrons in the same atom can have exactly the same set of all the four quantum numbers. What this means is that two electrons can share the same orbital (the same set of the quantum numbers n, l, and m_l) only if their spin quantum numbers m_s have different values. Since the spin quantum number can only have two values (±12),(±12), no more than two electrons can occupy the same orbital (and if two electrons are located in the same orbital, they must have opposite spins). Therefore, any atomic orbital can be populated by only zero, one, or two electrons.",
+ "missingExcerpts": []
+}

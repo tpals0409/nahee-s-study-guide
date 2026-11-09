@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/university-physics-volume-1/pages/7-1-work",
+ "title": "University Physics Volume 1 §7.1 Work",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "The units of work are units of force multiplied by units of length, which in the SI system is newtons times meters, N·m.N·m. This combination is called a joule, for historical reasons that we will mention later, and is abbreviated as J. In the English system, still used in the United States, the unit of force is the pound (lb) and the unit of distance is the foot (ft), so the unit of work is the foot-pound (ft·lb).(ft·lb).\nThe simplest work to evaluate is that done by a force that is constant in magnitude and direction. In this case, we can factor out the force; the remaining integral is just the total displacement, which only depends on the end points A and B, but not on the path between them:\nFigure 7.3(a) shows a person exerting a constant force F→F→ along the handle of a lawn mower, which makes an angle θθ with the horizontal. The horizontal displacement of the lawn mower, over which the force acts, is d→.d→. The work done on the lawn mower isW=F→·d→=FdcosθW=F→·d→=Fdcosθ, which the figure also illustrates as the horizontal component of the force times the magnitude of the displacement.",
+ "missingExcerpts": []
+}

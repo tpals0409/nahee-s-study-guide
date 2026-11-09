@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/university-physics-volume-1/pages/9-2-impulse-and-collisions",
+ "title": "University Physics Volume 1 §9.2 Impulse and Collisions, equations 9.3–9.6",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "Apply the impulse-momentum theorem to solve problems\nWe have defined momentum to be the product of mass and velocity. Therefore, if an object’s velocity should change (due to the application of a force on the object), then necessarily, its momentum changes as well. This indicates a connection between momentum and force. The purpose of this section is to explore and describe that connection.\nSuppose you apply a force on a free object for some amount of time. Clearly, the larger the force, the larger the object’s change of momentum will be. Alternatively, the more time you spend applying this force, again the larger the change of momentum will be, as depicted in Figure 9.5. The amount by which the object’s motion changes is therefore proportional to the magnitude of the force, and also to the time interval over which the force is applied.\nMathematically, if a quantity is proportional to two (or more) things, then it is proportional to the product of those things. The product of a force and a time interval (over which that force acts) is called impulse, and is given the symbol J→.J→.\nLet F→(t)F→(t) be the force applied to an object over some differential time interval dt (Figure 9.6). The resulting impulse on the object is defined as",
+ "missingExcerpts": []
+}

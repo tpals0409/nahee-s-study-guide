@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/microbiology/pages/20-2-detecting-antigen-antibody-complexes",
+ "title": "Microbiology 20.2 Detecting Antigen-Antibody Complexes",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "What is the function of the enzyme in the immunoblot assay?\nOne of the key functions of antibodies is the activation (fixation) of complement. When antibody binds to bacteria, for example, certain complement proteins recognize the bound antibody and activate the complement cascade. In response, other complement proteins bind to the bacteria where some serve as opsonins to increase the efficiency of phagocytosis and others create holes in gram-negative bacterial cell membranes, causing lysis. This lytic activity can be used to detect the presence of antibodies against specific antigens in the serum.\nRed blood cells are good indicator cells to use when evaluating complement-mediated cytolysis. Hemolysis of red blood cells releases hemoglobin, which is a brightly colored pigment, and hemolysis of even a small number of red cells will cause the solution to become noticeably pink (Figure 20.14). This characteristic plays a role in the complement fixation test, which allows the detection of antibodies against specific pathogens. The complement fixation test can be used to check for antibodies against pathogens that are difficult to culture in the lab such as fungi, viruses, or the bacteria Chlamydia.",
+ "missingExcerpts": []
+}

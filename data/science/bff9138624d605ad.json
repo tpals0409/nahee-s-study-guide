@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/organic-chemistry/pages/21-7-chemistry-of-amides",
+ "title": "Organic Chemistry 21.7 — Chemistry of Amides",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "Amides are usually prepared by reaction of an amine with an acid chloride (Section 21.4). Ammonia, monosubstituted amines, and disubstituted amines all undergo the reaction.\nAmides undergo hydrolysis to yield carboxylic acids plus ammonia or an amine upon heating in either aqueous acid or aqueous base. The conditions required for amide hydrolysis are more extreme than those required for the hydrolysis of acid chlorides or esters, but the mechanisms are similar. Acidic hydrolysis reaction occurs by nucleophilic addition of water to the protonated amide, followed by transfer of a proton from oxygen to nitrogen to make the nitrogen a better leaving group, and subsequent elimination. The steps are reversible, with the equilibrium shifted toward product by protonation of NH_3 in the final step.\nBasic hydrolysis occurs by nucleophilic addition of OH^– to the amide carbonyl group, followed by elimination of amide ion (^–NH_2) and subsequent deprotonation of the initially formed carboxylic acid by ammonia. The steps are reversible, with the equilibrium shifted toward product by the final deprotonation of the carboxylic acid. Basic hydrolysis is substantially more difficult than the analogous acid-catalyzed reaction because amide ion is a very poor leaving group, making the elimination step difficult.",
+ "missingExcerpts": []
+}

@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/university-physics-volume-2/pages/3-1-thermodynamic-systems",
+ "title": "University Physics Volume 2: Thermodynamic Systems",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "where V, p, and T are the volume, pressure, and temperature of the system at a given condition.\nIn principle, this equation of state exists for any thermodynamic system but is not always readily available. The forms of f(p,V,T)=0f(p,V,T)=0 for many materials have been determined either experimentally or theoretically. In the preceding chapter, we saw an example of an equation of state for an ideal gas, f(p,V,T)=pV−nRT=0.f(p,V,T)=pV−nRT=0.\nWe have so far introduced several physical properties that are relevant to the thermodynamics of a thermodynamic system, such as its volume, pressure, and temperature. We can separate these quantities into two generic categories. The quantity associated with an amount of matter is an extensive variable, such as the volume and the number of moles. The other properties of a system are intensive variables, such as the pressure and temperature. An extensive variable doubles its value if the amount of matter in the system doubles, provided all the intensive variables remain the same. For example, the volume or total energy of the system doubles if we double the amount of matter in the system while holding the temperature and pressure of the system unchanged.",
+ "missingExcerpts": []
+}

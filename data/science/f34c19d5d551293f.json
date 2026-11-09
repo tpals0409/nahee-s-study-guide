@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/university-physics-volume-1/pages/3-5-free-fall",
+ "title": "University Physics Volume 1, 3.5 Free Fall",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "The best way to see the basic features of motion involving gravity is to start with the simplest situations and then progress toward more complex ones. So, we start by considering straight up-and-down motion with no air resistance or friction. These assumptions mean the velocity (if there is any) is vertical. If an object is dropped, we know the initial velocity is zero when in free fall. When the object has left contact with whatever held or threw it, the object is in free fall. When the object is thrown, it has the same initial speed in free fall as it did before it was released. When the object comes in contact with the ground or any other object, it is no longer in free fall and its acceleration of g is no longer valid. Under these circumstances, the motion is one-dimensional and has constant acceleration of magnitude g. We represent vertical displacement with the symbol y.",
+ "missingExcerpts": []
+}

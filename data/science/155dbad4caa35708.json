@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/organic-chemistry/pages/12-2-interpreting-mass-spectra",
+ "title": "12.2",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "What kinds of information can we get from a mass spectrum? The most obvious information is the molecular weight of the sample, which in itself can be invaluable. If we were given samples of hexane (MW = 86), 1-hexene (MW = 84), and 1-hexyne (MW = 82), for example, mass spectrometry would easily distinguish them.\nSome instruments, called double-focusing mass spectrometers, have two magnetic sectors in their mass analyzers, giving these spectrometers have such high resolution that they provide mass measurements accurate to 5 ppm, or about 0.0005 amu, making it possible to distinguish between two formulas with the same nominal mass. For example, both C_5H_12 and C_4H_8O have MW = 72, but they differ slightly beyond the decimal point: C_5H_12 has an exact mass of 72.0939 amu, whereas C_4H_8O has an exact mass of 72.0575 amu. A high-resolution instrument can easily distinguish between them. Note, however, that exact mass measurements refer to molecules with specific isotopic compositions. Thus, the sum of the exact atomic masses of the specific isotopes in a molecule is measured—1.007 83 amu for ^1H, 12.000 00 amu for ^12C, 14.003 07 amu for ^14N, 15.994 91 amu for ^16O, and so on—rather than the sum of the average atomic masses of elements, as found on a periodic table.",
+ "missingExcerpts": []
+}

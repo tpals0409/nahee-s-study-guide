@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/organic-chemistry/pages/1-7-sp3-hybrid-orbitals-and-the-structure-of-ethane",
+ "title": "1.7 sp3 Hybrid Orbitals and the Structure of Ethane",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "The same kind of orbital hybridization that accounts for the methane structure also accounts for the bonding together of carbon atoms into chains and rings to make possible many millions of organic compounds. Ethane, C_2H_6, is the simplest molecule containing a carbon–carbon bond.\nWe can picture the ethane molecule by imagining that the two carbon atoms bond to each other by head-on sigma (σ) overlap of an sp^3 hybrid orbital from each (Figure 1.13). The remaining three sp^3 hybrid orbitals on each carbon overlap with the 1s orbitals of three hydrogens to form the six C–H bonds. The C–H bonds in ethane are similar to those in methane, although a bit weaker: 421 kJ/mol (101 kcal/mol) for ethane versus 439 kJ/mol for methane. The C–C bond is 153 pm in length and has a strength of 377 kJ/mol (90 kcal/mol). All the bond angles of ethane are near, although not exactly at, the tetrahedral value of 109.5°.\nConvert the following molecular model of hexane, a component of gasoline, into a line-bond structure (black = C, gray = H).",
+ "missingExcerpts": []
+}

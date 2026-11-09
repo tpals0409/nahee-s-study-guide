@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/microbiology/pages/18-4-b-lymphocytes-and-humoral-immunity",
+ "title": "Microbiology 18.4 B Lymphocytes and Humoral Immunity",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "Once activated by linked recognition, T_H2 cells produce and secrete cytokines that activate the B cell and cause proliferation into clonal daughter cells. After several rounds of proliferation, additional cytokines provided by the T_H2 cells stimulate the differentiation of activated B cell clones into memory B cells, which will quickly respond to subsequent exposures to the same protein epitope, and plasma cells that lose their membrane BCRs and initially secrete pentameric IgM (Figure 18.22).\nAfter initial secretion of IgM, cytokines secreted by T_H2 cells stimulate the plasma cells to switch from IgM production to production of IgG, IgA, or IgE. This process, called class switching or isotype switching, allows plasma cells cloned from the same activated B cell to produce a variety of antibody classes with the same epitope specificity. Class switching is accomplished by genetic rearrangement of gene segments encoding the constant region, which determines an antibody’s class. The variable region is not changed, so the new class of antibody retains the original epitope specificity.\nWhat steps are required for T cell-dependent activation of B cells?",
+ "missingExcerpts": []
+}

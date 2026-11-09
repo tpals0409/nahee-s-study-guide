@@ -1,0 +1,10 @@
+{
+ "url": "https://openstax.org/books/university-physics-volume-1/pages/9-4-types-of-collisions",
+ "title": "OpenStax University Physics Volume 1 §9.4 Types of Collisions",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "Any collision where the objects stick together will result in the maximum loss of kinetic energy (i.e., KfKf will be a minimum).\nSuch a collision is called perfectly inelastic. In the extreme case, multiple objects collide, stick together, and remain motionless after the collision. Since the objects are all motionless after the collision, the final kinetic energy is also zero; therefore, the loss of kinetic energy is a maximum.\nIf 0<Kf<Ki0<Kf<Ki, the collision is inelastic.\nIf KfKf is the lowest energy, or the energy lost by both objects is the most, the collision is perfectly inelastic (objects stick together).\nThe extreme case on the other end is if two or more objects approach each other, collide, and bounce off each other, moving away from each other at the same relative speed at which they approached each other. In this case, the total kinetic energy of the system is conserved. Such an interaction is called elastic.\nA closed system always conserves momentum; it might also conserve kinetic energy, but very often it doesn’t. Energy-momentum problems confined to a plane (as ours are) usually have two unknowns. Generally, this approach works well:\nWrite down the expression for conservation of momentum.",
+ "missingExcerpts": [
+  "Thus, kinetic energy is not conserved, but momentum is."
+ ]
+}

@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/university-physics-volume-1/pages/5-3-newtons-second-law",
+ "title": "University Physics 1 §5.3 Newton’s Second Law",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "It seems reasonable that acceleration would be directly proportional to and in the same direction as the net external force acting on a system. This assumption has been verified experimentally and is illustrated in Figure 5.10. To obtain an equation for Newton’s second law, we first write the relationship of acceleration a→a→ and net external force F→netF→net as the proportionality\nwhere the symbol ∝∝ means “proportional to.” (Recall from Forces that the net external force is the vector sum of all external forces and is sometimes indicated as ∑F→.∑F→.) This proportionality shows what we have said in words—acceleration is directly proportional to net external force. Once the system of interest is chosen, identify the external forces and ignore the internal ones. It is a tremendous simplification to disregard the numerous internal forces acting between objects within the system, such as muscular forces within the students’ bodies, let alone the myriad forces between the atoms in the objects. Still, this simplification helps us solve some complex problems.\nIt also seems reasonable that acceleration should be inversely proportional to the mass of the system. In other words, the larger the mass (the inertia), the smaller the acceleration produced by a given force. As illustrated in Figure 5.11, the same net external force applied to a basketball produces a much smaller acceleration when it is applied to an SUV. The proportionality is written as",
+ "missingExcerpts": []
+}

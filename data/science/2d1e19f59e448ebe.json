@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/organic-chemistry/pages/12-3-mass-spectrometry-of-some-common-functional-groups",
+ "title": "12.3 Mass Spectrometry of Some Common Functional Groups",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "The mass spectrum of triethylamine has a base peak at m/z = 86, which arises from an alpha cleavage resulting in the loss of a methyl group (Figure 12.11).\nThe fact that some elements have two common isotopes gives their mass spectra a distinctive appearance. Chlorine, for example, exists as two isotopes, ^35Cl and ^37Cl, in roughly a 3 : 1 ratio. In a sample of chloroethane, three out of four molecules contain a ^35Cl atom and one out of four has a ^37Cl atom. In the mass spectrum of chloroethane (Figure 12.12 we see the molecular ion (M) at m/z = 64 for ions that contain a ^35Cl and another peak at m/z = 66, called the M + 2 peak, for ions containing a ^37Cl. The ratio of the relative abundance of M : M + 2 is about 3 : 1, a reflection of the isotopic abundances of chlorine.\nIn the case of bromine, the isotopic distribution is 50.7% ^79Br and 49.3% ^81Br. In the mass spectrum of 1-bromohexane (Figure 12.13) the molecular ion appears at m/z = 164 for ^79Br-containing ions and the M + 2 peak is at m/z = 166 for ^81Br-containing ions. The ions at m/z = 135 and 137 are informative as well. The two nearly equally large peaks tell us that the ions at those m/z values still contain the bromine atom. The peak at m/z = 85, on the other hand, does not contain bromine because there is not a large peak at m/z = 87.",
+ "missingExcerpts": []
+}

@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/university-physics-volume-1/pages/9-6-center-of-mass",
+ "title": "University Physics Volume 1 §9.6 — Center of Mass, Eq. 9.29",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "This is an important result. Equation 9.25 tells us that the total change of momentum of the entire object (all N particles) is due only to the external forces; the internal forces do not change the momentum of the object as a whole. This is why you can’t lift yourself in the air by standing in a basket and pulling up on the handles: For the system of you + basket, your upward pulling force is an internal force.\nLooking at this calculation, notice that (inside the parentheses) we are calculating the product of each particle’s mass with its position, adding all N of these up, and dividing this sum by the total mass of particles we summed. This is reminiscent of an average; inspired by this, we’ll (loosely) interpret it to be the weighted average position of the mass of the extended object. It’s actually called the center of mass of the object. Notice that the position of the center of mass has units of meters; that suggests a definition:",
+ "missingExcerpts": []
+}

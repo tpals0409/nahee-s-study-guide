@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/chemistry-2e/pages/10-4-phase-diagrams",
+ "title": "Chemistry 2e §10.4 — Water phase diagram",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "The solid-liquid curve labeled BD shows the temperatures and pressures at which ice and liquid water are in equilibrium, representing the melting/freezing points for water. Note that this curve exhibits a slight negative slope (greatly exaggerated for clarity), indicating that the melting point for water decreases slightly as pressure increases. Water is an unusual substance in this regard, as most substances exhibit an increase in melting point with increasing pressure. This behavior is partly responsible for the movement of glaciers, like the one shown in Figure 10.33. The bottom of a glacier experiences an immense pressure due to its weight that can melt some of the ice, forming a layer of liquid water on which the glacier may more easily slide.\nThe point of intersection of all three curves is labeled B in Figure 10.31. At the pressure and temperature represented by this point, three phases of water coexist in equilibrium. This temperature-pressure data pair is called the triple point. At pressures lower than the triple point, water cannot exist as a liquid, regardless of the temperature.\nAt 0.3 kPa: s⟶gs⟶g at −58 °C. At 50 kPa: s⟶ls⟶l at 0 °C, l ⟶ g at 78 °C",
+ "missingExcerpts": []
+}

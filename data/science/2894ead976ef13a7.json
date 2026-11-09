@@ -1,0 +1,10 @@
+{
+ "url": "https://openstax.org/books/university-physics-volume-2/pages/5-5-calculating-electric-fields-of-charge-distributions",
+ "title": "University Physics Volume2 §5.5 Calculating Electric Fields of Charge Distributions",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "Then, for a line charge, a surface charge, and a volume charge, the summation in Equation 5.4 becomes an integral and qiqi is replaced by dq=λdldq=λdl, σdAσdA, or ρdVρdV, respectively:\nThe integrals are generalizations of the expression for the field of a point charge. They implicitly include and assume the principle of superposition. The “trick” to using them is almost always in coming up with correct expressions for dl, dA, or dV, as the case may be, expressed in terms of r, and also expressing the charge density function appropriately. It may be constant; it might be dependent on location.\nNote carefully the meaning of r in these equations: It is the distance from the charge element (qi,λdl,σdA,ρdV)(qi,λdl,σdA,ρdV) to the location of interest, P(x,y,z)P(x,y,z) (the point in space where you want to determine the field). However, don’t confuse this with the meaning of r^r^; we are using it and the vector notation E→E→ to write three integrals at once. That is, Equation 5.9 is actually",
+ "missingExcerpts": [
+  "Find the electric field at a point on the axis passing through the center of the ring."
+ ]
+}

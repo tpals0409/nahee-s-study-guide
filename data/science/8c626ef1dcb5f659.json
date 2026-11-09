@@ -1,0 +1,8 @@
+{
+ "url": "https://www.ncei.noaa.gov/products/natural-hazards/tsunamis-earthquakes-volcanoes/tsunamis/travel-time-maps",
+ "title": "Tsunami Travel Time Maps",
+ "license": "U.S. federal government work (public domain)",
+ "collected": "2026-11-09",
+ "text": "NCEI is currently moving its data and applications to the cloud. This upgrade may result in temporary data access delays. Please see our cloud migration overview and frequently asked questions for more information and resources. Check the NCEI Alerts page for impacted products and datasets. Current Impact: Intermittent degraded order fulfillment services.\nNCEI, the World Data Service for Geophysics (including Tsunamis), and the UNESCO-IOC International Tsunami Information Center, collaborate to provide tsunami travel time maps. Tsunamis are categorized as long waves; therefore, tsunami travel times can be computed with water depth as the only variable (Murty, T.S., Seismic Sea Waves Tsunamis, Bulletin 198). Long waves occur when the distance between wave crests is much greater than the water depth through which the wave is traveling. Wave speed is computed from the square root of the quantity: water depth times the acceleration of gravity. So, tsunami travel times can be computed without any knowledge of the tsunami's height, wavelength, etc.\nCoastal Locations Interactive Map provides estimated tsunami travel times from any point in the ocean to selected coastal locations.",
+ "missingExcerpts": []
+}

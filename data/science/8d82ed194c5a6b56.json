@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/university-physics-volume-1/pages/15-1-simple-harmonic-motion",
+ "title": "15.1 Simple Harmonic Motion — University Physics Volume 1",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "If the net force can be described by Hooke’s law and there is no damping (slowing down due to friction or other nonconservative forces), then a simple harmonic oscillator oscillates with equal displacement on either side of the equilibrium position, as shown for an object on a spring in Figure 15.3. The maximum displacement from equilibrium is called the amplitude (A). The units for amplitude and displacement are the same but depend on the type of oscillation. For the object on the spring, the units of amplitude and displacement are meters.\nThe angular frequency depends only on the force constant and the mass, and not the amplitude. The angular frequency is defined as ω=2π/T,ω=2π/T, which yields an equation for the period of the motion:",
+ "missingExcerpts": []
+}

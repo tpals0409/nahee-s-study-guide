@@ -1,0 +1,11 @@
+{
+ "url": "https://openstax.org/books/biology-2e/pages/7-2-glycolysis",
+ "title": "Biology 2e §7.2 Glycolysis, energy investment/payoff and outcomes",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "As you have read, nearly all of the energy used by living cells comes to them in the bonds of the sugar glucose. Glycolysis is the first step in the breakdown of glucose to extract energy for cellular metabolism. In fact, nearly all living organisms carry out glycolysis as part of their metabolism. The process does not use oxygen directly and therefore is termed anaerobic. Glycolysis takes place in the cytoplasm of both prokaryotic and eukaryotic cells. Glucose enters heterotrophic cells in two ways. One method is through secondary active transport in which the transport takes place against the glucose concentration gradient. The other mechanism uses a group of integral proteins called GLUT proteins, also known as glucose transporter proteins. These transporters assist in the facilitated diffusion of glucose.\nGlycolysis begins with the six-carbon ring-shaped structure of a single glucose molecule and ends with two molecules of a three-carbon keto acid called pyruvate. Glycolysis consists of two distinct phases. The first part of the glycolysis pathway traps the glucose molecule in the cell and uses energy to modify it so that the six-carbon sugar molecule can be split evenly into the two three-carbon molecules. The second part of glycolysis extracts energy from the molecules and stores it in the form of ATP and NADH—remember: this is the reduced form of NAD.\nStep 1. The first step in glycolysis (Figure 7.8) is catalyzed by hexokinase, an enzyme with broad specificity that cat",
+ "missingExcerpts": [
+  "The second half of glycolysis involves phosphorylation without ATP investment (step 6) and produces two NADH and four ATP molecules per glucose.",
+  "produces two NADH and four ATP molecules per glucose"
+ ]
+}

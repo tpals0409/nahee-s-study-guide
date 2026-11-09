@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/university-physics-volume-1/pages/12-1-conditions-for-static-equilibrium",
+ "title": "12.1 Conditions for Static Equilibrium",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "The second equilibrium condition, Equation 12.5, is the equilibrium condition for torques that we encountered when we studied rotational dynamics. It is worth noting that this equation for equilibrium is generally valid for rotational equilibrium about any axis of rotation (fixed or otherwise). Again, this vector equation is equivalent to three scalar equations for the vector components of the net torque:\nThe second equilibrium condition means that in equilibrium, there is no net external torque to cause rotation about any axis.\nThe first and second equilibrium conditions are stated in a particular reference frame. The first condition involves only forces and is therefore independent of the origin of the reference frame. However, the second condition involves torque, which is defined as a cross product, τ→k=r→k×F→k,τ→k=r→k×F→k, where the position vector r→kr→k with respect to the axis of rotation of the point where the force is applied enters the equation. Therefore, torque depends on the location of the axis in the reference frame. However, when rotational and translational equilibrium conditions hold simultaneously in one frame of reference, then they also hold in any other inertial frame of reference, so that the net torque about any axis of rotation is still zero. The explanation for this is fairly straightforward.",
+ "missingExcerpts": []
+}

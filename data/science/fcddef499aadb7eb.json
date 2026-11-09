@@ -1,0 +1,10 @@
+{
+ "url": "https://openstax.org/books/organic-chemistry/pages/7-2-calculating-the-degree-of-unsaturation",
+ "title": "Organic Chemistry, 7.2 Calculating the Degree of Unsaturation",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "In general, each ring or double bond in a molecule corresponds to a loss of two hydrogens from the alkane formula C_nH_2n+2. Knowing this relationship, it’s possible to work backward from a molecular formula to calculate a molecule’s degree of unsaturation—the number of rings and/or multiple bonds present in the molecule.\nOrganooxygen compounds (C, H, O) Oxygen forms two bonds, so it doesn’t affect the formula of an equivalent hydrocarbon and can be ignored when calculating the degree of unsaturation. You can convince yourself of this by seeing what happens when an oxygen atom is inserted into an alkane bond: C−C becomes C−O−C or C−H becomes C−O−H, and there is no change in the number of hydrogen atoms. For example, the formula C_5H_8O is equivalent to the hydrocarbon formula C_5H_8 and thus corresponds to two degrees of unsaturation.",
+ "missingExcerpts": [
+  "Ignore the number of oxygens."
+ ]
+}

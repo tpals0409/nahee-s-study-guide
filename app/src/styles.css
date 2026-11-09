@@ -801,3 +801,25 @@ dialog.chat-sheet { top: var(--chat-top, auto); bottom: auto; height: var(--chat
 /* 홈 AI 질문 화면은 앱 배경 위에 떠 있는 입력창만 남긴다 */
 .tutor-page .chat-compose { background: none; }
 .tutor-page .chat-input-box { background: var(--surface); border-color: var(--glass-line); box-shadow: var(--card-shadow); }
+/* 홈 AI 질문 대화 목록: 휴대폰은 목록 버튼으로 대화 자리를 목록으로 바꾸고, 넓은 화면은 왼쪽에 늘 둔다 */
+.chat-list { display: none; flex-direction: column; gap: 4px; padding: 12px; overflow-y: auto; overscroll-behavior: contain; }
+.tutor-page.list-open .chat-list { display: flex; flex: 1; min-height: 0; }
+.tutor-page.list-open :is(.chat-messages, .chat-compose, .chat-latest) { display: none; }
+.chat-list-new { display: flex; align-items: center; gap: 8px; min-height: 48px; padding: 0 14px; margin-bottom: 8px; border-radius: var(--r-md); background: var(--surface); box-shadow: var(--card-shadow); font-weight: 600; }
+.chat-list-item { display: flex; align-items: center; gap: 4px; border-radius: var(--r-md); }
+.chat-list-item.on { background: var(--primarySoft); }
+.chat-list-open { flex: 1; min-width: 0; display: grid; gap: 2px; padding: 10px 12px; text-align: left; border-radius: var(--r-md); }
+.chat-list-open strong { overflow: hidden; white-space: nowrap; text-overflow: ellipsis; font-weight: 600; }
+.chat-list-item .iconbtn { flex: none; color: var(--muted); }
+.chat-pending { color: var(--chart); font-weight: 600; }
+.chat-list-empty { padding: 12px; }
+.chat-list-toggle { margin-left: auto; }
+@media (min-width: 1024px) {
+	.tutor-page { display: grid; grid-template-columns: 260px minmax(0, 1fr); grid-template-rows: auto minmax(0, 1fr) auto; }
+	.tutor-page .chat-header { grid-column: 1 / -1; }
+	.tutor-page .chat-list, .tutor-page.list-open .chat-list { display: flex; grid-column: 1; grid-row: 2 / 4; border-right: 1px solid var(--border); }
+	.tutor-page :is(.chat-messages, .chat-compose), .tutor-page.list-open :is(.chat-messages, .chat-compose) { display: flex; grid-column: 2; }
+	.tutor-page .chat-messages { grid-row: 2; }
+	.tutor-page .chat-compose { grid-row: 3; }
+	.chat-list-toggle { display: none; }
+}

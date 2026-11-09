@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/chemistry-2e/pages/6-2-the-bohr-model",
+ "title": "OpenStax Chemistry 2e §6.2 The Bohr Model",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "The equation also shows us that as the electron’s energy increases (as n increases), the electron is found at greater distances from the nucleus. This is implied by the inverse dependence of electrostatic attraction on distance, since, as the electron moves away from the nucleus, the electrostatic attraction between it and the nucleus decreases and it is held less tightly in the atom. Note that as n gets larger and the orbits get larger, their energies get closer to zero, and so the limits n⟶∞n⟶∞ and r⟶∞r⟶∞ imply that E = 0 corresponds to the ionization limit where the electron is completely removed from the nucleus. Thus, for hydrogen in the ground state n = 1, the ionization energy would be:",
+ "missingExcerpts": []
+}

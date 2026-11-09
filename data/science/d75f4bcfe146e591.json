@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/astronomy-2e/pages/17-3-the-spectra-of-stars-and-brown-dwarfs",
+ "title": "Astronomy 2e §17.3 The Spectra of Stars",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "The hydrogen lines in the visible part of the spectrum (called Balmer lines) are strongest in stars with intermediate temperatures—not too hot and not too cold. Calculations show that the optimum temperature for producing visible hydrogen lines is about 10,000 K. At this temperature, an appreciable number of hydrogen atoms are excited to the second energy level. They can then absorb additional photons, rise to still-higher levels of excitation, and produce a dark absorption line. Similarly, every other chemical element, in each of its possible stages of ionization, has a characteristic temperature at which it is most effective in producing absorption lines in any particular part of the spectrum.\nAstronomers use the patterns of lines observed in stellar spectra to sort stars into a spectral class. Because a star’s temperature determines which absorption lines are present in its spectrum, these spectral classes are a measure of its surface temperature. There are seven standard spectral classes. From hottest to coldest, these seven spectral classes are designated O, B, A, F, G, K, and M. Recently, astronomers have added three additional classes for even cooler objects—L, T, and Y.\nAt this point, you may be looking at these letters with wonder and asking yourself why astronomers didn’t call the spectral types A, B, C, and so on. You will see, as we tell you the history, that it’s an instance where tradition won out over common sense.",
+ "missingExcerpts": []
+}

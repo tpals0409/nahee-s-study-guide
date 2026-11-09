@@ -1,0 +1,10 @@
+{
+ "url": "https://openstax.org/books/university-physics-volume-1/pages/6-1-solving-problems-with-newtons-laws",
+ "title": "University Physics Volume 1, 6.1: Solving Problems with Newton’s Laws",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "Apply Newton’s second law to solve the problem. If necessary, apply appropriate kinematic equations from the chapter on motion along a straight line.\nRecall that a particle in equilibrium is one for which the external forces are balanced. Static equilibrium involves objects at rest, and dynamic equilibrium involves objects in motion without acceleration, but it is important to remember that these conditions are relative. For example, an object may be at rest when viewed from our frame of reference, but the same object would appear to be in motion when viewed by someone moving at a constant velocity. We now make use of the knowledge attained in Newton’s Laws of Motion, regarding the different types of forces and the use of free-body diagrams, to solve additional problems in particle equilibrium.\nNotice that T→T→ is the same for both blocks. Since the string and the pulley have negligible mass, and since there is no friction in the pulley, the tension is the same throughout the string. We can now write component equations for each block. All forces are either horizontal or vertical, so we can use the same horizontal/vertical coordinate system for both objects",
+ "missingExcerpts": [
+  "the net external force is zero along each axis because acceleration is zero"
+ ]
+}

@@ -1,0 +1,12 @@
+{
+ "url": "https://openstax.org/books/chemistry-2e/pages/7-6-molecular-structure-and-polarity",
+ "title": "Chemistry 2e §7.6 Molecular Structure and Polarity",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "Figure 7.16 illustrates this and other electron-pair geometries that minimize the repulsions among regions of high electron density (bonds and/or lone pairs). Two regions of electron density around a central atom in a molecule form a linear geometry; three regions form a trigonal planar geometry; four regions form a tetrahedral geometry; five regions form a trigonal bipyramidal geometry; and six regions form an octahedral geometry.\nIt is important to note that electron-pair geometry around a central atom is not the same thing as its molecular structure. The electron-pair geometries shown in Figure 7.16 describe all regions where electrons are located, bonds as well as lone pairs. Molecular structure describes the location of the atoms, not the electrons.\nAccording to VSEPR theory, the terminal atom locations (Xs in Figure 7.19) are equivalent within the linear, trigonal planar, and tetrahedral electron-pair geometries (the first three rows of the table). It does not matter which X is replaced with a lone pair because the molecules can be rotated to convert positions. For trigonal bipyramidal electron-pair geometries, however, there are two distinct X positions, as shown in Figure 7.20: an axial position (if we hold a model of a trigonal bipyramid by the two axial positions, we have an axis around which we can rotate the model) and an equatorial position (three positions form an equator around the middle of the molecule). As shown in Figure 7.19, the axial position is surround",
+ "missingExcerpts": [
+  "Two of the electron regions are lone pairs, so the molecular structure is bent.",
+  "the net CO_{2} molecule is nonpolar",
+  "The trigonal pyramidal molecular structure is determined from the electron-pair geometry."
+ ]
+}

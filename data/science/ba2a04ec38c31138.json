@@ -1,0 +1,10 @@
+{
+ "url": "https://openstax.org/books/microbiology/pages/8-6-photosynthesis",
+ "title": "Microbiology §8.6 Photosynthesis",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "Photosynthesis takes place in two sequential stages: the light-dependent reactions and the light-independent reactions (Figure 8.19). In the light-dependent reactions, energy from sunlight is absorbed by pigment molecules in photosynthetic membranes and converted into stored chemical energy. In the light-independent reactions, the chemical energy produced by the light-dependent reactions is used to drive the assembly of sugar molecules using CO_2; however, these reactions are still light dependent because the products of the light-dependent reactions necessary for driving them are short-lived. The light-dependent reactions produce ATP and either NADPH or NADH to temporarily store energy. These energy carriers are used in the light-independent reactions to drive the energetically unfavorable process of “fixing” inorganic CO_2 in an organic form, sugar.\nFor photosynthesis to continue, the electron lost from the reaction center pigment must be replaced. The source of this electron (H_2A) differentiates the oxygenic photosynthesis of plants and cyanobacteria from anoxygenic photosynthesis carried out by other types of bacterial phototrophs (Figure 8.22). In oxygenic photosynthesis, H_2O is split and supplies the electron to the reaction center. Because oxygen is generated as a byproduct and is released, this type of photosynthesis is referred to as oxygenic photosynthesis. However, when other reduced compounds serve as the electron donor, oxygen is not generated; these types of p",
+ "missingExcerpts": [
+  "In oxygenic photosynthesis, H₂O is split and supplies the electron to the reaction center."
+ ]
+}

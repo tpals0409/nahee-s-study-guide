@@ -1,0 +1,12 @@
+{
+ "url": "https://openstax.org/books/chemistry-2e/pages/6-5-periodic-variations-in-element-properties",
+ "title": "Chemistry 2e §6.5, covalent radius and effective nuclear charge",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "Atoms and ions that have the same electron configuration are said to be isoelectronic. Examples of isoelectronic species are N^3–, O^2–, F^–, Ne, Na^+, Mg^2+, and Al^3+ (1s^22s^22p^6). Another isoelectronic series is P^3–, S^2–, Cl^–, Ar, K^+, Ca^2+, and Sc^3+ ([Ne]3s^23p^6). For atoms or ions that are isoelectronic, the number of protons determines the size. The greater the nuclear charge, the smaller the radius in a series of isoelectronic ions and atoms.\nAnother deviation occurs as orbitals become more than one-half filled. The first ionization energy for oxygen is slightly less than that for nitrogen, despite the trend in increasing IE_1 values across a period. Looking at the orbital diagram of oxygen, we can see that removing one electron will eliminate the electron–electron repulsion caused by pairing the electrons in the 2p orbital and will result in a half-filled orbital (which is energetically favorable). Analogous changes occur in succeeding periods (note the dip for sulfur after phosphorus in Figure 6.34).",
+ "missingExcerpts": [
+  "decrease across a period",
+  "The general trend is that radii increase down a group and decrease across a period.",
+  "radii increase down a group and decrease across a period"
+ ]
+}

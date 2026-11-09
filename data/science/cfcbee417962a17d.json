@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/university-physics-volume-3/pages/10-4-nuclear-reactions",
+ "title": "University Physics Volume 3, 10.4 Nuclear Reactions",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "Experimentally, the electrons emitted in β−β− decay are found to have kinetic energies of the order of only a few MeV. We therefore conclude that the electron is somehow produced in the decay rather than escaping the nucleus. Particle production (annihilation) is described by theories that combine quantum mechanics and relativity, a subject of a more advanced course in physics.\nNuclear beta decay involves the conversion of one nucleon into another. For example, a neutron can decay to a proton by the emission of an electron (β−β−) and a nearly massless particle called an antineutrino (ν–ν–):\nThe notation −10e−10e is used to designate the electron. Its mass number is 0 because it is not a nucleon, and its atomic number is −1−1 to signify that it has a charge of −e−e. The proton is represented by 11p11p because its mass number and atomic number are 1. When this occurs within an atomic nucleus, we have the following equation for beta decay:",
+ "missingExcerpts": []
+}

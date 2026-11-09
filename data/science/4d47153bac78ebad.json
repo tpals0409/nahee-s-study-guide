@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/university-physics-volume-2/pages/8-1-capacitors-and-capacitance",
+ "title": "University Physics Volume 2, 8.1: Capacitors and Capacitance",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "Therefore Equation 8.1 gives the capacitance of a parallel-plate capacitor as\nNotice from this equation that capacitance is a function only of the geometry and what material fills the space between the plates (in this case, vacuum) of this capacitor. In fact, this is true not only for a parallel-plate capacitor, but for all capacitors: The capacitance is independent of Q or V. If the charge changes, the potential changes correspondingly so that Q/V remains constant.\nEntering the given values into Equation 8.3 yields C=ε0Ad=(8.85×10−12Fm)1.00m21.00×10−3m=8.85×10−9F=8.85nF.C=ε0Ad=(8.85×10−12Fm)1.00m21.00×10−3m=8.85×10−9F=8.85nF. This small capacitance value indicates how difficult it is to make a device with a large capacitance.\nVerify that σ/Vσ/V and ε0/dε0/d have the same physical units.\nA spherical capacitor is another set of conductors whose capacitance can be easily determined (Figure 8.6). It consists of two concentric conducting spherical shells of radii R1R1 (inner shell) and R2R2 (outer shell). The shells are given equal and opposite charges +Q+Q and −Q−Q, respectively. From symmetry, the electrical field between the shells is directed radially outward. We can obtain the magnitude of the field by applying Gauss’s law over a spherical Gaussian surface of radius r concentric with the shells. The enclosed charge is +Q+Q; therefore we have\nThus, the electrical field between the conductors is",
+ "missingExcerpts": []
+}

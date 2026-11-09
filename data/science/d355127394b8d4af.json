@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/chemistry-2e/pages/8-3-multiple-bonds",
+ "title": "Chemistry 2e, 8.3 Multiple Bonds",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "The hybrid orbital model appears to account well for the geometry of molecules involving single covalent bonds. Is it also capable of describing molecules containing double and triple bonds? We have already discussed that multiple bonds consist of σ and π bonds. Next we can consider how we visualize these components and how they relate to hybrid orbitals. The Lewis structure of ethene, C_2H_4, shows us that each carbon atom is surrounded by one other carbon atom and two hydrogen atoms.\nThe three bonding regions form a trigonal planar electron-pair geometry. Thus we expect the σ bonds from each carbon atom are formed using a set of sp^2 hybrid orbitals that result from hybridization of two of the 2p orbitals and the 2s orbital (Figure 8.22). These orbitals form the C–H single bonds and the σ bond in the C=CC=C double bond (Figure 8.23). The π bond in the C=CC=C double bond results from the overlap of the third (remaining) 2p orbital on each carbon atom that is not involved in hybridization. This unhybridized p orbital (lobes shown in red and blue in Figure 8.23) is perpendicular to the plane of the sp^2 hybrid orbitals. Thus the unhybridized 2p orbitals overlap in a side-by-side fashion, above and below the internuclear axis (Figure 8.23) and form a π bond.\nIn molecules with sp hybrid orbitals, two unhybridized p orbitals remain on the atom (Figure 8.24). We find this situation in acetylene, H−C≡C−H,H−C≡C−H, which is a linear molecule. The sp hybrid orbitals of the two carbon ",
+ "missingExcerpts": []
+}

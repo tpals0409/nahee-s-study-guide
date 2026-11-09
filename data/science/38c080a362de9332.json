@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/biology-2e/pages/19-2-population-genetics",
+ "title": "Biology 2e §19.2 — Genetic Drift, Bottleneck and Founder Effects",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "Another way a population’s allele and genotype frequencies can change is genetic drift (Figure 19.4), which is simply the effect of chance. By chance, some individuals will have more offspring than others—not due to an advantage conferred by some genetically-encoded trait, but just because one male happened to be in the right place at the right time (when the receptive female walked by) or because the other one happened to be in the wrong place at the wrong time (when a fox was hunting).\nSmall populations are more susceptible to the forces of genetic drift. Large populations, alternatively, are buffered against the effects of chance. If one individual of a population of 10 individuals happens to die at a young age before it leaves any offspring to the next generation, all of its genes—1/10 of the population’s gene pool—will be suddenly lost. In a population of 100, that’s only 1 percent of the overall gene pool; therefore, it is much less impactful on the population’s genetic structure.\nNatural events, such as an earthquake disaster that kills—at random—a large portion of the population, can magnify genetic drift. Known as the bottleneck effect, it results in suddenly wiping out a large portion of the gene pool (Figure 19.5). At once, the survivors' genetic structure becomes the entire population's genetic structure, which may be very different from the pre-disaster population.",
+ "missingExcerpts": []
+}

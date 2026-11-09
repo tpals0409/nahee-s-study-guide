@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/calculus-volume-2/pages/3-7-improper-integrals",
+ "title": "Calculus Volume2 §3.7 Improper Integrals",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "Let f(x)f(x) be continuous over (a,b].(a,b]. Then, ∫abf(x)dx=limt→a+∫tbf(x)dx.∫abf(x)dx=limt→a+∫tbf(x)dx. (3.20) In each case, if the limit exists, then the improper integral is said to converge. If the limit does not exist, then the improper integral is said to diverge.\nIf f(x)f(x) is continuous over [a,b][a,b] except at a point cc in (a,b),(a,b), then ∫abf(x)dx=∫acf(x)dx+∫cbf(x)dx,∫abf(x)dx=∫acf(x)dx+∫cbf(x)dx, (3.21) provided both ∫acf(x)dx∫acf(x)dx and ∫cbf(x)dx∫cbf(x)dx converge. If either of these integrals diverges, then ∫abf(x)dx∫abf(x)dx diverges.\nThe following examples demonstrate the application of this definition.",
+ "missingExcerpts": []
+}

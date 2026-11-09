@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/university-physics-volume-1/pages/11-2-angular-momentum",
+ "title": "University Physics Volume 1 11.2 Angular Momentum",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "The intent of choosing the direction of the angular momentum to be perpendicular to the plane containing r→r→ and p→p→ is similar to choosing the direction of torque to be perpendicular to the plane of r→andF→,r→andF→, as discussed in Fixed-Axis Rotation. The magnitude of the angular momentum is found from the definition of the cross-product,\nThis equation is analogous to the magnitude of the linear momentum p=mvp=mv. The direction of the angular momentum vector is directed along the axis of rotation given by the right-hand rule.",
+ "missingExcerpts": []
+}

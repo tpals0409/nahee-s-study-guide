@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/biology-2e/pages/7-1-energy-in-living-systems",
+ "title": "Biology 2e 7.1 — Energy in Living Systems",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "ATP is generated through two mechanisms during the breakdown of glucose. A few ATP molecules are generated (that is, regenerated from ADP) as a direct result of the chemical reactions that occur in the catabolic pathways. A phosphate group is removed from an intermediate reactant in the pathway, and the free energy of the reaction is used to add the third phosphate to an available ADP molecule, producing ATP (Figure 7.5). This very direct method of phosphorylation is called substrate-level phosphorylation.\nMost of the ATP generated during glucose catabolism, however, is derived from a much more complex process, chemiosmosis, which takes place in mitochondria (Figure 7.6) within a eukaryotic cell or the plasma membrane of a prokaryotic cell. Chemiosmosis, a process of ATP production in cellular metabolism, is used to generate 90 percent of the ATP made during glucose catabolism and is also the method used in the light reactions of photosynthesis to harness the energy of sunlight. The production of ATP using the process of chemiosmosis is called oxidative phosphorylation because of the involvement of oxygen in the process.",
+ "missingExcerpts": []
+}

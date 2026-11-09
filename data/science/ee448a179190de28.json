@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/university-physics-volume-3/pages/7-6-the-quantum-tunneling-of-particles-through-potential-barriers",
+ "title": "University Physics Volume3 §7.6 Quantum Tunneling",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "We substitute Equation 7.79 into Equation 7.71 and obtain the exact expression for the transmission coefficient for the barrier,\nFor a wide and high barrier that transmits poorly, Equation 7.80 can be approximated by\nWhether it is the exact expression Equation 7.80 or the approximate expression Equation 7.81, we see that the tunneling effect very strongly depends on the width L of the potential barrier. In the laboratory, we can adjust both the potential height U0U0 and the width L to design nano-devices with desirable transmission coefficients.",
+ "missingExcerpts": []
+}

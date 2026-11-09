@@ -1,0 +1,10 @@
+{
+ "url": "https://openstax.org/books/university-physics-volume-1/pages/16-6-standing-waves-and-resonance",
+ "title": "University Physics 1 §16.6 Standing Waves and Resonance",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "The lab setup shows a string attached to a string vibrator, which oscillates the string with an adjustable frequency f. The other end of the string passes over a frictionless pulley and is tied to a hanging mass. The magnitude of the tension in the string is equal to the weight of the hanging mass. The string has a constant linear density (mass per length) μμ and the speed at which a wave travels down the string equals v=FTμ=mgμv=FTμ=mgμ Equation 16.7. The symmetrical boundary conditions (a node at each end) dictate the possible frequencies that can excite standing waves. Starting from a frequency of zero and slowly increasing the frequency, the first mode n=1n=1 appears as shown in Figure 16.29. The first mode, also called the fundamental mode or the first harmonic, shows half of a wavelength has formed, so the wavelength is equal to twice the length between the nodes λ1=2Lλ1=2L. The fundamental frequency, or first harmonic frequency, that drives this mode is",
+ "missingExcerpts": [
+  "The string has a node on each end and a constant linear density."
+ ]
+}

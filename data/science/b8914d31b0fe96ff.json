@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/28-7-patterns-of-inheritance",
+ "title": "28.7 Patterns of Inheritance",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "Codominance is characterized by the equal, distinct, and simultaneous expression of both parents’ different alleles. This pattern differs from the intermediate, blended features seen in incomplete dominance. A classic example of codominance in humans is ABO blood type. People are blood type A if they have an allele for an enzyme that facilitates the production of surface antigen A on their erythrocytes. This allele is designated I^A. In the same manner, people are blood type B if they express an enzyme for the production of surface antigen B. People who have alleles for both enzymes (I^A and I^B) produce both surface antigens A and B. As a result, they are blood type AB. Because the effect of both alleles (or enzymes) is observed, we say that the I^A and I^B alleles are codominant. There is also a third allele that determines blood type. This allele (i) produces a nonfunctional enzyme. People who have two i alleles do not produce either A or B surface antigens: they have type O blood. If a person has I^A and i alleles, the person will have blood type A. Notice that it does not make any difference whether a person has two I^A alleles or one I^A and one i allele. In both cases, the person is blood type A. Because I^A masks i, we say that I^A is dominant to i. Table 28.4 summarizes the expression of blood type.",
+ "missingExcerpts": []
+}

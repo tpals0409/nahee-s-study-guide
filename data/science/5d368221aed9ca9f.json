@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/chemistry/pages/17-1-balancing-oxidation-reduction-reactions",
+ "title": "Chemistry 17.1 — Balancing Oxidation-Reduction Reactions",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "It is now necessary to combine the two halves to produce a whole reaction. The key to combining the half-reactions is the electrons. The electrons lost during oxidation must go somewhere. These electrons go on to cause reduction. The number of electrons transferred from the oxidation half-reaction to the reduction half-reaction must be equal. There can be no missing or excess electrons. In this example, the oxidation half-reaction generates one electron, while the reduction half-reaction requires five. The lowest common multiple of one and five is five; therefore, it is necessary to multiply every term in the oxidation half-reaction by five and every term in the reduction half-reaction by one. (In this case, the multiplication of the reduction half-reaction generates no change; however, this will not always be the case.) The multiplication of the two half-reactions by the appropriate factor followed by addition of the two halves gives",
+ "missingExcerpts": []
+}

@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/chemistry-2e/pages/17-4-potential-free-energy-and-equilibrium",
+ "title": "Chemistry 2e 17.4 — Potential, Free Energy, and Equilibrium",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "Use the Nernst equation to determine cell potentials under nonstandard conditions\nwhere n is the number of moles of electrons transferred, F is Faraday’s constant, and E°_cell is the standard cell potential. TFaraday's constant is defined as the charge in coulombs of one mole of electrons, F = 96,485 C/mol e^–.he relation between free energy change and standard cell potential confirms the sign conventions and spontaneity criteria previously discussed for both of these properties: spontaneous redox reactions exhibit positive potentials and negative free energy changes.\nThis equation describes how the potential of a redox system (such as a galvanic cell) varies from its standard state value, specifically, showing it to be a function of the number of electrons transferred, n, the temperature, T, and the reaction mixture composition as reflected in Q. A convenient form of the Nernst equation for most work is one in which values for the fundamental constants (R and F) and standard temperature (298) K), along with a factor converting from natural to base-10 logarithms, have been included:",
+ "missingExcerpts": []
+}

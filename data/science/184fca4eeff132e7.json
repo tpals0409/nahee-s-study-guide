@@ -1,0 +1,10 @@
+{
+ "url": "https://openstax.org/books/university-physics-volume-1/pages/4-3-projectile-motion",
+ "title": "University Physics Volume 1 §4.3 Projectile Motion, equations 4.19–4.21 and velocity components",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "The most important fact to remember here is that motions along perpendicular axes are independent and thus can be analyzed separately. We discussed this fact in Displacement and Velocity Vectors, where we saw that vertical and horizontal motions are independent. The key to analyzing two-dimensional projectile motion is to break it into two motions: one along the horizontal axis and the other along the vertical. (This choice of axes is the most sensible because acceleration resulting from gravity is vertical; thus, there is no acceleration along the horizontal axis when air resistance is negligible.) As is customary, we call the horizontal axis the x-axis and the vertical axis the y-axis. It is not required that we use this choice of axes; it is simply convenient in the case of gravitational acceleration. In other cases we may choose a different set of axes. Figure 4.11 illustrates the notation for displacement, where we define s→s→ to be the total displacement, and x→x→ and y→y→ are its component vectors along the horizontal and vertical axes, respectively. The magnitudes of these vectors are s, x, and y.\nHorizontal motion is a constant velocity in the absence of air resistance. The horizontal displacement found here could be useful in keeping the fireworks fragments from falling on spectators. When the shell explodes, air resistance has a major effect, and many fragments land directly below.",
+ "missingExcerpts": [
+  "At its highest point, the vertical velocity is zero."
+ ]
+}

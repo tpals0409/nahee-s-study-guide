@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/organic-chemistry/pages/4-2-cis-trans-isomerism-in-cycloalkanes",
+ "title": "Organic Chemistry, 4.2 Cis–Trans Isomerism in Cycloalkanes",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "Because of their cyclic structures, cycloalkanes have two faces when viewed edge-on, a “top” face and a “bottom” face. As a result, isomerism is possible in substituted cycloalkanes. For example, there are two different 1,2-dimethylcyclopropane isomers, one with the two methyl groups on the same face of the ring and one with the methyl groups on opposite faces (Figure 4.3). Both isomers are stable compounds, and neither can be converted into the other without breaking and reforming chemical bonds.\nUnlike the constitutional isomers butane and isobutane, which have their atoms connected in a different order (Section 3.2), the two 1,2-dimethylcyclopropanes have the same order of connections but differ in the spatial orientation of the atoms. Such compounds, with atoms connected in the same order but differing in three-dimensional orientation, are called stereochemical isomers, or stereoisomers. As we saw in Section 3.6, the term stereochemistry is used generally to refer to the three-dimensional aspects of structure and reactivity.\nThe 1,2-dimethylcyclopropanes are members of a subclass of stereoisomers called cis–trans isomers. The prefixes cis- (Latin “on the same side”) and trans- (Latin “across”) are used to distinguish between them. Cis–trans isomerism is a common occurrence in substituted cycloalkanes and in many cyclic biological molecules.",
+ "missingExcerpts": []
+}

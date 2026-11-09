@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/university-physics-volume-1/pages/7-4-power",
+ "title": "OpenStax University Physics Volume 1 §7.4 Power",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "The concept of work involves force and displacement; the work-energy theorem relates the net work done on a body to the difference in its kinetic energy, calculated between two points on its trajectory. None of these quantities or relations involves time explicitly, yet we know that the time available to accomplish a particular amount of work is frequently just as important to us as the amount itself. In the chapter-opening figure, several sprinters may have achieved the same velocity at the finish, and therefore did the same amount of work, but the winner of the race did it in the least amount of time.\nWe express the relation between work done and the time interval involved in doing it, by introducing the concept of power. Since work can vary as a function of time, we first define average power as the work done during a time interval, divided by the interval,\nThen, we can define the instantaneous power (frequently referred to as just plain power).",
+ "missingExcerpts": []
+}

@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/chemistry-2e/pages/17-3-electrode-and-cell-potentials",
+ "title": "Chemistry 2e, 17.3 Electrode and Cell Potentials",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "When measured for purposes of electrochemistry, a potential reflects the driving force for a specific type of charge transfer process, namely, the transfer of electrons between redox reactants. Considering the nature of potential in this context, it is clear that the potential of a single half-cell or a single electrode can’t be measured; “transfer” of electrons requires both a donor and recipient, in this case a reductant and an oxidant, respectively. Instead, a half-cell potential may only be assessed relative to that of another half-cell. It is only the difference in potential between two half-cells that may be measured, and these measured potentials are called cell potentials, E_cell, defined as\nTo simplify the collection and sharing of potential data for half-reactions, the scientific community has designated one particular half-cell to serve as a universal reference for cell potential measurements, assigning it a potential of exactly 0 V. This half-cell is the standard hydrogen electrode (SHE) and it is based on half-reaction below:",
+ "missingExcerpts": []
+}

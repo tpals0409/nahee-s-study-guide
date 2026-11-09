@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/organic-chemistry/pages/13-2-the-nature-of-nmr-absorptions",
+ "title": "Organic Chemistry, 13.2 The Nature of NMR Absorptions",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "The ^13C NMR spectrum of methyl acetate in Figure 13.4b shows three peaks, one for each of the three chemically distinct carbon atoms in the molecule. The ^1H NMR spectrum in Figure 13.4a shows only two peaks, however, even though methyl acetate has six hydrogens. One peak is due to the CH_3C═O hydrogens, and the other to the −OCH_3 hydrogens. Because the three hydrogens in each methyl group have the same electronic environment, they are shielded to the same extent and are said to be equivalent. Chemically equivalent nuclei always show the same absorption. The two methyl groups themselves, however, are not equivalent, so the two sets of hydrogens absorb at different positions.",
+ "missingExcerpts": []
+}

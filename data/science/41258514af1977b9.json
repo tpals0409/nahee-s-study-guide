@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/organic-chemistry/pages/5-1-enantiomers-and-the-tetrahedral-carbon",
+ "title": "5.1 Enantiomers and the Tetrahedral Carbon",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "A molecule that is not identical to its mirror image is a kind of stereoisomer (Section 4.2) called an enantiomer (e-nan-tee-oh-mer, from the Greek enantio, meaning “opposite”). Enantiomers are related to each other as a right hand is related to a left hand and result whenever a tetrahedral carbon is bonded to four different substituents (one need not be H). For example, lactic acid (2-hydroxypropanoic acid) exists as a pair of enantiomers because there are four different groups (−H, −OH, −CH_3, −CO_2H) bonded to the central carbon atom. The enantiomers are called (+)-lactic acid and (−)-lactic acid. Both are found in sour milk, but only the (+) enantiomer occurs in muscle tissue.",
+ "missingExcerpts": []
+}

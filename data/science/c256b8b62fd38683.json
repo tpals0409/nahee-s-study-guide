@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/chemistry-2e/pages/14-2-ph-and-poh",
+ "title": "Chemistry 2e, 14.2 pH and pOH",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "As discussed earlier, hydronium and hydroxide ions are present both in pure water and in all aqueous solutions, and their concentrations are inversely proportional as determined by the ion product of water (K_w). The concentrations of these ions in a solution are often critical determinants of the solution’s properties and the chemical behaviors of its other solutes, and specific vocabulary has been developed to describe these concentrations in relative terms. A solution is neutral if it contains equal concentrations of hydronium and hydroxide ions; acidic if it contains a greater concentration of hydronium ions than hydroxide ions; and basic if it contains a lesser concentration of hydronium ions than hydroxide ions.\nSince the autoionization constant K_w is temperature dependent, these correlations between pH values and the acidic/neutral/basic adjectives will be different at temperatures other than 25 °C. For example, the “Check Your Learning” exercise accompanying Example 14.1 showed the hydronium molarity of pure water at 80 °C is 4.9 ×× 10^−7 M, which corresponds to pH and pOH values of:",
+ "missingExcerpts": []
+}

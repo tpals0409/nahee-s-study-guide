@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/chemistry-2e/pages/12-5-collision-theory",
+ "title": "Chemistry 2e §12.5 — Activation Energy and the Arrhenius Equation",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "These reaction diagrams are widely used in chemical kinetics to illustrate various properties of the reaction of interest. Viewing the diagram from left to right, the system initially comprises reactants only, A + B. Reactant molecules with sufficient energy can collide to form a high-energy activated complex or transition state. The unstable transition state can then subsequently decay to yield stable products, C + D. The diagram depicts the reaction's activation energy, E_a, as the energy difference between the reactants and the transition state. Using a specific energy, the enthalpy (see chapter on thermochemistry), the enthalpy change of the reaction, ΔH, is estimated as the energy difference between the reactants and products. In this case, the reaction is exothermic (ΔH < 0) since it yields a decrease in system enthalpy.\nThe Arrhenius equation relates the activation energy and the rate constant, k, for many chemical reactions:\nIn this equation, R is the ideal gas constant, which has a value 8.314 J/mol/K, T is temperature on the Kelvin scale, E_a is the activation energy in joules per mole, e is the constant 2.7183, and A is a constant called the frequency factor, which is related to the frequency of collisions and the orientation of the reacting molecules.\nA convenient approach for determining E_a for a reaction involves the measurement of k at two or more different temperatures and using an alternate version of the Arrhenius equation that takes the form of a linear eq",
+ "missingExcerpts": []
+}

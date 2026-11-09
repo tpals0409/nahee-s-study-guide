@@ -1,0 +1,10 @@
+{
+ "url": "https://openstax.org/books/chemistry-2e/pages/7-3-lewis-symbols-and-structures",
+ "title": "Chemistry 2e, 7.3 Lewis Symbols and Structures",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "A single shared pair of electrons is called a single bond. Each Cl atom interacts with eight valence electrons: the six in the lone pairs and the two in the single bond.\nGroup 15 elements such as nitrogen have five valence electrons in the atomic Lewis symbol: one lone pair and three unpaired electrons. To obtain an octet, these atoms form three covalent bonds, as in NH_3 (ammonia). Oxygen and other atoms in group 16 obtain an octet by forming two covalent bonds:\nAs previously mentioned, when a pair of atoms shares one pair of electrons, we call this a single bond. However, a pair of atoms may need to share more than one pair of electrons in order to achieve the requisite octet. A double bond forms when two pairs of electrons are shared between a pair of atoms, as between the carbon and oxygen atoms in CH_2O (formaldehyde) and between the two carbon atoms in C_2H_4 (ethylene):",
+ "missingExcerpts": [
+  "The left shows a carbon triple bonded to an oxygen, each with a lone electron pair."
+ ]
+}

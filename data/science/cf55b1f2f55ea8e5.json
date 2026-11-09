@@ -1,0 +1,10 @@
+{
+ "url": "https://openstax.org/books/university-physics-volume-2/pages/4-6-entropy",
+ "title": "University Physics Volume 2 §4.6 Entropy, equation 4.8 and Example 4.4",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "Calculate the change of entropy for some simple processes\nThe second law of thermodynamics is best expressed in terms of a change in the thermodynamic variable known as entropy, which is represented by the symbol S. Entropy, like internal energy, is a state function. This means that when a system makes a transition from one state into another, the change in entropy ΔSΔS is independent of path and depends only on the thermodynamic variables of the two states.\nWe first consider ΔSΔS for a system undergoing a reversible process at a constant temperature. In this case, the change in entropy of the system is given by\nWe now take the limit as ΔQi→0ΔQi→0, and the number of steps approaches infinity. Then, replacing the summation by an integral, we obtain\nwhere the integral is taken between the initial state A and the final state B. This equation is valid only if the transition from A to B is reversible.\nAs an example, let us determine the net entropy change of a reversible engine while it undergoes a single Carnot cycle. In the adiabatic steps 2 and 4 of the cycle shown in Figure 4.11, no heat exchange takes place, so ΔS2=ΔS4=∫dQ/T=0.ΔS2=ΔS4=∫dQ/T=0. In step 1, the engine absorbs heat QhQh at a temperature Th,Th, so its entropy change is ΔS1=Qh/Th.ΔS1=Qh/Th. Similarly, in step 3, ΔS3=−Qc/Tc.ΔS3=−Qc/Tc. The net entropy change of the engine in one cycle of operation is then",
+ "missingExcerpts": [
+  "If the temperature changes during the heat flow, you must keep it inside the integral to solve for the change in entropy."
+ ]
+}

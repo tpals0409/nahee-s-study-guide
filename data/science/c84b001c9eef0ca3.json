@@ -1,0 +1,10 @@
+{
+ "url": "https://openstax.org/books/university-physics-volume-1/pages/3-4-motion-with-constant-acceleration",
+ "title": "University Physics Volume 1, 3.4 Motion with Constant Acceleration",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "Substituting the simplified notation for ΔxΔx and ΔtΔt yields\nThe equation v–=v0+v2v–=v0+v2 reflects the fact that when acceleration is constant, v–v– is just the simple average of the initial and final velocities. Figure 3.18 illustrates this concept graphically. In part (a) of the figure, acceleration is constant, with velocity increasing at a constant rate. The average velocity during the 1-h interval from 40 km/h to 80 km/h is 60 km/h:\nIn part (b), acceleration is not constant. During the 1-h interval, velocity is closer to 80 km/h than 40 km/h. Thus, the average velocity is greater than in part (a).",
+ "missingExcerpts": [
+  "If the dragster were given an initial velocity, this would add another term to the distance equation."
+ ]
+}

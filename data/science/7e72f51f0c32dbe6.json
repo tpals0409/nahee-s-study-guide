@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/university-physics-volume-2/pages/3-3-first-law-of-thermodynamics",
+ "title": "University Physics Volume 2 §3.3 First Law of Thermodynamics, equation 3.7",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "When a gas expands, it does work and its internal energy decreases. Thus, W is positive when work is done by the system and negative when work is done on the system. This sign convention is summarized in Table 3.1. The first law of thermodynamics is stated as follows:\nThe first law is a statement of energy conservation. It tells us that a system can exchange energy with its surroundings by the transmission of heat and by the performance of work. The net energy exchanged is then equal to the change in the total mechanical energy of the molecules of the system (i.e., the system’s internal energy). Thus, if a system is isolated, its internal energy must remain constant.\nThat is, the change in the internal energy of the system between A and B is path independent. In the chapter on potential energy and the conservation of energy, we encountered another path-independent quantity: the change in potential energy between two arbitrary points in space. This change represents the negative of the work done by a conservative force between the two points. The potential energy is a function of spatial coordinates, whereas the internal energy is a function of thermodynamic variables. For example, we might write Eint(T,p)Eint(T,p) for the internal energy. Functions such as internal energy and potential energy are known as state functions because their values depend solely on the state of the system.",
+ "missingExcerpts": []
+}

@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/microbiology/pages/14-3-mechanisms-of-antibacterial-drugs",
+ "title": "Microbiology, 14.3 Mechanisms of Antibacterial Drugs",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "Penicillin, the first antibiotic discovered, is one of several antibacterials within a class called β-lactams. This group of compounds includes the penicillins, cephalosporins, monobactams, and carbapenems, and is characterized by the presence of a β-lactam ring found within the central structure of the drug molecule (Figure 14.10). The β-lactam antibacterials block the crosslinking of peptide chains during the biosynthesis of new peptidoglycan in the bacterial cell wall. They are able to block this process because the β-lactam structure is similar to the structure of the peptidoglycan subunit component that is recognized by the crosslinking transpeptidase enzyme, also known as a penicillin-binding protein (PBP). Although the β-lactam ring must remain unchanged for these drugs to retain their antibacterial activity, strategic chemical changes to the R groups have allowed for development of a wide variety of semisynthetic β-lactam drugs with increased potency, expanded spectrum of activity, and longer half-lives for better dosing, among other characteristics.",
+ "missingExcerpts": []
+}

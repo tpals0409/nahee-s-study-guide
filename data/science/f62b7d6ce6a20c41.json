@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/university-physics-volume-2/pages/5-4-electric-field",
+ "title": "University Physics Volume 2 §5.4 — Electric Field, Eq. 5.3",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "Notice that the calculation of the electric field makes no reference to the test charge. Thus, the physically useful approach is to calculate the electric field and then use it to calculate the force on some test charge later, if needed. Different test charges experience different forces Equation 5.3, but it is the same electric field Equation 5.4. That being said, recall that there is no fundamental difference between a test charge and a source charge; these are merely convenient labels for the system of interest. Any charge produces an electric field; however, just as Earth’s orbit is not affected by Earth’s own gravity, a charge is not subject to a force due to the electric field it generates. Charges are only subject to forces from the electric fields of other charges.\nYet another experimental fact about the field is that it obeys the superposition principle. In this context, that means that we can (in principle) calculate the total electric field of many source charges by calculating the electric field of only q1q1 at position P, then calculate the field of q2q2 at P, while—and this is the crucial idea—ignoring the field of, and indeed even the existence of, q1.q1. We can repeat this process, calculating the field of each individual source charge, independently of the existence of any of the other charges. The total electric field, then, is the vector sum of all these fields. That, in essence, is what Equation 5.4 says.",
+ "missingExcerpts": []
+}

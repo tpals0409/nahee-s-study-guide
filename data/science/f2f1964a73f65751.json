@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/university-physics-volume-1/pages/14-4-archimedes-principle-and-buoyancy",
+ "title": "University Physics Volume 1 14.4 — Archimedes’ Principle",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "Just how large a force is buoyant force? To answer this question, think about what happens when a submerged object is removed from a fluid, as in Figure 14.21. If the object were not in the fluid, the space the object occupied would be filled by fluid having a weight wfl.wfl. This weight is supported by the surrounding fluid, so the buoyant force must equal wfl,wfl, the weight of the fluid displaced by the object.\nThe buoyant force on an object equals the weight of the fluid it displaces. In equation form, Archimedes’ principle is\nwhere FBFB is the buoyant force and wflwfl is the weight of the fluid displaced by the object.",
+ "missingExcerpts": []
+}

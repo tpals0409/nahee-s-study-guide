@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/university-physics-volume-2/pages/14-4-rl-circuits",
+ "title": "University Physics Volume 2 §14.4 RL Circuits",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "We first consider the RL circuit of Figure 14.12(b). Once S1S1 is closed and S2S2 is open, the source of emf produces a current in the circuit. If there were no self-inductance in the circuit, the current would rise immediately to a steady value of ε/R.ε/R. However, from Faraday’s law, the increasing current produces an emf VL=−L(dI/dt)VL=−L(dI/dt) across the inductor. In accordance with Lenz’s law, the induced emf counteracts the increase in the current and is directed as shown in the figure. As a result, I(t) starts at zero and increases asymptotically to its final value.\nThe current I(t) is plotted in Figure 14.13(a). It starts at zero, and as t→∞t→∞, I(t) approaches ε/Rε/R asymptotically. The induced emf VL(t)VL(t) is directly proportional to dI/dt, or the slope of the curve. Hence, while at its greatest immediately after the switches are thrown, the induced emf decreases to zero with time as the current approaches its final value of ε/R.ε/R. The circuit then becomes equivalent to a resistor connected across a source of emf.",
+ "missingExcerpts": []
+}

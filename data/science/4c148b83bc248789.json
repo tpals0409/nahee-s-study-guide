@@ -1,0 +1,10 @@
+{
+ "url": "https://openstax.org/books/biology-2e/pages/15-3-eukaryotic-transcription",
+ "title": "OpenStax Biology 2e §15.3 Eukaryotic Transcription",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "Prokaryotes and eukaryotes perform fundamentally the same process of transcription, with a few key differences. The most important difference between prokaryote and eukaryote transcription is due to the latter’s membrane-bound nucleus and organelles. With the genes bound in a nucleus, the eukaryotic cell must be able to transport its mRNA to the cytoplasm and must protect its mRNA from degrading before it is translated. Eukaryotes also employ three different polymerases that each transcribe a different subset of genes. Eukaryotic mRNAs are usually monogenic, meaning that they specify a single protein.\nRNA polymerase II is located in the nucleus and synthesizes all protein-coding nuclear pre-mRNAs. Eukaryotic pre-mRNAs undergo extensive processing after transcription but before translation. For clarity, this module’s discussion of transcription and translation in eukaryotes will use the term “mRNAs” to describe only the mature, processed molecules that are ready to be translated. RNA polymerase II is responsible for transcribing the overwhelming majority of eukaryotic genes.\nRNA polymerase III is also located in the nucleus. This polymerase transcribes a variety of structural RNAs that includes the 5S pre-rRNA, transfer pre-RNAs (pre-tRNAs), and small nuclear pre-RNAs. The tRNAs have a critical role in translation; they serve as the “adaptor molecules” between the mRNA template and the growing polypeptide chain. Small nuclear RNAs have a variety of functions, including “splici",
+ "missingExcerpts": [
+  "All rRNAs except 5S rRNA"
+ ]
+}

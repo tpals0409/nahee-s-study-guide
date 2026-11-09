@@ -1,0 +1,10 @@
+{
+ "url": "https://openstax.org/books/university-physics-volume-1/pages/11-3-conservation-of-angular-momentum",
+ "title": "University Physics Volume 1 11.3 — Example 11.9",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "However, suppose there is no net external torque on the system, ∑ τ→=0.∑ τ→=0. In this case, Equation 11.8 becomes the law of conservation of angular momentum.\nThe angular momentum of a system of particles around a point in a fixed inertial reference frame is conserved if there is no net external torque around that point:\nNote that the total angular momentum L→L→ is conserved. Any of the individual angular momenta can change as long as their sum remains constant. This law is analogous to linear momentum being conserved when the external force on a system is zero.",
+ "missingExcerpts": [
+  "Thus, the angular momentum along this axis is conserved."
+ ]
+}

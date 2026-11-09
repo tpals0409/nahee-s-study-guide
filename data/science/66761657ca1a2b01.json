@@ -1,0 +1,12 @@
+{
+ "url": "https://openstax.org/books/chemistry-2e/pages/19-3-spectroscopic-and-magnetic-properties-of-coordination-compounds",
+ "title": "Chemistry 2e, 19.3 Spectroscopic and Magnetic Properties of Coordination Compounds",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "The magnitude of Δ_oct depends on many factors, including the nature of the six ligands located around the central metal ion, the charge on the metal, and whether the metal is using 3d, 4d, or 5d orbitals. Different ligands produce different crystal field splittings. The increasing crystal field splitting produced by ligands is expressed in the spectrochemical series, a short version of which is given here:\nIn this series, ligands on the left cause small crystal field splittings and are weak-field ligands, whereas those on the right cause larger splittings and are strong-field ligands. Thus, the Δ_oct value for an octahedral complex with iodide ligands (I^−) is much smaller than the Δ_oct value for the same metal with cyanide ligands (CN^−).\nIn [Fe(CN)_6]^4−, the strong field of six cyanide ligands produces a large Δ_oct. Under these conditions, the electrons require less energy to pair than they require to be excited to the e_g orbitals (Δ_oct > P). The six 3d electrons of the Fe^2+ ion pair in the three t_2g orbitals (Figure 19.35). Complexes in which the electrons are paired because of the large crystal field splitting are called low-spin complexes because the number of unpaired electrons (spins) is minimized.\nIn [Fe(H_2O)_6]^2+, on the other hand, the weak field of the water molecules produces only a small crystal field splitting (Δ_oct < P). Because it requires less energy for the electrons to occupy the e_g orbitals than to pair together, there will be an electron in ea",
+ "missingExcerpts": [
+  "None of the orbitals points directly at the tetrahedral ligands.",
+  "the orbitals closer to the ligands will be destabilized and raised in energy relative to the other set of orbitals.",
+  "The splitting is less than for octahedral complexes because the overlap is less"
+ ]
+}

@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/university-physics-volume-2/pages/7-2-electric-potential-and-potential-difference",
+ "title": "University Physics Volume2 §7.2 Electric Potential and Potential Difference",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "The relationship between potential difference (or voltage) and electrical potential energy is given by\nVoltage is not the same as energy. Voltage is the energy per unit charge. Thus, a motorcycle battery and a car battery can both have the same voltage (more precisely, the same potential difference between battery terminals), yet one stores much more energy than the other because ΔU=qΔV.ΔU=qΔV. The car battery can move more charge than the motorcycle battery, although both are 12-V batteries.\nSimilarly, for the car battery, q=60,000Cq=60,000C and\nThe total energy of a system is conserved if there is no net addition (or subtraction) due to work or heat transfer. For conservative forces, such as the electrostatic force, conservation of energy states that mechanical energy is a constant.\nMechanical energy is the sum of the kinetic energy and potential energy of a system; that is, K+U=constant.K+U=constant. A loss of U for a charged particle becomes an increase in its K. Conservation of energy is stated in equation form as\nwhere i and f stand for initial and final conditions. As we have found many times before, considering energy can give us insights and facilitate problem solving.",
+ "missingExcerpts": []
+}

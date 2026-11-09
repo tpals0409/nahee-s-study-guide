@@ -1,0 +1,11 @@
+{
+ "url": "https://openstax.org/books/chemistry-2e/pages/8-4-molecular-orbital-theory",
+ "title": "Chemistry 2e, 8.4 Molecular Orbital Theory",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "This electronic structure adheres to all the rules governing Lewis theory. There is an O=O double bond, and each oxygen atom has eight electrons around it. However, this picture is at odds with the magnetic behavior of oxygen. By itself, O_2 is not magnetic, but it is attracted to magnetic fields. Thus, when we pour liquid oxygen past a strong magnet, it collects between the poles of the magnet and defies gravity, as in Figure 8.1. Such attraction to a magnetic field is called paramagnetism, and it arises in molecules that have unpaired electrons. And yet, the Lewis structure of O_2 indicates that all electrons are paired. How do we account for this discrepancy?\nExperiments show that each O_2 molecule has two unpaired electrons. The Lewis-structure model does not predict the presence of these two unpaired electrons. Unlike oxygen, the apparent weight of most molecules decreases slightly in the presence of an inhomogeneous magnetic field. Materials in which all of the electrons are paired are diamagnetic and weakly repel a magnetic field. Paramagnetic and diamagnetic materials do not act as permanent magnets. Only in the presence of an applied magnetic field do they demonstrate attraction or repulsion.",
+ "missingExcerpts": [
+  "Between N₂ and O₂, the order of the orbitals changes.",
+  "Electron Configuration and Bond Order for Molecular Orbitals in Homonuclear Diatomic Molecules of Period Two Elements"
+ ]
+}

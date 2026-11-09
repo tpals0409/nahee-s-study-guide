@@ -27,8 +27,13 @@ def section_title(url, titles):
 science = {}
 for d in [d for d in docs if d["kind"] == "science"]:
     science.setdefault(d["url"], []).append(d)
+# collect_science_text.py가 받아 둔 원문 문단이 있으면 짧은 인용 대신 그 문단을 쓴다
+collected = {}
+for path in sorted((root / "data/science").glob("*.json")):
+    item = json.loads(path.read_text())
+    collected[item["url"]] = "\n".join([item["text"], *item.get("missingExcerpts", [])])
 docs = [d for d in docs if d["kind"] != "science"] + [{**group[0], "title": section_title(url, [d["title"] for d in group]),
-    "text": "\n".join(dict.fromkeys(d["text"] for d in group)), "hints": " ".join(dict.fromkeys(d["hints"] for d in group if d["hints"]))[:1800],
+    "text": collected.get(url) or "\n".join(dict.fromkeys(d["text"] for d in group)), "hints": " ".join(dict.fromkeys(d["hints"] for d in group if d["hints"]))[:1800],
     "collected": max(d["collected"] for d in group)} for url, group in science.items()]
 # 기출은 문제 글만 넣어 "시험에서 어떻게 묻는가"로 검색한다. 해설·근거 인용은 D1에 있어 답변 직전에 붙인다
 for q in json.loads((root / "app/public/questions.json").read_text()):

@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/chemistry-2e/pages/17-7-electrolysis",
+ "title": "Chemistry 2e §17.7 Electrolysis",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "and reduction of silver ion at the (spoon) cathode:\nThe net result is the transfer of silver metal from the anode to the cathode. Several experimental factors must be carefully controlled to obtain high-quality silver coatings, including the exact composition of the electrolyte solution, the cell voltage applied, and the rate of the electrolysis reaction (electrical current).\nElectrical current is defined as the rate of flow for any charged species. Most relevant to this discussion is the flow of electrons. Current is measured in a composite unit called an ampere, defined as one coulomb per second (A = 1 C/s). The charge transferred, Q, by passage of a constant current, I, over a specified time interval, t, is then given by the simple mathematical product",
+ "missingExcerpts": []
+}

@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/university-physics-volume-2/pages/6-4-conductors-in-electrostatic-equilibrium",
+ "title": "6.4 Conductors in Electrostatic Equilibrium",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "No. Doing so would mean a violation of Gauss’s law. Plimpton and Lawton did not detect any flow and, knowing the sensitivity of their electrometer, concluded that if the radial dependence in Coulomb’s law were 1/r(2+δ)1/r(2+δ), δδ would be less than 2×10−92×10−9^1. More recent measurements place δδ at less than 3×10−163×10−16^2, a number so small that the validity of Coulomb’s law seems indisputable.\nIf the electric field had a component parallel to the surface of a conductor, free charges on the surface would move, a situation contrary to the assumption of electrostatic equilibrium. Therefore, the electric field is always perpendicular to the surface of a conductor.\nAt any point just above the surface of a conductor, the surface charge density σσ and the magnitude of the electric field E are related by",
+ "missingExcerpts": []
+}

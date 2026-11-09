@@ -1,0 +1,8 @@
+{
+ "url": "https://www.epa.gov/environmental-geophysics/seismic-velocities",
+ "title": "Seismic Velocities",
+ "license": "U.S. federal government work (public domain)",
+ "collected": "2026-11-09",
+ "text": "In environmental geophysics seismic energy sources are typically a small explosion or a hammer blow, which generate three fundamental types of elastic waves: P (primary, compressional) waves; S (secondary, shear) waves, and surface waves. The P and S waves propagate through the body of the earth, while the surface waves can exist only close to the free surface. Since P and S waves are predominately used in environmental geophysics, surface waves are not included in this discussion.\nP waves have a particle motion in the direction of propagation, while particles under the influence of S waves move transverse to the direction of propagation. S waves cannot propagate through liquids because liquids have no shear rigidity.\nP waves velocities are typically 50% higher than S waves. V_p and V_s are governed by the elastic moduli (Young's modulus (E), Poisson's ratio (ν), and Bulk modulus (κ)) and the density (ρ) of geologic material.",
+ "missingExcerpts": []
+}

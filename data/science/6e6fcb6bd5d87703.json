@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/university-physics-volume-2/pages/7-5-equipotential-surfaces-and-conductors",
+ "title": "7.5",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "Note that in this equation, E and F symbolize the magnitudes of the electric field and force, respectively. Neither q nor E is zero; d is also not zero. So cosθcosθ must be 0, meaning θθ must be 90º90º. In other words, motion along an equipotential is perpendicular to E.\nOne of the rules for static electric fields and conductors is that the electric field must be perpendicular to the surface of any conductor. This implies that a conductor is an equipotential surface in static situations. There can be no voltage difference across the surface of a conductor, or charges will flow. One of the uses of this fact is that a conductor can be fixed at what we consider zero volts by connecting it to the earth with a good conductor—a process called grounding. Grounding can be a useful safety tool. For example, grounding the metal case of an electrical appliance ensures that it is at zero volts relative to Earth.\nBecause a conductor is an equipotential, it can replace any equipotential surface. For example, in Figure 7.30, a charged spherical conductor can replace the point charge, and the electric field and potential surfaces outside of it will be unchanged, confirming the contention that a spherical charge distribution is equivalent to a point charge at its center.",
+ "missingExcerpts": []
+}

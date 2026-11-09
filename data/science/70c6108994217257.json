@@ -1,0 +1,13 @@
+{
+ "url": "https://openstax.org/books/biology-2e/pages/10-2-the-cell-cycle",
+ "title": "Biology 2e §10.2 — The Cell Cycle",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "Throughout interphase, nuclear DNA remains in a semi-condensed chromatin configuration. In the S phase, DNA replication can proceed through the mechanisms that result in the formation of identical pairs of DNA molecules—sister chromatids—that are firmly attached at the centromeric region. The centrosome is also duplicated during the S phase. The two centrosomes will give rise to the mitotic spindle, the apparatus that orchestrates the movement of chromosomes during mitosis. For example, roughly at the center of each animal cell, the centrosomes are associated with a pair of rod-like objects, the centrioles, which are positioned at right angles to each other. Centrioles help organize cell division. We should note, however, that centrioles are not present in the centrosomes of other eukaryotic organisms, such as plants and most fungi.\nIn animal cells, cytokinesis typically starts during late anaphase. A contractile ring composed of actin filaments forms just inside the plasma membrane at the former metaphase plate. The actin filaments pull the equator of the cell inward, forming a fissure. This fissure is called the cleavage furrow. The furrow deepens as the actin ring contracts, and eventually the membrane is cleaved in two (Figure 10.9).",
+ "missingExcerpts": [
+  "Chromosomes line up at the metaphase plate",
+  "Most of the cell cycle is spent in interphase",
+  "In plants, a cell plate separates the two cells.",
+  "During cytokinesis in animals, a cleavage furrow separates the two daughter cells."
+ ]
+}

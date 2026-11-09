@@ -1,0 +1,12 @@
+{
+ "url": "https://openstax.org/books/chemistry-2e/pages/9-3-stoichiometry-of-gaseous-substances-mixtures-and-reactions",
+ "title": "OpenStax Chemistry 2e §9.3 Stoichiometry of Gaseous Substances, Mixtures, and Reactions",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "The ideal gas law described previously in this chapter relates the properties of pressure P, volume V, temperature T, and molar amount n. This law is universal, relating these properties in identical fashion regardless of the chemical identity of the gas:\nUnless they chemically react with each other, the individual gases in a mixture of gases do not affect each other’s pressure. Each individual gas in a mixture exerts the same pressure that it would exert if it were present alone in the container (Figure 9.20). The pressure exerted by each individual gas in a mixture is called its partial pressure. This observation is summarized by Dalton’s law of partial pressures: The total pressure of a mixture of ideal gases is equal to the sum of the partial pressures of the component gases:\nThe partial pressure of gas A is related to the total pressure of the gas mixture via its mole fraction (X), a unit of concentration defined as the number of moles of a component of a solution divided by the total number of moles of all components:\nThe total pressure is given by the sum of the partial pressures:",
+ "missingExcerpts": [
+  "the partial pressure of each gas can be determined from the ideal gas equation",
+  "The gases behave independently, so the partial pressure of each gas can be determined from the ideal gas equation",
+  "The gases behave independently"
+ ]
+}

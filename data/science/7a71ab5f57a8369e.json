@@ -1,0 +1,11 @@
+{
+ "url": "https://openstax.org/books/biology-2e/pages/19-1-population-evolution",
+ "title": "Biology 2e §19.1 Population Evolution",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "In the early twentieth century, English mathematician Godfrey Hardy and German physician Wilhelm Weinberg stated the principle of equilibrium to describe the population's genetic makeup. The theory, which later became known as the Hardy-Weinberg principle of equilibrium, states that a population’s allele and genotype frequencies are inherently stable—unless some kind of evolutionary force is acting upon the population, neither the allele nor the genotypic frequencies would change. The Hardy-Weinberg principle assumes an infinitely large population and conditions with no mutations, migration, emigration, or selective pressure for or against genotype. While no population can satisfy those conditions, the principle offers a useful model against which to compare real population changes.\nHowever, what ultimately interests most biologists is not the frequencies of different alleles, but the frequencies of the resulting genotypes, known as the population’s genetic structure, from which scientists can surmise phenotype distribution. If we observe the phenotype, we can know only the homozygous recessive allele's genotype. The calculations provide an estimate of the remaining genotypes. Since each individual carries two alleles per gene, if we know the allele frequencies (p and q), predicting the genotypes' frequencies is a simple mathematical calculation to determine the probability of obtaining these genotypes if we draw two alleles at random from the gene pool. In the above scenario",
+ "missingExcerpts": [
+  "When populations are in the Hardy-Weinberg equilibrium, the allelic frequency is stable from generation to generation",
+  "the allelic frequency is stable from generation to generation"
+ ]
+}

@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/university-physics-volume-2/pages/3-2-work-heat-and-internal-energy",
+ "title": "University Physics Volume 2 §3.2 Work, Heat, and Internal Energy, equation 3.4",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "For a finite change in volume from V1toV2,V1toV2, we can integrate this equation from V1toV2V1toV2 to find the net work:\nThis integral is only meaningful for a quasi-static process, which means a process that takes place in infinitesimally small steps, keeping the system at thermal equilibrium. (We examine this idea in more detail later in this chapter.) Only then does a well-defined mathematical relationship (the equation of state) exist between the pressure and volume. This relationship can be plotted on a pV diagram of pressure versus volume, where the curve is the change of state. We can approximate such a process as one that occurs slowly, through a series of equilibrium states. The integral is interpreted graphically as the area under the pV curve (the shaded area of Figure 3.5). Work done by the gas is positive for expansion and negative for compression.\nConsider the two processes involving an ideal gas that are represented by paths AC and ABC in Figure 3.6. The first process is an isothermal expansion, with the volume of the gas changing its volume from V1toV2V1toV2. This isothermal process is represented by the curve between points A and C. The gas is kept at a constant temperature T by keeping it in thermal equilibrium with a heat reservoir at that temperature. From Equation 3.4 and the ideal gas law,",
+ "missingExcerpts": []
+}

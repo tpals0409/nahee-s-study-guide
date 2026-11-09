@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/chemistry-2e/pages/14-6-buffers",
+ "title": "Chemistry 2e, 14.6: Buffers",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "A solution containing appreciable amounts of a weak conjugate acid-base pair is called a buffer solution, or a buffer. Buffer solutions resist a change in pH when small amounts of a strong acid or a strong base are added (Figure 14.14). A solution of acetic acid and sodium acetate (CH_3COOH + CH_3COONa) is an example of a buffer that consists of a weak acid and its salt. An example of a buffer that consists of a weak base and its salt is a solution of ammonia and ammonium chloride (NH_3(aq) + NH_4Cl(aq)).\nThe buffer capacity is the amount of acid or base that can be added to a given volume of a buffer solution before the pH changes significantly, usually by one unit. Buffer capacity depends on the amounts of the weak acid and its conjugate base that are in a buffer mixture. For example, 1 L of a solution that is 1.0 M in acetic acid and 1.0 M in sodium acetate has a greater buffer capacity than 1 L of a solution that is 0.10 M in acetic acid and 0.10 M in sodium acetate even though both solutions have the same pH. The first solution has more buffer capacity because it contains more acetic acid and acetate ion.\nwhere pK_a is the negative of the logarithm of the ionization constant of the weak acid (pK_a = −log K_a). This equation relates the pH, the ionization constant of a weak acid, and the concentrations of the weak conjugate acid-base pair in a buffered solution. Scientists often use this expression, called the Henderson-Hasselbalch equation, to calculate the pH of buffer ",
+ "missingExcerpts": []
+}

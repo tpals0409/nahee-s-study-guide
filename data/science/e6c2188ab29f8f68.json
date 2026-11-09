@@ -1,0 +1,10 @@
+{
+ "url": "https://openstax.org/books/biology-2e/pages/17-1-biotechnology",
+ "title": "17.1 Biotechnology",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "Although genomic DNA is visible to the naked eye when it is extracted in bulk, DNA analysis often requires focusing on one or more specific genome regions. Polymerase chain reaction (PCR) is a technique that scientists use to amplify specific DNA regions for further analysis (Figure 17.5). Researchers use PCR for many purposes in laboratories, such as cloning gene fragments to analyze genetic diseases, identifying contaminant foreign DNA in a sample, and amplifying DNA for sequencing. More practical applications include determining paternity and detecting genetic diseases.\nDNA fragments can also be amplified from an RNA template in a process called reverse transcriptase PCR (RT-PCR). The first step is to recreate the original DNA template strand (called cDNA) by applying DNA nucleotides to the mRNA. This process is called reverse transcription. This requires the presence of an enzyme called reverse transcriptase. After the cDNA is made, regular PCR can be used to amplify it.\nDeepen your understanding of the polymerase chain reaction by watching this video.",
+ "missingExcerpts": [
+  "Primers—short pieces of DNA complementary to each end of the target sequence"
+ ]
+}

@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/university-physics-volume-3/pages/10-1-properties-of-nuclei",
+ "title": "University Physics Volume 3, 10.1: Properties of Nuclei",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "The atomic nucleus is composed of protons and neutrons (Figure 10.2). Protons and neutrons have approximately the same mass, but protons carry one unit of positive charge (+e),(+e), and neutrons carry no charge. These particles are packed together into an extremely small space at the center of an atom. According to scattering experiments, the nucleus is spherical or ellipsoidal in shape, and about 1/100,000th the size of a hydrogen atom. If an atom were the size of a major league baseball stadium, the nucleus would be roughly the size of the baseball. Protons and neutrons within the nucleus are called nucleons.\nThe number of protons in the nucleus is given by the atomic number, Z. The number of neutrons in the nucleus is the neutron number, N. The total number of nucleons is the mass number, A. These numbers are related by\nwhere X represents the chemical element, A is the mass number, and Z is the atomic number. For example, 612C612C represents the carbon nucleus with six protons and six neutrons (or 12 nucleons).",
+ "missingExcerpts": []
+}

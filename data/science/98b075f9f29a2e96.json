@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/organic-chemistry/pages/18-8-spectroscopy-of-ethers",
+ "title": "OpenStax Organic Chemistry §18.8 Spectroscopy of Ethers",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "Ethers are difficult to identify by IR spectroscopy. Although they show an absorption due to C–O single-bond stretching in the range 1050 to 1150 cm^–1, many other kinds of absorptions occur in the same range. Figure 18.3 shows the IR spectrum of diethyl ether and identifies the C–O stretch. Phenyl alkyl ethers show two strong absorbances for C–O stretching at 1050 and 1250 cm^–1. Figure 18.4 shows the IR spectrum of anisole.\nHydrogens on carbon next to an ether oxygen are shifted downfield from the normal alkane resonance and show ^1H NMR absorptions in the region 3.4 to 4.5 δ. This downfield shift is clearly seen in the spectrum of dipropyl ether shown in Figure 18.5.",
+ "missingExcerpts": []
+}

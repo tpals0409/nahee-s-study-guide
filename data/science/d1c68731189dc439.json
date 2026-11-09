@@ -1,0 +1,11 @@
+{
+ "url": "https://openstax.org/books/astronomy-2e/pages/18-4-the-h-r-diagram",
+ "title": "Astronomy 2e §18.4 — Features of the H–R Diagram",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "It is customary to plot H–R diagrams in such a way that temperature increases toward the left and luminosity toward the top. Notice the similarity to our plot of height and weight for people (Figure 18.12). Stars, like people, are not distributed over the diagram at random, as they would be if they exhibited all combinations of luminosity and temperature. Instead, we see that the stars cluster into certain parts of the H–R diagram. The great majority are aligned along a narrow sequence running from the upper left (hot, highly luminous) to the lower right (cool, less luminous). This band of points is called the main sequence. It represents a relationship between temperature and luminosity that is followed by most stars. We can summarize this relationship by saying that hotter stars are more luminous than cooler ones.\nA number of stars, however, lie above the main sequence on the H–R diagram, in the upper-right region, where stars have low temperature and high luminosity. How can a star be at once cool, meaning each square meter on the star does not put out all that much energy, and yet very luminous? The only way is for the star to be enormous—to have so many square meters on its surface that the total energy output is still large. These stars must be giants or supergiants, the stars of huge diameter we discussed earlier.",
+ "missingExcerpts": [
+  "The “Companion of Sirius” is among the white dwarfs.",
+  "they are both hot and dim, and must be white dwarfs."
+ ]
+}

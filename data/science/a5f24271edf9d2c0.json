@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/chemistry-2e/pages/12-3-rate-laws",
+ "title": "OpenStax Chemistry 2e §12.3 Rate Laws",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "where a and b are stoichiometric coefficients. The rate law for this reaction is written as:\nin which [A] and [B] represent the molar concentrations of reactants, and k is the rate constant, which is specific for a particular reaction at a particular temperature. The exponents m and n are the reaction orders and are typically positive integers, though they can be fractions, negative, or zero. The rate constant k and the reaction orders m and n must be determined experimentally by observing how the rate of a reaction changes as the concentrations of the reactants are changed. The rate constant k is independent of the reactant concentrations, but it does vary with temperature.\nThe reaction orders in a rate law describe the mathematical dependence of the rate on reactant concentrations. Referring to the generic rate law above, the reaction is m order with respect to A and n order with respect to B. For example, if m = 1 and n = 2, the reaction is first order in A and second order in B. The overall reaction order is simply the sum of orders for each reactant. For the example rate law here, the reaction is third order overall (1 + 2 = 3). A few specific examples are shown below to further illustrate this concept.\ndescribes a reaction that is first order in hydrogen peroxide and first order overall. The rate law:",
+ "missingExcerpts": []
+}

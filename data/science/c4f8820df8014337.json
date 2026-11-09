@@ -1,0 +1,13 @@
+{
+ "url": "https://openstax.org/books/university-physics-volume-3/pages/7-4-the-quantum-particle-in-a-box",
+ "title": "OpenStax University Physics Volume 3 §7.4 The Quantum Particle in a Box",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "In this section, we apply Schrӧdinger’s equation to a particle bound to a one-dimensional box. This special case provides lessons for understanding quantum mechanics in more complex systems. The energy of the particle is quantized as a consequence of a standing wave condition inside the box.\nSolutions ψ(x)ψ(x) to this equation have a probabilistic interpretation. In particular, the square |ψ(x)|2|ψ(x)|2 represents the probability density of finding the particle at a particular location x. This function must be integrated to determine the probability of finding the particle in some interval of space. We are therefore looking for a normalizable solution that satisfies the following normalization condition:\nTo evaluate the allowed wave functions that correspond to these energies, we must find the normalization constant BnBn. We impose the normalization condition Equation 7.33 on the wave function\nEnergy quantization is a consequence of the boundary conditions. If the particle is not confined to a box but wanders freely, the allowed energies are continuous. However, in this case, only certain energies (E1,4E1,9E1,(E1,4E1,9E1,…) are allowed. The energy difference between adjacent energy levels is given by",
+ "missingExcerpts": [
+  "We discard the n=0 solution because",
+  "En=n2π2ℏ22mL2,n=1,2,3,...",
+  "The emitted photon carries away the energy difference",
+  "The state for $n=2$ is the first excited state, the state for $n=3$ is the second excited state"
+ ]
+}

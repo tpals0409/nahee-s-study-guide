@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/chemistry-2e/pages/9-5-the-kinetic-molecular-theory",
+ "title": "OpenStax Chemistry 2e §9.5 The Kinetic-Molecular Theory",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "The average kinetic energy of the gas molecules is proportional to the kelvin temperature of the gas.\nIn a gas sample, individual molecules have widely varying speeds; however, because of the vast number of molecules and collisions involved, the molecular speed distribution and average speed are constant. This molecular speed distribution is known as a Maxwell-Boltzmann distribution, and it depicts the relative numbers of molecules in a bulk sample of gas that possesses a given speed (Figure 9.32).",
+ "missingExcerpts": []
+}

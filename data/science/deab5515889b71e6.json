@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/chemistry-2e/pages/13-2-equilibrium-constants",
+ "title": "Chemistry 2e §13.2, gaseous reaction quotient and equilibrium constant",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "the reaction quotient is derived directly from the stoichiometry of the balanced equation as\nwhere the subscript c denotes the use of molar concentrations in the expression. If the reactants and products are gaseous, a reaction quotient may be similarly derived using partial pressures:\nThe constant value of Q exhibited by a system at equilibrium is called the equilibrium constant, K:\nComparison of the data plots in Figure 13.5 shows that both experimental scenarios resulted in the same value for the equilibrium constant. This is a general observation for all equilibrium systems, known as the law of mass action: At a given temperature, the reaction quotient for a system at equilibrium is constant.\nAnd so, the relationship between K_c and K_P is\nAgain, note that concentration terms are only included for gaseous and solute species, as discussed previously.",
+ "missingExcerpts": []
+}

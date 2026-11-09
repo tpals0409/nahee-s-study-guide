@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/microbiology/pages/11-3-rna-transcription",
+ "title": "11.3 RNA Transcription",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "Where does the signal to end transcription come from?\nProkaryotes and eukaryotes perform fundamentally the same process of transcription, with a few significant differences (see Table 11.3). Eukaryotes use three different polymerases, RNA polymerases I, II, and III, all structurally distinct from the bacterial RNA polymerase. Each transcribes a different subset of genes. Interestingly, archaea contain a single RNA polymerase that is more closely related to eukaryotic RNA polymerase II than to its bacterial counterpart. Eukaryotic mRNAs are also usually monocistronic, meaning that they each encode only a single polypeptide, whereas prokaryotic mRNAs of bacteria and archaea are commonly polycistronic, meaning that they encode multiple polypeptides.\nThe most important difference between prokaryotes and eukaryotes is the latter’s membrane-bound nucleus, which influences the ease of use of RNA molecules for protein synthesis. With the genes bound in a nucleus, the eukaryotic cell must transport protein-encoding RNA molecules to the cytoplasm to be translated. Protein-encoding primary transcripts, the RNA molecules directly synthesized by RNA polymerase, must undergo several processing steps to protect these RNA molecules from degradation during the time they are transferred from the nucleus to the cytoplasm and translated into a protein. For example, eukaryotic mRNAs may last for several hours, whereas the typical prokaryotic mRNA lasts no more than 5 seconds.",
+ "missingExcerpts": []
+}

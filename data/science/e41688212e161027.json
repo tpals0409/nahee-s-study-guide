@@ -1,0 +1,10 @@
+{
+ "url": "https://openstax.org/books/chemistry-2e/pages/8-2-hybrid-atomic-orbitals",
+ "title": "Chemistry 2e §8.2, sp3d and sp3d2 hybridization",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "The structure of ethane, C_2H_6, is similar to that of methane in that each carbon in ethane has four neighboring atoms arranged at the corners of a tetrahedron—three hydrogen atoms and one carbon atom (Figure 8.17). However, in ethane an sp^3 orbital of one carbon atom overlaps end to end with an sp^3 orbital of a second carbon atom to form a σ bond between the two carbon atoms. Each of the remaining sp^3 hybrid orbitals overlaps with an s orbital of a hydrogen atom to form carbon–hydrogen σ bonds. The structure and overall outline of the bonding orbitals of ethane are shown in Figure 8.17. The orientation of the two CH_3 groups is not fixed relative to each other. Experimental evidence shows that rotation around σ bonds occurs easily.\nThe molecular structure of water is consistent with a tetrahedral arrangement of two lone pairs and two bonding pairs of electrons. Thus we say that the oxygen atom is sp^3 hybridized, with two of the hybrid orbitals occupied by lone pairs and two by bonding pairs. Since lone pairs occupy more space than bonding pairs, structures that contain lone pairs have bond angles slightly distorted from the ideal. Perfect tetrahedra have angles of 109.5°, but the observed angles in ammonia (107.3°) and water (104.5°) are slightly smaller. Other examples of sp^3 hybridization include CCl_4, PCl_3, and NCl_3.\nThe hybridization of an atom is determined based on the number of regions of electron density that surround it. The geometrical arrangements charact",
+ "missingExcerpts": [
+  "The set of two sp orbitals are oriented at 180°, which is consistent with the geometry for two domains."
+ ]
+}

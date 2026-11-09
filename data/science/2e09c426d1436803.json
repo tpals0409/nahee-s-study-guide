@@ -1,0 +1,10 @@
+{
+ "url": "https://openstax.org/books/chemistry-2e/pages/19-2-coordination-chemistry-of-transition-metals",
+ "title": "Chemistry 2e, 19.2 Coordination Chemistry of Transition Metals",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "The coordination sphere consists of the central metal ion or atom plus its attached ligands. Brackets in a formula enclose the coordination sphere; species outside the brackets are not part of the coordination sphere. The coordination number of the central metal ion or atom is the number of donor atoms bonded to it. The coordination number for the silver ion in [Ag(NH_3)_2]^+ is two (Figure 19.14). For the copper(II) ion in [CuCl_4]^2−, the coordination number is four, whereas for the cobalt(II) ion in [Co(H_2O)_6]^2+ the coordination number is six. Each of these ligands is monodentate, from the Greek for “one toothed,” meaning that they connect with the central metal through only one atom. In this case, the number of ligands and the coordination number are equal.\nMany other ligands coordinate to the metal in more complex fashions. Bidentate ligands are those in which two atoms coordinate to the metal center. For example, ethylenediamine (en, H_2NCH_2CH_2NH_2) contains two nitrogen atoms, each of which has a lone pair and can serve as a Lewis base (Figure 19.15). Both of the atoms can coordinate to a single metal center. In the complex [Co(en)_3]^3+, there are three bidentate en ligands, and the coordination number of the cobalt(III) ion is six. The most common coordination numbers are two, four, and six, but examples of all coordination numbers from 1 to 15 are known.\nAnother important type of isomers are optical isomers, or enantiomers, in which two objects are exact mirror",
+ "missingExcerpts": [
+  "tetrahedral(d^{0} or d^{10}), low oxidation states for M"
+ ]
+}

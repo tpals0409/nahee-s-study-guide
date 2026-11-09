@@ -1,0 +1,11 @@
+{
+ "url": "https://openstax.org/books/university-physics-volume-1/pages/10-5-calculating-moments-of-inertia",
+ "title": "OpenStax University Physics Volume 1 §10.5 Calculating Moments of Inertia",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "We defined the moment of inertia I of an object to be I=∑jmjrn2I=∑jmjrn2 for all the point masses that make up the object. Because r is the distance to the axis of rotation from each piece of mass that makes up the object, the moment of inertia for any object depends on the chosen axis. To see this, let’s take a simple example of two masses at the end of a massless (negligibly small mass) rod (Figure 10.23) and calculate the moment of inertia about two different axes. In this case, the summation over the masses is simple because the two masses at the end of the barbell can be approximated as point masses, and the sum therefore has only two terms.\nLet m be the mass of an object and let d be the distance from an axis through the object’s center of mass to a new axis. Then we have\nThe moment of inertia of the rod is simply 13mrL213mrL2, but we have to use the parallel-axis theorem to find the moment of inertia of the disk about the axis shown. The moment of inertia of the disk about its center is 12mdR212mdR2 and we apply the parallel-axis theorem Iparallel-axis=Icenter of mass+md2Iparallel-axis=Icenter of mass+md2 to find",
+ "missingExcerpts": [
+  "A uniform thin rod with axis at the end",
+  "I=∫r2dm."
+ ]
+}

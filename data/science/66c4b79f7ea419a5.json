@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/university-physics-volume-2/pages/15-4-power-in-an-ac-circuit",
+ "title": "15.4 Power in an AC Circuit",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "Hence the average power of the generator is\nwhich designates that the power produced by the generator is dissipated in the resistor. As we can see, Ohm’s law for the rms ac is found by dividing the rms voltage by the impedance.\nis connected to an RLC circuit for which L=2.00×10−3HL=2.00×10−3H, C=4.00×10−6FC=4.00×10−6F, and R=5.00ΩR=5.00Ω. (a) What is the rms voltage across the generator? (b) What is the impedance of the circuit? (c) What is the average power output of the generator?",
+ "missingExcerpts": []
+}

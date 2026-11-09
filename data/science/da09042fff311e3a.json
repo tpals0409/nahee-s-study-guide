@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/university-physics-volume-2/pages/13-2-lenzs-law",
+ "title": "University Physics Volume 2, 13.2 Lenz’s Law",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "The direction in which the induced emf drives current around a wire loop can be found through the negative sign. However, it is usually easier to determine this direction with Lenz’s law, named in honor of its discoverer, Heinrich Lenz (1804–1865). (Faraday also discovered this law, independently of Lenz.) We state Lenz’s law as follows:\nThe direction of the induced emf drives current around a wire loop to always oppose the change in magnetic flux that causes the emf.\nLenz’s law can also be considered in terms of conservation of energy. If pushing a magnet into a coil causes current, the energy in that current must have come from somewhere. If the induced current causes a magnetic field opposing the increase in field of the magnet we pushed in, then the situation is clear. We pushed a magnet against a field and did work on the system, and that showed up as current. If it were not the case that the induced field opposes the change in the flux, the magnet would be pulled in and produce a current without any work. Electric potential energy would have been created, violating the conservation of energy.",
+ "missingExcerpts": []
+}

@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/biology-2e/pages/20-1-organizing-life-on-earth",
+ "title": "Biology 2e, 20.1 Organizing Life on Earth",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "In a rooted tree, the branching indicates evolutionary relationships (Figure 20.3). The point where a split occurs, a branch point, represents where a single lineage evolved into a distinct new one. We call a lineage that evolved early from the root that remains unbranched a basal taxon. We call two lineages stemming from the same branch point sister taxa. A branch with more than two lineages is a polytomy and serves to illustrate where scientists have not definitively determined all of the relationships. Note that although sister taxa and polytomy do share an ancestor, it does not mean that the groups of organisms split or evolved from each other. Organisms in two taxa may have split at a specific branch point, but neither taxon gave rise to the other.\nAnother point to mention on phylogenetic tree structure is that rotation at branch points does not change the information. For example, if a branch point rotated and the taxon order changed, this would not alter the information because each taxon's evolution from the branch point was independent of the other.",
+ "missingExcerpts": []
+}

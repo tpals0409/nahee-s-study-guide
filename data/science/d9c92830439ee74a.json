@@ -1,0 +1,10 @@
+{
+ "url": "https://www.weather.gov/crp/weather_education",
+ "title": "Basic Weather Education — Cloud Classification",
+ "license": "U.S. federal government work (public domain)",
+ "collected": "2026-11-09",
+ "text": "Clouds typically form when air rises. The reduction in pressure as air rises causes the air to expand and cool. Rising motion can be associated with convection in unstable air, lifting of air over topography (mountains), or lifting of air by fronts. (Fronts will be discussed in more detail in the next section.) When air rises, the air's temperature cools and may reach its dewpoint temperature, at which point it becomes saturated. Once saturation is reached, condensation occurs and the water vapor in the air will condense into tiny water droplets. As millions of droplets form, a cloud will begin to take shape.\nClouds are classified by their height (high, middle, low, or vertically developing), physical appearance and whether they produce precipitation. Here are a few Latin roots that are helpful when identifying cloud types: \"cirro\": high, 'curl of hair' \"alto\": 'middle' \"stratus\": layer, sheet-like, low \"cumulus\": heap-like, puffy \"nimbus\": clouds producing precipitation\nCombinations of these Latin roots are used to describe the most common types of clouds (i.e. a cirrostratus cloud is one that is high and layered).",
+ "missingExcerpts": [
+  "Low Clouds (Stratus, Stratocumulus, Nimbostratus)"
+ ]
+}

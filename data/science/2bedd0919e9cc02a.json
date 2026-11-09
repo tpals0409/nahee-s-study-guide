@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/university-physics-volume-2/pages/8-4-capacitor-with-a-dielectric",
+ "title": "University Physics 2 §8.4 Capacitor with a Dielectric",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "The constant κκ in this equation is called the dielectric constant of the material between the plates, and its value is characteristic for the material. A detailed explanation for why the dielectric reduces the voltage is given in the next section. Different materials have different dielectric constants (a table of values for typical materials is provided in the next section). Once the battery becomes disconnected, there is no path for a charge to flow to the battery from the capacitor plates. Hence, the insertion of the dielectric has no effect on the charge on the plate, which remains at a value of Q0Q0. Therefore, we find that the capacitance of the capacitor with a dielectric is",
+ "missingExcerpts": []
+}

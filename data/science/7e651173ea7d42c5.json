@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/biology-2e/pages/13-1-chromosomal-theory-and-genetic-linkage",
+ "title": "Biology 2e, 13.1 Chromosomal Theory and Genetic Linkage",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "During meiosis, homologous chromosome pairs migrate as discrete structures that are independent of other chromosome pairs.\nTo better understand the type of experimental results that researchers were obtaining at this time, consider a heterozygous individual that inherited dominant maternal alleles for two genes on the same chromosome (such as A and B) and two recessive paternal alleles for those same genes (such as a and b). If the genes are linked, one would expect this individual to produce gametes that are either AB or ab with a 1:1 ratio. If the genes are unlinked, the individual should produce AB, Ab, aB, and ab gametes with equal frequencies, according to the Mendelian concept of independent assortment. Because they correspond to new allele combinations, the genotypes Ab and aB are nonparental types that result from homologous recombination during meiosis. Parental types are progeny that exhibit the same allelic combination as their parents. Morgan and his colleagues, however, found that when they test crossed such heterozygous individuals to a homozygous recessive parent (AaBb × aabb), both parental and nonparental cases occurred. For example, 950 offspring might be recovered that were either AaBb or aabb, but 50 offspring would also result that were either Aabb or aaBb. These results suggested that linkage occurred most often, but a significant minority of offspring were the products of recombination.\nBy representing alleles in a linear map, Sturtevant suggested that ",
+ "missingExcerpts": []
+}

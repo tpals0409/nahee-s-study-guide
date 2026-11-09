@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/chemistry-2e/pages/2-3-atomic-structure-and-symbolism",
+ "title": "2.3 Atomic Structure and Symbolism — Chemistry 2e",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "The number of protons in the nucleus of an atom is its atomic number (Z). This is the defining trait of an element: Its value determines the identity of the atom. For example, any atom that contains six protons is the element carbon and has the atomic number 6, regardless of how many neutrons or electrons it may have. A neutral atom must contain the same number of positive and negative charges, so the number of protons equals the number of electrons. Therefore, the atomic number also indicates the number of electrons in an atom. The total number of protons and neutrons in an atom is called its mass number (A). The number of neutrons is therefore the difference between the mass number and the atomic number: A – Z = number of neutrons.\nThe mass of an element shown in a periodic table or listed in a table of atomic masses is a weighted, average mass of all the isotopes present in a naturally occurring sample of that element. This is equal to the sum of each individual isotope’s mass multiplied by its fractional abundance.",
+ "missingExcerpts": []
+}

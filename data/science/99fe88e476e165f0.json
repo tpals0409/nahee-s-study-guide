@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/university-physics-volume-3/pages/6-3-the-compton-effect",
+ "title": "University Physics Volume 3, 6.3 The Compton Effect",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "As given by Compton, the explanation of the Compton shift is that in the target material, graphite, valence electrons are loosely bound in the atoms and behave like free electrons. Compton assumed that the incident X-ray radiation is a stream of photons. An incoming photon in this stream collides with a valence electron in the graphite target. In the course of this collision, the incoming photon transfers some part of its energy and momentum to the target electron and leaves the scene as a scattered photon. This model explains in qualitative terms why the scattered radiation has a longer wavelength than the incident radiation. Put simply, a photon that has lost some of its energy emerges as a photon with a lower frequency, or equivalently, with a longer wavelength. To show that his model was correct, Compton used it to derive the expression for the Compton shift. In his derivation, he assumed that both photon and electron are relativistic particles and that the collision obeys two commonsense principles: (1) the conservation of linear momentum and (2) the conservation of total relativistic energy.\nFollowing Compton’s argument, we assume that the colliding photon and electron form an isolated system. This assumption is valid for weakly bound electrons that, to a good approximation, can be treated as free particles. Our first equation is the conservation of energy for the photon-electron system:\nThe left side of this equation is the energy of the system at the instant immediate",
+ "missingExcerpts": []
+}

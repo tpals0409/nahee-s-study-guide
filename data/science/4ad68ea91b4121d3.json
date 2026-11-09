@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/university-physics-volume-1/pages/16-2-mathematics-of-waves",
+ "title": "16.2 Mathematics of Waves — University Physics Volume 1",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "Looking at the first snapshot in Figure 16.9, the y-position of the string between x=0x=0 and x=λx=λ can be modeled as a sine function. This wave propagates down the string one wavelength in one period, as seen in the last snapshot. The wave therefore moves with a constant wave speed of v=λ/T.v=λ/T.\nwhere A is the amplitude, k=2πλk=2πλ is the wave number, ω=2πTω=2πT is the angular frequency, the minus sign is for waves moving in the positive x-direction, and the plus sign is for waves moving in the negative x-direction. The velocity of the wave is equal to\nThe amplitude can be read straight from the equation and is equal to A.\nThe wavelength can be found using the wave number (λ=2πk).(λ=2πk).",
+ "missingExcerpts": []
+}

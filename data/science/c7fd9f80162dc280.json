@@ -1,0 +1,10 @@
+{
+ "url": "https://openstax.org/books/university-physics-volume-3/pages/3-4-interference-in-thin-films",
+ "title": "OpenStax University Physics Volume 3 §3.4 Interference in Thin Films, Example 3.3",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "We saw earlier (Waves) that reflection of mechanical waves can involve a 180°180° phase change. For example, a traveling wave on a string is inverted (i.e., a 180°180° phase change) upon reflection at a boundary to which a heavier string is tied. However, if the second string is lighter (or more precisely, of a lower linear density), no inversion occurs. Light waves produce the same effect, but the deciding parameter for light is the index of refraction. Light waves undergo a 180°180° or ππ radians phase change upon reflection at an interface beyond which is a medium of higher index of refraction. No phase change takes place when reflecting from a medium of lower refractive index (Figure 3.13). Because of the periodic nature of waves, this phase change or inversion is equivalent to ±λ/2±λ/2 in distance travelled, or path length. Both the path length and refractive indices are important factors in thin-film interference.\nIf the film in Figure 3.12 is a soap bubble (essentially water with air on both sides), then a phase shift of λ/2λ/2 occurs for ray 1 but not for ray 2. Thus, when the film is very thin and the path length difference between the two rays is negligible, they are exactly out of phase, and destructive interference occurs at all wavelengths. Thus, the soap bubble is dark here. The thickness of the film relative to the wavelength of light is the other crucial factor in thin-film interference. Ray 2 in Figure 3.12 travels a greater distance than ray 1. For light inc",
+ "missingExcerpts": [
+  "Thus, to obtain destructive interference, ray 2 needs to travel a half wavelength farther than ray 1."
+ ]
+}

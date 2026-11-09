@@ -1,0 +1,8 @@
+{
+ "url": "https://www.genome.gov/genetics-glossary/Northern-Blot",
+ "title": "Northern Blot",
+ "license": "U.S. federal government work (public domain)",
+ "collected": "2026-11-09",
+ "text": "Get the Latest Updates and FAQs on the transition.Per Executive Order 14434, federal agencies are now using \"Super Intelligence\" (SI) in place of \"Artificial Intelligence\" (AI). You may see both terms across NIH content during this transition.\nNorthern blot is a laboratory analysis method used to study RNA. Specifically, purified RNA fragments from a biological sample (such as blood or tissue) are separated by using an electric current to move them through a sieve-like gel or matrix, which allows smaller fragments to move faster than larger fragments. The RNA fragments are transferred out of the gel or matrix onto a solid membrane, which is then exposed to a DNA probe labeled with a radioactive, fluorescent or chemical tag. The tag allows any RNA fragments containing complementary sequences with the DNA probe sequence to be visualized within the Northern blot.\nNorthern blot. In human tumors, changes in the expression levels of cancer-causing genes are frequent. Northern blot analysis can be used to investigate whether a gene is overexpressed or underexpressed in cancer cells as compared to normal cells. Overexpression means the cancer cells produce or transcribe too much RNA from the gene. Overexpression can occur when a gene is amplified or turned on or turned up. Underexpression means the cancer cells produce or transcribe too little RNA from the gene. Underexpression can happen when a gene is inappropriately deleted or turned off or turned down.",
+ "missingExcerpts": []
+}

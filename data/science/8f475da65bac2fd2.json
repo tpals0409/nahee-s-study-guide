@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/chemistry-2e/pages/5-1-energy-basics",
+ "title": "Chemistry 2e, 5.1 Energy Basics",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "Although the large pan is more massive than the small pan, since both are made of the same material, they both yield the same value for specific heat (for the material of construction, iron). Note that specific heat is measured in units of energy per temperature per mass and is an intensive property, being derived from a ratio of two extensive properties (heat and mass). The molar heat capacity, also an intensive property, is the heat capacity per mole of a particular substance and has units of J/mol °C (Figure 5.8).\nWater has a relatively high specific heat (about 4.2 J/g °C for the liquid and 2.09 J/g °C for the solid); most metals have much lower specific heats (usually less than 1 J/g °C). The specific heat of a substance varies somewhat with temperature. However, this variation is usually small enough that we will treat specific heat as constant over the range of temperatures that will be considered in this chapter. Specific heats of some common substances are listed in Table 5.1.\nIf we know the mass of a substance and its specific heat, we can determine the amount of heat, q, entering or leaving the substance by measuring the temperature change before and after the heat is gained or lost:",
+ "missingExcerpts": []
+}

@@ -1,0 +1,8 @@
+{
+ "url": "https://www.nhc.noaa.gov/aboutgloss.shtml",
+ "title": "Glossary of NHC Terms — Tropical Cyclone",
+ "license": "U.S. federal government work (public domain)",
+ "collected": "2026-11-09",
+ "text": "Advisory: Official information issued by tropical cyclone warning centers describing all tropical cyclone watches and warnings in effect along with details concerning tropical cyclone locations, intensity and movement, and precautions that should be taken. Advisories are also issued to describe: (a) tropical cyclones prior to issuance of watches and warnings and (b) subtropical cyclones. Best Track: A subjectively-smoothed representation of a tropical cyclone's location, intensity, type, and size over its lifetime. The best track contains the cyclone's latitude, longitude, maximum sustained surface winds, minimum sea-level pressure, stage (e.g., tropical, extratropical, remnant low, etc.), and size (e.g., radius of maximum winds, hurricane-force winds, 50-kt winds, and tropical storm-force winds) at 6-hourly intervals and at landfall for tropical storms and hurricanes. These best track attributes, based on a post-storm assessment of all available data, may differ from values contained in system advisories. The best track locations also generally will not reflect the erratic motion implied by connecting individual center fix positions. Center: Generally speaking, the vertical axis of a tropical cyclone, usually defined by the location of minimum wind or minimum pressure. The cyclone center position can vary with altitude. In advisory products, refers to the center position at the surface. Center / Vortex Fix: The location of the center of a tropical or subtropical cyclone obta",
+ "missingExcerpts": []
+}

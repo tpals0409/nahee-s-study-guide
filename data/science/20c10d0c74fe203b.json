@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/organic-chemistry/pages/5-2-the-reason-for-handedness-in-molecules-chirality",
+ "title": "OpenStax Organic Chemistry §5.2 The Reason for Handedness in Molecules: Chirality",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "A molecule that has a plane of symmetry in any conformation must be identical to its mirror image and must be nonchiral, or achiral. Thus, propanoic acid, CH_3CH_2CO_2H, has a plane of symmetry when lined up as shown in Figure 5.5 and is achiral, while lactic acid, CH_3CH(OH)CO_2H, has no plane of symmetry in any conformation and is chiral.\nThe most common, although not the only, cause of chirality in organic molecules is the presence of a tetrahedral carbon atom bonded to four different groups—for example, the central carbon atom in lactic acid. Such carbons are referred to as chirality centers, although other terms such as stereocenter, asymmetric center, and stereogenic center have also been used. Note that chirality is a property of the entire molecule, whereas a chirality center is the cause of chirality.\nDetecting a chirality center in a complex molecule takes practice because it’s not always immediately apparent whether four different groups are bonded to a given carbon. The differences don’t necessarily appear right next to the chirality center. For example, 5-bromodecane is a chiral molecule because four different groups are bonded to C5, the chirality center (marked with an asterisk). A butyl substituent is similar to a pentyl substituent, but it isn’t identical. The difference isn’t apparent until looking four carbon atoms away from the chirality center, but there’s still a difference.",
+ "missingExcerpts": []
+}

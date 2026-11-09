@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/organic-chemistry/pages/13-4-chemical-shifts-in-1h-nmr-spectroscopy",
+ "title": "Organic Chemistry, 13.4 Chemical Shifts in 1H NMR Spectroscopy",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "Most ^1H chemical shifts fall within the range 0 to 10 δ, which can be divided into the five regions shown in Table 13.2. By remembering the positions of these regions, it’s often possible to tell at a glance what kinds of protons a molecule contains.\nTable 13.3 shows the correlation of ^1H chemical shift with electronic environment in more detail. In general, protons bonded to saturated, sp^3-hybridized carbons absorb at higher fields, whereas protons bonded to sp^2-hybridized carbons absorb at lower fields. Protons on carbons that are bonded to electronegative atoms, such as N, O, or halogen, also absorb at lower fields.\nMethyl 2,2-dimethylpropanoate (CH_3)_3CCO_2CH_3 has two peaks in its ^1H NMR spectrum. What are their approximate chemical shifts?",
+ "missingExcerpts": []
+}

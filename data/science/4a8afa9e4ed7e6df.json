@@ -1,0 +1,8 @@
+{
+ "url": "https://www.weather.gov/climateservices/CvW",
+ "title": "Climate versus Weather",
+ "license": "U.S. federal government work (public domain)",
+ "collected": "2026-11-09",
+ "text": "Climate Diagnostics and Prediction Workshop\nWeather is defined as the state of the atmosphere at a given time and place, with respect to variables such as temperature, moisture, wind speed and direction, and barometric pressure.\nClimate is defined as the expected frequency of specific states of the atmosphere, ocean, and land including variables such as temperature (land, ocean, and atmosphere), salinity (oceans), soil moisture (land), wind speed and direction (atmosphere), current strength and direction (oceans). Climate encompasses the weather over different periods of time and also relates to mutual interactions between the components of the earth system (e.g., atmospheric composition, volcanic eruptions, changes in the earth’s orbit around the sun, changes in the energy from the sun itself).",
+ "missingExcerpts": []
+}

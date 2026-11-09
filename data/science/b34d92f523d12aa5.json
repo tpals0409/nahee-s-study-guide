@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/university-physics-volume-2/pages/9-5-electrical-energy-and-power",
+ "title": "OpenStax University Physics Volume 2 §9.5 Electrical Energy and Power",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "In an electric circuit, electrical energy is continuously converted into other forms of energy. For example, when a current flows in a conductor, electrical energy is converted into thermal energy within the conductor. The electrical field, supplied by the voltage source, accelerates the free electrons, increasing their kinetic energy for a short time. This increased kinetic energy is converted into thermal energy through collisions with the ions of the lattice structure of the conductor. In Work and Kinetic Energy, we defined power as the rate at which work is done by a force measured in watts. Power can also be defined as the rate at which energy is transferred. In this section, we discuss the time rate of energy transfer, or power, in an electric circuit.\nThe power dissipated by a resistor has the form",
+ "missingExcerpts": []
+}

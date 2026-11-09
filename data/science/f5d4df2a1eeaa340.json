@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/chemistry-2e/pages/14-3-relative-strengths-of-acids-and-bases",
+ "title": "Chemistry 2e, 14.3 Relative Strengths of Acids and Bases",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "The relative strength of an acid or base is the extent to which it ionizes when dissolved in water. If the ionization reaction is essentially complete, the acid or base is termed strong; if relatively little ionization occurs, the acid or base is weak. As will be evident throughout the remainder of this chapter, there are many more weak acids and bases than strong ones. The most common strong acids and bases are listed in Figure 14.6.\nThe relative strengths of acids may be quantified by measuring their equilibrium constants in aqueous solutions. In solutions of the same concentration, stronger acids ionize to a greater extent, and so yield higher concentrations of hydronium ions than do weaker acids. The equilibrium constant for an acid is called the acid-ionization constant, K_a. For the reaction of an acid HA:\nwhere the concentrations are those at equilibrium. Although water is a reactant in the reaction, it is the solvent as well, so we do not include [H_2O] in the equation. The larger the K_a of an acid, the larger the concentration of H3O+H3O+ and A^− relative to the concentration of the nonionized acid, HA, in an equilibrium mixture, and the stronger the acid. An acid is classified as “strong” when it undergoes complete ionization, in which case the concentration of HA is zero and the acid ionization constant is immeasurably large (K_a ≈ ∞). Acids that are partially ionized are called “weak,” and their acid ionization constants may be experimentally measured. A table of",
+ "missingExcerpts": []
+}

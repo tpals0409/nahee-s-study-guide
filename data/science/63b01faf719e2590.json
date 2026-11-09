@@ -1,0 +1,11 @@
+{
+ "url": "https://openstax.org/books/university-physics-volume-2/pages/11-3-motion-of-a-charged-particle-in-a-magnetic-field",
+ "title": "University Physics Volume 2, 11.3 Motion of a Charged Particle in a Magnetic Field",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "A charged particle experiences a force when moving through a magnetic field. What happens if this field is uniform over the motion of the charged particle? What path does the particle follow? In this section, we discuss the circular motion of the charged particle as well as other motion that results from a charged particle entering a magnetic field.\nThe simplest case occurs when a charged particle moves perpendicular to a uniform B-field (Figure 11.7). If the field is in a vacuum, the magnetic field is the dominant factor determining the motion. Since the magnetic force is perpendicular to the direction of travel, a charged particle follows a curved path in a magnetic field. The particle continues to follow this curved path until it forms a complete circle. Another way to look at this is that the magnetic force is always perpendicular to velocity, so that it does no work on the charged particle. The particle’s kinetic energy and speed thus remain constant. The direction of motion is affected but not the speed.\nIn this situation, the magnetic force supplies the centripetal force Fc=mv2r.Fc=mv2r. Noting that the velocity is perpendicular to the magnetic field, the magnitude of the magnetic force is reduced to F=qvB.F=qvB. Because the magnetic force F supplies the centripetal force Fc,Fc, we have",
+ "missingExcerpts": [
+  "because the charge is negative, the force is opposite in direction to the prediction of the right-hand rule.",
+  "The result is uniform circular motion."
+ ]
+}

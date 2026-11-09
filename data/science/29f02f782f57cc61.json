@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/university-physics-volume-2/pages/2-3-heat-capacity-and-equipartition-of-energy",
+ "title": "University Physics Volume 2: Heat Capacity and Equipartition of Energy",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "We define the molar heat capacity at constant volume CVCV as\nIf the volume does not change, there is no overall displacement, so no work is done, and the only change in internal energy is due to the heat flow ΔEint=Q.ΔEint=Q. (This statement is discussed further in the next chapter.) We use the equation Eint=3nRT/2Eint=3nRT/2 to write ΔEint=3nRΔT/2ΔEint=3nRΔT/2 and substitute ΔEΔE for Q to find Q=3nRΔT/2Q=3nRΔT/2, which gives the following simple result for an ideal monatomic gas:\nIt is independent of temperature, which justifies our use of finite differences instead of a derivative. This formula agrees well with experimental results.",
+ "missingExcerpts": []
+}

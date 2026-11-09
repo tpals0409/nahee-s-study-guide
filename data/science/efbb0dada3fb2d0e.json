@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/university-physics-volume-2/pages/12-4-magnetic-field-of-a-current-loop",
+ "title": "12.4 Magnetic Field of a Current Loop",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "where we have used ∫loopdl=2πR.∫loopdl=2πR. As discussed in the previous chapter, the closed current loop is a magnetic dipole of moment μ→=IAn^.μ→=IAn^. For this example, A=πR2A=πR2 and n^=j^,n^=j^, so the magnetic field at P can also be written as\nBy setting y=0y=0 in Equation 12.15, we obtain the magnetic field at the center of the loop:\nThis equation becomes B=μ0NI/(2R)B=μ0NI/(2R) for a flat coil of N loops per length. It can also be expressed as",
+ "missingExcerpts": []
+}

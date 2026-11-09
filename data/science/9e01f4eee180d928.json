@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/organic-chemistry/pages/13-6-spin-spin-splitting-in-1h-nmr-spectra",
+ "title": "Organic Chemistry, 13.6 Spin–Spin Splitting in 1H NMR Spectra",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "Called spin–spin splitting, multiple absorptions of a nucleus are caused by the interaction, or coupling, of the spins of nearby nuclei. In other words, the tiny magnetic field produced by one nucleus affects the magnetic field felt by a neighboring nucleus. Look at the –CH_3 protons in bromoethane, for example. The three equivalent –CH_3 protons are neighbored by two other magnetic nuclei—the two protons on the adjacent –CH_2Br group. Each of the neighboring –CH_2Br protons has its own nuclear spin, which can align either with or against the applied field, producing a tiny effect that is felt by the –CH_3 protons.\nRULE 1Chemically equivalent protons don’t show spin–spin splitting. Equivalent protons may be on the same carbon or on different carbons, but their signals don’t split.\nRULE 2The signal of a proton with n equivalent neighboring protons is split into a multiplet of n + 1 peaks with coupling constant J. Protons that are farther than two carbon atoms apart don’t usually couple, although they sometimes show weak coupling when they are separated by a π bond.",
+ "missingExcerpts": []
+}

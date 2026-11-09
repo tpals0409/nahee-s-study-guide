@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/chemistry-2e/pages/14-4-hydrolysis-of-salts",
+ "title": "Chemistry 2e, 14.4: Hydrolysis of Salts",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "Salts are ionic compounds composed of cations and anions, either of which may be capable of undergoing an acid or base ionization reaction with water. Aqueous salt solutions, therefore, may be acidic, basic, or neutral, depending on the relative acid-base strengths of the salt's constituent ions. For example, dissolving ammonium chloride in water results in its dissociation, as described by the equation\nThe ammonium ion is the conjugate acid of the base ammonia, NH_3; its acid ionization (or acid hydrolysis) reaction is represented by\nSince ammonia is a weak base, K_b is measurable and K_a > 0 (ammonium ion is a weak acid).",
+ "missingExcerpts": []
+}

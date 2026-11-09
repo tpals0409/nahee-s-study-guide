@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/chemistry-2e/pages/13-3-shifting-equilibria-le-chateliers-principle",
+ "title": "13.3 Shifting Equilibria: Le Chatelier’s Principle",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "The system will experience a temporary net reaction in the forward direction to re-establish equilibrium (the equilibrium will shift right). This same shift will result if some product HI is removed from the system, which decreases the rate of the reverse reaction, again resulting in the same imbalance in rates.\nRaising the temperature of the system is akin to increasing the amount of a reactant, and so the equilibrium will shift to the right. Lowering the system temperature will likewise cause the equilibrium to shift left. For exothermic processes, heat is viewed as a product of the reaction and so the opposite temperature dependence is observed.\nTo discern the effect of catalysis on an equilibrium system, consider the reaction diagram for a simple one-step (elementary) reaction shown in Figure 13.8. The lowered transition state energy of the catalyzed reaction results in lowered activation energies for both the forward and the reverse reactions. Consequently, both forward and reverse reactions are accelerated, and equilibrium is achieved more quickly but without a change in the equilibrium constant.",
+ "missingExcerpts": []
+}

@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/university-physics-volume-1/pages/6-2-friction",
+ "title": "University Physics Volume 1 §6.2 Friction",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "Friction is a force that opposes relative motion between systems in contact.\nThere are several forms of friction. One of the simpler characteristics of sliding friction is that it is parallel to the contact surfaces between systems and is always in a direction that opposes motion or attempted motion of the systems relative to each other. If two systems are in contact and moving relative to one another, then the friction between them is called kinetic friction. For example, friction slows a hockey puck sliding on ice. When objects are stationary, static friction can act between them; the static friction is usually greater than the kinetic friction between two objects.\nIf two systems are in contact and stationary relative to one another, then the friction between them is called static friction. If two systems are in contact and moving relative to one another, then the friction between them is called kinetic friction.\nThe symbol ≤≤ means less than or equal to, implying that static friction can have a maximum value of μsN.μsN. Static friction is a responsive force that increases to be equal and opposite to whatever force is exerted, up to its maximum limit. Once the applied force exceeds\nwhich is also equal to N. The maximum force of static friction is therefore (0.700)(196N)=137N.(0.700)(196N)=137N. As long as P→P→ is less than 137 N, the force of static friction keeps the crate stationary and fs=P→.fs=P→. Thus, (a) fs=20.0N,fs=20.0N, (b) fs=30.0N,fs=30.0N, and (c) fs=120.0N.fs=",
+ "missingExcerpts": []
+}

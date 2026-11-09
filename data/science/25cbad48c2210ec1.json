@@ -1,0 +1,10 @@
+{
+ "url": "https://openstax.org/books/biology-2e/pages/11-1-the-process-of-meiosis",
+ "title": "OpenStax Biology 2e §11.1 The Process of Meiosis",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "Meiosis is the nuclear division that forms haploid cells from diploid cells, and it employs many of the same cellular mechanisms as mitosis. However, as you have learned, mitosis produces daughter cells whose nuclei are genetically identical to the original parent nucleus. In mitosis, both the parent and the daughter nuclei are at the same “ploidy level”—diploid in the case of most multicellular animals. Plants use mitosis to grow as sporophytes, and to grow and produce eggs and sperm as gametophytes; so they use mitosis for both haploid and diploid cells (as well as for all other ploidies). In meiosis, the starting nucleus is always diploid and the daughter nuclei that result are haploid. To achieve this reduction in chromosome number, meiosis consists of one round of chromosome replication followed by two rounds of nuclear division. Because many events that occur during each of the division stages are analogous to the events of mitosis, the same stage names are assigned. However, because there are two rounds of division, the major process and the stages are designated with a “I” or a “II.” Thus, meiosis I is the first round of meiotic division and consists of prophase I, prometaphase I, and so on. Likewise, Meiosis II (during which the second round of meiotic division takes place) includes prophase II, prometaphase II, and so on.\nEarly in prophase I, before the chromosomes can be seen clearly with a microscope, the homologous chromosomes are attached at their tips to the nu",
+ "missingExcerpts": [
+  "Homologous pairs of chromosomes line up at the metaphase plate during metaphase I of meiosis, but not during mitosis."
+ ]
+}

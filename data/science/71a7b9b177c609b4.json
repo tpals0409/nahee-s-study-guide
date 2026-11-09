@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/astronomy-2e/pages/19-2-surveying-the-stars",
+ "title": "Astronomy 2e — 19.2 Surveying the Stars",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "Figure 19.6 shows how such measurements work. Seen from opposite sides of Earth’s orbit, a nearby star shifts position when compared to a pattern of more distant stars. Astronomers actually define parallax to be one-half the angle that a star shifts when seen from opposite sides of Earth’s orbit (the angle labeled P in Figure 19.6). The reason for this definition is just that they prefer to deal with a baseline of 1 AU instead of 2 AU.\nWith a baseline of one AU, how far away would a star have to be to have a parallax of 1 arcsecond? The answer turns out to be 206,265 AU, or 3.26 light-years. This is equal to 3.1×10133.1×1013 kilometers (in other words, 31 trillion kilometers). We give this unit a special name, the parsec (pc)—derived from “the distance at which we have a parallax of one arcsecond.” The distance (D) of a star in parsecs is just the reciprocal of its parallax (p) in arcseconds; that is,",
+ "missingExcerpts": []
+}

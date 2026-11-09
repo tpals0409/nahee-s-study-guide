@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/university-physics-volume-2/pages/3-6-adiabatic-processes-for-an-ideal-gas",
+ "title": "University Physics Volume 2 §3.6 Adiabatic Processes for an Ideal Gas",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "Demonstrate the qualitative difference between adiabatic and isothermal expansions\nWhen an ideal gas is compressed adiabatically (Q=0),(Q=0), work is done on it and its temperature increases; in an adiabatic expansion, the gas does work and its temperature drops. Adiabatic compressions actually occur in the cylinders of a car, where the compressions of the gas-air mixture take place so quickly that there is no time for the mixture to exchange heat with its environment. Nevertheless, because work is done on the mixture during the compression, its temperature does rise significantly. In fact, the temperature increases can be so large that the mixture can explode without the addition of a spark. Such explosions, since they are not timed, make a car run poorly—it usually “knocks.” Because ignition temperature rises with the octane of gasoline, one way to overcome this problem is to use a higher-octane gasoline.\nAnother interesting adiabatic process is the free expansion of a gas. Figure 3.13 shows a gas confined by a membrane to one side of a two-compartment, thermally insulated container. When the membrane is punctured, gas rushes into the empty side of the container, thereby expanding freely. Because the gas expands “against a vacuum” (p=0)(p=0), it does no work, and because the vessel is thermally insulated, the expansion is adiabatic. With Q=0Q=0 and W=0W=0 in the first law, ΔEint=0,ΔEint=0, so Einti=EintfEinti=Eintf for the free expansion.",
+ "missingExcerpts": []
+}

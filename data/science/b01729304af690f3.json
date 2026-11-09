@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/university-physics-volume-2/pages/15-5-resonance-in-an-ac-circuit",
+ "title": "University Physics Volume 2 §15.5 — Resonance, Eqs. 15.15–15.17",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "This is the resonant angular frequency of the circuit. Substituting ω0ω0 into Equation 15.9, Equation 15.10, and Equation 15.11, we find that at resonance,\nTherefore, at resonance, an RLC circuit is purely resistive, with the applied emf and current in phase.\nWhat happens to the power at resonance? Equation 15.14 tells us how the average power transferred from an ac generator to the RLC combination varies with frequency. In addition, PavePave reaches a maximum when Z, which depends on the frequency, is a minimum, that is, when XL=XCandZ=R.XL=XCandZ=R. Thus, at resonance, the average power output of the source in an RLC series circuit is a maximum. From Equation 15.14, this maximum is Vrms2/R.Vrms2/R.",
+ "missingExcerpts": []
+}

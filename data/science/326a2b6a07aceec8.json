@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/organic-chemistry/pages/3-2-alkanes-and-alkane-isomers",
+ "title": "Organic Chemistry, 3.2 Alkanes and Alkane Isomers",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "Compounds like the two C_4H_10 molecules and the three C_5H_12 molecules, which have the same formula but different structures, are called Isomers, from the Greek isos + meros, meaning “made of the same parts.” Isomers have the same numbers and kinds of atoms but differ in the way the atoms are arranged. Compounds like butane and isobutane, whose atoms are connected differently, are called constitutional isomers. We’ll see shortly that other kinds of isomers are also possible, even among compounds whose atoms are connected in the same order. As Table 3.2 shows, the number of possible alkane isomers increases dramatically with the number of carbon atoms.\nConstitutional isomerism is not limited to alkanes—it occurs widely throughout organic chemistry. Constitutional isomers may have different carbon skeletons (as in isobutane and butane), different functional groups (as in ethanol and dimethyl ether), or different locations of a functional group along the chain (as in isopropylamine and propylamine). Regardless of the reason for the isomerism, constitutional isomers are always different compounds with different properties but with the same formula.",
+ "missingExcerpts": []
+}

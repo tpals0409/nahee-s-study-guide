@@ -1,0 +1,11 @@
+{
+ "url": "https://openstax.org/books/university-physics-volume-2/pages/6-2-explaining-gausss-law",
+ "title": "University Physics Volume 2, 6.2: Explaining Gauss’s Law",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "This equation holds for charges of either sign, because we define the area vector of a closed surface to point outward. If the enclosed charge is negative (see Figure 6.16(b)), then the flux through either SorS'SorS' is negative.\nIf the charges are discrete point charges, then we just add them. If the charge is described by a continuous distribution, then we need to integrate appropriately to find the total charge that resides inside the enclosed volume. For example, the flux through the Gaussian surface S of Figure 6.17 is Φ=(q1+q2+q5)/ε0.Φ=(q1+q2+q5)/ε0. Note that qencqenc is simply the sum of the point charges. If the charge distribution were continuous, we would need to integrate appropriately to compute the total charge within the Gaussian surface.",
+ "missingExcerpts": [
+  "all surfaces enclosing the same charge have the same flux",
+  "From Gauss’s law, the flux through each surface is given by"
+ ]
+}

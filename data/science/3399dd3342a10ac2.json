@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/university-physics-volume-2/pages/12-1-the-biot-savart-law",
+ "title": "University Physics Volume 2, 12.1 The Biot-Savart Law",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "We have seen that mass produces a gravitational field and also interacts with that field. Charge produces an electric field and also interacts with that field. Since moving charge (that is, current) interacts with a magnetic field, we might expect that it also creates that field—and it does.\nThe equation used to calculate the magnetic field produced by a current is known as the Biot-Savart law. It is an empirical law named in honor of two scientists who investigated the interaction between a straight, current-carrying wire and a permanent magnet. This law enables us to calculate the magnitude and direction of the magnetic field produced by a current in a wire. The Biot-Savart law states that at any point P (Figure 12.2), the magnetic field dB→dB→ due to an element dl→dl→ of a current-carrying wire is given by\nThe constant μ0μ0 is known as the permeability of free space and is exactly\nThe magnetic field B→B→ due to a current-carrying wire is found by\nSince this is a vector integral, contributions from different current elements may not point in the same direction. Consequently, the integral is often difficult to evaluate, even for fairly simple geometries. The following strategy may be helpful.\nTo solve Biot-Savart law problems, the following steps are helpful:",
+ "missingExcerpts": []
+}

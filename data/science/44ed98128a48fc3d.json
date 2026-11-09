@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/university-physics-volume-2/pages/13-1-faradays-law",
+ "title": "University Physics Volume 2 §13.1 Faraday’s Law, equations 13.1–13.3 and Example 13.1",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "Faraday realized that in both experiments, a current flowed in the circuit containing the ammeter only when the magnetic field in the region occupied by that circuit was changing. As the magnet of the figure was moved, the strength of its magnetic field at the loop changed; and when the current in circuit 1 was turned on or off, the strength of its magnetic field at circuit 2 changed. Faraday was eventually able to interpret these and all other experiments involving magnetic fields that vary with time in terms of the following law:\nThe emf εε induced is the negative change in the magnetic flux ΦmΦm per unit time. Any change in the magnetic field or change in orientation of the area of the coil with respect to the magnetic field induces a voltage (emf).\nThe negative sign describes the direction in which the induced emf drives current around a circuit. However, that direction is most easily determined with a rule known as Lenz’s law, which we will discuss shortly.\nOccasionally, the magnetic field unit is expressed as webers per square meter (Wb/m2Wb/m2) instead of teslas, based on this definition. In many practical applications, the circuit of interest consists of a number N of tightly wound turns (see Figure 13.6). Each turn experiences the same magnetic flux. Therefore, the net magnetic flux through the circuits is N times the flux through one turn, and Faraday’s law is written as",
+ "missingExcerpts": []
+}

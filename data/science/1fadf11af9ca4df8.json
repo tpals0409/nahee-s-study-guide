@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/chemistry-2e/pages/17-2-galvanic-cells",
+ "title": "Chemistry 2e 17.2 — Galvanic Cells",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "These observations are consistent with (i) the oxidation of elemental copper to yield copper(II) ions, Cu^2+(aq), which impart a blue color to the solution, and (ii) the reduction of silver(I) ions to yield elemental silver, which deposits as a fluffy solid on the copper wire surface. And so, the direct transfer of electrons from the copper wire to the aqueous silver ions is spontaneous under the employed conditions. A summary of this redox system is provided by these equations:\nA galvanic cell based on the spontaneous reaction between copper and silver(I) is depicted in Figure 17.3. The cell is comprised of two half-cells, each containing the redox conjugate pair (“couple”) of a single reactant. The half-cell shown at the left contains the Cu(0)/Cu(II) couple in the form of a solid copper foil and an aqueous solution of copper nitrate. The right half-cell contains the Ag(I)/Ag(0) couple as solid silver foil and an aqueous silver nitrate solution. An external circuit is connected to each half-cell at its solid foil, meaning the Cu and Ag foil each function as an electrode. By definition, the anode of an electrochemical cell is the electrode at which oxidation occurs (in this case, the Cu foil) and the cathode is the electrode where reduction occurs (the Ag foil). The redox reactions in a galvanic cell occur only at the interface between each half-cell’s reaction mixture and its electrode. To keep the reactants separate while maintaining charge-balance, the two half-cell solut",
+ "missingExcerpts": []
+}

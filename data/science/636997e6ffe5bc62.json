@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/university-physics-volume-1/pages/5-5-newtons-third-law",
+ "title": "University Physics Volume 1 §5.5 Newton’s Third Law, equation 5.10",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "We have thus far considered force as a push or a pull; however, if you think about it, you realize that no push or pull ever occurs by itself. When you push on a wall, the wall pushes back on you. This brings us to Newton’s third law.\nWhenever one body exerts a force on a second body, the first body experiences a force that is equal in magnitude and opposite in direction to the force that it exerts. Mathematically, if a body A exerts a force F→F→ on body B, then B simultaneously exerts a force −F→−F→ on A, or in vector equation form,\nNewton’s third law represents a certain symmetry in nature: Forces always occur in pairs, and one body cannot exert a force on another without experiencing a force itself. We sometimes refer to this law loosely as “action-reaction,” where the force exerted is the action and the force experienced as a consequence is the reaction. Newton’s third law has practical uses in analyzing the origin of forces and understanding which forces are external to a system.",
+ "missingExcerpts": []
+}

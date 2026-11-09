@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/university-physics-volume-2/pages/13-3-motional-emf",
+ "title": "University Physics 2 §13.3 Motional Emf",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "Since B and l are constant and the velocity of the rod is v=dx/dt,v=dx/dt, we can now restate Faraday’s law, Equation 13.2, for the magnitude of the emf in terms of the moving conducting rod as\nThe current induced in the circuit is the emf divided by the resistance or\nFurthermore, the direction of the induced emf satisfies Lenz’s law, as you can verify by inspection of the figure.",
+ "missingExcerpts": []
+}

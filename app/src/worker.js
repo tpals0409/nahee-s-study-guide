@@ -1,5 +1,7 @@
 import Anthropic from "@anthropic-ai/sdk";
 import { SKILLS, tutor } from "./tutor.js";
+import { CHAT_ROUTES, chats } from "./chats.js";
+export { ChatRunner } from "./chats.js";
 import { authenticated, authRoute, sameOrigin } from "./auth.js";
 import { syncState } from "./store.js";
 
@@ -84,7 +86,7 @@ async function followUp(request, env) {
 	});
 }
 
-const ROUTES = { "/api/sync": sync, "/api/explain": explain, "/api/ask": followUp, "/api/tutor": tutor };
+const ROUTES = { "/api/sync": sync, "/api/explain": explain, "/api/ask": followUp, "/api/tutor": tutor, ...Object.fromEntries(Object.keys(CHAT_ROUTES).map((path) => [path, chats])) };
 
 const HSTS = "max-age=31536000";
 const MAX_BODY = 4_000_000;
@@ -98,7 +100,7 @@ async function handle(request, env) {
 		if (!sameOrigin(request)) return json({ error: "forbidden" }, 403);
 		if (Number(request.headers.get("content-length")) > MAX_BODY) return json({ error: "too large" }, 413);
 		if (!(await authenticated(request, env))) return json({ error: "unauthorized" }, 401);
-		if (route === tutor && env.TUTOR_LIMIT && !(await env.TUTOR_LIMIT.limit({key:request.headers.get("cf-connecting-ip") ?? "shared"})).success) return json({error:"잠시 후 다시 질문해 주세요."},429);
+		if ((route === tutor || new URL(request.url).pathname === "/api/chats/send") && env.TUTOR_LIMIT && !(await env.TUTOR_LIMIT.limit({key:request.headers.get("cf-connecting-ip") ?? "shared"})).success) return json({error:"잠시 후 다시 질문해 주세요."},429);
 		return await route(request, env);
 	} catch (error) {
 		console.error(error);

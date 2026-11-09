@@ -1,0 +1,10 @@
+{
+ "url": "https://openstax.org/books/organic-chemistry/pages/12-7-interpreting-infrared-spectra",
+ "title": "OpenStax Organic Chemistry §12.7 Interpreting Infrared Spectra",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "Fortunately, we don’t need to interpret an IR spectrum fully to get useful structural information. Most functional groups have characteristic IR absorption bands that don’t change much from one compound to another. The C=O absorption of a ketone is almost always in the range 1680 to 1750 cm^–1; the O–H absorption of an alcohol is almost always in the range 3400 to 3650 cm^–1; the C=C absorption of an alkene is almost always in the range 1640 to 1680 cm^–1; and so forth. By learning where characteristic functional-group absorptions occur, it’s possible to get structural information from IR spectra. Table 12.1 lists the characteristic IR bands of some common functional groups.",
+ "missingExcerpts": [
+  "Acetone has a strong C=O absorption at 1715"
+ ]
+}

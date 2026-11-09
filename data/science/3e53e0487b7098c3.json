@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/12-4-the-action-potential",
+ "title": "12.4 The Action Potential",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "A third type of channel that is an important part of depolarization in the action potential is the voltage-gated Na^+ channel. The channels that start depolarizing the membrane because of a stimulus help the cell to depolarize from -70 mV to -55 mV. Once the membrane reaches that voltage, the voltage-gated Na^+ channels open. This is what is known as the threshold. Any depolarization that does not change the membrane potential to -55 mV or higher will not reach threshold and thus will not result in an action potential. Also, any stimulus that depolarizes the membrane to -55 mV or beyond will cause a large number of channels to open and an action potential will be initiated.",
+ "missingExcerpts": []
+}

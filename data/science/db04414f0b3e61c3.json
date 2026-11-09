@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/organic-chemistry/pages/13-5-integration-of-1h-nmr-absorptions-proton-counting",
+ "title": "Organic Chemistry §13.5 Integration of 1H NMR Absorptions",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "Look at the ^1H NMR spectrum of methyl 2,2-dimethylpropanoate in Figure 13.7. There are two peaks, corresponding to the two kinds of protons, but the peaks aren’t the same size. The peak at 1.2 δ, due to the (CH_3)_3C– protons, is larger than the peak at 3.7 δ, due to the –OCH_3 protons.\nThe area under each peak is proportional to the number of protons causing that peak. By electronically measuring, or integrating, the area under each peak, it’s possible to measure the relative numbers of the different kinds of protons in a molecule.\nModern NMR instruments provide a digital readout of relative peak areas, but an older, more visual method displays the integrated peak areas as a stair-step line, with the height of each step proportional to the area under the peak, and therefore proportional to the relative number of protons causing the peak. For example, the two steps for the peaks in methyl 2,2-dimethylpropanoate have a 1 : 3 (or 3 : 9) height ratio when integrated—exactly what we expect because the three −OCH_3 protons are equivalent and the nine (CH_3)_3C– protons are equivalent.",
+ "missingExcerpts": []
+}

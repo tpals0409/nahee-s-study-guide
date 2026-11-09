@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/university-physics-volume-2/pages/1-1-temperature-and-thermal-equilibrium",
+ "title": "University Physics Volume 2 §1.1 — Thermal Equilibrium",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "Experimentally, if object A is in equilibrium with object B, and object B is in equilibrium with object C, then (as you may have already guessed) object A is in equilibrium with object C. That statement of transitivity is called the zeroth law of thermodynamics. (The number “zeroth” was suggested by British physicist Ralph Fowler in the 1930s. The first, second, and third laws of thermodynamics were already named and numbered then. The zeroth law had seldom been stated, but it needs to be discussed before the others, so Fowler gave it a smaller number.) Consider the case where A is a thermometer. The zeroth law tells us that if A reads a certain temperature when in equilibrium with B, and it is then placed in contact with C, it will not exchange energy with C; therefore, its temperature reading will remain the same (Figure 1.2). In other words, if two objects are in thermal equilibrium, they have the same temperature.",
+ "missingExcerpts": []
+}

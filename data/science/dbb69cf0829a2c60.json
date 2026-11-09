@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/chemistry-2e/pages/12-6-reaction-mechanisms",
+ "title": "Chemistry 2e, 12.6 Reaction Mechanisms",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "Notice that the oxygen atom produced in the first step of this mechanism is consumed in the second step and therefore does not appear as a product in the overall reaction. Species that are produced in one step and consumed in a subsequent step are called intermediates.\nFor the second type, in which two identical molecules collide and react, the rate law is second order in A:\nIt’s often the case that one step in a multistep reaction mechanism is significantly slower than the others. Because a reaction cannot proceed faster than its slowest step, this step will limit the rate at which the overall reaction occurs. The slowest step is therefore called the rate-limiting step (or rate-determining step) of the reaction Figure 12.18.\nThe rate-determining (slower) step gives a rate law showing second-order dependence on the NO_2 concentration, and the sum of the two equations gives the net overall reaction.\nAs discussed in several chapters of this text, a reversible reaction is at equilibrium when the rates of the forward and reverse processes are equal. Consider the reversible elementary reaction in which NO dimerizes to yield an intermediate species N_2O_2. When this reaction is at equilibrium:",
+ "missingExcerpts": []
+}

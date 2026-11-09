@@ -1,0 +1,10 @@
+{
+ "url": "https://openstax.org/books/university-physics-volume-2/pages/12-3-magnetic-force-between-two-parallel-currents",
+ "title": "12.3 Magnetic Force between Two Parallel Currents — University Physics Volume 2",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "The forces on the wires are equal in magnitude, so we just write F for the magnitude of F2.F2. (Note that F→1=−F→2.F→1=−F→2.) Since the wires are very long, it is convenient to think in terms of F/l, the force per unit length. Substituting the expression for B1B1 into Equation 12.10 and rearranging terms gives\nThe ratio F/l is the force per unit length between two parallel currents I1I1 and I2I2 separated by a distance r. The force is attractive if the currents are in the same direction and repulsive if they are in opposite directions.\nThis force is responsible for the pinch effect in electric arcs and other plasmas. The force exists whether the currents are in wires or not. It is only apparent if the overall charge density is zero; otherwise, the Coulomb repulsion overwhelms the magnetic attraction. In an electric arc, where charges are moving parallel to one another, an attractive force squeezes currents into a smaller tube. In large circuit breakers, such as those used in neighborhood power distribution systems, the pinch effect can concentrate an arc between plates of a switch trying to break a large current, burn holes, and even ignite the equipment. Another example of the pinch effect is found in the solar plasma, where jets of ionized material, such as solar flares, are shaped by magnetic forces.",
+ "missingExcerpts": [
+  "A similar analysis shows that the force is repulsive between currents in opposite directions."
+ ]
+}

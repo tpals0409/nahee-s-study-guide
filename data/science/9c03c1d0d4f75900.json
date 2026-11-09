@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/organic-chemistry/pages/17-11-spectroscopy-of-alcohols-and-phenols",
+ "title": "Organic Chemistry, 17.11 Spectroscopy of Alcohols and Phenols",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "Alcohols have a strong C–O stretching absorption near 1050 cm^–1 and a characteristic O–H stretching absorption at 3300 to 3600 cm^–1. The exact position of the O–H stretch depends on the extent of hydrogen-bonding in the molecule. Unassociated alcohols show a fairly sharp absorption near 3600 cm^–1, whereas hydrogen-bonded alcohols show a broader absorption in the 3300 to 3400 cm^–1 range. The hydrogen-bonded hydroxyl absorption appears at 3350 cm^–1 in the IR spectrum of cyclohexanol (Figure 17.12).\nAlcohols also show characteristic absorptions in the ^1H NMR spectrum. Hydrogens on the oxygen-bearing carbon atom are deshielded by the electron-withdrawing effect of the nearby oxygen, and their absorptions occur in the range 3.4 to 4.5 δ. Spin–spin splitting, however, is not usually observed between the O–H proton of an alcohol and the neighboring protons on carbon. Most samples contain small amounts of acidic impurities, which catalyze an exchange of the O–H proton on a timescale so rapid that the effect of spin–spin splitting is removed. It’s often possible to take advantage of this rapid proton exchange to identify the position of the O–H absorption. If a small amount of deuterated water, D_2O, is added to an NMR sample tube, the O–H proton is rapidly exchanged for deuterium and the hydroxyl absorption disappears from the spectrum.",
+ "missingExcerpts": []
+}

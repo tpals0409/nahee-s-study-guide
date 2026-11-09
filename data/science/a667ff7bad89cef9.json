@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/college-physics-2e/pages/19-1-electric-potential-energy-potential-difference",
+ "title": "College Physics 2e 19.1 — Electric force and work",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "Determine electric potential energy given potential difference and amount of charge.\nWhen a free positive charge qq is accelerated by an electric field, such as shown in Figure 19.2, it is given kinetic energy. The process is analogous to an object being accelerated by a gravitational field. It is as if the charge is going down an electrical hill where its electric potential energy is converted to kinetic energy. Let us explore the work done on a charge qq by the electric field in this process, so that we may develop a definition of electric potential energy.\nThe electrostatic or Coulomb force is conservative, which means that the work done on qq is independent of the path taken. This is exactly analogous to the gravitational force in the absence of dissipative forces such as friction. When a force is conservative, it is possible to define a potential energy associated with the force, and it is usually easier to deal with the potential energy (because it depends only on position) than to calculate the work directly.",
+ "missingExcerpts": []
+}

@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/university-physics-volume-3/pages/10-3-radioactive-decay",
+ "title": "University Physics Volume 3, 10.3 Radioactive Decay",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "The total number of nuclei drops very rapidly at first, and then more slowly (Figure 10.9).\nThe half-life (T1/2)(T1/2) of a radioactive substance is defined as the time for half of the original nuclei to decay (or the time at which half of the original nuclei remain). The half-lives of unstable isotopes are shown in the chart of nuclides in Figure 10.4. The number of radioactive nuclei remaining after an integer (n) number of half-lives is therefore\nIf the decay constant (λλ) is large, the half-life is small, and vice versa. To determine the relationship between these quantities, note that when t=T1/2t=T1/2, then N=N0/2N=N0/2. Thus, Equation 10.10 can be rewritten as\nExpressing λλ in terms of the half-life of the substance, we get\nTherefore, the activity is halved after one half-life. We can determine the decay constant λλ by measuring the activity as a function of time. Taking the natural logarithm of the left and right sides of Equation 10.17, we get\nThis equation follows the linear form y=mx+by=mx+b. If we plot ln A versus t, we expect a straight line with slope −λ−λ and y-intercept lnA0lnA0 (Figure 10.10(b)). Activity A is expressed in units of becquerels (Bq), where one 1Bq=1decay per second1Bq=1decay per second. This quantity can also be expressed in decays per minute or decays per year. One of the most common units for activity is the curie (Ci), defined to be the activity of 1 g of 226Ra226Ra. The relationship between the Bq and Ci is",
+ "missingExcerpts": []
+}

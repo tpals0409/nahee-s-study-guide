@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/university-physics-volume-2/pages/3-5-heat-capacities-of-an-ideal-gas",
+ "title": "University Physics Volume 2 §3.5 — Heat Capacities of an Ideal Gas",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "Let’s start with looking at Figure 3.12, which shows two vessels A and B, each containing the same type of ideal gas at a temperature T and a volume V. The only difference between the two vessels is that the piston at the top of A is fixed, whereas the one at the top of B is free to move against a constant external pressure p. We now consider what happens when the temperature of the gas in each vessel is slowly increased to T+dTT+dT with the addition of heat.\nSince the piston of vessel A is fixed, the volume of the enclosed gas does not change. Consequently, the gas does no work, and we have from the first law\nWe represent the fact that the heat is exchanged at constant volume by writing\nwhere CVCV is the molar heat capacity at constant volume of the gas, and, as before, n is the number of moles of the gas. In addition, since dEint=dQdEint=dQ for this particular process,\nWe obtained this equation assuming the volume of the gas was fixed. However, internal energy is a state function that depends on only the temperature of an ideal gas. Therefore, dEint=nCVdTdEint=nCVdT gives the change in internal energy of an ideal gas for any process involving a temperature change dT.\nWhen the gas in vessel B is heated, it expands against the movable piston and does work dW=pdV.dW=pdV. In this case, the heat is added at constant pressure, and we write",
+ "missingExcerpts": []
+}

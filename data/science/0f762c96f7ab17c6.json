@@ -1,0 +1,11 @@
+{
+ "url": "https://openstax.org/books/university-physics-volume-1/pages/12-2-examples-of-static-equilibrium",
+ "title": "University Physics Volume 1, 12.2 Examples of Static Equilibrium",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "FSFS is the normal reaction force at the support point S.\nWe choose a frame of reference where the direction of the y-axis is the direction of gravity, the direction of the x-axis is along the meter stick, and the axis of rotation (the z-axis) is perpendicular to the x-axis and passes through the support point S. In other words, we choose the pivot at the point where the meter stick touches the support. This is a natural choice for the pivot because this point does not move as the stick rotates. Now we are ready to set up the free-body diagram for the meter stick. We indicate the pivot and attach five vectors representing the five forces along the line representing the meter stick, locating the forces with respect to the pivot Figure 12.10. At this stage, we can identify the lever arms of the five forces given the information provided in the problem. For the three hanging masses, the problem is explicit about their locations along the stick, but the information about the location of the weight w is given implicitly. The key word here is “uniform.” We know from our previous studies that the CM of a uniform stick is located at its midpoint, so this is where we attach the weight w, at the 50-cm mark.\nNow we can find the five torques with respect to the chosen pivot:",
+ "missingExcerpts": [
+  "We select the pivot at the contact point with the floor.",
+  "the normal reaction force F from the wall in the horizontal direction away from the wall"
+ ]
+}

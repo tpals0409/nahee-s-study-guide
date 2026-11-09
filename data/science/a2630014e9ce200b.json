@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/organic-chemistry/pages/19-14-spectroscopy-of-aldehydes-and-ketones",
+ "title": "Organic Chemistry, 19.14 Spectroscopy of Aldehydes and Ketones",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "The exact position of the C═OC═O absorption is diagnostic of the nature of the carbonyl group. As the data in Table 19.2 indicate, saturated aldehydes usually show carbonyl absorptions near 1730 cm^–1 in the IR spectrum, but conjugation of the aldehyde to an aromatic ring or a double bond lowers the absorption by 25 cm^–1 to near 1705 cm^–1. Saturated aliphatic ketones and cyclohexanones both absorb near 1715 cm^–1, and conjugation with a double bond or an aromatic ring again lowers the absorption by 30 cm^–1 to 1685–1690 cm^–1. Angle strain in the carbonyl group, caused by reducing the ring size of cyclic ketones to four or five, raises the absorption position. Cyclohexanone has its C═OC═O stretch absorbance at 1715 cm^–1 while cyclopentanone’s carbonyl stretch is at 1750 cm^–1 and cyclobutanone’s is at 1785 cm^–1.",
+ "missingExcerpts": []
+}

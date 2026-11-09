@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/university-physics-volume-2/pages/11-6-the-hall-effect",
+ "title": "University Physics Volume 2, 11.6 The Hall Effect",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "Visit this website to find more information about the Hall effect.\nWe investigate the Hall effect by studying the motion of the free electrons along a metallic strip of width l in a constant magnetic field (Figure 11.17). The electrons are moving from left to right, so the magnetic force they experience pushes them to the bottom edge of the strip. This leaves an excess of positive charge at the top edge of the strip, resulting in an electric field E directed from top to bottom. The charge concentration at both edges builds up until the electric force on the electrons in one direction is balanced by the magnetic force on them in the opposite direction. Equilibrium is reached when:\nwhere e is the magnitude of the electron charge, vdvd is the drift speed of the electrons, and E is the magnitude of the electric field created by the separated charge. Solving this for the drift speed results in",
+ "missingExcerpts": []
+}

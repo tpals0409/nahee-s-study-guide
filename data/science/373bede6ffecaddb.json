@@ -1,0 +1,10 @@
+{
+ "url": "https://openstax.org/books/chemistry-2e/pages/9-2-relating-pressure-volume-amount-and-temperature-the-ideal-gas-law",
+ "title": "Chemistry 2e §9.2 — The Ideal Gas Law",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "Avogadro’s law: VnVn = constant at constant P and T\nCombining these four laws yields the ideal gas law, a relation between the pressure, volume, temperature, and number of moles of a gas:\nwhere P is the pressure of a gas, V is its volume, n is the number of moles of the gas, T is its temperature on the kelvin scale, and R is a constant called the ideal gas constant or the universal gas constant. The units used to express pressure, volume, and temperature will determine the proper form of the gas constant as required by dimensional analysis, the most commonly encountered values being 0.08206 L atm mol^–1 K^–1 and 8.314 kPa L mol^–1 K^–1.\nThe ideal gas equation contains five terms, the gas constant R and the variable properties P, V, n, and T. Specifying any four of these terms will permit use of the ideal gas law to calculate the fifth term as demonstrated in the following example exercises.\nIf we choose to use R = 0.08206 L atm mol^–1 K^–1, then the amount must be in moles, temperature must be in kelvin, and pressure must be in atm.\nIt would require 1020 L (269 gal) of gaseous methane at about 1 atm of pressure to replace 1 gal of gasoline. It requires a large container to hold enough methane at 1 atm to replace several gallons of gasoline.",
+ "missingExcerpts": [
+  "PV=nRT"
+ ]
+}

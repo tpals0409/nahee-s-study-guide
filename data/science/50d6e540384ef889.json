@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/organic-chemistry/pages/8-10-radical-additions-to-alkenes-chain-growth-polymers",
+ "title": "OpenStax Organic Chemistry §8.10 Radical Additions to Alkenes: Chain-Growth Polymers",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "Termination The chain process is eventually ended by a reaction that consumes the radical. The combination of two growing chains is one possible chain-terminating reaction.\nEthylene is not unique in its ability to form a polymer. Many substituted ethylenes, called vinyl monomers, also undergo polymerization to yield polymers with substituent groups regularly spaced on alternating carbon atoms along the chain. Propylene, for example, yields polypropylene, and styrene yields polystyrene.\nWhen an unsymmetrically substituted vinyl monomer such as propylene or styrene is polymerized, the radical addition steps can take place at either end of the double bond to yield either a primary radical intermediate (RCH_2·) or a secondary radical (R_2CH·). Just as in electrophilic addition reactions, however, we find that only the more highly substituted, secondary radical is formed.",
+ "missingExcerpts": []
+}

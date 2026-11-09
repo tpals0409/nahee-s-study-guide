@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/biology-2e/pages/14-3-basics-of-dna-replication",
+ "title": "Biology 2e 14.3 — Basics of DNA Replication",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "In conservative replication, the parental DNA remains together, and the newly formed daughter strands are together. The semi-conservative method suggests that each of the two parental DNA strands acts as a template for new DNA to be synthesized; after replication, each double-stranded DNA includes one parental or “old” strand and one “new” strand. In the dispersive model, both copies of DNA have double-stranded segments of parental DNA and newly synthesized DNA interspersed.\nThe E. coli culture was then placed into medium containing ^14N and allowed to grow for several generations. After each of the first few generations, the cells were harvested and the DNA was isolated, then centrifuged at high speeds in an ultracentrifuge. During the centrifugation, the DNA was loaded into a gradient (typically a solution of salt such as cesium chloride or sucrose) and spun at high speeds of 50,000 to 60,000 rpm. Under these circumstances, the DNA will form a band according to its buoyant density: the density within the gradient at which it floats. DNA grown in ^15N will form a band at a higher density position (i.e., farther down the centrifuge tube) than that grown in ^14N. Meselson and Stahl noted that after one generation of growth in ^14N after they had been shifted from ^15N, the single band observed was intermediate in position in between DNA of cells grown exclusively in^ 15N and ^14N. This suggested either a semi-conservative or dispersive mode of replication. The DNA harvested fr",
+ "missingExcerpts": []
+}

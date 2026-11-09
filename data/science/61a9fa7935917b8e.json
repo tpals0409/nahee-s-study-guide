@@ -1,0 +1,11 @@
+{
+ "url": "https://openstax.org/books/university-physics-volume-1/pages/8-3-conservation-of-energy",
+ "title": "University Physics Volume 1 8.3 — Conservation of Energy",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "This statement expresses the concept of energy conservation for a classical particle as long as there is no non-conservative work. Recall that a classical particle is just a point mass, is nonrelativistic, and obeys Newton’s laws of motion. In Relativity, we will see that conservation of energy still applies to a non-classical particle, but for that to happen, we have to make a slight adjustment to the definition of energy.\nIt is sometimes convenient to separate the case where the work done by non-conservative forces is zero, either because no such forces are assumed present, or, like the normal force, they do zero work when the motion is parallel to the surface. Then\nIn this case, the conservation of mechanical energy can be expressed as follows: The mechanical energy of a particle does not change if all the non-conservative forces that may act on it do no work. Understanding the concept of energy conservation is the important thing, not the particular equation you use to express it.\nIdentify the body or bodies to be studied (the system). Often, in applications of the principle of mechanical energy conservation, we study more than one body at the same time.",
+ "missingExcerpts": [
+  "no work is done by the string tension, which is perpendicular to the arc of the motion.",
+  "no work is done by the string tension"
+ ]
+}

@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/university-physics-volume-1/pages/7-3-work-energy-theorem",
+ "title": "7.3 Work-Energy Theorem",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "In the middle step, we used the fact that the square of the velocity is the sum of the squares of its Cartesian components, and in the last step, we used the definition of the particle’s kinetic energy. This important result is called the work-energy theorem (Figure 7.11).\nThe net work done on a particle equals the change in the particle’s kinetic energy:\nAccording to this theorem, when an object slows down, its final kinetic energy is less than its initial kinetic energy, the change in its kinetic energy is negative, and so is the net work done on it. If an object speeds up, the net work done on it is positive. When calculating the net work, you must include all the forces that act on an object. If you leave out any forces that act on an object, or if you include any forces that don’t act on it, you will get a wrong result.",
+ "missingExcerpts": []
+}

@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/university-physics-volume-1/pages/11-1-rolling-motion",
+ "title": "University Physics Volume 1 §11.1 Rolling Motion, conservation of energy and Example 11.3",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "You may ask why a rolling object that is not slipping conserves energy, since the static friction force is nonconservative. The answer can be found by referring back to Figure 11.3. Point P in contact with the surface is at rest with respect to the surface. Therefore, its infinitesimal displacement dr→dr→ with respect to the surface is zero, and the incremental work done by the static friction force is zero. We can apply energy conservation to our study of rolling motion to bring out some interesting results.\nAlso, in this example, the kinetic energy, or energy of motion, is equally shared between linear and rotational motion. If we look at the moments of inertia in Figure 10.20, we see that the hollow cylinder has the largest moment of inertia for a given radius and mass. If the wheels of the rover were solid and approximated by solid cylinders, for example, there would be more kinetic energy in linear motion than in rotational motion. This would give the wheel a larger linear velocity than the hollow cylinder approximation. Thus, the solid cylinder would reach the bottom of the basin faster than the hollow cylinder.",
+ "missingExcerpts": []
+}

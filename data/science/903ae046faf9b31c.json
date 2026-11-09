@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/university-physics-volume-2/pages/10-5-rc-circuits",
+ "title": "University Physics Volume 2 §10.5 RC Circuits",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "As the charge on the capacitor increases, the current through the resistor decreases, as shown in Figure 10.39(b). The current through the resistor can be found by taking the time derivative of the charge.\nAt time t=0.00s,t=0.00s, the current through the resistor is I0=εRI0=εR. As time approaches infinity, the current approaches zero. At time t=τt=τ, the current through the resistor is I(t=τ)=I0e−1=0.368I0.I(t=τ)=I0e−1=0.368I0.\nFigure 10.39(c) and Figure 10.39(d) show the voltage differences across the capacitor and the resistor, respectively. As the charge on the capacitor increases, the current decreases, as does the voltage difference across the resistorVR(t)=(I0R)e−t/τ=εe−t/τ.VR(t)=(I0R)e−t/τ=εe−t/τ. The voltage difference across the capacitor increases asVC(t)=ε(1−e−t/τ).VC(t)=ε(1−e−t/τ).",
+ "missingExcerpts": []
+}

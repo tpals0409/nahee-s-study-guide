@@ -1,0 +1,11 @@
+{
+ "url": "https://openstax.org/books/biology-2e/pages/4-4-the-endomembrane-system-and-proteins",
+ "title": "Biology 2e §4.4 The Endomembrane System and Proteins",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "The smooth endoplasmic reticulum (SER) is continuous with the RER but has few or no ribosomes on its cytoplasmic surface (Figure 4.18). SER functions include synthesis of carbohydrates, lipids, and steroid hormones; detoxification of medications and poisons; and storing calcium ions.\nIn muscle cells, a specialized SER, the sarcoplasmic reticulum, is responsible for storing calcium ions that are needed to trigger the muscle cells' coordinated contractions.\nFinally, the modified and tagged proteins are packaged into secretory vesicles that bud from the Golgi's trans face. While some of these vesicles deposit their contents into other cell parts where they will be used, other secretory vesicles fuse with the plasma membrane and release their contents outside the cell.",
+ "missingExcerpts": [
+  "As the protein passes along the Golgi’s cisternae, the addition of more carbohydrates further modifies it.",
+  "Membrane and secretory proteins are synthesized in the rough endoplasmic reticulum (RER)."
+ ]
+}

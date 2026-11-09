@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/microbiology/pages/12-1-microbes-and-the-tools-of-genetic-engineering",
+ "title": "Microbiology12.1 Microbes and the Tools of Genetic Engineering",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "To focus on the expressed genes in an organism or even a tissue, researchers construct libraries using the organism’s messenger RNA (mRNA) rather than its genomic DNA. Whereas all cells in a single organism will have the same genomic DNA, different tissues express different genes, producing different complements of mRNA. For example, all human cells’ genomic DNA contains the gene for insulin, but only cells in the pancreas express mRNA directing the production of insulin. Because mRNA cannot be cloned directly, in the laboratory mRNA must be used as a template by the retroviral enzyme reverse transcriptase to make complementary DNA (cDNA). A cell’s full complement of mRNA can be reverse-transcribed into cDNA molecules, which can be used as a template for DNA polymerase to make double-stranded DNA copies; these fragments can subsequently be ligated into either plasmid vectors or bacteriophage to produce a cDNA library. The benefit of a cDNA library is that it contains DNA from only the expressed genes in the cell. This means that the introns, control sequences such as promoters, and DNA not destined to be translated into proteins are not represented in the library. The focus on translated sequences means that the library cannot be used to study the sequence and structure of the genome in its entirety. The construction of a cDNA genomic library is shown in Figure 12.8.",
+ "missingExcerpts": []
+}

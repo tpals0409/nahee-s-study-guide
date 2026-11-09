@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/organic-chemistry/pages/4-4-conformations-of-cycloalkanes",
+ "title": "Organic Chemistry 4.4 — Cyclopropane",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "Cyclopropane is the most strained of all rings, primarily due to the angle strain caused by its 60° C−C−C bond angles. In addition, cyclopropane has considerable torsional strain because the C−H bonds on neighboring carbon atoms are eclipsed (Figure 4.5).\nHow can the hybrid-orbital model of bonding account for the large distortion of bond angles from the normal 109° tetrahedral value to 60° in cyclopropane? The answer is that cyclopropane has bent bonds. In an unstrained alkane, maximum bonding is achieved when two atoms have their overlapping orbitals pointing directly toward each other. In cyclopropane, though, the orbitals can’t point directly toward each other; instead, they overlap at a slight angle. The result is that cyclopropane bonds are weaker and more reactive than typical alkane bonds—255 kJ/mol (61 kcal/mol) for a C−C bond in cyclopropane versus 370 kJ/mol (88 kcal/mol) for a C−C bond in open-chain propane.",
+ "missingExcerpts": []
+}

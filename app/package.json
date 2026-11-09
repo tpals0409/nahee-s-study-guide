@@ -6,7 +6,7 @@
     "dev": "cf dev",
     "build": "cf build",
     "deploy": "cf deploy",
-    "test": "node src/logic.test.js && node src/worker.test.js && node src/auth.test.js && node src/store.test.js && node src/mock.test.js && node src/radar.test.js && node src/service-worker.test.js && node src/tutor.test.js",
+    "test": "node src/logic.test.js && node src/worker.test.js && node src/auth.test.js && node src/store.test.js && node src/mock.test.js && node src/radar.test.js && node src/service-worker.test.js && node src/tutor.test.js && node src/chats.test.js",
     "prebuild": "python3 build-knowledge.py && node build-sw.js"
   },
   "devDependencies": {

@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/organic-chemistry/pages/3-1-functional-groups",
+ "title": "Organic Chemistry 3.1 Functional Groups",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "Alkyl halides (haloalkanes), alcohols, ethers, alkyl phosphates, amines, thiols, sulfides, and disulfides all have a carbon atom singly bonded to an electronegative atom—halogen, oxygen, nitrogen, or sulfur. Alkyl halides have a carbon atom bonded to halogen (–X), alcohols have a carbon atom bonded to the oxygen of a hydroxyl group (–OH), ethers have two carbon atoms bonded to the same oxygen, organophosphates have a carbon atom bonded to the oxygen of a phosphate group (–OPO_3^2−), amines have a carbon atom bonded to a nitrogen, thiols have a carbon atom bonded to the sulfur of an –SH group, sulfides have two carbon atoms bonded to the same sulfur, and disulfides have carbon atoms bonded to two sulfurs that are joined together. In all cases, the bonds are polar, with the carbon atom bearing a partial positive charge (δ+) and the electronegative atom bearing a partial negative charge (δ–).\nThe carbonyl group, C=OC=O (pronounced car-bo-neel) is common to many of the families listed in Table 3.1. Carbonyl groups are present in a majority of organic compounds and in practically all biological molecules. These compounds therefore behave similarly in many respects but differ depending on the identity of the other atoms bonded to the carbonyl-group carbon. Aldehydes have at least one hydrogen bonded to the C=OC=O, ketones have two carbons bonded to the C=OC=O, carboxylic acids have an –OH group bonded to the C=OC=O, esters have an ether-like oxygen bonded to the C=OC=O, thioesters ",
+ "missingExcerpts": []
+}

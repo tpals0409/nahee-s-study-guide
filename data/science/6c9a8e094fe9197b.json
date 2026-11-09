@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/university-physics-volume-1/pages/17-7-the-doppler-effect",
+ "title": "University Physics Volume 1, 17.7 The Doppler Effect",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "Now consider a source moving at a constant velocity vs,vs, moving toward a stationary observer Y, also shown in Figure 17.32. The wavelength is observed by Y as λo=λs−Δx=λs−vsTs.λo=λs−Δx=λs−vsTs. Once again, using the fact that the wavelength is equal to the speed times the period, and the period is the inverse of the frequency, we can derive the observed frequency:\nWhen a source is moving and the observer is stationary, the observed frequency is\nwhere fofo is the frequency observed by the stationary observer, fsfs is the frequency produced by the moving source, v is the speed of sound, vsvs is the constant speed of the source, and the top sign is for the source approaching the observer and the bottom sign is for the source departing from the observer.",
+ "missingExcerpts": []
+}

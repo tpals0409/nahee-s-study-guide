@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/astronomy-2e/pages/5-2-the-electromagnetic-spectrum",
+ "title": "Astronomy 2e §5.2 — Stefan–Boltzmann law",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "where the wavelength is in nanometers (one billionth of a meter) and the temperature is in K (the constant 3×1063×106 has units of nm×Knm×K). This relationship is called Wien’s law. Note that Wien's law is an inversely proportional relationship; in other words, as the temperature increases, the peak wavelength decreases. For the Sun, the wavelength at which the maximum energy is emitted is 520 nanometers, which is near the middle of that portion of the electromagnetic spectrum called visible light. Characteristic temperatures of other astronomical objects, and the wavelengths at which they emit most of their power, are listed in Table 5.1.\nWe can also describe our observation that hotter objects radiate more power at all wavelengths in a mathematical form. If we sum up the contributions from all parts of the electromagnetic spectrum, we obtain the total energy emitted by a blackbody. What we usually measure from a large object like a star is the energy flux, the power emitted per square meter. The word flux means “flow” here: we are interested in the flow of power into an area (like the area of a telescope mirror). It turns out that the energy flux from a blackbody at temperature T is proportional to the fourth power of its absolute temperature. This relationship is known as the Stefan-Boltzmann law and can be written in the form of an equation as",
+ "missingExcerpts": []
+}

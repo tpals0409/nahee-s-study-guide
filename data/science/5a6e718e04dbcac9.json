@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/chemistry-2e/pages/17-1-review-of-redox-chemistry",
+ "title": "Chemistry 2e §17.1, half-reaction method and Example 17.2",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "Balance each half-reaction for H by adding H^+.\nBalance each half-reaction for charge by adding electrons.\nIf necessary, multiply one or both half-reactions so that the number of electrons consumed in one is equal to the number produced in the other.\nIf the reaction takes place in a basic medium, add OH^− ions the equation obtained in step 7 to neutralize the H^+ ions (add in equal numbers to both sides of the equation) and simplify.\nIf necessary, multiply one or both half-reactions so that the number of electrons consumed in one is equal to the number produced in the other. oxidation (×3):3Cu(s)⟶3Cu2+(aq)+62e−oxidation (×3):3Cu(s)⟶3Cu2+(aq)+62e− reduction (×2):63e−+63H+(aq)+2HNO3(aq)⟶2NO(g)+42H2O(l)reduction (×2):63e−+63H+(aq)+2HNO3(aq)⟶2NO(g)+42H2O(l)\nAdd the two half-reactions and simplify. 3Cu(s)+6e−+6H+(aq)+2HNO3(aq)⟶3Cu2+(aq)+6e−+2NO(g)+4H2O(l)3Cu(s)+6e−+6H+(aq)+2HNO3(aq)⟶3Cu2+(aq)+6e−+2NO(g)+4H2O(l) 3Cu(s)+6H+(aq)+2HNO3(aq)⟶3Cu2+(aq)+2NO(g)+4H2O(l)3Cu(s)+6H+(aq)+2HNO3(aq)⟶3Cu2+(aq)+2NO(g)+4H2O(l)\nIf the reaction takes place in a basic medium, add OH^− ions the equation obtained in step 7 to neutralize the H^+ ions (add in equal numbers to both sides of the equation) and simplify. This step not necessary since the solution is stipulated to be acidic.",
+ "missingExcerpts": []
+}

@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/chemistry-2e/pages/16-2-entropy",
+ "title": "Chemistry 2e, 16.2 Entropy",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "Now consider the gaseous phase, in which a given number of atoms or molecules occupy a much greater volume than in the liquid phase. Each atom or molecule can be found in many more locations, corresponding to a much greater number of microstates. Consequently, for any substance, S_gas > S_liquid > S_solid, and the processes of vaporization and sublimation likewise involve increases in entropy, ΔS > 0. Likewise, the reciprocal phase transitions, condensation and deposition, involve decreases in entropy, ΔS < 0.",
+ "missingExcerpts": []
+}

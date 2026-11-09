@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/university-physics-volume-2/pages/4-5-the-carnot-cycle",
+ "title": "OpenStax University Physics Volume 2 §4.5 The Carnot Cycle",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "Adiabatic compression. The gas is thermally isolated and returned to its initial state by compression. In this process, work W4W4 is done on the gas. Because the compression is adiabatic, the temperature of the gas rises—from TctoThTctoTh in this particular case. The reasoning of step 2 now gives TcVPγ−1=ThVMγ−1.TcVPγ−1=ThVMγ−1. The total work done by the gas in the Carnot cycle is given by W=W1+W2−W3−W4.W=W1+W2−W3−W4.\nThis work is equal to the area enclosed by the loop shown in the pV diagram of Figure 4.12. Because the initial and final states of the system are the same, the change of the internal energy of the gas in the cycle must be zero, that is, ΔEint=0ΔEint=0. The first law of thermodynamics then gives\nTo find the efficiency of this engine, we first divide QcbyQh:QcbyQh:\nCarnot summarized his study of the Carnot engine and Carnot cycle into what is now known as Carnot’s principle:\nNo engine working between two reservoirs at constant temperatures can have a greater efficiency than a reversible engine.\nThis principle can be viewed as another statement of the second law of thermodynamics and can be shown to be equivalent to the Kelvin statement and the Clausius statement.",
+ "missingExcerpts": []
+}

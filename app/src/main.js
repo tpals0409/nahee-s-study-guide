@@ -13,6 +13,7 @@ const ICONS = {
 	home: '<rect x="3" y="5" width="18" height="16" rx="3"/><path d="M3 10h18M8 3v4M16 3v4"/>',
 	layers: '<path d="m12 3 9 5-9 5-9-5 9-5Z"/><path d="m3 13 9 5 9-5"/>',
 	plus: '<path d="M12 5v14M5 12h14"/>',
+	list: '<path d="M4 6h16M4 12h16M4 18h10"/>',
 	camera: '<path d="M8 5l2-2h4l2 2h4v15H4V5Z"/><circle cx="12" cy="12" r="4"/>',
 	compose: '<path d="M14 4H5v16h15v-9M12 12l-1 4 4-1 7-7-3-3-7 7Z"/>',
 	up: '<path d="M12 19V5M6 11l6-6 6 6"/>',
@@ -566,12 +567,81 @@ function explainHtml(q) {
 
 function chatMessagesHtml(q, s) {
 	return `${s.pastChat && !q?.fixed ? '<p class="small muted">이전 대화 · 당시 보기 번호 기준</p>' : ""}
-	${s.chat.length ? s.chat.map((m, index) => `<div data-chat-index="${index}" class="say ${m.role === "user" ? "me" : ""}"><span class="chat-speaker">${m.role === "user" ? "나" : "AI"}</span><div class="chat-text">${chatTextHtml(m.content)}</div>${(m.images ?? []).map(img => `<img class="chat-photo" src="data:${esc(img.media_type)};base64,${esc(img.data)}" alt="질문에 첨부한 사진">`).join("")}${chatSourcesHtml(m.sources)}</div>`).join("") : `<div class="chat-empty"><span class="chat-intro-icon">${icon("note")}</span><h3>${q ? "어떤 부분이 궁금한가요?" : "막힌 문제,\n함께 풀어볼까요?"}</h3><p class="muted">${q ? "현재 문제와 해설을 바탕으로 답변해 드려요." : "문제를 입력하거나 사진을 첨부해 주세요.\n풀이부터 근거까지 차근차근 설명해 드려요."}</p>${q ? `<div class="chat-prompts"><button class="chip" data-act="chat-prompt" data-keep-open="true" data-prompt="정답의 핵심 근거를 쉽게 설명해 주세요.">정답의 핵심 근거</button><button class="chip" data-act="chat-prompt" data-keep-open="true" data-prompt="제가 고른 답과 정답의 차이를 설명해 주세요.">내 답과 정답 비교</button></div>` : `<div class="chat-start-actions"><button data-act="chat-photo-pick" data-keep-open="true">${icon("camera")}<strong>사진으로 질문</strong><span>문제를 찍거나 불러오기</span></button><button data-act="chat-type" data-keep-open="true">${icon("compose")}<strong>직접 입력</strong><span>개념부터 풀이까지</span></button></div>`}</div>`}
+	${s.chat.length ? s.chat.map((m, index) => `<div data-chat-index="${index}" class="say ${m.role === "user" ? "me" : ""}"><span class="chat-speaker">${m.role === "user" ? "나" : "AI"}</span><div class="chat-text">${m.status === "error" ? '<span class="error">답변을 받지 못했어요. 질문을 다시 보내 주세요.</span>' : chatTextHtml(m.content)}</div>${(m.images ?? []).map(img => `<img class="chat-photo" src="data:${esc(img.media_type)};base64,${esc(img.data)}" alt="질문에 첨부한 사진">`).join("")}${chatSourcesHtml(m.sources)}</div>`).join("") : `<div class="chat-empty"><span class="chat-intro-icon">${icon("note")}</span><h3>${q ? "어떤 부분이 궁금한가요?" : "막힌 문제,\n함께 풀어볼까요?"}</h3><p class="muted">${q ? "현재 문제와 해설을 바탕으로 답변해 드려요." : "문제를 입력하거나 사진을 첨부해 주세요.\n풀이부터 근거까지 차근차근 설명해 드려요."}</p>${q ? `<div class="chat-prompts"><button class="chip" data-act="chat-prompt" data-keep-open="true" data-prompt="정답의 핵심 근거를 쉽게 설명해 주세요.">정답의 핵심 근거</button><button class="chip" data-act="chat-prompt" data-keep-open="true" data-prompt="제가 고른 답과 정답의 차이를 설명해 주세요.">내 답과 정답 비교</button></div>` : `<div class="chat-start-actions"><button data-act="chat-photo-pick" data-keep-open="true">${icon("camera")}<strong>사진으로 질문</strong><span>문제를 찍거나 불러오기</span></button><button data-act="chat-type" data-keep-open="true">${icon("compose")}<strong>직접 입력</strong><span>개념부터 풀이까지</span></button></div>`}</div>`}
 	${s.asking ? '<p class="small muted" role="status">답변 작성 중…</p>' : ""}
 	${s.askError ? '<p class="error" role="alert">답변을 받지 못했어요. 다시 전송해 주세요.</p>' : ""}`;
 }
 
-const freeChat = { chat: [], askDraft: "", attachments: [] };
+/* 홈 AI 질문은 대화가 여러 개이고 서버에 저장된다. 답변은 서버가 끝까지 만들고, 앱은 열린 대화만 짧은 간격으로 읽는다 */
+const freeChat = { id: read("tutorChat", null), chat: [], askDraft: "", attachments: [], list: [] };
+let chatToDelete = null;
+const shortDate = (t) => { const d = new Date(t); return d.toDateString() === new Date().toDateString() ? `${d.getHours()}:${String(d.getMinutes()).padStart(2, "0")}` : `${d.getMonth() + 1}월 ${d.getDate()}일`; };
+function chatListHtml() {
+	const rows = freeChat.list.map((c) => `<div class="chat-list-item${c.id === freeChat.id ? " on" : ""}"><button class="chat-list-open" data-act="chat-open" data-id="${esc(c.id)}" data-keep-open="true"${c.id === freeChat.id ? ' aria-current="true"' : ""}><strong>${esc(c.title)}</strong><span class="small ${c.pending ? "chat-pending" : "muted"}">${c.pending ? "답변 작성 중" : shortDate(c.updated)}</span></button><button class="iconbtn" data-act="chat-delete" data-id="${esc(c.id)}" data-keep-open="true" aria-label="${esc(c.title)} 대화 삭제">${icon("close")}</button></div>`).join("");
+	return `<button class="chat-list-new" data-act="chat-new" data-keep-open="true">${icon("compose")}<span>새 대화</span></button>${rows || '<p class="small muted chat-list-empty">아직 대화가 없어요.</p>'}`;
+}
+async function refreshChatList() {
+	try { freeChat.list = (await api("/api/chats/list", {})).chats; } catch { return; }
+	const el = document.querySelector("#tutor-chat .chat-list");
+	if (el) el.innerHTML = chatListHtml();
+}
+async function loadTutorChat(id = freeChat.id) {
+	if (!id) return;
+	let loaded;
+	try { loaded = await api("/api/chats/get", { id }); } catch (error) {
+		if (error.status === 404 && freeChat.id === id) { Object.assign(freeChat, { id: null, chat: [] }); write("tutorChat", null); if (freeChatMode) paintChat(); }
+		return;
+	}
+	if (freeChat.id !== id) return;
+	const pending = loaded.messages.find((m) => m.status === "pending");
+	Object.assign(freeChat, { chat: loaded.messages, asking: !!pending });
+	if (freeChatMode) paintChat();
+	if (pending) watchReply(id, pending);
+}
+async function watchReply(chatId, reply) {
+	while (freeChat.id === chatId && freeChat.chat.includes(reply) && document.getElementById("tutor-chat")) {
+		await new Promise((resolve) => setTimeout(resolve, 700));
+		let next;
+		try { next = await api("/api/chats/poll", { id: reply.id }); } catch { continue; }
+		if (freeChat.id !== chatId || !freeChat.chat.includes(reply)) return;
+		Object.assign(reply, next);
+		if (next.status === "pending") { if (freeChatMode) paintChatReply(reply, freeChat.chat.indexOf(reply)); continue; }
+		freeChat.asking = false;
+		if (freeChatMode) { paintChat(); chatElement()?.querySelector(".chat-status")?.replaceChildren(next.status === "done" ? "AI 답변이 완료됐어요." : "답변을 받지 못했어요."); }
+		refreshChatList();
+		return;
+	}
+}
+async function sendTutor(form, text, images) {
+	const s = freeChat;
+	const startedOn = s.id;
+	Object.assign(s, { asking: true, askError: false, askDraft: "" });
+	form.querySelector("textarea").value = "";
+	s.chat.push({ role: "user", content: text, status: "done", ...(images.length ? { images } : {}) });
+	chatFollowBottom = true;
+	paintChat();
+	try {
+		const sent = await api("/api/chats/send", { chatId: startedOn, content: text, images });
+		if (freeChat.id !== startedOn) { refreshChatList(); return; }
+		const reply = { id: sent.replyId, role: "assistant", content: "", status: "pending" };
+		s.id = sent.chatId;
+		write("tutorChat", sent.chatId);
+		s.chat.push(reply);
+		s.attachments = [];
+		document.getElementById("pending-photos")?.replaceChildren();
+		const status = document.getElementById("photo-status");
+		if (status) status.textContent = "사진 최대 2장";
+		paintChat();
+		refreshChatList();
+		watchReply(sent.chatId, reply);
+	} catch {
+		if (freeChat.id !== startedOn) return;
+		s.chat.pop();
+		Object.assign(s, { asking: false, askError: true, askDraft: text });
+		paintChat();
+		form.querySelector("textarea").value = text;
+	}
+}
 let freeChatMode = false;
 const chatState = () => freeChatMode ? freeChat : session;
 const chatQuestion = () => freeChatMode ? null : current();
@@ -642,7 +712,8 @@ function openChat(free = false) {
 	if (!freeChatMode && dialog.open) { dialog.querySelector("textarea").focus({ preventScroll: true }); return; }
 	dialog.classList.toggle("free-chat", freeChatMode);
 	dialog.innerHTML = `${freeChatMode ? "" : `<div class="round-grab" aria-hidden="true"><span></span></div>`}
-	<header class="chat-header">${freeChatMode ? `<a class="iconbtn" href="#home" aria-label="홈으로 돌아가기">${icon("left")}</a>` : ""}<div>${freeChatMode ? `<h1 id="ai-chat-title">AI 질문</h1>` : `<h2 id="ai-chat-title" tabindex="-1" autofocus>AI 질문</h2>`}<p class="small muted">${q ? `${q.year}년 · ${esc(q.subject)} · ${q.number}번` : "궁금한 순간, 나희의 학습 도우미"}</p></div>${freeChatMode ? `<button class="iconbtn chat-new" data-act="chat-new" data-keep-open="true" aria-label="새 대화" title="새 대화">${icon("compose")}</button>` : ""}${freeChatMode ? "" : `<button class="iconbtn" data-act="dialog-close" aria-label="AI 질문 닫기">${icon("close")}</button>`}</header>
+	<header class="chat-header">${freeChatMode ? `<a class="iconbtn" href="#home" aria-label="홈으로 돌아가기">${icon("left")}</a>` : ""}<div>${freeChatMode ? `<h1 id="ai-chat-title">AI 질문</h1>` : `<h2 id="ai-chat-title" tabindex="-1" autofocus>AI 질문</h2>`}<p class="small muted">${q ? `${q.year}년 · ${esc(q.subject)} · ${q.number}번` : "궁금한 순간, 나희의 학습 도우미"}</p></div>${freeChatMode ? `<button class="iconbtn chat-list-toggle" data-act="chat-list-toggle" data-keep-open="true" aria-label="대화 목록" title="대화 목록">${icon("list")}</button><button class="iconbtn chat-new" data-act="chat-new" data-keep-open="true" aria-label="새 대화" title="새 대화">${icon("compose")}</button>` : ""}${freeChatMode ? "" : `<button class="iconbtn" data-act="dialog-close" aria-label="AI 질문 닫기">${icon("close")}</button>`}</header>
+	${freeChatMode ? `<nav class="chat-list" aria-label="대화 목록">${chatListHtml()}</nav>` : ""}
 	<div class="chat-messages" role="log" aria-live="off" aria-label="문제에 대한 대화">${chatMessagesHtml(q, s)}</div>
 	<button class="chat-latest chip" data-act="chat-latest" data-keep-open="true" hidden>최신 답변 보기 ↓</button>
 	<form data-form="ask" class="chat-compose">
@@ -659,6 +730,7 @@ function openChat(free = false) {
 	const messages = dialog.querySelector(".chat-messages");
 	messages.scrollTop = messages.scrollHeight;
 	messages.addEventListener("scroll", () => { chatFollowBottom = messages.scrollHeight - messages.scrollTop - messages.clientHeight < 80; dialog.querySelector(".chat-latest").hidden = chatFollowBottom; }, { passive: true });
+	if (freeChatMode) { loadTutorChat(); refreshChatList(); }
 }
 
 function paintExplain(fresh = false) {
@@ -1028,7 +1100,15 @@ const ACTIONS = {
 	},
 	"ai-chat-open": () => openChat(),
 	"ai-free-open": () => { location.hash = "#ask"; },
-	"chat-new"() { if (freeChat.asking || freeChat.processing) return; Object.assign(freeChat, {chat: [], attachments: [], askDraft: "", askError: false}); openChat(true); },
+	"chat-new"() { if (freeChat.processing) return; Object.assign(freeChat, { id: null, chat: [], attachments: [], askDraft: "", askError: false, asking: false }); write("tutorChat", null); openChat(true); },
+	"chat-open"(d) { if (freeChat.processing) return; Object.assign(freeChat, { id: d.id, chat: [], askError: false, asking: false }); write("tutorChat", d.id); openChat(true); },
+	"chat-list-toggle"() { document.getElementById("tutor-chat")?.classList.toggle("list-open"); refreshChatList(); },
+	"chat-delete"(d) { chatToDelete = d.id; confirmDialog("<h2>대화 삭제</h2><p>이 대화와 첨부한 사진을 지워요.</p>", "삭제", { name: "chat-delete-confirm" }, "취소"); },
+	async "chat-delete-confirm"() {
+		document.getElementById("confirm").close();
+		try { await api("/api/chats/delete", { id: chatToDelete }); } catch { return toast("대화를 지우지 못했어요."); }
+		if (freeChat.id === chatToDelete) ACTIONS["chat-new"](); else refreshChatList();
+	},
 	"chat-photo-pick"() { if (!freeChat.asking && !freeChat.processing) document.getElementById("chat-photo")?.click(); },
     "chat-type"() { document.getElementById("ask")?.focus({preventScroll:true}); },
     "chat-photo-remove"(d) { if (freeChat.asking || freeChat.processing) return; freeChat.attachments.splice(Number(d.index),1); document.getElementById("pending-photos").innerHTML=pendingPhotosHtml(freeChat); document.getElementById("photo-status").textContent=freeChat.attachments.length ? `${freeChat.attachments.length}장 첨부됨` : "사진 최대 2장"; },
@@ -1308,7 +1388,8 @@ document.addEventListener("submit", async (e) => {
 	if (s.chat.length >= 28) { toast("대화가 길어졌어요. 새 대화를 시작해 주세요."); return; }
 	const chat = s.chat;
 	const shown = () => chatState() === s && chatQuestion() === q && chatElement()?.open;
-	if (free && JSON.stringify([...chat, {role:"user",content:text,images}]).length > 3500000) { toast("사진이 많아졌어요. 새 대화에서 이어서 질문해 주세요."); return; }
+	if (free && JSON.stringify(images).length > 3500000) { toast("사진이 너무 커요. 한 장씩 보내 주세요."); return; }
+	if (free) return sendTutor(e.target, text, images);
 	const before = chat.length;
 	chat.push({ role: "user", content: text, ...(images.length ? { images } : {}) });
 	Object.assign(s, { asking: true, askError: false, askDraft: "" });
@@ -1316,7 +1397,7 @@ document.addEventListener("submit", async (e) => {
 	chatFollowBottom = true;
 	paintChat();
 	try {
-		const res = free ? await post("/api/tutor", { messages: chat.map(({role, content, images}) => ({role, content, ...(images ? {images} : {})})) }) : await post("/api/ask", { question: q, explanation: s.explain, messages: chat, order: s.orders.get(q.id), pick: s.picks[q.id] });
+		const res = await post("/api/ask", { question: q, explanation: s.explain, messages: chat, order: s.orders.get(q.id), pick: s.picks[q.id] });
 		const reader = res.body.pipeThrough(new TextDecoderStream()).getReader();
 		const refs = res.headers.get("x-tutor-sources");
 		const reply = { role: "assistant", content: "", ...(refs ? { sources: JSON.parse(decodeURIComponent(refs)) } : {}) };
@@ -1330,8 +1411,7 @@ document.addEventListener("submit", async (e) => {
 			if (shown()) paintChatReply(reply, replyIndex);
 		}
 		if (!reply.content) throw new Error("빈 답변");
-		if (free) { s.attachments = []; if (shown()) { document.getElementById("photo-status").textContent = "사진 최대 2장"; const previews=document.getElementById("pending-photos"); if(previews) previews.innerHTML=""; } }
-		else write(`chat:${q.id}`, chat);
+		write(`chat:${q.id}`, chat);
 	} catch {
 		chat.length = before;
 		Object.assign(s, { askError: true, askDraft: text });

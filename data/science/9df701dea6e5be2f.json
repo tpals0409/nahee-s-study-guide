@@ -1,0 +1,8 @@
+{
+ "url": "https://www.weather.gov/bou/pressure_definitions",
+ "title": "Pressure Definitions",
+ "license": "U.S. federal government work (public domain)",
+ "collected": "2026-11-09",
+ "text": "STATION PRESSURE: This is the pressure that is observed at a specific elevation and is the true barometric pressure of a location. It is the pressure exerted by the atmosphere at a point as a result of gravity acting upon the \"column\" of air that lies directly above the point. Consequently, higher elevations above sea level experience lower pressure since there is less atmosphere on which gravity can act. Put another way, the weight of the atmosphere decreases as one increases in elevation. Consequently then, in general, for every thousand feet of elevation gain, the pressure drops about 1 inch of mercury. For example, locations near 5000 feet (about 1500 meters) above mean sea level normally have pressures on the order of 24 inches of mercury. ALTIMETER SETTING: This is the pressure reading most commonly heard in radio and television broadcasts. It is not the true barometric pressure at a station. Instead it is the pressure \"reduced\" to mean sea level using the temperature profile of the \"standard\" atmosphere, which is representative of average conditions over the United States at 40 degrees north latitude. The altimeter setting is the pressure value to which an aircraft altimeter scale is set so that it will indicate the altitude (above mean sea level) of the aircraft on the ground at the location for which the pressure value was determined. The altimeter setting is an attempt to remove elevation effects from pressure readings using \"standard\" conditions. MEAN SEA LEVEL PRE",
+ "missingExcerpts": []
+}

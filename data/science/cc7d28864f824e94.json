@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/microbiology/pages/20-4-eias-and-elisas",
+ "title": "Microbiology 20.4 EIAs and ELISAs",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "In a sandwich ELISA, the goal is to use antibodies to precisely quantify specific antigen present in a solution, such as antigen from a pathogen, a serum protein, or a hormone from the blood or urine to list just a few examples. The first step of a sandwich ELISA is to add the primary antibody to all the wells of a microtiter plate (Figure 20.24). The antibody sticks to the plastic by hydrophobic interactions. After an appropriate incubation time, any unbound antibody is washed away. Comparable washes are used between each of the subsequent steps to ensure that only specifically bound molecules remain attached to the plate. A blocking protein is then added (e.g., albumin or the milk protein casein) to bind the remaining nonspecific protein-binding sites in the well. Some of the wells will receive known amounts of antigen to allow the construction of a standard curve, and unknown antigen solutions are added to the other wells. The primary antibody captures the antigen and, following a wash, the secondary antibody is added, which is a polyclonal antibody that is conjugated to an enzyme. After a final wash, a colorless substrate (chromogen) is added, and the enzyme converts it into a colored end product. The color intensity of the sample caused by the end product is measured with a spectrophotometer. The amount of color produced (measured as absorbance) is directly proportional to the amount of enzyme, which in turn is directly proportional to the captured antigen. ELISAs are ex",
+ "missingExcerpts": []
+}

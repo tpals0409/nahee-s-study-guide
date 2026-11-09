@@ -1,0 +1,8 @@
+{
+ "url": "https://www.usgs.gov/faqs/what-depth-do-earthquakes-occur-what-significance-depth",
+ "title": "At what depth do earthquakes occur? What is the significance of the depth?",
+ "license": "U.S. federal government work (public domain)",
+ "collected": "2026-11-09",
+ "text": "As the slab descends into the mantle, rheology changes (viscosity characteristics) cause the plate to bend and deform, and generates these earthquakes. The trend of such events can be seen in cross-sections of subduction zones, and are known as \"Wadati-Benioff Zones.\"\nWithin continents, and along continental plate boundary transform faults such as the San Andreas, faults are only active in the shallow crust - perhaps to depths of approximately 20 km.\nAccurately determining the depth of an earthquake is typically more challenging than determining its location, unless there happens to be a seismic station close and above the epicenter. So generally, errors on depth determinations are somewhat greater than on location determinations.",
+ "missingExcerpts": []
+}

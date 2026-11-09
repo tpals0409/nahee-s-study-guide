@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/chemistry-2e/pages/12-4-integrated-rate-laws",
+ "title": "OpenStax Chemistry 2e §12.4 Integrated Rate Laws",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "Integration of the rate law for a simple first-order reaction (rate = k[A]) results in an equation describing how the reactant concentration varies with time:\nA plot of ln[A]_t versus t for a first-order reaction is a straight line with a slope of −k and a y-intercept of ln[A]_0. If a set of rate data are plotted in this fashion but do not result in a straight line, the reaction is not first order in A.\nFor these second-order reactions, the integrated rate law is:\nThe integrated rate law for second-order reactions has the form of the equation of a straight line:\nA plot of 1[A]t1[A]t versus t for a second-order reaction is a straight line with a slope of k and a y-intercept of 1[A]0.1[A]0. If the plot is not a straight line, then the reaction is not second order.\nAccording to the second-order integrated rate law, the rate constant is equal to the slope of the 1[A]t1[A]t versus t plot. Using the data for t = 0 s and t = 6200 s, the rate constant is estimated as follows:\nThe integrated rate law for a zero-order reaction is a linear function:\nA plot of [A] versus t for a zero-order reaction is a straight line with a slope of −k and a y-intercept of [A]_0. Figure 12.11 shows a plot of [NH_3] versus t for the thermal decomposition of ammonia at the surface of two different heated solids. The decomposition reaction exhibits first-order behavior at a quartz (SiO_2) surface, as suggested by the exponentially decaying plot of concentration versus time. On a tungsten surface, however, t",
+ "missingExcerpts": []
+}

@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/university-physics-volume-1/pages/10-8-work-and-power-for-rotational-motion",
+ "title": "University Physics Volume 1, 10.8 Work and Power for Rotational Motion",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "Similarly, we found the kinetic energy of a rigid body rotating around a fixed axis by summing the kinetic energy of each particle that makes up the rigid body. Since the work-energy theorem Wi=ΔKiWi=ΔKi is valid for each particle, it is valid for the sum of the particles and the entire body.\nThe work-energy theorem for a rigid body rotating around a fixed axis is\nand the rotational work done by a net force rotating a body from point A to point B is",
+ "missingExcerpts": []
+}

@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/university-physics-volume-1/pages/7-2-kinetic-energy",
+ "title": "University Physics Volume 1, 7.2 Kinetic Energy",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "Since objects (or systems) of interest vary in complexity, we first define the kinetic energy of a particle with mass m.\nThe kinetic energy of a particle is one-half the product of the particle’s mass m and the square of its speed v:\nWe then extend this definition to any system of particles by adding up the kinetic energies of all the constituent particles:",
+ "missingExcerpts": []
+}

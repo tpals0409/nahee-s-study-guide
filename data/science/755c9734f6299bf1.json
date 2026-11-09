@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/chemistry-2e/pages/15-2-lewis-acids-and-bases",
+ "title": "Chemistry 2e, 15.2 Lewis Acids and Bases",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "Substituting these equilibrium concentration terms into the K_f expression gives\nThe very large equilibrium constant means the amount of the complex ion that will dissociate, x, will be very small. Assuming x << 0.1 permits simplifying the above equation:\nBecause only 1.1% of the Ag(NH3)2+Ag(NH3)2+ dissociates into Ag^+ and NH_3, the assumption that x is small is justified.",
+ "missingExcerpts": []
+}

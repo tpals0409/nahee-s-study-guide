@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/chemistry/pages/13-summary",
+ "title": "Chemistry, Chapter 13 Summary",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "A reaction is at equilibrium when the amounts of reactants or products no longer change. Chemical equilibrium is a dynamic process, meaning the rate of formation of products by the forward reaction is equal to the rate at which the products re-form reactants by the reverse reaction.\nFor any reaction that is at equilibrium, the reaction quotient Q is equal to the equilibrium constant K for the reaction. If a reactant or product is a pure solid, a pure liquid, or the solvent in a dilute solution, the concentration of this component does not appear in the expression for the equilibrium constant. At equilibrium, the values of the concentrations of the reactants and products are constant. Their particular values may vary depending on conditions, but the value of the reaction quotient will always equal K (K_c when using concentrations or K_P when using partial pressures).\nA homogeneous equilibrium is an equilibrium in which all components are in the same phase. A heterogeneous equilibrium is an equilibrium in which components are in two or more phases. We can decide whether a reaction is at equilibrium by comparing the reaction quotient with the equilibrium constant for the reaction.",
+ "missingExcerpts": []
+}

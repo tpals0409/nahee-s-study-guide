@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/university-physics-volume-2/pages/16-1-maxwells-equations-and-electromagnetic-waves",
+ "title": "University Physics Volume 2, 16.1 Maxwell’s Equations and Electromagnetic Waves",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "Here ε0ε0 is the permittivity of free space and ΦEΦE is the electric flux, defined as\nThe displacement current is analogous to a real current in Ampère’s law, entering into Ampère’s law in the same way. It is produced, however, by a changing electric field. It accounts for a changing electric field producing a magnetic field, just as a real current does, but the displacement current can produce a magnetic field even where no real current is present. When this extra term is included, the modified Ampère’s law equation becomes\nand is independent of the surface S through which the current I is measured.",
+ "missingExcerpts": []
+}

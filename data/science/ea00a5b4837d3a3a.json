@@ -1,0 +1,10 @@
+{
+ "url": "https://openstax.org/books/university-physics-volume-2/pages/10-1-electromotive-force",
+ "title": "University Physics Volume 2, 10.1 Electromotive Force",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "The terminal voltage VterminalVterminal of a battery is voltage measured across the terminals of the battery. An ideal battery is an emf source that maintains a constant terminal voltage, independent of the current between the two terminals. An ideal battery has no internal resistance, and the terminal voltage is equal to the emf of the battery. In the next section, we will show that a real battery does have internal resistance and the terminal voltage is always less than the emf of the battery.\nThe current through the load resistor is I=εr+RI=εr+R. We see from this expression that the smaller the internal resistance r, the greater the current the voltage source supplies to its load R. As batteries are depleted, r increases. If r becomes a significant fraction of the load resistance, then the current is significantly reduced, as the following example illustrates.",
+ "missingExcerpts": [
+  "the internal resistance r is in series with the load"
+ ]
+}

@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/university-physics-volume-3/pages/5-9-relativistic-energy",
+ "title": "University Physics Volume 3, 5.9: Relativistic Energy",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "The tokamak in Figure 5.25 is a form of experimental fusion reactor, which can change mass to energy. Nuclear reactors are proof of the relationship between energy and matter.\nConservation of energy is one of the most important laws in physics. Not only does energy have many important forms, but each form can be converted to any other. We know that classically, the total amount of energy in a system remains constant. Relativistically, energy is still conserved, but energy-mass equivalence must now be taken into account, for example, in the reactions that occur within a nuclear reactor. Relativistic energy is intentionally defined so that it is conserved in all inertial frames, just as is the case for relativistic momentum. As a consequence, several fundamental quantities are related in ways not known in classical physics. All of these relationships have been verified by experimental results and have fundamental consequences. The altered definition of energy contains some of the most fundamental and spectacular new insights into nature in recent history.\nThe first postulate of relativity states that the laws of physics are the same in all inertial frames. Einstein showed that the law of conservation of energy of a particle is valid relativistically, but for energy expressed in terms of velocity and mass in a way consistent with relativity.",
+ "missingExcerpts": []
+}

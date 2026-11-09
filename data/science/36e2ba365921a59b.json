@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/biology-2e/pages/4-6-connections-between-cells-and-cellular-activities",
+ "title": "4.6 Connections between Cells and Cellular Activities",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "You already know that tissue is a group of similar cells working together. As you might expect, if cells are to work together, they must communicate with each other, just as you need to communicate with others if you work on a group project. Let’s take a look at how cells communicate with each other.\nWhile cells in most multicellular organisms release materials into the extracellular space, animal cells will be discussed as an example. The primary components of these materials are proteins, and the most abundant protein is collagen. Collagen fibers are interwoven with proteoglycans, which are carbohydrate-containing protein molecules. Collectively, we call these materials the extracellular matrix (Figure 4.27). Not only does the extracellular matrix hold the cells together to form a tissue, but it also allows the cells within the tissue to communicate with each other. How can this happen?\nCells have protein receptors on their plasma membranes' extracellular surfaces. When a molecule within the matrix binds to the receptor, it changes the receptor's molecular structure. The receptor, in turn, changes the microfilaments' conformation positioned just inside the plasma membrane. These conformational changes induce chemical signals inside the cell that reach the nucleus and turn “on” or “off” the transcription of specific DNA sections, which affects the associated protein production, thus changing the activities within the cell.",
+ "missingExcerpts": []
+}

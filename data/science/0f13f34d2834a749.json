@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/biology-2e/pages/45-3-environmental-limits-to-population-growth",
+ "title": "45.3 Environmental Limits to Population Growth",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "The bacteria example is not representative of the real world where resources are limited. Furthermore, some bacteria will die during the experiment and thus not reproduce, lowering the growth rate. Therefore, when calculating the growth rate of a population, the death rate (D) (number organisms that die during a particular time interval) is subtracted from the birth rate (B) (number organisms that are born during that interval). This is shown in the following formula:",
+ "missingExcerpts": []
+}

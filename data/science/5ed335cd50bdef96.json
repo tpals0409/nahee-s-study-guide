@@ -1,0 +1,8 @@
+{
+ "url": "https://openstax.org/books/university-physics-volume-2/pages/9-2-model-of-conduction-in-metals",
+ "title": "OpenStax University Physics Volume 2 §9.2 Model of Conduction in Metals",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "where θθ is the angle between the area and the current density. The total current passing through area dA→dA→ can be found by integrating over the area,\nConsider the magnitude of the current density, which is the current divided by the area:\nThus, the current density is J→=nqv→dJ→=nqv→d. If q is positive, v→dv→d is in the same direction as the electrical field E→E→. If q is negative, v→dv→d is in the opposite direction of E→E→. Either way, the direction of the current density J→J→ is in the direction of the electrical field E→E→.",
+ "missingExcerpts": []
+}

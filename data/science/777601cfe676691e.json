@@ -1,0 +1,10 @@
+{
+ "url": "https://openstax.org/books/chemistry-atoms-first-2e/pages/3-1-electromagnetic-energy",
+ "title": "3.1 Electromagnetic Energy",
+ "license": "CC BY 4.0, OpenStax",
+ "collected": "2026-11-09",
+ "text": "Explain the basic behavior of waves, including travelling waves and standing waves\nX-rays exhibit wavelengths of approximately 0.01–10 nm. Since these wavelengths are comparable to the spaces between atoms in a crystalline solid, X-rays are scattered when they pass through crystals. The scattered rays undergo constructive and destructive interference that creates a specific diffraction pattern that may be measured and used to precisely determine the positions of atoms within the crystal. This phenomenon of X-ray diffraction is the basis for very powerful techniques enabling the determination of molecular structure. One of the pioneers who applied this powerful technology to important biochemical substances was Dorothy Crowfoot Hodgkin.",
+ "missingExcerpts": [
+  "c=2.998×108ms−1=λν"
+ ]
+}
