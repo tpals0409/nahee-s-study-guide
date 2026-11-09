@@ -179,19 +179,29 @@ function pageMotion(key) {
 	return "page-enter";
 }
 
+/* 각 화면의 제목 머리글은 화면 위에 붙어 있다(styles.css). 스크롤했을 때만 흐림 배경을 깔아 상태표시줄 뒤로 글자가 비치지 않게 한다 */
+function markStuckHeader() {
+	document.querySelector?.(".main > :first-child")?.classList.toggle("stuck", scrollY > 0);
+}
+addEventListener("scroll", markStuckHeader, { passive: true });
+
+/* 태블릿 이상에서 왼쪽 메뉴를 아이콘만 남기고 접는다. 선택은 이 기기에만 기억한다 */
+let navCollapsed = read("navCollapsed", false);
 function shell(tab, body) {
 	const key = location.hash || "#home";
 	const motion = pageMotion(key);
 	lastTab = key;
 	tabPaths[tab] = key;
-	app.innerHTML = `<div class="shell ${motion}">
+	app.innerHTML = `<div class="shell ${motion}${navCollapsed ? " nav-collapsed" : ""}">
 		<nav class="nav" aria-label="주요 메뉴">
 			<div class="brand">${icon("note")}<span>나희의<br>합격노트</span></div>
-			${TABS.map(([id, label, ic]) => `<a href="#${id}" data-tab="${id}" ${(id === tab || (tab === "ask" && id === "home")) ? 'aria-current="page"' : ""}>${icon(ic)}<span>${label}</span></a>`).join("")}
-			<button class="nav-logout" data-act="logout">${icon("logout")}<span>로그아웃</span></button>
+			<button class="nav-toggle" data-act="nav-toggle" aria-expanded="${!navCollapsed}" aria-label="${navCollapsed ? "메뉴 펼치기" : "메뉴 접기"}" title="${navCollapsed ? "메뉴 펼치기" : "메뉴 접기"}">${icon(navCollapsed ? "right" : "left")}</button>
+			${TABS.map(([id, label, ic]) => `<a href="#${id}" data-tab="${id}" ${(id === tab || (tab === "ask" && id === "home")) ? 'aria-current="page"' : ""} title="${label}">${icon(ic)}<span>${label}</span></a>`).join("")}
+			<button class="nav-logout" data-act="logout" title="로그아웃">${icon("logout")}<span>로그아웃</span></button>
 		</nav>
 		<main class="main page-${tab}">${body}</main>
 	</div>`;
+	markStuckHeader();
 	if (!motion) return;
 	dismissToast();
 	scrollTo(0, 0);
@@ -1100,6 +1110,14 @@ const ACTIONS = {
 	},
 	"ai-chat-open": () => openChat(),
 	"ai-free-open": () => { location.hash = "#ask"; },
+	"nav-toggle"() {
+		navCollapsed = !navCollapsed;
+		write("navCollapsed", navCollapsed);
+		const label = navCollapsed ? "메뉴 펼치기" : "메뉴 접기";
+		document.querySelector(".shell")?.classList.toggle("nav-collapsed", navCollapsed);
+		const button = document.querySelector(".nav-toggle");
+		if (button) { button.setAttribute("aria-expanded", String(!navCollapsed)); button.setAttribute("aria-label", label); button.title = label; button.innerHTML = icon(navCollapsed ? "right" : "left"); }
+	},
 	"chat-new"() { if (freeChat.processing) return; Object.assign(freeChat, { id: null, chat: [], attachments: [], askDraft: "", askError: false, asking: false }); write("tutorChat", null); openChat(true); },
 	"chat-open"(d) { if (freeChat.processing) return; Object.assign(freeChat, { id: d.id, chat: [], askError: false, asking: false }); write("tutorChat", d.id); openChat(true); },
 	"chat-list-toggle"() { document.getElementById("tutor-chat")?.classList.toggle("list-open"); refreshChatList(); },
