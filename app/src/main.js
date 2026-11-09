@@ -603,7 +603,8 @@ function paintChatReply(reply, index) {
 	const messages = dialog.querySelector(".chat-messages");
 	const text = messages.querySelector(`[data-chat-index="${index}"] .chat-text`);
 	if (!text) return;
-	if (/\[(표|순서도)\]/.test(reply.content)) patchChatText(text, chatSegments(reply.content));
+	const parts = chatSegments(reply.content);
+	if (parts.some((p) => p.html !== undefined)) patchChatText(text, parts);
 	else text.textContent = reply.content;
 	if (chatFollowBottom) messages.scrollTop = messages.scrollHeight;
 }

@@ -16,6 +16,20 @@ for path in sorted((root / "data/evidence").glob("*.json")):
     mapped = [questions.get(k.rsplit(':',1)[0], {}) for k in data.get('reviewedMappings', {})]
     hints = ' '.join(dict.fromkeys(q.get('stem','')[:200] for q in mapped))[:1800]
     docs.append({"kind":data["kind"], "title":data.get('ref',data['source']), "text":data['excerpt'], "hints":hints, "url":data['url'], "collected":data.get('retrievedAt','')[:10], "from":data.get("decisionDate", ""), "to":None})
+# 과학 인용은 해설마다 따로 모은 짧은 발췌라 같은 교과서 절이 제목만 달리 여러 번 들어온다. 주소별로 하나로 합친다
+import re
+def section_title(url, titles):
+    best = max(titles, key=lambda t: len(re.sub(r"[^A-Za-z가-힣]", "", t)))
+    m = re.search(r"openstax\.org/books/([^/]+)/pages/(\d+)-(\d+)-([^/?#]+)", url)
+    if re.search(r"[A-Za-z가-힣]{3}", re.sub(r"^[\d.§ ]+", "", best)) or not m: return best
+    book = " ".join(w[:1].upper() + w[1:] for w in m.group(1).split("-"))
+    return f"{book} {m.group(2)}.{m.group(3)} {m.group(4).replace('-', ' ').capitalize()}"
+science = {}
+for d in [d for d in docs if d["kind"] == "science"]:
+    science.setdefault(d["url"], []).append(d)
+docs = [d for d in docs if d["kind"] != "science"] + [{**group[0], "title": section_title(url, [d["title"] for d in group]),
+    "text": "\n".join(dict.fromkeys(d["text"] for d in group)), "hints": " ".join(dict.fromkeys(d["hints"] for d in group if d["hints"]))[:1800],
+    "collected": max(d["collected"] for d in group)} for url, group in science.items()]
 # 기출은 문제 글만 넣어 "시험에서 어떻게 묻는가"로 검색한다. 해설·근거 인용은 D1에 있어 답변 직전에 붙인다
 for q in json.loads((root / "app/public/questions.json").read_text()):
     text = "\n".join([f"문제: {q['stem']}", "보기:", *[f"{i+1}. {c}" for i, c in enumerate(q['choices'])], f"정답: {', '.join(str(a) for a in q['answer'])}번"])

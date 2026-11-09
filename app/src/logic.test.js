@@ -242,3 +242,8 @@ console.log("math powers ok");
 assert.doesNotMatch(mathHtml("(1/2π)·(1/√(3LC))"), /<mo>\(<\/mo>/, "parens around a lone fraction dropped");
 assert.match(mathHtml("(1/2 + 1/3)x"), /<mo>\(<\/mo>/, "parens around a sum kept");
 console.log("math parens ok");
+assert.equal(chatTextHtml("X_L=2πfL"), "<span>X<sub>L</sub>=2πfL</span>");
+assert.equal(chatTextHtml("10^-3 M과 10^(-14)"), "<span>10<sup>-3</sup> M과 10<sup>-14</sup></span>");
+assert.equal(chatTextHtml("밑줄 없는 글 a<b"), "밑줄 없는 글 a&#60;b", "plain text stays a text node");
+assert.match(chatTextHtml("[표]\n항목 | 값\nX_C | 1/(2πfC)\n[/표]"), /<th scope="row">X<sub>C<\/sub><\/th>/);
+console.log("chat scripts ok");
