@@ -191,6 +191,16 @@ const bySubject = (ids) => SUBJ.map((s) => ids.filter((id) => bank.find((b) => b
 	assert.equal((html.match(/class="statement"/g) || []).length, 2);
 }
 
+import { chatTextHtml } from "./logic.js";
+const drawn = chatTextHtml("앞글 <b>\n[표]\n항목 | A | B\n기간 | 1년 | 3년\n[/표]\n뒷글\n[순서도]\n출원\n? 거절이유 | 예: 보정 | 아니오: 결정\n등록");
+assert.match(drawn, /^앞글 &#60;b&#62;<div class="chat-table-wrap"><table class="chat-table"><thead><tr><th>항목<\/th><th>A<\/th><th>B<\/th><\/tr><\/thead><tbody><tr><th scope="row">기간<\/th><td data-h="A">1년<\/td><td data-h="B">3년<\/td><\/tr><\/tbody><\/table><\/div>뒷글<div class="chat-flow"><div class="flow-step">출원<\/div>/);
+assert.match(drawn, /flow-ask">거절이유<\/div><div class="flow-branches"><div class="flow-branch"><span class="flow-label">예<\/span>보정<\/div><div class="flow-branch"><span class="flow-label">아니오<\/span>결정<\/div><\/div>/);
+assert.match(drawn, /<div class="flow-step">등록<\/div><\/div>$/, "an unclosed block is drawn to the end while streaming");
+assert.equal(chatTextHtml("그냥 글 [표"), "그냥 글 [표");
+assert.equal(chatTextHtml("[표]\n[/표]"), "");
+assert.match(chatTextHtml("[표]\n항목 | A | B | C\n행 | 1 | 2 | 3\n[/표]"), /^<div class="chat-table-wrap wide">/, "four or more columns are marked so narrow screens stack them");
+import { chatSegments } from "./logic.js";
+assert.deepEqual(chatSegments("앞\n[표]\n[/표]\n[순서도]\n출원\n[/순서도]뒤").map((p) => p.html ? "block" : p.text), ["앞", "block", "뒤"], "an empty block is skipped so streaming can patch by position");
 console.log("logic ok");
 
 {

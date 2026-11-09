@@ -1,5 +1,5 @@
 import Anthropic from "@anthropic-ai/sdk";
-import { tutor } from "./tutor.js";
+import { SKILLS, tutor } from "./tutor.js";
 import { authenticated, authRoute, sameOrigin } from "./auth.js";
 import { syncState } from "./store.js";
 
@@ -9,14 +9,15 @@ const FALLBACK = { betas: ["server-side-fallback-2026-07-01"], fallbacks: "defau
 const SITE = "https://note.leo0409.work";
 
 const SYSTEM = `당신은 변리사 1차 시험 과외 선생님입니다. 학습자 나희에게 기출문제를 설명합니다.
-- 말투는 다정한 존댓말이고, 근거가 되는 법 조문이나 판례, 과학 개념을 짧게 밝힙니다.
+- 말투는 존댓말이고 군더더기 없이, 근거가 되는 법 조문이나 판례, 과학 개념을 짧게 밝힙니다.
 - 확실하지 않은 조문 번호나 판례를 지어내지 말고, 모르면 모른다고 씁니다.
 - 공식 정답을 기준으로 설명합니다. 출제 후 법 개정으로 지금은 답이 달라질 수 있으면 그 내용을 따로 밝힙니다.
 - 그림은 원본 시험지입니다. 글과 다르면 그림을 따릅니다.`;
 const CHAT_SYSTEM = `${SYSTEM}
 - 보기 번호는 나희 화면 기준입니다. 보기를 가리킬 때는 번호와 내용을 함께 씁니다.
 - 이전 대화의 번호는 그때 화면 기준이라 지금과 다를 수 있습니다.
-- 화면에 글자 그대로 나오므로 마크다운 기호 없이 짧은 문단으로 씁니다.`;
+- 화면에 글자 그대로 나오므로 표·순서도 블록 밖에서는 마크다운 기호 없이 짧은 문단으로 씁니다.
+${SKILLS}`;
 
 const describe = (q, order) => {
 	const choices = order.map((orig, pos) => `${pos + 1}. ${q.choices[orig]}`).join("\n");

@@ -1,7 +1,8 @@
-"""Build a server-only search corpus from collected law text and reviewed excerpts."""
+"""Build a server-only search corpus from collected law text, reviewed excerpts, and past exam questions."""
 import json
 from pathlib import Path
 root = Path(__file__).resolve().parent.parent
+SITE = "https://note.leo0409.work"
 docs = []
 for path in sorted((root / "data/law").glob("*.json")):
     data = json.loads(path.read_text())
@@ -15,6 +16,10 @@ for path in sorted((root / "data/evidence").glob("*.json")):
     mapped = [questions.get(k.rsplit(':',1)[0], {}) for k in data.get('reviewedMappings', {})]
     hints = ' '.join(dict.fromkeys(q.get('stem','')[:200] for q in mapped))[:1800]
     docs.append({"kind":data["kind"], "title":data.get('ref',data['source']), "text":data['excerpt'], "hints":hints, "url":data['url'], "collected":data.get('retrievedAt','')[:10], "from":data.get("decisionDate", ""), "to":None})
+# 기출은 문제 글만 넣어 "시험에서 어떻게 묻는가"로 검색한다. 해설·근거 인용은 D1에 있어 답변 직전에 붙인다
+for q in json.loads((root / "app/public/questions.json").read_text()):
+    text = "\n".join([f"문제: {q['stem']}", "보기:", *[f"{i+1}. {c}" for i, c in enumerate(q['choices'])], f"정답: {', '.join(str(a) for a in q['answer'])}번"])
+    docs.append({"kind":"question", "id":q['id'], "title":f"{q['year']}년 {q['subject']} {q['number']}번 기출 · {q['topic']}", "text":text, "hints":q['topic'], "url":f"{SITE}/#question/{q['id']}", "collected":"", "from":"", "to":None})
 out = root/'app/src/knowledge.json'
 out.write_text(json.dumps(docs,ensure_ascii=False,separators=(',',':')))
 print(f"Built {len(docs)} source passages ({out.stat().st_size} bytes)")

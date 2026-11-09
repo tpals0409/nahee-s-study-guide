@@ -187,6 +187,40 @@ export function splitStatements(stem) {
 	return { prompt, items };
 }
 
+/* 챗봇 답변의 [표]·[순서도] 블록을 그린다. 닫히지 않은 블록은 끝까지로 보아 스트리밍 중에도 그려진다 */
+const CHAT_BLOCK = /\n*\[(표|순서도)\]\n?([\s\S]*?)(?:\n?\[\/\1\]\n*|$)/g;
+const chatLines = (body) => body.split("\n").map((l) => l.trim()).filter(Boolean);
+function chatTableHtml(body) {
+	const [head, ...rows] = chatLines(body).map((l) => l.split("|").map((c) => c.trim()));
+	if (!head) return "";
+	return `<div class="chat-table-wrap${head.length >= 4 ? " wide" : ""}"><table class="chat-table"><thead><tr>${head.map((c) => `<th>${esc(c)}</th>`).join("")}</tr></thead><tbody>${rows.map((r) => `<tr>${r.map((c, i) => (i ? `<td data-h="${esc(head[i] ?? "")}">${esc(c)}</td>` : `<th scope="row">${esc(c)}</th>`)).join("")}</tr>`).join("")}</tbody></table></div>`;
+}
+function chatFlowHtml(body) {
+	const steps = chatLines(body).map((s, i) => {
+		const arrow = i ? '<span class="flow-arrow" aria-hidden="true">↓</span>' : "";
+		if (!s.startsWith("?")) return `${arrow}<div class="flow-step">${esc(s)}</div>`;
+		const [cond, ...branches] = s.slice(1).split("|").map((x) => x.trim());
+		const branch = (b) => { const at = b.indexOf(":"); return at < 0 ? esc(b) : `<span class="flow-label">${esc(b.slice(0, at).trim())}</span>${esc(b.slice(at + 1).trim())}`; };
+		return `${arrow}<div class="flow-step flow-ask">${esc(cond)}</div>${branches.length ? `<div class="flow-branches">${branches.map((b) => `<div class="flow-branch">${branch(b)}</div>`).join("")}</div>` : ""}`;
+	});
+	return steps.length ? `<div class="chat-flow">${steps.join("")}</div>` : "";
+}
+/* 글 조각과 블록 조각을 번갈아 돌려준다. 스트리밍 중에는 바뀐 조각만 갈아 끼우기 위해서다 */
+export function chatSegments(text) {
+	const s = String(text);
+	const parts = [];
+	let last = 0;
+	for (const m of s.matchAll(CHAT_BLOCK)) {
+		if (m.index > last) parts.push({ text: s.slice(last, m.index) });
+		const html = m[1] === "표" ? chatTableHtml(m[2]) : chatFlowHtml(m[2]);
+		if (html) parts.push({ html });
+		last = m.index + m[0].length;
+	}
+	if (last < s.length) parts.push({ text: s.slice(last) });
+	return parts;
+}
+export const chatTextHtml = (text) => chatSegments(text).map((p) => p.html ?? esc(p.text)).join("");
+
 export function stemHtml(q) {
 	const parts = splitStatements(q.stem);
 	if (!parts) return `<p class="stem${q.stem.length > 200 ? " long" : ""}">${esc(q.stem)}</p>`;

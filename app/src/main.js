@@ -1,5 +1,5 @@
 import {
-	basisHtml, esc, stemHtml, chatViewportLayout,
+	basisHtml, esc, stemHtml, chatSegments, chatTextHtml, chatViewportLayout,
 	DAILY_SIZE, MOCK_MINUTES, SUBJECTS, addDays, choiceOrder, dayComplete, dayIds, dayKey, emptyState, isCorrect,
 	merge, mockHistory, pickDaily, progress, reviewIds, shuffle, solvedOn, streak, weekStart,
 } from "./logic.js";
@@ -562,7 +562,7 @@ function explainHtml(q) {
 
 function chatMessagesHtml(q, s) {
 	return `${s.pastChat && !q?.fixed ? '<p class="small muted">이전 대화 · 당시 보기 번호 기준</p>' : ""}
-	${s.chat.length ? s.chat.map((m, index) => `<div data-chat-index="${index}" class="say ${m.role === "user" ? "me" : ""}"><span class="chat-speaker">${m.role === "user" ? "나" : "AI"}</span><div class="chat-text">${esc(m.content)}</div>${(m.images ?? []).map(img => `<img class="chat-photo" src="data:${esc(img.media_type)};base64,${esc(img.data)}" alt="질문에 첨부한 사진">`).join("")}${chatSourcesHtml(m.sources)}</div>`).join("") : `<div class="chat-empty"><span class="chat-intro-icon">${icon("note")}</span><h3>${q ? "어떤 부분이 궁금한가요?" : "막힌 문제,\n함께 풀어볼까요?"}</h3><p class="muted">${q ? "현재 문제와 해설을 바탕으로 답변해 드려요." : "문제를 입력하거나 사진을 첨부해 주세요.\n풀이부터 근거까지 차근차근 설명해 드려요."}</p>${q ? `<div class="chat-prompts"><button class="chip" data-act="chat-prompt" data-keep-open="true" data-prompt="정답의 핵심 근거를 쉽게 설명해 주세요.">정답의 핵심 근거</button><button class="chip" data-act="chat-prompt" data-keep-open="true" data-prompt="제가 고른 답과 정답의 차이를 설명해 주세요.">내 답과 정답 비교</button></div>` : `<div class="chat-start-actions"><button data-act="chat-photo-pick" data-keep-open="true">${icon("camera")}<strong>사진으로 질문</strong><span>문제를 찍거나 불러오기</span></button><button data-act="chat-type" data-keep-open="true">${icon("compose")}<strong>직접 입력</strong><span>개념부터 풀이까지</span></button></div>`}</div>`}
+	${s.chat.length ? s.chat.map((m, index) => `<div data-chat-index="${index}" class="say ${m.role === "user" ? "me" : ""}"><span class="chat-speaker">${m.role === "user" ? "나" : "AI"}</span><div class="chat-text">${chatTextHtml(m.content)}</div>${(m.images ?? []).map(img => `<img class="chat-photo" src="data:${esc(img.media_type)};base64,${esc(img.data)}" alt="질문에 첨부한 사진">`).join("")}${chatSourcesHtml(m.sources)}</div>`).join("") : `<div class="chat-empty"><span class="chat-intro-icon">${icon("note")}</span><h3>${q ? "어떤 부분이 궁금한가요?" : "막힌 문제,\n함께 풀어볼까요?"}</h3><p class="muted">${q ? "현재 문제와 해설을 바탕으로 답변해 드려요." : "문제를 입력하거나 사진을 첨부해 주세요.\n풀이부터 근거까지 차근차근 설명해 드려요."}</p>${q ? `<div class="chat-prompts"><button class="chip" data-act="chat-prompt" data-keep-open="true" data-prompt="정답의 핵심 근거를 쉽게 설명해 주세요.">정답의 핵심 근거</button><button class="chip" data-act="chat-prompt" data-keep-open="true" data-prompt="제가 고른 답과 정답의 차이를 설명해 주세요.">내 답과 정답 비교</button></div>` : `<div class="chat-start-actions"><button data-act="chat-photo-pick" data-keep-open="true">${icon("camera")}<strong>사진으로 질문</strong><span>문제를 찍거나 불러오기</span></button><button data-act="chat-type" data-keep-open="true">${icon("compose")}<strong>직접 입력</strong><span>개념부터 풀이까지</span></button></div>`}</div>`}
 	${s.asking ? '<p class="small muted" role="status">답변 작성 중…</p>' : ""}
 	${s.askError ? '<p class="error" role="alert">답변을 받지 못했어요. 다시 전송해 주세요.</p>' : ""}`;
 }
@@ -573,7 +573,7 @@ const chatState = () => freeChatMode ? freeChat : session;
 const chatQuestion = () => freeChatMode ? null : current();
 const chatElement = () => document.getElementById(freeChatMode ? "tutor-chat" : "ai-chat");
 function chatSourcesHtml(sources = []) {
- return sources.length ? `<details class="chat-sources"><summary>참고한 근거 <span>${sources.length}</span></summary>${sources.filter(s => /^https:\/\//.test(s.url)).map(s => `<a href="${esc(s.url)}" class="source-chip" target="_blank" rel="noopener noreferrer">[${s.number}] ${esc(s.title)}</a><span class="small muted">수집 ${esc(s.collected)}</span>`).join("")}</details>` : "";
+ return sources.length ? `<details class="chat-sources"><summary>참고한 근거 <span>${sources.length}</span></summary>${sources.filter(s => /^https:\/\//.test(s.url)).map(s => `<a href="${esc(s.url)}" class="source-chip"${s.url.startsWith(`${location.origin}/#`) ? "" : ' target="_blank" rel="noopener noreferrer"'}>[${s.number}] ${esc(s.title)}</a>${s.collected ? `<span class="small muted">수집 ${esc(s.collected)}</span>` : ""}`).join("")}</details>` : "";
 }
 function pendingPhotosHtml(s) {
  return (s.attachments ?? []).map((img,i) => `<div class="pending-photo"><img src="data:${esc(img.media_type)};base64,${esc(img.data)}" alt="전송할 사진 ${i+1}"><button type="button" data-act="chat-photo-remove" data-index="${i}" data-keep-open="true" aria-label="사진 ${i+1} 삭제">${icon("close")}</button></div>`).join("");
@@ -599,8 +599,29 @@ function paintChatReply(reply, index) {
 	const messages = dialog.querySelector(".chat-messages");
 	const text = messages.querySelector(`[data-chat-index="${index}"] .chat-text`);
 	if (!text) return;
-	text.textContent = reply.content;
+	if (/\[(표|순서도)\]/.test(reply.content)) patchChatText(text, chatSegments(reply.content));
+	else text.textContent = reply.content;
 	if (chatFollowBottom) messages.scrollTop = messages.scrollHeight;
+}
+
+/* 완성된 조각은 건드리지 않고, 지금 흘러들어오는 글이나 블록만 갈아 끼운다 */
+const blockSource = new WeakMap();
+function patchChatText(text, parts) {
+	parts.forEach((p, i) => {
+		const node = text.childNodes[i];
+		if (p.html === undefined) {
+			if (node?.nodeType === Node.TEXT_NODE) { if (node.data !== p.text) node.data = p.text; return; }
+			const fresh = document.createTextNode(p.text);
+			return node ? node.replaceWith(fresh) : text.append(fresh);
+		}
+		if (node && blockSource.get(node) === p.html) return;
+		const tpl = document.createElement("template");
+		tpl.innerHTML = p.html;
+		const fresh = tpl.content.firstChild;
+		blockSource.set(fresh, p.html);
+		node ? node.replaceWith(fresh) : text.append(fresh);
+	});
+	while (text.childNodes.length > parts.length) text.lastChild.remove();
 }
 
 function openChat(free = false) {
@@ -1358,7 +1379,7 @@ function loginScreen(message = "") {
 	</div>`;
 }
 
-const ROUTES = { home, exam, notes, stats, ask: () => openChat(true) };
+const ROUTES = { home, exam, notes, stats, ask: () => openChat(true), question: ([id]) => { history.replaceState(null, "", "#ask"); if (byId.has(id)) start("single", [id], "관련 기출"); else openChat(true); } };
 
 /* 이전 화면이 바로 사라지지 않게 겹쳐서 넘긴다. 풀이를 닫을 때는 아래로 내려간다. */
 function paint() {

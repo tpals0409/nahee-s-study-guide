@@ -779,3 +779,25 @@ dialog.chat-sheet { top: var(--chat-top, auto); bottom: auto; height: var(--chat
 @media(max-width:767px){.tutor-page .chat-header h1{font-size:22px;}}
 
 .shell:has(.tutor-page) { height:100dvh; min-height:0; padding-bottom:0; overflow:hidden; }
+
+/* 챗봇이 그리는 표·순서도. 답변 글(15px)보다 한 단계 작게, 표는 항상 폭 안에 들어가고 4열 이상은 좁으면 행마다 카드로 세운다 */
+.chat-table-wrap { container-type: inline-size; margin: 12px 0; white-space: normal; }
+.chat-table { border-collapse: collapse; width: 100%; font-size: 14px; line-height: 1.5; word-break: keep-all; overflow-wrap: anywhere; }
+.chat-table th, .chat-table td { padding: 8px 10px; border: 1px solid var(--border); text-align: left; vertical-align: top; }
+.chat-table thead th { background: var(--surface2); font-weight: 600; }
+.chat-table tbody th { font-weight: 600; }
+@container (max-width: 480px) {
+	.wide .chat-table thead { display: none; }
+	.wide .chat-table, .wide .chat-table tbody, .wide .chat-table tr, .wide .chat-table th, .wide .chat-table td { display: block; }
+	.wide .chat-table tr { margin-bottom: 8px; border: 1px solid var(--border); border-radius: var(--r-md); overflow: hidden; }
+	.wide .chat-table tbody th { border: 0; background: var(--surface2); }
+	.wide .chat-table td { border: 0; border-top: 1px solid var(--border); }
+	.wide .chat-table td::before { content: attr(data-h) " · "; font-weight: 600; color: var(--muted); }
+}
+.chat-flow { display: flex; flex-direction: column; gap: 4px; margin: 12px 0; white-space: normal; font-size: 14px; line-height: 1.5; word-break: keep-all; }
+.flow-step { padding: 9px 12px; border: 1px solid var(--border); border-radius: var(--r-md); background: var(--surface2); }
+.flow-ask { background: var(--surface); border: 1.5px solid var(--chart); }
+.flow-arrow { align-self: center; color: var(--borderStrong); line-height: 1; }
+.flow-branches { display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 6px; }
+.flow-branch { padding: 7px 10px; border: 1px dashed var(--borderStrong); border-radius: var(--r-md); background: var(--surface); }
+.flow-label { display: inline-block; margin-right: 6px; font-weight: 600; color: #255977; }

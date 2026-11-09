@@ -56,6 +56,7 @@ const sent = calls.at(-1).body;
 assert.equal(sent.stream, true);
 assert.equal(sent.fallbacks, "default");
 assert.match(sent.system, /나희 화면 기준/);
+assert.match(sent.system, /\[순서도\]/);
 const context = sent.messages[0].content.at(-1).text;
 assert.match(context, /1\. 다\n2\. 가\n3\. 나/); // 원본 2번 "나"는 화면 3번
 assert.match(context, /공식 정답: 3번/);
