@@ -684,7 +684,8 @@ dialog.chat-sheet { top: var(--chat-top, auto); bottom: auto; height: var(--chat
 .chat-sheet .chat-compose { display:flex; flex-direction:column; align-items:stretch; gap:10px; padding:16px 20px max(16px,env(safe-area-inset-bottom)); border:0; background:var(--surface); }
 .chat-input-box { border:1px solid var(--border); border-radius:20px; background:#F8FAFC; padding:12px; transition:border-color 120ms; }
 .chat-input-box:focus-within { border-color:#72A9C9; }
-.chat-compose textarea { display:block; width:100%; min-height:48px; max-height:120px; padding:4px 4px 8px; border:0; outline:none; border-radius:0; background:transparent; color:var(--text); font:inherit; font-size:15px; line-height:1.6; resize:none; box-shadow:none; }
+/* iOS Safari 는 16px 보다 작은 입력창을 누르면 화면을 확대하고, 확대 중에는 키보드 높이 계산(updateChatViewport)이 멈춘다 */
+.chat-compose textarea { display:block; width:100%; min-height:48px; max-height:120px; padding:4px 4px 8px; border:0; outline:none; border-radius:0; background:transparent; color:var(--text); font:inherit; font-size:16px; line-height:1.6; resize:none; box-shadow:none; }
 .chat-input-tools { display:flex; align-items:center; gap:8px; }
 .chat-attach { background:var(--surface); border:1px solid var(--border); border-radius:50%; }
 .chat-input-tools .small { font-size:11px; }
