@@ -188,25 +188,42 @@ export function splitStatements(stem) {
 }
 
 /* 챗봇 답변의 [표]·[순서도] 블록을 그린다. 닫히지 않은 블록은 끝까지로 보아 스트리밍 중에도 그려진다 */
-const CHAT_BLOCK = /\n*\[(표|순서도)\]\n?([\s\S]*?)(?:\n?\[\/\1\]\n*|$)/g;
+const CHAT_BLOCK = /\n*\[(표|순서도|암기|계산)\]\n?([\s\S]*?)(?:\n?\[\/\1\]\n*|$)/g;
+const chatMemoHtml = (body) => body.trim() ? `<div class="chat-memo"><strong>암기 포인트</strong>${chatLines(body).map((l) => `<span>${inlineHtml(l.replace(/^- /, ""))}</span>`).join("")}</div>` : "";
+const chatCalcHtml = (body) => body.trim() ? `<div class="chat-calc">${chatLines(body).map((l) => `<div>${inlineHtml(l)}</div>`).join("")}</div>` : "";
 /* 답변 글의 X_L, Q_A0, 10^-3 같은 첨자를 아래·위첨자로 그린다. 첨자가 없는 글은 글자 그대로 둔다 */
-const SCRIPT = /([A-Za-zΑ-Ωα-ω0-9)])(?:_([A-Za-z0-9]{1,4})|\^(\(-?[A-Za-z0-9.]{1,6}\)|-?[A-Za-z0-9.]{1,4}))/g;
-const HAS_SCRIPT = /[A-Za-zΑ-Ωα-ω0-9)](?:_[A-Za-z0-9]|\^\(?-?[A-Za-z0-9])/;
+const SCRIPT = /([A-Za-zΑ-Ωα-ω0-9)])(?:_([A-Za-z0-9]{1,4})|\^(\([-−–]?[A-Za-z0-9.]{1,6}\)|[-−–]?[A-Za-z0-9.]{1,4}))/g;
+const HAS_SCRIPT = /[A-Za-zΑ-Ωα-ω0-9)](?:_[A-Za-z0-9]|\^\(?[-−–]?[A-Za-z0-9])/;
 export const scriptHtml = (t) => esc(t).replace(SCRIPT, (m, base, sub, sup) => sub ? `${base}<sub>${sub}</sub>` : `${base}<sup>${sup.replace(/^\((.*)\)$/, "$1")}</sup>`);
-const textPart = (t) => HAS_SCRIPT.test(t) ? { html: `<span>${scriptHtml(t)}</span>` } : { text: t };
+/* 답변 글에서 화면이 그리는 표기: **굵게**, [3] 인용 칩, 줄 맨 앞 "## 소제목"과 "- 목록". 표기가 없는 글은 글자 그대로 둔다 */
+const HAS_MARK = /\*\*[^*\n]+\*\*|\[\d{1,2}\]|^(?:## |- )/m;
+export const inlineHtml = (t) => scriptHtml(t)
+	.replace(/\*\*([^*\n]+)\*\*/g, "<strong>$1</strong>")
+	// 칩이 혼자 다음 줄로 떨어지지 않게 앞 공백을 지우고 줄바꿈 금지 문자(U+2060)로 앞 글자에 붙인다
+	.replace(/ ?\[(\d{1,2})\]/g, '\u2060<button type="button" class="cite" data-act="chat-cite" data-n="$1" data-keep-open="true" aria-label="근거 $1 보기">$1</button>');
+function proseHtml(t) {
+	// 소제목·목록은 블록이라 뒤 줄바꿈을 빼고 잇는다(pre-wrap 에서 빈 줄이 하나 더 생기지 않게)
+	return t.split("\n").map((line, i, all) => {
+		const last = i === all.length - 1;
+		if (line.startsWith("## ")) return `<strong class="chat-h">${inlineHtml(line.slice(3))}</strong>`;
+		if (line.startsWith("- ")) return `<span class="chat-li">${inlineHtml(line.slice(2))}</span>`;
+		return inlineHtml(line) + (last ? "" : "\n");
+	}).join("");
+}
+const textPart = (t) => HAS_SCRIPT.test(t) || HAS_MARK.test(t) ? { html: `<span>${proseHtml(t)}</span>` } : { text: t };
 const chatLines = (body) => body.split("\n").map((l) => l.trim()).filter(Boolean);
 function chatTableHtml(body) {
 	const [head, ...rows] = chatLines(body).map((l) => l.split("|").map((c) => c.trim()));
 	if (!head) return "";
-	return `<div class="chat-table-wrap${head.length >= 4 ? " wide" : ""}"><table class="chat-table"><thead><tr>${head.map((c) => `<th>${scriptHtml(c)}</th>`).join("")}</tr></thead><tbody>${rows.map((r) => `<tr>${r.map((c, i) => (i ? `<td data-h="${esc(head[i] ?? "")}">${scriptHtml(c)}</td>` : `<th scope="row">${scriptHtml(c)}</th>`)).join("")}</tr>`).join("")}</tbody></table></div>`;
+	return `<div class="chat-table-wrap${head.length >= 4 ? " wide" : ""}"><table class="chat-table"><thead><tr>${head.map((c) => `<th>${inlineHtml(c)}</th>`).join("")}</tr></thead><tbody>${rows.map((r) => `<tr>${r.map((c, i) => (i ? `<td data-h="${esc(head[i] ?? "")}">${inlineHtml(c)}</td>` : `<th scope="row">${inlineHtml(c)}</th>`)).join("")}</tr>`).join("")}</tbody></table></div>`;
 }
 function chatFlowHtml(body) {
 	const steps = chatLines(body).map((s, i) => {
 		const arrow = i ? '<span class="flow-arrow" aria-hidden="true">↓</span>' : "";
-		if (!s.startsWith("?")) return `${arrow}<div class="flow-step">${scriptHtml(s)}</div>`;
+		if (!s.startsWith("?")) return `${arrow}<div class="flow-step">${inlineHtml(s)}</div>`;
 		const [cond, ...branches] = s.slice(1).split("|").map((x) => x.trim());
-		const branch = (b) => { const at = b.indexOf(":"); return at < 0 ? scriptHtml(b) : `<span class="flow-label">${esc(b.slice(0, at).trim())}</span>${scriptHtml(b.slice(at + 1).trim())}`; };
-		return `${arrow}<div class="flow-step flow-ask">${scriptHtml(cond)}</div>${branches.length ? `<div class="flow-branches">${branches.map((b) => `<div class="flow-branch">${branch(b)}</div>`).join("")}</div>` : ""}`;
+		const branch = (b) => { const at = b.indexOf(":"); return at < 0 ? inlineHtml(b) : `<span class="flow-label">${esc(b.slice(0, at).trim())}</span>${inlineHtml(b.slice(at + 1).trim())}`; };
+		return `${arrow}<div class="flow-step flow-ask">${inlineHtml(cond)}</div>${branches.length ? `<div class="flow-branches">${branches.map((b) => `<div class="flow-branch">${branch(b)}</div>`).join("")}</div>` : ""}`;
 	});
 	return steps.length ? `<div class="chat-flow">${steps.join("")}</div>` : "";
 }
@@ -217,7 +234,7 @@ export function chatSegments(text) {
 	let last = 0;
 	for (const m of s.matchAll(CHAT_BLOCK)) {
 		if (m.index > last) parts.push(textPart(s.slice(last, m.index)));
-		const html = m[1] === "표" ? chatTableHtml(m[2]) : chatFlowHtml(m[2]);
+		const html = { 표: chatTableHtml, 순서도: chatFlowHtml, 암기: chatMemoHtml, 계산: chatCalcHtml }[m[1]](m[2]);
 		if (html) parts.push({ html });
 		last = m.index + m[0].length;
 	}

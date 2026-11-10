@@ -578,7 +578,7 @@ function explainHtml(q) {
 
 function chatMessagesHtml(q, s) {
 	return `${s.pastChat && !q?.fixed ? '<p class="small muted">이전 대화 · 당시 보기 번호 기준</p>' : ""}
-	${s.chat.length ? s.chat.map((m, index) => `<div data-chat-index="${index}" class="say ${m.role === "user" ? "me" : ""}"><span class="chat-speaker">${m.role === "user" ? "나" : "AI"}</span><div class="chat-text">${m.status === "error" ? '<span class="error">답변을 받지 못했어요. 질문을 다시 보내 주세요.</span>' : chatTextHtml(m.content)}</div>${(m.images ?? []).map(img => `<img class="chat-photo" src="data:${esc(img.media_type)};base64,${esc(img.data)}" alt="질문에 첨부한 사진">`).join("")}${chatSourcesHtml(m.sources)}</div>`).join("") : `<div class="chat-empty"><span class="chat-intro-icon">${icon("note")}</span><h3>${q ? "어떤 부분이 궁금한가요?" : "막힌 문제,\n함께 풀어볼까요?"}</h3><p class="muted">${q ? "현재 문제와 해설을 바탕으로 답변해 드려요." : "문제를 입력하거나 사진을 첨부해 주세요.\n풀이부터 근거까지 차근차근 설명해 드려요."}</p>${q ? `<div class="chat-prompts"><button class="chip" data-act="chat-prompt" data-keep-open="true" data-prompt="정답의 핵심 근거를 쉽게 설명해 주세요.">정답의 핵심 근거</button><button class="chip" data-act="chat-prompt" data-keep-open="true" data-prompt="제가 고른 답과 정답의 차이를 설명해 주세요.">내 답과 정답 비교</button></div>` : `<div class="chat-start-actions"><button data-act="chat-photo-pick" data-keep-open="true">${icon("camera")}<strong>사진으로 질문</strong><span>문제를 찍거나 불러오기</span></button><button data-act="chat-type" data-keep-open="true">${icon("compose")}<strong>직접 입력</strong><span>개념부터 풀이까지</span></button></div>`}</div>`}
+	${s.chat.length ? s.chat.map((m, index) => `<div data-chat-index="${index}" class="say ${m.role === "user" ? "me" : ""}"><span class="chat-speaker">${m.role === "user" ? "나" : `${icon("note")}AI 답변`}</span><div class="chat-text">${m.status === "error" ? '<span class="error">답변을 받지 못했어요. 질문을 다시 보내 주세요.</span>' : chatTextHtml(m.content)}</div>${(m.images ?? []).map(img => `<img class="chat-photo" src="data:${esc(img.media_type)};base64,${esc(img.data)}" alt="질문에 첨부한 사진">`).join("")}${chatSourcesHtml(m.sources)}</div>`).join("") : `<div class="chat-empty"><span class="chat-intro-icon">${icon("note")}</span><h3>${q ? "어떤 부분이 궁금한가요?" : "막힌 문제,\n함께 풀어볼까요?"}</h3><p class="muted">${q ? "현재 문제와 해설을 바탕으로 답변해 드려요." : "문제를 입력하거나 사진을 첨부해 주세요.\n풀이부터 근거까지 차근차근 설명해 드려요."}</p>${q ? `<div class="chat-prompts"><button class="chip" data-act="chat-prompt" data-keep-open="true" data-prompt="정답의 핵심 근거를 쉽게 설명해 주세요.">정답의 핵심 근거</button><button class="chip" data-act="chat-prompt" data-keep-open="true" data-prompt="제가 고른 답과 정답의 차이를 설명해 주세요.">내 답과 정답 비교</button></div>` : `<div class="chat-start-actions"><button data-act="chat-photo-pick" data-keep-open="true">${icon("camera")}<strong>사진으로 질문</strong><span>문제를 찍거나 불러오기</span></button><button data-act="chat-type" data-keep-open="true">${icon("compose")}<strong>직접 입력</strong><span>개념부터 풀이까지</span></button></div>`}</div>`}
 	${s.asking ? '<p class="small muted" role="status">답변 작성 중…</p>' : ""}
 	${s.askError ? '<p class="error" role="alert">답변을 받지 못했어요. 다시 전송해 주세요.</p>' : ""}`;
 }
@@ -658,7 +658,7 @@ const chatState = () => freeChatMode ? freeChat : session;
 const chatQuestion = () => freeChatMode ? null : current();
 const chatElement = () => document.getElementById(freeChatMode ? "tutor-chat" : "ai-chat");
 function chatSourcesHtml(sources = []) {
- return sources.length ? `<details class="chat-sources"><summary>참고한 근거 <span>${sources.length}</span></summary>${sources.filter(s => /^https:\/\//.test(s.url)).map(s => `<a href="${esc(s.url)}" class="source-chip"${s.url.startsWith(`${location.origin}/#`) ? "" : ' target="_blank" rel="noopener noreferrer"'}>[${s.number}] ${esc(s.title)}</a>${s.collected ? `<span class="small muted">수집 ${esc(s.collected)}</span>` : ""}`).join("")}</details>` : "";
+ return sources.length ? `<details class="chat-sources"><summary>참고한 근거 <span>${sources.length}</span></summary>${sources.filter(s => /^https:\/\//.test(s.url)).map(s => `<a href="${esc(s.url)}" class="source-chip" data-n="${s.number}"${s.url.startsWith(`${location.origin}/#`) ? "" : ' target="_blank" rel="noopener noreferrer"'}>[${s.number}] ${esc(s.title)}</a>${s.collected ? `<span class="small muted">수집 ${esc(s.collected)}</span>` : ""}`).join("")}</details>` : "";
 }
 function pendingPhotosHtml(s) {
  return (s.attachments ?? []).map((img,i) => `<div class="pending-photo"><img src="data:${esc(img.media_type)};base64,${esc(img.data)}" alt="전송할 사진 ${i+1}"><button type="button" data-act="chat-photo-remove" data-index="${i}" data-keep-open="true" aria-label="사진 ${i+1} 삭제">${icon("close")}</button></div>`).join("");
@@ -1119,6 +1119,16 @@ const ACTIONS = {
 		const button = document.querySelector(".nav-toggle");
 		if (button) { button.setAttribute("aria-expanded", String(!navCollapsed)); button.setAttribute("aria-label", label); button.title = label; button.innerHTML = icon(navCollapsed ? "right" : "left"); }
 	},
+	/* 본문의 인용 번호를 누르면 그 답변의 근거 목록을 펼치고 해당 출처를 보여 준다 */
+	"chat-cite"(d, el) {
+		const sources = el?.closest(".say")?.querySelector(".chat-sources");
+		const chip = sources?.querySelector(`.source-chip[data-n="${d.n}"]`);
+		if (!chip) return;
+		sources.open = true;
+		sources.querySelectorAll(".source-chip.on").forEach((c) => c.classList.remove("on"));
+		chip.classList.add("on");
+		chip.scrollIntoView({ block: "center", behavior: calm() ? "auto" : "smooth" });
+	},
 	"chat-new"() { if (freeChat.processing) return; Object.assign(freeChat, { id: null, chat: [], attachments: [], askDraft: "", askError: false, asking: false }); write("tutorChat", null); openChat(true); },
 	"chat-open"(d) { if (freeChat.processing) return; Object.assign(freeChat, { id: d.id, chat: [], askError: false, asking: false }); write("tutorChat", d.id); openChat(true); },
 	"chat-list-toggle"() { document.getElementById("tutor-chat")?.classList.toggle("list-open"); refreshChatList(); },
@@ -1235,7 +1245,7 @@ document.addEventListener("click", (e) => {
 	const dialog = el.closest("dialog");
 	if (dialog && el.dataset.keepOpen !== "true") shut(dialog);
 	if (el.classList.contains("chip")) el.classList.add("picked");
-	ACTIONS[el.dataset.act](el.dataset);
+	ACTIONS[el.dataset.act](el.dataset, el);
 });
 
 document.addEventListener("cancel", (e) => {

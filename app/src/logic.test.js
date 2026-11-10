@@ -247,3 +247,10 @@ assert.equal(chatTextHtml("10^-3 M과 10^(-14)"), "<span>10<sup>-3</sup> M과 10
 assert.equal(chatTextHtml("밑줄 없는 글 a<b"), "밑줄 없는 글 a&#60;b", "plain text stays a text node");
 assert.match(chatTextHtml("[표]\n항목 | 값\nX_C | 1/(2πfC)\n[/표]"), /<th scope="row">X<sub>C<\/sub><\/th>/);
 console.log("chat scripts ok");
+assert.equal(chatTextHtml("10^−1.60 M"), "<span>10<sup>−1.60</sup> M</span>", "unicode minus exponent");
+assert.equal(chatTextHtml("**결론** 12개월[1]"), '<span><strong>결론</strong> 12개월\u2060<button type="button" class="cite" data-act="chat-cite" data-n="1" data-keep-open="true" aria-label="근거 1 보기">1</button></span>');
+assert.equal(chatTextHtml("앞\n## 시험 함정\n- 하나\n- 둘\n뒤"), '<span>앞\n<strong class="chat-h">시험 함정</strong><span class="chat-li">하나</span><span class="chat-li">둘</span>뒤</span>');
+assert.match(chatTextHtml("글\n\n[암기]\n공개일부터 **12개월**\n[/암기]"), /^글<div class="chat-memo"><strong>암기 포인트<\/strong><span>공개일부터 <strong>12개월<\/strong><\/span><\/div>$/);
+assert.match(chatTextHtml("[계산]\nH⁺ = 5.0 mmol\n[H⁺] = 0.025 M\n[/계산]"), /<div class="chat-calc"><div>H⁺ = 5.0 mmol<\/div><div>\[H⁺\] = 0.025 M<\/div><\/div>/);
+assert.equal(chatTextHtml("**<b>**"), "<span><strong>&#60;b&#62;</strong></span>", "marks never pass raw HTML");
+console.log("chat marks ok");
