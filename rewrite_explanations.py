@@ -83,7 +83,8 @@ def problems(orig, new, q=None):
     allowed = numbers(before) | numbers(" ".join(basis_lines(orig)))
     if re.search(r"[①-⑤]|\d번 보기|보기 \d|(?<![형\d])[1-5]번이", after):
         found.append("보기를 ②나 2번 같은 번호로 부르지 말고 그 보기의 내용으로 가리킬 것")
-    if lost := numbers(before) - numbers(after):
+    # "정답은 5번입니다"의 번호는 보기를 내용으로 가리키라는 규칙 때문에 빠지는 것이 맞다
+    if lost := numbers(re.sub(r"정답은 [1-5]번", "", before)) - numbers(after):
         found.append("빠진 숫자·조문: " + ", ".join(sorted(lost))[:120])
     if added := numbers(after) - allowed:
         found.append("원문에 없는 숫자·조문: " + ", ".join(sorted(added))[:120])
@@ -158,6 +159,8 @@ def work(batch):
         item = made.get(q["id"])
         if not item or problems(e, item, q):
             print(f"{q['id']} 원문 유지: {'; '.join(problems(e, item, q)) if item else '결과 누락'}", flush=True)
+            if item:
+                with open(ROOT / "work/rejected.jsonl", "a") as f: f.write(json.dumps(item, ensure_ascii=False) + "\n")
             continue
         (OUT / f"{q['id']}.json").write_text(json.dumps({**e, "summary": item["summary"], "choices": item["choices"], "lawNote": item["lawNote"], "style": "exam"}, ensure_ascii=False))
         saved += 1

@@ -362,11 +362,12 @@ dialog::backdrop { background: rgb(2 2 2 / .4); }
 [data-count], #clock, .solve header .row > span { font-variant-numeric: tabular-nums; }
 .bar i { transition: width var(--dur-slow) var(--ease-out); }
 
+/* 완전히 투명하게 시작하면 탭을 누른 직후 빈 화면이 보인다. 내용이 처음부터 보이게 한다 */
 @keyframes tab-enter {
-  from { opacity: 0; transform: translateY(6px); }
+  from { opacity: .4; transform: translateY(4px); }
   to { opacity: 1; transform: none; }
 }
-.shell.page-enter .main, .notes-parts.subject-enter, .content-enter { animation: tab-enter 220ms ease-out both; }
+.shell.page-enter .main, .notes-parts.subject-enter, .content-enter { animation: tab-enter 180ms ease-out both; }
 .solve.present { animation: present var(--dur-slow) var(--ease-out) both; }
 .solve.present .cols > .card { animation: none; }
 .chart.pending .line { stroke-dashoffset: 1; }

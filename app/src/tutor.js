@@ -4,7 +4,10 @@ import documents from "./knowledge.json" with { type: "json" };
 const MODEL = "claude-opus-5-5";
 const FALLBACK = { betas: ["server-side-fallback-2026-07-01"], fallbacks: "default" };
 const terms = (s) => [...new Set(s.toLowerCase().match(/[가-힣a-z0-9]{2,}/g) ?? [])];
-const indexed = documents.map(d => ({d, title:d.title.toLowerCase(), text:(d.text+"\n"+(d.hints ?? "")).toLowerCase()}));
+// 과학·판례 자료는 연결된 기출 번호(q)만 싣는다. 한글 질문으로도 찾히도록 그 기출의 문제 글 앞부분을 검색용 글에 붙인다
+const stems = new Map(documents.filter(d => d.kind === "question").map(d => [d.id, d.text.slice(4, d.text.indexOf("\n보기:")).slice(0, 200)]));
+const hintsOf = (d) => d.q ? [...new Set(d.q.map(id => stems.get(id)).filter(Boolean))].join(" ").slice(0, 1800) : d.hints ?? "";
+const indexed = documents.map(d => ({d, title:d.title.toLowerCase(), text:(d.text+"\n"+hintsOf(d)).toLowerCase()}));
 // 법령·판례는 적용일에 시행 중인 본문만 쓴다. 기출·과학 자료는 날짜와 무관하다
 const inForce = (d, date) => !["law","precedent"].includes(d.kind) || (d.from && d.from <= date && (!d.to || date < d.to));
 const articleKey = (law, num, sub) => `${law.replace(/\s/g,"")}|${Number(num)}|${sub ? Number(sub) : ""}`;
