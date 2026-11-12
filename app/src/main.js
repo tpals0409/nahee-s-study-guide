@@ -313,9 +313,9 @@ let toastTimer;
 function toast(message, kind = "") {
 	const el = document.getElementById("toast");
 	clearTimeout(toastTimer);
-	el.className = `toast ${kind ? `answer-toast ${kind}` : ""}`;
-	if (kind) el.innerHTML = `${drawMark({ wrong: kind === "no" })}<strong>${esc(message)}</strong>`;
-	else el.textContent = message;
+	/* 채점 결과는 보기 색이 보여 주므로 화면에는 띄우지 않고 읽어 주기만 한다. */
+	el.className = kind ? "sr" : "toast";
+	el.textContent = message;
 	el.classList.add("visible");
 	toastTimer = setTimeout(() => { el.classList.remove("visible"); el.textContent = ""; }, 2400);
 }
@@ -806,8 +806,8 @@ function reveal() {
 	commit();
 	s.motion = "reveal";
 	solve();
-	const feedback = answerFeedback(q, s);
-	toast(feedback.message, feedback.ok ? "ok" : "no");
+	toast(answerFeedback(q, s).message, "answer");
+	document.querySelector(".choice.right")?.scrollIntoView({ block: "center", behavior: calm() ? "auto" : "smooth" });
 	loadExplain();
 }
 
