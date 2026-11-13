@@ -12,9 +12,11 @@ const env = {
 const call = async (path, body) => (await chats(new Request(`https://x${path}`, { method: "POST", body: JSON.stringify(body) }), env)).json();
 
 // Anthropic 응답 흉내: 검색 계획(JSON) 다음 스트리밍 답변
+let lastBody;
 let answerText = "결론입니다. X_L = 2πfL";
 globalThis.fetch = async (url, init) => {
 	const body = JSON.parse(init.body);
+	lastBody = body;
 	if (!body.stream) return Response.json({ id: "m", type: "message", role: "assistant", model: "x", content: [{ type: "text", text: '{"query":"공진","articles":[],"date":"20261109","unclear":""}' }], stop_reason: "end_turn", usage: { input_tokens: 1, output_tokens: 1 } });
 	const ev = [{ type: "message_start", message: { id: "m", type: "message", role: "assistant", model: "x", content: [], stop_reason: null, usage: { input_tokens: 1, output_tokens: 0 } } },
 		{ type: "content_block_start", index: 0, content_block: { type: "text", text: "" } },
@@ -61,6 +63,14 @@ const retry = await call("/api/chats/send", { chatId: other.chatId, content: "�
 await runners.at(-1).alarm();
 assert.equal((await call("/api/chats/poll", { id: retry.replyId })).status, "done");
 assert.equal((await call("/api/chats/poll", { id: second.replyId })).status, "done");
+
+// 사진은 가장 최근 것만 모델에 다시 넘기고 앞의 사진은 생략 표시로 바꾼다
+const photo = await call("/api/chats/send", { chatId: sent.chatId, content: "새 사진", images: [{ media_type: "image/png", data: "BBBB" }] });
+await runners.at(-1).alarm();
+assert.equal((await call("/api/chats/poll", { id: photo.replyId })).status, "done");
+const sentImages = lastBody.messages.flatMap((m) => m.content.filter((c) => c.type === "image"));
+assert.deepEqual(sentImages.map((c) => c.source.data), ["BBBB"]);
+assert.match(lastBody.messages[0].content.at(-1).text, /앞서 보낸 사진 1장 생략/);
 
 // 답변 작업을 못 띄우면 pending 을 남기지 않아 대화가 막히지 않는다
 const realGet = env.CHAT.get;

@@ -4,11 +4,31 @@ from pathlib import Path
 root = Path(__file__).resolve().parent.parent
 SITE = "https://note.leo0409.work"
 docs = []
+# 조문 본문에는 "진보성" 같은 강학상 용어가 없다. 해설이 그 조문을 근거로 든 기출 번호를 붙여 두면
+# tutor.js가 그 기출의 문제 글을 검색용 글로 붙여 개념어로도 조문이 찾힌다. 부분 해설은 쓰지 않는다
+cited = {}
+for path in sorted((root / "data/explanations").glob("*.json"), reverse=True):
+    ex = json.loads(path.read_text())
+    if (ex.get("review") or {}).get("status") == "partial": continue
+    for b in ex.get("basis", []):
+        if b.get("kind") == "article" and b.get("ref"):
+            ids = cited.setdefault((b["source"], str(b["ref"])), [])
+            if path.stem not in ids: ids.append(path.stem)
+HINT_QUESTIONS = 6  # 최근 기출부터. 늘리면 knowledge.json 이 커진다
 for path in sorted((root / "data/law").glob("*.json")):
     data = json.loads(path.read_text())
+    if "articles" not in data:
+        # 조약은 조 단위로 나뉘어 있지 않은 통글이라 겹치는 조각으로 잘라 싣는다
+        # ponytail: 고정 길이 조각. 조 번호로 인용하려면 조 단위로 다시 수집해야 한다
+        for name, t in data.items():
+            text = t["text"]
+            for n, at in enumerate(range(0, len(text), 1000)):
+                docs.append({"kind":"law", "title":f"{name} 발췌 {n+1}", "text":text[at:at+1200], "from":t["from"], "to":None, "collected":"", "url":f"https://www.law.go.kr/LSW/trtyInfoP.do?trtySeq={t['id']}"})
+        continue
     for ref, spans in data.get("articles", {}).items():
+        q = cited.get((data["law"], ref), [])[:HINT_QUESTIONS]
         for span in spans:
-            docs.append({"kind":"law", "title":f"{data['law']} 제{ref}조 {span['title']}", "text":span['text'], "from":span['from'], "to":span['to'], "collected":data['collected'], "url":"https://www.law.go.kr/법령/"+data['law']+"/제"+ref+"조"})
+            docs.append({"kind":"law", "title":f"{data['law']} 제{ref}조 {span['title']}", "text":span['text'], **({"q":q} if q else {}), "from":span['from'], "to":span['to'], "collected":data['collected'], "url":"https://www.law.go.kr/법령/"+data['law']+"/제"+ref+"조"})
 for path in sorted((root / "data/evidence").glob("*.json")):
     data = json.loads(path.read_text())
     if data.get('kind') not in ('science', 'precedent') or not data.get('excerpt') or not data.get('url'): continue

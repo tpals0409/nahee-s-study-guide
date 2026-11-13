@@ -11,7 +11,12 @@ const now = () => Date.now();
 const imageKey = (id) => `chatimg:${id}`;
 // 모델에 넘길 대화. 답변이 실패한 질문과 그 실패 답변은 빼서 user/assistant 순서를 지킨다
 const usable = (ms) => ms.filter((m, i) => m.status === "done" && !(m.role === "user" && ms[i + 1]?.status === "error"));
-const forModel = (ms) => usable(ms).map(({ role, content, images }) => ({ role, content, ...(images?.length ? { images } : {}) }));
+// 사진은 가장 최근에 보낸 것만 다시 넘긴다. 전부 넘기면 사진 질문 두세 번에 크기 한도를 넘어 대화가 막힌다
+const forModel = (ms) => {
+	const use = usable(ms), keep = use.findLastIndex((m) => m.images?.length);
+	return use.map(({ role, content, images }, i) => !images?.length ? { role, content }
+		: i === keep ? { role, content, images } : { role, content: `${content}\n[앞서 보낸 사진 ${images.length}장 생략]`.trim() });
+};
 
 async function messagesOf(env, chatId, withImages) {
 	const { results } = await env.DB.prepare("SELECT id, role, content, images, sources, status FROM chat_messages WHERE chat_id = ? ORDER BY seq").bind(chatId).all();
@@ -58,7 +63,7 @@ async function send(env, { chatId, content = "", images = [] }) {
 	if (history.some((m) => m.status === "pending")) return json({ error: "이전 답변을 만드는 중이에요." }, 409);
 	if (history.length + 2 > MAX_MESSAGES) return json({ error: "대화가 길어졌어요. 새 대화를 시작해 주세요." }, 400);
 	// 저장 전에 튜터 입력 규칙(역할 순서, 글 길이, 사진 형식·크기)을 그대로 검사한다
-	try { validateTutor({ messages: [...forModel(history), { role: "user", content: text, ...(images.length ? { images } : {}) }] }); }
+	try { validateTutor({ messages: forModel([...history, { role: "user", content: text, status: "done", ...(images.length ? { images } : {}) }]) }); }
 	catch { return json({ error: "질문이나 사진의 크기·형식을 확인해 주세요." }, 400); }
 	const at = now();
 	const statements = [];
