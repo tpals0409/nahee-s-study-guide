@@ -1,9 +1,11 @@
 // 홈 AI 질문의 여러 대화와 서버 답변. 질문을 받으면 바로 접수만 하고, 답변은 ChatRunner(Durable Object 알람)가
 // 앱이 닫혀도 끝까지 만들어 D1 에 조금씩 쓴다. 앱은 열린 대화만 짧은 간격으로 읽어 흘러나오듯 보여 준다.
-import { tutorReply, validateTutor } from "./tutor.js";
+import { CUT_NOTE, tutorReply, validateTutor } from "./tutor.js";
 
 const MAX_MESSAGES = 28;
 const FLUSH_MS = 800;
+// 알람은 최대 15분이라 그보다 오래된 pending 은 멈춘 것으로 보고 error 로 푼다
+const STALE_MS = 20 * 60 * 1000;
 const json = (data, status = 200) => Response.json(data, { status, headers: { "cache-control": "no-store" } });
 const now = () => Date.now();
 const imageKey = (id) => `chatimg:${id}`;
@@ -32,7 +34,11 @@ async function get(env, { id }) {
 }
 
 async function poll(env, { id }) {
-	const m = await env.DB.prepare("SELECT content, status, sources FROM chat_messages WHERE id = ? AND role = 'assistant'").bind(String(id)).first();
+	const m = await env.DB.prepare("SELECT content, status, sources, created FROM chat_messages WHERE id = ? AND role = 'assistant'").bind(String(id)).first();
+	if (m?.status === "pending" && m.created < now() - STALE_MS) {
+		await env.DB.prepare("UPDATE chat_messages SET content = '', status = 'error' WHERE id = ? AND status = 'pending'").bind(String(id)).run();
+		Object.assign(m, { content: "", status: "error" });
+	}
 	return m ? json({ content: m.content, status: m.status, ...(m.sources ? { sources: JSON.parse(m.sources) } : {}) }) : json({ error: "not found" }, 404);
 }
 
@@ -47,6 +53,7 @@ async function send(env, { chatId, content = "", images = [] }) {
 	const text = String(content);
 	let chat = chatId ? await env.DB.prepare("SELECT id FROM chats WHERE id = ?").bind(String(chatId)).first() : null;
 	if (chatId && !chat) return json({ error: "not found" }, 404);
+	if (chat) await env.DB.prepare("UPDATE chat_messages SET content = '', status = 'error' WHERE chat_id = ? AND status = 'pending' AND created < ?").bind(chat.id, now() - STALE_MS).run();
 	const history = chat ? await messagesOf(env, chat.id, true) : [];
 	if (history.some((m) => m.status === "pending")) return json({ error: "이전 답변을 만드는 중이에요." }, 409);
 	if (history.length + 2 > MAX_MESSAGES) return json({ error: "대화가 길어졌어요. 새 대화를 시작해 주세요." }, 400);
@@ -67,7 +74,13 @@ async function send(env, { chatId, content = "", images = [] }) {
 	);
 	await env.DB.batch(statements);
 	// Anthropic 이 일부 지역 요청을 403 으로 막아 Worker 처럼 미국 동부에 둔다
-	await env.CHAT.get(env.CHAT.idFromName(replyId), { locationHint: "enam" }).fetch("https://chat/start", { method: "POST", body: replyId });
+	try { await env.CHAT.get(env.CHAT.idFromName(replyId), { locationHint: "enam" }).fetch("https://chat/start", { method: "POST", body: replyId }); }
+	catch (error) {
+		// 답변 작업을 못 띄웠으면 pending 을 남기지 않는다. 남기면 이 대화가 계속 409 로 막힌다
+		console.error(error);
+		await env.DB.prepare("UPDATE chat_messages SET status = 'error' WHERE id = ?").bind(replyId).run();
+		return json({ error: "답변을 시작하지 못했어요. 다시 보내 주세요." }, 502);
+	}
 	return json({ chatId: chat.id, userId, replyId });
 }
 
@@ -88,8 +101,9 @@ export async function runAnswer(env, replyId) {
 			text += event.delta.text;
 			if (now() - flushed > FLUSH_MS) { flushed = now(); await update(text, "pending", sources); }
 		}
-		if ((await result.stream.finalMessage()).stop_reason !== "end_turn" || !text) throw new Error("incomplete reply");
-		await update(text, "done", sources);
+		const stop = (await result.stream.finalMessage()).stop_reason;
+		if (!text || !["end_turn", "max_tokens"].includes(stop)) throw new Error("incomplete reply");
+		await update(stop === "max_tokens" ? text + CUT_NOTE : text, "done", sources);
 	} catch (error) {
 		console.error(error);
 		await update("", "error");

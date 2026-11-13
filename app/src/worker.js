@@ -1,5 +1,5 @@
 import Anthropic from "@anthropic-ai/sdk";
-import { SKILLS, tutor } from "./tutor.js";
+import { CUT_NOTE, SKILLS, tutor } from "./tutor.js";
 import { CHAT_ROUTES, chats } from "./chats.js";
 export { ChatRunner } from "./chats.js";
 import { authenticated, authRoute, sameOrigin } from "./auth.js";
@@ -55,7 +55,9 @@ function streamReply(env, params) {
 				for await (const event of stream) {
 					if (event.type === "content_block_delta" && event.delta.type === "text_delta") controller.enqueue(encoder.encode(event.delta.text));
 				}
-				if ((await stream.finalMessage()).stop_reason === "refusal") throw new Error("refusal");
+				const stop = (await stream.finalMessage()).stop_reason;
+				if (stop === "refusal") throw new Error("refusal");
+				if (stop === "max_tokens") controller.enqueue(encoder.encode(CUT_NOTE));
 				controller.close();
 			} catch (error) {
 				console.error(error);

@@ -610,10 +610,15 @@ async function loadTutorChat(id = freeChat.id) {
 	if (pending) watchReply(id, pending);
 }
 async function watchReply(chatId, reply) {
+	let fails = 0;
 	while (freeChat.id === chatId && freeChat.chat.includes(reply) && document.getElementById("tutor-chat")) {
 		await new Promise((resolve) => setTimeout(resolve, 700));
 		let next;
-		try { next = await api("/api/chats/poll", { id: reply.id }); } catch { continue; }
+		try { next = await api("/api/chats/poll", { id: reply.id }); fails = 0; } catch (error) {
+			// 로그인 만료·없는 답변·계속되는 오류는 더 묻지 않고 실패로 끝낸다
+			if (error.status !== 401 && error.status !== 404 && ++fails < 20) { await new Promise((resolve) => setTimeout(resolve, Math.min(700 * fails, 5000))); continue; }
+			next = { content: "", status: "error" };
+		}
 		if (freeChat.id !== chatId || !freeChat.chat.includes(reply)) return;
 		Object.assign(reply, next);
 		if (next.status === "pending") { if (freeChatMode) paintChatReply(reply, freeChat.chat.indexOf(reply)); continue; }

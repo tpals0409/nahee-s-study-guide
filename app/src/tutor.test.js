@@ -50,4 +50,6 @@ assert.match(requestBodies.at(-1).system,/미사여구 없이/);
 assert.match(requestBodies.at(-1).system,/해설: 테스트 해설\n1번: 가[\s\S]*근거:\n민법 제5조: 동의를 얻어야 한다/);
 assert.doesNotMatch(requestBodies.at(-1).system,/부분 해설은 제외/);
 globalThis.fetch=originalFetch;
+// 검색 계획은 구조화 출력으로 요청한다
+assert.equal(requestBodies.find(b=>!b.stream).output_config.format.type,"json_schema");
 console.log("tutor retrieval dates, upload validation, unclear-photo handling ok");

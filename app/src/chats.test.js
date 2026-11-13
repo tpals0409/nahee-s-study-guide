@@ -62,6 +62,21 @@ await runners.at(-1).alarm();
 assert.equal((await call("/api/chats/poll", { id: retry.replyId })).status, "done");
 assert.equal((await call("/api/chats/poll", { id: second.replyId })).status, "done");
 
+// 답변 작업을 못 띄우면 pending 을 남기지 않아 대화가 막히지 않는다
+const realGet = env.CHAT.get;
+env.CHAT.get = () => ({ fetch: async () => { throw new Error("down"); } });
+const failed = await chats(new Request("https://x/api/chats/send", { method: "POST", body: JSON.stringify({ chatId: other.chatId, content: "안 뜸" }) }), env);
+assert.equal(failed.status, 502);
+env.CHAT.get = realGet;
+// 알람이 죽어 오래 남은 pending 은 읽을 때 error 로 풀리고, 다음 질문을 받는다
+const stuck = await call("/api/chats/send", { chatId: other.chatId, content: "멈춘 질문" });
+await env.DB.prepare("UPDATE chat_messages SET created = created - 3600000 WHERE id = ?").bind(stuck.replyId).run();
+assert.equal((await call("/api/chats/poll", { id: stuck.replyId })).status, "error");
+const after = await call("/api/chats/send", { chatId: other.chatId, content: "다음 질문" });
+assert.ok(after.replyId);
+await runners.at(-1).alarm();
+assert.equal((await call("/api/chats/poll", { id: after.replyId })).status, "done");
+
 // 잘못된 사진은 저장 전에 거절, 삭제하면 사진도 지운다
 assert.match((await call("/api/chats/send", { content: "x", images: [{ media_type: "image/gif", data: "AAAA" }] })).error, /형식/);
 await call("/api/chats/delete", { id: sent.chatId });

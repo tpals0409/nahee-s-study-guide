@@ -73,6 +73,10 @@ assert.match(grounded, /시험 당시 본문으로 확인한 근거\n민법 제1
 // 답변 도중 거절은 스트림 오류로 끝나서 앱이 일부만 저장하지 않는다
 streamStop = "refusal";
 await assert.rejects((await post("/api/ask", chat)).text());
+// 길이 한도에서 끊긴 답변은 끊겼다는 표시가 붙는다
+streamStop = "max_tokens";
+assert.match(await (await post("/api/ask", chat)).text(), /^안녕하세요\n\n※ 길이 한도로 답변 중단$/);
+streamStop = "end_turn";
 
 // 동기화는 서버 기록과 합친다
 const state = (log) => ({ log, days: {}, flags: {} });
