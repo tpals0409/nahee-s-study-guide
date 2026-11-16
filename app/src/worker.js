@@ -88,7 +88,14 @@ async function followUp(request, env) {
 	});
 }
 
-const ROUTES = { "/api/sync": sync, "/api/explain": explain, "/api/ask": followUp, "/api/tutor": tutor, ...Object.fromEntries(Object.keys(CHAT_ROUTES).map((path) => [path, chats])) };
+async function ox(request, env) {
+	const { ids } = await request.json();
+	if (!Array.isArray(ids) || ids.length > 500) return json({ error: "bad request" }, 400);
+	const { results } = await env.DB.prepare("SELECT id, body FROM ox WHERE id IN (SELECT value FROM json_each(?))").bind(JSON.stringify(ids)).all();
+	return json(Object.fromEntries(results.map((r) => [r.id, JSON.parse(r.body)])));
+}
+
+const ROUTES = { "/api/sync": sync, "/api/explain": explain, "/api/ox": ox, "/api/ask": followUp, "/api/tutor": tutor, ...Object.fromEntries(Object.keys(CHAT_ROUTES).map((path) => [path, chats])) };
 
 const HSTS = "max-age=31536000";
 const MAX_BODY = 4_000_000;

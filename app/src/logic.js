@@ -16,7 +16,10 @@ export function addDays(day, n) {
 	return ymd(new Date(y, m - 1, d + n));
 }
 
-export const emptyState = () => ({ log: [], days: {}, flags: {}, cursor: 0 });
+export const emptyState = () => ({ log: [], ox: [], days: {}, flags: {}, cursor: 0 });
+
+/** OX 풀이는 같은 서버 기록에 'ox:' 로 시작하는 id 로 섞여 오고, 기기에서는 따로 둔다. 기출 통계·복습에 섞이지 않게 한다. */
+export const isOx = (e) => e.id.startsWith("ox:");
 
 /**
  * 기출 모의고사 응시 기록을 풀이 기록에서 되찾는다. 제출은 문항마다 t, t+1, t+2… 로 저장되고
@@ -106,21 +109,23 @@ export function reviewIds(questions, prog, flags, day) {
 		.map((q) => q.id);
 }
 
-/** 과목마다 같은 수를 내고, 그 안에서 새 문제 3 : 오답 1. 오답이 모자라면 새 문제로, 새 문제가 없으면 오래전에 맞힌 문제로 채운다. */
+/** 한 묶음에서 n개. 새 문제 3 : 오답 1. 오답이 모자라면 새 문제로, 새 문제가 없으면 오래전에 맞힌 문제로 채운다. */
+export function pickFrom(pool, prog, flags, n, day, rng = Math.random) {
+	pool = pool.filter((q) => !flags[q.id]?.on);
+	const due = dueIds(pool, prog, flags, day);
+	const fresh = shuffle(pool.filter((q) => !prog.has(q.id)), rng).map((q) => q.id);
+	const again = pool
+		.filter((q) => prog.has(q.id) && !prog.get(q.id).due)
+		.sort((a, b) => prog.get(a.id).last - prog.get(b.id).last)
+		.map((q) => q.id);
+	const review = due.slice(0, n / 4);
+	return [...review, ...[...fresh, ...due.slice(review.length), ...again].slice(0, n - review.length)];
+}
+
+/** 과목마다 같은 수를 낸다. */
 export function pickDaily(questions, log, flags, n, day, exclude = new Set(), rng = Math.random) {
 	const prog = progress(log);
-	const quota = n / SUBJECTS.length;
-	const picked = SUBJECTS.flatMap((subject) => {
-		const pool = questions.filter((q) => q.subject === subject && !flags[q.id]?.on && !exclude.has(q.id));
-		const due = dueIds(pool, prog, flags, day);
-		const fresh = shuffle(pool.filter((q) => !prog.has(q.id)), rng).map((q) => q.id);
-		const again = pool
-			.filter((q) => prog.has(q.id) && !prog.get(q.id).due)
-			.sort((a, b) => prog.get(a.id).last - prog.get(b.id).last)
-			.map((q) => q.id);
-		const review = due.slice(0, quota / 4);
-		return [...review, ...[...fresh, ...due.slice(review.length), ...again].slice(0, quota - review.length)];
-	});
+	const picked = SUBJECTS.flatMap((subject) => pickFrom(questions.filter((q) => q.subject === subject && !exclude.has(q.id)), prog, flags, n / SUBJECTS.length, day, rng));
 	return shuffle(picked, rng);
 }
 

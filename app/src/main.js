@@ -1,7 +1,7 @@
 import { mathHtml,
 	basisHtml, esc, stemHtml, chatSegments, chatTextHtml, chatViewportLayout,
 	DAILY_SIZE, MOCK_MINUTES, SUBJECTS, addDays, choiceOrder, dayComplete, dayIds, dayKey, emptyState, isCorrect,
-	merge, mockHistory, pickDaily, progress, reviewIds, shuffle, solvedOn, streak, weekStart,
+	merge, mockHistory, pickDaily, pickFrom, isOx, progress, reviewIds, shuffle, solvedOn, streak, weekStart,
 } from "./logic.js";
 import { RADAR_PARTS, radarViews, radarFace } from "./radar.js";
 
@@ -56,6 +56,7 @@ const write = (key, value) => {
 };
 
 let state = read("state", emptyState());
+state.ox ??= [];
 let signedIn = read("signedIn", false);
 let questions = [];
 let byId = new Map();
@@ -134,7 +135,7 @@ const api = async (path, body) => (await post(path, body)).json();
 async function sync() {
 	const recent = Object.keys(state.days).sort().slice(-3);
 	const res = await api("/api/sync", {
-		log: state.log.filter((e) => !e.r),
+		log: [...state.log, ...state.ox].filter((e) => !e.r),
 		days: Object.fromEntries(recent.map((k) => [k, state.days[k]])),
 		flags: state.flags,
 		cursor: state.cursor ?? 0,
@@ -144,7 +145,8 @@ async function sync() {
 		state = { ...emptyState(), epoch: res.epoch };
 		return sync();
 	}
-	state = { ...merge(state, res), cursor: res.cursor, epoch: res.epoch };
+	const ox = merge({ log: state.ox, days: {}, flags: {} }, { log: res.log.filter(isOx), days: {}, flags: {} }).log;
+	state = { ...merge(state, { ...res, log: res.log.filter((e) => !isOx(e)) }), ox, cursor: res.cursor, epoch: res.epoch };
 	write("state", state);
 }
 
@@ -224,7 +226,8 @@ const extraReview = () => {
 	return reviewIds(questions, progress(state.log), state.flags, day).filter((id) => !waiting.has(id));
 };
 
-function home() {
+function home(path = []) {
+	if (path[0] === "parts") return parts();
 	ensureToday();
 	const day = today();
 	const ids = dayIds(state.days[day]);
@@ -251,7 +254,47 @@ function home() {
 				? `<button class="link" data-act="review"><span class="row" style="gap:16px">${icon("bookmark", "var(--accent)")}<span><h2>오답 랜덤 풀기</h2><span class="small muted">복습할 ${review.length}문제 중 최대 ${DAILY_SIZE}문제</span></span></span>${icon("arrow")}</button>`
 				: `<div class="row" style="justify-content:flex-start;gap:16px">${icon("bookmark", "var(--accent)")}<span><h2>오답 랜덤 풀기</h2><span class="muted">오답 없음</span></span></div>`}
 		</section>
+		<section class="card wide">
+			<a class="link" href="#home/parts"><span class="row" style="gap:16px">${icon("note", "var(--accent)")}<span><h2>파트별 풀기</h2><span class="small muted">과목 안 세부 파트 하나만 ${DAILY_SIZE}문제</span></span></span>${icon("arrow")}</a>
+		</section>
 	</div>`);
+}
+
+/* OX 문장. id 는 ox:{문항 id}:{순번}. 파트를 처음 열 때 서버에서 받아 둔다. */
+const OX_SIZE = 20;
+const oxById = new Map();
+const oxLoaded = new Set();
+async function loadOx(qids) {
+	const need = qids.filter((id) => !oxLoaded.has(id));
+	for (let i = 0; i < need.length; i += 500) {
+		const chunk = need.slice(i, i + 500);
+		const got = await api("/api/ox", { ids: chunk });
+		for (const [qid, items] of Object.entries(got)) items.forEach((s, k) => oxById.set(`ox:${qid}:${k}`, { ...s, id: `ox:${qid}:${k}`, qid }));
+		chunk.forEach((id) => oxLoaded.add(id));
+	}
+}
+const oxDue = () => [...progress(state.ox)].filter(([, p]) => p.due && p.due <= today()).map(([id]) => id);
+
+/* 과목 선택은 오답노트와 같은 값을 쓴다. */
+let partsMode = "q";
+function parts() {
+	const prog = progress(state.log);
+	const ox = partsMode === "ox";
+	const oxSolved = new Set(state.ox.map((e) => e.id));
+	const due = ox ? oxDue().length : 0;
+	shell("home", `<div class="row" style="justify-content:flex-start"><a class="iconbtn" href="#home" aria-label="오늘의 학습으로 돌아가기">${icon("left")}</a><h1>파트별 풀기</h1></div>
+	<div class="notes-subjects parts-mode" role="group" aria-label="문제 형식 선택">${[["q", "기출 문제"], ["ox", "OX"]].map(([m, label]) => `<button class="notes-subject" data-act="parts-mode" data-mode="${m}" aria-pressed="${m === partsMode}">${label}</button>`).join("")}</div>
+	<p class="small muted">${ox ? `파트 선택 시 ${OX_SIZE}문장 · 기출 선지 변형 · 새 문장·틀린 문장 혼합 · 기출 통계와 별도` : `파트 선택 시 ${DAILY_SIZE}문제 · 새 문제·오답 혼합 · 연속 학습 기록과 무관`}</p>
+	${due ? `<button class="btn" data-act="ox-review">틀린 OX ${due}문장 복습 ${icon("arrow")}</button>` : ""}
+	<div class="notes-subjects" role="group" aria-label="과목 선택">${SUBJECTS.map((subject) => `<button class="notes-subject" data-act="notes-subject" data-subject="${subject}" aria-pressed="${subject === notesSubject}">${subject}</button>`).join("")}</div>
+	<section class="card notes-parts" aria-labelledby="parts-subject-heading">
+		<h2 id="parts-subject-heading">${notesSubject}</h2>
+		<div class="list">${RADAR_PARTS[notesSubject].map((topic) => {
+			const pool = questions.filter((q) => q.subject === notesSubject && q.topic === topic);
+			const count = ox ? `OX 풀이 ${new Set([...oxSolved].filter((id) => byId.get(id.split(":")[1])?.topic === topic && byId.get(id.split(":")[1]).subject === notesSubject)).size}문장` : `풀이 ${pool.filter((q) => prog.has(q.id)).length} / ${pool.length}`;
+			return `<button class="link notes-part" data-act="${ox ? "ox-start" : "part-start"}" data-subject="${notesSubject}" data-topic="${topic}"><span class="notes-part-name">${topic}</span><span class="notes-counts muted">${count}</span>${icon("right")}</button>`;
+		}).join("")}</div>
+	</section>`);
 }
 
 function exam() {
@@ -470,7 +513,7 @@ function start(mode, ids, title, extra = {}) {
 	if (!ids.length) return;
 	const from = location.hash || "#home";
 	history.pushState(null, "", "#solve");
-	session = { ...blank(), motion: "enter present", from, pushed: true, mode, ids, title, i: 0, orders: new Map(ids.map((id) => [id, mode === "mock" ? [0, 1, 2, 3, 4] : choiceOrder(byId.get(id))])), picks: {}, score: 0, ...extra };
+	session = { ...blank(), motion: "enter present", from, pushed: true, mode, ids, title, i: 0, orders: new Map(ids.map((id) => [id, mode === "mock" ? [0, 1, 2, 3, 4] : mode === "ox" ? null : choiceOrder(byId.get(id))])), picks: {}, score: 0, ...extra };
 	solve();
 	scrollTo(0, 0);
 }
@@ -496,7 +539,7 @@ function resume() {
 const current = () => byId.get(session.ids[session.i]);
 
 function commit() {
-	if (!session?.revealed || session.committed || session.mode.startsWith("mock")) return;
+	if (!session?.revealed || session.committed || session.mode.startsWith("mock") || session.mode === "ox") return;
 	const q = current();
 	const ok = isCorrect(q, session.picks[q.id]);
 	session.score += ok ? 1 : 0;
@@ -839,7 +882,7 @@ function finish() {
 		<h1>${esc(s.title)}</h1>
 		<p>정답 ${num(s.score)} / ${total}</p>
 		${s.mode === "mock" ? `<p><strong style="font-size:30px;line-height:45px">${num(percent, "점")}</strong></p><p class="muted small">오답 문항 복습 등록 완료</p>` : ""}
-		<p class="small muted">틀리거나 애매했던 문제는 오답노트에서 복습할 수 있어요.</p><button class="btn" data-act="leave">학습으로 돌아가기</button>
+		<p class="small muted">${s.mode === "ox" ? "틀린 OX는 파트별 풀기 OX 탭에서 복습할 수 있어요." : "틀리거나 애매했던 문제는 오답노트에서 복습할 수 있어요."}</p><button class="btn" data-act="leave">학습으로 돌아가기</button>
 	</section></div>`;
 	scrollTo(0, 0);
 	countUp();
@@ -856,6 +899,7 @@ function solve() {
 	keep();
 	if (s.mode === "mock") return mock();
 	if (s.mode === "mock-result") return mockResult();
+	if (s.mode === "ox") return oxSolve();
 	const q = current();
 	const flag = state.flags[q.id]?.on;
 	const motion = s.motion ?? "";
@@ -894,6 +938,33 @@ function solve() {
 		const bar = document.getElementById("progress");
 		if (bar) bar.style.width = `${((s.i + 1) / s.ids.length) * 100}%`;
 	});
+}
+
+function oxSolve() {
+	const s = session;
+	const item = oxById.get(s.ids[s.i]);
+	const q = byId.get(item.qid);
+	const picked = s.picks[item.id];
+	const motion = s.motion ?? "";
+	s.motion = null;
+	const button = (v) => {
+		const right = (v === "o") === item.o;
+		const cls = !s.revealed ? "" : right ? "right" : picked === v ? "wrong" : "";
+		return `<button class="ox-btn ${cls}" data-act="ox-pick" data-v="${v}" aria-pressed="${picked === v}" ${s.revealed ? "disabled" : ""}>${v.toUpperCase()}</button>`;
+	};
+	app.innerHTML = `<div class="solve ${motion}">
+		<header>
+			<div class="row"><button class="iconbtn" data-act="close" aria-label="풀이 닫기">${icon("close")}</button><strong>${esc(s.title)}</strong><span>${s.i + 1} / ${s.ids.length}</span></div>
+			<div class="bar on-white" role="progressbar" aria-valuemin="0" aria-valuemax="${s.ids.length}" aria-valuenow="${s.i + 1}" aria-label="진행"><i style="width:${((s.i + 1) / s.ids.length) * 100}%"></i></div>
+		</header>
+		<section class="card q ox">
+			${q ? `<span class="tag">${q.year}년 · ${q.subject} · ${q.number}번 변형 · ${esc(q.topic)}</span>` : ""}
+			<p class="ox-text">${esc(item.text)}</p>
+			<div class="ox-choices" role="group" aria-label="O 또는 X 선택">${button("o")}${button("x")}</div>
+			${s.revealed ? `<div class="ox-note" role="status"><strong class="${(picked === "o") === item.o ? "ok" : "no"}">${(picked === "o") === item.o ? "정답" : "오답"} · 답 ${item.o ? "O" : "X"}</strong><p>${esc(item.note)}</p></div>` : ""}
+		</section>
+		<div class="dock">${s.revealed ? `<button class="btn" data-act="next">${s.i + 1 < s.ids.length ? "다음 문제" : "마치기"}</button>` : '<p class="small muted">O 또는 X 선택</p>'}</div>
+	</div>`;
 }
 
 const RESULT = { ok: "정답", no: "오답", skip: "미응답" };
@@ -1197,9 +1268,43 @@ const ACTIONS = {
 	"notes-subject"(d) {
 		if (!SUBJECTS.includes(d.subject) || d.subject === notesSubject) return;
 		notesSubject = d.subject;
-		notes();
+		(location.hash === "#home/parts" ? parts : notes)();
 		document.querySelector(".notes-parts")?.classList.add("subject-enter");
 		document.querySelector('[data-act="notes-subject"][aria-pressed="true"]')?.focus({ preventScroll: true });
+	},
+	"part-start"(d) {
+		const ids = pickFrom(questions.filter((q) => q.subject === d.subject && q.topic === d.topic), progress(state.log), state.flags, DAILY_SIZE, today());
+		if (!ids.length) return toast("풀 문제가 없어요");
+		start("part", shuffle(ids), `${d.topic} 풀기`);
+	},
+	"parts-mode"(d) {
+		partsMode = d.mode === "ox" ? "ox" : "q";
+		parts();
+	},
+	async "ox-start"(d) {
+		const qids = questions.filter((q) => q.subject === d.subject && q.topic === d.topic).map((q) => q.id);
+		try { await loadOx(qids); } catch { return toast("OX 문제를 불러오지 못했어요"); }
+		const set = new Set(qids);
+		const ids = pickFrom([...oxById.values()].filter((s) => set.has(s.qid)), progress(state.ox), {}, OX_SIZE, today());
+		if (!ids.length) return toast("이 파트는 아직 OX 문제가 없어요");
+		start("ox", shuffle(ids), `${d.topic} OX`);
+	},
+	async "ox-review"() {
+		const due = oxDue();
+		try { await loadOx([...new Set(due.map((id) => id.split(":")[1]))]); } catch { return toast("OX 문제를 불러오지 못했어요"); }
+		const ids = due.filter((id) => oxById.has(id)).slice(0, OX_SIZE);
+		if (!ids.length) return toast("복습할 OX가 없어요");
+		start("ox", ids, "틀린 OX 복습");
+	},
+	"ox-pick"(d) {
+		const s = session;
+		if (s?.mode !== "ox" || s.revealed) return;
+		const item = oxById.get(s.ids[s.i]);
+		const ok = (d.v === "o") === item.o;
+		Object.assign(s, { revealed: true, score: s.score + (ok ? 1 : 0), picks: { ...s.picks, [item.id]: d.v } });
+		state.ox.push({ t: Date.now(), id: item.id, ok });
+		save();
+		solve();
 	},
 	"topic-review"(d) {
 		const prog = progress(state.log);

@@ -307,6 +307,27 @@ ACTIONS['topic-review']({subject:'민법개론',topic:'물권법',due:'true'});
 assert.equal(run('session.ids.join(",")'),'due');
 run(`ACTIONS['topic-review']({subject:'민법개론',topic:'물권법'});`);
 assert.equal(run('session.ids.length'),2);
+// Part practice draws only from the chosen part and skips flagged questions.
+run(`questions.push({ id:'other',year:2025,round:62,number:3,subject:'민법개론',topic:'채권총론',stem:'다른 파트',choices:['a','b','c','d','e'],answer:[1]}); byId.set('other', questions[2]); state.flags = { future: { on: true } }; ACTIONS['part-start']({subject:'민법개론',topic:'물권법'});`);
+assert.equal(run('session.ids.join(",")'),'due');
+assert.equal(run('session.mode'),'part');
+run(`location.hash = '#home/parts'; home(['parts']);`);
+assert.match(app.innerHTML, /data-act="part-start"[^>]*data-topic="물권법"[\s\S]*?풀이 2 \/ 2/);
+run(`questions.pop(); byId.delete('other'); state.flags = {}; location.hash = ''; ACTIONS['topic-review']({subject:'민법개론',topic:'물권법'});`);
+// OX answers live in state.ox, never in the exam log, and wrong ones come back for review.
+run(`dropSession(); state.ox = []; oxById.set('ox:due:0', { id:'ox:due:0', qid:'due', c:1, text:'문장', o:false, note:'근거' }); start('ox', ['ox:due:0'], 'OX');`);
+assert.match(app.innerHTML, /data-act="ox-pick"/);
+const logBefore = run('state.log.length');
+run(`ACTIONS['ox-pick']({ v: 'o' });`);
+assert.equal(run('state.log.length'), logBefore, 'OX does not touch exam log');
+assert.equal(run('JSON.stringify(state.ox.map(e => [e.id, e.ok]))'), '[["ox:due:0",false]]');
+assert.match(app.innerHTML, /오답 · 답 X/);
+run(`ACTIONS['ox-pick']({ v: 'x' });`);
+assert.equal(run('state.ox.length'), 1, 'one answer per statement');
+run('next();');
+assert.match(app.innerHTML, /<h1>OX<\/h1>[\s\S]*파트별 풀기 OX 탭/);
+assert.ok(run("progress(state.ox).get('ox:due:0').due"), 'wrong OX is scheduled for review');
+run(`dropSession(); ACTIONS['topic-review']({subject:'민법개론',topic:'물권법'});`);
 assert.match(app.innerHTML, /id="reveal-answer"[^>]*disabled/);
 const answerButton = {disabled:true,textContent:''};
 ctx.document.getElementById = id => id==='reveal-answer'?answerButton:null;

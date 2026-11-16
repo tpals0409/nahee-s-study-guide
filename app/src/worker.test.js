@@ -46,6 +46,10 @@ assert.equal((await post("/api/sync", {}, token, "https://evil.example")).status
 env.DB.prepare("INSERT INTO explanations (id, body) VALUES (?, ?)").bind("q1", JSON.stringify(explanation)).run();
 assert.deepEqual(await (await post("/api/explain", { id: "q1" })).json(), explanation);
 assert.equal((await post("/api/explain", { id: "없음" })).status, 404);
+// OX 문장은 요청한 문항 것만, 한 번의 질의로 돌려준다
+env.DB.prepare("INSERT INTO ox (id, body) VALUES (?, ?)").bind("q1", JSON.stringify([{ c: 1, text: "문장", o: true, note: "근거" }])).run();
+assert.deepEqual(await (await post("/api/ox", { ids: ["q1", "없음"] })).json(), { q1: [{ c: 1, text: "문장", o: true, note: "근거" }] });
+assert.equal((await post("/api/ox", { ids: "q1" })).status, 400);
 assert.equal(calls.length, 0);
 
 // 추가 질문은 화면 순서와 고른 답을 알리고 글자를 흘려보낸다
