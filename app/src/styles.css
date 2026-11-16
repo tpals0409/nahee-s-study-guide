@@ -864,7 +864,6 @@ dialog.chat-sheet { top: var(--chat-top, auto); bottom: auto; height: var(--chat
 .chat-sources .source-chip.on { border-color: var(--chart); background: var(--primarySoft); }
 
 /* OX 풀이 */
-.parts-mode { grid-template-columns: repeat(2, minmax(0, 1fr)); }
 .ox-text { font-size: 18px; line-height: 1.8; font-weight: 600; margin: 0; }
 .ox-choices { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
 .ox-btn { min-height: 88px; border-radius: var(--r-lg); background: var(--surface); box-shadow: 0 2px 10px rgb(2 2 2 / .06); font-size: 36px; font-weight: 700; }
@@ -876,3 +875,64 @@ dialog.chat-sheet { top: var(--chat-top, auto); bottom: auto; height: var(--chat
 .ox-note p { margin: 0; }
 .ox-note .ok { color: var(--success); }
 .ox-note .no { color: var(--danger); }
+
+/* 학습 기록: 요약 카드 + 큰 레이더 + 과목별 막대 */
+.stats-hero { display: grid; gap: 16px; padding: 20px; }
+.stats-period { display: flex; align-items: baseline; gap: 10px; }
+.stats-period strong { font-size: 17px; }
+.stats-period span { color: var(--muted); font-size: 14px; }
+.stats-tiles { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 10px; }
+.stats-tile { display: grid; gap: 4px; padding: 14px 16px; border-radius: var(--r-md); background: var(--surface2); }
+.stats-tile span { color: var(--muted); font-size: 13px; }
+.stats-tile strong { font-size: 28px; line-height: 1.2; font-weight: 700; font-variant-numeric: tabular-nums; }
+.stats-tile small { margin-left: 2px; font-size: 14px; font-weight: 500; color: var(--muted); }
+.stats-hero .btn { justify-self: start; }
+.page-stats .radar-face { display: grid; grid-template-columns: minmax(0, 1fr); gap: 8px; }
+.page-stats .radar-card svg { width: 100%; max-width: 380px; justify-self: center; }
+.page-stats .radar-values { display: grid; grid-template-columns: minmax(0, 1fr); gap: 0; min-height: 0; padding: 0; }
+.page-stats .radar-value { display: grid; grid-template-columns: minmax(84px, 7rem) minmax(0, 1fr) 4.5rem; align-items: center; gap: 14px; padding: 12px 0; border-bottom: 1px solid #EDF3F7; }
+.page-stats .radar-value:last-child { border-bottom: 0; }
+.radar-value-name { display: grid; gap: 2px; font-size: 14px; font-weight: 600; }
+.radar-sample { color: var(--muted); font-size: 12px; font-weight: 400; font-variant-numeric: tabular-nums; }
+.radar-bar { height: 8px; border-radius: 4px; background: #EDF3F7; overflow: hidden; }
+.radar-bar i { display: block; height: 100%; border-radius: inherit; background: #2F7FB5; transition: width var(--dur-med) var(--ease-out); }
+.radar-pct { text-align: right; color: var(--chart); font-size: 22px; font-weight: 700; font-variant-numeric: tabular-nums; }
+.radar-pct small { margin-left: 1px; font-size: 13px; font-weight: 500; }
+@media (max-width: 480px) {
+  .stats-tile { padding: 12px; }
+  .stats-tile strong { font-size: 22px; }
+  .page-stats .radar-value { grid-template-columns: minmax(72px, 6rem) minmax(0, 1fr) 3.75rem; gap: 10px; }
+  .radar-pct { font-size: 19px; }
+}
+.home-ox { display: inline-block; width: 24px; text-align: center; font-weight: 800; font-size: 15px; color: var(--accent); letter-spacing: -.5px; }
+
+/* 홈 벤토 그리드: 모바일 2열, 태블릿 이상 4열 */
+.home.bento { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px; }
+.bento .hero, .bento-record { grid-column: 1 / -1; }
+.bento-record .row { align-items: center; }
+.bento-tile { position: relative; display: grid; align-content: space-between; gap: 20px; min-height: 128px; padding: 18px; border: 0; border-radius: var(--r-lg); box-shadow: var(--card-shadow); color: var(--text); text-align: left; text-decoration: none; cursor: pointer; transition: transform var(--dur-fast) var(--ease-out); }
+div.bento-tile { cursor: default; }
+.bento-tile:is(a, button):active { transform: scale(.97); }
+.bento-mark { display: grid; place-items: center; width: 44px; height: 44px; border-radius: 14px; background: rgb(255 255 255 / .75); font-weight: 800; font-size: 16px; letter-spacing: -.5px; }
+.bento-arrow { position: absolute; top: 18px; right: 16px; opacity: .55; }
+.bento-title { display: grid; gap: 2px; font-size: 17px; font-weight: 700; }
+.bento-title span { color: var(--muted); font-size: 13px; font-weight: 500; }
+.tint-blue { background: linear-gradient(150deg, #DCEFFA, #C4E2F3); }
+.tint-blue .bento-mark { color: #255977; }
+.tint-pink { background: linear-gradient(150deg, #FFE6EA, #FFD0D8); }
+.tint-pink .bento-mark { color: var(--danger); }
+.tint-mint { background: linear-gradient(150deg, #E3F5EC, #CDEBDC); }
+.tint-mint .bento-mark { color: var(--success); }
+.tint-lilac { background: linear-gradient(150deg, #ECE8FB, #DCD5F6); }
+.tint-lilac .bento-mark { color: #5B4BA8; }
+@media (min-width: 768px) {
+  .home.bento { grid-template-columns: repeat(4, minmax(0, 1fr)); grid-auto-rows: minmax(140px, auto); gap: 16px; }
+  .bento .hero { grid-column: span 2; grid-row: span 2; align-content: space-between; }
+  .bento-record { grid-column: span 2; }
+  .bento-tile { min-height: 0; }
+  .bento-tile.tint-mint, .bento-tile.tint-lilac { grid-column: span 2; }
+}
+.ox-btn { display: grid; place-content: center; justify-items: center; gap: 2px; }
+.ox-tag { font-size: 13px; font-weight: 700; letter-spacing: 0; }
+.ox-btn:not(.right):not(.wrong):disabled { opacity: .45; }
+.ox-btn.wrong { animation: shake var(--dur-med) var(--ease-out); }

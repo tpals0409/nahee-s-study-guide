@@ -72,6 +72,10 @@ assert.equal(sent.messages.at(-1).content, "3번 왜 정답이에요?");
 const basis = [{ choice: 1, kind: "article", source: "민법", ref: "110", quote: "취소할 수 있다", changed: false }, { choice: 2, kind: "precedent", source: "판례", ref: "", quote: "", changed: false }];
 await (await post("/api/ask", { ...chat, explanation: { ...explanation, basis } })).text();
 const grounded = calls.at(-1).body.messages[0].content.at(-1).text;
+// OX 질문은 원 문제와 OX 문장·정답·고른 답·해설을 문맥으로 준다
+await (await post("/api/ask", { question, ox: { c: 2, text: "OX 문장", o: false, note: "OX 근거" }, messages: chat.messages, pick: "o" })).text();
+const oxText = calls.at(-1).body.messages[0].content.at(-1).text;
+for (const part of ["OX 문장", "정답: X", "나희가 고른 답: O", "OX 근거", "2번 보기"]) assert.ok(oxText.includes(part), part);
 assert.match(grounded, /시험 당시 본문으로 확인한 근거\n민법 제110조: 취소할 수 있다$/);
 
 // 답변 도중 거절은 스트림 오류로 끝나서 앱이 일부만 저장하지 않는다

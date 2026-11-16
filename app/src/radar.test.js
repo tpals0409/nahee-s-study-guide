@@ -34,7 +34,7 @@ const full = { ...views[0], rows: views[0].rows.map((r) => ({ ...r, value: 100, 
 assert.match(radarFace(full, 0), /class="radar-shape"/);
 assert.equal((radarFace(full, 0).match(/class="radar-grid"/g) ?? []).length, 3);
 assert.doesNotMatch(radarFace(full, 0), /radar-scale|radar-dots|radar-footer/);
-assert.match(missing, /기록을 더 쌓아주세요/);
+assert.match(missing, /기록 없음/);
 assert.doesNotMatch(partial, /radar-edge/);
 assert.match(radarFace(full, 0), /linearGradient/);
 console.log("radar ok");

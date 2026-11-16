@@ -79,9 +79,12 @@ async function explain(request, env) {
 	return row ? json(JSON.parse(row.body)) : json({ error: "not found" }, 404);
 }
 
+// OX 는 기출 선지를 바꾼 문장이라 원 문제 전체와 문장, 정답, 해설을 함께 준다
+const oxContext = (q, ox, pick) => `${describe(q, [0, 1, 2, 3, 4])}\n\n위 기출의 ${ox.c ? `${ox.c}번 보기` : "보기 진술"}를 바꾼 OX 문제\n문장: ${ox.text}\n정답: ${ox.o ? "O" : "X"}\n나희가 고른 답: ${pick === "o" ? "O" : "X"}\n\n앞서 드린 해설: ${ox.note}`;
+
 async function followUp(request, env) {
-	const { question, explanation, messages, order, pick } = await request.json();
-	const context = withImages(question, chatContext(question, explanation, order, pick));
+	const { question, explanation, ox, messages, order, pick } = await request.json();
+	const context = withImages(question, ox ? oxContext(question, ox, pick) : chatContext(question, explanation, order, pick));
 	return streamReply(env, {
 		messages: [{ role: "user", content: context }, { role: "assistant", content: "네, 이 문제에서 궁금한 점을 물어보세요." }, ...messages],
 		output_config: { effort: "medium" },

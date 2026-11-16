@@ -39,8 +39,10 @@ export function radarFace(view, index) {
   const complete = values.every((p) => p !== null);
   const summary = view.rows.map((r) => `${r.label} ${r.value === null ? "기록 없음" : `${r.value}%`}`).join(", ");
   const gradient = `radar-fill-${index}`;
-  return `<span class="radar-heading"><strong>${esc(view.title)}</strong><span class="small muted">${complete ? "학습 균형" : "기록을 더 쌓아주세요"}</span></span>
-    <svg viewBox="0 0 400 340" role="img" aria-label="${esc(view.title)} 정답률: ${esc(summary)}">
+  // 축 수에 따라 그림 높이가 달라서 이름표 위아래로 맞춰 자른다
+  const ys = view.rows.map((_, i) => point(i, 136)[1]);
+  const top = Math.min(...ys) - 18, height = Math.max(...ys) + 18 - top;
+  return `<svg viewBox="0 ${top.toFixed(0)} 400 ${height.toFixed(0)}" role="img" aria-label="${esc(view.title)} 정답률: ${esc(summary)}">
       <defs><linearGradient id="${gradient}" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#8DCBEA" stop-opacity=".65"/><stop offset="100%" stop-color="#CAE5F4" stop-opacity=".22"/></linearGradient></defs>
       <polygon class="radar-backdrop" points="${view.rows.map((_, i) => coords(i, 104)).join(" ")}"/>
       ${[1/3, 2/3, 1].map((v) => `<polygon class="radar-grid" points="${view.rows.map((_, i) => coords(i, v * 104)).join(" ")}"/>`).join("")}
@@ -51,6 +53,6 @@ export function radarFace(view, index) {
       ${complete ? `<polygon class="radar-shape" style="fill:url(#${gradient})" points="${values.join(" ")}"/>` : ""}
       ${view.rows.map((row, i) => row.value === null ? "" : `<circle class="radar-point" cx="${point(i, row.value * 1.04)[0]}" cy="${point(i, row.value * 1.04)[1]}" r="4.5"><title>${esc(row.label)} ${row.value}% (${row.ok}/${row.total})</title></circle>`).join("")}
     </svg>
-    <span class="radar-values">${view.rows.map((row) => `<span class="radar-value"><span class="radar-value-name">${esc(row.label)}</span><span class="radar-result">${row.value === null ? '<span class="radar-missing">기록 없음</span>' : `<strong>${row.value}<small>%</small></strong><span class="radar-sample">${row.total}회 중 ${row.ok}회 정답</span>`}</span></span>`).join("")}</span>
+    <span class="radar-values">${view.rows.map((row) => `<span class="radar-value"><span class="radar-value-name">${esc(row.label)}<span class="radar-sample">${row.value === null ? "기록 없음" : `${row.ok} / ${row.total}`}</span></span><span class="radar-bar" aria-hidden="true"><i style="width:${row.value ?? 0}%"></i></span><strong class="radar-pct">${row.value === null ? "–" : `${row.value}<small>%</small>`}</strong></span>`).join("")}</span>
     `;
 }

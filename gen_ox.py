@@ -4,6 +4,7 @@
 python3 gen_ox.py --sample 5          과목별 5문항
 python3 gen_ox.py --topic 민법총칙    한 파트
 python3 gen_ox.py --all               남은 전체
+python3 gen_ox.py --concept [N]       비어 있는 계산·그림 과학 문항을 개념 OX로(N개 표본)
 
 이미 만든 문항은 건너뛰므로 끊겨도 다시 돌리면 이어서 만든다.
 OX로 바꿀 진술이 없는 문항(계산·그림 판독)은 빈 배열로 저장해 다시 시도하지 않는다.
@@ -36,6 +37,24 @@ note
 
 choice는 근거가 된 보기 번호 1~5, 조합형의 ㄱ·ㄴ·ㄷ 진술이면 0입니다. 받은 id 그대로 문제마다 한 항목씩 돌려줍니다."""
 
+# 계산·그림 문항은 보기가 숫자뿐이라 위 규칙으로는 비어 버린다. 그 문항이 다루는 개념으로 만든다
+CONCEPT = SYSTEM + """
+
+이번 문제들은 계산하거나 그림을 읽어야 해서 보기를 그대로 쓸 수 없는 문항입니다. 대신 이 문제를 풀 때 써야 하는 개념으로 OX 문장을 2~4개 만듭니다.
+- 쓰는 법칙·공식의 내용, 물리량 사이의 비례 관계, 단위, 적용 조건, 흔한 착각(부호, 방향, 보존되는 양)을 진술합니다. 고등학교~대학 1학년 교과서 수준의 일반 사실만 씁니다.
+- 이 문제의 수치나 그림 없이도 참·거짓이 정해져야 합니다. "이 문제에서", "그림에서" 같은 말을 쓰지 않습니다.
+- 해설의 핵심 개념·공식과 어긋나지 않게 합니다. 확신할 수 없는 내용은 만들지 않습니다.
+- choice는 0입니다."""
+
+# 이미 보기 변형 OX가 있는 문항에 개념·키워드 OX를 더한다
+EXTRA = SYSTEM + """
+
+이번에는 보기를 바꾸지 않습니다. 이 문제가 묻는 핵심 개념과 키워드로 새 OX 문장을 2~3개 만듭니다.
+- 법 과목: 해설에 나온 조문·판례의 기간, 숫자, 주체, 요건, 효과, 예외, 비슷한 제도와의 차이를 진술합니다. 해설과 조문 인용에 없는 내용은 쓰지 않습니다.
+- 과학 과목: 문제를 푸는 데 쓰는 법칙·공식, 비례 관계, 단위, 정의, 흔한 착각을 진술합니다. 교과서 수준의 일반 사실만 씁니다.
+- 보기 문장을 거의 그대로 되풀이하지 않습니다. 시험장에서 바로 떠올려야 하는 키워드가 드러나게 짧게 씁니다.
+- O와 X를 섞습니다. choice는 0입니다."""
+
 SCHEMA = {
     "type": "object", "additionalProperties": False, "required": ["items"],
     "properties": {"items": {"type": "array", "items": {
@@ -63,11 +82,11 @@ def describe(q, ex):
             f"공식 정답: {', '.join(map(str, q['answer']))}번\n요약 해설: {ex['summary']}")
 
 
-def ask(prompt):
+def ask(prompt, system=SYSTEM):
     """구독으로 청구되도록 API 키와 프록시 주소를 뺀다(gen_explanations.py 와 같은 방식)."""
     env = {k: v for k, v in os.environ.items() if k not in ("ANTHROPIC_API_KEY", "ANTHROPIC_AUTH_TOKEN", "ANTHROPIC_BASE_URL")}
     cmd = ["claude", "-p", prompt, "--model", MODEL, "--effort", "medium", "--output-format", "json",
-           "--json-schema", json.dumps(SCHEMA, ensure_ascii=False), "--system-prompt", SYSTEM, "--tools", "",
+           "--json-schema", json.dumps(SCHEMA, ensure_ascii=False), "--system-prompt", system, "--tools", "",
            "--no-session-persistence", "--setting-sources", "", "--strict-mcp-config", "--disable-slash-commands"]
     done = subprocess.run(cmd, cwd=ROOT, env=env, capture_output=True, text=True, timeout=1800)
     lines = done.stdout.strip().splitlines()
@@ -78,13 +97,13 @@ def valid(s):
     return s["text"].strip() and s["note"].strip() and s["choice"] in range(6) and len(s["text"]) <= 600
 
 
-def work(batch, explanations):
+def work(batch, explanations, system=SYSTEM):
     if STOP.exists():
         return
     prompt = "\n\n".join(describe(q, explanations[q["id"]]) for q in batch)
     while True:
         started = time.time()
-        reply = ask(prompt)
+        reply = ask(prompt, system)
         if not reply.get("is_error"):
             break
         text = str(reply.get("result"))
@@ -99,7 +118,11 @@ def work(batch, explanations):
             print(f"{q['id']} 누락, 다음 실행에서 재시도", flush=True)
             continue
         items = [{"c": s["choice"], "text": s["text"].strip(), "o": s["answer"] == "O", "note": s["note"].strip()} for s in made[q["id"]] if valid(s)]
-        (OUT / f"{q['id']}.json").write_text(json.dumps(items, ensure_ascii=False))
+        path = OUT / f"{q['id']}.json"
+        if system is not SYSTEM:
+            # 개념 OX는 표시해 두고 기존 문장 뒤에 붙인다. 앱의 OX id(순번)가 바뀌지 않게 한다
+            items = [*(json.loads(path.read_text()) if path.exists() else []), *({**s, "c": 0, "kind": "concept"} for s in items)]
+        path.write_text(json.dumps(items, ensure_ascii=False))
 
 
 def main():
@@ -107,23 +130,39 @@ def main():
     parser.add_argument("--sample", type=int)
     parser.add_argument("--topic")
     parser.add_argument("--all", action="store_true")
+    parser.add_argument("--extra", type=int, nargs="?", const=0, help="모든 문항에 개념·키워드 OX를 더한다(숫자는 표본 수)")
+    parser.add_argument("--concept", type=int, nargs="?", const=0, help="빈 자연과학 문항을 개념 OX로 다시 만든다(숫자는 표본 수)")
     args = parser.parse_args()
     OUT.mkdir(exist_ok=True)
     questions = json.loads(QUESTIONS.read_text())
     explanations = {p.stem: json.loads(p.read_text()) for p in EXPLAIN.glob("*.json")}
     todo = [q for q in questions if q["id"] in explanations and not (OUT / f"{q['id']}.json").exists()]
-    if args.sample:
+    system = SYSTEM
+    if args.extra is not None:
+        system = EXTRA
+        has_concept = lambda items: any(s.get("kind") == "concept" for s in items)
+        todo = [q for q in questions if q["id"] in explanations and (OUT / f"{q['id']}.json").exists()
+                and (items := json.loads((OUT / f"{q['id']}.json").read_text())) and not has_concept(items)]
+        if args.extra:
+            todo = random.Random(9).sample(todo, args.extra)
+    elif args.concept is not None:
+        system = CONCEPT
+        todo = [q for q in questions if q["subject"] == "자연과학개론" and q["id"] in explanations
+                and (OUT / f"{q['id']}.json").exists() and not json.loads((OUT / f"{q['id']}.json").read_text())]
+        if args.concept:
+            todo = random.Random(5).sample(todo, args.concept)
+    elif args.sample:
         picker = random.Random(7)
         todo = [q for s in sorted({q["subject"] for q in todo}) for q in picker.sample([q for q in todo if q["subject"] == s], args.sample)]
     elif args.topic:
         todo = [q for q in todo if q["topic"] == args.topic]
     elif not args.all:
-        parser.error("--sample, --topic 또는 --all")
+        parser.error("--sample, --topic, --concept 또는 --all")
     todo.sort(key=lambda q: (q["subject"], q["id"]))
     batches = [todo[i:i + BATCH] for i in range(0, len(todo), BATCH)]
     print(f"{len(todo)}문항 {len(batches)}묶음", flush=True)
     with concurrent.futures.ThreadPoolExecutor(WORKERS) as pool:
-        for future in concurrent.futures.as_completed([pool.submit(work, b, explanations) for b in batches]):
+        for future in concurrent.futures.as_completed([pool.submit(work, b, explanations, system) for b in batches]):
             if future.exception():
                 print(f"묶음 실패: {future.exception()}", flush=True)
 

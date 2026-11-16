@@ -1,1 +1,1 @@
-[]
+[{"c": 0, "text": "캘빈 회로에서 Rubisco는 CO₂를 RuBP에 고정하는 반응을 촉매하며, RuBP는 CO₂ 수용체 역할을 합니다.", "o": true, "note": "맞는 진술입니다. RuBP는 Rubisco 반응에서 CO₂를 받아들이는 물질이고, CO₂가 고정되면 PGA가 생깁니다.", "kind": "concept"}, {"c": 0, "text": "빛이 계속 비치는 상태에서 CO₂ 공급만 끊기면 엽록체에서 RuBP는 줄어들고 PGA가 쌓입니다.", "o": false, "note": "방향을 거꾸로 쓴 진술입니다. CO₂가 끊기면 RuBP는 소비가 줄고 재생은 당분간 이어져 쌓입니다. 반대로 PGA는 생성이 제한되어 줄어듭니다.", "kind": "concept"}, {"c": 0, "text": "캘빈 회로의 환원 단계에서 생긴 PGAL(G3P) 일부는 RuBP를 재생하는 데 쓰입니다.", "o": true, "note": "맞는 진술입니다. PGAL은 환원 단계의 산물이고, 그 일부가 RuBP 재생에 쓰입니다.", "kind": "concept"}]

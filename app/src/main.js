@@ -227,7 +227,10 @@ const extraReview = () => {
 };
 
 function home(path = []) {
-	if (path[0] === "parts") return parts();
+	if (path[0] === "parts" || path[0] === "ox") {
+		partsMode = path[0] === "ox" ? "ox" : "q";
+		return parts();
+	}
 	ensureToday();
 	const day = today();
 	const ids = dayIds(state.days[day]);
@@ -235,28 +238,22 @@ function home(path = []) {
 	const done = ids.filter((id) => solved.has(id)).length;
 	const review = extraReview();
 	const finished = done === ids.length;
+	const tile = (cls, mark, title, attrs, sub = "") => `<${attrs ? (attrs.startsWith("href") ? "a" : "button") : "div"} class="bento-tile ${cls}" ${attrs}><span class="bento-mark" aria-hidden="true">${mark}</span>${attrs ? `<span class="bento-arrow">${icon("arrow")}</span>` : ""}<span class="bento-title">${title}${sub ? `<span>${sub}</span>` : ""}</span></${attrs ? (attrs.startsWith("href") ? "a" : "button") : "div"}>`;
 	shell("home", `<h1>오늘의 학습</h1>
-	<button class="home-ai" data-act="ai-free-open"><span class="home-ai-icon">${icon("note")}</span><span class="home-ai-copy"><strong>AI에게 질문하기</strong><span>막히는 문제는 사진으로, 궁금한 개념은 글로</span></span><span class="home-ai-arrow">${icon("arrow")}</span></button>
-	<div class="home">
+	<div class="home bento">
 		<section class="card hero">
 			<div class="row"><h2>오늘의 기출</h2><strong>${num(done)} / ${ids.length}</strong></div>
 			<div class="bar" role="progressbar" aria-valuemin="0" aria-valuemax="${ids.length}" aria-valuenow="${done}" aria-label="오늘 푼 문제"><i style="width:${(done / ids.length) * 100}%"></i></div>
-			<p class="small muted">${finished ? "오늘 배정된 문제를 모두 풀었어요." : `오늘 ${ids.length - done}문제 남았어요. 한 문제씩 정답과 해설을 확인해요.`}</p>
 			${finished ? `<p class="row" style="justify-content:flex-start">${drawMark()}오늘 문제 완료</p><button class="btn white" data-act="more"><span>추가 풀이</span>${icon("arrow")}</button>` : `<button class="btn white" data-act="daily"><span>${done ? "이어서 풀기" : "시작"}</span>${icon("arrow")}</button>`}
 		</section>
-		<section class="card">
-			<h2>학습 기록</h2>
-			<span class="badge">연속 ${num(streak(state, day), "일")}</span>
+		<section class="card bento-record">
+			<div class="row"><h2>학습 기록</h2><span class="badge">연속 ${num(streak(state, day), "일")}</span></div>
 			${weekDots(day)}
 		</section>
-		<section class="card wide">
-			${review.length
-				? `<button class="link" data-act="review"><span class="row" style="gap:16px">${icon("bookmark", "var(--accent)")}<span><h2>오답 랜덤 풀기</h2><span class="small muted">복습할 ${review.length}문제 중 최대 ${DAILY_SIZE}문제</span></span></span>${icon("arrow")}</button>`
-				: `<div class="row" style="justify-content:flex-start;gap:16px">${icon("bookmark", "var(--accent)")}<span><h2>오답 랜덤 풀기</h2><span class="muted">오답 없음</span></span></div>`}
-		</section>
-		<section class="card wide">
-			<a class="link" href="#home/parts"><span class="row" style="gap:16px">${icon("note", "var(--accent)")}<span><h2>파트별 풀기</h2><span class="small muted">과목 안 세부 파트 하나만 ${DAILY_SIZE}문제</span></span></span>${icon("arrow")}</a>
-		</section>
+		${tile("tint-blue", icon("note"), "AI 질문", 'data-act="ai-free-open"')}
+		${tile("tint-pink", icon("bookmark"), "오답 랜덤", review.length ? 'data-act="review"' : "", review.length ? "" : "오답 없음")}
+		${tile("tint-mint", icon("list"), "파트별 풀기", 'href="#home/parts"')}
+		${tile("tint-lilac", "OX", "OX 풀기", 'href="#home/ox"')}
 	</div>`);
 }
 
@@ -282,9 +279,7 @@ function parts() {
 	const ox = partsMode === "ox";
 	const oxSolved = new Set(state.ox.map((e) => e.id));
 	const due = ox ? oxDue().length : 0;
-	shell("home", `<div class="row" style="justify-content:flex-start"><a class="iconbtn" href="#home" aria-label="오늘의 학습으로 돌아가기">${icon("left")}</a><h1>파트별 풀기</h1></div>
-	<div class="notes-subjects parts-mode" role="group" aria-label="문제 형식 선택">${[["q", "기출 문제"], ["ox", "OX"]].map(([m, label]) => `<button class="notes-subject" data-act="parts-mode" data-mode="${m}" aria-pressed="${m === partsMode}">${label}</button>`).join("")}</div>
-	<p class="small muted">${ox ? `파트 선택 시 ${OX_SIZE}문장 · 기출 선지 변형 · 새 문장·틀린 문장 혼합 · 기출 통계와 별도` : `파트 선택 시 ${DAILY_SIZE}문제 · 새 문제·오답 혼합 · 연속 학습 기록과 무관`}</p>
+	shell("home", `<div class="row" style="justify-content:flex-start"><a class="iconbtn" href="#home" aria-label="오늘의 학습으로 돌아가기">${icon("left")}</a><h1>${ox ? "OX 풀기" : "파트별 풀기"}</h1></div>
 	${due ? `<button class="btn" data-act="ox-review">틀린 OX ${due}문장 복습 ${icon("arrow")}</button>` : ""}
 	<div class="notes-subjects" role="group" aria-label="과목 선택">${SUBJECTS.map((subject) => `<button class="notes-subject" data-act="notes-subject" data-subject="${subject}" aria-pressed="${subject === notesSubject}">${subject}</button>`).join("")}</div>
 	<section class="card notes-parts" aria-labelledby="parts-subject-heading">
@@ -398,7 +393,7 @@ function notes(path = []) {
 	}
 	shell("notes", `<h1>오답노트</h1>
 	<section class="card notes-summary" aria-labelledby="review-heading">
-		<div class="stack"><h2 id="review-heading">오늘 복습</h2><p class="notes-summary-copy">${review.length ? `풀어볼 문제가 <strong>${review.length}개</strong> 있어요.` : active.length ? "오늘 복습을 모두 마쳤어요." : "아직 등록된 오답이 없어요."}</p><p class="muted small">${active.length ? `전체 ${active.length}문제 · 오늘 수에는 밀린 복습도 포함돼요.` : "오답·애매함 문항이 자동으로 모여요."}</p></div>
+		<div class="stack"><h2 id="review-heading">오늘 복습</h2><p class="notes-summary-copy">${review.length ? `<strong>${review.length}문제</strong>` : active.length ? "복습 완료" : "오답 없음"}</p></div>
 		${review.length ? `<button class="btn" data-act="review-all">오늘 ${review.length}문제 복습 ${icon("arrow")}</button>` : ""}
 	</section>
 	<div class="notes-subjects" role="group" aria-label="오답노트 과목 선택">${SUBJECTS.map((subject) => `<button class="notes-subject" data-act="notes-subject" data-subject="${subject}" aria-pressed="${subject === notesSubject}">${subject}</button>`).join("")}</div>
@@ -439,7 +434,6 @@ function radarCard() {
 	return `<section class="card stats-chart" aria-labelledby="accuracy-title"><h2 id="accuracy-title" class="sr">과목별 정답률</h2>
 	<div class="stats-subjects" role="group" aria-label="정답률 과목 선택">${views.map((view, i) => `<button class="chip" data-act="radar-select" data-index="${i}" aria-pressed="${i === radarIndex}">${SHORT_SUBJECT[view.title] ?? view.title}</button>`).join("")}</div>
 	<button class="radar-card" id="radar-card" data-act="radar-next" aria-label="${views[radarIndex].title} 정답률, 다음 분류 보기"><span class="radar-face">${radarFace(views[radarIndex], radarIndex)}</span></button>
-	<p class="small muted">최근 7일 · 반복 풀이 포함 · 격자 한 칸은 약 33%</p>
 	<span class="sr" id="radar-status" role="status" aria-live="polite"></span></section>`;
 }
 
@@ -468,7 +462,7 @@ function recordDetail(day) {
 	${log.length ? `<p>풀이 ${summary.total}회 · 정답률 ${summary.rate}</p><div class="record-subjects">${SUBJECTS.map((subject) => {
 		const part = recordSummary(log.filter((entry) => byId.get(entry.id)?.subject === subject));
 		return `<div class="row"><span>${subject}</span><span class="muted small">${part.total}회 · ${part.rate}</span></div>`;
-	}).join("")}</div>` : '<p class="muted">이날은 학습 기록이 없어요.</p>'}</div>`;
+	}).join("")}</div>` : ""}</div>`;
 }
 
 function calendar() {
@@ -486,7 +480,6 @@ function calendar() {
 	});
 	return `<div class="calendar-content"><div class="row"><button class="iconbtn" data-act="month" data-delta="-1" aria-label="이전 달">${icon("left")}</button><h3>${y}년 ${m}월</h3><button class="iconbtn" data-act="month" data-delta="1" aria-label="다음 달">${icon("right")}</button></div>
 	<div class="calendar">${WEEKDAYS.map((w) => `<div class="muted">${w}</div>`).join("")}${"<div></div>".repeat(lead)}${cells.join("")}</div>
-	<p class="small muted">숫자는 풀이 횟수 · ✓ 오늘의 문제 완료</p>
 	<div id="record-detail">${recordDetail(selectedRecordDay)}</div></div>`;
 }
 
@@ -494,8 +487,10 @@ function statsPanel() {
 	if (statsView === "calendar") return `<section class="card stats-calendar" aria-labelledby="calendar-heading"><h2 id="calendar-heading" class="sr">학습 달력</h2><div id="calendar-body">${calendar()}</div></section>`;
 	const start = addDays(today(), -6);
 	const summary = recordSummary(state.log.filter((entry) => dayKey(entry.t) >= start && dayKey(entry.t) <= today()));
-	if (!summary.total) return `<div class="stats-empty"><p>최근 7일 학습 기록이 없어요. 문제를 풀면 정답률과 학습한 날이 쌓여요.</p><a class="chip" href="#home">오늘의 학습 시작</a></div>${radarCard()}`;
-	return `<div class="stats-summary" aria-label="최근 7일 학습 요약"><span class="summary-period">최근 7일 <span class="muted">${shortDay(start)}–${shortDay(today())}</span></span><div class="summary-inline"><span>풀이 <strong>${summary.total}회</strong></span><span>정답률 <strong>${summary.rate}</strong></span><span>학습한 날 <strong>${summary.days}일</strong></span></div></div>
+	const tile = (label, value, unit) => `<div class="stats-tile"><span>${label}</span><strong>${value}<small>${unit}</small></strong></div>`;
+	return `<section class="card stats-hero" aria-label="최근 7일 학습 요약"><div class="stats-period"><strong>최근 7일</strong><span>${shortDay(start)} – ${shortDay(today())}</span></div>
+	<div class="stats-tiles">${tile("풀이", summary.total, "회")}${tile("정답률", summary.total ? parseInt(summary.rate) : "–", summary.total ? "%" : "")}${tile("학습한 날", summary.days ?? 0, "일")}</div>
+	${summary.total ? "" : `<a class="btn" href="#home">오늘의 학습 시작 ${icon("arrow")}</a>`}</section>
 	${radarCard()}`;
 }
 
@@ -703,7 +698,9 @@ async function sendTutor(form, text, images) {
 }
 let freeChatMode = false;
 const chatState = () => freeChatMode ? freeChat : session;
-const chatQuestion = () => freeChatMode ? null : current();
+const chatQuestion = () => freeChatMode ? null : session?.mode === "ox" ? byId.get(oxById.get(session.ids[session.i])?.qid) : current();
+/* OX 는 문장마다 대화를 따로 둔다 */
+const chatKey = (q) => session?.mode === "ox" ? session.ids[session.i] : q.id;
 const chatElement = () => document.getElementById(freeChatMode ? "tutor-chat" : "ai-chat");
 function chatSourcesHtml(sources = []) {
  return sources.length ? `<details class="chat-sources"><summary>참고한 근거 <span>${sources.length}</span></summary>${sources.filter(s => /^https:\/\//.test(s.url)).map(s => `<a href="${esc(s.url)}" class="source-chip" data-n="${s.number}"${s.url.startsWith(`${location.origin}/#`) ? "" : ' target="_blank" rel="noopener noreferrer"'}>[${s.number}] ${esc(s.title)}</a>${s.collected ? `<span class="small muted">수집 ${esc(s.collected)}</span>` : ""}`).join("")}</details>` : "";
@@ -771,7 +768,7 @@ function openChat(free = false) {
 	if (!freeChatMode && dialog.open) { dialog.querySelector("textarea").focus({ preventScroll: true }); return; }
 	dialog.classList.toggle("free-chat", freeChatMode);
 	dialog.innerHTML = `${freeChatMode ? "" : `<div class="round-grab" aria-hidden="true"><span></span></div>`}
-	<header class="chat-header">${freeChatMode ? `<a class="iconbtn" href="#home" aria-label="홈으로 돌아가기">${icon("left")}</a>` : ""}<div>${freeChatMode ? `<h1 id="ai-chat-title">AI 질문</h1>` : `<h2 id="ai-chat-title" tabindex="-1" autofocus>AI 질문</h2>`}<p class="small muted">${q ? `${q.year}년 · ${esc(q.subject)} · ${q.number}번` : "궁금한 순간, 나희의 학습 도우미"}</p></div>${freeChatMode ? `<button class="iconbtn chat-list-toggle" data-act="chat-list-toggle" data-keep-open="true" aria-label="대화 목록" title="대화 목록">${icon("list")}</button><button class="iconbtn chat-new" data-act="chat-new" data-keep-open="true" aria-label="새 대화" title="새 대화">${icon("compose")}</button>` : ""}${freeChatMode ? "" : `<button class="iconbtn" data-act="dialog-close" aria-label="AI 질문 닫기">${icon("close")}</button>`}</header>
+	<header class="chat-header">${freeChatMode ? `<a class="iconbtn" href="#home" aria-label="홈으로 돌아가기">${icon("left")}</a>` : ""}<div>${freeChatMode ? `<h1 id="ai-chat-title">AI 질문</h1>` : `<h2 id="ai-chat-title" tabindex="-1" autofocus>AI 질문</h2>`}${q ? `<p class="small muted">${q.year}년 · ${esc(q.subject)} · ${q.number}번${session?.mode === "ox" ? " 변형 OX" : ""}</p>` : ""}</div>${freeChatMode ? `<button class="iconbtn chat-list-toggle" data-act="chat-list-toggle" data-keep-open="true" aria-label="대화 목록" title="대화 목록">${icon("list")}</button><button class="iconbtn chat-new" data-act="chat-new" data-keep-open="true" aria-label="새 대화" title="새 대화">${icon("compose")}</button>` : ""}${freeChatMode ? "" : `<button class="iconbtn" data-act="dialog-close" aria-label="AI 질문 닫기">${icon("close")}</button>`}</header>
 	${freeChatMode ? `<nav class="chat-list" aria-label="대화 목록">${chatListHtml()}</nav>` : ""}
 	<div class="chat-messages" role="log" aria-live="off" aria-label="문제에 대한 대화">${chatMessagesHtml(q, s)}</div>
 	<button class="chat-latest chip" data-act="chat-latest" data-keep-open="true" hidden>최신 답변 보기 ↓</button>
@@ -882,7 +879,7 @@ function finish() {
 		<h1>${esc(s.title)}</h1>
 		<p>정답 ${num(s.score)} / ${total}</p>
 		${s.mode === "mock" ? `<p><strong style="font-size:30px;line-height:45px">${num(percent, "점")}</strong></p><p class="muted small">오답 문항 복습 등록 완료</p>` : ""}
-		<p class="small muted">${s.mode === "ox" ? "틀린 OX는 파트별 풀기 OX 탭에서 복습할 수 있어요." : "틀리거나 애매했던 문제는 오답노트에서 복습할 수 있어요."}</p><button class="btn" data-act="leave">학습으로 돌아가기</button>
+		<p class="small muted">${s.mode === "ox" ? "틀린 OX는 홈의 OX 풀기에서 복습할 수 있어요." : "틀리거나 애매했던 문제는 오답노트에서 복습할 수 있어요."}</p><button class="btn" data-act="leave">학습으로 돌아가기</button>
 	</section></div>`;
 	scrollTo(0, 0);
 	countUp();
@@ -950,7 +947,8 @@ function oxSolve() {
 	const button = (v) => {
 		const right = (v === "o") === item.o;
 		const cls = !s.revealed ? "" : right ? "right" : picked === v ? "wrong" : "";
-		return `<button class="ox-btn ${cls}" data-act="ox-pick" data-v="${v}" aria-pressed="${picked === v}" ${s.revealed ? "disabled" : ""}>${v.toUpperCase()}</button>`;
+		const tag = !s.revealed ? "" : right ? "정답" : picked === v ? "내 선택" : "";
+		return `<button class="ox-btn ${cls}" data-act="ox-pick" data-v="${v}" aria-pressed="${picked === v}" ${s.revealed ? "disabled" : ""}>${v.toUpperCase()}${tag ? `<span class="ox-tag">${tag}</span>` : ""}</button>`;
 	};
 	app.innerHTML = `<div class="solve ${motion}">
 		<header>
@@ -958,10 +956,10 @@ function oxSolve() {
 			<div class="bar on-white" role="progressbar" aria-valuemin="0" aria-valuemax="${s.ids.length}" aria-valuenow="${s.i + 1}" aria-label="진행"><i style="width:${((s.i + 1) / s.ids.length) * 100}%"></i></div>
 		</header>
 		<section class="card q ox">
-			${q ? `<span class="tag">${q.year}년 · ${q.subject} · ${q.number}번 변형 · ${esc(q.topic)}</span>` : ""}
+			${q ? `<span class="tag">${q.year}년 · ${q.subject} · ${q.number}번 ${item.kind === "concept" ? "개념" : "변형"} · ${esc(q.topic)}</span>` : ""}
 			<p class="ox-text">${esc(item.text)}</p>
 			<div class="ox-choices" role="group" aria-label="O 또는 X 선택">${button("o")}${button("x")}</div>
-			${s.revealed ? `<div class="ox-note" role="status"><strong class="${(picked === "o") === item.o ? "ok" : "no"}">${(picked === "o") === item.o ? "정답" : "오답"} · 답 ${item.o ? "O" : "X"}</strong><p>${esc(item.note)}</p></div>` : ""}
+			${s.revealed ? `<div class="ox-note" role="status"><p>${esc(item.note)}</p><button class="btn quiet" data-act="ai-chat-open" aria-haspopup="dialog">AI 질문</button></div>` : ""}
 		</section>
 		<div class="dock">${s.revealed ? `<button class="btn" data-act="next">${s.i + 1 < s.ids.length ? "다음 문제" : "마치기"}</button>` : '<p class="small muted">O 또는 X 선택</p>'}</div>
 	</div>`;
@@ -1268,7 +1266,7 @@ const ACTIONS = {
 	"notes-subject"(d) {
 		if (!SUBJECTS.includes(d.subject) || d.subject === notesSubject) return;
 		notesSubject = d.subject;
-		(location.hash === "#home/parts" ? parts : notes)();
+		(location.hash.startsWith("#home/") ? parts : notes)();
 		document.querySelector(".notes-parts")?.classList.add("subject-enter");
 		document.querySelector('[data-act="notes-subject"][aria-pressed="true"]')?.focus({ preventScroll: true });
 	},
@@ -1276,10 +1274,6 @@ const ACTIONS = {
 		const ids = pickFrom(questions.filter((q) => q.subject === d.subject && q.topic === d.topic), progress(state.log), state.flags, DAILY_SIZE, today());
 		if (!ids.length) return toast("풀 문제가 없어요");
 		start("part", shuffle(ids), `${d.topic} 풀기`);
-	},
-	"parts-mode"(d) {
-		partsMode = d.mode === "ox" ? "ox" : "q";
-		parts();
 	},
 	async "ox-start"(d) {
 		const qids = questions.filter((q) => q.subject === d.subject && q.topic === d.topic).map((q) => q.id);
@@ -1301,7 +1295,8 @@ const ACTIONS = {
 		if (s?.mode !== "ox" || s.revealed) return;
 		const item = oxById.get(s.ids[s.i]);
 		const ok = (d.v === "o") === item.o;
-		Object.assign(s, { revealed: true, score: s.score + (ok ? 1 : 0), picks: { ...s.picks, [item.id]: d.v } });
+		const chat = read(`chat:${item.id}`, []);
+		Object.assign(s, { revealed: true, score: s.score + (ok ? 1 : 0), picks: { ...s.picks, [item.id]: d.v }, explain: item, chat, pastChat: chat.length > 0 });
 		state.ox.push({ t: Date.now(), id: item.id, ok });
 		save();
 		solve();
@@ -1536,7 +1531,10 @@ document.addEventListener("submit", async (e) => {
 	chatFollowBottom = true;
 	paintChat();
 	try {
-		const res = await post("/api/ask", { question: q, explanation: s.explain, messages: chat, order: s.orders.get(q.id), pick: s.picks[q.id] });
+		const key = chatKey(q);
+		const res = await post("/api/ask", s.mode === "ox"
+			? { question: q, ox: s.explain, messages: chat, pick: s.picks[key] }
+			: { question: q, explanation: s.explain, messages: chat, order: s.orders.get(q.id), pick: s.picks[q.id] });
 		const reader = res.body.pipeThrough(new TextDecoderStream()).getReader();
 		const refs = res.headers.get("x-tutor-sources");
 		const reply = { role: "assistant", content: "", ...(refs ? { sources: JSON.parse(decodeURIComponent(refs)) } : {}) };
@@ -1550,7 +1548,7 @@ document.addEventListener("submit", async (e) => {
 			if (shown()) paintChatReply(reply, replyIndex);
 		}
 		if (!reply.content) throw new Error("빈 답변");
-		write(`chat:${q.id}`, chat);
+		write(`chat:${key}`, chat);
 	} catch {
 		chat.length = before;
 		Object.assign(s, { askError: true, askDraft: text });
